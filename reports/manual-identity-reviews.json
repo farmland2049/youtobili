@@ -1,0 +1,41 @@
+{
+  "checked_at": "2026-11-04T14:30:39.518942+00:00",
+  "reviews": [
+    {
+      "id": "NNnIGh9g6fA",
+      "bvid": "BV1ASxK6sE3f",
+      "page": 1,
+      "cid": 43088021450,
+      "decision": "confirmed",
+      "reviewer": "Codex",
+      "evidence_type": "course identity cross-reference",
+      "reviewed_at": "2026-11-04T14:16:33.864011+00:00",
+      "evidence": "人工身份核验：BV简介明确为Robert Sapolsky于2010-03-29讲授的斯坦福Human Behavioral Biology开场第1讲，包含避免类别化思维的课程说明，与课程条目一致；WIPO引文把同一授课人、课程和日期明确绑定至原片NNnIGh9g6fA。BV P1与原片均3435秒，CID43088021450，无年份、集次、删减或跨原片分P冲突。依据：https://podcasts.apple.com/us/podcast/1-introduction-to-human-behavioral-biology-march-29-2010/id404310362?i=1000088961312 及 https://www.wipo.int/en/web/pct-system/texts/ispe/16_22_85 。此核验依赖课程身份资料与完整详情，未进行逐帧内容比对；Apple页面的3秒标注未用于时长核验。",
+      "sources": [
+        "https://podcasts.apple.com/us/podcast/1-introduction-to-human-behavioral-biology-march-29-2010/id404310362?i=1000088961312",
+        "https://www.wipo.int/en/web/pct-system/texts/ispe/16_22_85"
+      ],
+      "duration_s": 3435,
+      "original_duration_s": 3435,
+      "frame_by_frame_comparison": false
+    },
+    {
+      "id": "cIQ9IXSUzuM",
+      "bvid": "BV1JD4y1D7Jx",
+      "page": 1,
+      "cid": 213900229,
+      "decision": "confirmed",
+      "reviewer": "Codex",
+      "evidence_type": "canonical creator link chain",
+      "reviewed_at": "2026-11-04T14:25:41.755286+00:00",
+      "evidence": "人工来源链核验：BV简介明确源地址为https://xiph.org/video/vid2.shtml，该页面为Xiph的Digital Show & Tell第2部，内容为采样、量化、位深及抖动演示。原片频道FL Studio在2013-03-04官方博文https://www.image-line.com/fl-studio-news/digital-audio-explained说明转载该Xiph视频，页面嵌入链接为https://www.youtube.com/embed/cIQ9IXSUzuM?rel=0，明确绑定本库原片ID。已检查BV单P可用，P1及原片均1433秒、CID213900229，未发现身份、年份、集次或分P归属冲突。此确认来自原作者网址与原片频道的来源链，并非只凭标题或时长；未逐帧比对。",
+      "sources": [
+        "https://xiph.org/video/vid2.shtml",
+        "https://www.image-line.com/fl-studio-news/digital-audio-explained"
+      ],
+      "duration_s": 1433,
+      "original_duration_s": 1433,
+      "frame_by_frame_comparison": false
+    }
+  ]
+}
