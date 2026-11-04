@@ -1,0 +1,9 @@
+{
+  "name": "youtobili",
+  "private": true,
+  "scripts": {
+    "test": "python3 -m unittest discover -s tests -v",
+    "test:browser": "node tests/browser.cjs"
+  },
+  "devDependencies": {"playwright": "1.62.1"}
+}

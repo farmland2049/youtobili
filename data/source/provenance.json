@@ -1,0 +1,30 @@
+{
+  "fetched_at": "2026-11-04T06:47:35.099433+00:00",
+  "files": {
+    "manifest.json": {
+      "url": "https://hackertube.org/api/export",
+      "sha256": "19c5a7f5e91702aeda4d8ec7befde795caad2abd55fae8dc3645b011d77a8e4f",
+      "bytes": 567
+    },
+    "DATA.md": {
+      "url": "https://hackertube.org/download/DATA.md",
+      "sha256": "37d85dc79e5b393a3c743bb4c120dad49ebc61fbf04df8b5364b21e0ccd61f16",
+      "bytes": 13918
+    },
+    "videos.jsonl": {
+      "url": "https://hackertube.org/download/videos.jsonl",
+      "sha256": "4a63125d00076015eb04edf0eb65f9524410bb60f88c3b67d61e767a19389b1e",
+      "bytes": 8634516
+    },
+    "taxonomy.json": {
+      "url": "https://hackertube.org/download/taxonomy.json",
+      "sha256": "40de4c333ced8ecbbf6067d97ce5f3aa111d22ab45d34a229cf85b28c476f00c",
+      "bytes": 44479
+    },
+    "browse.json": {
+      "url": "https://hackertube.org/api/browse",
+      "sha256": "9ddc44240637839de6e83d8ff7cbeff48a6ef14a39b9ca16ddcc164a057ef7b6",
+      "bytes": 14044
+    }
+  }
+}

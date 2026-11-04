@@ -1,0 +1,23 @@
+{
+  "checked_at": "2026-11-04T07:03:00.184Z",
+  "status": "pass",
+  "originals": 52,
+  "scenarios": [
+    "desktop rendering",
+    "mobile rendering/no horizontal overflow",
+    "real cover HTTP load",
+    "Chinese taxonomy",
+    "search/empty result",
+    "legacy BV deep link",
+    "legacy localStorage migration",
+    "like/unlike",
+    "watch later",
+    "history",
+    "version switch",
+    "escape closes and removes iframe",
+    "theme",
+    "short duration fixture",
+    "shared BV different pages fixture"
+  ],
+  "page_errors": []
+}
