@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-04T08:22:25.642426+00:00",
+  "built_at": "2026-11-04T08:51:18.820523+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 150,
-    "confirmed": 93,
-    "coverage": 0.014409668422683607,
-    "processed_match_rate": 0.62
+    "processed": 209,
+    "confirmed": 112,
+    "coverage": 0.01735357917570499,
+    "processed_match_rate": 0.5358851674641149
   },
   "areas": [
     {
@@ -17,6 +17,11 @@
           "id": "programming-language-design",
           "name": "编程语言设计",
           "original_name": "Programming language design"
+        },
+        {
+          "id": "functional-programming",
+          "name": "函数式编程",
+          "original_name": "Functional programming"
         },
         {
           "id": "systems-programming-languages",
@@ -64,6 +69,16 @@
       "id": "systems-security",
       "name": "系统、网络与安全",
       "categories": [
+        {
+          "id": "operating-systems",
+          "name": "操作系统与内核",
+          "original_name": "Operating systems & kernels"
+        },
+        {
+          "id": "linux-open-source-os",
+          "name": "Linux与开源生态",
+          "original_name": "Linux & open-source ecosystems"
+        },
         {
           "id": "cloud-devops-sre",
           "name": "云、DevOps与可靠性",
@@ -119,6 +134,11 @@
           "id": "data-science-statistics",
           "name": "数据科学与统计",
           "original_name": "Data science & statistics"
+        },
+        {
+          "id": "data-visualization",
+          "name": "数据可视化与信息设计",
+          "original_name": "Data visualization & information design"
         }
       ]
     },
@@ -211,6 +231,22 @@
       ]
     },
     {
+      "id": "design-graphics-media",
+      "name": "设计、图形与视觉媒体",
+      "categories": [
+        {
+          "id": "ux-ui-design",
+          "name": "用户体验与界面设计",
+          "original_name": "UX & UI design"
+        },
+        {
+          "id": "computer-graphics-rendering",
+          "name": "计算机图形与渲染",
+          "original_name": "Computer graphics & rendering"
+        }
+      ]
+    },
+    {
       "id": "business-economics",
       "name": "商业、创业与经济",
       "categories": [
@@ -230,6 +266,11 @@
           "original_name": "Macroeconomics & financial crises"
         },
         {
+          "id": "labor-work-wealth",
+          "name": "劳动、工作与不平等",
+          "original_name": "Labor, work & inequality"
+        },
+        {
           "id": "business-economics-other",
           "name": "其他商业与经济",
           "original_name": "Business & economics (other)"
@@ -240,6 +281,11 @@
       "id": "politics-history-society",
       "name": "政治、历史与社会",
       "categories": [
+        {
+          "id": "us-politics",
+          "name": "美国政治与选举",
+          "original_name": "US politics & elections"
+        },
         {
           "id": "social-issues-culture",
           "name": "社会议题与文化",
@@ -260,6 +306,16 @@
           "id": "quantum-physics",
           "name": "量子物理",
           "original_name": "Quantum physics"
+        },
+        {
+          "id": "space-exploration",
+          "name": "太空探索与航天",
+          "original_name": "Space exploration & spaceflight"
+        },
+        {
+          "id": "everyday-physics-demos",
+          "name": "生活物理与科学演示",
+          "original_name": "Everyday physics & science demos"
         }
       ]
     },
@@ -283,6 +339,11 @@
           "original_name": "Mental health & neurodiversity"
         },
         {
+          "id": "consciousness-mind",
+          "name": "意识与认知",
+          "original_name": "Consciousness & cognition"
+        },
+        {
           "id": "biology-biotech",
           "name": "生物与生物技术",
           "original_name": "Biology & biotechnology"
@@ -291,6 +352,11 @@
           "id": "medicine-disease",
           "name": "医学与疾病",
           "original_name": "Medicine & infectious disease"
+        },
+        {
+          "id": "nutrition-diet",
+          "name": "营养与饮食科学",
+          "original_name": "Nutrition & diet science"
         }
       ]
     },
@@ -298,6 +364,11 @@
       "id": "engineering-making",
       "name": "工程、交通与制作",
       "categories": [
+        {
+          "id": "automotive-ev",
+          "name": "汽车、电动车与摩托车",
+          "original_name": "Cars, EVs & motorcycles"
+        },
         {
           "id": "transit-urbanism",
           "name": "轨道交通与城市规划",
@@ -307,6 +378,11 @@
           "id": "civil-engineering-construction",
           "name": "土木工程与建造",
           "original_name": "Civil engineering & construction"
+        },
+        {
+          "id": "mechanical-engineering",
+          "name": "机械与精密工程",
+          "original_name": "Mechanical & precision engineering"
         }
       ]
     },
@@ -323,6 +399,16 @@
           "id": "game-programming-engines",
           "name": "游戏编程与引擎",
           "original_name": "Game programming & engines"
+        },
+        {
+          "id": "indie-game-development",
+          "name": "独立游戏开发",
+          "original_name": "Indie game development"
+        },
+        {
+          "id": "speedrunning-glitches",
+          "name": "速通、漏洞与游戏修改",
+          "original_name": "Speedrunning, glitches & game hacking"
         },
         {
           "id": "chess-board-games",
@@ -487,6 +573,41 @@
       ]
     },
     {
+      "id": "DovunOxlY1k",
+      "title": "AT&T Archives: Similiarities of Wave Behavior (Bonus Edition)",
+      "author": "AT&T Tech Channel",
+      "source_url": "https://www.youtube.com/watch?v=DovunOxlY1k",
+      "summary": "A Bell Labs film in which Dr. J.N. Shive uses a mechanical wave machine to demonstrate reflection, standing waves, resonance and impedance matching. He includes some equations but relies mostly on real-world examples a layperson can follow.",
+      "why": "HN repeatedly calls it the clearest introduction to waves and transmission-line behavior, better than modern explainers.",
+      "score": 19.0,
+      "tags": [
+        "wave machine",
+        "standing waves",
+        "impedance matching",
+        "bell labs",
+        "signal reflection"
+      ],
+      "categories": [
+        "electronics-circuits",
+        "everyday-physics-demos",
+        "history-of-computing"
+      ],
+      "versions": [
+        {
+          "bvid": "BV19q4y127wt",
+          "page": 1,
+          "cid": 462421463,
+          "title": "直观理解电路-波动的相似性(AT&T Archives Similiarities of Wave Behavior)",
+          "up": "bili_50612407257",
+          "duration": 1683,
+          "kind": "original",
+          "views": 200,
+          "pic": "https://i1.hdslb.com/bfs/archive/9c502ae1bc1556202c7bf148741560c2b8e8cd80.jpg",
+          "checked_at": "2026-11-04T08:50:36.632856+00:00"
+        }
+      ]
+    },
+    {
       "id": "PHe0bXAIuk0",
       "title": "How The Economic Machine Works by Ray Dalio",
       "author": "Principles by Ray Dalio",
@@ -516,6 +637,42 @@
           "views": 6584,
           "pic": "https://i2.hdslb.com/bfs/archive/ce649e55770dde499d1c0875dcfb80436299827e.png",
           "checked_at": "2026-11-04T08:11:22.626243+00:00"
+        }
+      ]
+    },
+    {
+      "id": "8bZh5LMaSmE",
+      "title": "RailsConf 2014 - All the Little Things by Sandi Metz",
+      "author": "Confreaks",
+      "source_url": "https://www.youtube.com/watch?v=8bZh5LMaSmE",
+      "summary": "Sandi Metz takes an ugly section of conditional code and refactors it into a few simple objects, bridging object-oriented theory and practice. The talk includes her take on the Gilded Rose refactoring kata and the idea that duplication is cheaper than the wrong abstraction.",
+      "why": "HN treats it as a top-tier programming talk for learning refactoring and for the wrong-abstraction principle, recommended repeatedly over a decade.",
+      "score": 18.5,
+      "tags": [
+        "refactoring",
+        "sandi metz",
+        "wrong abstraction",
+        "gilded rose",
+        "ruby",
+        "object-oriented design"
+      ],
+      "categories": [
+        "software-architecture-design",
+        "scripting-languages",
+        "testing-debugging-tools"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1br4y1i79g",
+          "page": 1,
+          "cid": 549471786,
+          "title": "【搬运】所有的小事 RailsConf 2014 - All the Little Things by Sandi Metz",
+          "up": "加冰唔该",
+          "duration": 2327,
+          "kind": "original",
+          "views": 23,
+          "pic": "https://i1.hdslb.com/bfs/archive/077f5957287eaaea1292d9ad9490ed542410e69d.jpg",
+          "checked_at": "2026-11-04T08:34:12.451240+00:00"
         }
       ]
     },
@@ -555,6 +712,75 @@
       ]
     },
     {
+      "id": "yYAw79386WI",
+      "title": "Around The Corner - How Differential Steering Works (1937)",
+      "author": "US Auto Industry",
+      "source_url": "https://www.youtube.com/watch?v=yYAw79386WI",
+      "summary": "A 1937 GM-produced film explaining how the automobile differential lets wheels turn at different speeds around a corner. It uses clear animations and cutaway demonstrations to build the idea from first principles.",
+      "why": "Held up as a marvel of pedagogy and the best explanation of differentials, recommended again and again.",
+      "score": 18.5,
+      "tags": [
+        "differential",
+        "gears",
+        "vintage film",
+        "mechanisms",
+        "cars"
+      ],
+      "categories": [
+        "mechanical-engineering",
+        "automotive-ev"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1zQ4y1d7eC",
+          "page": 1,
+          "cid": 809292327,
+          "title": "【熟肉】1937年雪弗兰公司科普片 “差速器的原理”",
+          "up": "NikoMokele",
+          "duration": 575,
+          "kind": "sub_zh",
+          "views": 44712,
+          "pic": "https://i1.hdslb.com/bfs/archive/70d9a210f843e01642923966a1a9614f024e23a2.jpg",
+          "checked_at": "2026-11-04T08:35:49.806981+00:00"
+        }
+      ]
+    },
+    {
+      "id": "SxdOUGdseq4",
+      "title": "\"Simple Made Easy\" - Rich Hickey (2011)",
+      "author": "Strange Loop Conference",
+      "source_url": "https://www.youtube.com/watch?v=SxdOUGdseq4",
+      "summary": "Rich Hickey's Strange Loop 2011 keynote distinguishing 'simple' (not intertwined) from 'easy' (familiar or near at hand). It argues that software complexity comes from complecting things and that we should pick simple constructs.",
+      "why": "HN treats it as the canonical talk on software complexity, shared constantly and recommended to every programmer regardless of language.",
+      "score": 17.0,
+      "tags": [
+        "rich hickey",
+        "simplicity",
+        "complecting",
+        "clojure",
+        "software design",
+        "strange loop"
+      ],
+      "categories": [
+        "software-architecture-design",
+        "functional-programming"
+      ],
+      "versions": [
+        {
+          "bvid": "BV11jsczoEgx",
+          "page": 1,
+          "cid": 33201391250,
+          "title": "容易 ≠ 简单 (\"Simple Made Easy\") - Rich Hickey (2011) | Strange Loop Conferen",
+          "up": "一摩尔炸鸡翅",
+          "duration": 3699,
+          "kind": "original",
+          "views": 1296,
+          "pic": "https://i0.hdslb.com/bfs/archive/493e48a31cf23181efd1de9b912935438e418fe8.jpg",
+          "checked_at": "2026-11-04T08:37:36.024030+00:00"
+        }
+      ]
+    },
+    {
       "id": "vtIzMaLkCaM",
       "title": "LEADERSHIP LAB: The Craft of Writing Effectively",
       "author": "UChicago Social Sciences",
@@ -585,6 +811,52 @@
           "views": 12452,
           "pic": "https://i2.hdslb.com/bfs/archive/2e8ffd8e94523efec3ee3369eb710cc8f7a7292d.jpg",
           "checked_at": "2026-11-04T08:11:22.495906+00:00"
+        }
+      ]
+    },
+    {
+      "id": "8aGhZQkoFbQ",
+      "title": "What the heck is the event loop anyway? | Philip Roberts | JSConf EU",
+      "author": "JSConf",
+      "source_url": "https://www.youtube.com/watch?v=8aGhZQkoFbQ",
+      "summary": "Philip Roberts explains the JavaScript event loop, call stack, callbacks and asynchronous behavior with live visualizations using a tool he built. It demystifies terms like non-blocking and single-threaded.",
+      "why": "HN commenters repeatedly name it as the best explanation of the JS event loop and the first thing to watch before tackling async code.",
+      "score": 16.5,
+      "tags": [
+        "event loop",
+        "async javascript",
+        "call stack",
+        "callbacks",
+        "visualization"
+      ],
+      "categories": [
+        "web-development",
+        "scripting-languages"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1oV411k7XY",
+          "page": 1,
+          "cid": 190983189,
+          "title": "【中文字幕】Philip Roberts：到底什么是Event Loop呢？（JSConf EU 2014）",
+          "up": "CaserKaze",
+          "duration": 1613,
+          "kind": "sub_zh",
+          "views": 11031,
+          "pic": "https://i0.hdslb.com/bfs/archive/b8ec0d90b07e7707cd1771e1f41ec55db10b5d92.jpg",
+          "checked_at": "2026-11-04T08:39:05.808839+00:00"
+        },
+        {
+          "bvid": "BV1sgx2zpEF9",
+          "page": 1,
+          "cid": 32948815410,
+          "title": "💥 JavaScript 异步终极解析——Philip Roberts 带你一眼看穿 Event Loop！",
+          "up": "金州卢德曼",
+          "duration": 1613,
+          "kind": "original",
+          "views": 809,
+          "pic": "https://i2.hdslb.com/bfs/archive/8bdeca78578c27e1c9edddde4681e78841e23eb5.jpg",
+          "checked_at": "2026-11-04T08:39:08.439883+00:00"
         }
       ]
     },
@@ -643,6 +915,144 @@
           "views": 67,
           "pic": "https://i1.hdslb.com/bfs/archive/e09941cfd736774296362650fb3758648128955b.jpg",
           "checked_at": "2026-11-04T08:11:22.409016+00:00"
+        }
+      ]
+    },
+    {
+      "id": "5f9R9MtkpqM",
+      "title": "George Lakoff: Moral Politics",
+      "author": "University of California Television (UCTV)",
+      "source_url": "https://www.youtube.com/watch?v=5f9R9MtkpqM",
+      "summary": "Cognitive scientist George Lakoff lectures on how political debates are framed through language and metaphors tied to values, and on the moral worldviews behind progressive and conservative politics. It was given in 2005 at UC San Diego.",
+      "why": "HN commenters repeatedly say it changed how they hear political speech and recommend it for understanding why opponents are not simply stupid.",
+      "score": 16.0,
+      "tags": [
+        "george lakoff",
+        "framing",
+        "political language",
+        "metaphor",
+        "moral politics"
+      ],
+      "categories": [
+        "us-politics",
+        "language-linguistics",
+        "consciousness-mind"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Eb4y1S7Cd",
+          "page": 1,
+          "cid": 392359577,
+          "title": "道德政治； 自由派和保守派如何思考-乔治•莱考夫 (George Lakoff）",
+          "up": "马斯特的文学世界",
+          "duration": 3538,
+          "kind": "original",
+          "views": 563,
+          "pic": "https://i0.hdslb.com/bfs/archive/6a4648409d8f0f675ad0bc72664864eaea6f111e.jpg",
+          "checked_at": "2026-11-04T08:39:29.546516+00:00"
+        }
+      ]
+    },
+    {
+      "id": "o_AIw9bGogo",
+      "title": "The Tragedy of systemd",
+      "author": "linux.conf.au",
+      "source_url": "https://www.youtube.com/watch?v=o_AIw9bGogo",
+      "summary": "FreeBSD developer Benno Rice traces the history of init and bootstrap systems at linux.conf.au 2019 to explain why systemd was seen as necessary and why it provokes such strong reactions. He also discusses why change is scary.",
+      "why": "The most-recommended balanced take on systemd, from a BSD perspective, handed to anyone caught up in the systemd debate.",
+      "score": 16.0,
+      "tags": [
+        "systemd",
+        "init systems",
+        "freebsd",
+        "unix history",
+        "linux"
+      ],
+      "categories": [
+        "linux-open-source-os",
+        "operating-systems"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1oo4y1x7Nw",
+          "page": 1,
+          "cid": 1120795949,
+          "title": "【人肉精翻】systemd的悲剧",
+          "up": "账号已注销",
+          "duration": 2838,
+          "kind": "original",
+          "views": 44900,
+          "pic": "https://i0.hdslb.com/bfs/archive/270c578a3d284d65eb3f64073f747472a4749e87.jpg",
+          "checked_at": "2026-11-04T08:40:19.417791+00:00"
+        }
+      ]
+    },
+    {
+      "id": "AdNJ3fydeao",
+      "title": "Rich Harris - Rethinking reactivity",
+      "author": "You Gotta Love Frontend",
+      "source_url": "https://www.youtube.com/watch?v=AdNJ3fydeao",
+      "summary": "Svelte creator Rich Harris explains moving reactivity into the compiler and language rather than tracking state at runtime, with a history of spreadsheets as reactive systems and comparisons to React.",
+      "why": "The most recommended introduction to Svelte, credited with sparking its adoption.",
+      "score": 15.5,
+      "tags": [
+        "svelte",
+        "reactivity",
+        "compilers",
+        "react",
+        "rich harris",
+        "spreadsheets"
+      ],
+      "categories": [
+        "web-development",
+        "compilers-interpreters"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1344y1b7dn",
+          "page": 1,
+          "cid": 409136937,
+          "title": "[Svelte] Rich Harris - Rethinking reactivity | 重新思考\"响应式\" - Svelte框架作者演讲",
+          "up": "Ooo-Oooo-Ooooo",
+          "duration": 2205,
+          "kind": "original",
+          "views": 354,
+          "pic": "https://i1.hdslb.com/bfs/archive/75e73bc3c46866bbf570b4cb96ad01223449ca8e.jpg",
+          "checked_at": "2026-11-04T08:40:30.610109+00:00"
+        }
+      ]
+    },
+    {
+      "id": "kpk2tdsPh0A",
+      "title": "SM64 - Watch for Rolling Rocks - 0.5x A Presses (Commentated) [OUTDATED]",
+      "author": "pannenkoek2012",
+      "source_url": "https://www.youtube.com/watch?v=kpk2tdsPh0A",
+      "summary": "Pannenkoek2012's commentated tool-assisted Super Mario 64 run collecting the Watch for Rolling Rocks star with half an A press, using parallel universes and QPU movement. The video is marked outdated in favor of a newer version.",
+      "why": "Held up as a legendary deep dive into game internals, explained lucidly and with humor, and a gateway to the channel.",
+      "score": 15.5,
+      "tags": [
+        "super mario 64",
+        "speedrunning",
+        "tas",
+        "parallel universes",
+        "game internals",
+        "pannenkoek2012"
+      ],
+      "categories": [
+        "speedrunning-glitches"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1XA4y1f73c",
+          "page": 1,
+          "cid": 724789020,
+          "title": "Watch for Rolling Rocks in 0.5x A presses",
+          "up": "涓鎶婂崄鎵",
+          "duration": 1479,
+          "kind": "original",
+          "views": 538,
+          "pic": "https://i0.hdslb.com/bfs/archive/871a2a4c426456a8a3766d17fbaa16b9a10dd59f.jpg",
+          "checked_at": "2026-11-04T08:41:24.700137+00:00"
         }
       ]
     },
@@ -717,6 +1127,334 @@
       ]
     },
     {
+      "id": "jvPPXbo87ds",
+      "title": "The Continuity of Splines",
+      "author": "Freya Holmér",
+      "source_url": "https://www.youtube.com/watch?v=jvPPXbo87ds",
+      "summary": "Freya Holmer's 74-minute video essay on splines, covering Bezier curves, B-splines, derivatives and the different levels of continuity (C0, C1, C2), built with custom animation tools. She notes she did not cover non-uniform splines.",
+      "why": "It is the go-to recommendation for anyone who wants to genuinely understand Bezier curves and splines, and commenters repeatedly call it one of the best programming-related educational videos.",
+      "score": 15.0,
+      "tags": [
+        "bezier",
+        "b-splines",
+        "continuity",
+        "interpolation",
+        "computer graphics",
+        "math visualization"
+      ],
+      "categories": [
+        "computer-graphics-rendering",
+        "recreational-math"
+      ],
+      "versions": [
+        {
+          "bvid": "BV17nhYe4Esr",
+          "page": 1,
+          "cid": 500001613093313,
+          "title": "[ Freya Holmér]The Continuity of Splines（中英熟肉）",
+          "up": "Eyre_22",
+          "duration": 4430,
+          "kind": "sub_zh",
+          "views": 1420,
+          "pic": "https://i0.hdslb.com/bfs/archive/91c65ba6eddf593084a73e84c3a025e8b27c4102.jpg",
+          "checked_at": "2026-11-04T08:41:45.825840+00:00"
+        }
+      ]
+    },
+    {
+      "id": "dBnniua6-oM",
+      "title": "Sugar: THE BITTER TRUTH",
+      "author": "University of California Television (UCTV)",
+      "source_url": "https://www.youtube.com/watch?v=dBnniua6-oM",
+      "summary": "Robert Lustig of UCSF lectures on the biochemistry of sugar, arguing that fructose and lack of fiber drive the obesity epidemic via insulin. It is the widely viewed 90-minute talk that popularized the anti-sugar case.",
+      "why": "The most-linked YouTube video on HN, recommended as an in-depth explanation of fructose metabolism.",
+      "score": 14.5,
+      "tags": [
+        "robert lustig",
+        "fructose",
+        "obesity",
+        "insulin",
+        "nutrition",
+        "liver"
+      ],
+      "categories": [
+        "nutrition-diet",
+        "medicine-disease"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Bq4y1i7Ro",
+          "page": 1,
+          "cid": 546430300,
+          "title": "糖：苦涩的真相  2009年7月31日",
+          "up": "纯肉饮食和轻断食",
+          "duration": 5377,
+          "kind": "original",
+          "views": 907,
+          "pic": "https://i0.hdslb.com/bfs/archive/5b48c97ca30065f55b339da30a0d7c50644e7505.jpg",
+          "checked_at": "2026-11-04T08:42:35.559756+00:00"
+        }
+      ]
+    },
+    {
+      "id": "B1J2RMorJXM",
+      "title": "Light Years Ahead | The 1969 Apollo Guidance Computer",
+      "author": "TNMoC",
+      "source_url": "https://www.youtube.com/watch?v=B1J2RMorJXM",
+      "summary": "Robert Wills of TNMoC explains the Apollo Guidance Computer hardware and software, then walks through the Apollo 11 landing procedure step by step, including the 1202 alarms.",
+      "why": "HN calls it mandatory viewing on the AGC, praising the speaker's enthusiasm and the clear account of restartable, robust software design.",
+      "score": 14.0,
+      "tags": [
+        "apollo 11",
+        "agc",
+        "1202 alarm",
+        "spaceflight software",
+        "computer history"
+      ],
+      "categories": [
+        "history-of-computing",
+        "space-exploration",
+        "computer-architecture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV18p4y147Qw",
+          "page": 1,
+          "cid": 333853563,
+          "title": "光年超前——1969年阿波罗登月球导航计算机",
+          "up": "老歪直達車",
+          "duration": 4882,
+          "kind": "original",
+          "views": 147,
+          "pic": "https://i1.hdslb.com/bfs/archive/807a68ae1cf9d60804f7a0d484931994ccaa5946.jpg",
+          "checked_at": "2026-11-04T08:43:03.872215+00:00"
+        }
+      ]
+    },
+    {
+      "id": "Fy0aCDmgnxg",
+      "title": "Juice it or lose it - a talk by Martin Jonasson & Petri Purho",
+      "author": "grapefrukt",
+      "source_url": "https://www.youtube.com/watch?v=Fy0aCDmgnxg",
+      "summary": "Martin Jonasson and Petri Purho take a bland Breakout clone and add layer after layer of 'juice' such as easing, particles, screen shake and sound until it feels alive. A live demo makes the effect of small feedback details obvious.",
+      "why": "The go-to recommendation on game feel and polish, cited by HN as one of the best talks for anyone making interactive things feel good.",
+      "score": 14.0,
+      "tags": [
+        "juice",
+        "game feel",
+        "polish",
+        "game design",
+        "breakout",
+        "ux"
+      ],
+      "categories": [
+        "game-design",
+        "indie-game-development"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1kE3d6oE3z",
+          "page": 1,
+          "cid": 40538735900,
+          "title": "【熟肉|人工精翻|GDC演讲：Juice It Or Lose It 】动效设计如何使游戏更Juice",
+          "up": "EmberAmber",
+          "duration": 938,
+          "kind": "sub_zh",
+          "views": 437,
+          "pic": "https://i2.hdslb.com/bfs/archive/e31aaaafa3fe73fa248e4a5a4c56d61cb9092da7.jpg",
+          "checked_at": "2026-11-04T08:43:45.376541+00:00"
+        },
+        {
+          "bvid": "BV1ps411H7YC",
+          "page": 1,
+          "cid": 45923175,
+          "title": "【游戏性设计】[英字]让你的游戏看起来更具有游戏性的几个技巧( Juice it or lose it )",
+          "up": "Sadi223",
+          "duration": 938,
+          "kind": "original",
+          "views": 3182,
+          "pic": "https://i1.hdslb.com/bfs/archive/6f28fe2a5c394fbb92fae6ae82688318863251fd.jpg",
+          "checked_at": "2026-11-04T08:43:44.015155+00:00"
+        },
+        {
+          "bvid": "BV1by4y1d7nT",
+          "page": 1,
+          "cid": 980104529,
+          "title": "Juice it or lose it - a talk by Martin Jonasson & Petri Purho",
+          "up": "samurai54",
+          "duration": 938,
+          "kind": "original",
+          "views": 666,
+          "pic": "https://i0.hdslb.com/bfs/archive/dc0129a79b0867f750809978a910d582d6b05371.jpg",
+          "checked_at": "2026-11-04T08:43:46.643991+00:00"
+        }
+      ]
+    },
+    {
+      "id": "HxaD_trXwRE",
+      "title": "Lexical Scanning in Go - Rob Pike",
+      "author": "GoogleFOSSSydney",
+      "source_url": "https://www.youtube.com/watch?v=HxaD_trXwRE",
+      "summary": "Rob Pike shows how the Go text/template lexer is built, using state functions, goroutines and channels. The talk was given at a Google Technology User Group in Sydney in 2011.",
+      "why": "HN returns to it for years as an elegant introduction to writing a lexer that is easy to follow even without a parsing background.",
+      "score": 14.0,
+      "tags": [
+        "go",
+        "lexer",
+        "rob pike",
+        "state machines",
+        "concurrency",
+        "parsing"
+      ],
+      "categories": [
+        "compilers-interpreters",
+        "systems-programming-languages"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1da411r7FK",
+          "page": 1,
+          "cid": 461751078,
+          "title": "Lexical Scanning In Go",
+          "up": "f5oC1ety",
+          "duration": 3078,
+          "kind": "original",
+          "views": 35,
+          "pic": "https://i1.hdslb.com/bfs/archive/c5a57884256dea6a0888721281bb3d4bd928adcd.jpg",
+          "checked_at": "2026-11-04T08:43:55.334043+00:00"
+        }
+      ]
+    },
+    {
+      "id": "LnzuMJLZRdU",
+      "title": "“Hello, world” from scratch on a 6502 — Part 1",
+      "author": "Ben Eater",
+      "source_url": "https://www.youtube.com/watch?v=LnzuMJLZRdU",
+      "summary": "Ben Eater starts a series building a working computer on breadboards around the 6502 microprocessor. In this first part he gets a 'hello world' running from scratch.",
+      "why": "HN repeatedly recommends it as the best hands-on way to understand how a CPU and a computer work from first principles.",
+      "score": 14.0,
+      "tags": [
+        "6502",
+        "breadboard computer",
+        "digital electronics",
+        "assembly",
+        "ben eater"
+      ],
+      "categories": [
+        "electronics-circuits",
+        "computer-architecture",
+        "embedded-diy-electronics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ZE411d72s",
+          "page": 1,
+          "cid": 123401117,
+          "title": "【双语】如何使用后一块6502芯片打印出“hello world”-6502_Part_1",
+          "up": "蛋白吱吱",
+          "duration": 1645,
+          "kind": "sub_zh",
+          "views": 14879,
+          "pic": "https://i2.hdslb.com/bfs/archive/d1d154019fb66992a625818f0365a91d832ea8f8.jpg",
+          "checked_at": "2026-11-04T08:44:10.414344+00:00"
+        }
+      ]
+    },
+    {
+      "id": "7Pq-S557XQU",
+      "title": "What Happened to Horses Is Happening to Us",
+      "author": "CGP Grey",
+      "source_url": "https://www.youtube.com/watch?v=7Pq-S557XQU",
+      "summary": "CGP Grey's video \"Humans Need Not Apply\" argues that automation will make a large part of the workforce economically obsolete, much as engines did for horses. It surveys robots and software replacing both physical and mental labor.",
+      "why": "HN has recommended it for a decade as the standard explainer on automation and unemployment, though skeptics later cite it as an example of overconfident predictions.",
+      "score": 13.5,
+      "tags": [
+        "automation",
+        "jobs",
+        "ai",
+        "economics",
+        "robotics"
+      ],
+      "categories": [
+        "labor-work-wealth",
+        "ai-safety-impact",
+        "robotics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Xt411p74k",
+          "page": 1,
+          "cid": 71040301,
+          "title": "工作是人干的？不存在的！Humans Need Not Apply",
+          "up": "truthseeker1",
+          "duration": 901,
+          "kind": "original",
+          "views": 351,
+          "pic": "https://i0.hdslb.com/bfs/archive/a2061c2b22c81bebe166835f69f7cf1fa1280b50.jpg",
+          "checked_at": "2026-11-04T08:45:21.516350+00:00"
+        }
+      ]
+    },
+    {
+      "id": "PUv66718DII",
+      "title": "Bret Victor - Inventing on Principle",
+      "author": "Rui Oliveira",
+      "source_url": "https://www.youtube.com/watch?v=PUv66718DII",
+      "summary": "Bret Victor's talk at CUSEC 2012 in which he argues that creators need immediate feedback and should organize their work around a guiding principle. He demonstrates live-coding and animation tools that show results as you type, and describes his own principle that creators must see what they are making.",
+      "why": "It is HN's go-to recommendation for the case that programming environments should give instant feedback, and it appears in nearly every thread on live coding, visual programming or developer tools.",
+      "score": 13.5,
+      "tags": [
+        "bret victor",
+        "live coding",
+        "developer tools",
+        "interaction design",
+        "visual programming"
+      ],
+      "categories": [
+        "gui-hci-history",
+        "testing-debugging-tools",
+        "ux-ui-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Vj411f7Cx",
+          "page": 1,
+          "cid": 155342460,
+          "title": "发明的准则 Bret Victor - Inventing on Principle",
+          "up": "y_shen86",
+          "duration": 3260,
+          "kind": "original",
+          "views": 1483,
+          "pic": "https://i2.hdslb.com/bfs/archive/5146602985e5eb65950ef040bc1e77782b6ac93e.jpg",
+          "checked_at": "2026-11-04T08:45:47.566923+00:00"
+        },
+        {
+          "bvid": "BV13fzeBEEBK",
+          "page": 1,
+          "cid": 35626615824,
+          "title": "最伟大的界面设计演讲之一，送给AI时代迷茫的设计师 Bret Victor - Inventing on Principle",
+          "up": "WiliamZ",
+          "duration": 3260,
+          "kind": "original",
+          "views": 174,
+          "pic": "https://i0.hdslb.com/bfs/archive/9c3f55c97c68634e5594d6ed823b1fcb72f6733f.jpg",
+          "checked_at": "2026-11-04T08:45:48.818386+00:00"
+        },
+        {
+          "bvid": "BV1j58FebELq",
+          "page": 1,
+          "cid": 500001620374981,
+          "title": "Bret Victor - 根据原则去发明 Inventing on Principle",
+          "up": "临时普通土豆",
+          "duration": 3260,
+          "kind": "original",
+          "views": 97,
+          "pic": "https://i1.hdslb.com/bfs/archive/521c9f235fe16be20335d5565c7d7459e4ebbf8a.jpg",
+          "checked_at": "2026-11-04T08:45:50.015674+00:00"
+        }
+      ]
+    },
+    {
       "id": "8pTEmbeENF4",
       "title": "Bret Victor   The Future of Programming",
       "author": "Joey Reid",
@@ -748,6 +1486,75 @@
           "views": 518,
           "pic": "https://i0.hdslb.com/bfs/archive/bb43034249871eeee5da8e35743857d440542a16.jpg",
           "checked_at": "2026-11-04T08:11:22.617089+00:00"
+        }
+      ]
+    },
+    {
+      "id": "AJdEqssNZ-U",
+      "title": "Jan Willem Nijman - Vlambeer - \"The art of screenshake\" at INDIGO Classes 2013",
+      "author": "Dutch Game Garden",
+      "source_url": "https://www.youtube.com/watch?v=AJdEqssNZ-U",
+      "summary": "Vlambeer's Jan Willem Nijman shows how to make an action game feel great by stacking small effects like screenshake, recoil and particles onto a basic shooter. It was presented at INDIGO Classes 2013.",
+      "why": "A perennial recommendation for anyone learning game feel and juice, praised for showing concrete steps that turn a bland prototype into a satisfying game.",
+      "score": 13.0,
+      "tags": [
+        "screenshake",
+        "juice",
+        "vlambeer",
+        "game polish",
+        "indie games"
+      ],
+      "categories": [
+        "game-design",
+        "indie-game-development"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1rAAMe9E7f",
+          "page": 1,
+          "cid": 28413133749,
+          "title": "Jan Willem Nijman - Vlambeer - _The art of screenshake_ at INDIGO Classes 2013",
+          "up": "rbabityx",
+          "duration": 2650,
+          "kind": "original",
+          "views": 207,
+          "pic": "https://i2.hdslb.com/bfs/archive/5778351482a86c77f6a813186a01ea9e15fa1c43.jpg",
+          "checked_at": "2026-11-04T08:47:49.216054+00:00"
+        }
+      ]
+    },
+    {
+      "id": "FACK2knC08E",
+      "title": "DON'T PANIC — Hans Rosling showing the facts about population",
+      "author": "Gapminder Foundation",
+      "source_url": "https://www.youtube.com/watch?v=FACK2knC08E",
+      "summary": "Hans Rosling uses data and animated statistics to show how world population is changing, why birth rates fall as child survival and wealth rise, and why population is expected to peak around 11 billion. It also tackles common misconceptions about Africa and family planning.",
+      "why": "HN repeatedly recommends it to counter overpopulation alarm with data on falling birth rates.",
+      "score": 13.0,
+      "tags": [
+        "hans rosling",
+        "birth rates",
+        "demography",
+        "gapminder",
+        "statistics"
+      ],
+      "categories": [
+        "data-visualization",
+        "social-issues-culture",
+        "data-science-statistics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1aK4y1Y7VN",
+          "page": 1,
+          "cid": 227679217,
+          "title": "DON'T PANIC —世界人口学的真相-Hans Rosling（熟肉）",
+          "up": "小沅老师降临",
+          "duration": 3531,
+          "kind": "sub_zh",
+          "views": 8759,
+          "pic": "https://i1.hdslb.com/bfs/archive/554820d41fe41af89f7193bd7c094aa09efe2dcf.jpg",
+          "checked_at": "2026-11-04T08:48:00.376094+00:00"
         }
       ]
     },
@@ -3894,6 +4701,608 @@
     "BV1G7411d7rQ": "dXdoim96v5A",
     "BV1WK411N7kz": "X8jsijhllIA",
     "BV1peSuBRE9Q": "EmKQsSDlaa4",
-    "BV1zZ4y1k7Jw": "v68zYyaEmEA"
+    "BV1zZ4y1k7Jw": "v68zYyaEmEA",
+    "BV11x411t7Yi": "aMcJ1Jvtef0",
+    "BV1ez421r7iz": "aMcJ1Jvtef0",
+    "BV1rm411B7vZ": "aMcJ1Jvtef0",
+    "BV1XynB6EEd4": "aMcJ1Jvtef0",
+    "BV1jRDMBLEhs": "aMcJ1Jvtef0",
+    "BV1PUDZBYEqR": "aMcJ1Jvtef0",
+    "BV1yb4y1v7Pe": "aMcJ1Jvtef0",
+    "BV1fP4y177GR": "aMcJ1Jvtef0",
+    "BV1uhnj6UE7S": "aMcJ1Jvtef0",
+    "BV1hH4y1g7cK": "aMcJ1Jvtef0",
+    "BV1qgpL6cEmm": "aMcJ1Jvtef0",
+    "BV1FDxS6kETT": "aMcJ1Jvtef0",
+    "BV1Uq4y1Y772": "aMcJ1Jvtef0",
+    "BV12xxX6xE3U": "aMcJ1Jvtef0",
+    "BV1Ds4y1T7so": "aMcJ1Jvtef0",
+    "BV18jndzrEUt": "aMcJ1Jvtef0",
+    "BV19U4y1C7bx": "aMcJ1Jvtef0",
+    "BV1fk4y1V7iQ": "aMcJ1Jvtef0",
+    "BV1Ui4y1L76P": "aMcJ1Jvtef0",
+    "BV1Mh411m79a": "aMcJ1Jvtef0",
+    "BV19e4y1e7xV": "qCGofLIzX6g",
+    "BV1wr5T6bEN4": "qCGofLIzX6g",
+    "BV1G7411b7zW": "qCGofLIzX6g",
+    "BV1Qy4y1h7mZ": "qCGofLIzX6g",
+    "BV1p34y1r7HZ": "qCGofLIzX6g",
+    "BV1uK411s7QM": "qCGofLIzX6g",
+    "BV1xdcUzAE7V": "qCGofLIzX6g",
+    "BV1tY411P7Rj": "qCGofLIzX6g",
+    "BV14V411c7vs": "qCGofLIzX6g",
+    "BV1rf4y1B7EM": "qCGofLIzX6g",
+    "BV1AsQTYhEra": "qCGofLIzX6g",
+    "BV1st4y1a7pu": "qCGofLIzX6g",
+    "BV1BF411e7Q5": "qCGofLIzX6g",
+    "BV13g4y1N7nP": "qCGofLIzX6g",
+    "BV1ST4y1f7S6": "qCGofLIzX6g",
+    "BV1ax4y1D7pj": "qCGofLIzX6g",
+    "BV1Y34y1u7nX": "qCGofLIzX6g",
+    "BV1ha4y1M7W5": "qCGofLIzX6g",
+    "BV12i4y1C7MH": "qCGofLIzX6g",
+    "BV1n5411m7HW": "DovunOxlY1k",
+    "BV1M3AJztE7r": "DovunOxlY1k",
+    "BV1Sppm6GESb": "DovunOxlY1k",
+    "BV1x3XMBaEEG": "DovunOxlY1k",
+    "BV15kxt6BE45": "DovunOxlY1k",
+    "BV1Nixm65EjZ": "DovunOxlY1k",
+    "BV1C3411a7nK": "DovunOxlY1k",
+    "BV16Q4G6gEgN": "DovunOxlY1k",
+    "BV1pmg3zjE8L": "DovunOxlY1k",
+    "BV1ze411P78M": "DovunOxlY1k",
+    "BV1nw411T7dh": "DovunOxlY1k",
+    "BV1aW4y1m7B8": "DovunOxlY1k",
+    "BV11uQWY1EhP": "DovunOxlY1k",
+    "BV1jy411Y73Q": "DovunOxlY1k",
+    "BV1oi19B4EPf": "DovunOxlY1k",
+    "BV1fCeJ65Ed3": "DovunOxlY1k",
+    "BV1h5411h7Az": "DovunOxlY1k",
+    "BV19q4y127wt": "DovunOxlY1k",
+    "BV1r7ur65E9K": "DovunOxlY1k",
+    "BV1T2H76HEEQ": "DovunOxlY1k",
+    "BV1n5411M7QY": "JTfhYyTuT44",
+    "BV1aJ411c79J": "JTfhYyTuT44",
+    "BV1ch41117jk": "JTfhYyTuT44",
+    "BV1wb4y187MY": "JTfhYyTuT44",
+    "BV1LE411B7kn": "JTfhYyTuT44",
+    "BV1rv4y1N7yw": "JTfhYyTuT44",
+    "BV11o4y1B7Su": "JTfhYyTuT44",
+    "BV163LQ6DE3E": "JTfhYyTuT44",
+    "BV1R2hpeZEVw": "JTfhYyTuT44",
+    "BV1JUK26mE1b": "JTfhYyTuT44",
+    "BV1ox411G7ZN": "JTfhYyTuT44",
+    "BV17X4y1T7FK": "JTfhYyTuT44",
+    "BV1sw411B7hY": "JTfhYyTuT44",
+    "BV1C64y1M7j3": "JTfhYyTuT44",
+    "BV1rT4y1y7Yg": "JTfhYyTuT44",
+    "BV1CggPztENs": "JTfhYyTuT44",
+    "BV1Ts41187ik": "JTfhYyTuT44",
+    "BV1Py1FBpEnG": "JTfhYyTuT44",
+    "BV1vt411m7cw": "JTfhYyTuT44",
+    "BV1nN411Y7qW": "8bZh5LMaSmE",
+    "BV1sT4y167Qm": "8bZh5LMaSmE",
+    "BV1Xs411d74X": "8bZh5LMaSmE",
+    "BV1Kg411D7Wc": "8bZh5LMaSmE",
+    "BV1br4y1i79g": "8bZh5LMaSmE",
+    "BV13N4y1o7Ay": "8bZh5LMaSmE",
+    "BV1K24y1w7hX": "8bZh5LMaSmE",
+    "BV1V24y1i7uo": "8bZh5LMaSmE",
+    "BV1gP4y1Y7N7": "8bZh5LMaSmE",
+    "BV1b4411C7c5": "yYAw79386WI",
+    "BV13df3Y3EKY": "yYAw79386WI",
+    "BV1ai4y1y7Bi": "yYAw79386WI",
+    "BV1zQ4y1d7eC": "yYAw79386WI",
+    "BV1bQ4y1y7Pa": "yYAw79386WI",
+    "BV1sA4m137m6": "yYAw79386WI",
+    "BV1B54y1w7Bx": "yYAw79386WI",
+    "BV1e54y137qm": "yYAw79386WI",
+    "BV144421Q7wS": "yYAw79386WI",
+    "BV1Ed4y1975K": "yYAw79386WI",
+    "BV1Ai4eehE64": "JvBT4XBdoUE",
+    "BV1MV411c785": "JvBT4XBdoUE",
+    "BV1yD4y1X7J1": "JvBT4XBdoUE",
+    "BV1Ct421P7nJ": "JvBT4XBdoUE",
+    "BV1FN4y1A7W7": "JvBT4XBdoUE",
+    "BV1DE42137eW": "JvBT4XBdoUE",
+    "BV1v6sgzAEMc": "JvBT4XBdoUE",
+    "BV1gwHh6fEd4": "JvBT4XBdoUE",
+    "BV1kDA1zdEuo": "JvBT4XBdoUE",
+    "BV1oMyHBaEio": "JvBT4XBdoUE",
+    "BV15Q4y1T7BB": "SCAGc-rkIfo",
+    "BV1uK41157hS": "SCAGc-rkIfo",
+    "BV1SofkBnEGn": "SCAGc-rkIfo",
+    "BV12L41147Ho": "SCAGc-rkIfo",
+    "BV1EK41167yg": "SCAGc-rkIfo",
+    "BV1E3xm6hE7L": "SCAGc-rkIfo",
+    "BV1dP4V6wEaZ": "SCAGc-rkIfo",
+    "BV1PX4y1H7fR": "SCAGc-rkIfo",
+    "BV1AJ411s7su": "SCAGc-rkIfo",
+    "BV11jsczoEgx": "SxdOUGdseq4",
+    "BV1tb4y1Y7Wg": "SxdOUGdseq4",
+    "BV1Sb4y1j74b": "SxdOUGdseq4",
+    "BV1dx411H7Gk": "SxdOUGdseq4",
+    "BV1J54y1A7PL": "SxdOUGdseq4",
+    "BV1is411s7UD": "SxdOUGdseq4",
+    "BV11o5vzwE2G": "SxdOUGdseq4",
+    "BV13V41127Pv": "SxdOUGdseq4",
+    "BV1z4411n7qh": "SxdOUGdseq4",
+    "BV1eNkjBGE4F": "dEaecUuEqfc",
+    "BV1qAEX6dErq": "dEaecUuEqfc",
+    "BV1Nv411B7tM": "dEaecUuEqfc",
+    "BV1ZjS4BFEdy": "dEaecUuEqfc",
+    "BV1mTCqBsEwC": "dEaecUuEqfc",
+    "BV1HBUVYNEgQ": "dEaecUuEqfc",
+    "BV13p4y1a7VG": "dEaecUuEqfc",
+    "BV1Cx8C6uE56": "dEaecUuEqfc",
+    "BV1wM4G66EhY": "dEaecUuEqfc",
+    "BV1PK4y1d743": "dEaecUuEqfc",
+    "BV13o4y1K7St": "rStL7niR7gs",
+    "BV1BZY66hE2m": "rStL7niR7gs",
+    "BV1AeMC6EEPx": "rStL7niR7gs",
+    "BV1U4KY6sE4M": "rStL7niR7gs",
+    "BV1vM41147YC": "rStL7niR7gs",
+    "BV1hJ411b7Wb": "rStL7niR7gs",
+    "BV1HK411R7vf": "rStL7niR7gs",
+    "BV19yxD6vE1L": "rStL7niR7gs",
+    "BV1vgKh6bExr": "rStL7niR7gs",
+    "BV1aZ421h7ge": "rStL7niR7gs",
+    "BV1oV411k7XY": "8aGhZQkoFbQ",
+    "BV1nx411L7aA": "8aGhZQkoFbQ",
+    "BV1cb4y117ns": "8aGhZQkoFbQ",
+    "BV17h411y7Zi": "8aGhZQkoFbQ",
+    "BV1sgx2zpEF9": "8aGhZQkoFbQ",
+    "BV1j14y1j7us": "8aGhZQkoFbQ",
+    "BV13A4y1Q7N5": "8aGhZQkoFbQ",
+    "BV1fSpJzFEjy": "8aGhZQkoFbQ",
+    "BV1Adno69Epe": "8aGhZQkoFbQ",
+    "BV17t421b76H": "8aGhZQkoFbQ",
+    "BV1Mp9wB9EXY": "xAoljeRJ3lU",
+    "BV1cp4y1b7Ys": "xAoljeRJ3lU",
+    "BV1N94y1X7AM": "xAoljeRJ3lU",
+    "BV1Hp9NBHEiD": "xAoljeRJ3lU",
+    "BV1VvcxzEEu4": "xAoljeRJ3lU",
+    "BV1Vm4y1E7HC": "xAoljeRJ3lU",
+    "BV1Ck4y1r7qQ": "xAoljeRJ3lU",
+    "BV1wt4y137qj": "xAoljeRJ3lU",
+    "BV18X4y1T76V": "xAoljeRJ3lU",
+    "BV14FqUBMEMv": "5f9R9MtkpqM",
+    "BV1m54y1M7X9": "5f9R9MtkpqM",
+    "BV13g4y1t7g1": "5f9R9MtkpqM",
+    "BV1qN4y1s7qt": "5f9R9MtkpqM",
+    "BV1D64y1j7G4": "5f9R9MtkpqM",
+    "BV1uTxq6WE2R": "5f9R9MtkpqM",
+    "BV1n84y1Z7oR": "5f9R9MtkpqM",
+    "BV1KKxY6BEPt": "5f9R9MtkpqM",
+    "BV1Eb4y1S7Cd": "5f9R9MtkpqM",
+    "BV1wK4y1X74G": "5f9R9MtkpqM",
+    "BV1dH3neBEFU": "7J52mDjZzto",
+    "BV1ou4y137JD": "7J52mDjZzto",
+    "BV1NKwrz7ERa": "7J52mDjZzto",
+    "BV1QN411N7CX": "7J52mDjZzto",
+    "BV1Mp411o7yj": "7J52mDjZzto",
+    "BV13o4y197yo": "7J52mDjZzto",
+    "BV1cK4y1i778": "7J52mDjZzto",
+    "BV1Hv411k7wf": "7J52mDjZzto",
+    "BV1VW411H7Vn": "7J52mDjZzto",
+    "BV1bP41157QY": "7J52mDjZzto",
+    "BV1my421z7TL": "XXBxV6-zamM",
+    "BV19T4y1P7b6": "XXBxV6-zamM",
+    "BV1d34y1k7RE": "XXBxV6-zamM",
+    "BV16E411q7K7": "XXBxV6-zamM",
+    "BV1Lx411t7P7": "XXBxV6-zamM",
+    "BV1bz4y1o7zJ": "XXBxV6-zamM",
+    "BV1Hy4y1m7o7": "XXBxV6-zamM",
+    "BV1ab41177F2": "XXBxV6-zamM",
+    "BV1QT4y1A7kL": "XXBxV6-zamM",
+    "BV1RJ7az6ErE": "XXBxV6-zamM",
+    "BV1CQ4y1i7Sf": "aVwxzDHniEw",
+    "BV1W4411S7op": "aVwxzDHniEw",
+    "BV1J142197m1": "aVwxzDHniEw",
+    "BV1AkkvYnEuP": "aVwxzDHniEw",
+    "BV1ujSbYbEZB": "aVwxzDHniEw",
+    "BV19t421N7yU": "jvPPXbo87ds",
+    "BV1HHw1zXEeL": "aVwxzDHniEw",
+    "BV16KtN6QE5T": "aVwxzDHniEw",
+    "BV1oXXHYhE77": "aVwxzDHniEw",
+    "BV1DdEnzgE8a": "aVwxzDHniEw",
+    "BV1Ay4BerECC": "eJ3RzGoQC4s",
+    "BV1ySHL66EGo": "eJ3RzGoQC4s",
+    "BV1CR4y1M73W": "eJ3RzGoQC4s",
+    "BV18L411w7wr": "eJ3RzGoQC4s",
+    "BV1vf4y1G7pK": "eJ3RzGoQC4s",
+    "BV1o1421i7UG": "eJ3RzGoQC4s",
+    "BV1zP4y1Z7nW": "eJ3RzGoQC4s",
+    "BV1E7SSBZEGV": "o_AIw9bGogo",
+    "BV1X44c6oEw3": "o_AIw9bGogo",
+    "BV1ns4y137fq": "o_AIw9bGogo",
+    "BV1gT4y1974e": "o_AIw9bGogo",
+    "BV1pUXoBhEqk": "o_AIw9bGogo",
+    "BV1Tz4y1s7QW": "o_AIw9bGogo",
+    "BV1oo4y1x7Nw": "o_AIw9bGogo",
+    "BV1PZ9ZBMENH": "o_AIw9bGogo",
+    "BV1d8xG6hErv": "o_AIw9bGogo",
+    "BV13t421T7dC": "o_AIw9bGogo",
+    "BV1J84y1H7dc": "AdNJ3fydeao",
+    "BV1344y1b7dn": "AdNJ3fydeao",
+    "BV1yw411h7c1": "AdNJ3fydeao",
+    "BV1Y64y1Q7mn": "AdNJ3fydeao",
+    "BV1BbpEzREQy": "AdNJ3fydeao",
+    "BV1ff421o71i": "AdNJ3fydeao",
+    "BV1iV4y1M7kJ": "AdNJ3fydeao",
+    "BV1NoZrBBEt5": "AdNJ3fydeao",
+    "BV15x411r7cb": "AdNJ3fydeao",
+    "BV1cV411j7Bv": "IcgmSRJHu_8",
+    "BV16XujzWE9L": "IcgmSRJHu_8",
+    "BV1aTMRz1EEr": "IcgmSRJHu_8",
+    "BV1Tz4y1q7on": "IcgmSRJHu_8",
+    "BV1gkrmBsEQV": "IcgmSRJHu_8",
+    "BV1ynaGzuEDG": "IcgmSRJHu_8",
+    "BV1mb41127TB": "IcgmSRJHu_8",
+    "BV1vw4V6YEcm": "IcgmSRJHu_8",
+    "BV1we4y1F7gF": "IcgmSRJHu_8",
+    "BV1Rb421E7Sz": "IcgmSRJHu_8",
+    "BV1yjfPBPESQ": "LQRAfJyEsko",
+    "BV17W411C7HN": "LQRAfJyEsko",
+    "BV13E411j7Gp": "LQRAfJyEsko",
+    "BV1pz411v7LD": "LQRAfJyEsko",
+    "BV1cx411Z7mg": "LQRAfJyEsko",
+    "BV1NrxS6UE2n": "LQRAfJyEsko",
+    "BV1qv4y1o7sy": "LQRAfJyEsko",
+    "BV13wJr6QE2j": "LQRAfJyEsko",
+    "BV1mW411G7v6": "LQRAfJyEsko",
+    "BV1fo9kBQEp9": "LQRAfJyEsko",
+    "BV1vi421a7ag": "cIQ9IXSUzuM",
+    "BV1sr421b723": "cIQ9IXSUzuM",
+    "BV1a9vSeCEoB": "cIQ9IXSUzuM",
+    "BV19S411A7DV": "cIQ9IXSUzuM",
+    "BV15J411P7Zm": "cIQ9IXSUzuM",
+    "BV1C5411j7Vo": "cIQ9IXSUzuM",
+    "BV1RN4y1M7BL": "cIQ9IXSUzuM",
+    "BV1Pg411q7jL": "cIQ9IXSUzuM",
+    "BV1bU4y177Pt": "cIQ9IXSUzuM",
+    "BV1144y1R7dG": "cIQ9IXSUzuM",
+    "BV1oF41137tW": "kpk2tdsPh0A",
+    "BV15vfZYGEcM": "kpk2tdsPh0A",
+    "BV1Qk4u6UEK3": "kpk2tdsPh0A",
+    "BV1XA4y1f73c": "kpk2tdsPh0A",
+    "BV1KxgH6wELn": "kpk2tdsPh0A",
+    "BV1FQ4y1A7v1": "kpk2tdsPh0A",
+    "BV155ttzREZg": "kpk2tdsPh0A",
+    "BV1b3FWzAEV6": "kpk2tdsPh0A",
+    "BV1i1xn6pEnV": "kpk2tdsPh0A",
+    "BV1nkaYeKEis": "kpk2tdsPh0A",
+    "BV1sd4y1G7DD": "L0KuAx1COEk",
+    "BV1tdtHzaE25": "L0KuAx1COEk",
+    "BV1cr4y1L7ec": "L0KuAx1COEk",
+    "BV1t4411W7Cn": "L0KuAx1COEk",
+    "BV1mK4y1K7wC": "L0KuAx1COEk",
+    "BV1m1ogBDEG7": "L0KuAx1COEk",
+    "BV1Pi4FeYEhh": "L0KuAx1COEk",
+    "BV1ifwvz2ELK": "L0KuAx1COEk",
+    "BV1Hr4y137Yv": "L0KuAx1COEk",
+    "BV1qNCfBKEPY": "L0KuAx1COEk",
+    "BV1oa8ye9ECt": "jvPPXbo87ds",
+    "BV1pQKceUE7w": "jvPPXbo87ds",
+    "BV1tK411f7g6": "jvPPXbo87ds",
+    "BV1tsKcz2EDE": "jvPPXbo87ds",
+    "BV17nhYe4Esr": "jvPPXbo87ds",
+    "BV1ox7Sz8Eky": "jvPPXbo87ds",
+    "BV1tqhYe1Eo6": "jvPPXbo87ds",
+    "BV1yZ4u6BEXq": "jvPPXbo87ds",
+    "BV1L5EizsEb8": "5SaFTm2bcac",
+    "BV1N8Lw6xEmP": "5SaFTm2bcac",
+    "BV1AwUEByENt": "5SaFTm2bcac",
+    "BV1EKL6zvEtH": "5SaFTm2bcac",
+    "BV18GAHzvEnj": "5SaFTm2bcac",
+    "BV18r421c7nJ": "5SaFTm2bcac",
+    "BV1kM4G66EjD": "5SaFTm2bcac",
+    "BV1GM9uB7E4X": "5SaFTm2bcac",
+    "BV1S5411n72F": "5SaFTm2bcac",
+    "BV1rG411F7jY": "5SaFTm2bcac",
+    "BV1uwfoBsECs": "LIb3L4vKZ7U",
+    "BV14KtizAErs": "LIb3L4vKZ7U",
+    "BV1ZX4y1v7c6": "LIb3L4vKZ7U",
+    "BV1u8aa6REPL": "LIb3L4vKZ7U",
+    "BV1VKHNzgEdC": "LIb3L4vKZ7U",
+    "BV1Wr421M7sX": "LIb3L4vKZ7U",
+    "BV1UJ411F7CK": "LIb3L4vKZ7U",
+    "BV1Pf421B79z": "LIb3L4vKZ7U",
+    "BV1ShEm6wEhe": "LIb3L4vKZ7U",
+    "BV1r5411W71n": "LIb3L4vKZ7U",
+    "BV16tU6BKEY5": "QNznD9hMEh0",
+    "BV1roLY6TEYk": "QNznD9hMEh0",
+    "BV1Js411X7e4": "QNznD9hMEh0",
+    "BV1Na4y1n7jA": "QNznD9hMEh0",
+    "BV1vF4m1K7Zx": "QNznD9hMEh0",
+    "BV1yenc6hE8R": "QNznD9hMEh0",
+    "BV1ix4y1p762": "QNznD9hMEh0",
+    "BV1Uf4y127Nb": "QNznD9hMEh0",
+    "BV1vatf6YEBo": "QNznD9hMEh0",
+    "BV1M3Kf6aEFq": "QNznD9hMEh0",
+    "BV1JkLfzXEs4": "ar9WRwCiSr0",
+    "BV1Kw411j7kz": "ar9WRwCiSr0",
+    "BV18G4y117jQ": "ar9WRwCiSr0",
+    "BV1QeNLeYE29": "ar9WRwCiSr0",
+    "BV1ov411b7iE": "ar9WRwCiSr0",
+    "BV1Ht41167St": "ar9WRwCiSr0",
+    "BV1aLgtzGECC": "ar9WRwCiSr0",
+    "BV1s7436yEX7": "ar9WRwCiSr0",
+    "BV197vhesEvE": "ar9WRwCiSr0",
+    "BV1eM1qBrEMt": "ar9WRwCiSr0",
+    "BV1zt421M7ps": "dBnniua6-oM",
+    "BV1Bq4y1i7Ro": "dBnniua6-oM",
+    "BV1xv41117Ly": "dBnniua6-oM",
+    "BV1U36oBkEoU": "dBnniua6-oM",
+    "BV15Rpm6nEwr": "dBnniua6-oM",
+    "BV1c4411775y": "dBnniua6-oM",
+    "BV1V64y1N752": "dBnniua6-oM",
+    "BV15W411U798": "dBnniua6-oM",
+    "BV1inxS6AEY4": "otbnC2zE2rw",
+    "BV1sC4G61EaY": "otbnC2zE2rw",
+    "BV1da41187Sx": "otbnC2zE2rw",
+    "BV1BAHN6wEFA": "otbnC2zE2rw",
+    "BV19tnu6qEgm": "otbnC2zE2rw",
+    "BV1Ls411w7jL": "otbnC2zE2rw",
+    "BV1Za41127YT": "otbnC2zE2rw",
+    "BV1EVWA6eEJa": "otbnC2zE2rw",
+    "BV1WF411V7QN": "otbnC2zE2rw",
+    "BV1ey4F64EPi": "otbnC2zE2rw",
+    "BV1XjFkewEBU": "040ejWnFkj0",
+    "BV1BX4y1f7cA": "040ejWnFkj0",
+    "BV1mM4y1r7c4": "040ejWnFkj0",
+    "BV1RN4V6hE4V": "040ejWnFkj0",
+    "BV1h3Q8YBEuf": "040ejWnFkj0",
+    "BV1rdJEzxECh": "040ejWnFkj0",
+    "BV16Y41187Gz": "040ejWnFkj0",
+    "BV1MaPPzQEh8": "040ejWnFkj0",
+    "BV17AKJ6eE4s": "040ejWnFkj0",
+    "BV1kW411A7PX": "B1J2RMorJXM",
+    "BV18p4y147Qw": "B1J2RMorJXM",
+    "BV1rgxhzTEFJ": "B1J2RMorJXM",
+    "BV1rt411x7Tt": "B1J2RMorJXM",
+    "BV1oE411s7Hw": "B1J2RMorJXM",
+    "BV1pd4y1s7kW": "B1J2RMorJXM",
+    "BV1zC411V7xR": "B1J2RMorJXM",
+    "BV14W411e7uN": "B1J2RMorJXM",
+    "BV1he4y1o7e2": "B1J2RMorJXM",
+    "BV1oN4y1X7FE": "B1J2RMorJXM",
+    "BV1oW411h7Ea": "D1R-jKKp3NA",
+    "BV1T2YLeYE3g": "D1R-jKKp3NA",
+    "BV1iVRdBWEdt": "D1R-jKKp3NA",
+    "BV1wMYM61Es3": "D1R-jKKp3NA",
+    "BV1Nh411v7Hz": "D1R-jKKp3NA",
+    "BV1cGHbzWEww": "D1R-jKKp3NA",
+    "BV1Zy4y1E7bk": "D1R-jKKp3NA",
+    "BV1eR4y1G7bG": "D1R-jKKp3NA",
+    "BV1PL4y1s7bL": "D1R-jKKp3NA",
+    "BV1dPm4BHEfa": "F_Riqjdh2oM",
+    "BV1FW4y1T79S": "F_Riqjdh2oM",
+    "BV1M4411K7oe": "F_Riqjdh2oM",
+    "BV1A8KrePE4t": "F_Riqjdh2oM",
+    "BV19T42167cm": "F_Riqjdh2oM",
+    "BV1hT4y1Q7u3": "F_Riqjdh2oM",
+    "BV1a14y157U8": "F_Riqjdh2oM",
+    "BV14C4y1n7eR": "F_Riqjdh2oM",
+    "BV1H341187T3": "F_Riqjdh2oM",
+    "BV1ps411H7YC": "Fy0aCDmgnxg",
+    "BV1kE3d6oE3z": "Fy0aCDmgnxg",
+    "BV1by4y1d7nT": "Fy0aCDmgnxg",
+    "BV14Q4y1d7nN": "Fy0aCDmgnxg",
+    "BV1KSY4ecEtF": "Fy0aCDmgnxg",
+    "BV1oP4y167mg": "Fy0aCDmgnxg",
+    "BV1XW4y1K7cM": "Fy0aCDmgnxg",
+    "BV1jD421L7hH": "Fy0aCDmgnxg",
+    "BV1AvHX61E4R": "Fy0aCDmgnxg",
+    "BV1nx411U7tX": "Fy0aCDmgnxg",
+    "BV1EG411K7YS": "HxaD_trXwRE",
+    "BV1da411r7FK": "HxaD_trXwRE",
+    "BV1WK411673S": "HxaD_trXwRE",
+    "BV14SbHzhEZV": "HxaD_trXwRE",
+    "BV1Ea4y1W7mE": "HxaD_trXwRE",
+    "BV1yo4y197uk": "HxaD_trXwRE",
+    "BV1ym4y1R7FP": "HxaD_trXwRE",
+    "BV1CWV6zKEBn": "HxaD_trXwRE",
+    "BV1EVNdzSEdB": "HxaD_trXwRE",
+    "BV1rE421L7KH": "LnzuMJLZRdU",
+    "BV13w411n728": "LnzuMJLZRdU",
+    "BV1Ls7w61EoU": "LnzuMJLZRdU",
+    "BV1TYTa6xEYr": "LnzuMJLZRdU",
+    "BV15v4y1674S": "LnzuMJLZRdU",
+    "BV1gs411o7XG": "LnzuMJLZRdU",
+    "BV17c411u7rS": "LnzuMJLZRdU",
+    "BV1hJ411u7x8": "LnzuMJLZRdU",
+    "BV1ZE411d72s": "LnzuMJLZRdU",
+    "BV1P8Hj6VEN8": "LnzuMJLZRdU",
+    "BV1Gp4y167YW": "OyfBQmvr2Hc",
+    "BV1M4411n735": "OyfBQmvr2Hc",
+    "BV1dt4y1T7SC": "OyfBQmvr2Hc",
+    "BV1Yy4y1n7WQ": "OyfBQmvr2Hc",
+    "BV1LNzCBjEQF": "OyfBQmvr2Hc",
+    "BV1CT4y1L7wV": "OyfBQmvr2Hc",
+    "BV1rjHK6GEGV": "OyfBQmvr2Hc",
+    "BV16B4y1T7SN": "OyfBQmvr2Hc",
+    "BV1rA4m1c74p": "OyfBQmvr2Hc",
+    "BV1Uo4y1r7Hz": "RjD1aLm4Thg",
+    "BV14L411V7aU": "RjD1aLm4Thg",
+    "BV1oE421A7du": "RjD1aLm4Thg",
+    "BV1iN411q7ju": "RjD1aLm4Thg",
+    "BV1XB4y1t73x": "RjD1aLm4Thg",
+    "BV12T4y1b7Cq": "RjD1aLm4Thg",
+    "BV1yt4y1v7LG": "RjD1aLm4Thg",
+    "BV1EKkdYvEzb": "RjD1aLm4Thg",
+    "BV1Am4y137CX": "RjD1aLm4Thg",
+    "BV1XG411X7vz": "RjD1aLm4Thg",
+    "BV13mN86nEj3": "ZK3O402wf1c",
+    "BV1zx411g7gq": "ZK3O402wf1c",
+    "BV1mx411S7M3": "ZK3O402wf1c",
+    "BV18K4y1R7MP": "ZK3O402wf1c",
+    "BV1mNgm66EZu": "ZK3O402wf1c",
+    "BV1S8ftBkEyn": "ZK3O402wf1c",
+    "BV1yn3Z6PERv": "ZK3O402wf1c",
+    "BV1xhjg6SEUy": "ZK3O402wf1c",
+    "BV11CrrBbEM5": "ZK3O402wf1c",
+    "BV1JR4y1q79r": "_rBO8neWw04",
+    "BV1vt411C7ep": "_rBO8neWw04",
+    "BV1At4y1v7Fu": "_rBO8neWw04",
+    "BV1UoCaB1EkW": "_rBO8neWw04",
+    "BV1eN4y1M7Ci": "_rBO8neWw04",
+    "BV1bXZFBFEiB": "_rBO8neWw04",
+    "BV1YqjX61EwJ": "_rBO8neWw04",
+    "BV1QNgK68EBt": "_rBO8neWw04",
+    "BV1KY411A7Vo": "_rBO8neWw04",
+    "BV18S4y1K7Wg": "_rBO8neWw04",
+    "BV1cg4y1b7vk": "4fFDFbi3toc",
+    "BV1SP4y1H7n4": "4fFDFbi3toc",
+    "BV1Fd4y1f7rN": "4fFDFbi3toc",
+    "BV128BKYcEA3": "4fFDFbi3toc",
+    "BV1R1o6YXExP": "4fFDFbi3toc",
+    "BV1gg4y1U7CK": "4fFDFbi3toc",
+    "BV1Pu411N7fH": "4fFDFbi3toc",
+    "BV1C7Jr66EsR": "4fFDFbi3toc",
+    "BV1LufpYGE61": "4fFDFbi3toc",
+    "BV1MdySBNETH": "4fFDFbi3toc",
+    "BV1KJ411M7L6": "7Pq-S557XQU",
+    "BV1e6pz6ZEc2": "7Pq-S557XQU",
+    "BV1HM4m1k7dq": "7Pq-S557XQU",
+    "BV1C6421M7sn": "7Pq-S557XQU",
+    "BV1DTi9YeESE": "7Pq-S557XQU",
+    "BV1Eq4y1R7Si": "7Pq-S557XQU",
+    "BV1Fx411P7Fm": "7Pq-S557XQU",
+    "BV1Xx411A78u": "7Pq-S557XQU",
+    "BV1Xt411p74k": "7Pq-S557XQU",
+    "BV13dVH6HESc": "BLGFriOKz6U",
+    "BV1EGxS6BE7e": "BLGFriOKz6U",
+    "BV1vE421g7mW": "BLGFriOKz6U",
+    "BV1m6miYuEGq": "BLGFriOKz6U",
+    "BV1Jd4y1M7v6": "BLGFriOKz6U",
+    "BV1dHxS6aEj2": "BLGFriOKz6U",
+    "BV15RsgeVE6r": "BLGFriOKz6U",
+    "BV1xtxa6eEt4": "BLGFriOKz6U",
+    "BV1Dfx16SEfp": "BLGFriOKz6U",
+    "BV1ZR4y1r7Xs": "BLGFriOKz6U",
+    "BV1pW411x7tE": "EZ05e7EMOLM",
+    "BV1vW4y1k78r": "EZ05e7EMOLM",
+    "BV18T411Z7oF": "EZ05e7EMOLM",
+    "BV1eo4y1t76A": "EZ05e7EMOLM",
+    "BV1vK411Y7bB": "EZ05e7EMOLM",
+    "BV1G34y1N7fF": "EZ05e7EMOLM",
+    "BV1Ysc6zHEsC": "EZ05e7EMOLM",
+    "BV1u6RtBwEk6": "EZ05e7EMOLM",
+    "BV1Tb9iBmEhP": "EZ05e7EMOLM",
+    "BV1716KB7EDF": "EZ05e7EMOLM",
+    "BV1Vj411f7Cx": "PUv66718DII",
+    "BV13fzeBEEBK": "PUv66718DII",
+    "BV1j58FebELq": "PUv66718DII",
+    "BV1Cg4y1p7ZG": "PUv66718DII",
+    "BV1uW411q7yp": "PUv66718DII",
+    "BV1cr4y1V79T": "PUv66718DII",
+    "BV1nS411c7uJ": "PmTUW-owa2w",
+    "BV16G411F7k2": "PmTUW-owa2w",
+    "BV1fe411x7o9": "PmTUW-owa2w",
+    "BV1sW4y1p7Ss": "PmTUW-owa2w",
+    "BV1hh411T7G1": "PmTUW-owa2w",
+    "BV1Qu4y1X7Pe": "PmTUW-owa2w",
+    "BV1GK411s7QQ": "PmTUW-owa2w",
+    "BV1fH4T6sEZt": "PmTUW-owa2w",
+    "BV12NNW6REwC": "PmTUW-owa2w",
+    "BV19T421X7Uw": "PmTUW-owa2w",
+    "BV1JD421G7gD": "XetplHcM7aQ",
+    "BV1vD49zwEeb": "XetplHcM7aQ",
+    "BV19X4y1g7V1": "XetplHcM7aQ",
+    "BV1s2fYYoEJq": "XetplHcM7aQ",
+    "BV1xK421y7E3": "XetplHcM7aQ",
+    "BV1K94u6GEX4": "XetplHcM7aQ",
+    "BV11r421x7WY": "XetplHcM7aQ",
+    "BV1ANu5zUETh": "XetplHcM7aQ",
+    "BV1TE411C7Am": "XetplHcM7aQ",
+    "BV1N43E6oEv5": "XetplHcM7aQ",
+    "BV1iQek6TEYZ": "aAb7hSCtvGw",
+    "BV1N4xX6dE6Y": "aAb7hSCtvGw",
+    "BV15rJR6aE3A": "aAb7hSCtvGw",
+    "BV13T411U7zs": "aAb7hSCtvGw",
+    "BV1bPnF6AEwP": "aAb7hSCtvGw",
+    "BV16a411A7pt": "aAb7hSCtvGw",
+    "BV16QHP6zEdi": "aAb7hSCtvGw",
+    "BV1VEQxBoEbX": "aAb7hSCtvGw",
+    "BV1PZNhePEbQ": "aAb7hSCtvGw",
+    "BV1wkpneLEB1": "jB0vBmiTr6o",
+    "BV1SgUMBtEL6": "jB0vBmiTr6o",
+    "BV16j411u7oJ": "jB0vBmiTr6o",
+    "BV1DAvKzMEbA": "jB0vBmiTr6o",
+    "BV1RzkWBwEFx": "jB0vBmiTr6o",
+    "BV1ehbK67EW8": "jB0vBmiTr6o",
+    "BV1b94UeLEUE": "jB0vBmiTr6o",
+    "BV1sCE46YEw9": "jB0vBmiTr6o",
+    "BV1JJ411x719": "jB0vBmiTr6o",
+    "BV16g4y1P7Yz": "jB0vBmiTr6o",
+    "BV1UE411q795": "jbkSRLYSojo",
+    "BV13f4y1j7LK": "jbkSRLYSojo",
+    "BV1hy1kBpEn5": "jbkSRLYSojo",
+    "BV1RPgH6LEgH": "jbkSRLYSojo",
+    "BV14W411W7d9": "FACK2knC08E",
+    "BV1Uk4y1r7xs": "jbkSRLYSojo",
+    "BV1SfLC61Eb5": "jbkSRLYSojo",
+    "BV1dE411Z7bN": "jbkSRLYSojo",
+    "BV14zGH6uEcS": "jbkSRLYSojo",
+    "BV1zj411L76f": "jbkSRLYSojo",
+    "BV1JW411C7F9": "s1i-dnAH9Y4",
+    "BV1TL4y1B7G1": "s1i-dnAH9Y4",
+    "BV1544y137M7": "s1i-dnAH9Y4",
+    "BV1CJ411R7oR": "s1i-dnAH9Y4",
+    "BV14HNw6eEUf": "s1i-dnAH9Y4",
+    "BV1v84y1j7Ln": "s1i-dnAH9Y4",
+    "BV1Q4411V7zK": "s1i-dnAH9Y4",
+    "BV1Gp411R7yx": "s1i-dnAH9Y4",
+    "BV1dZ421q7cA": "s1i-dnAH9Y4",
+    "BV1iz416tEeL": "s1i-dnAH9Y4",
+    "BV1RM4y147j6": "-5wpm-gesOY",
+    "BV1pe411S7oN": "-5wpm-gesOY",
+    "BV1nFJ6z5Ej8": "-5wpm-gesOY",
+    "BV1dVpP6bEgz": "-5wpm-gesOY",
+    "BV1nt41167AB": "-5wpm-gesOY",
+    "BV1wh4y1W7Zt": "-5wpm-gesOY",
+    "BV1bL411t7BZ": "-5wpm-gesOY",
+    "BV1Lz421e7Nz": "-5wpm-gesOY",
+    "BV1tS4y1a7Li": "-5wpm-gesOY",
+    "BV1v14y1A7Cm": "-5wpm-gesOY",
+    "BV18j41167Mb": "-6BsiVyC1kM",
+    "BV1szE7zsEQh": "-6BsiVyC1kM",
+    "BV1Zg411D7Af": "-6BsiVyC1kM",
+    "BV1f5411s7cn": "-6BsiVyC1kM",
+    "BV1tpNEeBEoP": "-6BsiVyC1kM",
+    "BV1NU4y1i7R6": "-6BsiVyC1kM",
+    "BV1TL4y1G7YZ": "-6BsiVyC1kM",
+    "BV1kz411B7U7": "-6BsiVyC1kM",
+    "BV1dupw6WEEu": "-6BsiVyC1kM",
+    "BV1xZ4y18729": "-6BsiVyC1kM",
+    "BV1rx411E7oW": "4Q7FTjhvZ7Y",
+    "BV1wfiqBNEMx": "4Q7FTjhvZ7Y",
+    "BV1L64y1y7Y6": "4Q7FTjhvZ7Y",
+    "BV1KxBWBMEx8": "4Q7FTjhvZ7Y",
+    "BV1HZ4y1t7zi": "4Q7FTjhvZ7Y",
+    "BV1gb4y197A8": "4Q7FTjhvZ7Y",
+    "BV1Vg411S7U8": "4Q7FTjhvZ7Y",
+    "BV1KY4y1M7y4": "4Q7FTjhvZ7Y",
+    "BV1Aw411W7eG": "4Q7FTjhvZ7Y",
+    "BV1Nx411G7ha": "4Q7FTjhvZ7Y",
+    "BV1uU4y187zY": "AJdEqssNZ-U",
+    "BV1QioaYoE5t": "AJdEqssNZ-U",
+    "BV1rAAMe9E7f": "AJdEqssNZ-U",
+    "BV1cr4y1o76q": "AJdEqssNZ-U",
+    "BV1Ta4y1u7jo": "AJdEqssNZ-U",
+    "BV1YS411K7zP": "AJdEqssNZ-U",
+    "BV1jb41127Uh": "AJdEqssNZ-U",
+    "BV1MjApeGEE4": "AJdEqssNZ-U",
+    "BV1JT4y1a7fM": "AJdEqssNZ-U",
+    "BV1aK4y1Y7VN": "FACK2knC08E",
+    "BV18S4y1c7fn": "FACK2knC08E",
+    "BV1qq4y1G7nC": "FACK2knC08E",
+    "BV1zJ411k7PN": "FACK2knC08E",
+    "BV11P411b7vi": "FACK2knC08E",
+    "BV16rJ9zXEfs": "FACK2knC08E",
+    "BV1BCDDYVEo8": "FACK2knC08E",
+    "BV18DVMztEJ9": "FACK2knC08E",
+    "BV1nWDrB1EJJ": "FACK2knC08E"
   }
 }

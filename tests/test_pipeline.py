@@ -130,6 +130,26 @@ class BatchTests(unittest.TestCase):
     self.assertEqual(seen,['ABCDEFGHIJK','01234567890'])
    finally:p.ROOT,p.WORK=old
 
+class SearchCandidateTests(unittest.TestCase):
+ def test_only_shorter_candidates_are_deferred(self):
+  self.assertTrue(p.defer_short_candidate(3600,600))
+  self.assertFalse(p.defer_short_candidate(3600,3650))
+  self.assertFalse(p.defer_short_candidate(3600,50000))
+  self.assertFalse(p.defer_short_candidate(None,20))
+  self.assertFalse(p.defer_short_candidate(3600,None))
+ def test_search_duration_formats(self):
+  self.assertEqual(p.search_duration('90:01'),5401)
+  self.assertEqual(p.search_duration('1:30:01'),5401)
+  self.assertIsNone(p.search_duration('unavailable'))
+  self.assertIsNone(p.search_duration('12:88'))
+ def test_query_aliases_change_search_not_original_identity(self):
+  from unittest.mock import patch
+  with tempfile.TemporaryDirectory() as temp,patch.object(p,'ROOT',Path(temp)):
+   original={'vid':'abcdefghijk','title':'Original English title','channel':'Author'}
+   p.write(Path(temp)/'data/search-queries.json',{'abcdefghijk':['short author title','translated title']})
+   self.assertEqual(p.search_queries(original),['short author title','translated title'])
+   self.assertEqual(original['title'],'Original English title')
+
 class GuestSearchTests(unittest.TestCase):
  def fixture(self,bootstrap_cookie=True,blocked=False):
   import io

@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-04T08:22:25.637345+00:00",
+  "updated_at": "2026-11-04T08:51:18.815092+00:00",
   "corpus": 6454,
-  "processed": 150,
-  "confirmed": 93,
-  "coverage": 0.014409668422683607,
-  "processed_match_rate": 0.62,
+  "processed": 209,
+  "confirmed": 112,
+  "coverage": 0.01735357917570499,
+  "processed_match_rate": 0.5358851674641149,
   "statuses": {
-    "confirmed": 93,
-    "review": 57
+    "confirmed": 112,
+    "review": 97
   },
-  "not_processed": 6304,
+  "not_processed": 6245,
   "verification_batch": {
     "id": "2026-11-04T08:05:48.734170+00:00",
     "source": "web-leads-3.json",
@@ -19,31 +19,39 @@
     "stopped": false
   },
   "blocked_searches": [],
-  "candidates": 214,
+  "candidates": 819,
   "batch": {
-    "id": "20261104T082044Z",
+    "id": "20261104T085040Z",
     "selected": 1,
     "completed": 1,
     "errors": [],
     "stopped": false,
     "originals": [
-      "NGFhc8R_uO4"
+      "JTfhYyTuT44"
     ],
     "attempted": 1,
     "unattempted": 0,
     "statuses": {
       "review": 1
     },
-    "candidate_count": 10
+    "candidate_count": 19
   },
   "review_reasons": {
     "duration outside tolerance": 5,
     "no explicit original URL; manual identity review required; conflicting years": 3,
-    "no explicit original URL; manual identity review required": 69,
-    "no explicit original URL; manual identity review required; collection segment identity requires review": 3,
-    "no explicit original URL; manual identity review required; duration outside tolerance; collection segment identity requires review": 8,
-    "no explicit original URL; manual identity review required; duration outside tolerance": 25,
+    "no explicit original URL; manual identity review required": 113,
+    "no explicit original URL; manual identity review required; collection segment identity requires review": 5,
+    "no explicit original URL; manual identity review required; duration outside tolerance; collection segment identity requires review": 71,
+    "no explicit original URL; manual identity review required; duration outside tolerance": 158,
     "no explicit original URL; manual identity review required; conflicting episode": 1,
-    "collection segment identity requires review": 1
+    "collection segment identity requires review": 3,
+    "no explicit original URL; manual identity review required; conflicting years; duration outside tolerance": 2,
+    "search duration shorter than original beyond tolerance; detail review deferred": 323,
+    "no explicit original URL; manual identity review required; conflicting years; duration outside tolerance; collection segment identity requires review": 7,
+    "duration outside tolerance; collection segment identity requires review": 1,
+    "description links multiple originals": 1,
+    "no explicit original URL; manual identity review required; conflicting episode; duration outside tolerance": 1,
+    "no explicit original URL; manual identity review required; conflicting years; collection segment identity requires review": 1,
+    "no explicit original URL; manual identity review required; description links multiple originals": 1
   }
 }

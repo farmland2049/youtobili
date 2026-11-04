@@ -214,6 +214,7 @@ def evaluate(client, original, c):
         'views':d.get('stat',{}).get('view',0),'pic':d.get('pic','').replace('http://','https://'),
         'checked_at':now(),'availability':'available'}
     fresh.pop('error',None)
+    fresh.pop('duration_screened',None)
     if c.get('manual_review') and c.get('status')=='confirmed':
         # Explicit reviews survive rechecks only if availability and segment ID are unchanged.
         if c.get('cid')==fresh['cid'] and not any(f in fresh['flags'] for f in ['conflicting years','conflicting episode','possibly abridged','missing segment','missing segment duration']):
@@ -254,6 +255,25 @@ def report(lib, batch=None):
     (ROOT/'reports/STATUS.md').write_text(text)
     return summary
 
+def search_duration(value):
+    try:
+        parts=[int(x) for x in str(value).strip().split(':')]
+        if not 1<=len(parts)<=3 or any(x<0 for x in parts):return None
+        if len(parts)>1 and parts[-1]>=60:return None
+        return sum(x*60**i for i,x in enumerate(reversed(parts)))
+    except (TypeError,ValueError):return None
+
+def defer_short_candidate(original_duration,candidate_duration):
+    return bool(original_duration and candidate_duration is not None and
+                original_duration-candidate_duration>max(60,0.08*original_duration))
+
+def search_queries(original):
+    aliases=read(ROOT/'data/search-queries.json',{}).get(original['vid'])
+    queries=aliases if aliases else [original['title'],original.get('channel','')+' '+original['title']]
+    if not isinstance(queries,list) or not all(isinstance(q,str) and q.strip() for q in queries):
+        raise ValueError('search query aliases must be a nonempty string list')
+    return list(dict.fromkeys(q.strip() for q in queries))[:2]
+
 def run_match(args):
     if not 1 <= args.limit <= 50: raise ValueError('batch limit must be 1–50')
     client=Client(args.delay);lib=import_legacy(); rows=corpus()
@@ -271,17 +291,24 @@ def run_match(args):
         vid=original['vid'];entry=lib.setdefault(vid,{'vid':vid,'status':'unmatched','candidates':[]})
         entry.pop('last_error',None)
         try:
-            if not args.existing_only and (not entry.get('searched_at') or entry.get('search_session_version')!=2):
-                queries=[original['title'],original.get('channel','')+' '+original['title']]
+            queries=search_queries(original) if not args.existing_only else []
+            if not args.existing_only and (not entry.get('searched_at') or entry.get('search_session_version')!=2 or entry.get('search_queries')!=queries):
+                meta=client.get('https://hackertube.org/api/video?'+urlencode({'vid':vid}))
+                source_duration=(meta.get('video',meta) or {}).get('duration_s') if isinstance(meta,dict) else None
                 for q in dict.fromkeys(queries):
                     response=client.get('https://api.bilibili.com/x/web-interface/search/type?'+urlencode({'search_type':'video','keyword':q,'page':1}))
                     for item in response.get('data',{}).get('result',[])[:5]:
                         bv=item.get('bvid','')
                         if re.fullmatch(r'BV[A-Za-z0-9]{10}',bv) and not any(c['bvid']==bv for c in entry['candidates']):
-                            entry['candidates'].append({'bvid':bv,'status':'review','origin':'search','query':q})
-                entry['searched_at']=now();entry['search_session_version']=2
+                            candidate={'bvid':bv,'status':'review','origin':'search','query':q}
+                            duration=search_duration(item.get('duration'))
+                            if defer_short_candidate(source_duration,duration):
+                                candidate.update(duration_screened=True,search_duration=duration,reason='search duration shorter than original beyond tolerance; detail review deferred')
+                            entry['candidates'].append(candidate)
+                entry['searched_at']=now();entry['search_session_version']=2;entry['search_queries']=queries
             # Persist every candidate: interruption resumes without discarding successful checks.
             for i,c in enumerate(entry['candidates']):
+                if c.get('duration_screened') and not args.recheck:continue
                 if not args.recheck and c.get('checked_at') and not c.get('error'):continue
                 try:
                     entry['candidates'][i]=evaluate(client,original,c)
