@@ -74,18 +74,45 @@ class Client:
     def __init__(self, delay=1.3):
         self.delay = max(1.2, delay)
         self.last = 0
-        self.opener = build_opener(HTTPCookieProcessor(http.cookiejar.CookieJar()))
+        self.cookie_jar = http.cookiejar.CookieJar()
+        self.opener = build_opener(HTTPCookieProcessor(self.cookie_jar))
+        self.guest_ready = False
+        self.user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36'
         self.cache = WORK / 'http'
         self.cache.mkdir(parents=True, exist_ok=True)
+    @staticmethod
+    def is_search(url):
+        parsed=urlparse(url)
+        return parsed.hostname=='api.bilibili.com' and '/search/' in parsed.path
+    def wait_turn(self, minimum=None):
+        interval=max(self.delay,minimum or 0)
+        time.sleep(max(0, interval - (time.monotonic() - self.last)))
+        self.last=time.monotonic()
+    def ensure_guest(self):
+        if self.guest_ready:return
+        self.wait_turn()
+        req=Request('https://www.bilibili.com/',headers={'User-Agent':self.user_agent,'Referer':'https://www.bilibili.com/'})
+        try:
+            with self.opener.open(req,timeout=25) as response:response.read()
+        except HTTPError as e:
+            if e.code in (401,403,412,429):raise Blocked(f'Guest initialization HTTP {e.code}: batch stopped') from None
+            raise ApiError(f'Guest initialization HTTP {e.code}') from None
+        except (URLError,TimeoutError) as e:raise ApiError('Guest initialization '+type(e).__name__) from None
+        if not any(c.name=='buvid3' and (c.domain.lstrip('.')=='bilibili.com' or c.domain.endswith('.bilibili.com')) for c in self.cookie_jar):
+            raise Blocked('Guest initialization did not supply buvid3; batch stopped')
+        self.guest_ready=True
     def get(self, url, refresh=False):
-        file = self.cache / (hashlib.sha256(url.encode()).hexdigest() + '.json')
+        search=self.is_search(url)
+        # Older anonymous searches sometimes returned irrelevant successes. Never reuse those.
+        cache_input=('guest-search-v2:'+url) if search else url
+        file = self.cache / (hashlib.sha256(cache_input.encode()).hexdigest() + '.json')
         cached = read(file)
         # Refresh availability after seven days. A cached error is never evidence.
         if cached and not refresh and time.time() - file.stat().st_mtime < 7*86400:
             return cached['body']
-        time.sleep(max(0, self.delay - (time.monotonic() - self.last)))
-        self.last = time.monotonic()
-        req = Request(url, headers={'User-Agent':'Mozilla/5.0', 'Referer':'https://www.bilibili.com/'})
+        if search:self.ensure_guest()
+        self.wait_turn(3 if search else None)
+        req = Request(url, headers={'User-Agent':self.user_agent, 'Referer':'https://search.bilibili.com/' if search else 'https://www.bilibili.com/'})
         try:
             with self.opener.open(req, timeout=25) as r: b = json.load(r)
         except HTTPError as e:
@@ -97,7 +124,7 @@ class Client:
             raise Blocked(f"API {b['code']}: authentication/risk control; batch stopped")
         if isinstance(b,dict) and b.get('code',0) not in (0,-404):
             raise ApiError(f"API {b.get('code')}")
-        write(file, {'url':url,'fetched_at':now(),'body':b})
+        write(file, {'url':url,'fetched_at':now(),'body':b,**({'search_session_version':2} if search else {})})
         return b
 
 def import_legacy():
@@ -230,6 +257,9 @@ def report(lib, batch=None):
 def run_match(args):
     if not 1 <= args.limit <= 50: raise ValueError('batch limit must be 1–50')
     client=Client(args.delay);lib=import_legacy(); rows=corpus()
+    if getattr(args,'vid',None):
+        rows=[o for o in rows if o['vid']==args.vid]
+        if not rows:raise ValueError('original ID not in corpus')
     ordered=sorted(rows,key=lambda x:(not bool(lib.get(x['vid'],{}).get('candidates')), -x.get('score',0)))
     if args.existing_only:ordered=[x for x in ordered if lib.get(x['vid'],{}).get('candidates')]
     if not args.recheck:ordered=[x for x in ordered if not lib.get(x['vid'],{}).get('completed_at')]
@@ -241,7 +271,7 @@ def run_match(args):
         vid=original['vid'];entry=lib.setdefault(vid,{'vid':vid,'status':'unmatched','candidates':[]})
         entry.pop('last_error',None)
         try:
-            if not args.existing_only and not entry.get('searched_at'):
+            if not args.existing_only and (not entry.get('searched_at') or entry.get('search_session_version')!=2):
                 queries=[original['title'],original.get('channel','')+' '+original['title']]
                 for q in dict.fromkeys(queries):
                     response=client.get('https://api.bilibili.com/x/web-interface/search/type?'+urlencode({'search_type':'video','keyword':q,'page':1}))
@@ -249,7 +279,7 @@ def run_match(args):
                         bv=item.get('bvid','')
                         if re.fullmatch(r'BV[A-Za-z0-9]{10}',bv) and not any(c['bvid']==bv for c in entry['candidates']):
                             entry['candidates'].append({'bvid':bv,'status':'review','origin':'search','query':q})
-                entry['searched_at']=now()
+                entry['searched_at']=now();entry['search_session_version']=2
             # Persist every candidate: interruption resumes without discarding successful checks.
             for i,c in enumerate(entry['candidates']):
                 if not args.recheck and c.get('checked_at') and not c.get('error'):continue
@@ -477,7 +507,7 @@ def check():
 if __name__=='__main__':
     parser=argparse.ArgumentParser(description=__doc__);subs=parser.add_subparsers(dest='cmd',required=True)
     subs.add_parser('import');subs.add_parser('build');subs.add_parser('check');subs.add_parser('report');subs.add_parser('export-review');subs.add_parser('seed-related');subs.add_parser('reassess-cached')
-    p=subs.add_parser('match');p.add_argument('--limit',type=int,default=50);p.add_argument('--delay',type=float,default=1.3);p.add_argument('--existing-only',action='store_true');p.add_argument('--recheck',action='store_true')
+    p=subs.add_parser('match');p.add_argument('--limit',type=int,default=50);p.add_argument('--delay',type=float,default=1.3);p.add_argument('--vid');p.add_argument('--existing-only',action='store_true');p.add_argument('--recheck',action='store_true')
     p=subs.add_parser('verify-leads');p.add_argument('file');p.add_argument('--limit',type=int,default=50);p.add_argument('--delay',type=float,default=2)
     p=subs.add_parser('inspect');p.add_argument('vid');p.add_argument('bvid');p.add_argument('--page',type=int)
     p=subs.add_parser('review');p.add_argument('vid');p.add_argument('bvid');p.add_argument('decision',choices=['confirmed','review','invalid']);p.add_argument('--page',type=int);p.add_argument('--evidence')

@@ -130,6 +130,63 @@ class BatchTests(unittest.TestCase):
     self.assertEqual(seen,['ABCDEFGHIJK','01234567890'])
    finally:p.ROOT,p.WORK=old
 
+class GuestSearchTests(unittest.TestCase):
+ def fixture(self,bootstrap_cookie=True,blocked=False):
+  import io
+  from urllib.error import HTTPError
+  c=p.Client(delay=3);calls=[]
+  class Opener:
+   def open(self,req,timeout):
+    calls.append(req)
+    if len(calls)==1:
+     if blocked:raise HTTPError(req.full_url,412,'blocked',None,None)
+     if bootstrap_cookie:c.cookie_jar.set_cookie(p.http.cookiejar.Cookie(0,'buvid3','test-visitor',None,False,'.bilibili.com',True,True,'/',True,False,None,True,None,None,{},False))
+     return io.BytesIO(b'<html>public homepage</html>')
+    return io.BytesIO(b'{"code":0,"data":{"result":[]}}')
+  c.opener=Opener();return c,calls
+ def test_homepage_is_visited_once_before_search_with_headers(self):
+  from unittest.mock import patch
+  with tempfile.TemporaryDirectory() as temp,patch.object(p,'WORK',Path(temp)),patch.object(p.Client,'wait_turn'):
+   c,calls=self.fixture();c.get('https://api.bilibili.com/x/web-interface/search/type?keyword=one');c.get('https://api.bilibili.com/x/web-interface/search/type?keyword=two')
+   self.assertEqual([r.full_url for r in calls][0],'https://www.bilibili.com/')
+   self.assertEqual(len(calls),3);self.assertTrue(c.guest_ready)
+   self.assertEqual(calls[1].get_header('Referer'),'https://search.bilibili.com/')
+   self.assertIn('AppleWebKit',calls[1].get_header('User-agent'))
+ def test_missing_cookie_stops_before_search(self):
+  from unittest.mock import patch
+  with tempfile.TemporaryDirectory() as temp,patch.object(p,'WORK',Path(temp)),patch.object(p.Client,'wait_turn'):
+   c,calls=self.fixture(bootstrap_cookie=False)
+   with self.assertRaises(p.Blocked):c.get('https://api.bilibili.com/x/web-interface/search/type?keyword=one')
+   self.assertEqual(len(calls),1)
+ def test_bootstrap_412_is_not_retried(self):
+  from unittest.mock import patch
+  with tempfile.TemporaryDirectory() as temp,patch.object(p,'WORK',Path(temp)),patch.object(p.Client,'wait_turn'):
+   c,calls=self.fixture(blocked=True)
+   with self.assertRaises(p.Blocked):c.get('https://api.bilibili.com/x/web-interface/search/type?keyword=one')
+   self.assertEqual(len(calls),1)
+ def test_old_anonymous_cache_is_not_reused(self):
+  from unittest.mock import patch
+  with tempfile.TemporaryDirectory() as temp,patch.object(p,'WORK',Path(temp)),patch.object(p.Client,'wait_turn'):
+   c,calls=self.fixture();url='https://api.bilibili.com/x/web-interface/search/type?keyword=one'
+   p.write(c.cache/(p.hashlib.sha256(url.encode()).hexdigest()+'.json'),{'body':{'code':0,'bad_cache':True}})
+   self.assertNotIn('bad_cache',c.get(url));self.assertEqual(len(calls),2)
+   c.get(url);self.assertEqual(len(calls),2)
+ def test_search_has_three_second_minimum_even_with_default_delay(self):
+  from unittest.mock import patch
+  with tempfile.TemporaryDirectory() as temp,patch.object(p,'WORK',Path(temp)),patch.object(p.time,'sleep') as sleep,patch.object(p.time,'monotonic',return_value=100):
+   c,calls=self.fixture();c.delay=1.3;c.last=99
+   c.get('https://api.bilibili.com/x/web-interface/search/type?keyword=one')
+   self.assertEqual(sleep.call_args.args[0],3)
+ def test_view_requests_do_not_visit_homepage(self):
+  from unittest.mock import patch
+  import io
+  with tempfile.TemporaryDirectory() as temp,patch.object(p,'WORK',Path(temp)),patch.object(p.Client,'wait_turn'):
+   c=p.Client();calls=[]
+   class Opener:
+    def open(self,req,timeout):calls.append(req.full_url);return io.BytesIO(b'{"code":0,"data":{}}')
+   c.opener=Opener();c.get('https://api.bilibili.com/x/web-interface/view?bvid=BV1234567890')
+   self.assertEqual(len(calls),1);self.assertFalse(c.guest_ready)
+
 class PublicLeadTests(unittest.TestCase):
  def test_detail_block_latch_prevents_followup_requests(self):
   from unittest.mock import patch

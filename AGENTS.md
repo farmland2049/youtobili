@@ -16,7 +16,7 @@
 - 仓库：https://github.com/qinqiang316/youtobili ，默认分支 `main`。
 - 网站：https://qinqiang316.github.io/youtobili/ ，GitHub Pages 静态托管。
 - 操作入口：`README.md` → `docs/WORKFLOW.md`。
-- 最新统计：`reports/STATUS.md`、`reports/publication.json`；最新验证边界：`reports/CONTINUATION.md`；首版历史验收：`reports/ACCEPTANCE.md`。
+- 最新统计：`reports/STATUS.md`、`reports/publication.json`；搜索当前状态：`reports/SEARCH-RECOVERY.md`；最新内容验证边界：`reports/CONTINUATION.md`；首版历史验收：`reports/ACCEPTANCE.md`。
 - 初始线上版本基线：`65dfbd6e285e8f793f369b4107281cdc11ef6a03`。
 - 完整库位于 `data/source/`，公开界面只读取根目录 `data.json`。不能把全库条数等同于匹配成功条数。
 - 候选、接口缓存与断点位于本地 `data/work/`，不在Git中；新克隆可从 `data/confirmed.json` 重建确认数据，并从基线提交导入旧候选。
@@ -44,3 +44,7 @@
 ## 增量接续
 
 搜索受限时使用 `seed-related` 整理缓存合集线索、`verify-leads` 核验公开网页线索和旧AV号、`reassess-cached` 离线重新评估。线索不能直接批准，相关规则和断点见操作说明。详情接口若也触发风控，后续详情批次会锁住，不自动清除。
+
+## 搜索当前状态
+
+2026-11-04 已修复首次搜索前未获取匿名访客Cookie的问题，三组真实中英文查询和原412单条断点均跑通。先运行 `python3 scripts/search_health.py`；搜索至少间隔3秒，使用新版缓存。当前验证不代表永久免于风控，遇限仍停止。

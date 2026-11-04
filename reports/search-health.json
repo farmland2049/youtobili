@@ -1,0 +1,73 @@
+{
+  "checked_at": "2026-11-04T08:21:40.360279+00:00",
+  "mode": "anonymous guest",
+  "search_session_version": 2,
+  "queries": [
+    {
+      "query": "3Blue1Brown 傅里叶变换",
+      "code": 0,
+      "result_count": 20,
+      "expected_bvid_found": true,
+      "examples": [
+        {
+          "bvid": "BV1pW411J7s8",
+          "title": "【官方双语】形象展示傅里叶变换"
+        },
+        {
+          "bvid": "BV1Gx411Y7cz",
+          "title": "【官方双语】微积分的本质 - 10 - 泰勒级数"
+        },
+        {
+          "bvid": "BV1buYz6LEX5",
+          "title": "麻省理工学院《信号与系统|6.003 Signals and Systems Fall 2011》中英字幕"
+        }
+      ]
+    },
+    {
+      "query": "How to Speak Patrick Winston",
+      "code": 0,
+      "result_count": 20,
+      "expected_bvid_found": true,
+      "examples": [
+        {
+          "bvid": "BV1tU4y187xz",
+          "title": "【公开课】《如何说话&演讲How to Speak》-帕特里克·温斯顿（Patrick Winston）麻省理工大学教授-中英双语"
+        },
+        {
+          "bvid": "BV1mJ411X7ea",
+          "title": "【17】【TED】【字幕版】How trees talk to each other - Suzanne Simard"
+        },
+        {
+          "bvid": "BV1zGtD65Ehf",
+          "title": "【中文配音】MIT传奇演讲课：40年经典，教你开口就征服全场 | MIT OpenCourseWare"
+        }
+      ]
+    },
+    {
+      "query": "3Blue1Brown 神经网络",
+      "code": 0,
+      "result_count": 20,
+      "expected_bvid_found": true,
+      "examples": [
+        {
+          "bvid": "BV1KtM16cEDZ",
+          "title": "【极致中配】3Blue1Brown | 神经网络"
+        },
+        {
+          "bvid": "BV1BzNLzzExg",
+          "title": "【中文配音】3Blue1Brown 神经网络课"
+        },
+        {
+          "bvid": "BV1bx411M7Zx",
+          "title": "【官方双语】深度学习之神经网络的结构 Part 1 ver 2.0"
+        }
+      ]
+    }
+  ],
+  "stopped": false,
+  "guest_cookie_names": [
+    "b_nut",
+    "buvid3"
+  ],
+  "passed": true
+}

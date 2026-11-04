@@ -88,3 +88,11 @@ python3 scripts/pipeline.py verify-leads data/work/web-leads.json --limit 50 --d
 合集简介中的“上篇／下篇”或“P1／P2”若分别明确标注原片ID，只能将该ID用于相应分P。文件名保留 `[原片ID]` 或末尾 `-原片ID` 时可用于定位；不能从合集总时长或分P顺序猜测。手工指定分P会锁定选择。
 
 `verify-leads` 的详情请求若也出现风控，会锁住后续详情批次。先检查并归档本地 `lead-receipt.json`，确认环境恢复后再由人工触发；不要自动清除锁定或循环重试。执行回执与搜索受阻情况会纳入进展报告。
+
+## 搜索会话修复后的运行约定
+
+2026-11-04已补齐首次搜索前的匿名访客会话初始化，当前恢复验证见 [搜索修复记录](../reports/SEARCH-RECOVERY.md)。搜索自动使用至少3秒间隔和新版缓存空间；访客Cookie仅在进程内保存。
+
+先用 `python3 scripts/search_health.py` 做三条有预期结果的真实查询，再从 `match --limit 5 --delay 3` 开始。需要定位单条断点时使用 `match --vid 原片ID --limit 1 --delay 3`；已完成的旧条目需显式指定 `--recheck` 才会重新处理。
+
+新的 `search_session_version=2` 用于区分旧匿名搜索。不要把旧版本的偏题缓存当作当前搜索结果，也不要因为接口恢复就批量批准候选。再次出现风控时仍立即停下，不自动更换身份、代理或反复重试。
