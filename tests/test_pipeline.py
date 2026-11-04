@@ -7,6 +7,10 @@ class MatchingTests(unittest.TestCase):
  def setUp(self):
   self.o={'vid':'abcdefghijk','title':'Neural networks chapter 1 2024','channel':'Author'}
   self.d={'title':'【中文字幕】Neural networks chapter 1 2024','desc':'https://youtu.be/abcdefghijk', 'pages':[{'page':1,'duration':450,'part':'Neural networks chapter 1 2024','cid':123}]}
+ def test_foreign_or_unspecified_subtitles_do_not_claim_chinese(self):
+  for title in ['Talk [英语字幕]','Talk【字幕】','Talk [English subtitles]']:
+   self.assertEqual(p.lang_kind(title,'Uploader','Author'),'original')
+  self.assertEqual(p.lang_kind('Talk【中文字幕】','Uploader','Author'),'sub_zh')
  def result(self):return p.assess(self.o,self.d,1,450)
  def test_short_video_with_identity_is_accepted(self):self.assertEqual(self.result()['status'],'confirmed')
  def test_title_and_duration_without_identity_are_not_enough(self):
@@ -138,10 +142,13 @@ class BuildTests(unittest.TestCase):
     for f in ['index.html','app.js','style.css']:(root/'web'/f).write_text('')
     def candidate(status,page):return {'bvid':'BV1234567890','status':status,'availability':'available','evidence':['original link'],'page':page,'cid':page,'title':'T','up':'U','duration':50,'kind':'sub_zh','views':1,'pic':'https://example.org/pic','checked_at':p.now()}
     lib={rows[0]['vid']:{'status':'confirmed','candidates':[candidate('confirmed',1),candidate('review',3)]},rows[1]['vid']:{'status':'confirmed','candidates':[candidate('confirmed',2)]},rows[2]['vid']:{'status':'review','candidates':[candidate('review',4)]}}
+    lib[rows[0]['vid']]['candidates'][0]['search_hint']={'identity':True}
     lib[rows[0]['vid']]['candidates'][1]['bvid']='BV9999999999'
     lib[rows[2]['vid']]['candidates'][0]['bvid']='BV8888888888'
     p.write(p.WORK/'library.json',lib);p.build();d=p.read(root/'data.json')
     self.assertEqual(len(d['videos']),2);self.assertEqual(len(d['videos'][0]['versions']),1)
+    self.assertNotIn('search_hint',(root/'data.json').read_text())
+    self.assertNotIn('search_hint',(root/'data/confirmed.json').read_text())
     self.assertEqual(d['legacy'],{'BV1234567890':rows[0]['vid']})
     lib[rows[1]['vid']]['candidates'][0]['page']=1;p.write(p.WORK/'library.json',lib);p.build()
     self.assertEqual(len(p.read(root/'data.json')['videos']),0)
@@ -175,7 +182,55 @@ class BatchTests(unittest.TestCase):
     self.assertEqual(seen,['ABCDEFGHIJK','01234567890'])
    finally:p.ROOT,p.WORK=old
 
+ def test_network_error_stops_and_leaves_later_originals_unattempted(self):
+  from unittest.mock import patch
+  from types import SimpleNamespace
+  with tempfile.TemporaryDirectory() as temp,patch.object(p,'WORK',Path(temp)),patch.object(p,'report'):
+   rows=[{'vid':v,'score':1} for v in ['abcdefghijk','ABCDEFGHIJK']]
+   lib={r['vid']:{'status':'review','candidates':[{'bvid':'BV1234567890','status':'review'}]} for r in rows}
+   with patch.object(p,'corpus',return_value=rows),patch.object(p,'import_legacy',return_value=lib),patch.object(p,'Client'),patch.object(p,'evaluate',side_effect=p.ApiError('RemoteDisconnected')) as evaluate:
+    self.assertEqual(p.run_match(SimpleNamespace(limit=2,delay=1.3,existing_only=True,recheck=False)),2)
+   self.assertEqual(evaluate.call_count,1)
+   batch=p.read(next((Path(temp)/'batches').glob('*.json')))
+   self.assertEqual(batch['unattempted'],1);self.assertFalse(batch['stopped'])
+   self.assertEqual(lib['abcdefghijk']['candidates'][0]['status'],'review')
+   self.assertNotIn('completed_at',lib['abcdefghijk'])
+
 class SearchCandidateTests(unittest.TestCase):
+ def test_primary_first_keeps_candidates_and_requires_full_identity(self):
+  from unittest.mock import patch
+  from types import SimpleNamespace
+  with tempfile.TemporaryDirectory() as temp,patch.object(p,'ROOT',Path(temp)),patch.object(p,'WORK',Path(temp)/'work'):
+   original={'vid':'abcdefghijk','title':'Original title','channel':'Creator'}
+   results=[{'bvid':'BV0000000001','title':'Original title','duration':'10:00'},
+    {'bvid':'BV0000000002','title':'【中文字幕】Original title','description':'https://youtu.be/abcdefghijk','duration':'10:00'},
+    {'bvid':'BV0000000003','title':'Original title','duration':'10:00'}]
+   seen=[];lib={}
+   class Fixture:
+    def __init__(self,delay):pass
+    def get(self,url):
+     if 'hackertube.org' in url:return {'video':{'duration_s':600}}
+     if '/search/' in url:return {'data':{'result':results}}
+     bv=p.parse_qs(p.urlparse(url).query)['bvid'][0];seen.append(bv)
+     return {'data':{'title':next(x['title'] for x in results if x['bvid']==bv),
+      'desc':'https://youtu.be/abcdefghijk' if bv=='BV0000000001' else '',
+      'owner':{'name':'Uploader'},'pages':[{'page':1,'cid':123,'duration':600,'part':'Original title'}]}}
+   args=SimpleNamespace(delay=1.3,existing_only=False,recheck=False,limit=1,primary_first=True)
+   with patch.object(p,'corpus',return_value=[original]),patch.object(p,'import_legacy',return_value=lib),patch.object(p,'Client',Fixture),patch.object(p,'report'):
+    self.assertEqual(p.run_match(args),0)
+   self.assertEqual(seen,['BV0000000002','BV0000000001'])
+   candidates={c['bvid']:c for c in lib['abcdefghijk']['candidates']}
+   self.assertEqual(candidates['BV0000000002']['status'],'review')
+   self.assertEqual(candidates['BV0000000001']['status'],'confirmed')
+   self.assertTrue(candidates['BV0000000003']['detail_deferred_after_match'])
+   self.assertNotIn('checked_at',candidates['BV0000000003'])
+   self.assertEqual(len(candidates),3)
+ def test_primary_first_recheck_is_rejected_before_requests(self):
+  from unittest.mock import patch
+  from types import SimpleNamespace
+  with patch.object(p,'Client') as client:
+   with self.assertRaises(ValueError):p.run_match(SimpleNamespace(limit=1,primary_first=True,recheck=True))
+   client.assert_not_called()
  def test_review_expansion_selects_shallow_reviews_and_failed_expansions(self):
   from unittest.mock import patch
   from types import SimpleNamespace
@@ -249,6 +304,18 @@ class GuestSearchTests(unittest.TestCase):
      return io.BytesIO(b'<html>public homepage</html>')
     return io.BytesIO(b'{"code":0,"data":{"result":[]}}')
   c.opener=Opener();return c,calls
+ def test_disconnection_is_an_error_without_retry_or_cache(self):
+  from unittest.mock import patch
+  from http.client import RemoteDisconnected
+  with tempfile.TemporaryDirectory() as temp,patch.object(p,'WORK',Path(temp)),patch.object(p.Client,'wait_turn'):
+   for guest in (False,True):
+    c=p.Client();c.opener=unittest.mock.Mock()
+    c.opener.open.side_effect=RemoteDisconnected('closed')
+    with self.assertRaisesRegex(p.ApiError,'RemoteDisconnected'):
+     if guest:c.ensure_guest()
+     else:c.get('https://api.bilibili.com/x/web-interface/view?bvid=BV1234567890')
+    self.assertEqual(c.opener.open.call_count,1)
+    self.assertEqual(list(c.cache.glob('*.json')),[])
  def test_homepage_is_visited_once_before_search_with_headers(self):
   from unittest.mock import patch
   with tempfile.TemporaryDirectory() as temp,patch.object(p,'WORK',Path(temp)),patch.object(p.Client,'wait_turn'):
@@ -293,6 +360,17 @@ class GuestSearchTests(unittest.TestCase):
    self.assertEqual(len(calls),1);self.assertFalse(c.guest_ready)
 
 class PublicLeadTests(unittest.TestCase):
+ def test_ordinary_request_error_stops_lead_batch(self):
+  from unittest.mock import patch
+  from types import SimpleNamespace
+  with tempfile.TemporaryDirectory() as temp,patch.object(p,'WORK',Path(temp)),patch.object(p,'report'):
+   file=Path(temp)/'leads.json';p.write(file,[{'vid':'abcdefghijk','bvid':'BV1234567890'},{'vid':'abcdefghijk','bvid':'BV1234567891'}])
+   with patch.object(p,'import_legacy',return_value={}),patch.object(p,'corpus',return_value=[{'vid':'abcdefghijk'}]),patch.object(p,'Client') as client:
+    client.return_value.get.side_effect=p.ApiError('RemoteDisconnected')
+    self.assertEqual(p.verify_leads(SimpleNamespace(file=str(file),limit=50,delay=1.3)),2)
+    self.assertEqual(client.return_value.get.call_count,1)
+   receipt=p.read(Path(temp)/'lead-receipt.json')
+   self.assertEqual(receipt['attempted'],1);self.assertTrue(receipt['request_failed']);self.assertFalse(receipt['stopped'])
  def test_new_deleted_identity_lead_is_recorded_without_completing_original(self):
   from unittest.mock import patch
   from types import SimpleNamespace

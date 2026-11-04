@@ -1,271 +1,229 @@
 {
-  "baseline_commit": "654c1f26f0f5ecebbfccbd6ea6acc31545fddb99",
+  "baseline_commit": "7d8ec5060baaf10e45fb278d97fdb0868385d8fc",
   "before": {
-    "corpus": 6454,
-    "processed": 474,
-    "confirmed": 244,
-    "coverage": 0.03780601177564301,
-    "processed_match_rate": 0.5147679324894515
-  },
-  "after": {
     "corpus": 6454,
     "processed": 594,
     "confirmed": 281,
     "coverage": 0.043538890610474126,
     "processed_match_rate": 0.4730639730639731
   },
-  "newly_processed": 120,
-  "newly_processed_confirmed": 47,
-  "newly_processed_match_rate": 0.39166666666666666,
-  "previously_processed_newly_confirmed": 1,
-  "added_originals": 48,
-  "withdrawn_originals": 11,
-  "net_confirmed_change": 37,
-  "versions": 375,
-  "added_versions": 70,
-  "withdrawn_versions": 14,
-  "net_versions_change": 56,
+  "after": {
+    "corpus": 6454,
+    "processed": 648,
+    "confirmed": 299,
+    "coverage": 0.046327858692283855,
+    "processed_match_rate": 0.46141975308641975
+  },
+  "newly_processed": 54,
+  "newly_processed_confirmed": 18,
+  "newly_processed_match_rate": 0.3333333333333333,
+  "added_originals": 18,
+  "withdrawn_originals": 0,
+  "net_confirmed_change": 18,
+  "added_versions": 32,
+  "withdrawn_versions": 0,
+  "versions": 407,
+  "net_versions_change": 32,
   "batches": [
     {
-      "id": "20261104T144113Z",
+      "id": "20261104T212603Z",
       "selected": 50,
-      "completed": 48,
-      "errors": [
-        {
-          "vid": "oIG9ztQw2Gc",
-          "reason": "URLError"
-        },
-        {
-          "vid": "Zk11vI-7czE",
-          "reason": "URLError"
-        }
-      ],
-      "stopped": false,
-      "originals": [
-        "msVuCEs8Ydo",
-        "nm1TxQj9IsQ",
-        "r3snVCRo_bI",
-        "rOwMW6agpTI",
-        "roBkg-iPrbw",
-        "sGG-A80Tl5g",
-        "tIuj-oMN-Fk",
-        "vsMydMDi3rI",
-        "wbSwFU6tY1c",
-        "wfm2xCKOCNk",
-        "wh4aWZRtTwU",
-        "yCcWpzY8dIA",
-        "0PclgBd6_Zs",
-        "15RTC22Z2xI",
-        "5TFDG-y-EHs",
-        "5pYeoZaoWrA",
-        "6y8XgGhXkTQ",
-        "7Hk9jct2ozY",
-        "8Ab3ArE8W3s",
-        "9QMGAtxUlAc",
-        "9XaYdCdwiWU",
-        "EYPapE-3FRw",
-        "GvtNyOzGogc",
-        "LO1mTELoj6o",
-        "OoJsPvmFixU",
-        "QPKKQnijnsM",
-        "R9ITLdmfdLI",
-        "YnWhqhNdYyk",
-        "Z4oYSByyRak",
-        "_ZG8HBuDjgc",
-        "fD2briZ6fB0",
-        "gCWtkvDQ2ZI",
-        "m3svKOdZijA",
-        "nJPERZDfyWc",
-        "pTn6Ewhb27k",
-        "prXuyMCgbTc",
-        "r-A78RgMhZU",
-        "rI8tNMsozo0",
-        "vTMF6xEiAaY",
-        "wlR5gYd6um0",
-        "08mwXICY4JM",
-        "3Y3jE3B8HsE",
-        "6avJHaC3C2U",
-        "7ImvlS8PLIo",
-        "AF8d72mA41M",
-        "EKWGGDXe5MA",
-        "HCUct4NlxE0",
-        "Ip3X9LOh2dk"
-      ],
-      "attempted": 50,
-      "unattempted": 0,
-      "statuses": {
-        "review": 31,
-        "confirmed": 19
-      },
-      "candidate_count": 1864
-    },
-    {
-      "id": "20261104T145912Z",
-      "selected": 1,
-      "completed": 1,
+      "completed": 37,
       "errors": [],
       "stopped": false,
       "originals": [
-        "oIG9ztQw2Gc"
+        "HeQX2HjkcNo",
+        "J7E-aoXLZGY",
+        "LPjzfGChGlE",
+        "Mc_4Z1oiXhY",
+        "Q2UnOryQiIY",
+        "Sm5xF-UYgdg",
+        "T71ibcZAX3I",
+        "YKuRkGkf5HU",
+        "ZDnShu5V99s",
+        "ZeecOKBus3Q",
+        "_Cp-BGQfpHQ",
+        "_YWMGuh15nE",
+        "a0atL1HSwi8",
+        "cKPlPJyQrt4",
+        "dPHPNgIihR0",
+        "fpbOEoRrHyU",
+        "hx7BXih7zx8",
+        "l8XOZJkozfI",
+        "l_F9jxsfGCw",
+        "nM9f0W2KD5s",
+        "o0VrZPBskpg",
+        "rHIkrotSwcc",
+        "rRbY3TMUcgQ",
+        "s86-Z-CbaHA",
+        "sPhpelUfu8Q",
+        "uNjxe8ShM-8",
+        "w3_0x6oaDmI",
+        "wrwgIjBUYVc",
+        "wupToqz1e2g",
+        "wxL4ElboiuA",
+        "xt1KNDmOYqA",
+        "yL_-1d9OSdk",
+        "zNVQfWC_evg",
+        "zb7Bs98KmnY",
+        "-6rWqJhDv7M",
+        "-HFwok9SlQQ",
+        "-fny99f8amM"
       ],
-      "attempted": 1,
-      "unattempted": 0,
+      "attempted": 37,
+      "unattempted": 13,
       "statuses": {
-        "confirmed": 1
-      },
-      "candidate_count": 39
+        "confirmed": 12,
+        "review": 25
+      }
     },
     {
-      "id": "20261104T145938Z",
-      "selected": 1,
-      "completed": 1,
-      "errors": [],
-      "stopped": false,
-      "originals": [
-        "Zk11vI-7czE"
-      ],
-      "attempted": 1,
-      "unattempted": 0,
-      "statuses": {
-        "review": 1
-      },
-      "candidate_count": 39
-    },
-    {
-      "id": "20261104T150207Z",
-      "selected": 50,
-      "completed": 48,
-      "errors": [
-        {
-          "vid": "VscdPA6sUkc",
-          "reason": "URLError"
-        },
-        {
-          "vid": "54l8_ewcOlY",
-          "reason": "URLError"
-        }
-      ],
-      "stopped": false,
-      "originals": [
-        "J3FcbFqSoQY",
-        "KLjgBLwH3Wc",
-        "KrksBdWcZgQ",
-        "Mfsnlbd-4xQ",
-        "NdSD07U5uBs",
-        "TfYf_rPWUdY",
-        "U7VwtOrwceo",
-        "Uj-rK8V-rik",
-        "Up7LcbGZFuo",
-        "X2wLP0izeJE",
-        "XheAMrS8Q1c",
-        "agZ0xISi40E",
-        "atvtBE6t48M",
-        "fHNmRkzxHWs",
-        "hX2aZUav-54",
-        "hxM8QmyZXtg",
-        "j3mhkYbznBk",
-        "jTYkdEU_B4o",
-        "kYHTzqHIngk",
-        "l0GA901oGe4",
-        "l7TONauJGfc",
-        "l7rce6IQDWs",
-        "nT-TGvYOBpI",
-        "oeYBdghaIjc",
-        "pqzcCfUglws",
-        "ras_VYgA77Q",
-        "t705r8ICkRw",
-        "t_rzYnXEQlE",
-        "tiJVJ5QRRUE",
-        "tybOi4hjZFQ",
-        "tzt36EGKEZo",
-        "wt-iVFxgFWk",
-        "yFIa-Mc2KSk",
-        "y_SXXTBypIg",
-        "z1ROpIKZe-c",
-        "2tdiKTSdE9Y",
-        "3Ea3pkTCYx4",
-        "7ttG90raCNo",
-        "8Z685OF-PS8",
-        "8xJzHq8ru0M",
-        "996OiexHze0",
-        "AxFzf6yIfcc",
-        "BFld4EBO2RE",
-        "BzB5xtGGsTc",
-        "D6h5dFyyUX0",
-        "DkS1pkKpILY",
-        "Ge3aKEmZcqY",
-        "GiYO1TObNz8"
-      ],
-      "attempted": 50,
-      "unattempted": 0,
-      "statuses": {
-        "review": 40,
-        "confirmed": 10
-      },
-      "candidate_count": 1849
-    },
-    {
-      "id": "20261104T152246Z",
-      "selected": 1,
-      "completed": 1,
-      "errors": [],
-      "stopped": false,
-      "originals": [
-        "VscdPA6sUkc"
-      ],
-      "attempted": 1,
-      "unattempted": 0,
-      "statuses": {
-        "review": 1
-      },
-      "candidate_count": 40
-    },
-    {
-      "id": "20261104T152309Z",
-      "selected": 1,
-      "completed": 1,
-      "errors": [],
-      "stopped": false,
-      "originals": [
-        "54l8_ewcOlY"
-      ],
-      "attempted": 1,
-      "unattempted": 0,
-      "statuses": {
-        "review": 1
-      },
-      "candidate_count": 40
-    }
-  ],
-  "verification_batches": [
-    {
-      "id": "2026-11-04T15:01:17.002683+00:00",
-      "source": "serial-20261104T150111Z-leads-1.json",
-      "attempted": 18,
-      "completed": 18,
-      "confirmed": 13,
-      "errors": [],
-      "stopped": false,
-      "input_sha256": "f7d14d5fbbdcfcbf74c4c357e261926cfd82120f5895740b8a5608c244488faa",
-      "input_leads": 18
-    },
-    {
-      "id": "2026-11-04T15:36:13.045486+00:00",
-      "source": "quality-leads-654c.json",
-      "attempted": 13,
+      "id": "20261104T214627Z",
+      "selected": 13,
       "completed": 13,
-      "confirmed": 10,
       "errors": [],
       "stopped": false,
-      "input_sha256": "581ced71c9f02daf05cc4931d5b2f31c152b63d71cebcc8b9a2ac0f4becf9219",
-      "input_leads": 13
+      "originals": [
+        "1TKSfAkWWN0",
+        "3kEpZWGgJks",
+        "3wfNl2L0Gf8",
+        "4PaWFYm0kEw",
+        "5_KcQt0z-eE",
+        "6UsHHOCH4q8",
+        "7jiPeIFXb6U",
+        "7vfqkvwW2fs",
+        "7zrx-b2sLUs",
+        "8X7Ng75e5gQ",
+        "A8eCGOqgvH4",
+        "BCmz-fgp24E",
+        "Dp-mQ3HxgDE"
+      ],
+      "primary_first": true,
+      "deferred_candidates": 42,
+      "attempted": 13,
+      "unattempted": 0,
+      "statuses": {
+        "review": 9,
+        "confirmed": 4
+      },
+      "candidate_count": 513
     }
   ],
-  "collection_candidates_returned_to_review": 14,
-  "available_candidates_rejected_as_mismatch": 1,
-  "manual_reviews": "manual-identity-reviews.json",
-  "requested_following_search_batches": 3,
-  "following_search_batches_completed_after_explicit_recovery": 1,
-  "remaining_following_search_batches": 2,
-  "remaining_cached_identity_leads": 0
+  "deferred_details": 36,
+  "ordinary_disconnection": {
+    "type": "RemoteDisconnected",
+    "completed": 37,
+    "interrupted_vid": "1TKSfAkWWN0",
+    "risk_control": false,
+    "source_log": "serial-remaining-two.log",
+    "batch": {
+      "id": "20261104T212603Z",
+      "selected": 50,
+      "completed": 37,
+      "errors": [],
+      "stopped": false,
+      "originals": [
+        "HeQX2HjkcNo",
+        "J7E-aoXLZGY",
+        "LPjzfGChGlE",
+        "Mc_4Z1oiXhY",
+        "Q2UnOryQiIY",
+        "Sm5xF-UYgdg",
+        "T71ibcZAX3I",
+        "YKuRkGkf5HU",
+        "ZDnShu5V99s",
+        "ZeecOKBus3Q",
+        "_Cp-BGQfpHQ",
+        "_YWMGuh15nE",
+        "a0atL1HSwi8",
+        "cKPlPJyQrt4",
+        "dPHPNgIihR0",
+        "fpbOEoRrHyU",
+        "hx7BXih7zx8",
+        "l8XOZJkozfI",
+        "l_F9jxsfGCw",
+        "nM9f0W2KD5s",
+        "o0VrZPBskpg",
+        "rHIkrotSwcc",
+        "rRbY3TMUcgQ",
+        "s86-Z-CbaHA",
+        "sPhpelUfu8Q",
+        "uNjxe8ShM-8",
+        "w3_0x6oaDmI",
+        "wrwgIjBUYVc",
+        "wupToqz1e2g",
+        "wxL4ElboiuA",
+        "xt1KNDmOYqA",
+        "yL_-1d9OSdk",
+        "zNVQfWC_evg",
+        "zb7Bs98KmnY",
+        "-6rWqJhDv7M",
+        "-HFwok9SlQQ",
+        "-fny99f8amM"
+      ],
+      "attempted": 37,
+      "unattempted": 13,
+      "statuses": {
+        "confirmed": 12,
+        "review": 25
+      }
+    },
+    "note": "Original batch stopped by uncaught transport exception. No explicit invalidation and no automatic retry."
+  },
+  "baseline_hashes": {
+    "baseline_library": "d3bb23c8ccfa494d2fd2ed565c9ce4c403bbc97227559f622c3e9c86794cf04c",
+    "baseline_public": "98c0eef3614cf8adcf89068d6088ae7bac278a7538ba084e53eb81cea7d728a1"
+  },
+  "verification_batch": {
+    "id": "2026-11-04T21:50:27.623390+00:00",
+    "source": "primary-pilot-leads.json",
+    "attempted": 11,
+    "completed": 11,
+    "confirmed": 9,
+    "errors": [],
+    "stopped": false
+  },
+  "identity_input_sha256": "1bd6ef83fbdcce8bc9337e550c47a34feb83f1665153e0864140a7b22545aedf",
+  "language_corrections": [
+    {
+      "vid": "IlU-zDU6aQ0",
+      "bvid": "BV1Pz4y1f7oi",
+      "status": "confirmed",
+      "before": "sub_zh",
+      "after": "original"
+    },
+    {
+      "vid": "I8Xc2_FtpHI",
+      "bvid": "BV16f4y1u7rZ",
+      "status": "confirmed",
+      "before": "sub_zh",
+      "after": "original"
+    },
+    {
+      "vid": "rStL7niR7gs",
+      "bvid": "BV1ss411x778",
+      "status": "confirmed",
+      "before": "sub_zh",
+      "after": "original"
+    },
+    {
+      "vid": "8aGhZQkoFbQ",
+      "bvid": "BV145411871M",
+      "status": "confirmed",
+      "before": "sub_zh",
+      "after": "original"
+    },
+    {
+      "vid": "3wfNl2L0Gf8",
+      "bvid": "BV1Vs411A7tu",
+      "status": "confirmed",
+      "before": "sub_zh",
+      "after": "original"
+    }
+  ],
+  "all_language_corrections": 85,
+  "newly_processed_by_method": {
+    "search": 50,
+    "cached_source_lead_only": 4
+  }
 }

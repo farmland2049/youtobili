@@ -26,7 +26,7 @@ python3 scripts/pipeline.py check
 python3 -m unittest discover -s tests -v
 ```
 
-搜索已补齐匿名访客初始化，可先运行 `python3 scripts/search_health.py` 检查；[当前搜索验证](reports/SEARCH-RECOVERY.md)。匹配批次遇到412、登录要求或限流立即停止并保留进度。先检查 `reports/STATUS.md`，不要连续重试。可在 `data/search-queries.json` 维护简短中英文检索词，检索词不作为审核证据。可用 `seed-identities` 复用公开缓存中的来源线索，用 `match --expand-review --limit 50` 补查旧待审候选。详细的合集定位、人工审核与发布步骤见[操作说明](docs/WORKFLOW.md)。
+搜索已补齐匿名访客初始化，可先运行 `python3 scripts/search_health.py` 检查；[当前搜索验证](reports/SEARCH-RECOVERY.md)。匹配批次遇到接口错误、412、登录要求或限流立即停止并保留进度。先检查 `reports/STATUS.md`，不要连续重试。可在 `data/search-queries.json` 维护简短中英文检索词，检索词不作为审核证据。可用 `seed-identities` 复用公开缓存中的来源线索，用 `match --expand-review --limit 50` 补查旧待审候选。全库初轮可用 `match --primary-first --limit 50` 优先扩大原片覆盖；保留未查版本待后续补查，不降低确认门槛。详细的合集定位、人工审核与发布步骤见[操作说明](docs/WORKFLOW.md)。
 
 ## 内容与版本规则
 
@@ -52,3 +52,5 @@ python3 -m unittest discover -s tests -v
 ## 来源与署名
 
 数据来自 [HackerTube](https://hackertube.org) 与 [open-index/hacker-news](https://huggingface.co/datasets/open-index/hacker-news)，遵循 [ODC-By 1.0](https://opendatacommons.org/licenses/by/1-0/)。完整来源说明保留在 [DATA.md](data/source/DATA.md)。原站分类与摘要可能存在误差；视频、标题及频道名称属于各自作者。本项目与 B 站、YouTube、HackerTube 无隶属关系，不下载或重新托管视频。
+
+字幕语言仅凭明确中文、中英、双语等标注进入中文字幕优先档；泛称字幕、CC字幕或字幕组不能自动证明中文字幕。来源身份确认与语言分档分别核验。

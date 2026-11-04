@@ -1,35 +1,50 @@
 # 匹配进展
 
-更新时间：2026-11-04T15:40:00.214604+00:00
+更新时间：2026-11-04T21:52:17.658475+00:00
 
 - 原片库：6454
-- 完成处理：594
-- 已确认原片：281
-- 全库覆盖率：4.35%
-- 已处理原片匹配率：47.31%
-- 状态：{'confirmed': 281, 'review': 313}
+- 完成处理：648
+- 已确认原片：299
+- 全库覆盖率：4.63%
+- 已处理原片匹配率：46.14%
+- 状态：{'confirmed': 299, 'review': 349}
 
-- 待审中尚需扩大候选检查：122
-- 已扩大检查仍待审核：191
+- 待审中尚需扩大候选检查：124
+- 已扩大检查仍待审核：225
 
 ## 最近批次
 
 ```json
 {
-  "id": "20261104T152309Z",
-  "selected": 1,
-  "completed": 1,
+  "id": "20261104T214627Z",
+  "selected": 13,
+  "completed": 13,
   "errors": [],
   "stopped": false,
   "originals": [
-    "54l8_ewcOlY"
+    "1TKSfAkWWN0",
+    "3kEpZWGgJks",
+    "3wfNl2L0Gf8",
+    "4PaWFYm0kEw",
+    "5_KcQt0z-eE",
+    "6UsHHOCH4q8",
+    "7jiPeIFXb6U",
+    "7vfqkvwW2fs",
+    "7zrx-b2sLUs",
+    "8X7Ng75e5gQ",
+    "A8eCGOqgvH4",
+    "BCmz-fgp24E",
+    "Dp-mQ3HxgDE"
   ],
-  "attempted": 1,
+  "primary_first": true,
+  "deferred_candidates": 42,
+  "attempted": 13,
   "unattempted": 0,
   "statuses": {
-    "review": 1
+    "review": 9,
+    "confirmed": 4
   },
-  "candidate_count": 40
+  "candidate_count": 513
 }
 ```
 
@@ -37,11 +52,11 @@
 
 ```json
 {
-  "id": "2026-11-04T15:36:13.045486+00:00",
-  "source": "quality-leads-654c.json",
-  "attempted": 13,
-  "completed": 13,
-  "confirmed": 10,
+  "id": "2026-11-04T21:50:27.623390+00:00",
+  "source": "primary-pilot-leads.json",
+  "attempted": 11,
+  "completed": 11,
+  "confirmed": 9,
   "errors": [],
   "stopped": false
 }

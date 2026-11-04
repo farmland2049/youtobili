@@ -5,6 +5,7 @@ const fs = require('node:fs');
   const browser = await chromium.launch({ headless: true });
   const data = JSON.parse(fs.readFileSync('data.json'));
   const requested = (process.env.PLAYBACK_IDS || '').split(',').map(id => id.trim()).filter(Boolean);
+  const requestedBvids = (process.env.PLAYBACK_BVIDS || '').split(',').map(id => id.trim());
   const cases = requested.length ? requested.map(id => ({ label: id, video: data.videos.find(v => v.id === id) })) : ['official_zh', 'sub_zh', 'original', 'dub_zh'].map(kind => ({
     label: kind, video: data.videos.find(v => v.versions[0].kind === kind)
   }));
@@ -14,8 +15,11 @@ const fs = require('node:fs');
   }
   if (cases.some(sample => !sample.video) && requested.length) throw Error('Requested original is not published');
   const results = [];
-  for (const sample of cases.filter(c => c.video)) {
-    const v = sample.video, version = v.versions[0];
+  for (const [sampleIndex, sample] of cases.filter(c => c.video).entries()) {
+    const v = sample.video;
+    const versionIndex = requestedBvids[sampleIndex] ? v.versions.findIndex(c => c.bvid === requestedBvids[sampleIndex]) : 0;
+    if (versionIndex < 0) throw Error('Requested Bilibili version is not published for this original');
+    const version = v.versions[versionIndex];
     const page = await browser.newPage();
     const requestedCids = new Set();
     page.on('request', request => {
@@ -26,6 +30,7 @@ const fs = require('node:fs');
     });
     try {
       await page.goto((process.env.TEST_URL || 'http://127.0.0.1:8765/') + '#v/' + v.id);
+      if (versionIndex) await page.locator('#version').selectOption(String(versionIndex));
       await page.locator('iframe').waitFor();
       const frame = page.locator('iframe').contentFrame();
       await frame.locator('video').waitFor({ timeout: 20000 });

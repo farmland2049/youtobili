@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Standard-library-only, resumable metadata → candidate → confirmed-public pipeline."""
-import argparse, collections, datetime, hashlib, html, http.cookiejar, json, os, re, time
+import argparse, collections, datetime, hashlib, html, http.cookiejar, http.client, json, os, re, time
 from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode, urlparse, parse_qs
@@ -97,7 +97,7 @@ class Client:
         except HTTPError as e:
             if e.code in (401,403,412,429):raise Blocked(f'Guest initialization HTTP {e.code}: batch stopped') from None
             raise ApiError(f'Guest initialization HTTP {e.code}') from None
-        except (URLError,TimeoutError) as e:raise ApiError('Guest initialization '+type(e).__name__) from None
+        except (URLError,TimeoutError,ConnectionError,http.client.HTTPException) as e:raise ApiError('Guest initialization '+type(e).__name__) from None
         if not any(c.name=='buvid3' and (c.domain.lstrip('.')=='bilibili.com' or c.domain.endswith('.bilibili.com')) for c in self.cookie_jar):
             raise Blocked('Guest initialization did not supply buvid3; batch stopped')
         self.guest_ready=True
@@ -118,7 +118,7 @@ class Client:
         except HTTPError as e:
             if e.code in (401,403,412,429): raise Blocked(f'HTTP {e.code}: batch stopped') from None
             raise ApiError(f'HTTP {e.code}') from None
-        except (URLError, TimeoutError, json.JSONDecodeError) as e:
+        except (URLError, TimeoutError, ConnectionError, http.client.HTTPException, json.JSONDecodeError) as e:
             raise ApiError(type(e).__name__) from None
         if isinstance(b,dict) and b.get('code',0) in (-101,-111,-352,-412,-509):
             raise Blocked(f"API {b['code']}: authentication/risk control; batch stopped")
@@ -151,7 +151,7 @@ def import_legacy():
 def lang_kind(title, owner, original):
     official = norm(owner) == norm(original) and bool(norm(original))
     # "官方" in a title alone does not prove account ownership.
-    sub = bool(re.search(r'字幕|双语|中英|中字|中文翻译|汉化|熟肉|精译',title))
+    sub = bool(re.search(r'双语|中英|中字|中文.{0,6}字幕|中文翻译|汉化|熟肉|精译',title))
     dub = bool(re.search(r'配音|中配|中文讲解|中文配|中文语音',title))
     return 'official_zh' if official and (sub or dub) else 'dub_zh' if dub else 'sub_zh' if sub else 'official_original' if official else 'original'
 
@@ -215,6 +215,7 @@ def evaluate(client, original, c):
         'checked_at':now(),'availability':'available'}
     fresh.pop('error',None)
     fresh.pop('duration_screened',None)
+    fresh.pop('detail_deferred_after_match',None)
     if c.get('manual_review') and c.get('status')=='confirmed':
         # Explicit reviews survive rechecks only if availability and segment ID are unchanged.
         if c.get('cid')==fresh['cid'] and not any(f in fresh['flags'] for f in ['conflicting years','conflicting episode','possibly abridged','missing segment','missing segment duration']):
@@ -282,8 +283,15 @@ def search_queries(original):
         raise ValueError('search query aliases must be a nonempty string list')
     return list(dict.fromkeys(q.strip() for q in queries))[:2]
 
+def candidate_priority(candidate):
+    hint=candidate.get('search_hint',{})
+    return (LANG_RANK.get(candidate.get('kind',hint.get('kind','original')),4),
+            not hint.get('identity',False),-candidate.get('views',hint.get('views',0)))
+
 def run_match(args):
     if not 1 <= args.limit <= 50: raise ValueError('batch limit must be 1–50')
+    primary_first=getattr(args,'primary_first',False)
+    if primary_first and args.recheck:raise ValueError('primary-first cannot replace a full availability recheck')
     client=Client(args.delay);lib=import_legacy(); rows=corpus()
     if getattr(args,'vid',None):
         rows=[o for o in rows if o['vid']==args.vid]
@@ -298,6 +306,7 @@ def run_match(args):
     if not selected:
         print('No pending candidate originals in this selection.');return 0
     batch={'id':datetime.datetime.now(datetime.timezone.utc).strftime('%Y%m%dT%H%M%SZ'),'selected':len(selected),'completed':0,'errors':[],'stopped':False,'originals':[]}
+    batch.update(primary_first=primary_first,deferred_candidates=0)
     for original in selected:
         vid=original['vid'];entry=lib.setdefault(vid,{'vid':vid,'status':'unmatched','candidates':[]})
         entry.pop('last_error',None)
@@ -312,15 +321,27 @@ def run_match(args):
                         bv=item.get('bvid','')
                         if re.fullmatch(r'BV[A-Za-z0-9]{10}',bv) and not any(c['bvid']==bv for c in entry['candidates']):
                             candidate={'bvid':bv,'status':'review','origin':'search','query':q}
+                            title=html.unescape(re.sub(r'<[^>]+>','',item.get('title') or ''))
+                            snippet=html.unescape(re.sub(r'<[^>]+>','',item.get('description') or ''))
+                            views=item.get('play',0)
+                            candidate['search_hint']={'kind':lang_kind(title,item.get('author') or '',original.get('channel','')),
+                                'identity':vid in primary_identity_ids(snippet),'views':views if isinstance(views,(int,float)) else 0}
                             duration=search_duration(item.get('duration'))
                             if defer_short_candidate(source_duration,duration):
                                 candidate.update(duration_screened=True,search_duration=duration,reason='search duration shorter than original beyond tolerance; detail review deferred')
                             entry['candidates'].append(candidate)
                 entry['searched_at']=now();entry['search_session_version']=2;entry['search_queries']=queries;entry['search_result_limit']=20
             # Persist every candidate: interruption resumes without discarding successful checks.
+            if primary_first:entry['candidates'].sort(key=candidate_priority)
             for i,c in enumerate(entry['candidates']):
                 if c.get('duration_screened') and not args.recheck:continue
                 if not args.recheck and c.get('checked_at') and not c.get('error'):continue
+                confirmed=[LANG_RANK[x['kind']] for x in entry['candidates'] if x['status']=='confirmed' and x.get('availability')=='available']
+                if primary_first and confirmed and candidate_priority(c)[0]>=min(confirmed):
+                    c['detail_deferred_after_match']=True
+                    c.setdefault('reason','detail review deferred after primary identity confirmed')
+                    batch['deferred_candidates']+=1
+                    continue
                 try:
                     entry['candidates'][i]=evaluate(client,original,c)
                 except ApiError as e:
@@ -337,7 +358,7 @@ def run_match(args):
             print(f'{vid}: {e}',flush=True)
         finally:
             write(WORK/'library.json',lib);write(WORK/'batches'/f"{batch['id']}.json",batch);report(lib,batch)
-        if batch['stopped']:break
+        if batch['stopped'] or batch['errors']:break
     attempted=set(batch['originals'])|{e['vid'] for e in batch['errors']}
     batch['attempted']=len(attempted);batch['unattempted']=len(selected)-len(attempted)
     selected_entries=[lib[vid] for vid in attempted]
@@ -388,7 +409,7 @@ def build():
     write(ROOT/'data.json',public)
     # Keep a minimal, reproducible approval ledger. HTTP caches and pending candidates remain local.
     ledger={vid:{'vid':vid,'status':e['status'],'completed_at':e.get('completed_at'),
-        'candidates':[{k:v for k,v in c.items() if k not in {'legacy_title','legacy_confidence','query','origin'}} for c in e['candidates'] if c['status']=='confirmed']} for vid,e in lib.items()}
+        'candidates':[{k:v for k,v in c.items() if k not in {'legacy_title','legacy_confidence','query','origin','search_hint','detail_deferred_after_match'}} for c in e['candidates'] if c['status']=='confirmed']} for vid,e in lib.items()}
     write(ROOT/'data/confirmed.json',{'updated_at':now(),'entries':ledger})
     for filename in ['index.html','app.js','style.css']:(ROOT/filename).write_bytes((ROOT/'web'/filename).read_bytes())
     write(ROOT/'reports/publication.json',{'built_at':public['built_at'],'source_generated':read(SOURCE/'manifest.json')['generated'],'stats':public['stats'],'conflicting_segments':len(conflicts),'data_sha256':hashlib.sha256((ROOT/'data.json').read_bytes()).hexdigest()})
@@ -475,10 +496,11 @@ def verify_leads(args):
             receipt['completed']+=1
         except (Blocked,ApiError) as err:
             receipt['errors'].append({'bvid':bv,'reason':str(err)})
+            receipt['request_failed']=True
             if isinstance(err,Blocked):receipt['stopped']=True
         finally:
             write(WORK/'library.json',lib);write(WORK/'lead-receipt.json',receipt);report(lib)
-        if receipt['stopped']:break
+        if receipt['stopped'] or receipt.get('request_failed'):break
     print(json.dumps(receipt,ensure_ascii=False))
     return 2 if receipt['errors'] else 0
 
@@ -588,6 +610,7 @@ if __name__=='__main__':
     parser=argparse.ArgumentParser(description=__doc__);subs=parser.add_subparsers(dest='cmd',required=True)
     subs.add_parser('import');subs.add_parser('build');subs.add_parser('check');subs.add_parser('report');subs.add_parser('export-review');subs.add_parser('seed-related');subs.add_parser('seed-identities');subs.add_parser('reassess-cached')
     p=subs.add_parser('match');p.add_argument('--limit',type=int,default=50);p.add_argument('--delay',type=float,default=1.3);p.add_argument('--vid');p.add_argument('--existing-only',action='store_true');p.add_argument('--recheck',action='store_true');p.add_argument('--expand-review',action='store_true')
+    p.add_argument('--primary-first',action='store_true')
     p=subs.add_parser('verify-leads');p.add_argument('file');p.add_argument('--limit',type=int,default=50);p.add_argument('--delay',type=float,default=2)
     p=subs.add_parser('inspect');p.add_argument('vid');p.add_argument('bvid');p.add_argument('--page',type=int)
     p=subs.add_parser('review');p.add_argument('vid');p.add_argument('bvid');p.add_argument('decision',choices=['confirmed','review','unmatched','invalid']);p.add_argument('--page',type=int);p.add_argument('--evidence')

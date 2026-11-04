@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-04T15:40:00.221120+00:00",
+  "built_at": "2026-11-04T21:52:17.667444+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 594,
-    "confirmed": 281,
-    "coverage": 0.043538890610474126,
-    "processed_match_rate": 0.4730639730639731
+    "processed": 648,
+    "confirmed": 299,
+    "coverage": 0.046327858692283855,
+    "processed_match_rate": 0.46141975308641975
   },
   "areas": [
     {
@@ -436,6 +436,11 @@
           "id": "everyday-physics-demos",
           "name": "生活物理与科学演示",
           "original_name": "Everyday physics & science demos"
+        },
+        {
+          "id": "physics-space-other",
+          "name": "其他物理与太空",
+          "original_name": "Physics & space (other)"
         }
       ]
     },
@@ -626,6 +631,11 @@
           "id": "film-tv-clips",
           "name": "影视片段",
           "original_name": "Film & TV clips"
+        },
+        {
+          "id": "film-criticism-analysis",
+          "name": "影视评论与分析",
+          "original_name": "Film analysis & criticism"
         },
         {
           "id": "documentaries-storytelling",
@@ -1141,7 +1151,7 @@
           "title": "【格雷老师】统治者需要了解的三个黄金规则【lawyerlulu字幕组】",
           "up": "lawyerlulu字幕组",
           "duration": 1173,
-          "kind": "sub_zh",
+          "kind": "original",
           "views": 9391,
           "pic": "https://i2.hdslb.com/bfs/archive/0440842e6a0d8bfaab0d44903966bef40e48fc0a.jpg",
           "checked_at": "2026-11-04T15:30:17.614508+00:00"
@@ -1215,18 +1225,6 @@
           "checked_at": "2026-11-04T15:30:17.614864+00:00"
         },
         {
-          "bvid": "BV145411871M",
-          "page": 1,
-          "cid": 222199136,
-          "title": "【CC字幕】菲利普·罗伯茨：到底什么是Event Loop呢？ | 欧洲 JSConf 2014",
-          "up": "小昆布鲁",
-          "duration": 1613,
-          "kind": "sub_zh",
-          "views": 606,
-          "pic": "https://i2.hdslb.com/bfs/archive/c39d6aea6d95cc47a7a684c5d5c288e1c5b0ff32.jpg",
-          "checked_at": "2026-11-04T15:30:17.615760+00:00"
-        },
-        {
           "bvid": "BV1sgx2zpEF9",
           "page": 1,
           "cid": 32948815410,
@@ -1237,6 +1235,18 @@
           "views": 809,
           "pic": "https://i2.hdslb.com/bfs/archive/8bdeca78578c27e1c9edddde4681e78841e23eb5.jpg",
           "checked_at": "2026-11-04T15:30:17.615244+00:00"
+        },
+        {
+          "bvid": "BV145411871M",
+          "page": 1,
+          "cid": 222199136,
+          "title": "【CC字幕】菲利普·罗伯茨：到底什么是Event Loop呢？ | 欧洲 JSConf 2014",
+          "up": "小昆布鲁",
+          "duration": 1613,
+          "kind": "original",
+          "views": 606,
+          "pic": "https://i2.hdslb.com/bfs/archive/c39d6aea6d95cc47a7a684c5d5c288e1c5b0ff32.jpg",
+          "checked_at": "2026-11-04T15:30:17.615760+00:00"
         },
         {
           "bvid": "BV16W411G7ht",
@@ -3727,7 +3737,7 @@
           "title": "[Marty Lobdell] Study Less Study Smart(CC字幕)",
           "up": "Iammyself001",
           "duration": 3596,
-          "kind": "sub_zh",
+          "kind": "original",
           "views": 5466,
           "pic": "https://i0.hdslb.com/bfs/archive/9ec0ce8a3d2fb7575f08d8d1cb1e0c9153ad6f47.jpg",
           "checked_at": "2026-11-04T15:30:17.349581+00:00"
@@ -5629,7 +5639,7 @@
           "title": "01.2017 Maps of Meaning （双字幕）",
           "up": "撇捺无人",
           "duration": 9088,
-          "kind": "sub_zh",
+          "kind": "original",
           "views": 697,
           "pic": "https://i0.hdslb.com/bfs/archive/dc601a703d14f8a321c27b95ea0f52c3d0dc85b5.jpg",
           "checked_at": "2026-11-04T15:30:17.378057+00:00"
@@ -6701,6 +6711,107 @@
       ]
     },
     {
+      "id": "Q2UnOryQiIY",
+      "title": "Nina Teicholz - 'Vegetable Oils: The Unknown Story'",
+      "author": "Low Carb Down Under",
+      "source_url": "https://www.youtube.com/watch?v=Q2UnOryQiIY",
+      "summary": "Nina Teicholz, author of The Big Fat Surprise, speaks at Low Carb Gold Coast 2017 about the history and health implications of vegetable and seed oils. She covers the political and institutional forces behind dietary fat advice.",
+      "why": "Several HN commenters say it was memorable or life-changing and use it to argue against seed oils.",
+      "score": 7.5,
+      "tags": [
+        "vegetable oils",
+        "seed oils",
+        "dietary fat",
+        "low carb",
+        "nina teicholz"
+      ],
+      "categories": [
+        "nutrition-diet"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1JQNk6KErt",
+          "page": 1,
+          "cid": 39902840496,
+          "title": "Nina Teicholz - 植物油_未知的故事Vegetable Oils_ The Unknown Story",
+          "up": "雪里挑灯111",
+          "duration": 2172,
+          "kind": "original",
+          "views": 59,
+          "pic": "https://i0.hdslb.com/bfs/archive/4f4ad13be5894c7c83a421e10470fd560a160b54.jpg",
+          "checked_at": "2026-11-04T21:28:20.945987+00:00"
+        }
+      ]
+    },
+    {
+      "id": "YKuRkGkf5HU",
+      "title": "\"Voice Driven Development: Who needs a keyboard anyway?\" by Emily Shea",
+      "author": "Strange Loop Conference",
+      "source_url": "https://www.youtube.com/watch?v=YKuRkGkf5HU",
+      "summary": "Emily Shea explains how repetitive strain injury pushed her to program by voice using speech recognition (Talon), and gives a live coding demo. She argues voice-driven development can be pain-free, efficient and enjoyable.",
+      "why": "It is the go-to recommendation whenever someone asks about voice coding or RSI-friendly programming setups.",
+      "score": 7.5,
+      "tags": [
+        "talon voice",
+        "rsi",
+        "speech recognition",
+        "accessibility",
+        "live demo"
+      ],
+      "categories": [
+        "computer-vision-speech",
+        "testing-debugging-tools",
+        "software-practice-careers"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1KxxR6NEdN",
+          "page": 1,
+          "cid": 43334303748,
+          "title": "\"Voice Driven Development: Who needs a keyboard anyway?\" by Emily Shea",
+          "up": "123455432113",
+          "duration": 2478,
+          "kind": "original",
+          "views": 0,
+          "pic": "https://i0.hdslb.com/bfs/archive/6b6738132da21cea61f73284196b7907429ae3f6.png",
+          "checked_at": "2026-11-04T21:29:06.297641+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ZeecOKBus3Q",
+      "title": "Why Would AI Want to do Bad Things? Instrumental Convergence",
+      "author": "Robert Miles AI Safety ",
+      "source_url": "https://www.youtube.com/watch?v=ZeecOKBus3Q",
+      "summary": "Robert Miles explains instrumental convergence: why an AGI with almost any goal would tend to pursue sub-goals like self-preservation and resource acquisition. It builds on Omohundro's basic AI drives and his orthogonality thesis video.",
+      "why": "HN commenters repeatedly recommend it as the clearest introduction to why smart AI might behave badly by default.",
+      "score": 7.5,
+      "tags": [
+        "instrumental convergence",
+        "ai risk",
+        "agi",
+        "robert miles",
+        "orthogonality"
+      ],
+      "categories": [
+        "ai-safety-impact"
+      ],
+      "versions": [
+        {
+          "bvid": "BV12xxR6PED5",
+          "page": 1,
+          "cid": 43334242110,
+          "title": "Why Would AI Want to do Bad Things? Instrumental Convergence",
+          "up": "123455432113",
+          "duration": 636,
+          "kind": "original",
+          "views": 0,
+          "pic": "https://i0.hdslb.com/bfs/archive/de499b65b968a584a0c2c84aef9134cf9f36e1dd.png",
+          "checked_at": "2026-11-04T21:29:58.900679+00:00"
+        }
+      ]
+    },
+    {
       "id": "aFwVf5a3pZM",
       "title": "LEADERSHIP LAB: Writing Beyond the Academy 1.23.15",
       "author": "UChicago Social Sciences",
@@ -6736,6 +6847,40 @@
       ]
     },
     {
+      "id": "cKPlPJyQrt4",
+      "title": "James Powell: So you want to be a Python expert? | PyData Seattle 2017",
+      "author": "PyData",
+      "source_url": "https://www.youtube.com/watch?v=cKPlPJyQrt4",
+      "summary": "James Powell's nearly two-hour PyData talk builds up Python's data model, decorators, generators and context managers, coding live in Vim. It aims to take intermediate programmers toward real Python expertise.",
+      "why": "HN calls it one of the best technical talks and the clearest explanation of decorators, generators and context managers.",
+      "score": 7.5,
+      "tags": [
+        "python",
+        "decorators",
+        "generators",
+        "context managers",
+        "pydata"
+      ],
+      "categories": [
+        "scripting-languages",
+        "software-architecture-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV12Z421h7qB",
+          "page": 1,
+          "cid": 1471743986,
+          "title": "James Powell： So you want to be a Python expert？ ｜ PyData Seattle 2017",
+          "up": "fisheuler",
+          "duration": 6851,
+          "kind": "original",
+          "views": 8,
+          "pic": "https://i2.hdslb.com/bfs/archive/e7c12884ceb92164ac769bd6ce14868c413fd2a3.jpg",
+          "checked_at": "2026-11-04T21:31:34.694065+00:00"
+        }
+      ]
+    },
+    {
       "id": "gB9n2gHsHN4",
       "title": "Fractals are typically not self-similar",
       "author": "3Blue1Brown",
@@ -6766,6 +6911,53 @@
           "views": 197326,
           "pic": "https://i0.hdslb.com/bfs/archive/0ccc8775f055feeca63a69c60565b8cdd6298d55.jpg",
           "checked_at": "2026-11-04T15:30:17.497674+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hx7BXih7zx8",
+      "title": "Andrej Karpathy - AI for Full-Self Driving at Tesla",
+      "author": "Matroid",
+      "source_url": "https://www.youtube.com/watch?v=hx7BXih7zx8",
+      "summary": "Andrej Karpathy, then Tesla's head of AI, presents at ScaledML 2020 on how Tesla builds full self-driving using vision-based neural nets and fleet data collection. He covers training custom detectors and neural nets gradually replacing traditional code.",
+      "why": "HN repeatedly points to it as the best public technical overview of Tesla's FSD approach, used both to defend and to critique Tesla's progress.",
+      "score": 7.5,
+      "tags": [
+        "tesla autopilot",
+        "computer vision",
+        "fleet learning",
+        "andrej karpathy",
+        "autonomous driving"
+      ],
+      "categories": [
+        "self-driving-cars",
+        "machine-learning",
+        "computer-vision-speech"
+      ],
+      "versions": [
+        {
+          "bvid": "BV11i4y1t7Cv",
+          "page": 1,
+          "cid": 184172970,
+          "title": "Andrej Karpathy - AI for Full-Self Driving",
+          "up": "哇咔咔咔wakakaka",
+          "duration": 1809,
+          "kind": "original",
+          "views": 950,
+          "pic": "https://i2.hdslb.com/bfs/archive/037e01031f2ad1c83553a0d63d6e131ae9a43c57.jpg",
+          "checked_at": "2026-11-04T21:32:30.507834+00:00"
+        },
+        {
+          "bvid": "BV1TxxR6NEjt",
+          "page": 1,
+          "cid": 43334241624,
+          "title": "Andrej Karpathy - AI for Full-Self Driving at Tesla",
+          "up": "123455432113",
+          "duration": 1809,
+          "kind": "original",
+          "views": 0,
+          "pic": "https://i0.hdslb.com/bfs/archive/210c54ef0ec243390c6017a6395264d6de7f320b.png",
+          "checked_at": "2026-11-04T21:32:29.239918+00:00"
         }
       ]
     },
@@ -6805,6 +6997,181 @@
       ]
     },
     {
+      "id": "rHIkrotSwcc",
+      "title": "CppCon 2019: Chandler Carruth “There Are No Zero-cost Abstractions”",
+      "author": "CppCon",
+      "source_url": "https://www.youtube.com/watch?v=rHIkrotSwcc",
+      "summary": "Chandler Carruth argues in a CppCon 2019 talk that C++ has no truly zero-cost abstractions. Using examples like unique_ptr, ABI constraints and compile-time costs, he shows that abstractions cost runtime, compile time or human effort.",
+      "why": "HN commenters cite it whenever zero-cost abstraction claims come up, especially for why unique_ptr is not free on some ABIs.",
+      "score": 7.5,
+      "tags": [
+        "c++",
+        "zero-cost abstractions",
+        "unique_ptr",
+        "abi",
+        "compilers",
+        "performance"
+      ],
+      "categories": [
+        "systems-programming-languages",
+        "software-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV13HpQzzEXL",
+          "page": 1,
+          "cid": 32501007202,
+          "title": "CppCon 2019: Chandler Carruth “There Are No Zero-cost Abstractions”",
+          "up": "Iammyself001",
+          "duration": 3593,
+          "kind": "original",
+          "views": 10,
+          "pic": "https://i1.hdslb.com/bfs/archive/8e555860facfb7d18b7bc2e2b3da31fd8623675c.jpg",
+          "checked_at": "2026-11-04T21:33:50.268376+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s86-Z-CbaHA",
+      "title": "The Banach–Tarski Paradox",
+      "author": "Vsauce",
+      "source_url": "https://www.youtube.com/watch?v=s86-Z-CbaHA",
+      "summary": "Vsauce's roughly 24 minute explainer on the Banach-Tarski paradox, building from infinity and set theory to the decomposition of a sphere into pieces that form two spheres.",
+      "why": "Recommended as an accurate, entertaining on-ramp to set theory and infinity, worth pausing and rewatching.",
+      "score": 7.5,
+      "tags": [
+        "infinity",
+        "set theory",
+        "paradox",
+        "vsauce",
+        "measure theory"
+      ],
+      "categories": [
+        "logic-formal-methods",
+        "pure-mathematics",
+        "recreational-math"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Ps411m7a8",
+          "page": 1,
+          "cid": 4277368,
+          "title": "分球悖论：一个球变两个球（巴拿赫-塔斯基悖论）【双语字幕】",
+          "up": "昨梦电羊",
+          "duration": 1453,
+          "kind": "sub_zh",
+          "views": 493330,
+          "pic": "https://i0.hdslb.com/bfs/archive/aba6a592dbd80db8b5d2658f8ec14bf615efaabf.jpg",
+          "checked_at": "2026-11-04T21:34:46.476015+00:00"
+        },
+        {
+          "bvid": "BV1XsyxBTEtt",
+          "page": 1,
+          "cid": 33509018383,
+          "title": "【中配】巴拿赫-塔斯基悖论 - Vsauce",
+          "up": "AI译片君",
+          "duration": 1454,
+          "kind": "dub_zh",
+          "views": 904,
+          "pic": "https://i1.hdslb.com/bfs/archive/c6a642381b16c2b355081a28b019d8706f52bb4d.png",
+          "checked_at": "2026-11-04T21:34:47.830228+00:00"
+        },
+        {
+          "bvid": "BV19y4y157ZP",
+          "page": 1,
+          "cid": 381010658,
+          "title": "巴拿赫-塔斯基悖论",
+          "up": "xh6q",
+          "duration": 1454,
+          "kind": "original",
+          "views": 639,
+          "pic": "https://i0.hdslb.com/bfs/archive/148706b359275ed1c73e6f391417c0315b7cb9bb.jpg",
+          "checked_at": "2026-11-04T21:34:49.100902+00:00"
+        }
+      ]
+    },
+    {
+      "id": "uNjxe8ShM-8",
+      "title": "On The Turing Completeness of PowerPoint (SIGBOVIK)",
+      "author": "Tom Wildenhain",
+      "source_url": "https://www.youtube.com/watch?v=uNjxe8ShM-8",
+      "summary": "A short SIGBOVIK 2017 presentation by Tom Wildenhain showing that PowerPoint animations are Turing complete, with a working Turing machine built in slides. The talk is delivered deadpan as a serious research result.",
+      "why": "HN repeatedly names it as one of the funniest and best talks, a favorite example of absurd computation.",
+      "score": 7.5,
+      "tags": [
+        "powerpoint",
+        "turing machine",
+        "sigbovik",
+        "esoteric computing",
+        "humor"
+      ],
+      "categories": [
+        "computational-theory",
+        "satire-parody"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Up411o7m5",
+          "page": 1,
+          "cid": 38923183,
+          "title": "PowerPoint 的图灵完备性研究",
+          "up": "Yorlereiyo",
+          "duration": 333,
+          "kind": "original",
+          "views": 7007,
+          "pic": "https://i2.hdslb.com/bfs/archive/776c61c7d1e0045cc5e2e87d8872886bb0dbe127.jpg",
+          "checked_at": "2026-11-04T21:35:31.189607+00:00"
+        },
+        {
+          "bvid": "BV1qp411Z7S1",
+          "page": 1,
+          "cid": 39232828,
+          "title": "[Tom Wildenhain] 论PPT的图灵完备性 On The Turing Completeness of PowerPoint (SIGBOVIK)",
+          "up": "Tennenbaum",
+          "duration": 333,
+          "kind": "original",
+          "views": 1743,
+          "pic": "https://i1.hdslb.com/bfs/archive/7584bc2a5693f553008d6c2b029b5cc67d5107ba.jpg",
+          "checked_at": "2026-11-04T21:35:14.220431+00:00"
+        }
+      ]
+    },
+    {
+      "id": "w3_0x6oaDmI",
+      "title": "Why Electronic Voting is a BAD Idea - Computerphile",
+      "author": "Computerphile",
+      "source_url": "https://www.youtube.com/watch?v=w3_0x6oaDmI",
+      "summary": "Tom Scott explains for Computerphile why electronic voting is a bad idea, arguing that paper ballots are transparent, auditable and hard to tamper with at scale. He covers why moving voting to phones, tablets or computers undermines trust and verifiability.",
+      "why": "It is the go-to short explainer HN commenters link whenever e-voting, voting machines or online voting come up.",
+      "score": 7.5,
+      "tags": [
+        "e-voting",
+        "paper ballots",
+        "election security",
+        "tom scott",
+        "computerphile"
+      ],
+      "categories": [
+        "security-hacking",
+        "us-politics",
+        "cryptography"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Xs41197dT",
+          "page": 1,
+          "cid": 5459939,
+          "title": "为什么电子投票是个糟糕的主意",
+          "up": "chyiz",
+          "duration": 500,
+          "kind": "original",
+          "views": 270,
+          "pic": "https://i2.hdslb.com/bfs/archive/d3accf87d6f7dd26dd0e96f74d9ad59077fb0c70.png",
+          "checked_at": "2026-11-04T21:36:11.207184+00:00"
+        }
+      ]
+    },
+    {
       "id": "wfYbgdo8e-8",
       "title": "You Actually Share Your Brain With a Silent Stranger",
       "author": "CGP Grey",
@@ -6835,6 +7202,99 @@
           "views": 951,
           "pic": "https://i1.hdslb.com/bfs/archive/6bee4b972122da11bf8f511639947ef962448048.png",
           "checked_at": "2026-11-04T15:30:18.909134+00:00"
+        }
+      ]
+    },
+    {
+      "id": "wrwgIjBUYVc",
+      "title": "A new way to visualize General Relativity",
+      "author": "ScienceClic English",
+      "source_url": "https://www.youtube.com/watch?v=wrwgIjBUYVc",
+      "summary": "ScienceClic explains why the rubber sheet analogy for general relativity is misleading and offers a new visualization that includes the curvature of time and shows gravity as motion through curved spacetime.",
+      "why": "Called the best visualization of general relativity by many commenters, who say it cleared up long-held misunderstandings of gravity.",
+      "score": 7.5,
+      "tags": [
+        "general relativity",
+        "spacetime",
+        "curvature",
+        "gravity",
+        "rubber sheet analogy"
+      ],
+      "categories": [
+        "fundamental-physics",
+        "cosmology-astrophysics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1uh411C7R8",
+          "page": 1,
+          "cid": 291027665,
+          "title": "【中英双字】广义相对论可视化新方法",
+          "up": "Sooooft",
+          "duration": 694,
+          "kind": "sub_zh",
+          "views": 134025,
+          "pic": "https://i2.hdslb.com/bfs/archive/0d4ebacbf5e77396a34b08d05b8463e5c02390cd.jpg",
+          "checked_at": "2026-11-04T21:36:39.291746+00:00"
+        },
+        {
+          "bvid": "BV13X4y1V7WP",
+          "page": 1,
+          "cid": 305851934,
+          "title": "简单明了，广义相对论的新可视化解释方法",
+          "up": "YouTube精选字幕组",
+          "duration": 694,
+          "kind": "original",
+          "views": 138727,
+          "pic": "https://i1.hdslb.com/bfs/archive/532d7dd408264ae8447c3200a75dc968b797f8d9.jpg",
+          "checked_at": "2026-11-04T21:36:32.777994+00:00"
+        },
+        {
+          "bvid": "BV14p4y1h7mb",
+          "page": 1,
+          "cid": 307514520,
+          "title": "A new way to visualize General Relativity一种可视化广义相对论的新方法",
+          "up": "becomequantum",
+          "duration": 694,
+          "kind": "original",
+          "views": 223,
+          "pic": "https://i2.hdslb.com/bfs/archive/1cb7591fc87f6c40efb3afea30fcfcea41640488.jpg",
+          "checked_at": "2026-11-04T21:36:30.218886+00:00"
+        }
+      ]
+    },
+    {
+      "id": "wxL4ElboiuA",
+      "title": "The Art of Making a Nixie Tube",
+      "author": "Dalibor Farný",
+      "source_url": "https://www.youtube.com/watch?v=wxL4ElboiuA",
+      "summary": "Dalibor Farny documents the hand manufacture of a nixie tube, from glassblowing to evacuation, with text notes rather than narration. He revived the lost craft of nixie tube making.",
+      "why": "HN commenters call it mesmerizing and a great look at how things are actually made by a dedicated craftsman.",
+      "score": 7.5,
+      "tags": [
+        "nixie tube",
+        "glassblowing",
+        "vacuum tubes",
+        "craftsmanship",
+        "dalibor farny"
+      ],
+      "categories": [
+        "manufacturing-industry",
+        "electronics-circuits",
+        "making-woodworking-metalwork"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1pt411o7Y3",
+          "page": 1,
+          "cid": 59933397,
+          "title": "世界线的变动第一步--制作辉光管",
+          "up": "喵污叽",
+          "duration": 2270,
+          "kind": "original",
+          "views": 37616,
+          "pic": "https://i0.hdslb.com/bfs/archive/588047ff44971575ebd39a204f6080020967404e.png",
+          "checked_at": "2026-11-04T21:37:51.276832+00:00"
         }
       ]
     },
@@ -6908,6 +7368,53 @@
       ]
     },
     {
+      "id": "-6rWqJhDv7M",
+      "title": "The Physics and Philosophy of Time - with Carlo Rovelli",
+      "author": "The Royal Institution",
+      "source_url": "https://www.youtube.com/watch?v=-6rWqJhDv7M",
+      "summary": "Physicist Carlo Rovelli gives a public lecture at the Royal Institution on how our understanding of time has changed, from Boltzmann and Einstein to quantum theory and loop quantum gravity. He blends physics, philosophy and art to argue that time is stranger than everyday intuition suggests.",
+      "why": "HN commenters point to it as a lucid, general-audience lecture that shows how wrong common conceptions of time are, often in threads on entropy and the arrow of time.",
+      "score": 7.0,
+      "tags": [
+        "time",
+        "entropy",
+        "loop quantum gravity",
+        "arrow of time",
+        "philosophy of physics"
+      ],
+      "categories": [
+        "fundamental-physics",
+        "quantum-physics",
+        "physics-space-other"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1hz4y167ub",
+          "page": 1,
+          "cid": 277472554,
+          "title": "时间的物理学与哲学 《时间的秩序》作者 卡洛·罗韦利 生肉",
+          "up": "yuniverse79",
+          "duration": 3294,
+          "kind": "original",
+          "views": 4751,
+          "pic": "https://i1.hdslb.com/bfs/archive/7f8452ae8f5fa7c85d1b820c2ec15f2177bed6bb.jpg",
+          "checked_at": "2026-11-04T21:39:46.108084+00:00"
+        },
+        {
+          "bvid": "BV1MN411v7fp",
+          "page": 1,
+          "cid": 1253651407,
+          "title": "理论物理学家 卡洛·罗威利 时间的物理学与哲学 The Physics and Philosophy of Time - with Carlo Rovelli",
+          "up": "行相像不像你",
+          "duration": 3294,
+          "kind": "original",
+          "views": 218,
+          "pic": "https://i2.hdslb.com/bfs/archive/b2da3ef6d14d22c8305c7a6ea0ec4b890c212b28.jpg",
+          "checked_at": "2026-11-04T21:39:34.380729+00:00"
+        }
+      ]
+    },
+    {
       "id": "0xS68sl2D70",
       "title": "Veritasium: What Everyone Gets Wrong About AI and Learning – Derek Muller Explains",
       "author": "Perimeter Institute for Theoretical Physics",
@@ -6939,6 +7446,217 @@
           "views": 260,
           "pic": "https://i0.hdslb.com/bfs/archive/5a7609f47b3069dddcd077271dcc14be292e6ec9.jpg",
           "checked_at": "2026-11-04T15:30:17.378680+00:00"
+        }
+      ]
+    },
+    {
+      "id": "3wfNl2L0Gf8",
+      "title": "Debate Noam Chomsky & Michel Foucault - On human nature [Subtitled]",
+      "author": "withDefiance",
+      "source_url": "https://www.youtube.com/watch?v=3wfNl2L0Gf8",
+      "summary": "The full 1971 Dutch television debate between Noam Chomsky and Michel Foucault on human nature, with subtitles. They discuss creativity, knowledge, power and politics.",
+      "why": "HN recommends it as a famous, revealing clash between two thinkers, though some note they largely talk past each other.",
+      "score": 7.0,
+      "tags": [
+        "chomsky",
+        "foucault",
+        "philosophy",
+        "creativity",
+        "power",
+        "1971"
+      ],
+      "categories": [
+        "philosophy-ethics",
+        "consciousness-mind",
+        "politics-history-other"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Vs411A7tu",
+          "page": 1,
+          "cid": 48122175,
+          "title": "乔姆斯基和福柯关于人性的辩论[英语字幕]",
+          "up": "submersible",
+          "duration": 4203,
+          "kind": "original",
+          "views": 20210,
+          "pic": "https://i1.hdslb.com/bfs/archive/1b1f6da6695881f3141e4a6bbd86904f9ed04b29.jpg",
+          "checked_at": "2026-11-04T21:47:30.756160+00:00"
+        },
+        {
+          "bvid": "BV1Rp4y1n7Q3",
+          "page": 1,
+          "cid": 300526390,
+          "title": "乔姆斯基和福柯关于人性的辩论Debate Noam Chomsky & Michel Foucault - On human nature",
+          "up": "技术梦",
+          "duration": 4203,
+          "kind": "original",
+          "views": 1651,
+          "pic": "https://i1.hdslb.com/bfs/archive/9d99306faa1c6699ba1ab6e03ad35f9510904518.jpg",
+          "checked_at": "2026-11-04T21:50:41.620441+00:00"
+        },
+        {
+          "bvid": "BV1uh411z7Cb",
+          "page": 1,
+          "cid": 376324483,
+          "title": "诺姆·乔姆斯基和米歇尔·福柯--关于人性的辩论",
+          "up": "北清讲座",
+          "duration": 4203,
+          "kind": "original",
+          "views": 1438,
+          "pic": "https://i0.hdslb.com/bfs/archive/3e80826cb49be01300df68ce214f5e007fb377d4.jpg",
+          "checked_at": "2026-11-04T21:50:42.911847+00:00"
+        },
+        {
+          "bvid": "BV1DC4y1s7Vb",
+          "page": 1,
+          "cid": 177871921,
+          "title": "【乔姆斯基&福柯】年轻时期两人关于人类本性的辩论 Debate Noam Chomsky & Michel Foucault - On human nature",
+          "up": "宝仔珠",
+          "duration": 4203,
+          "kind": "original",
+          "views": 690,
+          "pic": "https://i2.hdslb.com/bfs/archive/075d2dd4913bd4eb439f3dc23355f7309335fe25.jpg",
+          "checked_at": "2026-11-04T21:50:44.190938+00:00"
+        }
+      ]
+    },
+    {
+      "id": "7vfqkvwW2fs",
+      "title": "The Marvel Symphonic Universe",
+      "author": "Every Frame a Painting",
+      "source_url": "https://www.youtube.com/watch?v=7vfqkvwW2fs",
+      "summary": "An Every Frame a Painting video essay asking why Marvel films lack memorable musical themes. It blames temp tracks and directors scoring to filler music.",
+      "why": "HN recommends it as an insightful explanation of why modern film scores sound alike, with lessons beyond Marvel.",
+      "score": 7.0,
+      "tags": [
+        "marvel",
+        "film scores",
+        "temp music",
+        "video essay",
+        "composers"
+      ],
+      "categories": [
+        "film-criticism-analysis",
+        "music-theory-production"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Hx411h7iW",
+          "page": 1,
+          "cid": 18866953,
+          "title": "The Marvel Symphonic Universe - 1080p",
+          "up": "raulhou",
+          "duration": 815,
+          "kind": "original",
+          "views": 67,
+          "pic": "https://i1.hdslb.com/bfs/archive/8c86511ebd1143ac06db18fd46a764f450b7259b.jpg",
+          "checked_at": "2026-11-04T21:48:58.223329+00:00"
+        },
+        {
+          "bvid": "BV1Kb411q7FK",
+          "page": 1,
+          "cid": 79612803,
+          "title": "【YouTube】漫威交响宇宙",
+          "up": "YouTube电影频道转载鸡",
+          "duration": 816,
+          "kind": "original",
+          "views": 38,
+          "pic": "https://i1.hdslb.com/bfs/archive/8d2ee90b939fbc740f18b0ef9df847f1e266559f.jpg",
+          "checked_at": "2026-11-04T21:50:38.935927+00:00"
+        }
+      ]
+    },
+    {
+      "id": "A8eCGOqgvH4",
+      "title": "C++ and Beyond 2012: Herb Sutter - atomic Weapons 1 of 2",
+      "author": "alexsmail",
+      "source_url": "https://www.youtube.com/watch?v=A8eCGOqgvH4",
+      "summary": "Herb Sutter's deep C++ and Beyond 2012 talk on atomics and the C++ memory model, covering why programmers chasing top performance need to understand hardware ordering. This is part one of two.",
+      "why": "HN treats it as the classic go-to for learning atomics and memory ordering, recommended over books.",
+      "score": 7.0,
+      "tags": [
+        "atomics",
+        "memory ordering",
+        "concurrency",
+        "c++",
+        "herb sutter"
+      ],
+      "categories": [
+        "systems-programming-languages",
+        "computer-architecture",
+        "software-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1DL41117rr",
+          "page": 1,
+          "cid": 1040976943,
+          "title": "C++内存模型最好的讲座——C++ and Beyond 2012: Herb Sutter - atomic Weapons 1 of 2",
+          "up": "__Learner__",
+          "duration": 4873,
+          "kind": "original",
+          "views": 12234,
+          "pic": "https://i1.hdslb.com/bfs/archive/70bbdf8cafa1a5ea8f6cefd86d60ec48bcd0d2a3.jpg",
+          "checked_at": "2026-11-04T21:49:29.351242+00:00"
+        },
+        {
+          "bvid": "BV1q4411K7ys",
+          "page": 1,
+          "cid": 95842948,
+          "title": "C++ and Beyond 2012- Herb Sutter - atomic Weapons",
+          "up": "__mwish__",
+          "duration": 4873,
+          "kind": "original",
+          "views": 603,
+          "pic": "https://i0.hdslb.com/bfs/archive/6540e2a80556ea9b7375dccc84782f1a39d1e259.jpg",
+          "checked_at": "2026-11-04T21:50:28.956953+00:00"
+        }
+      ]
+    },
+    {
+      "id": "Dp-mQ3HxgDE",
+      "title": "The Future of Mathematics?",
+      "author": "Microsoft Research",
+      "source_url": "https://www.youtube.com/watch?v=Dp-mQ3HxgDE",
+      "summary": "Mathematician Kevin Buzzard explains why he believes the Lean theorem prover will shape the future of mathematics, and describes digitizing his university curriculum in Lean with undergraduates, plus the cultural challenges.",
+      "why": "Recommended as the clearest mathematician's perspective on formal proof assistants and why mathematics should be formalized.",
+      "score": 7.0,
+      "tags": [
+        "lean",
+        "theorem proving",
+        "kevin buzzard",
+        "formalization",
+        "proof assistants"
+      ],
+      "categories": [
+        "logic-formal-methods",
+        "pure-mathematics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1iB4y1A7KW",
+          "page": 1,
+          "cid": 327475490,
+          "title": "The Future of Mathematics?",
+          "up": "AnswerZero",
+          "duration": 4487,
+          "kind": "original",
+          "views": 117,
+          "pic": "https://i0.hdslb.com/bfs/archive/7be6f1903fdcfeb948ecdb065950f9ea953379e3.jpg",
+          "checked_at": "2026-11-04T21:50:07.722043+00:00"
+        },
+        {
+          "bvid": "BV18P41117hK",
+          "page": 1,
+          "cid": 1124570623,
+          "title": "The Future of Mathematics",
+          "up": "K神丨克洛泽",
+          "duration": 4488,
+          "kind": "original",
+          "views": 23,
+          "pic": "https://i1.hdslb.com/bfs/archive/a5760c5a9802481965baba8e0ba9ed0d258c5027.jpg",
+          "checked_at": "2026-11-04T21:50:40.252686+00:00"
         }
       ]
     },
@@ -9081,6 +9799,52 @@
       ]
     },
     {
+      "id": "KeLBd2EJLOU",
+      "title": "C++ and Beyond 2012: Herb Sutter - atomic Weapons 2 of 2",
+      "author": "alexsmail",
+      "source_url": "https://www.youtube.com/watch?v=KeLBd2EJLOU",
+      "summary": "Part two of Herb Sutter's C++ and Beyond 2012 session on atomic weapons, a deep dive into the C++ memory model, atomics, memory ordering, and hardware behavior. It ends with the modern meaning of volatile.",
+      "why": "HN recommends it as an in-depth, practical introduction to atomics and weak versus strong memory ordering, relevant to ARM and Rust as well as C++.",
+      "score": 3.0,
+      "tags": [
+        "atomics",
+        "memory ordering",
+        "acquire release",
+        "concurrency",
+        "herb sutter"
+      ],
+      "categories": [
+        "systems-programming-languages",
+        "computer-architecture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV14L41117Up",
+          "page": 1,
+          "cid": 1042362107,
+          "title": "C++内存模型最好的讲座——C++ and Beyond 2012 Herb Sutter - atomic Weapons 2 of 2（中英文字幕）",
+          "up": "__Learner__",
+          "duration": 5554,
+          "kind": "sub_zh",
+          "views": 3052,
+          "pic": "https://i0.hdslb.com/bfs/archive/54726c8302a559d06bdf4084d973ac71347090d7.jpg",
+          "checked_at": "2026-11-04T21:50:31.233735+00:00"
+        },
+        {
+          "bvid": "BV17M4y117QU",
+          "page": 1,
+          "cid": 1088080922,
+          "title": "C++ and Beyond 2012 - Herb Sutter - atomic Weapons 2 of 2",
+          "up": "theGooder",
+          "duration": 5554,
+          "kind": "original",
+          "views": 24,
+          "pic": "https://i2.hdslb.com/bfs/archive/1a8cfe39917d6947d4a6872dc2039ee938a3c26c.jpg",
+          "checked_at": "2026-11-04T21:50:31.651525+00:00"
+        }
+      ]
+    },
+    {
       "id": "MShbP3OpASA",
       "title": "Aalto Talk with Linus Torvalds [Full-length]",
       "author": "aaltouniversityace",
@@ -9283,6 +10047,41 @@
           "views": 303,
           "pic": "https://i0.hdslb.com/bfs/archive/2205dfa01215995c77ed3db60de9112469640157.jpg",
           "checked_at": "2026-11-04T15:30:17.459062+00:00"
+        }
+      ]
+    },
+    {
+      "id": "xodtfM1r9FA",
+      "title": "The Maths of General Relativity (1/8) - Spacetime and Worldlines",
+      "author": "ScienceClic English",
+      "source_url": "https://www.youtube.com/watch?v=xodtfM1r9FA",
+      "summary": "The first of an eight-part ScienceClic series building general relativity, covering worldlines, proper time and coordinate systems with animated visualizations.",
+      "why": "Praised for its visualizations and pedagogy in threads about physics and differential geometry.",
+      "score": 3.0,
+      "tags": [
+        "spacetime",
+        "worldlines",
+        "proper time",
+        "differential geometry",
+        "physics visualization"
+      ],
+      "categories": [
+        "fundamental-physics",
+        "pure-mathematics",
+        "cosmology-astrophysics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Kp4y1s7nK",
+          "page": 1,
+          "cid": 292130872,
+          "title": "【中英双字】广义相对论的数学(1)：时空与世界线",
+          "up": "Sooooft",
+          "duration": 395,
+          "kind": "sub_zh",
+          "views": 68732,
+          "pic": "https://i2.hdslb.com/bfs/archive/06bac8f0a7ee0bc1755f01051737d8079288133f.jpg",
+          "checked_at": "2026-11-04T21:50:38.529314+00:00"
         }
       ]
     },
@@ -11552,8 +12351,8 @@
     "BV1ss411x778": "rStL7niR7gs",
     "BV1xz421q78C": "vtIzMaLkCaM",
     "BV1oV411k7XY": "8aGhZQkoFbQ",
-    "BV145411871M": "8aGhZQkoFbQ",
     "BV1sgx2zpEF9": "8aGhZQkoFbQ",
+    "BV145411871M": "8aGhZQkoFbQ",
     "BV16W411G7ht": "8aGhZQkoFbQ",
     "BV1bx411M7Zx": "aircAruvnKk",
     "BV137411P7FS": "aircAruvnKk",
@@ -11760,13 +12559,42 @@
     "BV1dJPLz8EjU": "DkS1pkKpILY",
     "BV1C3411t7NK": "Ge3aKEmZcqY",
     "BV1Lu9vYAEVw": "Gv2I7qTux7g",
+    "BV1JQNk6KErt": "Q2UnOryQiIY",
+    "BV1KxxR6NEdN": "YKuRkGkf5HU",
+    "BV12xxR6PED5": "ZeecOKBus3Q",
     "BV1cLYWzTEHj": "aFwVf5a3pZM",
+    "BV12Z421h7qB": "cKPlPJyQrt4",
     "BV1wx411C7WT": "gB9n2gHsHN4",
+    "BV11i4y1t7Cv": "hx7BXih7zx8",
+    "BV1TxxR6NEjt": "hx7BXih7zx8",
     "BV1vv411y7Ho": "nYg6jzotiAc",
+    "BV13HpQzzEXL": "rHIkrotSwcc",
+    "BV1Ps411m7a8": "s86-Z-CbaHA",
+    "BV1XsyxBTEtt": "s86-Z-CbaHA",
+    "BV19y4y157ZP": "s86-Z-CbaHA",
+    "BV1Up411o7m5": "uNjxe8ShM-8",
+    "BV1qp411Z7S1": "uNjxe8ShM-8",
+    "BV1Xs41197dT": "w3_0x6oaDmI",
     "BV1iH4y1w7wE": "wfYbgdo8e-8",
+    "BV1uh411C7R8": "wrwgIjBUYVc",
+    "BV13X4y1V7WP": "wrwgIjBUYVc",
+    "BV14p4y1h7mb": "wrwgIjBUYVc",
+    "BV1pt411o7Y3": "wxL4ElboiuA",
     "BV1AU421o7ob": "zjkBMFhNj_g",
     "BV1cx41187xL": "zwAD6dRSVyI",
+    "BV1hz4y167ub": "-6rWqJhDv7M",
+    "BV1MN411v7fp": "-6rWqJhDv7M",
     "BV16WLNzKEYo": "0xS68sl2D70",
+    "BV1Vs411A7tu": "3wfNl2L0Gf8",
+    "BV1Rp4y1n7Q3": "3wfNl2L0Gf8",
+    "BV1uh411z7Cb": "3wfNl2L0Gf8",
+    "BV1DC4y1s7Vb": "3wfNl2L0Gf8",
+    "BV1Hx411h7iW": "7vfqkvwW2fs",
+    "BV1Kb411q7FK": "7vfqkvwW2fs",
+    "BV1DL41117rr": "A8eCGOqgvH4",
+    "BV1q4411K7ys": "A8eCGOqgvH4",
+    "BV1iB4y1A7KW": "Dp-mQ3HxgDE",
+    "BV18P41117hK": "Dp-mQ3HxgDE",
     "BV1f1UUBdEFS": "PFDu9oVAE-g",
     "BV1Vv411A7kJ": "fhOHn9TClXY",
     "BV14W411W7d9": "hVimVzgtD6w",
@@ -11834,12 +12662,15 @@
     "BV1nnJE6gEDs": "DlTq8DbRs4k",
     "BV11kT16dEyf": "G4hL5Om4IJ4",
     "BV1R7411T7tZ": "Jkiij9dJfcw",
+    "BV14L41117Up": "KeLBd2EJLOU",
+    "BV17M4y117QU": "KeLBd2EJLOU",
     "BV1ag4y1w7qC": "MShbP3OpASA",
     "BV16D4y1w7tg": "OyFJWRnt_AY",
     "BV1KqHszDECz": "PaCmpygFfXo",
     "BV1Ws411e73w": "YMqgiXLjvRs",
     "BV1BJ411N72S": "boPEO2auJj4",
     "BV1kweLe4EW3": "vHWiDx_l4V0",
+    "BV1Kp4y1s7nK": "xodtfM1r9FA",
     "BV1e44y1q7Uo": "yCsgoLc_fzI",
     "BV1TMXQBWE2x": "1sd26pWhfmg",
     "BV1R7411a76r": "HZGCoVF3YvM",

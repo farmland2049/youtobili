@@ -1,0 +1,89 @@
+{
+  "checked_at": "2026-11-04T21:52:55.574Z",
+  "checks": [
+    {
+      "sample": "s86-Z-CbaHA",
+      "kind": "dub_zh",
+      "id": "s86-Z-CbaHA",
+      "bvid": "BV1XsyxBTEtt",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.941399,
+        "duration": 1454,
+        "paused": false
+      },
+      "expected_duration": 1454,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "33509018383"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【中配】巴拿赫-塔斯基悖论 - Vsauce\nAI译片君\n关注\n20\n3\n分享\n更多\n00:04 / 24:14\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "wrwgIjBUYVc",
+      "kind": "sub_zh",
+      "id": "wrwgIjBUYVc",
+      "bvid": "BV1uh411C7R8",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.95442,
+        "duration": 692.78,
+        "paused": false
+      },
+      "expected_duration": 694,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "291027665"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【中英双字】广义相对论可视化新方法\nSooooft\n关注\n9119\n674\n分享\n更多\n00:04 / 11:33\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "3wfNl2L0Gf8",
+      "kind": "original",
+      "id": "3wfNl2L0Gf8",
+      "bvid": "BV1Vs411A7tu",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.283138,
+        "duration": 4203,
+        "paused": false
+      },
+      "expected_duration": 4203,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "48122175"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "乔姆斯基和福柯关于人性的辩论[英语字幕]\nsubmersible\n关注\n328\n12\n分享\n更多\n0:00:05 / 1:10:03\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "uNjxe8ShM-8",
+      "kind": "original",
+      "id": "uNjxe8ShM-8",
+      "bvid": "BV1Up411o7m5",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.950535,
+        "duration": 334,
+        "paused": false
+      },
+      "expected_duration": 333,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "38923183"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "PowerPoint 的图灵完备性研究\nYorlereiyo\n关注\n227\n15\n分享\n更多\n00:04 / 05:34\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}
