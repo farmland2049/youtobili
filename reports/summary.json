@@ -1,45 +1,78 @@
 {
-  "updated_at": "2026-11-04T07:03:14.813010+00:00",
+  "updated_at": "2026-11-04T08:12:20.846230+00:00",
   "corpus": 6454,
-  "processed": 111,
-  "confirmed": 52,
-  "coverage": 0.008057018903005888,
-  "processed_match_rate": 0.46846846846846846,
+  "processed": 149,
+  "confirmed": 93,
+  "coverage": 0.014409668422683607,
+  "processed_match_rate": 0.6241610738255033,
   "statuses": {
-    "confirmed": 52,
-    "review": 60
+    "confirmed": 93,
+    "review": 57
   },
-  "not_processed": 6343,
-  "candidates": 149,
+  "not_processed": 6305,
+  "verification_batch": {
+    "id": "2026-11-04T08:05:48.734170+00:00",
+    "source": "web-leads-3.json",
+    "completed": 5,
+    "confirmed": 3,
+    "errors": [],
+    "stopped": false
+  },
+  "blocked_searches": [
+    {
+      "vid": "NGFhc8R_uO4",
+      "reason": "HTTP 412: batch stopped"
+    }
+  ],
+  "candidates": 204,
   "batch": {
-    "id": "20261104T065733Z",
-    "selected": 50,
-    "completed": 2,
-    "errors": [
-      {
-        "vid": "NGFhc8R_uO4",
-        "reason": "HTTP 412: batch stopped"
-      }
-    ],
-    "stopped": true,
+    "id": "20261104T075631Z",
+    "selected": 24,
+    "completed": 24,
+    "errors": [],
+    "stopped": false,
     "originals": [
-      "fNk_zzaMoSs",
-      "FITJMJjASUs"
+      "aircAruvnKk",
+      "8pTEmbeENF4",
+      "wjZofJX0v4M",
+      "7xTGNNLPyMI",
+      "kCc8FmEb1nY",
+      "wo84LFzx5nI",
+      "72y2EC5fkcE",
+      "zduSFxRajkE",
+      "eMlx5fFNoYc",
+      "-cEn_83zRFw",
+      "IHZwWFHWa-w",
+      "PaCmpygFfXo",
+      "qbKGw8MQ0i8",
+      "vHWiDx_l4V0",
+      "tIeHLnjs5U8",
+      "0mCsluv5FXA",
+      "6n2eDcRjSsk",
+      "ZI198eFghJk",
+      "8mxubNQC5O8",
+      "9sJUDx7iEJw",
+      "TGfQu0bQTKc",
+      "lXUZvyajciY",
+      "ovYbgbrQ-v8",
+      "zHU1xH6Ogs4"
     ],
+    "attempted": 24,
+    "unattempted": 0,
     "statuses": {
-      "review": 3
+      "confirmed": 22,
+      "review": 2
     },
-    "candidate_count": 20,
-    "attempted": 3,
-    "unattempted": 47
+    "candidate_count": 43
   },
   "review_reasons": {
-    "duration outside tolerance": 1,
+    "duration outside tolerance": 5,
     "no explicit original URL; manual identity review required; conflicting years": 3,
-    "no explicit original URL; manual identity review required": 62,
-    "no explicit original URL; manual identity review required; collection segment identity requires review": 2,
+    "no explicit original URL; manual identity review required": 69,
+    "no explicit original URL; manual identity review required; collection segment identity requires review": 3,
     "no explicit original URL; manual identity review required; duration outside tolerance; collection segment identity requires review": 8,
-    "no explicit original URL; manual identity review required; duration outside tolerance": 14,
-    "no explicit original URL; manual identity review required; conflicting episode": 1
+    "no explicit original URL; manual identity review required; duration outside tolerance": 15,
+    "no explicit original URL; manual identity review required; conflicting episode": 1,
+    "collection segment identity requires review": 1
   }
 }

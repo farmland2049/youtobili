@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T07:03:14.819698+00:00",
+  "updated_at": "2026-11-04T08:12:20.852484+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -11,7 +11,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -25,8 +25,9 @@
           "kind": "original",
           "views": 4,
           "pic": "https://i2.hdslb.com/bfs/archive/33d06bb64ce9fe2df8b35d8c96c4ade1e661d9d7.jpg",
-          "checked_at": "2026-11-04T06:56:14.297376+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.399945+00:00",
+          "availability": "available",
+          "aid": 117019705868575
         }
       ]
     },
@@ -40,7 +41,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -54,8 +55,9 @@
           "kind": "original",
           "views": 626,
           "pic": "https://i0.hdslb.com/bfs/archive/f13a38f855ae117ca133cd7defa4dbd9703958cb.jpg",
-          "checked_at": "2026-11-04T06:53:49.217760+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.400296+00:00",
+          "availability": "available",
+          "aid": 116435690986118
         }
       ]
     },
@@ -69,7 +71,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -83,8 +85,9 @@
           "kind": "sub_zh",
           "views": 525,
           "pic": "https://i0.hdslb.com/bfs/archive/3a2cf4ac93ec768443d2a3c7179c55943f7a9ab4.jpg",
-          "checked_at": "2026-11-04T06:53:49.378793+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.400873+00:00",
+          "availability": "available",
+          "aid": 17154244
         }
       ]
     },
@@ -122,7 +125,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -136,22 +139,23 @@
           "kind": "original",
           "views": 3,
           "pic": "https://i0.hdslb.com/bfs/archive/4ef8304505362718baa04b8f7f32e35b9cbfcb89.jpg",
-          "checked_at": "2026-11-04T06:53:49.985647+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.408181+00:00",
+          "availability": "available",
+          "aid": 116741304748169
         }
       ]
     },
     "aircAruvnKk": {
       "vid": "aircAruvnKk",
       "status": "confirmed",
-      "completed_at": "2026-11-04T06:53:47.697644+00:00",
+      "completed_at": "2026-11-04T07:56:33.626440+00:00",
       "candidates": [
         {
           "bvid": "BV1bx411M7Zx",
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -163,17 +167,18 @@
           "segment_title": "",
           "page_count": 1,
           "kind": "official_zh",
-          "views": 977975,
+          "views": 978016,
           "pic": "https://i2.hdslb.com/bfs/archive/3fddf427ddef5a78105deb60180727a7ad47c4d8.jpg",
-          "checked_at": "2026-11-04T06:53:47.693563+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.408544+00:00",
+          "availability": "available",
+          "aid": 15532370
         },
         {
           "bvid": "BV137411P7FS",
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -187,15 +192,16 @@
           "kind": "sub_zh",
           "views": 1320,
           "pic": "https://i1.hdslb.com/bfs/archive/2a2724c767183ca8e771f1e46996223c28737537.jpg",
-          "checked_at": "2026-11-04T06:53:47.695014+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.408779+00:00",
+          "availability": "available",
+          "aid": 90397879
         },
         {
           "bvid": "BV18itveVErY",
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -209,28 +215,53 @@
           "kind": "original",
           "views": 67,
           "pic": "https://i1.hdslb.com/bfs/archive/e09941cfd736774296362650fb3758648128955b.jpg",
-          "checked_at": "2026-11-04T06:53:47.696492+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.409016+00:00",
+          "availability": "available",
+          "aid": 113153396448039
         }
       ]
     },
     "eMlx5fFNoYc": {
       "vid": "eMlx5fFNoYc",
-      "status": "review",
-      "completed_at": "2026-11-04T06:53:48.906326+00:00",
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-04T07:56:55.726431+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1TZ421j7Ke",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "【官方双语】直观解释注意力机制，Transformer的核心 | 【深度学习第6章】",
+          "up": "3Blue1Brown",
+          "duration": 1570,
+          "original_duration": 1570,
+          "cid": 1530196453,
+          "segment_title": "【官方双语】直观解释注意力机制，Transformer的核心 | 【深度学习第6章】",
+          "page_count": 1,
+          "kind": "official_zh",
+          "views": 944977,
+          "pic": "https://i1.hdslb.com/bfs/archive/407cdaf692b36679f8820713f574c62ca293279b.jpg",
+          "checked_at": "2026-11-04T08:11:22.409666+00:00",
+          "availability": "available",
+          "aid": 1154246338
+        }
+      ]
     },
     "wjZofJX0v4M": {
       "vid": "wjZofJX0v4M",
       "status": "confirmed",
-      "completed_at": "2026-11-04T06:53:47.962478+00:00",
+      "completed_at": "2026-11-04T07:56:39.340377+00:00",
       "candidates": [
         {
           "bvid": "BV13z421U7cs",
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -244,15 +275,17 @@
           "kind": "official_zh",
           "views": 818384,
           "pic": "https://i0.hdslb.com/bfs/archive/f2b59e2ba81081f22640102d542b01a8bb0c41f0.jpg",
-          "checked_at": "2026-11-04T06:53:47.959810+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.410859+00:00",
+          "availability": "available",
+          "aid": 1353986541
         },
         {
           "bvid": "BV1AJUKByEVs",
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description",
+            "exact original YouTube ID explicitly associated with selected segment"
           ],
           "flags": [],
           "page": 1,
@@ -266,8 +299,9 @@
           "kind": "original",
           "views": 153,
           "pic": "https://i0.hdslb.com/bfs/archive/0746719ab8299001b01921a918d64d46163107cd.jpg",
-          "checked_at": "2026-11-04T06:53:47.961307+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.411081+00:00",
+          "availability": "available",
+          "aid": 115598373751173
         }
       ]
     },
@@ -293,7 +327,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -307,22 +341,23 @@
           "kind": "original",
           "views": 294,
           "pic": "https://i0.hdslb.com/bfs/archive/5c9a8c1344f8229962564678e749d54fe849531e.jpg",
-          "checked_at": "2026-11-04T06:53:47.857698+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.412655+00:00",
+          "availability": "available",
+          "aid": 834497799
         }
       ]
     },
     "7xTGNNLPyMI": {
       "vid": "7xTGNNLPyMI",
       "status": "confirmed",
-      "completed_at": "2026-11-04T06:53:48.023529+00:00",
+      "completed_at": "2026-11-04T07:56:41.943116+00:00",
       "candidates": [
         {
           "bvid": "BV19ZN8eVEsS",
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -336,15 +371,16 @@
           "kind": "sub_zh",
           "views": 42249,
           "pic": "https://i0.hdslb.com/bfs/archive/514f92397cca3a594635c2724f6df9fdf59bd302.jpg",
-          "checked_at": "2026-11-04T06:53:48.020627+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.415632+00:00",
+          "availability": "available",
+          "aid": 113962007925635
         },
         {
           "bvid": "BV1kPNpeTEQ5",
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -358,8 +394,9 @@
           "kind": "sub_zh",
           "views": 15711,
           "pic": "https://i2.hdslb.com/bfs/archive/867de3f3adae3e536c96d3946fe29f2cb41e3680.jpg",
-          "checked_at": "2026-11-04T06:53:48.022346+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.416200+00:00",
+          "availability": "available",
+          "aid": 113956253340709
         }
       ]
     },
@@ -373,7 +410,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -387,8 +424,9 @@
           "kind": "original",
           "views": 772,
           "pic": "https://i1.hdslb.com/bfs/archive/0f0e65561f0e406afe5938f8308c32836e51df80.jpg",
-          "checked_at": "2026-11-04T06:56:32.396093+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.419597+00:00",
+          "availability": "available",
+          "aid": 994134642
         }
       ]
     },
@@ -413,14 +451,14 @@
     "kCc8FmEb1nY": {
       "vid": "kCc8FmEb1nY",
       "status": "confirmed",
-      "completed_at": "2026-11-04T06:53:48.276056+00:00",
+      "completed_at": "2026-11-04T07:56:43.337596+00:00",
       "candidates": [
         {
           "bvid": "BV1ZvgQ6iEtN",
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -434,8 +472,9 @@
           "kind": "sub_zh",
           "views": 253,
           "pic": "https://i1.hdslb.com/bfs/archive/b1ba08d0ea69ed8480591bb38273ff5805536896.jpg",
-          "checked_at": "2026-11-04T06:53:48.274894+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.424051+00:00",
+          "availability": "available",
+          "aid": 116968535430144
         }
       ]
     },
@@ -449,7 +488,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -463,8 +502,9 @@
           "kind": "sub_zh",
           "views": 11658,
           "pic": "https://i2.hdslb.com/bfs/archive/bf314d9e8795b969977d49335641c52b37fe6abe.jpg",
-          "checked_at": "2026-11-04T06:53:48.494227+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.426689+00:00",
+          "availability": "available",
+          "aid": 1500400637
         }
       ]
     },
@@ -478,7 +518,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -492,15 +532,16 @@
           "kind": "sub_zh",
           "views": 10973,
           "pic": "https://i1.hdslb.com/bfs/archive/5fdc041e297e2582e9ce18078524009d493f4a1d.jpg",
-          "checked_at": "2026-11-04T06:53:47.529758+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.427129+00:00",
+          "availability": "available",
+          "aid": 602868253
         },
         {
           "bvid": "BV11qHszSE6u",
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -514,8 +555,9 @@
           "kind": "original",
           "views": 716,
           "pic": "https://i0.hdslb.com/bfs/archive/da66322a9838478788bec56751a0da618708f40b.jpg",
-          "checked_at": "2026-11-04T06:53:47.531294+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.427375+00:00",
+          "availability": "available",
+          "aid": 115300242561236
         }
       ]
     },
@@ -539,9 +581,35 @@
     },
     "zduSFxRajkE": {
       "vid": "zduSFxRajkE",
-      "status": "review",
-      "completed_at": "2026-11-04T06:53:48.856295+00:00",
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-04T07:56:53.814371+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1DXL3z6Efu",
+          "status": "confirmed",
+          "lead_title": "Andrej《构建GPT分词器|Lets build the GPT Tokenizer》中英字幕（deepseek-R1",
+          "source_bvid": "BV1K4LPzLEoA",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "Andrej《构建GPT分词器|Lets build the GPT Tokenizer》中英字幕",
+          "up": "GPT中英字幕课程资源",
+          "duration": 8015,
+          "original_duration": 8015,
+          "cid": 42489351168,
+          "segment_title": "Lets build the GPT Tokenizer.zh_en",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 2733,
+          "pic": "https://i2.hdslb.com/bfs/archive/930e5312b92537135deccd8ea051d0dc1ede94d0.jpg",
+          "checked_at": "2026-11-04T08:11:22.429193+00:00",
+          "availability": "available",
+          "aid": 114392410693476
+        }
+      ]
     },
     "LCEmiRjPEtQ": {
       "vid": "LCEmiRjPEtQ",
@@ -565,7 +633,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -579,8 +647,9 @@
           "kind": "original",
           "views": 2410,
           "pic": "https://i0.hdslb.com/bfs/archive/eca76ce29ce6ab6448123f8c0a9405c761900f5a.jpg",
-          "checked_at": "2026-11-04T06:57:06.444240+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.442683+00:00",
+          "availability": "available",
+          "aid": 23294296
         }
       ]
     },
@@ -600,7 +669,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -614,8 +683,9 @@
           "kind": "original",
           "views": 1865,
           "pic": "https://i2.hdslb.com/bfs/archive/eedbc548a5e5a5924ad00f4667dc2e1576dc9762.jpg",
-          "checked_at": "2026-11-04T06:55:31.538219+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.443801+00:00",
+          "availability": "available",
+          "aid": 557721467
         }
       ]
     },
@@ -635,7 +705,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -649,8 +719,9 @@
           "kind": "original",
           "views": 1090,
           "pic": "https://i0.hdslb.com/bfs/archive/a3ea312f5dc46d387474acf33c731e3ad4338a0d.jpg",
-          "checked_at": "2026-11-04T06:54:25.790985+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.444440+00:00",
+          "availability": "available",
+          "aid": 590227066
         }
       ]
     },
@@ -688,7 +759,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -702,8 +773,9 @@
           "kind": "original",
           "views": 684,
           "pic": "https://i0.hdslb.com/bfs/archive/a36672dd3dd75dc143e7dd5db81971473f945a06.jpg",
-          "checked_at": "2026-11-04T06:54:15.270025+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.459900+00:00",
+          "availability": "available",
+          "aid": 116312646883844
         }
       ]
     },
@@ -729,7 +801,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -743,8 +815,9 @@
           "kind": "sub_zh",
           "views": 487,
           "pic": "https://i2.hdslb.com/bfs/archive/71192dae7e27dac7b78b976fe221479a4c0b2d8e.jpg",
-          "checked_at": "2026-11-04T06:54:42.222902+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.461220+00:00",
+          "availability": "available",
+          "aid": 113134152976586
         }
       ]
     },
@@ -770,7 +843,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -784,8 +857,9 @@
           "kind": "original",
           "views": 372,
           "pic": "https://i0.hdslb.com/bfs/archive/43fc7726cd3fd58baddae9229afb5bb2111ecfcf.jpg",
-          "checked_at": "2026-11-04T06:53:48.796788+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.462198+00:00",
+          "availability": "available",
+          "aid": 782246085
         }
       ]
     },
@@ -799,7 +873,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -813,22 +887,23 @@
           "kind": "original",
           "views": 371,
           "pic": "https://i0.hdslb.com/bfs/archive/454dd84d93ec4c8e91e71ee59a6e3965f1489e61.jpg",
-          "checked_at": "2026-11-04T06:53:49.009530+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.462499+00:00",
+          "availability": "available",
+          "aid": 505636786
         }
       ]
     },
     "lXUZvyajciY": {
       "vid": "lXUZvyajciY",
       "status": "confirmed",
-      "completed_at": "2026-11-04T06:56:59.639572+00:00",
+      "completed_at": "2026-11-04T07:57:41.466569+00:00",
       "candidates": [
         {
           "bvid": "BV1JVWtzDEPJ",
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -842,8 +917,9 @@
           "kind": "original",
           "views": 356,
           "pic": "https://i2.hdslb.com/bfs/archive/f0db34baefdad4951b4d151a1e620b3b09612982.jpg",
-          "checked_at": "2026-11-04T06:56:59.634218+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.462791+00:00",
+          "availability": "available",
+          "aid": 115394194969188
         }
       ]
     },
@@ -863,7 +939,8 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description",
+            "exact original YouTube ID explicitly associated with selected segment"
           ],
           "flags": [],
           "page": 1,
@@ -877,8 +954,9 @@
           "kind": "original",
           "views": 291,
           "pic": "https://i1.hdslb.com/bfs/archive/b48106369f71870836be9a86bb953b60ace2e702.jpg",
-          "checked_at": "2026-11-04T06:56:25.275699+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.465654+00:00",
+          "availability": "available",
+          "aid": 270173298
         }
       ]
     },
@@ -892,7 +970,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -906,8 +984,9 @@
           "kind": "original",
           "views": 255,
           "pic": "https://i1.hdslb.com/bfs/archive/f46b5f03c8cb9ae659d10a829d0e7d989629afb5.jpg",
-          "checked_at": "2026-11-04T06:53:49.716819+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.465938+00:00",
+          "availability": "available",
+          "aid": 571746066
         }
       ]
     },
@@ -921,7 +1000,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -935,8 +1014,9 @@
           "kind": "original",
           "views": 225,
           "pic": "https://i1.hdslb.com/bfs/archive/445ef51146443093438c4da7cc547a48857ff4fd.jpg",
-          "checked_at": "2026-11-04T06:56:19.013886+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.466214+00:00",
+          "availability": "available",
+          "aid": 115282408381233
         }
       ]
     },
@@ -950,7 +1030,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -964,8 +1044,9 @@
           "kind": "original",
           "views": 209,
           "pic": "https://i0.hdslb.com/bfs/archive/7a5b1507425753bd0d234b8a36485116225c64dc.jpg",
-          "checked_at": "2026-11-04T06:53:49.824821+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.466528+00:00",
+          "availability": "available",
+          "aid": 546369798
         }
       ]
     },
@@ -985,7 +1066,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -999,8 +1080,9 @@
           "kind": "sub_zh",
           "views": 174,
           "pic": "https://i2.hdslb.com/bfs/archive/bae27e81237f34c365865df88f86f78e1d08ed03.jpg",
-          "checked_at": "2026-11-04T06:56:22.569384+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.467117+00:00",
+          "availability": "available",
+          "aid": 113289593887053
         }
       ]
     },
@@ -1020,7 +1102,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -1034,8 +1116,9 @@
           "kind": "original",
           "views": 160,
           "pic": "https://i2.hdslb.com/bfs/archive/6f1ec4757dad7b7efe09b4dcbf3a7743cb3cf0cd.jpg",
-          "checked_at": "2026-11-04T06:56:28.790030+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.474671+00:00",
+          "availability": "available",
+          "aid": 114210025512230
         }
       ]
     },
@@ -1048,14 +1131,14 @@
     "PaCmpygFfXo": {
       "vid": "PaCmpygFfXo",
       "status": "confirmed",
-      "completed_at": "2026-11-04T06:53:58.821838+00:00",
+      "completed_at": "2026-11-04T07:57:04.389098+00:00",
       "candidates": [
         {
           "bvid": "BV1KqHszDECz",
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -1069,16 +1152,41 @@
           "kind": "original",
           "views": 148,
           "pic": "https://i2.hdslb.com/bfs/archive/bb3adb85c2e0313ce3abb65fe8a4fcafde2e9f7c.jpg",
-          "checked_at": "2026-11-04T06:53:58.817719+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.475256+00:00",
+          "availability": "available",
+          "aid": 115300242626417
         }
       ]
     },
     "y57wwucbXR8": {
       "vid": "y57wwucbXR8",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-04T06:56:10.712329+00:00",
-      "candidates": []
+      "candidates": [
+        {
+          "bvid": "BV1oA411K7jt",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "exact original YouTube ID explicitly associated with selected segment"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "Building the Software 2 0 Stack (Andrej Karpathy)",
+          "up": "chenbokai6s",
+          "duration": 1075,
+          "original_duration": 1075,
+          "cid": 303822747,
+          "segment_title": "Building the Software 2 0 Stack (Andrej Karpathy)-y57wwucbXR8",
+          "page_count": 1,
+          "kind": "original",
+          "views": 146,
+          "pic": "https://i0.hdslb.com/bfs/archive/aefbfccfdf81ba9f7a631ebd8ebab242a9341000.jpg",
+          "checked_at": "2026-11-04T08:11:22.475858+00:00",
+          "availability": "available",
+          "aid": 331980620
+        }
+      ]
     },
     "kLiwvnr4L80": {
       "vid": "kLiwvnr4L80",
@@ -1090,7 +1198,8 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description",
+            "exact original YouTube ID explicitly associated with selected segment"
           ],
           "flags": [],
           "page": 1,
@@ -1104,16 +1213,42 @@
           "kind": "original",
           "views": 141,
           "pic": "https://i2.hdslb.com/bfs/archive/339fd7e3a9b8dcc6ab075008b34159d1a5250894.jpg",
-          "checked_at": "2026-11-04T06:55:08.031113+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.476183+00:00",
+          "availability": "available",
+          "aid": 1601403759
         }
       ]
     },
     "IHZwWFHWa-w": {
       "vid": "IHZwWFHWa-w",
-      "status": "review",
-      "completed_at": "2026-11-04T06:53:49.547289+00:00",
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-04T07:57:02.503253+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Ux411j7ri",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/opus/367993721339569879",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【官方双语】深度学习之梯度下降法 Part 2 ver 0.9 beta",
+          "up": "3Blue1Brown",
+          "duration": 1261,
+          "original_duration": 1233,
+          "cid": 26347539,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "official_zh",
+          "views": 489329,
+          "pic": "https://i2.hdslb.com/bfs/archive/7db6e4ecbe249b369dca33211383303bef33f477.jpg",
+          "checked_at": "2026-11-04T08:11:22.477167+00:00",
+          "availability": "available",
+          "aid": 16144388
+        }
+      ]
     },
     "x7psGHgatGM": {
       "vid": "x7psGHgatGM",
@@ -1155,7 +1290,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -1169,8 +1304,9 @@
           "kind": "original",
           "views": 73,
           "pic": "https://i2.hdslb.com/bfs/archive/6f801805b0aed43ff73144e6a67a192b591406a4.jpg",
-          "checked_at": "2026-11-04T06:53:49.766498+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.478975+00:00",
+          "availability": "available",
+          "aid": 407854471
         }
       ]
     },
@@ -1184,7 +1320,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -1198,8 +1334,9 @@
           "kind": "original",
           "views": 63,
           "pic": "https://i2.hdslb.com/bfs/archive/56ec89fa84fbbfc65627bd8179a922a2f7f35903.jpg",
-          "checked_at": "2026-11-04T06:53:49.169472+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.479267+00:00",
+          "availability": "available",
+          "aid": 113153396448642
         }
       ]
     },
@@ -1213,7 +1350,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -1227,8 +1364,9 @@
           "kind": "original",
           "views": 55,
           "pic": "https://i1.hdslb.com/bfs/archive/fd5fd40bfd52f91ab62382603869e488c5d78288.jpg",
-          "checked_at": "2026-11-04T06:53:55.191367+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.480103+00:00",
+          "availability": "available",
+          "aid": 736932543
         }
       ]
     },
@@ -1248,7 +1386,8 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description",
+            "exact original YouTube ID explicitly associated with selected segment"
           ],
           "flags": [],
           "page": 1,
@@ -1262,8 +1401,9 @@
           "kind": "original",
           "views": 48,
           "pic": "https://i0.hdslb.com/bfs/archive/86c5ac4076e9d64f44a02f2308862a482cae8b2a.jpg",
-          "checked_at": "2026-11-04T06:56:03.616323+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.480660+00:00",
+          "availability": "available",
+          "aid": 115598189140693
         }
       ]
     },
@@ -1277,7 +1417,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -1291,8 +1431,9 @@
           "kind": "original",
           "views": 45,
           "pic": "https://i0.hdslb.com/bfs/archive/6bcd23f53439b037e0a9e557a2ac48e2f77d42ff.jpg",
-          "checked_at": "2026-11-04T06:54:22.274554+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.480979+00:00",
+          "availability": "available",
+          "aid": 113995646310220
         }
       ]
     },
@@ -1306,7 +1447,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -1320,8 +1461,9 @@
           "kind": "original",
           "views": 33,
           "pic": "https://i0.hdslb.com/bfs/archive/dcb85c86ebd944a65bdd8bedec5f56d3599937a3.jpg",
-          "checked_at": "2026-11-04T06:54:18.737972+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.481242+00:00",
+          "availability": "available",
+          "aid": 115648084644103
         }
       ]
     },
@@ -1335,7 +1477,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -1349,8 +1491,9 @@
           "kind": "original",
           "views": 29,
           "pic": "https://i1.hdslb.com/bfs/archive/a1b5b707e8e054b2321268ba2de38d91986ab8ca.jpg",
-          "checked_at": "2026-11-04T06:56:36.706191+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.481517+00:00",
+          "availability": "available",
+          "aid": 117512972928656
         }
       ]
     },
@@ -1364,7 +1507,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -1378,8 +1521,9 @@
           "kind": "original",
           "views": 17,
           "pic": "https://i0.hdslb.com/bfs/archive/0c59979563445c0607f97980967edef5a9b3193c.jpg",
-          "checked_at": "2026-11-04T06:54:38.639686+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.484376+00:00",
+          "availability": "available",
+          "aid": 114056631424428
         }
       ]
     },
@@ -1393,7 +1537,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -1407,8 +1551,9 @@
           "kind": "original",
           "views": 15,
           "pic": "https://i1.hdslb.com/bfs/archive/0d4c2a8257b9970743ab095b3384bedcf60da520.jpg",
-          "checked_at": "2026-11-04T06:53:49.273880+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.484756+00:00",
+          "availability": "available",
+          "aid": 116012737369311
         }
       ]
     },
@@ -1422,7 +1567,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -1436,16 +1581,43 @@
           "kind": "original",
           "views": 14,
           "pic": "https://i0.hdslb.com/bfs/archive/689b7956d4f66c3dadbc9281ef82483b0519fc2c.jpg",
-          "checked_at": "2026-11-04T06:53:49.936174+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.485028+00:00",
+          "availability": "available",
+          "aid": 822224946
         }
       ]
     },
     "tIeHLnjs5U8": {
       "vid": "tIeHLnjs5U8",
-      "status": "review",
-      "completed_at": "2026-11-04T06:55:14.260800+00:00",
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-04T07:57:14.657057+00:00",
+      "candidates": [
+        {
+          "bvid": "BV16x411V7Qg",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/opus/367993721339569879",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description",
+            "exact original YouTube ID explicitly associated with selected segment"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 2,
+          "title": "【官方双语】深度学习之反向传播算法 上/下 Part 3 ver 0.9 beta",
+          "up": "3Blue1Brown",
+          "duration": 618,
+          "original_duration": 618,
+          "cid": 27038098,
+          "segment_title": "下篇 反向传播的微积分原理",
+          "page_count": 2,
+          "kind": "official_zh",
+          "views": 562624,
+          "pic": "https://i1.hdslb.com/bfs/archive/c617e8ce539c6dfb96fb89e7d2feec919b609b5d.jpg",
+          "checked_at": "2026-11-04T08:11:22.485744+00:00",
+          "availability": "available",
+          "aid": 16577449
+        }
+      ]
     },
     "5MgBikgcWnY": {
       "vid": "5MgBikgcWnY",
@@ -1481,7 +1653,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -1495,8 +1667,9 @@
           "kind": "sub_zh",
           "views": 31783,
           "pic": "https://i1.hdslb.com/bfs/archive/f914748d27e4cea198e8ad87bc9cd65e50c3e854.jpg",
-          "checked_at": "2026-11-04T06:55:44.675970+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.489201+00:00",
+          "availability": "available",
+          "aid": 250103194
         }
       ]
     },
@@ -1516,7 +1689,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -1530,8 +1703,9 @@
           "kind": "sub_zh",
           "views": 15858,
           "pic": "https://i2.hdslb.com/bfs/archive/e6a67a0dfbf8147f0aa9fac06b28d4e6016ca0fc.jpg",
-          "checked_at": "2026-11-04T06:53:48.744267+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.489768+00:00",
+          "availability": "available",
+          "aid": 63340574
         }
       ]
     },
@@ -1545,7 +1719,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -1559,8 +1733,9 @@
           "kind": "sub_zh",
           "views": 12452,
           "pic": "https://i2.hdslb.com/bfs/archive/2e8ffd8e94523efec3ee3369eb710cc8f7a7292d.jpg",
-          "checked_at": "2026-11-04T06:53:47.645128+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.495906+00:00",
+          "availability": "available",
+          "aid": 1356085051
         }
       ]
     },
@@ -1574,7 +1749,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -1588,15 +1763,16 @@
           "kind": "sub_zh",
           "views": 12118,
           "pic": "https://i1.hdslb.com/bfs/archive/c054fe7c0996fc87423a6a8d5e8434574f3bdbfa.jpg",
-          "checked_at": "2026-11-04T06:53:48.124125+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.496535+00:00",
+          "availability": "available",
+          "aid": 802957201
         },
         {
           "bvid": "BV1Pz4y1f7oi",
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -1610,8 +1786,9 @@
           "kind": "sub_zh",
           "views": 5466,
           "pic": "https://i0.hdslb.com/bfs/archive/9ec0ce8a3d2fb7575f08d8d1cb1e0c9153ad6f47.jpg",
-          "checked_at": "2026-11-04T06:53:48.125609+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.496755+00:00",
+          "availability": "available",
+          "aid": 584829706
         }
       ]
     },
@@ -1637,7 +1814,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -1651,8 +1828,9 @@
           "kind": "original",
           "views": 9807,
           "pic": "https://i1.hdslb.com/bfs/archive/9349ac89342eea5b86fda307b691584b65bcd78b.jpg",
-          "checked_at": "2026-11-04T06:53:50.089003+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.497590+00:00",
+          "availability": "available",
+          "aid": 91643945
         }
       ]
     },
@@ -1671,9 +1849,9 @@
           "bvid": "BV1MT4y1c7p7",
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
-          "error": "URLError",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description",
+            "exact original YouTube ID explicitly associated with selected segment"
           ],
           "flags": [],
           "page": 1,
@@ -1687,8 +1865,9 @@
           "kind": "original",
           "views": 1224,
           "pic": "https://i0.hdslb.com/bfs/archive/3a22de11cd7abaf348403612ac2dc7f9f9ea8f77.jpg",
-          "checked_at": "2026-11-04T06:56:45.636130+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.498186+00:00",
+          "availability": "available",
+          "aid": 927222782
         }
       ]
     },
@@ -1708,7 +1887,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -1722,8 +1901,9 @@
           "kind": "sub_zh",
           "views": 697,
           "pic": "https://i0.hdslb.com/bfs/archive/dc601a703d14f8a321c27b95ea0f52c3d0dc85b5.jpg",
-          "checked_at": "2026-11-04T06:53:48.387998+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.498775+00:00",
+          "availability": "available",
+          "aid": 378998215
         }
       ]
     },
@@ -1737,7 +1917,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -1751,8 +1931,9 @@
           "kind": "original",
           "views": 617,
           "pic": "https://i2.hdslb.com/bfs/archive/d71d423e02812ed9dddb5e507f7dc284462c3ecd.jpg",
-          "checked_at": "2026-11-04T06:55:11.511801+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.499051+00:00",
+          "availability": "available",
+          "aid": 243903496
         }
       ]
     },
@@ -1766,7 +1947,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -1780,8 +1961,9 @@
           "kind": "original",
           "views": 443,
           "pic": "https://i2.hdslb.com/bfs/archive/86064d7d5873511f177f8d4e57ab370fc6fe8f3b.jpg",
-          "checked_at": "2026-11-04T06:53:48.434849+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.499337+00:00",
+          "availability": "available",
+          "aid": 115047410043781
         }
       ]
     },
@@ -1795,7 +1977,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -1809,8 +1991,9 @@
           "kind": "sub_zh",
           "views": 341,
           "pic": "https://i1.hdslb.com/bfs/archive/1a2292ceb052dab8ce782f2f3b16434608e2e8cb.jpg",
-          "checked_at": "2026-11-04T06:53:49.113968+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.499620+00:00",
+          "availability": "available",
+          "aid": 114534714974008
         }
       ]
     },
@@ -1824,7 +2007,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -1838,8 +2021,9 @@
           "kind": "original",
           "views": 260,
           "pic": "https://i0.hdslb.com/bfs/archive/5a7609f47b3069dddcd077271dcc14be292e6ec9.jpg",
-          "checked_at": "2026-11-04T06:53:48.541044+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.499885+00:00",
+          "availability": "available",
+          "aid": 114370835124456
         }
       ]
     },
@@ -1871,7 +2055,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -1885,8 +2069,9 @@
           "kind": "original",
           "views": 100,
           "pic": "https://i0.hdslb.com/bfs/archive/da64bc9d50e739da1b3dfa991c3e93e5ba0a6bcc.jpg",
-          "checked_at": "2026-11-04T06:55:54.885183+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.501013+00:00",
+          "availability": "available",
+          "aid": 113067950147811
         }
       ]
     },
@@ -1905,7 +2090,7 @@
     "zHU1xH6Ogs4": {
       "vid": "zHU1xH6Ogs4",
       "status": "review",
-      "completed_at": "2026-11-04T06:57:16.324922+00:00",
+      "completed_at": "2026-11-04T07:57:47.450118+00:00",
       "candidates": []
     },
     "Eg_ToU7m1MI": {
@@ -1918,7 +2103,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -1932,8 +2117,9 @@
           "kind": "original",
           "views": 28,
           "pic": "https://i1.hdslb.com/bfs/archive/14f49bb0b808451a050996920956b8993e9a58ae.jpg",
-          "checked_at": "2026-11-04T06:54:51.504819+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.502330+00:00",
+          "availability": "available",
+          "aid": 918348064
         }
       ]
     },
@@ -1965,7 +2151,7 @@
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL in Bilibili description"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
           "page": 1,
@@ -1979,16 +2165,42 @@
           "kind": "original",
           "views": 4,
           "pic": "https://i0.hdslb.com/bfs/archive/46bbd61d1958549fdd59a6694440f30a90ae52a8.jpg",
-          "checked_at": "2026-11-04T06:53:47.752163+00:00",
-          "availability": "available"
+          "checked_at": "2026-11-04T08:11:22.503769+00:00",
+          "availability": "available",
+          "aid": 116723353128428
         }
       ]
     },
     "fNk_zzaMoSs": {
       "vid": "fNk_zzaMoSs",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-04T06:57:51.291271+00:00",
-      "candidates": []
+      "candidates": [
+        {
+          "bvid": "BV1Ys411k7yQ",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1Ys411k7yQ",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【熟肉】线性代数的本质 - 01 - 向量究竟是什么？",
+          "up": "3Blue1Brown",
+          "duration": 592,
+          "original_duration": 592,
+          "cid": 9720812,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "official_zh",
+          "views": 1942907,
+          "pic": "https://i2.hdslb.com/bfs/archive/6c102ffcbae3b9fe51a7724d15a6d22e98d8b763.jpg",
+          "checked_at": "2026-11-04T08:11:22.510810+00:00",
+          "availability": "available",
+          "aid": 5987715
+        }
+      ]
     },
     "FITJMJjASUs": {
       "vid": "FITJMJjASUs",
@@ -2001,6 +2213,1121 @@
       "status": "review",
       "completed_at": null,
       "candidates": []
+    },
+    "qbKGw8MQ0i8": {
+      "vid": "qbKGw8MQ0i8",
+      "status": "review",
+      "completed_at": "2026-11-04T07:57:10.084969+00:00",
+      "candidates": []
+    },
+    "-cEn_83zRFw": {
+      "vid": "-cEn_83zRFw",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T07:57:02.024575+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1ufxyeaEBE",
+          "status": "confirmed",
+          "lead_title": "Rails World 2024 Opening Keynote - David Heinemeier Hansson",
+          "source_bvid": "BV1TMXQBWE2x",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "Rails World 2024 Opening Keynote - David Heinemeier Hansson",
+          "up": "帆影",
+          "duration": 3946,
+          "original_duration": 3946,
+          "cid": 26064455926,
+          "segment_title": "Rails World 2024 Opening Keynote - David Heinemeier Hansson",
+          "page_count": 1,
+          "kind": "original",
+          "views": 122,
+          "pic": "https://i2.hdslb.com/bfs/archive/c6c59a124eb65fb655fc2fe3a0ef3a77ccc732b3.jpg",
+          "checked_at": "2026-11-04T08:11:22.537172+00:00",
+          "availability": "available",
+          "aid": 113221293838363
+        }
+      ]
+    },
+    "8mxubNQC5O8": {
+      "vid": "8mxubNQC5O8",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T07:57:32.709105+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1JoBvYKEVL",
+          "status": "confirmed",
+          "lead_title": "Let's prototype a JavaScript JIT compiler! |  Andreas Kling",
+          "source_bvid": "BV1TMXQBWE2x",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "Let's prototype a JavaScript JIT compiler! |  Andreas Kling",
+          "up": "帆影",
+          "duration": 4885,
+          "original_duration": 4885,
+          "cid": 25703355368,
+          "segment_title": "Let's prototype a JavaScript JIT compiler! |  Andreas Kling",
+          "page_count": 1,
+          "kind": "original",
+          "views": 476,
+          "pic": "https://i0.hdslb.com/bfs/archive/5ab15a9156ed0228f067ca99138ccc39d638632f.jpg",
+          "checked_at": "2026-11-04T08:11:22.544596+00:00",
+          "availability": "available",
+          "aid": 113524810521686
+        }
+      ]
+    },
+    "0mCsluv5FXA": {
+      "vid": "0mCsluv5FXA",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T07:57:20.420119+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1iS9AYyEbv",
+          "status": "confirmed",
+          "lead_title": "TypeScript types can run DOOM",
+          "source_bvid": "BV1TMXQBWE2x",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "TypeScript types can run DOOM",
+          "up": "帆影",
+          "duration": 420,
+          "original_duration": 419,
+          "cid": 25762864086,
+          "segment_title": "TypeScript types can run DOOM",
+          "page_count": 1,
+          "kind": "original",
+          "views": 609,
+          "pic": "https://i1.hdslb.com/bfs/archive/0478b5b25c74a487456013831055e460efb17d21.jpg",
+          "checked_at": "2026-11-04T08:11:22.551873+00:00",
+          "availability": "available",
+          "aid": 114075858115877
+        }
+      ]
+    },
+    "ZI198eFghJk": {
+      "vid": "ZI198eFghJk",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T07:57:27.745363+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1EvR5YmEp5",
+          "status": "confirmed",
+          "lead_title": "Modernizing Compiler Design for Carbon Toolchain - Chandler Carruth-CppNow 2023",
+          "source_bvid": "BV1TMXQBWE2x",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "Modernizing Compiler Design for Carbon Toolchain - Chandler Carruth-CppNow 2023",
+          "up": "帆影",
+          "duration": 5712,
+          "original_duration": 5712,
+          "cid": 25767713619,
+          "segment_title": "Modernizing Compiler Design for Carbon Toolchain - Chandler Carruth-CppNow 2023",
+          "page_count": 1,
+          "kind": "original",
+          "views": 901,
+          "pic": "https://i1.hdslb.com/bfs/archive/e5842c919687dc0c66bee5031bb998dd27c44e9a.jpg",
+          "checked_at": "2026-11-04T08:11:22.559065+00:00",
+          "availability": "available",
+          "aid": 114137766039609
+        }
+      ]
+    },
+    "ovYbgbrQ-v8": {
+      "vid": "ovYbgbrQ-v8",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T07:57:47.063693+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1a4421U7ff",
+          "status": "confirmed",
+          "lead_title": "I Interviewed The Creator Of LLVM, Clang, Swift, and Mojo | Primeagen",
+          "source_bvid": "BV1TMXQBWE2x",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "I Interviewed The Creator Of LLVM, Clang, Swift, and Mojo | Primeagen",
+          "up": "帆影",
+          "duration": 3945,
+          "original_duration": 3945,
+          "cid": 1613603196,
+          "segment_title": "I Interviewed The Creator Of LLVM, Clang, Swift, and Mojo | Primeagen",
+          "page_count": 1,
+          "kind": "original",
+          "views": 364,
+          "pic": "https://i1.hdslb.com/bfs/archive/00e52fb0084290e55eb82dd26074c772ab391eac.jpg",
+          "checked_at": "2026-11-04T08:11:22.566369+00:00",
+          "availability": "available",
+          "aid": 1756182732
+        }
+      ]
+    },
+    "TGfQu0bQTKc": {
+      "vid": "TGfQu0bQTKc",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T07:57:40.955191+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1qm421K7bP",
+          "status": "confirmed",
+          "lead_title": "Interview with Senior Rust Developer in 2023",
+          "source_bvid": "BV1TMXQBWE2x",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "Interview with Senior Rust Developer in 2023",
+          "up": "帆影",
+          "duration": 586,
+          "original_duration": 586,
+          "cid": 1556753711,
+          "segment_title": "Interview with Senior Rust Developer in 2023",
+          "page_count": 1,
+          "kind": "original",
+          "views": 108,
+          "pic": "https://i0.hdslb.com/bfs/archive/dabc3c84263d1b172fa331272b82d0526416d52f.png",
+          "checked_at": "2026-11-04T08:11:22.573535+00:00",
+          "availability": "available",
+          "aid": 1604939527
+        }
+      ]
+    },
+    "vHWiDx_l4V0": {
+      "vid": "vHWiDx_l4V0",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T07:57:14.304838+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1kweLe4EW3",
+          "status": "confirmed",
+          "lead_title": "What's a Memory Allocator Anyway？ - Benjamin Feng",
+          "source_bvid": "BV1TMXQBWE2x",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "What's a Memory Allocator Anyway？ - Benjamin Feng",
+          "up": "帆影",
+          "duration": 2911,
+          "original_duration": 2910,
+          "cid": 500001652098326,
+          "segment_title": "What's a Memory Allocator Anyway？ - Benjamin Feng",
+          "page_count": 1,
+          "kind": "original",
+          "views": 303,
+          "pic": "https://i0.hdslb.com/bfs/archive/2205dfa01215995c77ed3db60de9112469640157.jpg",
+          "checked_at": "2026-11-04T08:11:22.580792+00:00",
+          "availability": "available",
+          "aid": 112974400392590
+        }
+      ]
+    },
+    "72y2EC5fkcE": {
+      "vid": "72y2EC5fkcE",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T07:56:53.408538+00:00",
+      "candidates": [
+        {
+          "bvid": "BV179T3zhEb1",
+          "status": "confirmed",
+          "lead_title": "Tomorrow Corporation Tech Demo",
+          "source_bvid": "BV1TMXQBWE2x",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "Tomorrow Corporation Tech Demo",
+          "up": "帆影",
+          "duration": 846,
+          "original_duration": 846,
+          "cid": 25807691018,
+          "segment_title": "Tomorrow Corporation Tech Demo",
+          "page_count": 1,
+          "kind": "original",
+          "views": 311,
+          "pic": "https://i0.hdslb.com/bfs/archive/87d0724d0a30c5b20892578ba0e7999e418d8c13.jpg",
+          "checked_at": "2026-11-04T08:11:22.588154+00:00",
+          "availability": "available",
+          "aid": 114638700156067
+        }
+      ]
+    },
+    "wo84LFzx5nI": {
+      "vid": "wo84LFzx5nI",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T07:56:48.452017+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1fSgTztEbw",
+          "status": "confirmed",
+          "lead_title": "Casey Muratori – The Big OOPs： Anatomy of a Thirty-five-year Mistake – BSC 2025",
+          "source_bvid": "BV1TMXQBWE2x",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "Casey Muratori – The Big OOPs： Anatomy of a Thirty-five-year Mistake – BSC 2025",
+          "up": "帆影",
+          "duration": 8854,
+          "original_duration": 8854,
+          "cid": 25826038831,
+          "segment_title": "Casey Muratori – The Big OOPs： Anatomy of a Thirty-five-year Mistake – BSC 2025",
+          "page_count": 1,
+          "kind": "original",
+          "views": 707,
+          "pic": "https://i2.hdslb.com/bfs/archive/6be0e4ecc1f0e147e6dbefd1a00f26358ee8b19c.jpg",
+          "checked_at": "2026-11-04T08:11:22.595487+00:00",
+          "availability": "available",
+          "aid": 114871031042989
+        }
+      ]
+    },
+    "6n2eDcRjSsk": {
+      "vid": "6n2eDcRjSsk",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T07:57:24.339113+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1DxWAzvEj6",
+          "status": "confirmed",
+          "lead_title": "AI slop attacks on the curl project - Daniel Stenberg",
+          "source_bvid": "BV1TMXQBWE2x",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "AI slop attacks on the curl project - Daniel Stenberg",
+          "up": "帆影",
+          "duration": 3181,
+          "original_duration": 3181,
+          "cid": 25866345511,
+          "segment_title": "AI slop attacks on the curl project - Daniel Stenberg",
+          "page_count": 1,
+          "kind": "original",
+          "views": 325,
+          "pic": "https://i2.hdslb.com/bfs/archive/2ee0c03dfac3b19dc2dbbfd8c027ecf55f8dabcd.jpg",
+          "checked_at": "2026-11-04T08:11:22.602647+00:00",
+          "availability": "available",
+          "aid": 115242243724784
+        }
+      ]
+    },
+    "9sJUDx7iEJw": {
+      "vid": "9sJUDx7iEJw",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T07:57:36.625562+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1yPRqB2EEE",
+          "status": "confirmed",
+          "lead_title": "Richard Stallman Free software Song",
+          "source_bvid": "BV1TMXQBWE2x",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "Richard Stallman Free software Song",
+          "up": "帆影",
+          "duration": 123,
+          "original_duration": 123,
+          "cid": 38086904962,
+          "segment_title": "Richard Stallman Free software Song",
+          "page_count": 1,
+          "kind": "original",
+          "views": 376,
+          "pic": "https://i0.hdslb.com/bfs/archive/b57fbbba9cbdcab6d4a4d405722923b6dce127bb.jpg",
+          "checked_at": "2026-11-04T08:11:22.609905+00:00",
+          "availability": "available",
+          "aid": 116516322287201
+        }
+      ]
+    },
+    "8pTEmbeENF4": {
+      "vid": "8pTEmbeENF4",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T07:56:38.449249+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1uhuY6eEqt",
+          "status": "confirmed",
+          "lead_title": "Bret Victor   The Future of Programming",
+          "source_bvid": "BV1TMXQBWE2x",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "Bret Victor   The Future of Programming (2013)",
+          "up": "帆影",
+          "duration": 1976,
+          "original_duration": 1976,
+          "cid": 40796292317,
+          "segment_title": "Bret Victor   The Future of Programming",
+          "page_count": 1,
+          "kind": "original",
+          "views": 518,
+          "pic": "https://i0.hdslb.com/bfs/archive/bb43034249871eeee5da8e35743857d440542a16.jpg",
+          "checked_at": "2026-11-04T08:11:22.617089+00:00",
+          "availability": "available",
+          "aid": 117074299064724
+        }
+      ]
+    },
+    "spUNpyF58BY": {
+      "vid": "spUNpyF58BY",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T07:58:31.844348+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1pW411J7s8",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1pW411J7s8/",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【官方双语】形象展示傅里叶变换",
+          "up": "3Blue1Brown",
+          "duration": 1256,
+          "original_duration": 1182,
+          "cid": 31220967,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "official_zh",
+          "views": 1341834,
+          "pic": "https://i0.hdslb.com/bfs/archive/7d1bc9947033318be1ad000a6089486554035e12.jpg",
+          "checked_at": "2026-11-04T08:11:22.617628+00:00",
+          "availability": "available",
+          "aid": 19141078
+        }
+      ]
+    },
+    "HZGCoVF3YvM": {
+      "vid": "HZGCoVF3YvM",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T07:58:35.693712+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1R7411a76r",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1R7411a76r/",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【官方双语】贝叶斯定理，使概率论直觉化",
+          "up": "3Blue1Brown",
+          "duration": 946,
+          "original_duration": 911,
+          "cid": 145676762,
+          "segment_title": "贝叶斯定理，建立概率的直觉",
+          "page_count": 1,
+          "kind": "official_zh",
+          "views": 649607,
+          "pic": "https://i1.hdslb.com/bfs/archive/84119b1a13fba655cf491c13cd05475b58d9499f.jpg",
+          "checked_at": "2026-11-04T08:11:22.618208+00:00",
+          "availability": "available",
+          "aid": 84799361
+        }
+      ]
+    },
+    "bBC-nXj3Ng4": {
+      "vid": "bBC-nXj3Ng4",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T07:58:40.077184+00:00",
+      "candidates": [
+        {
+          "bvid": "BV11x411i72w",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/av12465079/",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【官方双语】想知道比特币（和其他加密货币）的原理吗？",
+          "up": "3Blue1Brown",
+          "duration": 1581,
+          "original_duration": 1516,
+          "cid": 20516451,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "official_zh",
+          "views": 405925,
+          "pic": "https://i0.hdslb.com/bfs/archive/7fb7116cd25c054d01b3a47ec0a0bb46bf666ee4.jpg",
+          "checked_at": "2026-11-04T08:11:22.618541+00:00",
+          "availability": "available",
+          "aid": 12465079
+        }
+      ]
+    },
+    "WUvTyaaNkzM": {
+      "vid": "WUvTyaaNkzM",
+      "status": "review",
+      "completed_at": "2026-11-04T07:58:44.076645+00:00",
+      "candidates": []
+    },
+    "NaL_Cb42WyY": {
+      "vid": "NaL_Cb42WyY",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T08:01:04.709642+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1kx411q7kK",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/opus/367993721339569879",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【官方双语】隐藏在素数规律中的π",
+          "up": "3Blue1Brown",
+          "duration": 1843,
+          "original_duration": 1783,
+          "cid": 20005978,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "official_zh",
+          "views": 282311,
+          "pic": "https://i0.hdslb.com/bfs/archive/e42537e23ff50716a91ad6e621de9750a7c59c18.jpg",
+          "checked_at": "2026-11-04T08:11:22.619393+00:00",
+          "availability": "available",
+          "aid": 12131743
+        }
+      ]
+    },
+    "EK32jo7i5LQ": {
+      "vid": "EK32jo7i5LQ",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T08:01:11.140766+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1tE411h7x4",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/opus/367993721339569879",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【官方双语】为什么素数会形成这些螺旋？",
+          "up": "3Blue1Brown",
+          "duration": 1350,
+          "original_duration": 1341,
+          "cid": 146795963,
+          "segment_title": "Why do prime numbers make these spiral_x264",
+          "page_count": 1,
+          "kind": "official_zh",
+          "views": 641286,
+          "pic": "https://i0.hdslb.com/bfs/archive/313d54f3e93e218f7257dfca548dcccd96a0bfab.jpg",
+          "checked_at": "2026-11-04T08:11:22.619741+00:00",
+          "availability": "available",
+          "aid": 73773499
+        }
+      ]
+    },
+    "AmgkSdhK4K8": {
+      "vid": "AmgkSdhK4K8",
+      "status": "review",
+      "completed_at": "2026-11-04T08:01:19.058002+00:00",
+      "candidates": []
+    },
+    "gB9n2gHsHN4": {
+      "vid": "gB9n2gHsHN4",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T08:01:41.343369+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1wx411C7WT",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/opus/367993721339569879",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【官方双语】分形并不一定自相似",
+          "up": "3Blue1Brown",
+          "duration": 1296,
+          "original_duration": 1296,
+          "cid": 77795569,
+          "segment_title": "Fractals are typically not self-similar_AVS",
+          "page_count": 1,
+          "kind": "official_zh",
+          "views": 197326,
+          "pic": "https://i0.hdslb.com/bfs/archive/0ccc8775f055feeca63a69c60565b8cdd6298d55.jpg",
+          "checked_at": "2026-11-04T08:11:22.620715+00:00",
+          "availability": "available",
+          "aid": 9004414
+        }
+      ]
+    },
+    "sD0NjbwqlYw": {
+      "vid": "sD0NjbwqlYw",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T08:01:44.674236+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1tx411y7VG",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/opus/367993721339569879",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【官方双语】黎曼ζ函数与解析延拓的可视化",
+          "up": "3Blue1Brown",
+          "duration": 1331,
+          "original_duration": 1331,
+          "cid": 14378506,
+          "segment_title": "[UPLOAD_1800k]Visualizing the Riemann zeta function and analytic continuation[upload]",
+          "page_count": 1,
+          "kind": "official_zh",
+          "views": 533140,
+          "pic": "https://i2.hdslb.com/bfs/archive/a8d9c836b57ded5f3a3cfb30185808fab299e814.jpg",
+          "checked_at": "2026-11-04T08:11:22.621072+00:00",
+          "availability": "available",
+          "aid": 8726217
+        }
+      ]
+    },
+    "d4EgbgTm0Bg": {
+      "vid": "d4EgbgTm0Bg",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T08:01:49.329862+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1SW411y7W1",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/opus/367993721339569879",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "四元数的可视化",
+          "up": "3Blue1Brown",
+          "duration": 1911,
+          "original_duration": 1911,
+          "cid": 58437850,
+          "segment_title": "四元数",
+          "page_count": 1,
+          "kind": "official_original",
+          "views": 605588,
+          "pic": "https://i1.hdslb.com/bfs/archive/56d29a3e7d7ad266b161ab6bff8cf59ea328fa80.jpg",
+          "checked_at": "2026-11-04T08:11:22.621406+00:00",
+          "availability": "available",
+          "aid": 33385105
+        }
+      ]
+    },
+    "mvmuCPvRoWQ": {
+      "vid": "mvmuCPvRoWQ",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T08:02:01.792597+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1fx41187tZ",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/opus/367993721339569879",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【官方双语】欧拉公式与初等群论",
+          "up": "3Blue1Brown",
+          "duration": 1468,
+          "original_duration": 1468,
+          "cid": 18751879,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "official_zh",
+          "views": 420944,
+          "pic": "https://i1.hdslb.com/bfs/archive/59b0607f9a4c0db4b118c801de2c51faa580ee0b.jpg",
+          "checked_at": "2026-11-04T08:11:22.621703+00:00",
+          "availability": "available",
+          "aid": 11339177
+        }
+      ]
+    },
+    "v0YEaeIClKY": {
+      "vid": "v0YEaeIClKY",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T08:02:05.245863+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1G4411D7kZ",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/opus/367993721339569879",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【官方双语】微分方程概论-第五章：在3.14分钟内理解e^iπ",
+          "up": "3Blue1Brown",
+          "duration": 248,
+          "original_duration": 248,
+          "cid": 110547357,
+          "segment_title": "在3.14分钟内理解e iπ - DE5 - YouTube_x264_Mux",
+          "page_count": 1,
+          "kind": "official_zh",
+          "views": 305133,
+          "pic": "https://i2.hdslb.com/bfs/archive/29cca9bf77e5e481e763ca169ca6074f6dcffb51.jpg",
+          "checked_at": "2026-11-04T08:11:22.622005+00:00",
+          "availability": "available",
+          "aid": 63666593
+        }
+      ]
+    },
+    "S9JGmA5_unY": {
+      "vid": "S9JGmA5_unY",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T08:02:11.346811+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1yx411i7BX",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/opus/367993721339569879",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【官方双语】256位加密有多安全？",
+          "up": "3Blue1Brown",
+          "duration": 306,
+          "original_duration": 306,
+          "cid": 20519830,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "official_zh",
+          "views": 196808,
+          "pic": "https://i2.hdslb.com/bfs/archive/feca09118aa327a3987a3d2e8243a03999cded63.jpg",
+          "checked_at": "2026-11-04T08:11:22.622318+00:00",
+          "availability": "available",
+          "aid": 12467314
+        }
+      ]
+    },
+    "MzRCDLre1b4": {
+      "vid": "MzRCDLre1b4",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T08:02:16.185530+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Ax411x7rK",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/opus/367993721339569879",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【官方双语】一点“亮”子力学——《分钟物理》合作",
+          "up": "3Blue1Brown",
+          "duration": 1342,
+          "original_duration": 1342,
+          "cid": 24034997,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "official_zh",
+          "views": 125053,
+          "pic": "https://i0.hdslb.com/bfs/archive/2ead5a700f174c1960cb49a69b8c8d9a1f4003c6.jpg",
+          "checked_at": "2026-11-04T08:11:22.622632+00:00",
+          "availability": "available",
+          "aid": 14602529
+        }
+      ]
+    },
+    "MBnnXbOM5S4": {
+      "vid": "MBnnXbOM5S4",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T08:02:20.511606+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1WW411x7BJ",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/opus/367993721339569879",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【官方双语】直观看待不确定性原理：不只是量子现象哦",
+          "up": "3Blue1Brown",
+          "duration": 1160,
+          "original_duration": 1087,
+          "cid": 33191909,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "official_zh",
+          "views": 274064,
+          "pic": "https://i1.hdslb.com/bfs/archive/9af8cf1a8b65864bde03105e68d275ec9a61d84a.jpg",
+          "checked_at": "2026-11-04T08:11:22.622932+00:00",
+          "availability": "available",
+          "aid": 20317906
+        }
+      ]
+    },
+    "zwAD6dRSVyI": {
+      "vid": "zwAD6dRSVyI",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T08:02:24.777756+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1cx41187xL",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/opus/367993721339569879",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【官方双语】形象展示高维空间的技巧",
+          "up": "3Blue1Brown",
+          "duration": 1628,
+          "original_duration": 1513,
+          "cid": 22516577,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "official_zh",
+          "views": 219996,
+          "pic": "https://i1.hdslb.com/bfs/archive/f2f0b709a8caf66d320d9bc6b4403ab23441b158.jpg",
+          "checked_at": "2026-11-04T08:11:22.623375+00:00",
+          "availability": "available",
+          "aid": 13771822
+        }
+      ]
+    },
+    "OkmNXy7er84": {
+      "vid": "OkmNXy7er84",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T08:02:32.711981+00:00",
+      "candidates": [
+        {
+          "bvid": "BV17W411a74F",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/opus/367993721339569879",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【官方双语】如何优雅地解答最难数学竞赛的压轴题？",
+          "up": "3Blue1Brown",
+          "duration": 675,
+          "original_duration": 675,
+          "cid": 28230740,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "official_zh",
+          "views": 564445,
+          "pic": "https://i1.hdslb.com/bfs/archive/adcd085d594f79934838c75a82f209aaf8b6bc80.jpg",
+          "checked_at": "2026-11-04T08:11:22.623653+00:00",
+          "availability": "available",
+          "aid": 17275211
+        }
+      ]
+    },
+    "Kas0tIxDvrg": {
+      "vid": "Kas0tIxDvrg",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T08:03:01.140098+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1ZE41157iN",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/opus/367993721339569879",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【官方双语】指数增长与流行病",
+          "up": "3Blue1Brown",
+          "duration": 537,
+          "original_duration": 537,
+          "cid": 163746201,
+          "segment_title": "Exponential growth and epidemics_AVS",
+          "page_count": 1,
+          "kind": "official_zh",
+          "views": 181707,
+          "pic": "https://i1.hdslb.com/bfs/archive/abe762f4da1fbb106eb8ee8c6efce21a94726b8b.jpg",
+          "checked_at": "2026-11-04T08:11:22.625564+00:00",
+          "availability": "available",
+          "aid": 95917816
+        }
+      ]
+    },
+    "r6sGWTCMz2k": {
+      "vid": "r6sGWTCMz2k",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T08:03:43.713641+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1vt411N7Ti",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1vt411N7Ti",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【官方双语】微分方程概论-第四章：但什么是傅立叶级数呢？-从热流到画圈圈",
+          "up": "3Blue1Brown",
+          "duration": 1487,
+          "original_duration": 1487,
+          "cid": 121886213,
+          "segment_title": "但什么是傅立叶级数呢？-从热流到画圈圈-屏幕文字版",
+          "page_count": 1,
+          "kind": "official_zh",
+          "views": 559081,
+          "pic": "https://i1.hdslb.com/bfs/archive/02584fe593512526549a61816364dd19e299473b.jpg",
+          "checked_at": "2026-11-04T08:11:22.625899+00:00",
+          "availability": "available",
+          "aid": 62763042
+        }
+      ]
+    },
+    "PHe0bXAIuk0": {
+      "vid": "PHe0bXAIuk0",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T08:03:54.172298+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1BA411G7rj",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1BA411G7rj",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 2,
+          "title": "How The Economic Machine Works 经济机器是怎样运行的 Principles by Ray Dalio",
+          "up": "DBLPlus",
+          "duration": 1861,
+          "original_duration": 1860,
+          "cid": 339503880,
+          "segment_title": "How The Economic Machine Works by Ray Dalio",
+          "page_count": 2,
+          "kind": "original",
+          "views": 6584,
+          "pic": "https://i2.hdslb.com/bfs/archive/ce649e55770dde499d1c0875dcfb80436299827e.png",
+          "checked_at": "2026-11-04T08:11:22.626243+00:00",
+          "availability": "available",
+          "aid": 333088191
+        }
+      ]
+    },
+    "HyznrdDSSGM": {
+      "vid": "HyznrdDSSGM",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T08:04:00.373523+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1G7411d7rQ",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1G7411d7rQ",
+          "page": 1,
+          "evidence": [
+            "exact original YouTube ID explicitly associated with selected segment"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "title": "Building an 8-bit breadboard computer!",
+          "up": "Gennadi",
+          "duration": 414,
+          "original_duration": 413,
+          "cid": 165427305,
+          "segment_title": "01 - 8-bit computer update-HyznrdDSSGM",
+          "page_count": 44,
+          "kind": "original",
+          "views": 2178,
+          "pic": "https://i0.hdslb.com/bfs/archive/fe6a4cde99761827f1191054876d0db1cd439f88.jpg",
+          "checked_at": "2026-11-04T08:11:22.626930+00:00",
+          "availability": "available",
+          "aid": 97013417
+        }
+      ]
+    },
+    "dXdoim96v5A": {
+      "vid": "dXdoim96v5A",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T08:04:02.253903+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1G7411d7rQ",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1G7411d7rQ",
+          "page": 36,
+          "evidence": [
+            "exact original YouTube ID explicitly associated with selected segment"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "title": "Building an 8-bit breadboard computer!",
+          "up": "Gennadi",
+          "duration": 1672,
+          "original_duration": 1672,
+          "cid": 165542991,
+          "segment_title": "36 - 8-bit CPU control logic - Part 1-dXdoim96v5A",
+          "page_count": 44,
+          "kind": "original",
+          "views": 2178,
+          "pic": "https://i0.hdslb.com/bfs/archive/fe6a4cde99761827f1191054876d0db1cd439f88.jpg",
+          "checked_at": "2026-11-04T08:11:22.627562+00:00",
+          "availability": "available",
+          "aid": 97013417
+        }
+      ]
+    },
+    "X8jsijhllIA": {
+      "vid": "X8jsijhllIA",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T08:05:54.162748+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1WK411N7kz",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1WK411N7kz",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【官方双语】汉明码Pa■t1，如何克服噪■",
+          "up": "3Blue1Brown",
+          "duration": 1205,
+          "original_duration": 1205,
+          "cid": 243620245,
+          "segment_title": "汉明码Pa■t1，如何克服噪■",
+          "page_count": 1,
+          "kind": "official_zh",
+          "views": 305335,
+          "pic": "https://i0.hdslb.com/bfs/archive/ec9e357b988a3fafe4d5a9df26ec3d548b0b8444.jpg",
+          "checked_at": "2026-11-04T08:11:22.627884+00:00",
+          "availability": "available",
+          "aid": 499846415
+        }
+      ]
+    },
+    "EmKQsSDlaa4": {
+      "vid": "EmKQsSDlaa4",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T08:05:58.700697+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1peSuBRE9Q",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1peSuBRE9Q",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【中配】全息图是如何成为可能的？ - 3Blue1Brown",
+          "up": "黑纹白斑马",
+          "duration": 2651,
+          "original_duration": 2784,
+          "cid": 34315110692,
+          "segment_title": "【中配】全息图是如何成为可能的？ - 3Blue1Brown",
+          "page_count": 1,
+          "kind": "dub_zh",
+          "views": 4523,
+          "pic": "https://i1.hdslb.com/bfs/archive/e2a2e14ceb384cc3c51d1b2048e21bb568f916f2.png",
+          "checked_at": "2026-11-04T08:11:22.628302+00:00",
+          "availability": "available",
+          "aid": 115622600050513
+        }
+      ]
+    },
+    "v68zYyaEmEA": {
+      "vid": "v68zYyaEmEA",
+      "status": "confirmed",
+      "completed_at": "2026-11-04T08:06:06.666834+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1zZ4y1k7Jw",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1zZ4y1k7Jw/",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【官方双语】用信息论解Wordle谜题",
+          "up": "3Blue1Brown",
+          "duration": 1839,
+          "original_duration": 1838,
+          "cid": 518021671,
+          "segment_title": "Solving Wordle using information theory_AVS",
+          "page_count": 1,
+          "kind": "official_zh",
+          "views": 206706,
+          "pic": "https://i0.hdslb.com/bfs/archive/c159b6f063927921fe808248a7e87653830ec9e2.jpg",
+          "checked_at": "2026-11-04T08:11:22.628833+00:00",
+          "availability": "available",
+          "aid": 381782571
+        }
+      ]
     }
   }
 }

@@ -16,7 +16,7 @@
 - 仓库：https://github.com/qinqiang316/youtobili ，默认分支 `main`。
 - 网站：https://qinqiang316.github.io/youtobili/ ，GitHub Pages 静态托管。
 - 操作入口：`README.md` → `docs/WORKFLOW.md`。
-- 最新统计：`reports/STATUS.md`、`reports/publication.json`；验证边界：`reports/ACCEPTANCE.md`。
+- 最新统计：`reports/STATUS.md`、`reports/publication.json`；最新验证边界：`reports/CONTINUATION.md`；首版历史验收：`reports/ACCEPTANCE.md`。
 - 初始线上版本基线：`65dfbd6e285e8f793f369b4107281cdc11ef6a03`。
 - 完整库位于 `data/source/`，公开界面只读取根目录 `data.json`。不能把全库条数等同于匹配成功条数。
 - 候选、接口缓存与断点位于本地 `data/work/`，不在Git中；新克隆可从 `data/confirmed.json` 重建确认数据，并从基线提交导入旧候选。
@@ -26,7 +26,7 @@
 1. 先检查 Git 状态、适用的上级规则和最新报告；保留其他人的未提交修改。
 2. `web/` 是界面源码；修改后用 `python3 scripts/pipeline.py build` 更新根发布文件，不只改单份产物。
 3. 确定性清洗、去重与统计采用程序；不要凭模型推断批准匹配，也不要直接沿用旧可信度标签。
-4. 标题与时长仅作筛选。显式原片链接、内容身份、分集和时长共同核验；合集必须定位分P，不能比较合集总时长。
+4. 标题与时长仅作筛选。显式原片链接、明确标注的YouTube ID及内容身份共同核验；合集须由分P文件名或分段简介中的原片ID定位，不能比较合集总时长或猜测顺序。
 5. 原片与分P时长差检查线为 `max(60秒, 8%)`；超出进入待审。不同年份、不同集次和明显删减版本不放行。
 6. 一条原片可有多个BV，同一BV的不同分P可以对应不同原片；同一分P跨原片冲突由构建隐藏，待纠正。
 7. 请求串行限速、缓存并保留断点；遇到412、登录或限流停止当前批次，不反复试错。请求失败不直接判为视频失效。
@@ -40,3 +40,7 @@
 旧项目名为 bili-tube。历史交接曾记录129个BV、三分类、10分钟门槛和卡帕西标签，这些不再是新产品规则。
 
 旧资料中的 `/workspace/` 路径属于另一环境。历史采集和构建脚本未随原仓库提供，本轮在 `scripts/` 重建了可复现流程。旧来源标签不能证明卡帕西逐条推荐。
+
+## 增量接续
+
+搜索受限时使用 `seed-related` 整理缓存合集线索、`verify-leads` 核验公开网页线索和旧AV号、`reassess-cached` 离线重新评估。线索不能直接批准，相关规则和断点见操作说明。详情接口若也触发风控，后续详情批次会锁住，不自动清除。

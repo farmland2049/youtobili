@@ -61,3 +61,30 @@ node --check app.js
 原站与B站元数据可能过期；简介链接和时长核验无法保证所有画面相同。真实播放抽查按验收报告记录，不把测试播放器地址成功当成视频已播放。分类翻译是本项目维护的展示层，保留原站ID以便增量更新。
 
 取消时长门槛后，新匹配流程会正常处理短视频；首批旧候选主要是长视频，短视频覆盖需要后续批次。项目不运行定时任务，不承诺全库都存在B站对应版本。
+
+## 搜索受限时的公开线索核验
+
+搜索接口返回412后停止该批搜索。可以独立整理已获得的公开资料，不反复请求同一搜索端点：
+
+```sh
+# 只从本地缓存的公开合集元数据提取候选，不发起网络请求，不自动批准
+python3 scripts/pipeline.py seed-related
+# 逐个获取候选详情并核验，不调用B站搜索
+python3 scripts/pipeline.py match --existing-only --limit 50 --delay 2
+# 对已缓存证据重新应用匹配规则，不发起任何网络请求
+python3 scripts/pipeline.py reassess-cached
+# 核验公开网页里找到的线索文件，每批最多50个
+python3 scripts/pipeline.py verify-leads data/work/web-leads.json --limit 50 --delay 2
+```
+
+线索文件是JSON数组，每项包含 `bvid` 或旧式数字 `aid`、公开来源 `url`；可附 `vid` 和 `page` 指定待核验的原片与分P。例如：
+
+```json
+[{"bvid":"BV1Ys411k7yQ","vid":"fNk_zzaMoSs","url":"https://www.bilibili.com/video/BV1Ys411k7yQ"}]
+```
+
+未指定原片时，只从详情中的原片URL、明确的 `YouTube: ID` 标注，以及分P文件名或有明确标题分段的简介中识别原片ID。网页索引、推荐合集和标题相似度都只提供候选；仍需原片身份、分P、时长和冲突检查。
+
+合集简介中的“上篇／下篇”或“P1／P2”若分别明确标注原片ID，只能将该ID用于相应分P。文件名保留 `[原片ID]` 或末尾 `-原片ID` 时可用于定位；不能从合集总时长或分P顺序猜测。手工指定分P会锁定选择。
+
+`verify-leads` 的详情请求若也出现风控，会锁住后续详情批次。先检查并归档本地 `lead-receipt.json`，确认环境恢复后再由人工触发；不要自动清除锁定或循环重试。执行回执与搜索受阻情况会纳入进展报告。
