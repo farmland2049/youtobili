@@ -1,5 +1,5 @@
 <!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="referrer" content="no-referrer">
-<title>三类推荐 · HackerTube / 卡帕西推荐视频的 B站搬运</title>
+<title>youtobili</title>
 <style>
 :root{--bg:#fff;--bg2:#f4f5f7;--fg:#18191c;--mut:#6b7078;--line:#e6e8eb;--acc:#fb7299;--acc2:#00a1d6}
 .dark{--bg:#17181a;--bg2:#222326;--fg:#e8e9eb;--mut:#9aa0a8;--line:#303236}
@@ -37,7 +37,7 @@ h2{font-size:18px;margin:18px 0 10px}h2 small{font-weight:400;color:var(--mut);f
 .about{max-width:760px}.about li{margin:6px 0}
 @media(max-width:900px){.side{display:none}.dlg{grid-template-columns:1fr}}
 </style></head><body>
-<div class="top"><div class="logo">三类<i>推荐</i></div><div class="sbox"><input id="q" placeholder="搜索标题、UP 主、话题、原片标题（按 / 聚焦）"></div>
+<div class="top"><div class="logo">you<i>tobili</i></div><div class="sbox"><input id="q" placeholder="搜索标题、UP 主、话题、原片标题（按 / 聚焦）"></div>
 <button class="ib" id="rnd" title="随机来一个">🎲 随便看看</button><button class="ib" id="dk">🌓</button></div>
 <div class="wrap"><nav class="side" id="side"></nav><main id="main"></main></div>
 <div class="ov" id="ov"><div class="dlg" id="dlg"></div></div>
@@ -77,7 +77,7 @@ function bind(){document.querySelectorAll("[data-bv]").forEach(e=>e.onclick=()=>
 document.querySelectorAll("[data-fc]").forEach(e=>e.onclick=()=>{st.cat=e.dataset.fc;draw()});
 const on=(id,f)=>{const e=$("#"+id);if(e)e.onchange=f};on("fdur",e=>{st.dur=e.target.value;draw()});on("fera",e=>{st.era=e.target.value;draw()});on("fsort",e=>{if(st.view=="recent")st.recentSort=e.target.value;else st.sort=e.target.value;draw()});on("frep",e=>{st.rep=e.target.value;draw()});on("fev",e=>{st.ever=e.target.checked;draw()})}
 function draw(){side();const cats=activeCats(),q=$("#q").value.trim();let h="";
-if(st.view=="about")h=`<div class="about"><h2>关于三类推荐</h2><p>收集 HackerTube / 卡帕西推荐视频在 B站的搬运，专注轨道交通车辆、AI原理及应用和教育。</p><ul>
+if(st.view=="about")h=`<div class="about"><h2>关于 youtobili</h2><p>收集 HackerTube / 卡帕西推荐视频在 B站的搬运，专注轨道交通车辆、AI原理及应用和教育。</p><ul>
 <li>仅收录时长超过 10 分钟的视频；agy-v3 来源只纳入高可信度匹配，卡帕西来源只纳入已有 BV 号的条目。</li>
 <li>按 BV 号去重，优先采用 agy-v3；合集与中低可信度匹配、未找到 BV 号、时长不足或无法确认的条目进入待审清单。</li>
 <li>当前收录 ${S.videos} 个视频，实际有内容的领域：${cats.map(esc).join("、")}。去重 ${S.duplicates} 条，剔除并待审 ${S.excluded} 条。</li>
