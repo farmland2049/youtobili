@@ -1,193 +1,109 @@
 {
-  "baseline_commit": "032d29037e036f3673a5d25650db743a214d6b27",
+  "baseline_commit": "c8c37d9bed0ff7ed5c30722d917c329bc93d2711",
   "before": {
-    "corpus": 6454,
-    "processed": 150,
-    "confirmed": 93,
-    "coverage": 0.014409668422683607,
-    "processed_match_rate": 0.62
-  },
-  "after": {
     "corpus": 6454,
     "processed": 209,
     "confirmed": 112,
     "coverage": 0.01735357917570499,
     "processed_match_rate": 0.5358851674641149
   },
-  "newly_processed": 59,
-  "newly_confirmed": 19,
-  "incremental_match_rate": 0.3220338983050847,
-  "versions": 123,
+  "after": {
+    "corpus": 6454,
+    "processed": 259,
+    "confirmed": 123,
+    "coverage": 0.019057948559033158,
+    "processed_match_rate": 0.4749034749034749
+  },
+  "newly_processed": 50,
+  "newly_confirmed": 11,
+  "incremental_match_rate": 0.22,
+  "versions": 139,
   "batches": [
     {
-      "id": "20261104T083112Z",
-      "selected": 5,
-      "completed": 5,
-      "errors": [],
-      "stopped": false,
-      "originals": [
-        "aMcJ1Jvtef0",
-        "qCGofLIzX6g",
-        "DovunOxlY1k",
-        "JTfhYyTuT44",
-        "8bZh5LMaSmE"
-      ],
-      "attempted": 5,
-      "unattempted": 0,
-      "statuses": {
-        "review": 4,
-        "confirmed": 1
-      },
-      "candidate_count": 48
-    },
-    {
-      "id": "20261104T083525Z",
+      "id": "20261104T125510Z",
       "selected": 50,
-      "completed": 4,
-      "errors": [],
-      "stopped": false,
-      "originals": [
-        "yYAw79386WI",
-        "JvBT4XBdoUE",
-        "SCAGc-rkIfo",
-        "SxdOUGdseq4"
+      "completed": 49,
+      "errors": [
+        {
+          "vid": "eG0KrT6pBPk",
+          "reason": "URLError"
+        }
       ],
-      "attempted": 4,
-      "unattempted": 46,
-      "statuses": {
-        "review": 2,
-        "confirmed": 2
-      }
-    },
-    {
-      "id": "20261104T083830Z",
-      "selected": 50,
-      "completed": 50,
-      "errors": [],
       "stopped": false,
       "originals": [
-        "dEaecUuEqfc",
-        "rStL7niR7gs",
-        "8aGhZQkoFbQ",
-        "xAoljeRJ3lU",
-        "5f9R9MtkpqM",
-        "7J52mDjZzto",
-        "XXBxV6-zamM",
-        "aVwxzDHniEw",
-        "eJ3RzGoQC4s",
-        "o_AIw9bGogo",
-        "AdNJ3fydeao",
-        "IcgmSRJHu_8",
-        "LQRAfJyEsko",
-        "cIQ9IXSUzuM",
-        "kpk2tdsPh0A",
-        "L0KuAx1COEk",
-        "jvPPXbo87ds",
-        "5SaFTm2bcac",
-        "LIb3L4vKZ7U",
-        "QNznD9hMEh0",
-        "ar9WRwCiSr0",
-        "dBnniua6-oM",
-        "otbnC2zE2rw",
-        "040ejWnFkj0",
-        "B1J2RMorJXM",
-        "D1R-jKKp3NA",
-        "F_Riqjdh2oM",
-        "Fy0aCDmgnxg",
-        "HxaD_trXwRE",
-        "LnzuMJLZRdU",
-        "OyfBQmvr2Hc",
-        "RjD1aLm4Thg",
-        "ZK3O402wf1c",
-        "_rBO8neWw04",
-        "4fFDFbi3toc",
-        "7Pq-S557XQU",
-        "BLGFriOKz6U",
-        "EZ05e7EMOLM",
-        "PUv66718DII",
-        "PmTUW-owa2w",
-        "XetplHcM7aQ",
-        "aAb7hSCtvGw",
-        "jB0vBmiTr6o",
-        "jbkSRLYSojo",
-        "s1i-dnAH9Y4",
-        "-5wpm-gesOY",
-        "-6BsiVyC1kM",
-        "4Q7FTjhvZ7Y",
-        "AJdEqssNZ-U",
-        "FACK2knC08E"
+        "Kr3quGh7pJA",
+        "LkH2r-sNjQs",
+        "PGLYEDpNu60",
+        "QyJZzq0v7Z4",
+        "W3aieHjyNvw",
+        "YR5WdGrpoug",
+        "cZYNADOHhVY",
+        "d-7o9xYp7eE",
+        "uD4izuDMUQA",
+        "uUmIdq0D6-A",
+        "vK1DazRK_a0",
+        "wSF82AwSDiU",
+        "xguam0TKMw8",
+        "-J_xL4IGhJA",
+        "1Jwo5qc78QU",
+        "30jNsCVLpAE",
+        "5ESJH1NLMLs",
+        "Ik1AK56FtVc",
+        "LrObZ_HZZUc",
+        "ZSRHeXYDLko",
+        "a9xAKttWgP4",
+        "bKGhvKyjgLY",
+        "d_zt3kGW1NM",
+        "k2h2lvhzMDc",
+        "r-TLSBdHe1A",
+        "t1MqJPHxy6g",
+        "ySuUZEjARPY",
+        "1OfxlSG6q5Y",
+        "2Op3QLzMgSY",
+        "4Z2uzEM0ugY",
+        "8--5LwHRhjk",
+        "F-QA2rkpBSY",
+        "FvmTSpJU-Xc",
+        "Ggz_gd--UO0",
+        "HyzD8pNlpwI",
+        "JxAXlJEmNMg",
+        "ORzNZUeUHAM",
+        "QmOF0crdyRU",
+        "SWEts0rlezA",
+        "YSfCdBBqNXY",
+        "_ahvzDzKdB0",
+        "ajGX7odA87k",
+        "bmSAYlu0NcY",
+        "ecIWPzGEbFc",
+        "kZRE7HIO3vk",
+        "ncHmEUmJZf4",
+        "1gEz__sMVaY",
+        "2V1FtfBDsLU",
+        "2y5Pv4yN0b0"
       ],
       "attempted": 50,
       "unattempted": 0,
       "statuses": {
-        "confirmed": 15,
-        "review": 35
+        "review": 39,
+        "confirmed": 11
       },
-      "candidate_count": 480
+      "candidate_count": 470
     },
     {
-      "id": "20261104T084938Z",
+      "id": "20261104T130407Z",
       "selected": 1,
       "completed": 1,
       "errors": [],
       "stopped": false,
       "originals": [
-        "aMcJ1Jvtef0"
+        "eG0KrT6pBPk"
       ],
       "attempted": 1,
       "unattempted": 0,
       "statuses": {
         "review": 1
       },
-      "candidate_count": 20
-    },
-    {
-      "id": "20261104T084958Z",
-      "selected": 1,
-      "completed": 1,
-      "errors": [],
-      "stopped": false,
-      "originals": [
-        "qCGofLIzX6g"
-      ],
-      "attempted": 1,
-      "unattempted": 0,
-      "statuses": {
-        "review": 1
-      },
-      "candidate_count": 19
-    },
-    {
-      "id": "20261104T085018Z",
-      "selected": 1,
-      "completed": 1,
-      "errors": [],
-      "stopped": false,
-      "originals": [
-        "DovunOxlY1k"
-      ],
-      "attempted": 1,
-      "unattempted": 0,
-      "statuses": {
-        "confirmed": 1
-      },
-      "candidate_count": 20
-    },
-    {
-      "id": "20261104T085040Z",
-      "selected": 1,
-      "completed": 1,
-      "errors": [],
-      "stopped": false,
-      "originals": [
-        "JTfhYyTuT44"
-      ],
-      "attempted": 1,
-      "unattempted": 0,
-      "statuses": {
-        "review": 1
-      },
-      "candidate_count": 19
+      "candidate_count": 9
     }
   ]
 }

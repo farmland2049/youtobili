@@ -368,12 +368,11 @@ def build():
     for area in taxonomy:
         cats=[{'id':c['id'],'name':labels.get(c['id'],c['name']),'original_name':c['name']} for c in area['categories'] if c['id'] in active]
         if cats:areas.append({'id':area['id'],'name':labels.get(area['id'],area['name']),'categories':cats})
-    # Legacy BVID hashes and localStorage migrate to a single original. Prefer a confirmed mapping.
+    # Legacy BVID hashes and localStorage migrate only through published versions.
     legacy={}
-    visible={v['id'] for v in videos}
-    for vid,e in lib.items():
-        for c in e['candidates']:
-            if c['bvid'] not in legacy or vid in visible:legacy[c['bvid']]=vid
+    for v in videos:
+        for c in v['versions']:
+            legacy.setdefault(c['bvid'],v['id'])
     public={'schema_version':1,'built_at':now(),'stats':{k:summary[k] for k in ['corpus','processed','confirmed','coverage','processed_match_rate']},'areas':areas,'videos':videos,'legacy':legacy}
     write(ROOT/'data.json',public)
     # Keep a minimal, reproducible approval ledger. HTTP caches and pending candidates remain local.
@@ -526,6 +525,8 @@ def check():
             assert c['duration']>0 and c['page']>=1 and c['cid']
             assert (c['bvid'],c['page']) not in segments;segments.add((c['bvid'],c['page']))
     assert len(ids)==d['stats']['confirmed']
+    published={(c['bvid'],v['id']) for v in d['videos'] for c in v['versions']}
+    assert all((bv,vid) in published for bv,vid in d['legacy'].items()), 'legacy map includes unpublished candidates'
     public=(ROOT/'data.json').read_text()+(ROOT/'index.html').read_text()+(ROOT/'app.js').read_text()
     for forbidden in ['/Users/','/workspace/','source_file','legacy_confidence','SESSDATA','bili_jct']:assert forbidden not in public
     assert 'no-referrer' in (ROOT/'index.html').read_text()

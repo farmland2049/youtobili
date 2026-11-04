@@ -1,32 +1,32 @@
 # 匹配进展
 
-更新时间：2026-11-04T08:51:18.815092+00:00
+更新时间：2026-11-04T13:04:28.391696+00:00
 
 - 原片库：6454
-- 完成处理：209
-- 已确认原片：112
-- 全库覆盖率：1.74%
-- 已处理原片匹配率：53.59%
-- 状态：{'confirmed': 112, 'review': 97}
+- 完成处理：259
+- 已确认原片：123
+- 全库覆盖率：1.91%
+- 已处理原片匹配率：47.49%
+- 状态：{'confirmed': 123, 'review': 136}
 
 ## 最近批次
 
 ```json
 {
-  "id": "20261104T085040Z",
+  "id": "20261104T130407Z",
   "selected": 1,
   "completed": 1,
   "errors": [],
   "stopped": false,
   "originals": [
-    "JTfhYyTuT44"
+    "eG0KrT6pBPk"
   ],
   "attempted": 1,
   "unattempted": 0,
   "statuses": {
     "review": 1
   },
-  "candidate_count": 19
+  "candidate_count": 9
 }
 ```
 

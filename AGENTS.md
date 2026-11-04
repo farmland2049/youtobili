@@ -18,7 +18,7 @@
 - 操作入口：`README.md` → `docs/WORKFLOW.md`。
 - 最新统计：`reports/STATUS.md`、`reports/publication.json`；搜索当前状态：`reports/SEARCH-RECOVERY.md`；最新内容验证边界：`reports/CONTINUATION.md`；首版历史验收：`reports/ACCEPTANCE.md`。
 - 初始线上版本基线：`65dfbd6e285e8f793f369b4107281cdc11ef6a03`。
-- 完整库位于 `data/source/`，公开界面只读取根目录 `data.json`。不能把全库条数等同于匹配成功条数。
+- 完整库位于 `data/source/`，公开界面只读取根目录 `data.json`；其中旧BV兼容映射也只允许引用已发布版本。不能把全库条数等同于匹配成功条数。
 - 候选、接口缓存与断点位于本地 `data/work/`，不在Git中；新克隆可从 `data/confirmed.json` 重建确认数据，并从基线提交导入旧候选。
 
 ## 开发规则

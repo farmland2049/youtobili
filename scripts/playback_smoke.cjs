@@ -4,11 +4,15 @@ const fs = require('node:fs');
 (async () => {
   const browser = await chromium.launch({ headless: true });
   const data = JSON.parse(fs.readFileSync('data.json'));
-  const cases = ['official_zh', 'sub_zh', 'original', 'dub_zh'].map(kind => ({
+  const requested = (process.env.PLAYBACK_IDS || '').split(',').map(id => id.trim()).filter(Boolean);
+  const cases = requested.length ? requested.map(id => ({ label: id, video: data.videos.find(v => v.id === id) })) : ['official_zh', 'sub_zh', 'original', 'dub_zh'].map(kind => ({
     label: kind, video: data.videos.find(v => v.versions[0].kind === kind)
   }));
-  cases.push({ label: 'short', video: data.videos.find(v => v.versions[0].duration < 600) });
-  cases.push({ label: 'collection', video: data.videos.find(v => v.versions[0].page > 1) });
+  if (!requested.length) {
+    cases.push({ label: 'short', video: data.videos.find(v => v.versions[0].duration < 600) });
+    cases.push({ label: 'collection', video: data.videos.find(v => v.versions[0].page > 1) });
+  }
+  if (cases.some(sample => !sample.video) && requested.length) throw Error('Requested original is not published');
   const results = [];
   for (const sample of cases.filter(c => c.video)) {
     const v = sample.video, version = v.versions[0];

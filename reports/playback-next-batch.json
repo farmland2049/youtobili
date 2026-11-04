@@ -1,41 +1,47 @@
 {
-  "checked_at": "2026-11-04T08:54:11.620Z",
+  "checked_at": "2026-11-04T13:05:39.644Z",
   "checks": [
     {
-      "id": "yYAw79386WI",
-      "bvid": "BV1zQ4y1d7eC",
-      "page": 1,
+      "sample": "Kr3quGh7pJA",
       "kind": "sub_zh",
+      "id": "Kr3quGh7pJA",
+      "bvid": "BV1jZ4y1N7RE",
+      "page": 1,
       "playing": true,
       "media": {
-        "currentTime": 2.967181,
-        "paused": false,
-        "readyState": 4
-      }
+        "readyState": 4,
+        "currentTime": 3.946273,
+        "paused": false
+      },
+      "visible_text": "【中文字幕】Music Theory and White Supremacy\nmakpia\n关注\n542\n25\n分享\n更多\n00:04 / 44:02\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
     },
     {
-      "id": "8aGhZQkoFbQ",
-      "bvid": "BV1oV411k7XY",
-      "page": 1,
-      "kind": "sub_zh",
-      "playing": true,
-      "media": {
-        "currentTime": 3.027295,
-        "paused": false,
-        "readyState": 4
-      }
-    },
-    {
-      "id": "DovunOxlY1k",
-      "bvid": "BV19q4y127wt",
-      "page": 1,
+      "sample": "W3aieHjyNvw",
       "kind": "original",
+      "id": "W3aieHjyNvw",
+      "bvid": "BV1p4411k7N8",
+      "page": 1,
       "playing": true,
       "media": {
-        "currentTime": 2.54821,
-        "paused": false,
-        "readyState": 4
-      }
+        "readyState": 4,
+        "currentTime": 3.946717,
+        "paused": false
+      },
+      "visible_text": "【青幻译制】GDC讲座系列之三 守望先锋的游戏架构和网络代码\n青铜的幻想\n关注\n691\n38\n分享\n更多\n0:00:04 / 1:04:04\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "bmSAYlu0NcY",
+      "kind": "original",
+      "id": "bmSAYlu0NcY",
+      "bvid": "BV15J411x7FA",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.942631,
+        "paused": false
+      },
+      "visible_text": "John Ousterhout —— A Philosophy of Software Design | Talks at Google\n会喵喵的小汪\n关注\n13\n11\n分享\n更多\n0:00:04 / 1:01:40\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
     }
   ]
 }

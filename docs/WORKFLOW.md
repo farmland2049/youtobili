@@ -5,7 +5,7 @@
 - `data/source/videos.jsonl` 是完整原片库，主键 `vid`；原站导出不含时长，匹配时从原站公开视频详情获取核验所需时长，仅存本地缓存。
 - `data/work/library.json` 按原片ID保存候选。每个候选以 `bvid` 识别，并记录定位后的 `page`、`cid`、时长、语言类型、依据、检查时间与状态。
 - 状态为 `confirmed`（已确认）、`review`（待审核）、`unmatched`（未找到）和 `invalid`（已明确失效）。请求失败单独记录错误，不当作失效。
-- 根 `data.json` 是前端接口：`schema_version: 1`，含 `stats`、有内容的 `areas`、`videos` 和旧BV到原片的 `legacy` 映射。视频以 `id` 为主键，`versions` 只包含确认且可用的分P版本；第一项为默认版本。
+- 根 `data.json` 是前端接口：`schema_version: 1`，含 `stats`、有内容的 `areas`、`videos` 和旧BV到原片的 `legacy` 映射。该映射仅包含已发布版本；待审候选BV不进入公开数据。视频以 `id` 为主键，`versions` 只包含确认且可用的分P版本；第一项为默认版本。
 - 一个原片可有多个BV；同一BV可用不同分P对应不同原片。同一BV同一分P若指向多个原片，构建时全部隐藏，等待纠正。
 - `data/confirmed.json` 保存最小确认记录与处理状态用于复现；待审核候选和接口原始内容仅存在本地，不会放入前端数据。
 
@@ -106,3 +106,7 @@ python3 scripts/pipeline.py verify-leads data/work/web-leads.json --limit 50 --d
 搜索结果若给出时长，且比原片短到超出既定容差，会先保留为待审候选，暂缓详情请求。这类条目不自动判为失效或不存在，也不会展示。需要人工复核时可用 `inspect` 获取详情。更长的视频可能是合集，不能据此跳过；仍须定位分P。
 
 `--delay` 控制所有网络请求的间隔，默认1.3秒；搜索额外保证至少3秒间隔。初次恢复可用 `--delay 3` 小批验证，稳定后使用默认间隔继续，每批仍不超过50条。
+
+## 定向播放抽查
+
+可用 `PLAYBACK_IDS=原片ID1,原片ID2 PLAYBACK_REPORT=reports/playback-next-batch.json node scripts/playback_smoke.cjs` 检查本批新增内容。不指定ID时仍抽查各类版本。先启动本地预览服务；以视频进度推进为播放证据，缺少指定原片时直接报错。

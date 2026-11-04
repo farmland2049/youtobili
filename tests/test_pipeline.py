@@ -97,10 +97,14 @@ class BuildTests(unittest.TestCase):
     for f in ['index.html','app.js','style.css']:(root/'web'/f).write_text('')
     def candidate(status,page):return {'bvid':'BV1234567890','status':status,'availability':'available','evidence':['original link'],'page':page,'cid':page,'title':'T','up':'U','duration':50,'kind':'sub_zh','views':1,'pic':'https://example.org/pic','checked_at':p.now()}
     lib={rows[0]['vid']:{'status':'confirmed','candidates':[candidate('confirmed',1),candidate('review',3)]},rows[1]['vid']:{'status':'confirmed','candidates':[candidate('confirmed',2)]},rows[2]['vid']:{'status':'review','candidates':[candidate('review',4)]}}
+    lib[rows[0]['vid']]['candidates'][1]['bvid']='BV9999999999'
+    lib[rows[2]['vid']]['candidates'][0]['bvid']='BV8888888888'
     p.write(p.WORK/'library.json',lib);p.build();d=p.read(root/'data.json')
     self.assertEqual(len(d['videos']),2);self.assertEqual(len(d['videos'][0]['versions']),1)
+    self.assertEqual(d['legacy'],{'BV1234567890':rows[0]['vid']})
     lib[rows[1]['vid']]['candidates'][0]['page']=1;p.write(p.WORK/'library.json',lib);p.build()
     self.assertEqual(len(p.read(root/'data.json')['videos']),0)
+    self.assertEqual(p.read(root/'data.json')['legacy'],{})
    finally:p.ROOT,p.SOURCE,p.WORK=old
 
 
