@@ -17,6 +17,13 @@ const fs = require('node:fs');
   for (const sample of cases.filter(c => c.video)) {
     const v = sample.video, version = v.versions[0];
     const page = await browser.newPage();
+    const requestedCids = new Set();
+    page.on('request', request => {
+      try {
+        const url = new URL(request.url());
+        if (url.hostname === 'api.bilibili.com' && url.searchParams.has('cid')) requestedCids.add(url.searchParams.get('cid'));
+      } catch { /* Only retain public segment identifiers, never signed request URLs. */ }
+    });
     try {
       await page.goto((process.env.TEST_URL || 'http://127.0.0.1:8765/') + '#v/' + v.id);
       await page.locator('iframe').waitFor();
@@ -31,11 +38,14 @@ const fs = require('node:fs');
       } catch { /* Record the observable result rather than assume success. */ }
       await page.waitForTimeout(4000);
       const media = await frame.locator('video').first().evaluate(e => ({
-        readyState: e.readyState, currentTime: e.currentTime, paused: e.paused, error: e.error?.code
+        readyState: e.readyState, currentTime: e.currentTime, duration: e.duration, paused: e.paused, error: e.error?.code
       }));
       results.push({ sample: sample.label, kind: version.kind, id: v.id,
         bvid: version.bvid, page: version.page,
         playing: !media.paused && media.currentTime > before + 1, media,
+        expected_duration: version.duration,
+        duration_matches_segment: Number.isFinite(media.duration) && Math.abs(media.duration - version.duration) <= 3,
+        requested_cids: [...requestedCids], requested_cid_observed: requestedCids.has(String(version.cid)),
         visible_text: (await frame.locator('body').innerText()).slice(0, 400) });
       await page.screenshot({ path: '.artifacts/player-' + sample.label + '.png' });
     } catch (error) {

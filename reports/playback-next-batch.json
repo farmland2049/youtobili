@@ -1,47 +1,89 @@
 {
-  "checked_at": "2026-11-04T14:31:52.282Z",
+  "checked_at": "2026-11-04T15:42:49.617Z",
   "checks": [
     {
-      "sample": "NNnIGh9g6fA",
+      "sample": "kBdfcR-8hEY",
       "kind": "original",
-      "id": "NNnIGh9g6fA",
-      "bvid": "BV1ASxK6sE3f",
+      "id": "kBdfcR-8hEY",
+      "bvid": "BV1eW411v7zh",
       "page": 1,
       "playing": true,
       "media": {
         "readyState": 4,
-        "currentTime": 3.947301,
+        "currentTime": 4.273169,
+        "duration": 3296,
         "paused": false
       },
-      "visible_text": "1. Introduction To Human Behavioral Biology | Stanford\nMedNexus\n关注\n1\n0\n分享\n更多\n00:04 / 57:15\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+      "expected_duration": 3296,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "30140960"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【Justice: What's The Right Thing To Do?】Episode 01 'THE MORAL SIDE OF MURDER'\naymaco\n关注\n12\n3\n分享\n更多\n00:05 / 54:56\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
     },
     {
-      "sample": "cIQ9IXSUzuM",
-      "kind": "sub_zh",
-      "id": "cIQ9IXSUzuM",
-      "bvid": "BV1JD4y1D7Jx",
+      "sample": "AF8d72mA41M",
+      "kind": "original",
+      "id": "AF8d72mA41M",
+      "bvid": "BV1V7421d7hk",
       "page": 1,
       "playing": true,
       "media": {
         "readyState": 4,
-        "currentTime": 4.229962,
+        "currentTime": 4.284619,
+        "duration": 1930.7450000000001,
         "paused": false
       },
-      "visible_text": "Digital Show and Tell (中字)\nZexWoo\n关注\n91\n5\n分享\n更多\n00:05 / 23:53\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+      "expected_duration": 1932,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1574077537"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "中村修二和几乎不可能的蓝光LED\n自家学习用\n关注\n58\n12\n分享\n更多\n00:05 / 32:11\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
     },
     {
-      "sample": "h6fcK_fRYaI",
-      "kind": "dub_zh",
-      "id": "h6fcK_fRYaI",
-      "bvid": "BV1YT42197i6",
+      "sample": "Ip3X9LOh2dk",
+      "kind": "original",
+      "id": "Ip3X9LOh2dk",
+      "bvid": "BV1aAUSB5EBJ",
       "page": 1,
       "playing": true,
       "media": {
         "readyState": 4,
-        "currentTime": 4.284667,
+        "currentTime": 4.321032,
+        "duration": 603,
         "paused": false
       },
-      "visible_text": "【中配】卵 - 一个短故事 - Kurzgesagt – In a Nutshell\n黑纹白斑马\n关注\n7\n0\n分享\n更多\n00:05 / 07:33\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+      "expected_duration": 603,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "34252459718"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "The determinant | Chapter 6, Essence of linear algebra [3Blue1Brown - Videos]\nvector090_\n关注\n0\n0\n分享\n更多\n00:05 / 10:03\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "dXdoim96v5A",
+      "kind": "original",
+      "id": "dXdoim96v5A",
+      "bvid": "BV1G7411d7rQ",
+      "page": 36,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.27659,
+        "duration": 1672,
+        "paused": false
+      },
+      "expected_duration": 1672,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "165542991"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Building an 8-bit breadboard computer!\nGennadi\n关注\n36\n3\n分享\n更多\n00:05 / 27:52\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
     }
   ]
 }

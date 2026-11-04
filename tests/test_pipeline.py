@@ -20,8 +20,12 @@ class MatchingTests(unittest.TestCase):
  def test_wrong_duration(self):
   self.d['pages'][0]['duration']=700;self.assertIn('duration outside tolerance',self.result()['flags'])
  def test_collection_uses_segment_not_total_duration(self):
-  self.d['duration']=900;self.d['pages'].append({'page':2,'duration':450,'part':'chapter 2'})
+  self.d['duration']=900;self.d['pages'][0]['part']+=' [abcdefghijk]';self.d['pages'].append({'page':2,'duration':450,'part':'chapter 2'})
   self.assertEqual(self.result()['status'],'confirmed')
+ def test_collection_global_url_and_exact_title_do_not_bind_a_page(self):
+  self.d['pages'].append({'page':2,'duration':450,'part':'another version'})
+  self.assertEqual(self.result()['status'],'review')
+  self.assertIn('collection segment identity requires review',self.result()['flags'])
  def test_collection_without_segment_identity(self):
   self.d['pages'][0]['part']='P1';self.d['pages'].append({'page':2,'duration':450,'part':'P2'})
   self.assertIn('collection segment identity requires review',self.result()['flags'])
@@ -43,6 +47,7 @@ class MatchingTests(unittest.TestCase):
   class Deleted:
    def get(self,url):return {'code':-404}
   self.assertEqual(p.evaluate(Deleted(),self.o,{'bvid':'BV1234567890'})['status'],'invalid')
+  self.assertEqual(p.evaluate(Deleted(),self.o,{'bvid':'BV1234567890','availability':'available'})['availability'],'unavailable')
  def test_url_extractors(self):
   self.assertEqual(p.youtube_id('https://www.youtube.com/watch?v=abcdefghijk&x=1'),'abcdefghijk')
   self.assertEqual(p.identity_ids('https://www.youtube.com/watch?v=abcdefghijk&t=1'),{'abcdefghijk'})
@@ -83,6 +88,42 @@ class MatchingTests(unittest.TestCase):
     p.write(key,{'body':{'code':0,'data':[]}})
     self.assertEqual(c.get(u),{'code':0,'data':[]})
    finally:p.WORK=old
+
+class MismatchReviewTests(unittest.TestCase):
+ def test_available_mismatch_is_not_unavailable(self):
+  from types import SimpleNamespace
+  from unittest.mock import patch
+  with tempfile.TemporaryDirectory() as temp,patch.object(p,'WORK',Path(temp)),patch.object(p,'report'):
+   c={'bvid':'BV1234567890','status':'review','availability':'available','page':1,'cid':123,'page_count':1}
+   lib={'abcdefghijk':{'status':'review','candidates':[c]}}
+   p.write(p.WORK/'library.json',lib)
+   p.review(SimpleNamespace(vid='abcdefghijk',bvid=c['bvid'],decision='unmatched',page=1,evidence='Creator and content are a different recorded talk'))
+   saved=p.read(p.WORK/'library.json')['abcdefghijk']
+   self.assertEqual(saved['status'],'unmatched')
+   self.assertEqual(saved['candidates'][0]['availability'],'available')
+   self.assertTrue(saved['candidates'][0]['manual_rejection']['evidence'])
+   self.assertEqual(p.entry_status([saved['candidates'][0],{'status':'invalid'}]),'unmatched')
+   self.assertEqual(p.entry_status([saved['candidates'][0],{'status':'review'}]),'review')
+ def test_mismatch_requires_evidence_and_cannot_reject_collection(self):
+  from types import SimpleNamespace
+  from unittest.mock import patch
+  with tempfile.TemporaryDirectory() as temp,patch.object(p,'WORK',Path(temp)),patch.object(p,'report'):
+   c={'bvid':'BV1234567890','status':'review','availability':'available','page':1,'cid':123,'page_count':2}
+   p.write(p.WORK/'library.json',{'abcdefghijk':{'status':'review','candidates':[c]}})
+   for evidence in ['','   ','Only one page inspected']:
+    with self.assertRaises(ValueError):p.review(SimpleNamespace(vid='abcdefghijk',bvid=c['bvid'],decision='unmatched',page=1,evidence=evidence))
+   self.assertEqual(p.read(p.WORK/'library.json')['abcdefghijk']['status'],'review')
+ def test_rejection_expires_when_content_or_collection_changes(self):
+  o={'vid':'abcdefghijk','title':'Talk','channel':'Author'}
+  c={'bvid':'BV1234567890','status':'unmatched','cid':123,'page':1,'manual_rejection':{'evidence':'Different content'}}
+  detail={'title':'Other talk','desc':'','owner':{'name':'Uploader'},'pages':[{'page':1,'cid':123,'duration':300,'part':'Other talk'}]}
+  class Fixture:
+   def get(self,url):return {'video':{'duration_s':300}} if 'hackertube.org' in url else {'data':detail}
+  self.assertEqual(p.evaluate(Fixture(),o,c)['status'],'unmatched')
+  detail['pages'][0]['cid']=456
+  self.assertEqual(p.evaluate(Fixture(),o,c)['status'],'review')
+  detail['pages'][0]['cid']=123;detail['pages'].append({'page':2,'cid':456,'duration':300,'part':'new content'})
+  self.assertEqual(p.evaluate(Fixture(),o,c)['status'],'review')
 
 class BuildTests(unittest.TestCase):
  def test_only_confirmed_and_unique_segments_are_published(self):

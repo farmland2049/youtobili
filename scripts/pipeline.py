@@ -182,7 +182,7 @@ def assess(original, detail, page, duration):
     if not duration: flags.append('original duration unavailable')
     elif abs(actual-duration)>max(60,0.08*duration): flags.append('duration outside tolerance')
     if len(pages)>1:
-        if not page_identity and (title_overlap(original['title'],segment_title)<0.65 or len(ids)>1):
+        if not page_identity:
             flags.append('collection segment identity requires review')
     elif len(ids)>1 and not page_identity: flags.append('description links multiple originals')
     if actual<=0: flags.append('missing segment duration')
@@ -192,7 +192,7 @@ def assess(original, detail, page, duration):
 def evaluate(client, original, c):
     detail = client.get('https://api.bilibili.com/x/web-interface/view?'+urlencode({'bvid':c['bvid']}))
     if detail.get('code') == -404:
-        return {**c,'status':'invalid','reason':'view API explicitly returned -404','checked_at':now()}
+        return {**c,'status':'invalid','availability':'unavailable','reason':'view API explicitly returned -404','checked_at':now()}
     d = detail['data']
     meta = client.get('https://hackertube.org/api/video?'+urlencode({'vid':original['vid']}))
     metadata = meta.get('video', meta) if isinstance(meta,dict) else {}
@@ -219,12 +219,16 @@ def evaluate(client, original, c):
         # Explicit reviews survive rechecks only if availability and segment ID are unchanged.
         if c.get('cid')==fresh['cid'] and not any(f in fresh['flags'] for f in ['conflicting years','conflicting episode','possibly abridged','missing segment','missing segment duration']):
             fresh['status']='confirmed';fresh['reason']='manual content review; availability rechecked'
+    if c.get('manual_rejection') and c.get('status')=='unmatched':
+        if c.get('cid')==fresh.get('cid') and fresh.get('cid') and fresh.get('page_count')==1:
+            fresh['status']='unmatched';fresh['reason']='manual content mismatch; availability rechecked'
+            fresh['evidence']=[c['manual_rejection']['evidence']]
     return fresh
 
 def entry_status(candidates):
     if any(c['status']=='confirmed' for c in candidates): return 'confirmed'
     if any(c['status']=='review' for c in candidates): return 'review'
-    return 'invalid' if candidates else 'unmatched'
+    return 'invalid' if candidates and all(c['status']=='invalid' for c in candidates) else 'unmatched'
 
 def report(lib, batch=None):
     rows=corpus(); statuses=collections.Counter(e['status'] for e in lib.values())
@@ -246,7 +250,8 @@ def report(lib, batch=None):
         'verification_batch':read(WORK/'lead-receipt.json'),
         'blocked_searches':[{'vid':vid,'reason':e['last_error']} for vid,e in lib.items() if e.get('last_error') and not e.get('completed_at')],
         'candidates':sum(len(e['candidates']) for e in lib.values()),'review_expansion_pending':expansion_pending,'expanded_reviews':expanded_reviews,'batch':batch if batch is not None else read(ROOT/'reports/summary.json',{}).get('batch'),
-        'review_reasons':dict(collections.Counter(c.get('reason','') for e in lib.values() for c in e['candidates'] if c['status']!='confirmed'))}
+        'candidate_statuses':dict(collections.Counter(c['status'] for e in lib.values() for c in e['candidates'])),
+        'review_reasons':dict(collections.Counter(c.get('reason','') for e in lib.values() for c in e['candidates'] if c['status']=='review'))}
     write(ROOT/'reports/summary.json',summary)
     text=f"# 匹配进展\n\n更新时间：{summary['updated_at']}\n\n- 原片库：{len(rows)}\n- 完成处理：{len(done)}\n- 已确认原片：{confirmed}\n- 全库覆盖率：{summary['coverage']:.2%}\n- 已处理原片匹配率：{summary['processed_match_rate']:.2%}\n- 状态：{dict(statuses)}\n\n"
     text+=f"- 待审中尚需扩大候选检查：{expansion_pending}\n- 已扩大检查仍待审核：{expanded_reviews}\n\n"
@@ -548,10 +553,16 @@ def review(args):
     lib=read(WORK/'library.json',{});e=lib[args.vid]
     c=next(c for c in e['candidates'] if c['bvid']==args.bvid)
     if args.decision=='confirmed':
-        if not args.evidence or not args.page:raise ValueError('approval requires --evidence and --page')
+        if not args.evidence or not args.evidence.strip() or not args.page:raise ValueError('approval requires --evidence and --page')
         if c.get('availability')!='available' or c.get('page')!=args.page:raise ValueError('check selected segment availability first')
         if set(c.get('flags',[])) & {'conflicting years','conflicting episode','possibly abridged','missing segment','missing segment duration'}:raise ValueError('resolve content contradictions before approval')
         c['manual_review']={'at':now(),'evidence':args.evidence};c['evidence']=[args.evidence]
+    if args.decision=='unmatched':
+        if not args.evidence or not args.evidence.strip() or not args.page:raise ValueError('mismatch review requires --evidence and --page')
+        if c.get('availability')!='available' or c.get('page')!=args.page or not c.get('cid'):raise ValueError('inspect the available selected segment first')
+        if c.get('page_count')!=1:raise ValueError('do not reject a whole collection from a single inspected page')
+        c['manual_rejection']={'at':now(),'evidence':args.evidence}
+        c['evidence']=[args.evidence];c['reason']='manual review: available video does not match this original'
     c['status']=args.decision;e['status']=entry_status(e['candidates'])
     write(WORK/'library.json',lib);report(lib)
 
@@ -579,7 +590,7 @@ if __name__=='__main__':
     p=subs.add_parser('match');p.add_argument('--limit',type=int,default=50);p.add_argument('--delay',type=float,default=1.3);p.add_argument('--vid');p.add_argument('--existing-only',action='store_true');p.add_argument('--recheck',action='store_true');p.add_argument('--expand-review',action='store_true')
     p=subs.add_parser('verify-leads');p.add_argument('file');p.add_argument('--limit',type=int,default=50);p.add_argument('--delay',type=float,default=2)
     p=subs.add_parser('inspect');p.add_argument('vid');p.add_argument('bvid');p.add_argument('--page',type=int)
-    p=subs.add_parser('review');p.add_argument('vid');p.add_argument('bvid');p.add_argument('decision',choices=['confirmed','review','invalid']);p.add_argument('--page',type=int);p.add_argument('--evidence')
+    p=subs.add_parser('review');p.add_argument('vid');p.add_argument('bvid');p.add_argument('decision',choices=['confirmed','review','unmatched','invalid']);p.add_argument('--page',type=int);p.add_argument('--evidence')
     a=parser.parse_args()
     if a.cmd=='import': print(len(import_legacy()),'legacy originals imported')
     elif a.cmd=='match':raise SystemExit(run_match(a))

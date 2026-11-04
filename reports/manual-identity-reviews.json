@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-04T14:30:39.518942+00:00",
+  "checked_at": "2026-11-04T15:48:20.301196+00:00",
   "reviews": [
     {
       "id": "NNnIGh9g6fA",
@@ -36,6 +36,23 @@
       "duration_s": 1433,
       "original_duration_s": 1433,
       "frame_by_frame_comparison": false
+    },
+    {
+      "id": "kBdfcR-8hEY",
+      "bvid": "BV1eW411v7zh",
+      "page": 1,
+      "cid": 30140960,
+      "reviewer": "Codex",
+      "reviewed_at": "2026-11-04T15:33:48.541172+00:00",
+      "evidence": "Codex来源链复核：BV简介直接给出http://justiceharvard.org/themoralsideofmurder/，并注明本集两部分及第二部分24:40/54:55。已读取课程页https://justiceharvard.org/themoralsideofmurder/，其视频嵌入地址明确为https://www.youtube.com/embed/kBdfcR-8hEY?end=1452&start=17，绑定本库原片ID。网页嵌入区间是第一部分，不能当作整片时长；原片与BV单P详情均3296秒，CID30140960，无年份、集次、内容删减或分P归属冲突。此为课程源链接与原片ID的证据链复核，未逐帧比较。",
+      "sources": [
+        "https://justiceharvard.org/themoralsideofmurder/"
+      ],
+      "duration_s": 3296,
+      "original_duration_s": 3296,
+      "frame_by_frame_comparison": false,
+      "decision": "confirmed",
+      "evidence_type": "creator course page directly embeds original ID"
     }
   ]
 }
