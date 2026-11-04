@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-04T15:48:20.301196+00:00",
+  "checked_at": "2026-11-04T23:05:06.948872+00:00",
   "reviews": [
     {
       "id": "NNnIGh9g6fA",
@@ -53,6 +53,93 @@
       "frame_by_frame_comparison": false,
       "decision": "confirmed",
       "evidence_type": "creator course page directly embeds original ID"
+    },
+    {
+      "id": "TfYf_rPWUdY",
+      "bvid": "BV18p4y1f7HP",
+      "page": 1,
+      "cid": 1368458512,
+      "decision": "confirmed",
+      "reviewer": "Codex",
+      "reviewed_at": "2026-11-04T23:05:05.830098+00:00",
+      "evidence_type": "creator page explicitly maps original YouTube identity",
+      "evidence": "Codex来源链复核：BV简介明确注明转自https://dnalc.cshl.edu/resources/3d/16-translation-advanced.html；已读取DNA Learning Center原页，其YouTube链接直接指向TfYf_rPWUdY。页面描述mRNA、核糖体和tRNA的翻译动画，原页时长183秒；本库原片与BV单P详情均184秒，差异1秒未作删减结论。 已检查P1、CID1368458512、BV时长184秒及原片184秒；在当前缓存检查中未发现年份、集次或跨原片分P归属冲突。此为来源身份链与元数据复核，未逐帧比较；本次已重新核对候选状态和CID。",
+      "sources": [
+        "https://dnalc.cshl.edu/resources/3d/16-translation-advanced.html"
+      ],
+      "duration_s": 184,
+      "original_duration_s": 184,
+      "frame_by_frame_comparison": false,
+      "source_metadata_sha256": "993cf81295d8bffef9f32bf382adc2cd1ef3559c562f2f1e71684582400d6359"
+    },
+    {
+      "id": "qbKGw8MQ0i8",
+      "bvid": "BV1ut421572e",
+      "page": 1,
+      "cid": 1471250601,
+      "decision": "confirmed",
+      "reviewer": "Codex",
+      "reviewed_at": "2026-11-04T23:05:06.123052+00:00",
+      "evidence_type": "creator page explicitly maps original YouTube identity",
+      "evidence": "Codex来源链复核：BV简介直接引用https://lca2020.linux.org.au/schedule/presentation/38/；已由网页工具读取LCA2020主办方议程，该页明确列出演讲人Robert Collins、NTFS演讲及YouTube链接qbKGw8MQ0i8。独立本机网页抓取出现TLS EOF，未将其当作成功快照；网页工具实际返回正文和该链接。 已检查P1、CID1471250601、BV时长2885秒及原片2884秒；在当前缓存检查中未发现年份、集次或跨原片分P归属冲突。此为来源身份链与元数据复核，未逐帧比较；本次已重新核对候选状态和CID。",
+      "sources": [
+        "https://lca2020.linux.org.au/schedule/presentation/38/"
+      ],
+      "duration_s": 2885,
+      "original_duration_s": 2884,
+      "frame_by_frame_comparison": false,
+      "source_access_note": "URLError: EOF occurred in violation of protocol; web tool returned page and exact outgoing link; web tool successfully returned the page and exact YouTube link."
+    },
+    {
+      "id": "Gj8IA6xOpSk",
+      "bvid": "BV1YK411p7WK",
+      "page": 1,
+      "cid": 198443353,
+      "decision": "confirmed",
+      "reviewer": "Codex",
+      "reviewed_at": "2026-11-04T23:05:06.393020+00:00",
+      "evidence_type": "creator page explicitly maps original YouTube identity",
+      "evidence": "Codex来源链复核：BV简介直接链接https://www.ted.com/talks/clifford_stoll_the_call_to_learn；已读取TED官方页及__NEXT_DATA__播放器资料，其external.service=YouTube、code=Gj8IA6xOpSk、duration=1071，演讲人为Clifford Stoll、TED2006。单P元数据的文件名CliffordStoll_2006-480p-zh-cn补充对应讲次身份，不单凭此文件名认定字幕语言。 已检查P1、CID198443353、BV时长1071秒及原片1071秒；在当前缓存检查中未发现年份、集次或跨原片分P归属冲突。此为来源身份链与元数据复核，未逐帧比较；本次已重新核对候选状态和CID。",
+      "sources": [
+        "https://www.ted.com/talks/clifford_stoll_the_call_to_learn"
+      ],
+      "duration_s": 1071,
+      "original_duration_s": 1071,
+      "frame_by_frame_comparison": false,
+      "source_metadata_sha256": "fa0e2faadfae300b9818e9b54de6e1160cfc4978b3191a89240594495a1e2f01"
+    },
+    {
+      "id": "iG9CE55wbtY",
+      "bvid": "BV1f24y1u7tt",
+      "page": 1,
+      "cid": 1045756913,
+      "decision": "confirmed",
+      "reviewer": "Codex",
+      "reviewed_at": "2026-11-04T23:05:06.677201+00:00",
+      "evidence_type": "creator page explicitly maps original YouTube identity",
+      "evidence": "Codex来源链复核：BV简介链接TED同一演讲的/comments地址；已读取主页面https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity及__NEXT_DATA__播放器资料，external.service=YouTube、code=iG9CE55wbtY、duration=1204。BV单P1153秒，比原片短51秒，处于max(60秒,8%)检查线内；该差异明确保留，未声称逐帧检查删减。 已检查P1、CID1045756913、BV时长1153秒及原片1204秒；在当前缓存检查中未发现年份、集次或跨原片分P归属冲突。此为来源身份链与元数据复核，未逐帧比较；本次已重新核对候选状态和CID。",
+      "sources": [
+        "https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity"
+      ],
+      "duration_s": 1153,
+      "original_duration_s": 1204,
+      "frame_by_frame_comparison": false,
+      "source_metadata_sha256": "932c7732ad390035ebfaf37cacfa3e5f2b63853dc97e9d8d3a6836bd7b9928e0"
+    },
+    {
+      "id": "s7tWHJfhiyo",
+      "bvid": "BV1fb411s7Hr",
+      "page": 1,
+      "cid": 83117285,
+      "decision": "unmatched",
+      "reviewer": "Codex",
+      "reviewed_at": "2026-11-04T23:05:06.948861+00:00",
+      "evidence_type": "explicit incompatible creator and subject",
+      "evidence": "Codex对应关系否定复核：本库原片s7tWHJfhiyo为CGP Grey的Why Your Vote Doesnt Count，主题为选举制度；BV1fb411s7Hr简介明确链接TED的Nadia Lopez演讲Why open a school? To close a prison，已读取官方原页，确认讲者Nadia Lopez、TED Talks Live、2015年11月，主题为Brownsville的学校教育。候选单P文件名NadiaLopez_2015P-480p、CID83117285、435秒，与该身份相符。它与本库原片作者和主题均不符；391秒与435秒时长相近不能推翻身份冲突。视频详情仍可用，因此仅否定此对应关系，不判为失效，也不声称B站不存在其他匹配。未逐帧比较。",
+      "sources": [
+        "https://www.ted.com/talks/nadia_lopez_why_open_a_school_to_close_a_prison"
+      ],
+      "frame_by_frame_comparison": false
     }
   ]
 }

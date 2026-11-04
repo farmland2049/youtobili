@@ -26,6 +26,15 @@ class MatchingTests(unittest.TestCase):
  def test_collection_uses_segment_not_total_duration(self):
   self.d['duration']=900;self.d['pages'][0]['part']+=' [abcdefghijk]';self.d['pages'].append({'page':2,'duration':450,'part':'chapter 2'})
   self.assertEqual(self.result()['status'],'confirmed')
+ def test_inline_explicit_page_sources_bind_only_the_numbered_page(self):
+  self.d['desc']='P1: 英语原视频 https://youtu.be/abcdefghijk\nP2: 汉语配音视频 https://example.org/dub\nP10: https://youtu.be/ABCDEFGHIJK'
+  self.d['pages'][0]['part']='Original talk without a page prefix'
+  self.d['pages'].append({'page':2,'duration':450,'part':'Dubbed talk'})
+  self.assertEqual(p.segment_source_ids(self.d,self.d['pages'][0]),{'abcdefghijk'})
+  self.assertEqual(p.segment_source_ids(self.d,self.d['pages'][1]),set())
+  self.assertEqual(self.result()['status'],'confirmed')
+  self.assertEqual(p.assess(self.o,self.d,2,450)['status'],'review')
+  self.assertEqual(p.segment_source_ids(self.d,{'page':10}),{'ABCDEFGHIJK'})
  def test_collection_global_url_and_exact_title_do_not_bind_a_page(self):
   self.d['pages'].append({'page':2,'duration':450,'part':'another version'})
   self.assertEqual(self.result()['status'],'review')

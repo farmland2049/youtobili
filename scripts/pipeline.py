@@ -58,6 +58,12 @@ def primary_identity_ids(text):
 def segment_source_ids(detail, segment):
     ids=segment_identity_ids(segment.get('part',''))
     desc=detail.get('desc','');part=segment.get('part','').strip()
+    # Explicit P numbers refer to Bilibili pages even when the part title has no P prefix.
+    page_blocks=list(re.finditer(r'(?im)^\s*P\s*(\d+)\s*[:：]',desc))
+    for i,h in enumerate(page_blocks):
+        if int(h.group(1))==segment.get('page'):
+            end=page_blocks[i+1].start() if i+1<len(page_blocks) else len(desc)
+            ids.update(primary_identity_ids(desc[h.end():end]))
     headings=list(re.finditer(r'(?im)^\s*(上篇|下篇|P\s*\d+|第\s*\d+\s*[集章课])\s*[:：]\s*$',desc))
     for i,h in enumerate(headings):
         label=re.sub(r'\s+','',h.group(1)).lower()
