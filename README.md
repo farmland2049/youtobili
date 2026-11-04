@@ -26,7 +26,7 @@ python3 scripts/pipeline.py check
 python3 -m unittest discover -s tests -v
 ```
 
-搜索已补齐匿名访客初始化，可先运行 `python3 scripts/search_health.py` 检查；[当前搜索验证](reports/SEARCH-RECOVERY.md)。匹配批次遇到412、登录要求或限流立即停止并保留进度。先检查 `reports/STATUS.md`，不要连续重试。可在 `data/search-queries.json` 维护简短中英文检索词，检索词不作为审核证据。详细的合集定位、人工审核与发布步骤见[操作说明](docs/WORKFLOW.md)。
+搜索已补齐匿名访客初始化，可先运行 `python3 scripts/search_health.py` 检查；[当前搜索验证](reports/SEARCH-RECOVERY.md)。匹配批次遇到412、登录要求或限流立即停止并保留进度。先检查 `reports/STATUS.md`，不要连续重试。可在 `data/search-queries.json` 维护简短中英文检索词，检索词不作为审核证据。可用 `seed-identities` 复用公开缓存中的来源线索，用 `match --expand-review --limit 50` 补查旧待审候选。详细的合集定位、人工审核与发布步骤见[操作说明](docs/WORKFLOW.md)。
 
 ## 内容与版本规则
 

@@ -19,7 +19,7 @@ python3 scripts/pipeline.py import
 python3 scripts/pipeline.py match --limit 50
 ```
 
-每批上限50条，优先已有候选，再按原站质量分排序。先依次搜索原片标题、作者加标题，每个查询最多取5个候选。串行请求至少间隔1.2秒；使用程序内临时访客会话，不读取本机个人Cookie。API成功响应缓存7天，过期后重新检查。
+每批上限50条，优先已有候选，再按原站质量分排序。先依次搜索原片标题、作者加标题，每个查询最多取20个候选。串行请求至少间隔1.2秒；使用程序内临时访客会话，不读取本机个人Cookie。API成功响应缓存7天，过期后重新检查。
 
 `match` 默认跳过已完成原片和已检查候选；中断后再次运行会从未完成条目继续。`--existing-only` 仅复核已导入的旧候选，`--recheck` 重新评估已有条目（仍复用未过期缓存）。更新前如需强制刷新某条接口，可移走本地对应缓存；不要清空缓存后大量重试。
 
@@ -110,3 +110,21 @@ python3 scripts/pipeline.py verify-leads data/work/web-leads.json --limit 50 --d
 ## 定向播放抽查
 
 可用 `PLAYBACK_IDS=原片ID1,原片ID2 PLAYBACK_REPORT=reports/playback-next-batch.json node scripts/playback_smoke.cjs` 检查本批新增内容。不指定ID时仍抽查各类版本。先启动本地预览服务；以视频进度推进为播放证据，缺少指定原片时直接报错。
+
+## 扩大旧待审条目的候选范围
+
+2026-11-04起，每个检索词最多保留20个候选，替代此前的前5个。公开搜索返回的候选只作线索，不会直接批准。已检查过的详情复用缓存，明显过短的新增候选仍暂缓详情请求。
+
+运行 `python3 scripts/pipeline.py match --expand-review --limit 50`，只选择待审且尚未检查前20个结果、或上次补查失败的原片。已确认条目和已完成扩大检查的待审条目跳过。该选项不能与 `--recheck` 或 `--existing-only` 合用；保留原有停止风控、断点及人工审核规则。
+
+`reports/summary.json` 与 `STATUS.md` 分别统计尚需补查、已补查仍待审的数量。已处理或扩大检查都不等于确认成功，存疑内容继续隐藏。
+
+## 从公开缓存整理明确的原片身份线索
+
+运行 `python3 scripts/pipeline.py seed-identities`，离线读取已缓存的公开视频详情与搜索摘要，提取原片URL、明确标注的YouTube ID和分P绑定的ID，仅保留原片库中尚未完成对应详情检查的线索，输出到本地 `data/work/cached-identity-leads.json`。该步骤不发请求、不修改匹配库，也不批准版本。
+
+随后运行 `python3 scripts/pipeline.py verify-leads data/work/cached-identity-leads.json --limit 50`，按相同身份、分P与时长规则核验。可再次离线整理剩余线索，已完成详情检查的候选不会重复输出。接口失败保留状态，详情风控仍会锁住后续核验批次。
+
+搜索摘要中的原片ID只产生线索，核验时必须重新检查完整视频详情；摘要不会绕过身份与时长规则。重复线索优先保留详情中的明确分P定位。
+
+新发现的BV若详情明确返回 `-404`，会保存已失效候选，避免离线整理反复输出同一失效链接。单个失效链接不会将整条原片标成已完成搜索，仍可继续寻找其他版本；网络错误也不会被记录为失效。

@@ -135,6 +135,46 @@ class BatchTests(unittest.TestCase):
    finally:p.ROOT,p.WORK=old
 
 class SearchCandidateTests(unittest.TestCase):
+ def test_review_expansion_selects_shallow_reviews_and_failed_expansions(self):
+  from unittest.mock import patch
+  from types import SimpleNamespace
+  with tempfile.TemporaryDirectory() as temp,patch.object(p,'ROOT',Path(temp)),patch.object(p,'WORK',Path(temp)/'work'):
+   rows=[{'vid':v,'title':v} for v in ['abcdefghijk','ABCDEFGHIJK','01234567890','abcdefghij0']]
+   lib={r['vid']:{'status':'review','completed_at':'before','search_result_limit':20,'candidates':[]} for r in rows}
+   lib[rows[0]['vid']]['search_result_limit']=5
+   lib[rows[2]['vid']]['status']='confirmed'
+   lib[rows[3]['vid']]['last_error']='network error'
+   class Fixture:
+    def __init__(self,delay):pass
+    def get(self,url):return {'video':{'duration_s':600}} if 'hackertube.org' in url else {'data':{'result':[]}}
+   args=SimpleNamespace(delay=1.3,existing_only=False,recheck=False,expand_review=True,limit=50)
+   with patch.object(p,'corpus',return_value=rows),patch.object(p,'import_legacy',return_value=lib),patch.object(p,'Client',Fixture),patch.object(p,'report'):
+    self.assertEqual(p.run_match(args),0)
+   self.assertNotEqual(lib[rows[0]['vid']]['completed_at'],'before')
+   self.assertEqual(lib[rows[1]['vid']]['completed_at'],'before')
+   self.assertEqual(lib[rows[2]['vid']]['completed_at'],'before')
+   self.assertNotEqual(lib[rows[3]['vid']]['completed_at'],'before')
+   self.assertNotIn('last_error',lib[rows[3]['vid']])
+ def test_matching_candidate_after_fifth_result_is_checked(self):
+  from unittest.mock import patch
+  from types import SimpleNamespace
+  with tempfile.TemporaryDirectory() as temp,patch.object(p,'ROOT',Path(temp)),patch.object(p,'WORK',Path(temp)/'work'):
+   original={'vid':'abcdefghijk','title':'Distinctive original title','channel':'Author'}
+   results=[{'bvid':'BV'+str(i).zfill(10),'duration':'10:00'} for i in range(7)]
+   lib={};seen=[]
+   class Fixture:
+    def __init__(self,delay):pass
+    def get(self,url):
+     return {'video':{'duration_s':600}} if 'hackertube.org' in url else {'data':{'result':results}}
+   def evaluate(client,o,c):
+    seen.append(c['bvid'])
+    return {**c,'status':'confirmed' if c['bvid']==results[-1]['bvid'] else 'review','checked_at':p.now()}
+   args=SimpleNamespace(delay=1.3,existing_only=False,recheck=False,limit=1)
+   with patch.object(p,'corpus',return_value=[original]),patch.object(p,'import_legacy',return_value=lib),patch.object(p,'Client',Fixture),patch.object(p,'evaluate',side_effect=evaluate),patch.object(p,'report'):
+    self.assertEqual(p.run_match(args),0)
+   self.assertIn(results[-1]['bvid'],seen)
+   self.assertEqual(len(lib[original['vid']]['candidates']),7)
+   self.assertEqual(lib[original['vid']]['status'],'confirmed')
  def test_only_shorter_candidates_are_deferred(self):
   self.assertTrue(p.defer_short_candidate(3600,600))
   self.assertFalse(p.defer_short_candidate(3600,3650))
@@ -212,6 +252,21 @@ class GuestSearchTests(unittest.TestCase):
    self.assertEqual(len(calls),1);self.assertFalse(c.guest_ready)
 
 class PublicLeadTests(unittest.TestCase):
+ def test_new_deleted_identity_lead_is_recorded_without_completing_original(self):
+  from unittest.mock import patch
+  from types import SimpleNamespace
+  with tempfile.TemporaryDirectory() as temp,patch.object(p,'WORK',Path(temp)):
+   p.write(p.WORK/'leads.json',[{'vid':'abcdefghijk','bvid':'BV1234567890'}])
+   class Deleted:
+    def __init__(self,delay):pass
+    def get(self,url):return {'code':-404}
+   with patch.object(p,'import_legacy',return_value={}),patch.object(p,'corpus',return_value=[{'vid':'abcdefghijk'}]),patch.object(p,'Client',Deleted),patch.object(p,'report'):
+    self.assertEqual(p.verify_leads(SimpleNamespace(limit=50,file=str(p.WORK/'leads.json'),delay=2)),2)
+   entry=p.read(p.WORK/'library.json')['abcdefghijk']
+   self.assertEqual(entry['status'],'invalid')
+   self.assertEqual(entry['candidates'][0]['availability'],'unavailable')
+   self.assertTrue(entry['candidates'][0]['checked_at'])
+   self.assertNotIn('completed_at',entry)
  def test_detail_block_latch_prevents_followup_requests(self):
   from unittest.mock import patch
   from types import SimpleNamespace
@@ -259,6 +314,36 @@ class PublicLeadTests(unittest.TestCase):
     self.assertGreater(p.time.time()-file.stat().st_mtime,590)
     self.assertEqual(p.read(file)['fetched_at'],'2026-11-04T00:00:00+00:00')
    finally:p.WORK=old
+ def test_cached_source_id_leads_do_not_request_or_approve(self):
+  from unittest.mock import patch
+  with tempfile.TemporaryDirectory() as temp,patch.object(p,'WORK',Path(temp)):
+   lib={'abcdefghijk':{'status':'review','candidates':[]}}
+   p.write(p.WORK/'library.json',lib)
+   detail={'bvid':'BV1234567890','desc':'https://youtu.be/abcdefghijk\nOther resources:\nhttps://youtu.be/01234567890',
+           'pages':[{'page':1,'part':'main'},{'page':2,'part':'Another talk [ABCDEFGHIJK]'}]}
+   p.write(p.WORK/'http/one.json',{'url':'https://api.bilibili.com/x/web-interface/view?bvid=BV1234567890','body':{'data':detail}})
+   rows=[{'vid':v} for v in ['abcdefghijk','ABCDEFGHIJK','01234567890']]
+   with patch.object(p,'corpus',return_value=rows),patch.object(p,'Client') as client:
+    p.seed_identities();client.assert_not_called()
+   leads=p.read(p.WORK/'cached-identity-leads.json')
+   self.assertEqual({x['vid'] for x in leads},{'abcdefghijk','ABCDEFGHIJK'})
+   self.assertEqual(next(x for x in leads if x['vid']=='ABCDEFGHIJK')['page'],2)
+   self.assertEqual(p.read(p.WORK/'library.json'),lib)
+   lib['abcdefghijk']['candidates']=[{'bvid':'BV1234567890','checked_at':p.now(),'status':'review'}]
+   p.write(p.WORK/'library.json',lib)
+   with patch.object(p,'corpus',return_value=rows):p.seed_identities()
+   self.assertEqual([x['vid'] for x in p.read(p.WORK/'cached-identity-leads.json')],['ABCDEFGHIJK'])
+ def test_cached_search_source_id_after_fifth_result_is_only_a_lead(self):
+  from unittest.mock import patch
+  with tempfile.TemporaryDirectory() as temp,patch.object(p,'WORK',Path(temp)):
+   results=[{'bvid':'BV'+str(i).zfill(10),'description':''} for i in range(6)]
+   results[-1]['description']='https://youtu.be/<em>abcdefghijk</em>'
+   p.write(p.WORK/'http/search.json',{'url':'https://api.bilibili.com/x/web-interface/search/type?keyword=topic','body':{'data':{'result':results}}})
+   with patch.object(p,'corpus',return_value=[{'vid':'abcdefghijk'}]),patch.object(p.Client,'__init__') as client_init:
+    p.seed_identities();client_init.assert_not_called()
+   leads=p.read(p.WORK/'cached-identity-leads.json')
+   self.assertEqual(len(leads),1);self.assertEqual(leads[0]['bvid'],results[-1]['bvid'])
+   self.assertFalse((p.WORK/'library.json').exists())
  def test_collection_titles_only_seed_candidates(self):
   from unittest.mock import patch
   with tempfile.TemporaryDirectory() as temp:

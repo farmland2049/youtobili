@@ -238,15 +238,18 @@ def report(lib, batch=None):
         batch['statuses']=dict(collections.Counter(lib[vid]['status'] for vid in attempted if vid in lib))
     done=[e for e in lib.values() if e.get('completed_at')]
     confirmed=sum(e['status']=='confirmed' for e in lib.values())
+    expansion_pending=sum(e['status']=='review' and (e.get('search_result_limit',0)<20 or bool(e.get('last_error'))) for e in lib.values())
+    expanded_reviews=sum(e['status']=='review' and e.get('search_result_limit',0)>=20 and not e.get('last_error') for e in lib.values())
     summary={'updated_at':now(),'corpus':len(rows),'processed':len(done),'confirmed':confirmed,
         'coverage':confirmed/len(rows),'processed_match_rate':sum(e['status']=='confirmed' for e in done)/len(done) if done else 0,
         'statuses':dict(statuses),'not_processed':len(rows)-len(done),
         'verification_batch':read(WORK/'lead-receipt.json'),
         'blocked_searches':[{'vid':vid,'reason':e['last_error']} for vid,e in lib.items() if e.get('last_error') and not e.get('completed_at')],
-        'candidates':sum(len(e['candidates']) for e in lib.values()),'batch':batch if batch is not None else read(ROOT/'reports/summary.json',{}).get('batch'),
+        'candidates':sum(len(e['candidates']) for e in lib.values()),'review_expansion_pending':expansion_pending,'expanded_reviews':expanded_reviews,'batch':batch if batch is not None else read(ROOT/'reports/summary.json',{}).get('batch'),
         'review_reasons':dict(collections.Counter(c.get('reason','') for e in lib.values() for c in e['candidates'] if c['status']!='confirmed'))}
     write(ROOT/'reports/summary.json',summary)
     text=f"# 匹配进展\n\n更新时间：{summary['updated_at']}\n\n- 原片库：{len(rows)}\n- 完成处理：{len(done)}\n- 已确认原片：{confirmed}\n- 全库覆盖率：{summary['coverage']:.2%}\n- 已处理原片匹配率：{summary['processed_match_rate']:.2%}\n- 状态：{dict(statuses)}\n\n"
+    text+=f"- 待审中尚需扩大候选检查：{expansion_pending}\n- 已扩大检查仍待审核：{expanded_reviews}\n\n"
     if summary['batch']: text+='## 最近批次\n\n```json\n'+json.dumps(summary['batch'],ensure_ascii=False,indent=2)+'\n```\n'
     if summary['verification_batch']:
         text+='\n## 最近公开线索核验\n\n```json\n'+json.dumps(summary['verification_batch'],ensure_ascii=False,indent=2)+'\n```\n'
@@ -282,7 +285,10 @@ def run_match(args):
         if not rows:raise ValueError('original ID not in corpus')
     ordered=sorted(rows,key=lambda x:(not bool(lib.get(x['vid'],{}).get('candidates')), -x.get('score',0)))
     if args.existing_only:ordered=[x for x in ordered if lib.get(x['vid'],{}).get('candidates')]
-    if not args.recheck:ordered=[x for x in ordered if not lib.get(x['vid'],{}).get('completed_at')]
+    if getattr(args,'expand_review',False):
+        if args.existing_only or args.recheck:raise ValueError('expand-review cannot be combined with existing-only or recheck')
+        ordered=[x for x in ordered if lib.get(x['vid'],{}).get('status')=='review' and (lib[x['vid']].get('search_result_limit',0)<20 or lib[x['vid']].get('last_error'))]
+    elif not args.recheck:ordered=[x for x in ordered if not lib.get(x['vid'],{}).get('completed_at')]
     selected=ordered[:args.limit]
     if not selected:
         print('No pending candidate originals in this selection.');return 0
@@ -292,12 +298,12 @@ def run_match(args):
         entry.pop('last_error',None)
         try:
             queries=search_queries(original) if not args.existing_only else []
-            if not args.existing_only and (not entry.get('searched_at') or entry.get('search_session_version')!=2 or entry.get('search_queries')!=queries):
+            if not args.existing_only and (not entry.get('searched_at') or entry.get('search_session_version')!=2 or entry.get('search_queries')!=queries or entry.get('search_result_limit',0)<20):
                 meta=client.get('https://hackertube.org/api/video?'+urlencode({'vid':vid}))
                 source_duration=(meta.get('video',meta) or {}).get('duration_s') if isinstance(meta,dict) else None
                 for q in dict.fromkeys(queries):
                     response=client.get('https://api.bilibili.com/x/web-interface/search/type?'+urlencode({'search_type':'video','keyword':q,'page':1}))
-                    for item in response.get('data',{}).get('result',[])[:5]:
+                    for item in response.get('data',{}).get('result',[])[:20]:
                         bv=item.get('bvid','')
                         if re.fullmatch(r'BV[A-Za-z0-9]{10}',bv) and not any(c['bvid']==bv for c in entry['candidates']):
                             candidate={'bvid':bv,'status':'review','origin':'search','query':q}
@@ -305,7 +311,7 @@ def run_match(args):
                             if defer_short_candidate(source_duration,duration):
                                 candidate.update(duration_screened=True,search_duration=duration,reason='search duration shorter than original beyond tolerance; detail review deferred')
                             entry['candidates'].append(candidate)
-                entry['searched_at']=now();entry['search_session_version']=2;entry['search_queries']=queries
+                entry['searched_at']=now();entry['search_session_version']=2;entry['search_queries']=queries;entry['search_result_limit']=20
             # Persist every candidate: interruption resumes without discarding successful checks.
             for i,c in enumerate(entry['candidates']):
                 if c.get('duration_screened') and not args.recheck:continue
@@ -424,6 +430,11 @@ def verify_leads(args):
         try:
             response=client.get('https://api.bilibili.com/x/web-interface/view?'+urlencode(query))
             if response.get('code')==-404:
+                # Remember newly discovered dead links too, so offline discovery cannot requeue them forever.
+                if lead.get('vid') in known and re.fullmatch(r'BV[A-Za-z0-9]{10}',bv):
+                    entry=lib.setdefault(lead['vid'],{'vid':lead['vid'],'status':'review','candidates':[]})
+                    if not any(c['bvid']==bv for c in entry['candidates']):
+                        entry['candidates'].append({'bvid':bv,'status':'review','origin':'public web index','lead_url':lead.get('url','')})
                 for entry in lib.values():
                     for candidate in entry['candidates']:
                         if candidate['bvid']==bv or (lead.get('aid') and candidate.get('aid')==lead['aid']):
@@ -465,6 +476,36 @@ def verify_leads(args):
         if receipt['stopped']:break
     print(json.dumps(receipt,ensure_ascii=False))
     return 2 if receipt['errors'] else 0
+
+def seed_identities():
+    """Read cached public identities into a lead queue; never approve or mutate the library."""
+    lib=read(WORK/'library.json',{});known={o['vid'] for o in corpus()};leads={}
+    for file in sorted((WORK/'http').glob('*.json')):
+        cached=read(file,{})
+        url=cached.get('url','');body=(cached.get('body') or {}).get('data') or {}
+        if '/x/web-interface/view?' in url:
+            details=[body];origin='details'
+        elif Client.is_search(url):
+            details=[{'bvid':item.get('bvid',''),'desc':html.unescape(re.sub(r'<[^>]+>','',(item.get('description') or '')))} for item in body.get('result',[])]
+            origin='search description'
+        else:continue
+        for d in details:
+            bv=d.get('bvid','')
+            if not re.fullmatch(r'BV[A-Za-z0-9]{10}',bv):continue
+            ids=primary_identity_ids(d.get('desc','')) & known
+            for page in d.get('pages',[]):ids |= segment_source_ids(d,page) & known
+            for vid in sorted(ids):
+                existing=next((c for c in lib.get(vid,{}).get('candidates',[]) if c['bvid']==bv),{})
+                if existing.get('checked_at') and not existing.get('error'):continue
+                lead={'vid':vid,'bvid':bv,'url':'https://www.bilibili.com/video/'+bv,
+                      'discovery':'explicit source identity in cached public '+origin}
+                exact=[page['page'] for page in d.get('pages',[]) if segment_source_ids(d,page)=={vid}]
+                if len(exact)==1:lead['page']=exact[0]
+                # Detail-backed page attribution takes priority over a search snippet.
+                previous=leads.get((vid,bv),{})
+                if origin=='details' or not previous.get('discovery','').endswith('details'):leads[(vid,bv)]=lead
+    write(WORK/'cached-identity-leads.json',list(leads.values()))
+    print(f'{len(leads)} source-identity leads; no requests or approval changes')
 
 def seed_related():
     lib=import_legacy(); rows=corpus(); existing={(vid,c['bvid']) for vid,e in lib.items() for c in e['candidates']}
@@ -534,8 +575,8 @@ def check():
 
 if __name__=='__main__':
     parser=argparse.ArgumentParser(description=__doc__);subs=parser.add_subparsers(dest='cmd',required=True)
-    subs.add_parser('import');subs.add_parser('build');subs.add_parser('check');subs.add_parser('report');subs.add_parser('export-review');subs.add_parser('seed-related');subs.add_parser('reassess-cached')
-    p=subs.add_parser('match');p.add_argument('--limit',type=int,default=50);p.add_argument('--delay',type=float,default=1.3);p.add_argument('--vid');p.add_argument('--existing-only',action='store_true');p.add_argument('--recheck',action='store_true')
+    subs.add_parser('import');subs.add_parser('build');subs.add_parser('check');subs.add_parser('report');subs.add_parser('export-review');subs.add_parser('seed-related');subs.add_parser('seed-identities');subs.add_parser('reassess-cached')
+    p=subs.add_parser('match');p.add_argument('--limit',type=int,default=50);p.add_argument('--delay',type=float,default=1.3);p.add_argument('--vid');p.add_argument('--existing-only',action='store_true');p.add_argument('--recheck',action='store_true');p.add_argument('--expand-review',action='store_true')
     p=subs.add_parser('verify-leads');p.add_argument('file');p.add_argument('--limit',type=int,default=50);p.add_argument('--delay',type=float,default=2)
     p=subs.add_parser('inspect');p.add_argument('vid');p.add_argument('bvid');p.add_argument('--page',type=int)
     p=subs.add_parser('review');p.add_argument('vid');p.add_argument('bvid');p.add_argument('decision',choices=['confirmed','review','invalid']);p.add_argument('--page',type=int);p.add_argument('--evidence')
@@ -547,6 +588,7 @@ if __name__=='__main__':
     elif a.cmd=='review':review(a)
     elif a.cmd=='inspect':inspect(a)
     elif a.cmd=='seed-related':seed_related()
+    elif a.cmd=='seed-identities':seed_identities()
     elif a.cmd=='reassess-cached':reassess_cached()
     elif a.cmd=='verify-leads':raise SystemExit(verify_leads(a))
     elif a.cmd=='export-review':
