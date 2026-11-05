@@ -309,9 +309,12 @@ def run_match(args):
     primary_first=getattr(args,'primary_first',False)
     if primary_first and args.recheck:raise ValueError('primary-first cannot replace a full availability recheck')
     client=Client(args.delay);lib=import_legacy(); rows=corpus()
+    excluded=set(getattr(args,'exclude_vid',[]) or [])
     if getattr(args,'vid',None):
         rows=[o for o in rows if o['vid']==args.vid]
         if not rows:raise ValueError('original ID not in corpus')
+        if args.vid in excluded:raise ValueError('explicit original ID is excluded from this batch')
+    if excluded:rows=[o for o in rows if o['vid'] not in excluded]
     ordered=sorted(rows,key=lambda x:(not bool(lib.get(x['vid'],{}).get('candidates')), -x.get('score',0)))
     if args.existing_only:ordered=[x for x in ordered if lib.get(x['vid'],{}).get('candidates')]
     if getattr(args,'expand_review',False):
@@ -322,7 +325,7 @@ def run_match(args):
     if not selected:
         print('No pending candidate originals in this selection.');return 0
     batch={'id':datetime.datetime.now(datetime.timezone.utc).strftime('%Y%m%dT%H%M%SZ'),'selected':len(selected),'completed':0,'errors':[],'stopped':False,'originals':[]}
-    batch.update(primary_first=primary_first,deferred_candidates=0)
+    batch.update(primary_first=primary_first,deferred_candidates=0,excluded_originals=sorted(excluded))
     for original in selected:
         vid=original['vid'];entry=lib.setdefault(vid,{'vid':vid,'status':'unmatched','candidates':[]})
         entry.pop('last_error',None)
@@ -625,7 +628,7 @@ def check():
 if __name__=='__main__':
     parser=argparse.ArgumentParser(description=__doc__);subs=parser.add_subparsers(dest='cmd',required=True)
     subs.add_parser('import');subs.add_parser('build');subs.add_parser('check');subs.add_parser('report');subs.add_parser('export-review');subs.add_parser('seed-related');subs.add_parser('seed-identities');subs.add_parser('reassess-cached')
-    p=subs.add_parser('match');p.add_argument('--limit',type=int,default=50);p.add_argument('--delay',type=float,default=1.3);p.add_argument('--vid');p.add_argument('--existing-only',action='store_true');p.add_argument('--recheck',action='store_true');p.add_argument('--expand-review',action='store_true')
+    p=subs.add_parser('match');p.add_argument('--limit',type=int,default=50);p.add_argument('--delay',type=float,default=1.3);p.add_argument('--vid');p.add_argument('--exclude-vid',action='append',default=[]);p.add_argument('--existing-only',action='store_true');p.add_argument('--recheck',action='store_true');p.add_argument('--expand-review',action='store_true')
     p.add_argument('--primary-first',action='store_true')
     p=subs.add_parser('verify-leads');p.add_argument('file');p.add_argument('--limit',type=int,default=50);p.add_argument('--delay',type=float,default=2)
     p=subs.add_parser('inspect');p.add_argument('vid');p.add_argument('bvid');p.add_argument('--page',type=int)

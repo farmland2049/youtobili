@@ -26,7 +26,7 @@ python3 scripts/pipeline.py check
 python3 -m unittest discover -s tests -v
 ```
 
-搜索已补齐匿名访客初始化，可先运行 `python3 scripts/search_health.py` 检查；[当前搜索验证](reports/SEARCH-RECOVERY.md)。匹配批次遇到接口错误、412、登录要求或限流立即停止并保留进度。先检查 `reports/STATUS.md`，不要连续重试。可在 `data/search-queries.json` 维护简短中英文检索词，检索词不作为审核证据。可用 `seed-identities` 复用公开缓存中的来源线索，用 `match --expand-review --limit 50` 补查旧待审候选。全库初轮可用 `match --primary-first --limit 50` 优先扩大原片覆盖；保留未查版本待后续补查，不降低确认门槛。详细的合集定位、人工审核与发布步骤见[操作说明](docs/WORKFLOW.md)。
+搜索已补齐匿名访客初始化，可先运行 `python3 scripts/search_health.py` 检查；[当前搜索验证](reports/SEARCH-RECOVERY.md)。匹配批次遇到接口错误、412、登录要求或限流立即停止并保留进度。先检查 `reports/STATUS.md`，不要连续重试。普通单条请求错误可在新的独立批次用 `match --exclude-vid 原片ID` 暂时跳过失败原片，不改变其待处理状态；412、登录或全局限流时不可借此继续请求。可在 `data/search-queries.json` 维护简短中英文检索词，检索词不作为审核证据。可用 `seed-identities` 复用公开缓存中的来源线索，用 `match --expand-review --limit 50` 补查旧待审候选。全库初轮可用 `match --primary-first --limit 50` 优先扩大原片覆盖；保留未查版本待后续补查，不降低确认门槛。详细的合集定位、人工审核与发布步骤见[操作说明](docs/WORKFLOW.md)。
 
 ## 内容与版本规则
 

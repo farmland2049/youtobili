@@ -307,6 +307,28 @@ class SearchCandidateTests(unittest.TestCase):
   with patch.object(p,'Client') as client:
    with self.assertRaises(ValueError):p.run_match(SimpleNamespace(limit=1,primary_first=True,recheck=True))
    client.assert_not_called()
+ def test_excluded_original_is_not_requested_and_is_reported(self):
+  from unittest.mock import patch
+  from types import SimpleNamespace
+  with tempfile.TemporaryDirectory() as temp,patch.object(p,'ROOT',Path(temp)),patch.object(p,'WORK',Path(temp)/'work'):
+   rows=[{'vid':'blocked0001','title':'Blocked original'}, {'vid':'next0000001','title':'Next original'}]
+   lib={};requests=[]
+   class Fixture:
+    def __init__(self,delay):pass
+    def get(self,url):
+     requests.append(url)
+     return {'video':{'duration_s':600}} if 'hackertube.org' in url else {'data':{'result':[]}}
+   args=SimpleNamespace(delay=1.3,existing_only=False,recheck=False,expand_review=False,
+       limit=1,primary_first=True,vid=None,exclude_vid=['blocked0001'])
+   with patch.object(p,'corpus',return_value=rows),patch.object(p,'import_legacy',return_value=lib),patch.object(p,'Client',Fixture),patch.object(p,'report'):
+    self.assertEqual(p.run_match(args),0)
+   batch=next((Path(temp)/'work'/'batches').glob('*.json'))
+   receipt=p.read(batch)
+   self.assertEqual(receipt['originals'],['next0000001'])
+   self.assertEqual(receipt['excluded_originals'],['blocked0001'])
+   self.assertEqual(len(requests),2)
+   self.assertIn('completed_at',lib['next0000001'])
+   self.assertNotIn('blocked0001',lib)
  def test_review_expansion_selects_shallow_reviews_and_failed_expansions(self):
   from unittest.mock import patch
   from types import SimpleNamespace
