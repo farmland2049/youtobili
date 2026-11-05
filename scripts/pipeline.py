@@ -158,7 +158,7 @@ def lang_kind(title, owner, original, mid=None):
     account=read(ROOT/'data/official-channels.json',{}).get('accounts',{}).get(norm(original))
     # Neither matching names nor "官方" in a title prove creator ownership.
     official=bool(account and mid is not None and str(mid)==str(account['bilibili_mid']))
-    sub = bool(re.search(r'双语|中英|中字|中文.{0,6}字幕|中文翻译|汉化|熟肉|精译',title))
+    sub = bool(re.search(r'双语|中英|中字|(?:中\s*[/／]\s*英|英\s*[/／]\s*中)(?:文)?\s*字幕|中文.{0,6}字幕|中文翻译|汉化|熟肉|精译',title))
     dub = bool(re.search(r'配音|中配|中文讲解|中文配|中文语音',title))
     return 'official_zh' if official and (sub or dub) else 'dub_zh' if dub else 'sub_zh' if sub else 'official_original' if official else 'original'
 

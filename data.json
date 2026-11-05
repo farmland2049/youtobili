@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-05T07:01:26.325793+00:00",
+  "built_at": "2026-11-05T08:33:39.982621+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 1334,
-    "confirmed": 504,
-    "coverage": 0.07809110629067245,
-    "processed_match_rate": 0.3778110944527736
+    "processed": 1553,
+    "confirmed": 562,
+    "coverage": 0.08707778122094825,
+    "processed_match_rate": 0.36188023180940115
   },
   "areas": [
     {
@@ -392,6 +392,11 @@
           "original_name": "US politics & elections"
         },
         {
+          "id": "geopolitics-foreign-policy",
+          "name": "地缘政治与外交",
+          "original_name": "Geopolitics & foreign policy"
+        },
+        {
           "id": "law-policing-justice",
           "name": "法律、警务与司法",
           "original_name": "Law, policing & justice"
@@ -522,6 +527,11 @@
           "id": "fitness-sleep-longevity",
           "name": "运动、睡眠与长寿",
           "original_name": "Fitness, sleep & longevity"
+        },
+        {
+          "id": "animals-nature",
+          "name": "动物与自然",
+          "original_name": "Animals & nature"
         }
       ]
     },
@@ -1199,6 +1209,41 @@
       ]
     },
     {
+      "id": "SxdOUGdseq4",
+      "title": "\"Simple Made Easy\" - Rich Hickey (2011)",
+      "author": "Strange Loop Conference",
+      "source_url": "https://www.youtube.com/watch?v=SxdOUGdseq4",
+      "summary": "Rich Hickey's Strange Loop 2011 keynote distinguishing 'simple' (not intertwined) from 'easy' (familiar or near at hand). It argues that software complexity comes from complecting things and that we should pick simple constructs.",
+      "why": "HN treats it as the canonical talk on software complexity, shared constantly and recommended to every programmer regardless of language.",
+      "score": 17.0,
+      "tags": [
+        "rich hickey",
+        "simplicity",
+        "complecting",
+        "clojure",
+        "software design",
+        "strange loop"
+      ],
+      "categories": [
+        "software-architecture-design",
+        "functional-programming"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1J54y1A7PL",
+          "page": 1,
+          "cid": 1018554038,
+          "title": "\"Simple Made Easy\" - Rich Hickey (2011)",
+          "up": "dailyrain",
+          "duration": 3699,
+          "kind": "original",
+          "views": 46,
+          "pic": "https://i1.hdslb.com/bfs/archive/449ad6df72dbe495de124721be3b28ad1a9a6751.jpg",
+          "checked_at": "2026-11-04T23:03:55.670576+00:00"
+        }
+      ]
+    },
+    {
       "id": "rStL7niR7gs",
       "title": "Try to Rule Fairly and You'll Be Overthrown",
       "author": "CGP Grey",
@@ -1847,6 +1892,40 @@
           "views": 907,
           "pic": "https://i0.hdslb.com/bfs/archive/5b48c97ca30065f55b339da30a0d7c50644e7505.jpg",
           "checked_at": "2026-11-04T23:03:55.758097+00:00"
+        }
+      ]
+    },
+    {
+      "id": "otbnC2zE2rw",
+      "title": "Designing the Ideal Bootstrapped Business with Jason Cohen",
+      "author": "Rob Walling",
+      "source_url": "https://www.youtube.com/watch?v=otbnC2zE2rw",
+      "summary": "Jason Cohen's MicroConf talk on designing a bootstrapped business by starting from your own strengths, goals and constraints. He works backward to the business model, pricing, market and product that fit, with practical points like annual prepay and pricing tiers.",
+      "why": "It is the go-to talk HN commenters recommend to anyone asking about bootstrapping, SaaS pricing, or choosing bootstrapping over VC.",
+      "score": 14.5,
+      "tags": [
+        "bootstrapping",
+        "saas pricing",
+        "annual prepay",
+        "microconf",
+        "startups"
+      ],
+      "categories": [
+        "startups-entrepreneurship",
+        "product-growth-marketing"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1YT411U7WT",
+          "page": 1,
+          "cid": 1018121784,
+          "title": "Designing the Ideal Bootstrapped Business with Jason Cohen",
+          "up": "dailyrain",
+          "duration": 3937,
+          "kind": "original",
+          "views": 40,
+          "pic": "https://i1.hdslb.com/bfs/archive/bf75e5eef24d373ffc0505cc201a549347afa07d.jpg",
+          "checked_at": "2026-11-04T23:03:55.760689+00:00"
         }
       ]
     },
@@ -2830,6 +2909,40 @@
       ]
     },
     {
+      "id": "xguam0TKMw8",
+      "title": "Principles for Dealing with the Changing World Order by Ray Dalio",
+      "author": "Principles by Ray Dalio",
+      "source_url": "https://www.youtube.com/watch?v=xguam0TKMw8",
+      "summary": "An animated 44-minute summary of Ray Dalio's book Principles for Dealing with the Changing World Order. It lays out the Big Cycle of rising and declining nations, covering debt cycles, internal conflict, and shifts in global power over the past 500 years.",
+      "why": "HN commenters recommend it as a clear framework for placing the current US and world situation within historical debt and empire cycles.",
+      "score": 13.0,
+      "tags": [
+        "ray dalio",
+        "debt cycles",
+        "rise and fall of empires",
+        "world order",
+        "economic history"
+      ],
+      "categories": [
+        "macroeconomics",
+        "world-history"
+      ],
+      "versions": [
+        {
+          "bvid": "BV11FhJeYEA3",
+          "page": 1,
+          "cid": 500001601181763,
+          "title": "Principles for Dealing with the Changing World Order by Ray Dalio",
+          "up": "每天一本好书",
+          "duration": 2623,
+          "kind": "original",
+          "views": 287,
+          "pic": "https://i2.hdslb.com/bfs/archive/36209b979f4c2362b1c81fede0b57a27d9d722b0.jpg",
+          "checked_at": "2026-11-04T23:03:56.056954+00:00"
+        }
+      ]
+    },
+    {
       "id": "ySuUZEjARPY",
       "title": "[LIVE] How to Achieve Proper Grounding - Rick Hartley - Expert Live Training (US)",
       "author": "Altium",
@@ -3808,6 +3921,18 @@
       ],
       "versions": [
         {
+          "bvid": "BV1Bz4y1u7nR",
+          "page": 1,
+          "cid": 1242807695,
+          "title": "RSA ANIMATE | Drive - The surprising truth about what motivates us | 企业管理 | 学习向",
+          "up": "keyif",
+          "duration": 648,
+          "kind": "original",
+          "views": 175,
+          "pic": "https://i0.hdslb.com/bfs/archive/f492fe4928fd3ca8fbe93682553631accb206492.jpg",
+          "checked_at": "2026-11-05T07:23:25.526468+00:00"
+        },
+        {
           "bvid": "BV1tmxW6UEW2",
           "page": 1,
           "cid": 43232988609,
@@ -3955,6 +4080,18 @@
           "views": 434,
           "pic": "https://i2.hdslb.com/bfs/archive/9784445f94555d85def6a54021deabef9a159fce.jpg",
           "checked_at": "2026-11-04T23:03:56.333429+00:00"
+        },
+        {
+          "bvid": "BV1ykMb61EDY",
+          "page": 1,
+          "cid": 39733693996,
+          "title": "别再定目标了 - CGP Grey",
+          "up": "中文配音看世界",
+          "duration": 384,
+          "kind": "original",
+          "views": 113,
+          "pic": "https://i0.hdslb.com/bfs/archive/bb5339f43bcba9914e63a742974e54273db7d3fe.png",
+          "checked_at": "2026-11-05T07:23:21.214125+00:00"
         }
       ]
     },
@@ -4212,6 +4349,18 @@
           "views": 18607,
           "pic": "https://i1.hdslb.com/bfs/archive/79f86bcc1b11da71a14695dcf206767d152d2d4c.jpg",
           "checked_at": "2026-11-04T23:03:56.598720+00:00"
+        },
+        {
+          "bvid": "BV1Ku411t7GL",
+          "page": 1,
+          "cid": 1127572437,
+          "title": "【熟肉】①ADHD是量的差异而不是质的区别",
+          "up": "想养哈士奇的哈士人",
+          "duration": 305,
+          "kind": "sub_zh",
+          "views": 18154,
+          "pic": "https://i1.hdslb.com/bfs/archive/93fc64a60a9ec0bee37cb7a88e88aa4a47336c88.jpg",
+          "checked_at": "2026-11-05T08:27:23.055852+00:00"
         }
       ]
     },
@@ -5377,6 +5526,42 @@
       ]
     },
     {
+      "id": "lKXe3HUG2l4",
+      "title": "\"The Mess We're In\" by Joe Armstrong",
+      "author": "Strange Loop Conference",
+      "source_url": "https://www.youtube.com/watch?v=lKXe3HUG2l4",
+      "summary": "Joe Armstrong, co-inventor of Erlang, gives a funny and opinionated Strange Loop talk on the tangled state of software: build tools, package managers, entropy and the physical limits of computation. He argues for ideas like naming things by content hash and throwing away your first version.",
+      "why": "HN returns to it constantly as a witty, still-accurate diagnosis of why software is bloated and messy, and as a go-to recommendation in any thread on modules, package managers or software quality.",
+      "score": 9.0,
+      "tags": [
+        "erlang",
+        "joe armstrong",
+        "entropy",
+        "package managers",
+        "content addressing",
+        "strange loop"
+      ],
+      "categories": [
+        "software-architecture-design",
+        "functional-programming",
+        "software-practice-careers"
+      ],
+      "versions": [
+        {
+          "bvid": "BV12M411A7jq",
+          "page": 1,
+          "cid": 1017333874,
+          "title": "\"The Mess We're In\" by Joe Armstrong",
+          "up": "dailyrain",
+          "duration": 2750,
+          "kind": "original",
+          "views": 120,
+          "pic": "https://i1.hdslb.com/bfs/archive/800fa1cc814b026bc935ebd0eb89b57ce68c45a4.jpg",
+          "checked_at": "2026-11-04T23:03:57.194376+00:00"
+        }
+      ]
+    },
+    {
       "id": "nm1TxQj9IsQ",
       "title": "Master Your Sleep & Be More Alert When Awake",
       "author": "Andrew Huberman",
@@ -5524,6 +5709,18 @@
         "medicine-disease"
       ],
       "versions": [
+        {
+          "bvid": "BV1gA411v7Do",
+          "page": 1,
+          "cid": 215477897,
+          "title": "治疗性断食-解决两仓储问题 - Dr. Jason Fung",
+          "up": "Ki3NI1c2",
+          "duration": 2170,
+          "kind": "original",
+          "views": 3312,
+          "pic": "https://i0.hdslb.com/bfs/archive/4a56dda5ceaabebe0a2ed2097c0be361ad991015.png",
+          "checked_at": "2026-11-05T07:23:28.685191+00:00"
+        },
         {
           "bvid": "BV1o4411C7Xg",
           "page": 1,
@@ -7643,6 +7840,41 @@
       ]
     },
     {
+      "id": "wupToqz1e2g",
+      "title": "Carl Sagan - Pale Blue Dot",
+      "author": "carlsagandotcom",
+      "source_url": "https://www.youtube.com/watch?v=wupToqz1e2g",
+      "summary": "Carl Sagan's narration of the Pale Blue Dot passage, reflecting on the Voyager photograph of Earth as a tiny speck in space. It is a short meditation on humanity's smallness and shared home.",
+      "why": "HN commenters return to it for perspective, comfort and Sagan's soothing voice, and suggest watching it periodically.",
+      "score": 7.5,
+      "tags": [
+        "carl sagan",
+        "pale blue dot",
+        "voyager",
+        "perspective",
+        "space"
+      ],
+      "categories": [
+        "cosmology-astrophysics",
+        "space-exploration",
+        "philosophy-ethics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1eP41197kY",
+          "page": 1,
+          "cid": 1137592753,
+          "title": "卡尔萨根-暗淡蓝点Carl Sagan  Pale Blue Dot",
+          "up": "花押字",
+          "duration": 211,
+          "kind": "original",
+          "views": 174,
+          "pic": "https://i0.hdslb.com/bfs/archive/4c848a8b8184ede32be4e24cc216fbcc5b59b58a.jpg",
+          "checked_at": "2026-11-04T23:03:58.232875+00:00"
+        }
+      ]
+    },
+    {
       "id": "wxL4ElboiuA",
       "title": "The Art of Making a Nixie Tube",
       "author": "Dalibor Farný",
@@ -7909,6 +8141,41 @@
           "views": 690,
           "pic": "https://i2.hdslb.com/bfs/archive/075d2dd4913bd4eb439f3dc23355f7309335fe25.jpg",
           "checked_at": "2026-11-04T23:03:58.319831+00:00"
+        }
+      ]
+    },
+    {
+      "id": "7jiPeIFXb6U",
+      "title": "I don't like notebooks.- Joel Grus (Allen Institute for Artificial Intelligence)",
+      "author": "O'Reilly",
+      "source_url": "https://www.youtube.com/watch?v=7jiPeIFXb6U",
+      "summary": "Joel Grus's JupyterCon talk explaining why he dislikes Jupyter notebooks. He covers hidden state, trouble with reproducibility and testing, and how notebooks frustrate teaching. He shows his preferred workflow and what Jupyter could change.",
+      "why": "It is the go-to funny, irreverent critique of notebooks, linked whenever HN debates notebooks versus testable code.",
+      "score": 7.0,
+      "tags": [
+        "jupyter",
+        "python",
+        "data science",
+        "reproducibility",
+        "software engineering"
+      ],
+      "categories": [
+        "data-science-statistics",
+        "scripting-languages",
+        "testing-debugging-tools"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1U6tp6HEQq",
+          "page": 1,
+          "cid": 41440053627,
+          "title": "2018-10-10 I don't like notebooks.- Joel Grus",
+          "up": "荣耀属于递归战狂",
+          "duration": 3373,
+          "kind": "original",
+          "views": 20,
+          "pic": "https://i2.hdslb.com/bfs/archive/8c057e85910ef4dac8fb727c3c99f604db8dffe1.jpg",
+          "checked_at": "2026-11-04T23:03:58.377128+00:00"
         }
       ]
     },
@@ -8210,6 +8477,39 @@
           "views": 22,
           "pic": "https://i1.hdslb.com/bfs/archive/168655b45997f27590bae89d161b6d884f99cff5.jpg",
           "checked_at": "2026-11-04T23:03:58.482653+00:00"
+        }
+      ]
+    },
+    {
+      "id": "JqNg819PiZY",
+      "title": "Demystifying the Higgs Boson with Leonard Susskind",
+      "author": "Stanford",
+      "source_url": "https://www.youtube.com/watch?v=JqNg819PiZY",
+      "summary": "Stanford physicist Leonard Susskind explains what the Higgs mechanism is and what it means to give mass to particles. He also covers what is at stake for physics and cosmology.",
+      "why": "HN repeatedly recommends it as an approachable, math-light route to understanding mass and the Higgs field.",
+      "score": 7.0,
+      "tags": [
+        "leonard susskind",
+        "higgs mechanism",
+        "particle physics",
+        "mass",
+        "quantum fields"
+      ],
+      "categories": [
+        "quantum-physics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1fmMbzHEoq",
+          "page": 1,
+          "cid": 30958424052,
+          "title": "斯坦福大学《希格斯玻色子揭秘|Demystifying the Higgs Boson》中英字幕（claude-3.7-s",
+          "up": "GPT中英字幕课程资源",
+          "duration": 4508,
+          "kind": "sub_zh",
+          "views": 2442,
+          "pic": "https://i1.hdslb.com/bfs/archive/621394a638dc060bd7a1d1754565492e9a605a1a.jpg",
+          "checked_at": "2026-11-04T23:03:58.487603+00:00"
         }
       ]
     },
@@ -9610,6 +9910,18 @@
           "views": 605588,
           "pic": "https://i1.hdslb.com/bfs/archive/56d29a3e7d7ad266b161ab6bff8cf59ea328fa80.jpg",
           "checked_at": "2026-11-04T23:03:55.582388+00:00"
+        },
+        {
+          "bvid": "BV1HHUSBwEGZ",
+          "page": 1,
+          "cid": 34251276781,
+          "title": "Visualizing the 4d numbers Quaternions [3Blue1Brown - Videos]",
+          "up": "vector090_",
+          "duration": 1911,
+          "kind": "original",
+          "views": 91,
+          "pic": "https://i2.hdslb.com/bfs/archive/3b49f8e5912e3a11a61fb317ac8b9ab388b60aa6.jpg",
+          "checked_at": "2026-11-05T07:23:13.670090+00:00"
         }
       ]
     },
@@ -11216,6 +11528,40 @@
           "views": 4120,
           "pic": "https://i2.hdslb.com/bfs/archive/21a742c5e2fc826dc74461185b42164bd276e833.png",
           "checked_at": "2026-11-04T23:41:04.781641+00:00"
+        }
+      ]
+    },
+    {
+      "id": "XRr1kaXKBsU",
+      "title": "What Everyone Gets Wrong About Gravity",
+      "author": "Veritasium",
+      "source_url": "https://www.youtube.com/watch?v=XRr1kaXKBsU",
+      "summary": "Veritasium explains, with expert input, that in general relativity gravity is not a force and objects follow straight paths through curved spacetime, including why standing on the ground means you are accelerating.",
+      "why": "HN links it as a go-to intuitive explanation whenever gravity as spacetime curvature or free fall comes up.",
+      "score": 5.5,
+      "tags": [
+        "gravity",
+        "spacetime",
+        "geodesics",
+        "einstein",
+        "free fall"
+      ],
+      "categories": [
+        "fundamental-physics",
+        "cosmology-astrophysics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Ly4y1r7Ue",
+          "page": 1,
+          "cid": 245053354,
+          "title": "为什么重力不是一种力 - Why Gravity is NOT a Force by Veritasium",
+          "up": "便当鹿",
+          "duration": 1054,
+          "kind": "original",
+          "views": 304,
+          "pic": "https://i1.hdslb.com/bfs/archive/4306b825ffef0aea6e54b1d32785e970dc47da3c.jpg",
+          "checked_at": "2026-11-05T07:23:10.224536+00:00"
         }
       ]
     },
@@ -13061,6 +13407,18 @@
           "views": 305,
           "pic": "https://i2.hdslb.com/bfs/archive/7103385e607253aa6069b7f4483223a6d280c9e8.jpg",
           "checked_at": "2026-11-04T23:03:56.834710+00:00"
+        },
+        {
+          "bvid": "BV1Ss4y1h7GL",
+          "page": 1,
+          "cid": 1015926054,
+          "title": "CppCon 2015: Herb Sutter \"Writing Good C++14... By Default\"",
+          "up": "dailyrain",
+          "duration": 5346,
+          "kind": "original",
+          "views": 53,
+          "pic": "https://i2.hdslb.com/bfs/archive/d0c481cd3cb1849c7811f93f99a08c4afe34d1d5.jpg",
+          "checked_at": "2026-11-05T08:09:47.993360+00:00"
         }
       ]
     },
@@ -14557,6 +14915,41 @@
       ]
     },
     {
+      "id": "VO6XEQIsCoM",
+      "title": "The paradox of choice | Barry Schwartz | TED",
+      "author": "TED",
+      "source_url": "https://www.youtube.com/watch?v=VO6XEQIsCoM",
+      "summary": "Psychologist Barry Schwartz argues in this TED talk that abundant choice makes people more paralyzed and dissatisfied rather than freer and happier.",
+      "why": "HN recommends it as the standard talk on how too many options lead to paralysis and second-guessing.",
+      "score": 4.5,
+      "tags": [
+        "choice overload",
+        "decision making",
+        "happiness",
+        "psychology",
+        "ted"
+      ],
+      "categories": [
+        "psychology-behavior",
+        "microeconomics-behavioral",
+        "ideas-education-other"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1WQ4y1N7Dh",
+          "page": 1,
+          "cid": 188910321,
+          "title": "TED：选择的悖论The paradox of choice，by Barry Schwartz【中/英字幕可选】",
+          "up": "大明爱吃冰激凌",
+          "duration": 1178,
+          "kind": "sub_zh",
+          "views": 10326,
+          "pic": "https://i2.hdslb.com/bfs/archive/53ac69e24990092cd5e8764191e382b513d23b62.jpg",
+          "checked_at": "2026-11-05T02:16:17.207946+00:00"
+        }
+      ]
+    },
+    {
       "id": "Vjm8P8utT5g",
       "title": "[TAS] Pokémon Yellow - Arbitrary Code Execution",
       "author": "MrWint",
@@ -14717,6 +15110,110 @@
       ]
     },
     {
+      "id": "ZKC3hiyLeRc",
+      "title": "Dr. Jason Fung - 'The Aetiology of Obesity'",
+      "author": "Low Carb Down Under",
+      "source_url": "https://www.youtube.com/watch?v=ZKC3hiyLeRc",
+      "summary": "Dr. Jason Fung, a nephrologist, presents his view of the causes of obesity and type 2 diabetes, focusing on hormones such as insulin rather than calories alone. The talk draws on research and his Intensive Dietary Management program.",
+      "why": "HN commenters recommend it as a research-heavy introduction to how food type and hormones affect fat storage.",
+      "score": 4.5,
+      "tags": [
+        "jason fung",
+        "obesity",
+        "insulin",
+        "low carb",
+        "fasting",
+        "type 2 diabetes"
+      ],
+      "categories": [
+        "nutrition-diet",
+        "medicine-disease"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Kv411q7J7",
+          "page": 1,
+          "cid": 215522211,
+          "title": "肥胖的病因 - Dr. Jason Fung",
+          "up": "Ki3NI1c2",
+          "duration": 2252,
+          "kind": "original",
+          "views": 1878,
+          "pic": "https://i1.hdslb.com/bfs/archive/20639b248e8d132db64e5f674d175ac5d4d09060.jpg",
+          "checked_at": "2026-11-05T07:07:07.672886+00:00"
+        }
+      ]
+    },
+    {
+      "id": "Ztc6QPNUqls",
+      "title": "Your Mass is NOT From the Higgs Boson",
+      "author": "Veritasium",
+      "source_url": "https://www.youtube.com/watch?v=Ztc6QPNUqls",
+      "summary": "Veritasium explains that the Higgs boson accounts for only a small fraction of everyday mass. Most of a proton's mass comes from the energy of the gluon field binding its quarks.",
+      "why": "Recommended as a clear explanation of where mass actually comes from.",
+      "score": 4.5,
+      "tags": [
+        "higgs boson",
+        "quarks",
+        "gluons",
+        "proton mass",
+        "particle physics"
+      ],
+      "categories": [
+        "quantum-physics",
+        "science-method-communication"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Ti4y197qv",
+          "page": 1,
+          "cid": 476964112,
+          "title": "【自译】Veritasium 20130509 - 你的质量并非来自希格斯玻色子",
+          "up": "宁鸢Eureksia",
+          "duration": 372,
+          "kind": "original",
+          "views": 230,
+          "pic": "https://i1.hdslb.com/bfs/archive/97c223227a9b701c58a83542b17bdcd194fc6b5b.jpg",
+          "checked_at": "2026-11-05T07:07:20.227207+00:00"
+        }
+      ]
+    },
+    {
+      "id": "_P9HqHVPeik",
+      "title": "Stephen Wolfram's Introduction to the Wolfram Language",
+      "author": "Wolfram",
+      "source_url": "https://www.youtube.com/watch?v=_P9HqHVPeik",
+      "summary": "Stephen Wolfram gives a 13-minute tour of the Wolfram Language, a symbolic, functional programming language with a built-in knowledgebase. He demos querying large datasets, interactivity and deployment.",
+      "why": "Commenters point to it as a compact, impressive demo of what the language can do.",
+      "score": 4.5,
+      "tags": [
+        "wolfram language",
+        "symbolic programming",
+        "mathematica",
+        "functional programming",
+        "live coding"
+      ],
+      "categories": [
+        "functional-programming",
+        "programming-language-design",
+        "tech-figures-interviews"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1xs411Z786",
+          "page": 1,
+          "cid": 1429460,
+          "title": "【有节操字幕计划】Wolfram 可以颠覆你世界观的编程语言",
+          "up": "罗兹",
+          "duration": 775,
+          "kind": "original",
+          "views": 67652,
+          "pic": "https://i1.hdslb.com/bfs/archive/4edde99d7e62e3e184dad789205985384e9b5503.png",
+          "checked_at": "2026-11-05T07:07:40.599299+00:00"
+        }
+      ]
+    },
+    {
       "id": "_bDXXWQxK38",
       "title": "A New Way to Achieve Nuclear Fusion: Helion",
       "author": "Real Engineering",
@@ -14747,6 +15244,460 @@
           "views": 2734,
           "pic": "https://i1.hdslb.com/bfs/archive/0cb1e003d5974ef3ff9d09e5f48df92c31451617.jpg",
           "checked_at": "2026-11-05T01:46:26.041959+00:00"
+        }
+      ]
+    },
+    {
+      "id": "bx3KuE7UjGA",
+      "title": "MINIX 3: a Modular, Self-Healing POSIX-compatible Operating System",
+      "author": "FOSDEM",
+      "source_url": "https://www.youtube.com/watch?v=bx3KuE7UjGA",
+      "summary": "Andrew Tanenbaum's FOSDEM 2010 talk on MINIX 3, a microkernel OS built for high reliability and security. It shows how the system detects and recovers from device driver crashes, and addresses microkernel performance concerns.",
+      "why": "HN points to it as an accessible explanation of microkernel isolation and fault-tolerant design, and as Tanenbaum's answer to performance objections.",
+      "score": 4.5,
+      "tags": [
+        "minix 3",
+        "microkernel",
+        "fault tolerance",
+        "tanenbaum",
+        "self-healing"
+      ],
+      "categories": [
+        "operating-systems",
+        "distributed-systems"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1a64y1k7oi",
+          "page": 1,
+          "cid": 345577422,
+          "title": "MINIX 3 - a Modular, Self-Healing POSIX-compatible Operating System",
+          "up": "香喷喷的黄老邪",
+          "duration": 3379,
+          "kind": "original",
+          "views": 543,
+          "pic": "https://i2.hdslb.com/bfs/archive/57e2d97a96592d69996e2f15bf82ef9dc9af3f47.jpg",
+          "checked_at": "2026-11-05T07:09:38.706160+00:00"
+        }
+      ]
+    },
+    {
+      "id": "cUzklzVXJwo",
+      "title": "How Imaginary Numbers Were Invented",
+      "author": "Veritasium",
+      "source_url": "https://www.youtube.com/watch?v=cUzklzVXJwo",
+      "summary": "Veritasium tells the history of how imaginary numbers arose from the quest for a general solution to the cubic equation, including the duels and secrecy among Renaissance mathematicians. It argues math had to give up the requirement that it mirror reality.",
+      "why": "HN recommends it as a well-visualized, story-driven history of complex numbers, suitable for beginners; some quibble with its framing of algebra and geometry.",
+      "score": 4.5,
+      "tags": [
+        "complex numbers",
+        "cubic equation",
+        "math history",
+        "algebra",
+        "veritasium"
+      ],
+      "categories": [
+        "pure-mathematics",
+        "recreational-math"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1CNE46bEwZ",
+          "page": 1,
+          "cid": 38929695511,
+          "title": "【AI中配】虚数是怎么被发明的 - Veritasium",
+          "up": "高能君充电站",
+          "duration": 1409,
+          "kind": "dub_zh",
+          "views": 1185,
+          "pic": "https://i0.hdslb.com/bfs/archive/7dfde4e61076a4e8186bf636e1563b11d1632876.jpg",
+          "checked_at": "2026-11-05T07:09:47.597293+00:00"
+        },
+        {
+          "bvid": "BV14r4y1E7ay",
+          "page": 1,
+          "cid": 768494325,
+          "title": "虚数是如何发明的",
+          "up": "科学技术与未来",
+          "duration": 1335,
+          "kind": "original",
+          "views": 582,
+          "pic": "https://i2.hdslb.com/bfs/archive/2abf648c2d121ba346d900f6ad3d3d32528f1073.jpg",
+          "checked_at": "2026-11-05T07:23:20.838171+00:00"
+        }
+      ]
+    },
+    {
+      "id": "cj02_UeUnGQ",
+      "title": "\"A Political History of X\" - Keith Packard (LCA 2020)",
+      "author": "linux.conf.au",
+      "source_url": "https://www.youtube.com/watch?v=cj02_UeUnGQ",
+      "summary": "Keith Packard traces the 35-year history of the X Window System at linux.conf.au 2020. He uses X to examine licensing, corporate interests and community dynamics in free software, including Unix workstation vendors and Stallman's influence.",
+      "why": "HN commenters recommend it as the authoritative, firsthand account of how X came to be and why it isn't GPL.",
+      "score": 4.5,
+      "tags": [
+        "x11",
+        "free software",
+        "licensing",
+        "unix history",
+        "keith packard"
+      ],
+      "categories": [
+        "linux-open-source-os",
+        "hacker-culture-free-software",
+        "history-of-computing"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Du411Z7oX",
+          "page": 1,
+          "cid": 423200657,
+          "title": "一段X视窗系统的政治史 A Political History of X - Keith Packard",
+          "up": "笨蛋真嗣",
+          "duration": 2733,
+          "kind": "original",
+          "views": 91,
+          "pic": "https://i2.hdslb.com/bfs/archive/edaff84e4674c9235db39bb93ae8d82caa4dfaa8.jpg",
+          "checked_at": "2026-11-05T07:09:55.994280+00:00"
+        }
+      ]
+    },
+    {
+      "id": "dpw9EHDh2bM",
+      "title": "React Today and Tomorrow and  90% Cleaner React With Hooks",
+      "author": "React Conf",
+      "source_url": "https://www.youtube.com/watch?v=dpw9EHDh2bM",
+      "summary": "The first three talks from React Conf 2018, by Sophie Alpert, Dan Abramov and Ryan Florence. They introduce React Hooks and explain the problems with classes that hooks solve.",
+      "why": "It is the canonical introduction to hooks, given by the people who built them, and HN uses it to answer questions about why hooks exist.",
+      "score": 4.5,
+      "tags": [
+        "react",
+        "hooks",
+        "javascript",
+        "frontend",
+        "react conf"
+      ],
+      "categories": [
+        "web-development"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1JE411X7NE",
+          "page": 1,
+          "cid": 120442448,
+          "title": "React Today and Tomorrow and  90% Cleaner React With Hooks",
+          "up": "是小超子诶",
+          "duration": 5730,
+          "kind": "original",
+          "views": 288,
+          "pic": "https://i0.hdslb.com/bfs/archive/ed78ef3888c5c40d0d3a798a5f0afd0a3e20c34d.jpg",
+          "checked_at": "2026-11-05T07:10:04.595419+00:00"
+        }
+      ]
+    },
+    {
+      "id": "gV5obrYaogU",
+      "title": "SYMBOLICS S-PACKAGES 3D GRAPHICS AND ANIMATION DEMO",
+      "author": "Red Martian",
+      "source_url": "https://www.youtube.com/watch?v=gV5obrYaogU",
+      "summary": "A demo of the Symbolics Graphics Division's S-Packages, a Lisp-based 3D color graphics and animation system from the 1980s. It was later used in developing for the Nintendo 64.",
+      "why": "HN cites it as a startling example of how advanced Lisp machine interactive graphics were, often in Lisp and REPL-driven development discussions.",
+      "score": 4.5,
+      "tags": [
+        "symbolics",
+        "lisp",
+        "3d animation",
+        "retrocomputing",
+        "s-packages"
+      ],
+      "categories": [
+        "history-of-computing",
+        "computer-graphics-rendering",
+        "functional-programming"
+      ],
+      "versions": [
+        {
+          "bvid": "BV18u411B75s",
+          "page": 1,
+          "cid": 545630066,
+          "title": "SYMBOLICS S-PACKAGES 3D GRAPHICS AND ANIMATION DEMO",
+          "up": "账号已注销",
+          "duration": 1756,
+          "kind": "original",
+          "views": 68,
+          "pic": "https://i1.hdslb.com/bfs/archive/5dcd4219602172b95cae20b7b70f20568aa6fe38.jpg",
+          "checked_at": "2026-11-05T07:13:02.994544+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hC3VTgIPoGU",
+      "title": "\"CHASING ICE\" captures largest glacier calving ever filmed - OFFICIAL VIDEO",
+      "author": "Exposure Labs",
+      "source_url": "https://www.youtube.com/watch?v=hC3VTgIPoGU",
+      "summary": "Footage from the Chasing Ice project of the largest glacier calving event ever filmed, at Greenland's Ilulissat Glacier in 2008. A 75-minute event is condensed to a few minutes of cameras watching ice collapse.",
+      "why": "Recommended whenever glaciers come up, as a stunning look at the scale of calving.",
+      "score": 4.5,
+      "tags": [
+        "glaciers",
+        "greenland",
+        "climate",
+        "chasing ice",
+        "time-lapse"
+      ],
+      "categories": [
+        "climate-science",
+        "geology-earth-science"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Pju1zkEoi",
+          "page": 1,
+          "cid": 31044800062,
+          "title": "CHASING ICE captures largest glacier calving ever filmed",
+          "up": "soggypoutine",
+          "duration": 282,
+          "kind": "original",
+          "views": 13,
+          "pic": "https://i2.hdslb.com/bfs/archive/0e7386db0b8486ca0ea5fdb17d98ed017b5cb0a5.jpg",
+          "checked_at": "2026-11-05T07:13:39.888033+00:00"
+        }
+      ]
+    },
+    {
+      "id": "kfg_e6YG37U",
+      "title": "Deskbound | Kelly Starrett | Talks at Google",
+      "author": "Talks at Google",
+      "source_url": "https://www.youtube.com/watch?v=kfg_e6YG37U",
+      "summary": "Kelly Starrett's Talks at Google presentation on staying healthy while desk bound, mixing anatomy and practical mobility advice. It shows how to set up a desk and sit and move to avoid pain.",
+      "why": "Often the first thing suggested to HN programmers asking about posture and back pain.",
+      "score": 4.5,
+      "tags": [
+        "posture",
+        "ergonomics",
+        "mobility",
+        "back pain",
+        "standing desk"
+      ],
+      "categories": [
+        "fitness-sleep-longevity",
+        "ux-ui-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV12D4y197aA",
+          "page": 1,
+          "cid": 252645342,
+          "title": "Deskbound _ Kelly Starrett _ Talks at Google",
+          "up": "jujujujujuy",
+          "duration": 3383,
+          "kind": "original",
+          "views": 150,
+          "pic": "https://i2.hdslb.com/bfs/archive/c1d9a8e60ddb8c2b9671f2992406521dcb511bfd.jpg",
+          "checked_at": "2026-11-05T07:16:52.815202+00:00"
+        }
+      ]
+    },
+    {
+      "id": "klTjiXjqHrQ",
+      "title": "Bret Victor - Seeing Spaces",
+      "author": "Colin McDonnell",
+      "source_url": "https://www.youtube.com/watch?v=klTjiXjqHrQ",
+      "summary": "Bret Victor's talk proposing a new kind of maker space built for seeing and understanding a project's behavior: inside it, across time and across possibilities. It argues for scientific understanding over recipes and rules of thumb.",
+      "why": "Listed alongside his other talks as foundational context for Dynamicland and visual-programming ideas, and he is the most frequently cited speaker on such threads.",
+      "score": 4.5,
+      "tags": [
+        "bret victor",
+        "maker space",
+        "dynamicland",
+        "visualization",
+        "human-computer interaction"
+      ],
+      "categories": [
+        "gui-hci-history",
+        "futurism-technology-society"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Dv411H7hz",
+          "page": 1,
+          "cid": 361822882,
+          "title": "Bret Victor - Seeing Spaces",
+          "up": "题叶",
+          "duration": 912,
+          "kind": "original",
+          "views": 87,
+          "pic": "https://i1.hdslb.com/bfs/archive/8f4431574dd11524457fb99366b70656bfacbf19.jpg",
+          "checked_at": "2026-11-05T07:17:01.431850+00:00"
+        }
+      ]
+    },
+    {
+      "id": "kmFOBoy2MZ8",
+      "title": "Colonizing Mars",
+      "author": "Isaac Arthur",
+      "source_url": "https://www.youtube.com/watch?v=kmFOBoy2MZ8",
+      "summary": "Isaac Arthur's in-depth look at what it would take to settle and eventually terraform Mars. He covers the challenges and the scale of the work needed to make it a home for humanity.",
+      "why": "Recommended as a thorough, speculative-but-grounded overview of the magnitude of colonizing Mars.",
+      "score": 4.5,
+      "tags": [
+        "mars",
+        "terraforming",
+        "space settlement",
+        "isaac arthur"
+      ],
+      "categories": [
+        "space-exploration"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Fz4y1R7EG",
+          "page": 1,
+          "cid": 197554194,
+          "title": "【星际拓展】殖民和地球化改造我们的太阳系--火星移民探索",
+          "up": "UncleBoson",
+          "duration": 2072,
+          "kind": "original",
+          "views": 2183,
+          "pic": "https://i1.hdslb.com/bfs/archive/2f38682c8171f6511dc2d21e60b3eae44c535c38.jpg",
+          "checked_at": "2026-11-05T07:17:11.376503+00:00"
+        }
+      ]
+    },
+    {
+      "id": "krB0enBeSiE",
+      "title": "Brendan Eich: JavaScript, Firefox, Mozilla, and Brave | Lex Fridman Podcast #160",
+      "author": "Lex Fridman",
+      "source_url": "https://www.youtube.com/watch?v=krB0enBeSiE",
+      "summary": "A roughly three-hour Lex Fridman podcast conversation with Brendan Eich, creator of JavaScript and co-founder of Mozilla and Brave. It covers JavaScript's rushed creation at Netscape, the browser wars, Firefox and Mozilla, and Brave's privacy approach.",
+      "why": "Linked as a source for first-hand JavaScript and Netscape history, with commenters pointing to specific segments like the Java versus JavaScript decision.",
+      "score": 4.5,
+      "tags": [
+        "brendan eich",
+        "netscape",
+        "brave",
+        "mozilla",
+        "browser wars"
+      ],
+      "categories": [
+        "tech-figures-interviews",
+        "web-development",
+        "programming-language-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Q86fYZE5Q",
+          "page": 1,
+          "cid": 27650494454,
+          "title": "[154] JavaScript之父Brendan Eich_Firefox、Mozilla与Brave创始人[中英精校]",
+          "up": "podcast播客每天更新",
+          "duration": 10759,
+          "kind": "sub_zh",
+          "views": 187,
+          "pic": "https://i0.hdslb.com/bfs/archive/f4e219d2eb0aa870170d256f611d5d7048cc3b76.jpg",
+          "checked_at": "2026-11-05T07:17:20.332293+00:00"
+        }
+      ]
+    },
+    {
+      "id": "lG4VkPoG3ko",
+      "title": "The medical test paradox, and redesigning Bayes' rule",
+      "author": "3Blue1Brown",
+      "source_url": "https://www.youtube.com/watch?v=lG4VkPoG3ko",
+      "summary": "3Blue1Brown explains why positive results on accurate medical tests are often false positives, and reframes Bayes' rule using likelihood ratios (Bayes factors) to update odds. It uses visual examples to make the reasoning intuitive.",
+      "why": "HN's go-to link whenever Bayesian reasoning, base rates or imperfect tests come up.",
+      "score": 4.5,
+      "tags": [
+        "bayes factor",
+        "likelihood ratio",
+        "base rate",
+        "medical tests",
+        "probability"
+      ],
+      "categories": [
+        "probability-game-theory",
+        "recreational-math"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Ei4y1F72M",
+          "page": 1,
+          "cid": 273771840,
+          "title": "【官方双语】医检阳性≠得了病？重新理解贝叶斯定理",
+          "up": "3Blue1Brown",
+          "duration": 1274,
+          "kind": "official_zh",
+          "views": 284266,
+          "pic": "https://i2.hdslb.com/bfs/archive/19b95fe788370661fc413c038617aa4acddb6ccb.jpg",
+          "checked_at": "2026-11-05T07:17:28.592532+00:00"
+        }
+      ]
+    },
+    {
+      "id": "modXC5IWTJI",
+      "title": "Building Software Systems At Google and Lessons Learned",
+      "author": "Stanford",
+      "source_url": "https://www.youtube.com/watch?v=modXC5IWTJI",
+      "summary": "Jeff Dean of Google describes his experiences building Google's systems and how its infrastructure evolved over time. The Stanford talk covers search, scaling tipping points and lessons from building large-scale software.",
+      "why": "HN recommends it as a classic look at systems engineering at Google, whose fundamentals have held up well despite its 2010 date.",
+      "score": 4.5,
+      "tags": [
+        "jeff dean",
+        "google",
+        "distributed systems",
+        "web search",
+        "scaling"
+      ],
+      "categories": [
+        "distributed-systems",
+        "tech-company-stories"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1MS4y127tx",
+          "page": 1,
+          "cid": 571134962,
+          "title": "Jeff Dean - Building Software Systems At Google and Lessons Learned",
+          "up": "DB的小宇宙",
+          "duration": 4965,
+          "kind": "original",
+          "views": 217,
+          "pic": "https://i2.hdslb.com/bfs/archive/683e9095cd6389ac4267e64b8d27ce5437f34b05.jpg",
+          "checked_at": "2026-11-05T07:18:18.181472+00:00"
+        }
+      ]
+    },
+    {
+      "id": "oHeehYYgl28",
+      "title": "Humidifiers: Simpler is better?",
+      "author": "Technology Connections",
+      "source_url": "https://www.youtube.com/watch?v=oHeehYYgl28",
+      "summary": "Technology Connections explains why humidity matters and compares the main types of humidifiers, including evaporative and ultrasonic designs. It covers how and why you would add moisture to indoor air.",
+      "why": "HN links it whenever humidifiers come up as the go-to explainer favoring simple evaporative designs over ultrasonic ones.",
+      "score": 4.5,
+      "tags": [
+        "humidifiers",
+        "evaporative cooling",
+        "ultrasonic",
+        "indoor air",
+        "home appliances"
+      ],
+      "categories": [
+        "power-grid-heating",
+        "home-diy-repair"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Th411a7Hw",
+          "page": 1,
+          "cid": 351564273,
+          "title": "【熟肉】【Technology Connections】加湿器：越简单就越有效",
+          "up": "墨枫梧桐_BA7MQN",
+          "duration": 1714,
+          "kind": "sub_zh",
+          "views": 1164,
+          "pic": "https://i0.hdslb.com/bfs/archive/857a1b4fdd4da4a8818cdb542d8492d6ba59abe6.jpg",
+          "checked_at": "2026-11-05T07:19:07.092057+00:00"
         }
       ]
     },
@@ -14832,6 +15783,74 @@
       ]
     },
     {
+      "id": "skos4B5x7qE",
+      "title": "RustLatam 2019 - Without Boats: Zero-Cost Async IO",
+      "author": "Rust Programming Language",
+      "source_url": "https://www.youtube.com/watch?v=skos4B5x7qE",
+      "summary": "Without Boats, a Rust language team member, explains the design of Rust's async/await at RustLatam 2019. He covers the history and constraints behind zero-cost, allocation-free async state machines.",
+      "why": "Recommended during the await syntax debates for explaining the constraints that shaped Rust's async design.",
+      "score": 4.5,
+      "tags": [
+        "rust",
+        "async/await",
+        "zero-cost abstractions",
+        "futures",
+        "language design"
+      ],
+      "categories": [
+        "systems-programming-languages",
+        "programming-language-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1yt411c74p",
+          "page": 1,
+          "cid": 107006205,
+          "title": "RustLatam 2019 - Without Boats: Zero-Cost Async IO",
+          "up": "Linux2048",
+          "duration": 1945,
+          "kind": "original",
+          "views": 78,
+          "pic": "https://i0.hdslb.com/bfs/archive/27c9085e5086d9cc72e2f451d702eb564a787e40.jpg",
+          "checked_at": "2026-11-05T07:21:23.005189+00:00"
+        }
+      ]
+    },
+    {
+      "id": "uHQ4WCU1WQc",
+      "title": "The First Video Game",
+      "author": "Ahoy",
+      "source_url": "https://www.youtube.com/watch?v=uHQ4WCU1WQc",
+      "summary": "An hour-long, carefully sourced video essay from Ahoy asking what counts as a video game and which one was truly first. It examines Tennis for Two, Spacewar, Pong, the Brown Box and a 1947 CRT device.",
+      "why": "HN recommends it as the thorough, well-researched answer to the first video game question.",
+      "score": 4.5,
+      "tags": [
+        "first video game",
+        "spacewar",
+        "pong",
+        "ralph baer",
+        "game definition"
+      ],
+      "categories": [
+        "game-history-retro",
+        "gaming-culture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1mJ411F7gM",
+          "page": 1,
+          "cid": 122127815,
+          "title": "【中字 | Ahoy】第一款电子游戏",
+          "up": "Barnett-Wong",
+          "duration": 3650,
+          "kind": "sub_zh",
+          "views": 6627,
+          "pic": "https://i2.hdslb.com/bfs/archive/ca3a4703cdffc72f8ee8057621c2662084fd056d.jpg",
+          "checked_at": "2026-11-05T07:24:46.956599+00:00"
+        }
+      ]
+    },
+    {
       "id": "v0YEaeIClKY",
       "title": "e^(iπ) in 3.14 minutes, using dynamics | DE5",
       "author": "3Blue1Brown",
@@ -14866,6 +15885,476 @@
       ]
     },
     {
+      "id": "xMP_AfiNlX4",
+      "title": "Building Prototypes Dan Gelbart  part 1 of 18  Introduction",
+      "author": "Dan Gelbart",
+      "source_url": "https://www.youtube.com/watch?v=xMP_AfiNlX4",
+      "summary": "First of an 18-part lecture series by engineer Dan Gelbart on building prototypes. The series covers practical mechanical design and fabrication of precision machines.",
+      "why": "Recommended as a gold-standard free course for anyone learning to build precision mechanical things.",
+      "score": 4.5,
+      "tags": [
+        "mechanical engineering",
+        "machining",
+        "prototyping",
+        "precision design",
+        "hardware"
+      ],
+      "categories": [
+        "mechanical-engineering",
+        "3d-printing-cnc",
+        "making-woodworking-metalwork"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1MF411t7CC",
+          "page": 1,
+          "cid": 547744560,
+          "title": "Building Prototypes Dan Gelbart  part 1 of 18  Introduction",
+          "up": "AlwaysLv",
+          "duration": 630,
+          "kind": "original",
+          "views": 136,
+          "pic": "https://i0.hdslb.com/bfs/archive/1af4cdf9cc2ae74f266aafb35863748388b641f5.jpg",
+          "checked_at": "2026-11-05T07:26:38.031687+00:00"
+        }
+      ]
+    },
+    {
+      "id": "xixM_cwSLcQ",
+      "title": "Runaway Stabilizer!! How to stop MCAS.",
+      "author": "Mentour Pilot",
+      "source_url": "https://www.youtube.com/watch?v=xixM_cwSLcQ",
+      "summary": "A Boeing 737 pilot explains the runaway stabilizer checklist, the procedure for stopping unwanted horizontal stabilizer movement such as an MCAS activation on the 737 MAX. He walks through the steps, the trim cutout switches and the jackscrew mechanism, and shows a simulator run including the manual trim wheel effort.",
+      "why": "During the 737 MAX crash coverage, HN commenters linked it as a clear, pilot-led demonstration of what an MCAS runaway looks like and how hard manual trim is to crank.",
+      "score": 4.5,
+      "tags": [
+        "mcas",
+        "boeing 737 max",
+        "runaway stabilizer",
+        "aviation safety",
+        "simulator"
+      ],
+      "categories": [
+        "aviation"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Yb41177P5",
+          "page": 1,
+          "cid": 82416034,
+          "title": "Mentour Pilot讲解飞行中安定翼失控和如何阻止MCAS",
+          "up": "TechKyle",
+          "duration": 1379,
+          "kind": "original",
+          "views": 371,
+          "pic": "https://i1.hdslb.com/bfs/archive/3ff3792980c31afc55662e0fe5a4538e89af4429.jpg",
+          "checked_at": "2026-11-05T07:27:54.893176+00:00"
+        }
+      ]
+    },
+    {
+      "id": "zi0rHwfiX1Q",
+      "title": "John Hughes - Testing the Hard Stuff and Staying Sane",
+      "author": "ClojureTV",
+      "source_url": "https://www.youtube.com/watch?v=zi0rHwfiX1Q",
+      "summary": "John Hughes, co-creator of QuickCheck, talks about property-based testing of hard systems. He shows production examples where it found very low-level bugs, including issues in the CAN bus standard.",
+      "why": "Recommended as the best introduction to property-based testing and cited for its examples of bugs found in the CAN standard.",
+      "score": 4.5,
+      "tags": [
+        "quickcheck",
+        "property-based testing",
+        "generative testing",
+        "can bus",
+        "john hughes"
+      ],
+      "categories": [
+        "testing-debugging-tools",
+        "functional-programming"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1E84y1H7XN",
+          "page": 1,
+          "cid": 1016679843,
+          "title": "John Hughes - Testing the Hard Stuff and Staying Sane",
+          "up": "dailyrain",
+          "duration": 2838,
+          "kind": "original",
+          "views": 1,
+          "pic": "https://i1.hdslb.com/bfs/archive/2ba21a51f30b05f7c771c4de2d546766a209ad65.jpg",
+          "checked_at": "2026-11-05T07:32:12.960471+00:00"
+        }
+      ]
+    },
+    {
+      "id": "zyVTxGpEO30",
+      "title": "Practical Creativity",
+      "author": "GDC Festival of Gaming",
+      "source_url": "https://www.youtube.com/watch?v=zyVTxGpEO30",
+      "summary": "Raph Koster's 2014 GDC Next talk on what science says about creativity, with practical steps game designers and developers can use to be more creative. It frames creativity as applying existing patterns in new contexts.",
+      "why": "Recommended even to people outside game development as a useful, practical perspective on how creativity works.",
+      "score": 4.5,
+      "tags": [
+        "raph koster",
+        "creativity",
+        "game design",
+        "gdc",
+        "design process"
+      ],
+      "categories": [
+        "game-design",
+        "productivity-self-improvement"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1oZFGeQEPt",
+          "page": 1,
+          "cid": 28149612705,
+          "title": "中配|GDC2014|实用创意——Practical Creativity",
+          "up": "庸才的朽木",
+          "duration": 4040,
+          "kind": "dub_zh",
+          "views": 964,
+          "pic": "https://i2.hdslb.com/bfs/archive/69837fc5158de5a89e3dbc8ebf7c10219eb58d1a.jpg",
+          "checked_at": "2026-11-05T07:35:01.852148+00:00"
+        },
+        {
+          "bvid": "BV12wNPedEBQ",
+          "page": 1,
+          "cid": 28210429965,
+          "title": "1-【GDC2014】如何发现全新的游戏灵感 - Practical Creativity",
+          "up": "懂些皮毛",
+          "duration": 3865,
+          "kind": "original",
+          "views": 61,
+          "pic": "https://i0.hdslb.com/bfs/archive/6c10b732835b21e1d8ba8f508919e39eee6cd5ab.jpg",
+          "checked_at": "2026-11-05T07:46:11.856649+00:00"
+        }
+      ]
+    },
+    {
+      "id": "-Ln-8QM8KhQ",
+      "title": "How is this Website so fast!?",
+      "author": "Wes Bos",
+      "source_url": "https://www.youtube.com/watch?v=-Ln-8QM8KhQ",
+      "summary": "Wes Bos breaks down the techniques behind the McMaster-Carr website's speed: server-rendered HTML, prefetching, CDN and service worker caching, preloading, critical CSS and fixed-size images. He also notes its old-school jQuery and YUI JavaScript.",
+      "why": "HN points to it as the clearest frontend explanation of why McMaster-Carr feels so snappy, often contrasted with slow modern UIs.",
+      "score": 4.0,
+      "tags": [
+        "page speed",
+        "prefetching",
+        "caching",
+        "service workers",
+        "mcmaster-carr",
+        "frontend"
+      ],
+      "categories": [
+        "web-development",
+        "software-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1PAkLBRE3B",
+          "page": 1,
+          "cid": 35500263461,
+          "title": "【熟肉】这个网站为什么能这么快？ - Wes Bos",
+          "up": "英文白斑马",
+          "duration": 803,
+          "kind": "sub_zh",
+          "views": 126,
+          "pic": "https://i1.hdslb.com/bfs/archive/174c2e0ec11b6a4c1265f88fa6ad5c60b666ce98.png",
+          "checked_at": "2026-11-05T07:35:24.843008+00:00"
+        },
+        {
+          "bvid": "BV1PAkLBdEBC",
+          "page": 1,
+          "cid": 35500263218,
+          "title": "【中配】这个网站为什么能这么快？ - Wes Bos",
+          "up": "黑纹白斑马",
+          "duration": 782,
+          "kind": "dub_zh",
+          "views": 8021,
+          "pic": "https://i1.hdslb.com/bfs/archive/174c2e0ec11b6a4c1265f88fa6ad5c60b666ce98.png",
+          "checked_at": "2026-11-05T07:46:17.543933+00:00"
+        }
+      ]
+    },
+    {
+      "id": "7OpM_zKGE4o",
+      "title": "The Problem with Solar Energy in Africa",
+      "author": "Real Engineering",
+      "source_url": "https://www.youtube.com/watch?v=7OpM_zKGE4o",
+      "summary": "Real Engineering looks at why Africa's abundant solar potential is hard to turn into usable power, especially for Europe. It covers the transmission, infrastructure and economic obstacles, and the pivot from concentrated solar to photovoltaics.",
+      "why": "Linked whenever commenters ask whether Sahara solar could power Europe, as a clear explanation of why it is impractical.",
+      "score": 4.0,
+      "tags": [
+        "solar power",
+        "sahara",
+        "power transmission",
+        "renewables",
+        "europe energy"
+      ],
+      "categories": [
+        "renewables-storage",
+        "power-grid-heating"
+      ],
+      "versions": [
+        {
+          "bvid": "BV12T421S7o7",
+          "page": 1,
+          "cid": 1537167612,
+          "title": "【中配】非洲太阳能问题 - 实际工程背后的探讨 - Real Engineering",
+          "up": "黑纹白斑马",
+          "duration": 1048,
+          "kind": "dub_zh",
+          "views": 360,
+          "pic": "https://i2.hdslb.com/bfs/archive/d90332bbff3d0125682149b08a618cdf76ccfc7e.png",
+          "checked_at": "2026-11-05T07:47:42.908157+00:00"
+        }
+      ]
+    },
+    {
+      "id": "816VLQNdPMM",
+      "title": "Why Adults Can't Develop Perfect Pitch",
+      "author": "Rick Beato",
+      "source_url": "https://www.youtube.com/watch?v=816VLQNdPMM",
+      "summary": "Rick Beato argues that adults cannot develop true perfect pitch, which he ties to critical-period brain plasticity and language acquisition. He says it can only be developed in young children, and discusses the research behind this.",
+      "why": "HN points to it as the standard explanation of why perfect pitch is a childhood window, in threads about absolute pitch training.",
+      "score": 4.0,
+      "tags": [
+        "absolute pitch",
+        "ear training",
+        "music cognition",
+        "critical period",
+        "rick beato"
+      ],
+      "categories": [
+        "neuroscience-brain",
+        "music-theory-production"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1wy4y1b7Ae",
+          "page": 1,
+          "cid": 317427589,
+          "title": "【译制】绝对音准残酷的真相！成年人，别练了，没戏！",
+          "up": "音乐制作AsTune",
+          "duration": 985,
+          "kind": "original",
+          "views": 100443,
+          "pic": "https://i1.hdslb.com/bfs/archive/60bd363e97329796a5994e2627abefa37e297d14.jpg",
+          "checked_at": "2026-11-05T07:47:54.035365+00:00"
+        }
+      ]
+    },
+    {
+      "id": "BEG-ly9tQGk",
+      "title": "Lars Andersen: A new level of archery",
+      "author": "larsandersen23",
+      "source_url": "https://www.youtube.com/watch?v=BEG-ly9tQGk",
+      "summary": "Archer Lars Andersen demonstrates fast, accurate shooting techniques he says he revived from historical art and texts, arguing Hollywood archery is not historical.",
+      "why": "Recommended as an entertaining example of rediscovered lost skills, though some commenters note it is contested.",
+      "score": 4.0,
+      "tags": [
+        "archery",
+        "lars andersen",
+        "forgotten skills",
+        "speed shooting",
+        "history"
+      ],
+      "categories": [
+        "sports-athletics",
+        "magic-performance-oddities"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1MW411x7dJ",
+          "page": 1,
+          "cid": 33163164,
+          "title": "Lars Andersen A new level of archery 国外真正的精灵王子惊人射术",
+          "up": "Leo_YX24",
+          "duration": 352,
+          "kind": "original",
+          "views": 1231,
+          "pic": "https://i1.hdslb.com/bfs/archive/bd3c21106ebb2855c2dcb20fd5823b56f76b7669.jpg",
+          "checked_at": "2026-11-05T07:59:38.190786+00:00"
+        }
+      ]
+    },
+    {
+      "id": "DXvAlwMAxiA",
+      "title": "How a transistor works",
+      "author": "Ben Eater",
+      "source_url": "https://www.youtube.com/watch?v=DXvAlwMAxiA",
+      "summary": "Ben Eater gives a detailed look at how an NPN bipolar junction transistor works and what it does. It is an eleven-minute explanation aimed at building real understanding of the device.",
+      "why": "HN commenters prefer it over other transistor explanations as an enlightening starting point that leads into building logic gates and a CPU.",
+      "score": 4.0,
+      "tags": [
+        "transistor",
+        "bjt",
+        "npn",
+        "electronics",
+        "ben eater"
+      ],
+      "categories": [
+        "electronics-circuits",
+        "semiconductors-manufacturing"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1p8No6mEoF",
+          "page": 1,
+          "cid": 40052195907,
+          "title": "【熟肉】晶体管是怎么工作的-Ben Eater",
+          "up": "LVideoRoll",
+          "duration": 683,
+          "kind": "sub_zh",
+          "views": 262,
+          "pic": "https://i0.hdslb.com/bfs/archive/1f9327d05ca6450e8007001c67c48b053f5439b1.jpg",
+          "checked_at": "2026-11-05T08:01:09.545832+00:00"
+        }
+      ]
+    },
+    {
+      "id": "G-WO-z-QuWI",
+      "title": "How To Terraform Venus (Quickly)",
+      "author": "Kurzgesagt – In a Nutshell",
+      "source_url": "https://www.youtube.com/watch?v=G-WO-z-QuWI",
+      "summary": "Kurzgesagt lays out a speculative plan to terraform Venus, covering its hostile atmosphere and how it might be made Earth-like, with a sources page linked.",
+      "why": "Offered as a readable explainer whenever Venus terraforming or alternatives to Mars colonization come up.",
+      "score": 4.0,
+      "tags": [
+        "venus",
+        "terraforming",
+        "space colonization",
+        "kurzgesagt",
+        "planetary science"
+      ],
+      "categories": [
+        "space-exploration",
+        "cosmology-astrophysics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1zHm8BiE4r",
+          "page": 1,
+          "cid": 34646069185,
+          "title": "【中配】如何改造金星 - Kurzgesagt",
+          "up": "数理分享",
+          "duration": 809,
+          "kind": "dub_zh",
+          "views": 2431,
+          "pic": "https://i0.hdslb.com/bfs/archive/f5485dc41d0fc7bd8ade845ca4da0ac8f392bc48.jpg",
+          "checked_at": "2026-11-05T08:04:05.392469+00:00"
+        },
+        {
+          "bvid": "BV19V411W7bG",
+          "page": 1,
+          "cid": 367499830,
+          "title": "【Kurz】如何快速改造金星？@青知字幕组",
+          "up": "青知字幕组",
+          "duration": 771,
+          "kind": "original",
+          "views": 136014,
+          "pic": "https://i2.hdslb.com/bfs/archive/653345c964a4f09d9ac5ff6df6f107c346c601fd.jpg",
+          "checked_at": "2026-11-05T08:09:40.479513+00:00"
+        },
+        {
+          "bvid": "BV1xy4y1K7NC",
+          "page": 1,
+          "cid": 366613797,
+          "title": "kurzgesagt——我们应该如何改造金星？(生肉)",
+          "up": "元甫青禾",
+          "duration": 768,
+          "kind": "original",
+          "views": 242,
+          "pic": "https://i2.hdslb.com/bfs/archive/a72b0796f550375c1d663bd020d32e7678ecbfee.jpg",
+          "checked_at": "2026-11-05T08:09:42.932436+00:00"
+        },
+        {
+          "bvid": "BV1kZxy6aEwj",
+          "page": 1,
+          "cid": 43212997929,
+          "title": "如何快速改造金星？把炼狱变成绿洲",
+          "up": "njdkd",
+          "duration": 762,
+          "kind": "original",
+          "views": 14,
+          "pic": "https://i0.hdslb.com/bfs/archive/2351d5e45f30c7ffbfa9d5c50778f4aa988d1e22.jpg",
+          "checked_at": "2026-11-05T08:09:41.630263+00:00"
+        }
+      ]
+    },
+    {
+      "id": "HPqGaIMVuLs",
+      "title": "Surface-Stable Fractal Dithering Explained",
+      "author": "runevision",
+      "source_url": "https://www.youtube.com/watch?v=HPqGaIMVuLs",
+      "summary": "Rune Skovbo Johansen explains Surface-Stable Fractal Dithering, a technique he invented and released as open source. It makes dithering stick to 3D surfaces and covers the experiments and shortcomings along the way, inspired by Return of the Obra Dinn.",
+      "why": "HN recommends it as the original explainer for a clever dithering technique and the go-to video in dithering threads.",
+      "score": 4.0,
+      "tags": [
+        "dithering",
+        "shaders",
+        "computer graphics",
+        "obra dinn",
+        "fractals"
+      ],
+      "categories": [
+        "computer-graphics-rendering",
+        "creative-coding-generative-art",
+        "game-programming-engines"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1p6F9eLEaE",
+          "page": 1,
+          "cid": 28168228693,
+          "title": "[图形技术]Surface-Stable Fractal Dithering",
+          "up": "umamiiii",
+          "duration": 1306,
+          "kind": "original",
+          "views": 912,
+          "pic": "https://i2.hdslb.com/bfs/archive/c35731f4d496624e88d5365c87fd8a0ee8d44aad.jpg",
+          "checked_at": "2026-11-05T08:06:22.598419+00:00"
+        }
+      ]
+    },
+    {
+      "id": "IUDTlvagjJA",
+      "title": "Virtual Barber Shop (Audio...use headphones, close ur eyes)",
+      "author": "LovelyVirus",
+      "source_url": "https://www.youtube.com/watch?v=IUDTlvagjJA",
+      "summary": "A binaural audio demo, the 'Virtual Barber Shop', that places a barber moving around your head. It works best with headphones and closed eyes.",
+      "why": "It is the classic demo HN people point to for showing positional 3D audio working on ordinary headphones.",
+      "score": 4.0,
+      "tags": [
+        "3d audio",
+        "headphones",
+        "hrtf",
+        "spatial audio",
+        "qsound"
+      ],
+      "categories": [
+        "audio-video-engineering",
+        "magic-performance-oddities"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1uX4y1674D",
+          "page": 1,
+          "cid": 1096073597,
+          "title": "Virtual Barber Shop (Audio...use headphones_ close ur eyes)",
+          "up": "旺崽扭奶",
+          "duration": 281,
+          "kind": "original",
+          "views": 350,
+          "pic": "https://i1.hdslb.com/bfs/archive/6ffa9a1546d33557cced2d542def163bd1fce616.jpg",
+          "checked_at": "2026-11-05T08:07:54.378187+00:00"
+        }
+      ]
+    },
+    {
       "id": "Ilg3gGewQ5U",
       "title": "Backpropagation, intuitively | Deep Learning Chapter 3",
       "author": "3Blue1Brown",
@@ -14895,6 +16384,86 @@
           "views": 63,
           "pic": "https://i2.hdslb.com/bfs/archive/56ec89fa84fbbfc65627bd8179a922a2f7f35903.jpg",
           "checked_at": "2026-11-04T23:03:55.411791+00:00"
+        }
+      ]
+    },
+    {
+      "id": "JrMiSQAGOS4",
+      "title": "Why is Ukraine the West's Fault? Featuring John Mearsheimer",
+      "author": "The University of Chicago",
+      "source_url": "https://www.youtube.com/watch?v=JrMiSQAGOS4",
+      "summary": "University of Chicago lecture in which John Mearsheimer argues the West, through NATO and EU expansion, bears primary responsibility for the Ukraine crisis. He also discusses how to end it and its consequences.",
+      "why": "During 2022 HN threads, commenters shared it as the realist counter-perspective to understand the Russian position, though others dispute his record.",
+      "score": 4.0,
+      "tags": [
+        "mearsheimer",
+        "ukraine",
+        "nato expansion",
+        "realpolitik",
+        "russia"
+      ],
+      "categories": [
+        "geopolitics-foreign-policy",
+        "university-lectures"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1cm4y1d7am",
+          "page": 1,
+          "cid": 541233992,
+          "title": "Why is Ukraine the West_s Fault_ Featuring John Mearsheimer",
+          "up": "Twilly_Brony",
+          "duration": 4456,
+          "kind": "original",
+          "views": 577,
+          "pic": "https://i1.hdslb.com/bfs/archive/0df83cab177655980b86b1d0151e12c99b24b0f4.jpg",
+          "checked_at": "2026-11-05T08:10:14.624624+00:00"
+        }
+      ]
+    },
+    {
+      "id": "K_q-xnYRugQ",
+      "title": "Perhaps the weakest link in the US electrical system",
+      "author": "Technology Connections",
+      "source_url": "https://www.youtube.com/watch?v=K_q-xnYRugQ",
+      "summary": "Technology Connections explains weaknesses in the US electrical system, centering on how cord and circuit ratings can mismatch and cause fires. It covers extension cords, power strips and plug history in about 25 minutes.",
+      "why": "HN points to it as a clear explanation of why under-rated extension cords and daisy-chained power strips are dangerous.",
+      "score": 4.0,
+      "tags": [
+        "extension cords",
+        "power strips",
+        "electrical safety",
+        "plugs",
+        "amp ratings"
+      ],
+      "categories": [
+        "power-grid-heating",
+        "home-diy-repair"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1VgeB6SEXM",
+          "page": 1,
+          "cid": 42050129014,
+          "title": "【熟肉】美国电力系统最薄弱的环节 - Technology Connections K_q-xnYRugQ",
+          "up": "英文白斑马",
+          "duration": 1517,
+          "kind": "sub_zh",
+          "views": 215,
+          "pic": "https://i1.hdslb.com/bfs/archive/4c2e66835c5d5be81ee9bb1541b5d1f9807b0d6f.png",
+          "checked_at": "2026-11-05T08:11:41.991440+00:00"
+        },
+        {
+          "bvid": "BV1XgeB6UEco",
+          "page": 1,
+          "cid": 42050129092,
+          "title": "美国电力系统最薄弱的环节 - Technology Connections K_q-xnYRugQ",
+          "up": "黑纹白斑马",
+          "duration": 1474,
+          "kind": "original",
+          "views": 637,
+          "pic": "https://i1.hdslb.com/bfs/archive/4c2e66835c5d5be81ee9bb1541b5d1f9807b0d6f.png",
+          "checked_at": "2026-11-05T08:27:14.881795+00:00"
         }
       ]
     },
@@ -15037,6 +16606,40 @@
       ]
     },
     {
+      "id": "NXN7TOg3kj4",
+      "title": "FreeCAD 0.20 For Beginners | 1 | Setup , preferences and navigation | Easy Tutorial for Learning CAD",
+      "author": "MangoJelly Solutions for FreeCAD",
+      "source_url": "https://www.youtube.com/watch?v=NXN7TOg3kj4",
+      "summary": "The first lesson of MangoJelly's FreeCAD 0.20 beginner course, covering setup, preferences and navigation. The series teaches fundamentals through complete workflows such as sketching, Part Design and STL export.",
+      "why": "HN recommends it as an excellent beginner series that fills FreeCAD's gap in learning material.",
+      "score": 4.0,
+      "tags": [
+        "freecad",
+        "cad",
+        "3d modeling",
+        "beginner tutorial",
+        "3d printing"
+      ],
+      "categories": [
+        "3d-printing-cnc",
+        "computer-graphics-rendering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1bE42157ER",
+          "page": 1,
+          "cid": 1525472433,
+          "title": "FreeCAD 0.20初学者版|1|设置、首选项和导航|学习CAD的简易教程",
+          "up": "账号已注销",
+          "duration": 1444,
+          "kind": "original",
+          "views": 85,
+          "pic": "https://i0.hdslb.com/bfs/archive/15de145a3b7d7b9905ccacf09307451160f6f9fc.jpg",
+          "checked_at": "2026-11-05T08:15:27.616472+00:00"
+        }
+      ]
+    },
+    {
       "id": "NaL_Cb42WyY",
       "title": "Pi hiding in prime regularities",
       "author": "3Blue1Brown",
@@ -15067,6 +16670,52 @@
           "views": 282311,
           "pic": "https://i0.hdslb.com/bfs/archive/e42537e23ff50716a91ad6e621de9750a7c59c18.jpg",
           "checked_at": "2026-11-04T23:03:55.581618+00:00"
+        }
+      ]
+    },
+    {
+      "id": "Oo0jm1PPRuo",
+      "title": "How We're Redefining the kg",
+      "author": "Veritasium",
+      "source_url": "https://www.youtube.com/watch?v=Oo0jm1PPRuo",
+      "summary": "Veritasium explains why the kilogram is being redefined in terms of Planck's constant rather than a physical metal artifact. It visits NIST to show the Kibble balance and why measuring mass precisely is hard.",
+      "why": "Praised as an excellent, accessible account of why the kilogram's definition changed, in redefinition threads.",
+      "score": 4.0,
+      "tags": [
+        "kilogram",
+        "planck constant",
+        "kibble balance",
+        "metrology",
+        "nist"
+      ],
+      "categories": [
+        "physics-space-other",
+        "fundamental-physics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV14x411G7wx",
+          "page": 1,
+          "cid": 24058751,
+          "title": "【熟肉】【CC字幕】2018我们如何重新定义质量单位-千克",
+          "up": "呆槑槑槑槑呆",
+          "duration": 589,
+          "kind": "sub_zh",
+          "views": 3383,
+          "pic": "https://i2.hdslb.com/bfs/archive/0a0260a811b1c5852b46fd2037cfdb321cd8b37d.jpg",
+          "checked_at": "2026-11-05T08:17:29.150739+00:00"
+        },
+        {
+          "bvid": "BV1Bx411q7Wx",
+          "page": 1,
+          "cid": 20026820,
+          "title": "【Veritasium】新KG（公斤）是怎么定义的",
+          "up": "星晨氏",
+          "duration": 589,
+          "kind": "original",
+          "views": 829,
+          "pic": "https://i0.hdslb.com/bfs/archive/23ac2e4bb9f92515a53b895544b5cf27f6d23f3e.jpg",
+          "checked_at": "2026-11-05T08:27:21.701351+00:00"
         }
       ]
     },
@@ -15105,6 +16754,109 @@
       ]
     },
     {
+      "id": "RTB5XhjbgZA",
+      "title": "Segmented Displays",
+      "author": "Posy",
+      "source_url": "https://www.youtube.com/watch?v=RTB5XhjbgZA",
+      "summary": "Posy explores segmented displays, from the seven-segment display to alternative designs with fewer or more segments, with patents and history.",
+      "why": "Recommended as a meditative, geeky tour of alternative display designs.",
+      "score": 4.0,
+      "tags": [
+        "seven-segment",
+        "displays",
+        "design history",
+        "posy",
+        "patents"
+      ],
+      "categories": [
+        "product-industrial-design",
+        "graphic-design-typography",
+        "audio-video-engineering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1zqHEzxEss",
+          "page": 1,
+          "cid": 32757256115,
+          "title": "分段显示屏 | Posy",
+          "up": "部长个人汉化",
+          "duration": 835,
+          "kind": "original",
+          "views": 8214,
+          "pic": "https://i0.hdslb.com/bfs/archive/a508132e1f60d4d2f3e94ca97fdb6e26ac4c1dee.jpg",
+          "checked_at": "2026-11-05T08:22:03.436697+00:00"
+        }
+      ]
+    },
+    {
+      "id": "RxD6H3ri8RI",
+      "title": "Wild Tricks for Greenscreen in Blender",
+      "author": "IanHubert",
+      "source_url": "https://www.youtube.com/watch?v=RxD6H3ri8RI",
+      "summary": "Ian Hubert shows quick, unconventional tricks for greenscreen compositing in Blender, as a follow-up to his motion tracking video.",
+      "why": "Recommended as a favorite among practical Blender guides from a hugely productive solo artist.",
+      "score": 4.0,
+      "tags": [
+        "blender",
+        "greenscreen",
+        "vfx",
+        "ian hubert",
+        "compositing"
+      ],
+      "categories": [
+        "animation-vfx"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1WF411r7YJ",
+          "page": 1,
+          "cid": 1259546951,
+          "title": "【中字】Blender VFX 教程：绿屏的疯狂技巧 -绿幕-合成-跟追踪 -抠像节点",
+          "up": "幻鹰剑",
+          "duration": 591,
+          "kind": "sub_zh",
+          "views": 2975,
+          "pic": "https://i1.hdslb.com/bfs/archive/2372bf2998c8f98aeab0a82e939fd0df04f543ef.jpg",
+          "checked_at": "2026-11-05T08:23:19.276814+00:00"
+        }
+      ]
+    },
+    {
+      "id": "VO_1AdYRGW8",
+      "title": "[4k, 60 fps] San Francisco, a Trip down Market Street, April 14, 1906",
+      "author": "Denis Shiryaev",
+      "source_url": "https://www.youtube.com/watch?v=VO_1AdYRGW8",
+      "summary": "A neural-network upscaled 4K, 60 fps version of the 1906 film of a trip down Market Street in San Francisco, shot four days before the earthquake. It shows cable cars, horse carriages, early automobiles and pedestrians sharing the street.",
+      "why": "Cited in threads on cars, streets and urbanism as evidence of how mixed traffic worked before cars took over.",
+      "score": 4.0,
+      "tags": [
+        "san francisco",
+        "1906",
+        "film restoration",
+        "mixed traffic",
+        "urban history"
+      ],
+      "categories": [
+        "world-history",
+        "transit-urbanism",
+        "animation-vfx"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1t54y1X7KM",
+          "page": 1,
+          "cid": 186289508,
+          "title": "[4k, 60 fps] San Francisco, a Trip down Market Street, April 14, 1906",
+          "up": "霜星耀天穹",
+          "duration": 863,
+          "kind": "original",
+          "views": 108,
+          "pic": "https://i2.hdslb.com/bfs/archive/928afd7911c0a87437a55d36b19d18444a263db6.jpg",
+          "checked_at": "2026-11-05T08:26:04.559770+00:00"
+        }
+      ]
+    },
+    {
       "id": "ZCuYPiUIONs",
       "title": "Lin Clark - A Cartoon Intro to Fiber - React Conf 2017",
       "author": "Meta Developers",
@@ -15134,6 +16886,40 @@
           "views": 2858,
           "pic": "https://i0.hdslb.com/bfs/archive/d6450acb72582ebf1e8b6979033eb188b8535e65.jpg",
           "checked_at": "2026-11-04T23:03:56.841718+00:00"
+        }
+      ]
+    },
+    {
+      "id": "_160oMzblY8",
+      "title": "Blockchain 101 - A Visual Demo",
+      "author": "Anders Brownworth",
+      "source_url": "https://www.youtube.com/watch?v=_160oMzblY8",
+      "summary": "Anders Brownworth gives a basic visual introduction to blockchain using an interactive web demo, covering SHA256 hashes, blocks, chains, distribution, tokens and coinbase transactions.",
+      "why": "HN repeatedly recommends it as the best ground-up, non-hype introduction for people who want to understand what a blockchain actually is.",
+      "score": 4.0,
+      "tags": [
+        "blockchain",
+        "sha256",
+        "hashing",
+        "bitcoin",
+        "visual demo"
+      ],
+      "categories": [
+        "cryptography",
+        "algorithms-data-structures"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1NW411q7bQ",
+          "page": 1,
+          "cid": 29780237,
+          "title": "【区块链学习No.7】Blockchain 101 - A Visual Demo",
+          "up": "区块链大神",
+          "duration": 1070,
+          "kind": "original",
+          "views": 551,
+          "pic": "https://i0.hdslb.com/bfs/archive/7ca594d5ca7b4a90b8c1506bf3c3f2e9fecbe74e.jpg",
+          "checked_at": "2026-11-05T08:27:30.045631+00:00"
         }
       ]
     },
@@ -15310,6 +17096,41 @@
       ]
     },
     {
+      "id": "4-SGpEInX_c",
+      "title": "Stephen Wolfram: Complexity and the Fabric of Reality | Lex Fridman Podcast #234",
+      "author": "Lex Fridman",
+      "source_url": "https://www.youtube.com/watch?v=4-SGpEInX_c",
+      "summary": "A long Lex Fridman interview with Stephen Wolfram on complexity, cellular automata, computational irreducibility and the Wolfram Physics Project.",
+      "why": "HN recommends it as an accessible way into Wolfram's physics ideas and his personality.",
+      "score": 3.5,
+      "tags": [
+        "stephen wolfram",
+        "cellular automata",
+        "computational irreducibility",
+        "wolfram physics project",
+        "ruliad"
+      ],
+      "categories": [
+        "computational-theory",
+        "fundamental-physics",
+        "tech-figures-interviews"
+      ],
+      "versions": [
+        {
+          "bvid": "BV11D4y1F7YC",
+          "page": 1,
+          "cid": 476749802,
+          "title": "Stephen Wolfram_ Complexity and the Fabric of Reality _ Lex Fridman",
+          "up": "Wizard_Core",
+          "duration": 13123,
+          "kind": "original",
+          "views": 142,
+          "pic": "https://i0.hdslb.com/bfs/archive/c834eb3b0281d285f8ea86a5b6f4ae7f0df7f7ee.jpg",
+          "checked_at": "2026-11-05T07:23:25.137900+00:00"
+        }
+      ]
+    },
+    {
       "id": "4zgYG-_ha28",
       "title": "QuakeCon 2011 - John Carmack Keynote",
       "author": "QuakeCon Official",
@@ -15342,6 +17163,40 @@
           "views": 73,
           "pic": "https://i2.hdslb.com/bfs/archive/57213b56eee5c8c075a7490eef1db16a37feb95a.jpg",
           "checked_at": "2026-11-04T23:03:58.021509+00:00"
+        }
+      ]
+    },
+    {
+      "id": "6ZYLp5uX9Yw",
+      "title": "Making of \"The Prodigy - Voodoo People\" in Ableton by Jim Pavloff",
+      "author": "Jim Pavloff",
+      "source_url": "https://www.youtube.com/watch?v=6ZYLp5uX9Yw",
+      "summary": "Jim Pavloff rebuilds The Prodigy's 'Voodoo People' in Ableton from its listed samples. The video shows how the track is assembled and how close a handmade reconstruction can sound.",
+      "why": "Used as an example of prototyping music and, in a Copilot copyright thread, of a handmade reconstruction that sounds like the original.",
+      "score": 3.5,
+      "tags": [
+        "ableton",
+        "the prodigy",
+        "sampling",
+        "remake",
+        "electronic music"
+      ],
+      "categories": [
+        "music-theory-production",
+        "music-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV13Z4y1Z7GX",
+          "page": 1,
+          "cid": 491154066,
+          "title": "Making of The Prodigy - Voodoo People in Ableton by Jim Pavloff",
+          "up": "LuciaJoyce",
+          "duration": 655,
+          "kind": "original",
+          "views": 235,
+          "pic": "https://i2.hdslb.com/bfs/archive/e37cf0c0828f3ddd81933740f04d03a655259c33.jpg",
+          "checked_at": "2026-11-05T07:23:23.327705+00:00"
         }
       ]
     },
@@ -16025,6 +17880,40 @@
       ]
     },
     {
+      "id": "sPFmKu2S5XY",
+      "title": "The Neuroanatomy of ADHD and thus how to treat ADHD - CADDAC - Dr Russel Barkley part 3ALL",
+      "author": "Adhd Videos",
+      "source_url": "https://www.youtube.com/watch?v=sPFmKu2S5XY",
+      "summary": "Dr. Russell Barkley lectures on the neuroanatomy of ADHD and how to treat it, linking executive function and working memory to the disorder. It is part 3 of a CADDAC series.",
+      "why": "HN commenters recommend it to people with ADHD for helping them understand their behavior and how their brain works.",
+      "score": 3.5,
+      "tags": [
+        "adhd",
+        "russell barkley",
+        "executive function",
+        "working memory",
+        "neuroanatomy"
+      ],
+      "categories": [
+        "mental-health-neurodiversity",
+        "neuroscience-brain"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1T5Tk6JEiy",
+          "page": 1,
+          "cid": 39578438906,
+          "title": "ADHD的神经解剖学：第三部分（Russell Barkley 2009）",
+          "up": "不专注哒",
+          "duration": 2276,
+          "kind": "original",
+          "views": 66,
+          "pic": "https://i1.hdslb.com/bfs/archive/bcfd8aa70361c563cfcd8d71afe26c6ed6f8b4cb.jpg",
+          "checked_at": "2026-11-05T08:27:26.943266+00:00"
+        }
+      ]
+    },
+    {
       "id": "uZgbKrDEzAs",
       "title": "#Gamelab2018 - Jon Blow's Design decisions on creating Jai a new language for game programmers",
       "author": "Gamelab Conference",
@@ -16181,6 +18070,18 @@
         "medicine-disease"
       ],
       "versions": [
+        {
+          "bvid": "BV1MA4y1X7iA",
+          "page": 1,
+          "cid": 582237072,
+          "title": "Jason Fung 博士：禁食作为减肥的治疗选择  2019年7月28日",
+          "up": "纯肉饮食和轻断食",
+          "duration": 4288,
+          "kind": "original",
+          "views": 1325,
+          "pic": "https://i0.hdslb.com/bfs/archive/3752840633ae8975609cefbd5881f95a2538b71b.jpg",
+          "checked_at": "2026-11-05T07:23:27.400629+00:00"
+        },
         {
           "bvid": "BV1bctw6tEiH",
           "page": 1,
@@ -16919,6 +18820,52 @@
       ]
     },
     {
+      "id": "wcBEOcPtlYk",
+      "title": "Tested: Where Does The Tone Come From In A Guitar Amplifier?",
+      "author": "Jim Lill",
+      "source_url": "https://www.youtube.com/watch?v=wcBEOcPtlYk",
+      "summary": "Guitarist Jim Lill spends a year testing where guitar amplifier tone comes from, swapping tubes, rectifiers and bias types. He finds that much of it can be reproduced with EQ and distortion in different orders.",
+      "why": "Recommended as a systematic, surprising experiment, often cited in audio and gear-obsession threads.",
+      "score": 3.0,
+      "tags": [
+        "guitar amps",
+        "eq",
+        "distortion",
+        "tube amplifiers",
+        "audio"
+      ],
+      "categories": [
+        "music-theory-production",
+        "audio-video-engineering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1UV4y157Eu",
+          "page": 1,
+          "cid": 854361423,
+          "title": "译介熟肉-箱头是怎么影响电吉他音色的？Jim Lill @ Youtube",
+          "up": "小题大做的罗罗",
+          "duration": 1115,
+          "kind": "sub_zh",
+          "views": 2758,
+          "pic": "https://i1.hdslb.com/bfs/archive/04959c42f7524f2c817924ea5aadbfe89c5ee6c3.jpg",
+          "checked_at": "2026-11-05T07:23:20.262733+00:00"
+        },
+        {
+          "bvid": "BV1MG4C6MEdw",
+          "page": 1,
+          "cid": 41909881537,
+          "title": "实测：吉他音箱的音色究竟来自哪里？｜Jim Lill 电吉他实验系列",
+          "up": "Kai_____________",
+          "duration": 1115,
+          "kind": "original",
+          "views": 795,
+          "pic": "https://i0.hdslb.com/bfs/archive/61f62d40adc2662a7f07f929e08ba924fa5e044f.jpg",
+          "checked_at": "2026-11-05T07:23:33.279529+00:00"
+        }
+      ]
+    },
+    {
       "id": "xodtfM1r9FA",
       "title": "The Maths of General Relativity (1/8) - Spacetime and Worldlines",
       "author": "ScienceClic English",
@@ -17332,6 +19279,75 @@
       ]
     },
     {
+      "id": "hCQCP-5g5bo",
+      "title": "I Saved a PNG Image To A Bird",
+      "author": "Benn Jordan",
+      "source_url": "https://www.youtube.com/watch?v=hCQCP-5g5bo",
+      "summary": "Benn Jordan's video about storing a PNG image in a living bird, a starling that learns to reproduce encoded sounds. It mixes ornithology, audio engineering, and data encoding.",
+      "why": "HN fans point to it as a fun, nerdy crossover of bird song acoustics and technology, and the story itself got its own thread.",
+      "score": 2.5,
+      "tags": [
+        "benn jordan",
+        "starling",
+        "bird song",
+        "audio encoding",
+        "ornithology"
+      ],
+      "categories": [
+        "animals-nature",
+        "audio-video-engineering",
+        "documentaries-storytelling"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1uh2LB3E3U",
+          "page": 1,
+          "cid": 34523185815,
+          "title": "【中字】我往一只鸟里存了张图片 | Benn Jordan",
+          "up": "IdyllPathos",
+          "duration": 1853,
+          "kind": "sub_zh",
+          "views": 1739,
+          "pic": "https://i1.hdslb.com/bfs/archive/7b8386adea559e5ebc2b9da7d70d9f380152c019.jpg",
+          "checked_at": "2026-11-05T07:23:09.843321+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sTu3LwpF6XI",
+      "title": "Making logic gates from transistors",
+      "author": "Ben Eater",
+      "source_url": "https://www.youtube.com/watch?v=sTu3LwpF6XI",
+      "summary": "Ben Eater shows how to build logic gates out of transistors, including NOR gates. It is part of his clear hardware-from-scratch teaching style.",
+      "why": "HN people recommend Ben Eater's videos for easy, clear explanations of digital logic and building computers.",
+      "score": 2.5,
+      "tags": [
+        "logic gates",
+        "transistors",
+        "digital electronics",
+        "ben eater",
+        "nor gate"
+      ],
+      "categories": [
+        "electronics-circuits",
+        "computer-architecture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV16qNf6SEfE",
+          "page": 1,
+          "cid": 40054230787,
+          "title": "【熟肉】用晶体管制作逻辑门-Ben Eater",
+          "up": "LVideoRoll",
+          "duration": 782,
+          "kind": "sub_zh",
+          "views": 432,
+          "pic": "https://i0.hdslb.com/bfs/archive/533f40a77a31c2aff8eca3c6e0fb8f2eba81c791.jpg",
+          "checked_at": "2026-11-05T08:09:47.651862+00:00"
+        }
+      ]
+    },
+    {
       "id": "udlMSe5-zP8",
       "title": "Joe Rogan Experience #1342 - John Carmack",
       "author": "PowerfulJRE",
@@ -17362,6 +19378,39 @@
           "views": 949,
           "pic": "https://i1.hdslb.com/bfs/archive/bc49906ba1f5f3855c8226522692fe244a808518.jpg",
           "checked_at": "2026-11-04T23:03:58.021639+00:00"
+        }
+      ]
+    },
+    {
+      "id": "y5UT04p5f7U",
+      "title": "Death to Pennies",
+      "author": "CGP Grey",
+      "source_url": "https://www.youtube.com/watch?v=y5UT04p5f7U",
+      "summary": "CGP Grey's short animated argument for abolishing the US penny, covering its cost and history.",
+      "why": "Pointed to as the canonical concise case against pennies whenever coin abolition comes up.",
+      "score": 2.5,
+      "tags": [
+        "pennies",
+        "currency",
+        "economics",
+        "cgp grey"
+      ],
+      "categories": [
+        "microeconomics-behavioral",
+        "macroeconomics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1QmNX6UEZE",
+          "page": 1,
+          "cid": 39938687797,
+          "title": "一美分为何该消失了 - CGP Grey",
+          "up": "中文配音看世界",
+          "duration": 271,
+          "kind": "original",
+          "views": 443,
+          "pic": "https://i2.hdslb.com/bfs/archive/c80ecf574918eddef36eae86cc3d5a0836b25cd2.png",
+          "checked_at": "2026-11-05T07:23:13.021870+00:00"
         }
       ]
     },
@@ -17719,6 +19768,52 @@
       ]
     },
     {
+      "id": "TgFdics3uKo",
+      "title": "How Children Develop Perfect Pitch",
+      "author": "Rick Beato",
+      "source_url": "https://www.youtube.com/watch?v=TgFdics3uKo",
+      "summary": "Rick Beato discusses a theory of why some children develop perfect pitch, based on early exposure to music. He draws on his experience with his own children.",
+      "why": "Pointed to in threads on training absolute pitch in children as a practitioner's account.",
+      "score": 2.0,
+      "tags": [
+        "absolute pitch",
+        "ear training",
+        "music education",
+        "child development"
+      ],
+      "categories": [
+        "music-theory-production",
+        "neuroscience-brain",
+        "education-learning"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1iy4y187f2",
+          "page": 1,
+          "cid": 313747740,
+          "title": "【自翻熟肉】如何拥有绝对音感-01【搬运自Rick Beato】",
+          "up": "麋鹿的人参",
+          "duration": 871,
+          "kind": "sub_zh",
+          "views": 536,
+          "pic": "https://i1.hdslb.com/bfs/archive/96894ed9ccc304ea9e1fbee2b49a9ba256a6c95d.jpg",
+          "checked_at": "2026-11-05T08:09:34.065714+00:00"
+        },
+        {
+          "bvid": "BV1vh411D7ru",
+          "page": 1,
+          "cid": 319754765,
+          "title": "【教程】如何训练出世界上最好的耳朵！（二）抓住“关键窗口”期，错过了就是一生",
+          "up": "音乐制作AsTune",
+          "duration": 871,
+          "kind": "original",
+          "views": 9519,
+          "pic": "https://i1.hdslb.com/bfs/archive/a8d4d6dead34b4b0213950db199f1534f7f861ca.jpg",
+          "checked_at": "2026-11-05T08:09:33.543068+00:00"
+        }
+      ]
+    },
+    {
       "id": "b9_Vh9h3Ohw",
       "title": "Springboard: the secret history of the first real smartphone (Full Documentary)",
       "author": "The Verge",
@@ -17831,6 +19926,40 @@
           "views": 1285,
           "pic": "https://i1.hdslb.com/bfs/archive/8c9046061fa5424d373fa68cb4573d08c1f27faa.jpg",
           "checked_at": "2026-11-04T23:03:59.209815+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hhiLw5Q_UFg",
+      "title": "John Schulman - Reinforcement Learning from Human Feedback: Progress and Challenges",
+      "author": "UC Berkeley EECS",
+      "source_url": "https://www.youtube.com/watch?v=hhiLw5Q_UFg",
+      "summary": "UC Berkeley EECS colloquium by OpenAI's John Schulman on reinforcement learning from human feedback. He covers why RL helps with truthfulness, hallucination, and the limits of behavior cloning.",
+      "why": "Recommended in LLM threads as an authoritative explanation from a ChatGPT architect of why models hallucinate and why imitation is not enough.",
+      "score": 2.0,
+      "tags": [
+        "rlhf",
+        "chatgpt",
+        "hallucination",
+        "behavior cloning",
+        "openai"
+      ],
+      "categories": [
+        "machine-learning",
+        "llms-generative-ai"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Ao4y187GD",
+          "page": 1,
+          "cid": 1107223368,
+          "title": "John Schulman: Reinforcement Learning from Human Feedback:Progress and Challenge",
+          "up": "深度强化学习实验室",
+          "duration": 3812,
+          "kind": "original",
+          "views": 1535,
+          "pic": "https://i1.hdslb.com/bfs/archive/0b2cbc5219f8b486a861f72707c3fe3513f472ca.jpg",
+          "checked_at": "2026-11-05T07:32:57.806824+00:00"
         }
       ]
     },
@@ -19517,6 +21646,41 @@
       ]
     },
     {
+      "id": "tCRPUv8V22o",
+      "title": "Bytebeat: Music from very short programs - the 3rd iteration",
+      "author": "Ville-Matias Heikkilä (viznut)",
+      "source_url": "https://www.youtube.com/watch?v=tCRPUv8V22o",
+      "summary": "Viznut's third bytebeat video presents music generated by very short C programs and JavaScript expressions. It links to online tools and deeper analysis of one-line music.",
+      "why": "Linked in threads about algorithmic and demoscene music as the canonical introduction to bytebeat.",
+      "score": 1.0,
+      "tags": [
+        "bytebeat",
+        "demoscene",
+        "generative music",
+        "bit manipulation",
+        "viznut"
+      ],
+      "categories": [
+        "demoscene-retrocomputing",
+        "creative-coding-generative-art",
+        "music-theory-production"
+      ],
+      "versions": [
+        {
+          "bvid": "BV12z4y117aj",
+          "page": 1,
+          "cid": 309275594,
+          "title": "字节节拍：极简主义电音——单行C语言生成电音",
+          "up": "想太多的小马",
+          "duration": 435,
+          "kind": "original",
+          "views": 1820,
+          "pic": "https://i2.hdslb.com/bfs/archive/a5332c7fd1778d89596a8d5db6a72c055d00212d.jpg",
+          "checked_at": "2026-11-05T08:09:51.050531+00:00"
+        }
+      ]
+    },
+    {
       "id": "thnXzUFJnfQ",
       "title": "Amiga music: Captain - Space Debris",
       "author": "Kuokka77",
@@ -19580,6 +21744,41 @@
           "views": 6584,
           "pic": "https://i1.hdslb.com/bfs/archive/a42dbe3988d1d1c2424cd7b834d49fee1e0eb336.jpg",
           "checked_at": "2026-11-04T23:03:56.833359+00:00"
+        }
+      ]
+    },
+    {
+      "id": "vElZc6zSIXM",
+      "title": "CppCon 2016: Chandler Carruth “High Performance Code 201: Hybrid Data Structures\"",
+      "author": "CppCon",
+      "source_url": "https://www.youtube.com/watch?v=vElZc6zSIXM",
+      "summary": "Chandler Carruth's CppCon 2016 talk on designing hybrid data structures for performance. He covers cache locality, working-set size and allocation overhead, and why standard C++ containers fall short.",
+      "why": "Cited as the source for criticism of std::deque and move-constructor pitfalls, and as motivation to write custom data structures.",
+      "score": 1.0,
+      "tags": [
+        "chandler carruth",
+        "cppcon",
+        "performance",
+        "cache locality",
+        "stl"
+      ],
+      "categories": [
+        "software-performance",
+        "systems-programming-languages",
+        "algorithms-data-structures"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1NdHcznE6r",
+          "page": 1,
+          "cid": 32707709789,
+          "title": "CppCon 2016: Chandler Carruth “High Performance Code 201: Hybrid Data",
+          "up": "Iammyself001",
+          "duration": 3349,
+          "kind": "original",
+          "views": 4,
+          "pic": "https://i2.hdslb.com/bfs/archive/311089492aadd6942a45bdccb34d3b3e4e082162.jpg",
+          "checked_at": "2026-11-05T07:23:32.931949+00:00"
         }
       ]
     },
@@ -20523,6 +22722,7 @@
     "BV1zQ4y1d7eC": "yYAw79386WI",
     "BV1QZ4y1A73g": "yYAw79386WI",
     "BV1NH4y1S77m": "SCAGc-rkIfo",
+    "BV1J54y1A7PL": "SxdOUGdseq4",
     "BV1ss411x778": "rStL7niR7gs",
     "BV1xz421q78C": "vtIzMaLkCaM",
     "BV1oV411k7XY": "8aGhZQkoFbQ",
@@ -20547,6 +22747,7 @@
     "BV17nhYe4Esr": "jvPPXbo87ds",
     "BV1eW411v7zh": "kBdfcR-8hEY",
     "BV1Bq4y1i7Ro": "dBnniua6-oM",
+    "BV1YT411U7WT": "otbnC2zE2rw",
     "BV18p4y147Qw": "B1J2RMorJXM",
     "BV1uv411e7Kx": "D1R-jKKp3NA",
     "BV1kE3d6oE3z": "Fy0aCDmgnxg",
@@ -20585,6 +22786,7 @@
     "BV1r5411a7HY": "wSF82AwSDiU",
     "BV13z421U7cs": "wjZofJX0v4M",
     "BV1AJUKByEVs": "wjZofJX0v4M",
+    "BV11FhJeYEA3": "xguam0TKMw8",
     "BV1dAxX63Ezs": "ySuUZEjARPY",
     "BV1YU4y1V7k4": "ySuUZEjARPY",
     "BV1d5411N79p": "ySuUZEjARPY",
@@ -20621,6 +22823,7 @@
     "BV1wu411b76t": "O5BJVO3PDeQ",
     "BV1v54y1w71v": "ShEez0JkOFw",
     "BV1Mw4m1y7jY": "mPqWstVnRjQ",
+    "BV1Bz4y1u7nR": "u6XAPnuFjJc",
     "BV1tmxW6UEW2": "u6XAPnuFjJc",
     "BV11a4y1w7jU": "7rNY7xKyGCQ",
     "BV1zy4y1p7LG": "IlU-zDU6aQ0",
@@ -20628,6 +22831,7 @@
     "BV1N7411s7KW": "NVGuFdX5guE",
     "BV1GUYT68E4Q": "NVGuFdX5guE",
     "BV1Lim3B5ECC": "NVGuFdX5guE",
+    "BV1ykMb61EDY": "NVGuFdX5guE",
     "BV1cx41137kC": "SGJ5cZnoodY",
     "BV1Gi2vBBEyK": "h7apO7q16V0",
     "BV1EwnAz3EG4": "h7apO7q16V0",
@@ -20640,6 +22844,7 @@
     "BV1rZ4y1D7s6": "tX4H_ctggYo",
     "BV1f1HpziE18": "tX4H_ctggYo",
     "BV1Wm4y187kG": "BzhbAK1pdPM",
+    "BV1Ku411t7GL": "BzhbAK1pdPM",
     "BV1nk4y1273w": "IOiZatlZtGU",
     "BV13t411R7Fy": "QM1iUe6IofM",
     "BV1t94y1V7dS": "QM1iUe6IofM",
@@ -20684,11 +22889,13 @@
     "BV1V4411C7Ta": "h6fcK_fRYaI",
     "BV1um6HYQE3e": "h6fcK_fRYaI",
     "BV1XNKK6REkW": "h6fcK_fRYaI",
+    "BV12M411A7jq": "lKXe3HUG2l4",
     "BV1Hf4y1r7NT": "nm1TxQj9IsQ",
     "BV1Gu411479S": "nm1TxQj9IsQ",
     "BV12J411m731": "oIG9ztQw2Gc",
     "BV15E41167JT": "pW-SOdj4Kkk",
     "BV1MJ411J7jd": "pW-SOdj4Kkk",
+    "BV1gA411v7Do": "tIuj-oMN-Fk",
     "BV1o4411C7Xg": "tIuj-oMN-Fk",
     "BV1wF336AEFa": "tIuj-oMN-Fk",
     "BV1nW411v7jH": "vsMydMDi3rI",
@@ -20768,6 +22975,7 @@
     "BV13X4y1V7WP": "wrwgIjBUYVc",
     "BV1pRJq6fEJV": "wrwgIjBUYVc",
     "BV14p4y1h7mb": "wrwgIjBUYVc",
+    "BV1eP41197kY": "wupToqz1e2g",
     "BV1pt411o7Y3": "wxL4ElboiuA",
     "BV1AU421o7ob": "zjkBMFhNj_g",
     "BV1cx41187xL": "zwAD6dRSVyI",
@@ -20779,6 +22987,7 @@
     "BV1Rp4y1n7Q3": "3wfNl2L0Gf8",
     "BV1uh411z7Cb": "3wfNl2L0Gf8",
     "BV1DC4y1s7Vb": "3wfNl2L0Gf8",
+    "BV1U6tp6HEQq": "7jiPeIFXb6U",
     "BV1Hx411h7iW": "7vfqkvwW2fs",
     "BV1Kb411q7FK": "7vfqkvwW2fs",
     "BV1DL41117rr": "A8eCGOqgvH4",
@@ -20793,6 +23002,7 @@
     "BV11G411s7Qi": "JEpsBg0AO6o",
     "BV16c411S7KF": "JEpsBg0AO6o",
     "BV1CiQoYKEed": "JEpsBg0AO6o",
+    "BV1fmMbzHEoq": "JqNg819PiZY",
     "BV1nx411W7Ds": "MBRqu0YOH14",
     "BV1f1UUBdEFS": "PFDu9oVAE-g",
     "BV11H9EBbEk9": "RNFesa01llk",
@@ -20844,6 +23054,7 @@
     "BV1Uw4m1y71q": "Y9FZ4igNxNA",
     "BV1o38Fe8E13": "agOdP2Bmieg",
     "BV1SW411y7W1": "d4EgbgTm0Bg",
+    "BV1HHUSBwEGZ": "d4EgbgTm0Bg",
     "BV1ZA32e2EDu": "fXW-QjBsruE",
     "BV18Mm3BYEpt": "fXW-QjBsruE",
     "BV1Nf4y1w7Y1": "fXW-QjBsruE",
@@ -20903,6 +23114,7 @@
     "BV1jD421V7sy": "KTzGBJPuJwM",
     "BV1JgUDBbEM8": "KTzGBJPuJwM",
     "BV1knUBBAEVE": "SrU9YDoXE88",
+    "BV1Ly4y1r7Ue": "XRr1kaXKBsU",
     "BV1zc411D7kB": "_yMMTVVJI4c",
     "BV1AJ411g75J": "arj7oStGLkU",
     "BV1PL411F7iw": "bRCNenhcvpw",
@@ -20969,6 +23181,7 @@
     "BV1TZ421j7Ke": "eMlx5fFNoYc",
     "BV1iJ4m1E7iu": "eOti3kKWX-c",
     "BV1AJ41177pv": "hEx5DNLWGgA",
+    "BV1Ss4y1h7GL": "hEx5DNLWGgA",
     "BV1ju411r7hv": "j1I63wGcvU4",
     "BV1Hu4y1g7TT": "krfcq5pF8u8",
     "BV1us411R7dn": "oVfHeWTKjag",
@@ -21022,31 +23235,80 @@
     "BV12g411c7tU": "S27pHKBEp30",
     "BV1k5411J7bM": "TTFoJQSd48c",
     "BV1fR4y1t7zA": "TTFoJQSd48c",
+    "BV1WQ4y1N7Dh": "VO6XEQIsCoM",
     "BV1ex411V7gL": "Vjm8P8utT5g",
     "BV1WK411N7kz": "X8jsijhllIA",
     "BV1dh411a7UP": "YSLV7t9DvN8",
     "BV1jb41197m5": "YbZ3zDzDnrw",
     "BV1it411t7E7": "YbZ3zDzDnrw",
     "BV1qh411p7aH": "YbZ3zDzDnrw",
+    "BV1Kv411q7J7": "ZKC3hiyLeRc",
+    "BV1Ti4y197qv": "Ztc6QPNUqls",
+    "BV1xs411Z786": "_P9HqHVPeik",
     "BV1MSB7B4EGD": "_bDXXWQxK38",
+    "BV1a64y1k7oi": "bx3KuE7UjGA",
+    "BV1CNE46bEwZ": "cUzklzVXJwo",
+    "BV14r4y1E7ay": "cUzklzVXJwo",
+    "BV1Du411Z7oX": "cj02_UeUnGQ",
+    "BV1JE411X7NE": "dpw9EHDh2bM",
+    "BV18u411B75s": "gV5obrYaogU",
+    "BV1Pju1zkEoi": "hC3VTgIPoGU",
+    "BV12D4y197aA": "kfg_e6YG37U",
+    "BV1Dv411H7hz": "klTjiXjqHrQ",
+    "BV1Fz4y1R7EG": "kmFOBoy2MZ8",
+    "BV1Q86fYZE5Q": "krB0enBeSiE",
+    "BV1Ei4y1F72M": "lG4VkPoG3ko",
+    "BV1MS4y127tx": "modXC5IWTJI",
+    "BV1Th411a7Hw": "oHeehYYgl28",
     "BV1EN411o7FY": "oV9rvDllKEg",
     "BV1kr4y1m7o8": "oV9rvDllKEg",
     "BV1v4E9zuEFJ": "pN34FNbOKXc",
+    "BV1yt411c74p": "skos4B5x7qE",
+    "BV1mJ411F7gM": "uHQ4WCU1WQc",
     "BV1G4411D7kZ": "v0YEaeIClKY",
+    "BV1MF411t7CC": "xMP_AfiNlX4",
+    "BV1Yb41177P5": "xixM_cwSLcQ",
+    "BV1E84y1H7XN": "zi0rHwfiX1Q",
+    "BV1oZFGeQEPt": "zyVTxGpEO30",
+    "BV12wNPedEBQ": "zyVTxGpEO30",
+    "BV1PAkLBRE3B": "-Ln-8QM8KhQ",
+    "BV1PAkLBdEBC": "-Ln-8QM8KhQ",
+    "BV12T421S7o7": "7OpM_zKGE4o",
+    "BV1wy4y1b7Ae": "816VLQNdPMM",
+    "BV1MW411x7dJ": "BEG-ly9tQGk",
+    "BV1p8No6mEoF": "DXvAlwMAxiA",
+    "BV1zHm8BiE4r": "G-WO-z-QuWI",
+    "BV19V411W7bG": "G-WO-z-QuWI",
+    "BV1xy4y1K7NC": "G-WO-z-QuWI",
+    "BV1kZxy6aEwj": "G-WO-z-QuWI",
+    "BV1p6F9eLEaE": "HPqGaIMVuLs",
+    "BV1uX4y1674D": "IUDTlvagjJA",
     "BV18itveVE3L": "Ilg3gGewQ5U",
+    "BV1cm4y1d7am": "JrMiSQAGOS4",
+    "BV1VgeB6SEXM": "K_q-xnYRugQ",
+    "BV1XgeB6UEco": "K_q-xnYRugQ",
     "BV1by411h7bw": "MFzDaBzBlL0",
     "BV1uJtW6REBN": "MjdpR-TY6QU",
     "BV1h5oTBLEYV": "Mw9qiV7XlFs",
     "BV1yc4G65Enq": "NKlbE2eROC0",
+    "BV1bE42157ER": "NXN7TOg3kj4",
     "BV1kx411q7kK": "NaL_Cb42WyY",
+    "BV14x411G7wx": "Oo0jm1PPRuo",
+    "BV1Bx411q7Wx": "Oo0jm1PPRuo",
     "BV1RBffBqE5n": "Qi1Yry33TQE",
+    "BV1zqHEzxEss": "RTB5XhjbgZA",
+    "BV1WF411r7YJ": "RxD6H3ri8RI",
+    "BV1t54y1X7KM": "VO_1AdYRGW8",
     "BV1it411p7v6": "ZCuYPiUIONs",
+    "BV1NW411q7bQ": "_160oMzblY8",
     "BV1qs41117bv": "fCn8zs912OE",
     "BV1hW411h7Xf": "fwjwePe-HmA",
     "BV1Y54y127Zu": "jMmUoZh3Hq4",
     "BV1Wy4y1B7ZY": "mOtKD7ml0NU",
     "BV1ufxyeaEBE": "-cEn_83zRFw",
+    "BV11D4y1F7YC": "4-SGpEInX_c",
     "BV1Pfn7zbEV1": "4zgYG-_ha28",
+    "BV13Z4y1Z7GX": "6ZYLp5uX9Yw",
     "BV1peSuBRE9Q": "EmKQsSDlaa4",
     "BV16pnPz1EwY": "Hd_ptbiPoXM",
     "BV1Bg411d7Ce": "Hd_ptbiPoXM",
@@ -21067,10 +23329,12 @@
     "BV1Ds411p79N": "nAbCKa0FzjQ",
     "BV1T5411X7sK": "oI_X2cMHNe0",
     "BV1w4411R7Tk": "rrkrvAUbU9Y",
+    "BV1T5Tk6JEiy": "sPFmKu2S5XY",
     "BV1Ks411A73g": "uZgbKrDEzAs",
     "BV1yg4y1p7mc": "yvDCzhbjYWs",
     "BV1Ex411V7ps": "4AfRAVcThyA",
     "BV1Js4y1h74d": "4YYvBLAF4T8",
+    "BV1MA4y1X7iA": "7nJgHBbEgsE",
     "BV1bctw6tEiH": "7nJgHBbEgsE",
     "BV1XD4y1v7EL": "AKGrmY8OSHM",
     "BV1FG411R7RZ": "AKGrmY8OSHM",
@@ -21094,6 +23358,8 @@
     "BV1c8411Y765": "lXfEK8G8CUI",
     "BV1ut421572e": "qbKGw8MQ0i8",
     "BV1kweLe4EW3": "vHWiDx_l4V0",
+    "BV1UV4y157Eu": "wcBEOcPtlYk",
+    "BV1MG4C6MEdw": "wcBEOcPtlYk",
     "BV1Kp4y1s7nK": "xodtfM1r9FA",
     "BV1e44y1q7Uo": "yCsgoLc_fzI",
     "BV1TMXQBWE2x": "1sd26pWhfmg",
@@ -21105,7 +23371,10 @@
     "BV1Q5KpeWEdt": "P_fHJIYENdI",
     "BV1Rs411Y7EH": "R37zkizucPU",
     "BV11q4y1U7K8": "SGUCcjHTmGY",
+    "BV1uh2LB3E3U": "hCQCP-5g5bo",
+    "BV16qNf6SEfE": "sTu3LwpF6XI",
     "BV1b4411q743": "udlMSe5-zP8",
+    "BV1QmNX6UEZE": "y5UT04p5f7U",
     "BV1eyAReGEGy": "160F8F8mXlo",
     "BV1eY6kYQEJH": "1YbcB6b4A2U",
     "BV1ixtNeBEB3": "5eqRuVp65eY",
@@ -21115,10 +23384,13 @@
     "BV18C41157za": "LKiBlGDfRU8",
     "BV1Bm411B7Mp": "OTVE5iPMKLg",
     "BV1L44y1W74L": "QjJaFG63Hlo",
+    "BV1iy4y187f2": "TgFdics3uKo",
+    "BV1vh411D7ru": "TgFdics3uKo",
     "BV1LL4y1n7e3": "b9_Vh9h3Ohw",
     "BV18osBe1E8G": "dX9CGRZwD-w",
     "BV1CgMWzGEYM": "dX9CGRZwD-w",
     "BV179TC6rEA3": "fCbAafKLqC8",
+    "BV1Ao4y187GD": "hhiLw5Q_UFg",
     "BV1KW4y1e7YS": "iSmkqocn0oQ",
     "BV1z24y1T7G3": "jfOUVYQnuhw",
     "BV1SByTB1Em6": "jfOUVYQnuhw",
@@ -21171,8 +23443,10 @@
     "BV1TN4y1H7bY": "nzCaZQqAs9I",
     "BV1ZMffYUEPP": "o0Bi-q89j5Y",
     "BV1csdzYxEAN": "sCr_gb8rdEI",
+    "BV12z4y117aj": "tCRPUv8V22o",
     "BV14Y41147Au": "thnXzUFJnfQ",
     "BV197411Y7GS": "uQHFQoFoxvQ",
+    "BV1NdHcznE6r": "vElZc6zSIXM",
     "BV1oA411K7jt": "y57wwucbXR8",
     "BV1L5411W7MB": "z-q8ehzHeQQ",
     "BV14HGV6UEzZ": "zqmOSMAtadc",

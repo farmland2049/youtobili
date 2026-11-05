@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-11-05T08:29:28.638Z",
+  "checks": [
+    {
+      "sample": "VO6XEQIsCoM",
+      "kind": "original",
+      "id": "VO6XEQIsCoM",
+      "bvid": "BV1WQ4y1N7Dh",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.933344,
+        "duration": 1178,
+        "paused": false
+      },
+      "expected_duration": 1178,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "188910321"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "TED：选择的悖论The paradox of choice，by Barry Schwartz【中/英字幕可选】\n大明爱吃冰激凌\n关注\n209\n13\n分享\n更多\n00:04 / 19:38\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "xguam0TKMw8",
+      "kind": "original",
+      "id": "xguam0TKMw8",
+      "bvid": "BV11FhJeYEA3",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.93504,
+        "duration": 2623,
+        "paused": false
+      },
+      "expected_duration": 2623,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "500001601181763"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Principles for Dealing with the Changing World Order by Ray Dalio\n每天一本好书\n关注\n5\n0\n分享\n更多\n00:04 / 43:43\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "JqNg819PiZY",
+      "kind": "sub_zh",
+      "id": "JqNg819PiZY",
+      "bvid": "BV1fmMbzHEoq",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.946025,
+        "duration": 4508,
+        "paused": false
+      },
+      "expected_duration": 4508,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "30958424052"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "斯坦福大学《希格斯玻色子揭秘|Demystifying the Higgs Boson》中英字幕（claude-3.7-s\nGPT中英字幕课程资源\n关注\n94\n2\n分享\n更多\n0:00:04 / 1:15:08\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

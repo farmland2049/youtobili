@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-05T07:01:21.878609+00:00",
+  "checked_at": "2026-11-05T08:27:55.997013+00:00",
   "reviews": [
     {
       "id": "NNnIGh9g6fA",
@@ -310,6 +310,366 @@
       "evidence": "Codex来源链复核：BV简介引用CCC官方34c3-9064演讲页；官方事件元数据列出Michael Steil与Christian Hessmann、34C3及3701秒。讲者的2018年公开录像文章https://www.pagetable.com/157明确标注为34C3录像，正文唯一iframe嵌入https://www.youtube-nocookie.com/embed/xx7Lfh5SKUQ，绑定本库原片ID。同一演讲公告为https://www.pagetable.com/156。BV单P及原片均3702秒、CID32845399947。当前元数据无年份、集次、明显删减标记或跨原片分P归属冲突。此为来源链与元数据核对，未逐帧比较；Revalidated current cached availability, CID, source hashes, duration, flags and segment ownership before approval.",
       "reviewed_at": "2026-11-05T07:01:21.878600+00:00",
       "evidence_type": "creator source chain and segment metadata"
+    },
+    {
+      "bvid": "BV1us411o79Y",
+      "page": 1,
+      "cid": 5386987,
+      "duration_s": 309,
+      "original_duration_s": 275,
+      "decision": "unmatched",
+      "reviewer": "Codex",
+      "evidence": "Codex否定对应关系复核：目标原片为How To Be Alone（k7X7sZzSXYs），但BV标题为【TED】For these women, reading is a daring act           ---L，其简介和官方TED来源页面https://www.ted.com/talks/laura_boushnak_for_these_women_reading_is_a_daring_act共同指向另一作品。官网主播放器明确绑定YouTube ID tJ8sXl_HrjM，与目标ID不同；上传者标注的作品或讲者与目标原片身份亦不符，不是仅凭时长或单一链接否定。只否定这条对应关系，不将可用视频判为失效。CID5386987。未做逐帧比较；应用前重核CID、单P可用性和来源哈希。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review.",
+      "frame_by_frame_comparison": false,
+      "source_snapshot": {
+        "source": "https://www.ted.com/talks/laura_boushnak_for_these_women_reading_is_a_daring_act",
+        "snapshot": "laura_boushnak_for_these_women_reading_is_a_daring_act-0abd76a.html",
+        "source_sha256": "024d87c86e124ab6ce53d502d1e5f3e76240737ff84e2e0ac96782bc41efdd90",
+        "checked_at": "2026-11-05T07:08:22.828287+00:00",
+        "external": {
+          "__typename": "VideoPlayerExternal",
+          "service": "YouTube",
+          "code": "tJ8sXl_HrjM",
+          "duration": 310,
+          "startTime": 0
+        },
+        "title": "For these women, reading is a daring act"
+      },
+      "candidate_title": "【TED】For these women, reading is a daring act           ---L",
+      "original_title": "How To Be Alone",
+      "id": "k7X7sZzSXYs",
+      "reviewed_at": "2026-11-05T08:27:51.092044+00:00",
+      "evidence_type": "explicit different-work identity"
+    },
+    {
+      "bvid": "BV1Dt41117jW",
+      "page": 1,
+      "cid": 63816561,
+      "duration_s": 890,
+      "original_duration_s": 883,
+      "decision": "unmatched",
+      "reviewer": "Codex",
+      "evidence": "Codex否定对应关系复核：目标原片为How I overcame alcoholism | Claudia Christian | TEDxLondonBusinessSchool（6EghiY_s2ts），但BV标题为【TED TALK】为什么女性领导人太少-Fecebook首席运营官雪莉·桑德伯格（Sheryl Sandberg），其简介和官方TED来源页面https://www.ted.com/talks/sheryl_sandberg_why_we_have_too_few_women_leaders共同指向另一作品。官网主播放器明确绑定YouTube ID 18uDutylDa4，与目标ID不同；上传者标注的作品或讲者与目标原片身份亦不符，不是仅凭时长或单一链接否定。只否定这条对应关系，不将可用视频判为失效。CID63816561。未做逐帧比较；应用前重核CID、单P可用性和来源哈希。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review.",
+      "frame_by_frame_comparison": false,
+      "source_snapshot": {
+        "source": "https://www.ted.com/talks/sheryl_sandberg_why_we_have_too_few_women_leaders",
+        "snapshot": "sheryl_sandberg_why_we_have_too_few_women_leaders-0abd76a.html",
+        "source_sha256": "19f14e85843c7bd05a7467a8e8e2ed9aa81c031cb734b422574636101792c63c",
+        "checked_at": "2026-11-05T07:08:26.934664+00:00",
+        "external": {
+          "__typename": "VideoPlayerExternal",
+          "service": "YouTube",
+          "code": "18uDutylDa4",
+          "duration": 929,
+          "startTime": 0
+        },
+        "title": "Why we have too few women leaders"
+      },
+      "candidate_title": "【TED TALK】为什么女性领导人太少-Fecebook首席运营官雪莉·桑德伯格（Sheryl Sandberg）",
+      "original_title": "How I overcame alcoholism | Claudia Christian | TEDxLondonBusinessSchool",
+      "id": "6EghiY_s2ts",
+      "reviewed_at": "2026-11-05T08:27:51.510478+00:00",
+      "evidence_type": "explicit different-work identity"
+    },
+    {
+      "bvid": "BV1Dg4y1B7w1",
+      "page": 1,
+      "cid": 195888465,
+      "duration_s": 920,
+      "original_duration_s": 883,
+      "decision": "unmatched",
+      "reviewer": "Codex",
+      "evidence": "Codex否定对应关系复核：目标原片为How I overcame alcoholism | Claudia Christian | TEDxLondonBusinessSchool（6EghiY_s2ts），但BV标题为【TED】心理学家Anne Marie Albano: 如何培养能够克服焦虑的孩子，其简介和官方TED来源页面https://www.ted.com/talks/anne_marie_albano_how_to_raise_kids_who_can_overcome_anxiety共同指向另一作品。官网主播放器明确绑定YouTube ID bQlO0kx_j4o，与目标ID不同；上传者标注的作品或讲者与目标原片身份亦不符，不是仅凭时长或单一链接否定。只否定这条对应关系，不将可用视频判为失效。CID195888465。未做逐帧比较；应用前重核CID、单P可用性和来源哈希。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review.",
+      "frame_by_frame_comparison": false,
+      "source_snapshot": {
+        "source": "https://www.ted.com/talks/anne_marie_albano_how_to_raise_kids_who_can_overcome_anxiety",
+        "snapshot": "anne_marie_albano_how_to_raise_kids_who_can_overcome_anxiety-0abd76a.html",
+        "source_sha256": "97dbca09081294b12934c2561571891e3717ba43a799f79f38b68e2e05f27c9a",
+        "checked_at": "2026-11-05T07:08:31.737481+00:00",
+        "external": {
+          "__typename": "VideoPlayerExternal",
+          "service": "YouTube",
+          "code": "bQlO0kx_j4o",
+          "duration": 0,
+          "startTime": 0
+        },
+        "title": "How to raise kids who can overcome anxiety"
+      },
+      "candidate_title": "【TED】心理学家Anne Marie Albano: 如何培养能够克服焦虑的孩子",
+      "original_title": "How I overcame alcoholism | Claudia Christian | TEDxLondonBusinessSchool",
+      "id": "6EghiY_s2ts",
+      "reviewed_at": "2026-11-05T08:27:51.958833+00:00",
+      "evidence_type": "explicit different-work identity"
+    },
+    {
+      "bvid": "BV1WQ4y1N7Dh",
+      "page": 1,
+      "cid": 188910321,
+      "duration_s": 1178,
+      "original_duration_s": 1223,
+      "decision": "confirmed",
+      "reviewer": "Codex",
+      "evidence": "Codex来源链复核：BV标题、简介和分P标明Barry Schwartz的The paradox of choice，简介引用https://www.ted.com/talks/barry_schwartz_the_paradox_of_choice；TED官方页面主播放器JSON直接绑定YouTube原片VO6XEQIsCoM、时长1223秒。BV单P1178秒，原片1223秒，CID188910321，差45秒，在约定检查线内。此为来源链和元数据复核，未做逐帧比较；应用前重新核对缓存可用性、CID、时长、冲突标记和分P归属。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review.",
+      "frame_by_frame_comparison": false,
+      "source_snapshot": {
+        "source": "https://www.ted.com/talks/barry_schwartz_the_paradox_of_choice",
+        "snapshot": "barry_schwartz_the_paradox_of_choice-0abd76a.html",
+        "source_sha256": "4a00953e685947d0e8de52bee88d4ac66a627f9232fe3554027936f074736664",
+        "checked_at": "2026-11-05T07:08:36.117258+00:00",
+        "external": {
+          "__typename": "VideoPlayerExternal",
+          "service": "YouTube",
+          "code": "VO6XEQIsCoM",
+          "duration": 1223,
+          "startTime": 0
+        },
+        "title": "The paradox of choice"
+      },
+      "candidate_title": "TED：选择的悖论The paradox of choice，by Barry Schwartz【中/英字幕可选】",
+      "original_title": "The paradox of choice | Barry Schwartz | TED",
+      "id": "VO6XEQIsCoM",
+      "reviewed_at": "2026-11-05T08:27:52.425381+00:00",
+      "evidence_type": "official source chain"
+    },
+    {
+      "bvid": "BV1rsx56kEkN",
+      "page": 1,
+      "cid": 43114368706,
+      "duration_s": 1252,
+      "original_duration_s": 1223,
+      "decision": "unmatched",
+      "reviewer": "Codex",
+      "evidence": "Codex否定对应关系复核：目标原片为The paradox of choice | Barry Schwartz | TED（VO6XEQIsCoM），但BV标题为TED | The surprising science of happiness（Dan Gilbert），其简介和官方TED来源页面https://www.ted.com/talks/dan_gilbert_the_surprising_science_of_happiness共同指向另一作品。官网主播放器明确绑定YouTube ID LTO_dZUvbJA，与目标ID不同；上传者标注的作品或讲者与目标原片身份亦不符，不是仅凭时长或单一链接否定。只否定这条对应关系，不将可用视频判为失效。CID43114368706。未做逐帧比较；应用前重核CID、单P可用性和来源哈希。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review.",
+      "frame_by_frame_comparison": false,
+      "source_snapshot": {
+        "source": "https://www.ted.com/talks/dan_gilbert_the_surprising_science_of_happiness",
+        "snapshot": "dan_gilbert_the_surprising_science_of_happiness-0abd76a.html",
+        "source_sha256": "ab849fb2de11097e8130b1f25fc8974a74e1923e8d05ef2b7a82e7553fb0128f",
+        "checked_at": "2026-11-05T07:08:39.876122+00:00",
+        "external": {
+          "__typename": "VideoPlayerExternal",
+          "service": "YouTube",
+          "code": "LTO_dZUvbJA",
+          "duration": 1323,
+          "startTime": 0
+        },
+        "title": "The surprising science of happiness"
+      },
+      "candidate_title": "TED | The surprising science of happiness（Dan Gilbert）",
+      "original_title": "The paradox of choice | Barry Schwartz | TED",
+      "id": "VO6XEQIsCoM",
+      "reviewed_at": "2026-11-05T08:27:52.848456+00:00",
+      "evidence_type": "explicit different-work identity"
+    },
+    {
+      "bvid": "BV11FhJeYEA3",
+      "page": 1,
+      "cid": 500001601181763,
+      "duration_s": 2623,
+      "original_duration_s": 2623,
+      "decision": "confirmed",
+      "reviewer": "Codex",
+      "evidence": "Codex来源链复核：BV标题、简介及单P共同标注Ray Dalio的同一作品。简介来源https://www.economicprinciples.org/的对应内容页https://www.economicprinciples.org/the-changing-world-order只有一个视频iframe，其地址明确包含YouTube原片ID xguam0TKMw8，不是访谈或相关推荐链接。BV与原片均2623秒、CID500001601181763；当前缓存可用，单P，无年份、集次、删减及分P归属冲突。此为官方来源链与元数据核对，未做逐帧比较；批次结束后应用前须重新核对CID、可用性、时长、来源哈希和冲突。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review.",
+      "frame_by_frame_comparison": false,
+      "source_snapshot": {
+        "source": "https://www.economicprinciples.org/the-changing-world-order",
+        "snapshot": "primary-child-source-0abd76a-0.html",
+        "source_sha256": "fab0594d95b5ab015759cedc11220fb3791762b9d8e0fd2995b7bcfbd56dee58",
+        "youtube_links": [
+          "https://www.youtube.com/c/principlesbyraydalio",
+          "https://www.youtube-nocookie.com/embed/xguam0TKMw8",
+          "https://www.youtube.com/c/principlesbyraydalio",
+          "https://www.youtube.com/watch?v=8MtNRO1DIQs&list=PLykIL_1_MFWkYsR0EyZHU_3zlUK8ZNoYH&index=2",
+          "https://www.youtube.com/watch?v=cPcZvIHXoSQ&list=PLykIL_1_MFWkYsR0EyZHU_3zlUK8ZNoYH&index=3",
+          "https://youtu.be/NhXnRK7mIVw",
+          "https://www.youtube.com/watch?v=TISMidxdZoc",
+          "https://youtu.be/JjU73wPSoK8",
+          "https://www.youtube.com/c/principlesbyraydalio"
+        ],
+        "checked_at": "2026-11-05T07:15:40.248862+00:00",
+        "main_iframe": "https://www.youtube-nocookie.com/embed/xguam0TKMw8"
+      },
+      "parent_snapshot": {
+        "source": "https://www.economicprinciples.org/",
+        "snapshot": "primary-source-0abd76a-0.html",
+        "source_sha256": "0b8ade49d3d46b1228eb8a64c18dbecaf69f92f5919875fb82ae71bd3567dbe0",
+        "youtube_ids": [],
+        "checked_at": "2026-11-05T07:14:26.265741+00:00"
+      },
+      "sources": [
+        "https://www.economicprinciples.org/",
+        "https://www.economicprinciples.org/the-changing-world-order"
+      ],
+      "candidate_title": "Principles for Dealing with the Changing World Order by Ray Dalio",
+      "id": "xguam0TKMw8",
+      "reviewed_at": "2026-11-05T08:27:53.310697+00:00",
+      "evidence_type": "official source chain"
+    },
+    {
+      "bvid": "BV1fmMbzHEoq",
+      "page": 1,
+      "cid": 30958424052,
+      "duration_s": 4508,
+      "original_duration_s": 4508,
+      "decision": "confirmed",
+      "reviewer": "Codex",
+      "evidence": "Codex来源链复核：BV标题、简介及单P共同标注Leonard Susskind的同一作品。简介来源https://theoreticalminimum.com/courses/higgs-boson/2012/summer的对应内容页https://theoreticalminimum.com/courses/higgs-boson/2012/summer/lecture-1只有一个视频iframe，其地址明确包含YouTube原片ID JqNg819PiZY，不是访谈或相关推荐链接。BV与原片均4508秒、CID30958424052；当前缓存可用，单P，无年份、集次、删减及分P归属冲突。此为官方来源链与元数据核对，未做逐帧比较；批次结束后应用前须重新核对CID、可用性、时长、来源哈希和冲突。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review.",
+      "frame_by_frame_comparison": false,
+      "source_snapshot": {
+        "source": "https://theoreticalminimum.com/courses/higgs-boson/2012/summer/lecture-1",
+        "snapshot": "primary-child-source-0abd76a-1.html",
+        "source_sha256": "bf7d5653633360ec740bce5d735e7c0515fcf2941ee3a5a354dd6b02b8061c1e",
+        "youtube_links": [
+          "https://www.youtube.com/embed/JqNg819PiZY?wmode=opaque&controls=&modestbranding=1&showinfo=0"
+        ],
+        "checked_at": "2026-11-05T07:15:45.347301+00:00",
+        "main_iframe": "https://www.youtube.com/embed/JqNg819PiZY?wmode=opaque&controls=&modestbranding=1&showinfo=0"
+      },
+      "parent_snapshot": {
+        "source": "https://theoreticalminimum.com/courses/higgs-boson/2012/summer",
+        "snapshot": "primary-source-0abd76a-1.html",
+        "source_sha256": "b4ef6adf0912f8fcf1e2c764bb198e01aac194676f02881013fdfe86112c5360",
+        "youtube_ids": [],
+        "checked_at": "2026-11-05T07:14:30.315816+00:00"
+      },
+      "sources": [
+        "https://theoreticalminimum.com/courses/higgs-boson/2012/summer",
+        "https://theoreticalminimum.com/courses/higgs-boson/2012/summer/lecture-1"
+      ],
+      "candidate_title": "斯坦福大学《希格斯玻色子揭秘|Demystifying the Higgs Boson》中英字幕（claude-3.7-s",
+      "id": "JqNg819PiZY",
+      "reviewed_at": "2026-11-05T08:27:53.733990+00:00",
+      "evidence_type": "official source chain"
+    },
+    {
+      "bvid": "BV1J54y1A7PL",
+      "page": 1,
+      "cid": 1018554038,
+      "duration_s": 3699,
+      "original_duration_s": 3699,
+      "decision": "confirmed",
+      "reviewer": "Codex",
+      "evidence": "Codex显式原片ID复核：简介全文仅包含原片ID SxdOUGdseq4，与原库目标ID逐字符一致。此依据来自B站当前缓存的完整详情，不依靠相似标题或时长推断。标题及单P内容标识与目标作品\"Simple Made Easy\" - Rich Hickey (2011)相符；BV与原片均3699秒、CID1018554038，当前没有年份、集次、删减或分P归属冲突。未访问下载站，也未下载或搬运视频，未进行逐帧比较。批次结束后应用前须重核CID、可用性、简介原文及来源快照哈希。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review.",
+      "frame_by_frame_comparison": false,
+      "candidate_title": "\"Simple Made Easy\" - Rich Hickey (2011)",
+      "original_title": "\"Simple Made Easy\" - Rich Hickey (2011)",
+      "source_snapshot": {
+        "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1J54y1A7PL",
+        "snapshot": "http/7a62a309a11176bb3c95e513680795fc96434bd068085d73fae40cbbac749005.json",
+        "source_sha256": "e9756206ffe414353554b66685e5da68a384337e3182814730ecba02689709e7",
+        "identity_type": "sole-original-id",
+        "description": "SxdOUGdseq4"
+      },
+      "sources": [
+        "https://www.bilibili.com/video/BV1J54y1A7PL"
+      ],
+      "id": "SxdOUGdseq4",
+      "reviewed_at": "2026-11-05T08:27:54.217946+00:00",
+      "evidence_type": "explicit original ID in complete description"
+    },
+    {
+      "bvid": "BV1YT411U7WT",
+      "page": 1,
+      "cid": 1018121784,
+      "duration_s": 3937,
+      "original_duration_s": 3937,
+      "decision": "confirmed",
+      "reviewer": "Codex",
+      "evidence": "Codex显式原片ID复核：简介全文仅包含原片ID otbnC2zE2rw，与原库目标ID逐字符一致。此依据来自B站当前缓存的完整详情，不依靠相似标题或时长推断。标题及单P内容标识与目标作品Designing the Ideal Bootstrapped Business with Jason Cohen相符；BV与原片均3937秒、CID1018121784，当前没有年份、集次、删减或分P归属冲突。未访问下载站，也未下载或搬运视频，未进行逐帧比较。批次结束后应用前须重核CID、可用性、简介原文及来源快照哈希。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review.",
+      "frame_by_frame_comparison": false,
+      "candidate_title": "Designing the Ideal Bootstrapped Business with Jason Cohen",
+      "original_title": "Designing the Ideal Bootstrapped Business with Jason Cohen",
+      "source_snapshot": {
+        "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1YT411U7WT",
+        "snapshot": "http/33f30d4a5763280041e57561ff929a54ccaa576c64713d403f6d6d0f6075cc36.json",
+        "source_sha256": "1bf7cb67f0daff58338f5af4cf5712d397fec30791f2f5b3228b3249d63f23b0",
+        "identity_type": "sole-original-id",
+        "description": "otbnC2zE2rw"
+      },
+      "sources": [
+        "https://www.bilibili.com/video/BV1YT411U7WT"
+      ],
+      "id": "otbnC2zE2rw",
+      "reviewed_at": "2026-11-05T08:27:54.649499+00:00",
+      "evidence_type": "explicit original ID in complete description"
+    },
+    {
+      "bvid": "BV12M411A7jq",
+      "page": 1,
+      "cid": 1017333874,
+      "duration_s": 2750,
+      "original_duration_s": 2750,
+      "decision": "confirmed",
+      "reviewer": "Codex",
+      "evidence": "Codex显式原片ID复核：简介全文仅包含原片ID lKXe3HUG2l4，与原库目标ID逐字符一致。此依据来自B站当前缓存的完整详情，不依靠相似标题或时长推断。标题及单P内容标识与目标作品\"The Mess We're In\" by Joe Armstrong相符；BV与原片均2750秒、CID1017333874，当前没有年份、集次、删减或分P归属冲突。未访问下载站，也未下载或搬运视频，未进行逐帧比较。批次结束后应用前须重核CID、可用性、简介原文及来源快照哈希。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review.",
+      "frame_by_frame_comparison": false,
+      "candidate_title": "\"The Mess We're In\" by Joe Armstrong",
+      "original_title": "\"The Mess We're In\" by Joe Armstrong",
+      "source_snapshot": {
+        "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV12M411A7jq",
+        "snapshot": "http/d844423fbf84e1e3e19b88d6e700a8cd2c7b88efaeae03f6c8203e2885a1ee81.json",
+        "source_sha256": "809084698962a59818e82bfd2507a65967083c215be0ca62087299fa13051f2e",
+        "identity_type": "sole-original-id",
+        "description": "lKXe3HUG2l4"
+      },
+      "sources": [
+        "https://www.bilibili.com/video/BV12M411A7jq"
+      ],
+      "id": "lKXe3HUG2l4",
+      "reviewed_at": "2026-11-05T08:27:55.113164+00:00",
+      "evidence_type": "explicit original ID in complete description"
+    },
+    {
+      "bvid": "BV1eP41197kY",
+      "page": 1,
+      "cid": 1137592753,
+      "duration_s": 211,
+      "original_duration_s": 211,
+      "decision": "confirmed",
+      "reviewer": "Codex",
+      "evidence": "Codex显式原片ID复核：简介仅包含youtube/原片ID格式的链接 https://www.y2mate.com/youtube/wupToqz1e2g，与原库目标ID逐字符一致。此依据来自B站当前缓存的完整详情，不依靠相似标题或时长推断。标题及单P内容标识与目标作品Carl Sagan - Pale Blue Dot相符；BV与原片均211秒、CID1137592753，当前没有年份、集次、删减或分P归属冲突。未访问下载站，也未下载或搬运视频，未进行逐帧比较。批次结束后应用前须重核CID、可用性、简介原文及来源快照哈希。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review.",
+      "frame_by_frame_comparison": false,
+      "candidate_title": "卡尔萨根-暗淡蓝点Carl Sagan  Pale Blue Dot",
+      "original_title": "Carl Sagan - Pale Blue Dot",
+      "source_snapshot": {
+        "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1eP41197kY",
+        "snapshot": "http/0712fa4efe2c3127adf68c3b14206bbe375539470a0e2bef86f99dd9d41761b7.json",
+        "source_sha256": "c797b8d3ebce15689db2f40104f582a12e01c0778b761c6edb5bc702d86976b9",
+        "identity_type": "youtube-id-path",
+        "description": "https://www.y2mate.com/youtube/wupToqz1e2g"
+      },
+      "sources": [
+        "https://www.bilibili.com/video/BV1eP41197kY"
+      ],
+      "id": "wupToqz1e2g",
+      "reviewed_at": "2026-11-05T08:27:55.537741+00:00",
+      "evidence_type": "explicit original ID in complete description"
+    },
+    {
+      "bvid": "BV1U6tp6HEQq",
+      "page": 1,
+      "cid": 41440053627,
+      "duration_s": 3373,
+      "original_duration_s": 3373,
+      "decision": "confirmed",
+      "reviewer": "Codex",
+      "evidence": "Codex显式原片ID复核：简介全文仅包含原片ID 7jiPeIFXb6U，与原库目标ID逐字符一致。此依据来自B站当前缓存的完整详情，不依靠相似标题或时长推断。标题及单P内容标识与目标作品I don't like notebooks.- Joel Grus (Allen Institute for Artificial Intelligence)相符；BV与原片均3373秒、CID41440053627，当前没有年份、集次、删减或分P归属冲突。未访问下载站，也未下载或搬运视频，未进行逐帧比较。批次结束后应用前须重核CID、可用性、简介原文及来源快照哈希。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review.",
+      "frame_by_frame_comparison": false,
+      "candidate_title": "2018-10-10 I don't like notebooks.- Joel Grus",
+      "original_title": "I don't like notebooks.- Joel Grus (Allen Institute for Artificial Intelligence)",
+      "source_snapshot": {
+        "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1U6tp6HEQq",
+        "snapshot": "http/f3b86d0bfb638fb377158c43bdf7fd7154f9dd82ef837bdc9c8a6fd2790e6798.json",
+        "source_sha256": "229db8d8dfd29d7d01037471479efda900dbbc628941e58f2f610c67b4980b95",
+        "identity_type": "sole-original-id",
+        "description": "7jiPeIFXb6U"
+      },
+      "sources": [
+        "https://www.bilibili.com/video/BV1U6tp6HEQq"
+      ],
+      "id": "7jiPeIFXb6U",
+      "reviewed_at": "2026-11-05T08:27:55.997003+00:00",
+      "evidence_type": "explicit original ID in complete description"
     }
   ]
 }

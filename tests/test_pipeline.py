@@ -11,6 +11,11 @@ class MatchingTests(unittest.TestCase):
   for title in ['Talk [英语字幕]','Talk【字幕】','Talk [English subtitles]']:
    self.assertEqual(p.lang_kind(title,'Uploader','Author'),'original')
   self.assertEqual(p.lang_kind('Talk【中文字幕】','Uploader','Author'),'sub_zh')
+ def test_explicit_chinese_english_subtitle_options(self):
+  for title in ['Talk【中/英字幕可选】','Talk【中／英字幕】','Talk【英/中文字幕】','Talk【中 / 英 字幕】']:
+   self.assertEqual(p.lang_kind(title,'Uploader','Author'),'sub_zh')
+  self.assertEqual(p.lang_kind('Talk【英/日字幕】','Uploader','Author'),'original')
+  self.assertEqual(p.lang_kind('Talk【中/英配音】','Uploader','Author'),'dub_zh')
  def result(self):return p.assess(self.o,self.d,1,450)
  def test_short_video_with_identity_is_accepted(self):self.assertEqual(self.result()['status'],'confirmed')
  def test_title_and_duration_without_identity_are_not_enough(self):

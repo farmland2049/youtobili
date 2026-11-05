@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T07:01:26.336700+00:00",
+  "updated_at": "2026-11-05T08:33:39.992645+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -884,9 +884,34 @@
     },
     "hhiLw5Q_UFg": {
       "vid": "hhiLw5Q_UFg",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-04T06:55:04.740914+00:00",
-      "candidates": []
+      "candidates": [
+        {
+          "bvid": "BV1Ao4y187GD",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1Ao4y187GD",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "John Schulman: Reinforcement Learning from Human Feedback:Progress and Challenge",
+          "up": "深度强化学习实验室",
+          "duration": 3812,
+          "original_duration": 3812,
+          "cid": 1107223368,
+          "aid": 397926006,
+          "segment_title": "John Schulman: Reinforcement Learning from Human Feedback:Progress and Challenge",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1535,
+          "pic": "https://i1.hdslb.com/bfs/archive/0b2cbc5219f8b486a861f72707c3fe3513f472ca.jpg",
+          "checked_at": "2026-11-05T07:32:57.806824+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "5eqRuVp65eY": {
       "vid": "5eqRuVp65eY",
@@ -3377,6 +3402,31 @@
           "checked_at": "2026-11-04T23:03:55.582388+00:00",
           "availability": "available",
           "aid": 33385105
+        },
+        {
+          "bvid": "BV1HHUSBwEGZ",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1HHUSBwEGZ",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description",
+            "exact original YouTube ID explicitly associated with selected segment"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Visualizing the 4d numbers Quaternions [3Blue1Brown - Videos]",
+          "up": "vector090_",
+          "duration": 1911,
+          "original_duration": 1911,
+          "cid": 34251276781,
+          "aid": 115609446648607,
+          "segment_title": "d4EgbgTm0Bg",
+          "page_count": 1,
+          "kind": "original",
+          "views": 91,
+          "pic": "https://i2.hdslb.com/bfs/archive/3b49f8e5912e3a11a61fb317ac8b9ab388b60aa6.jpg",
+          "checked_at": "2026-11-05T07:23:13.670090+00:00",
+          "availability": "available"
         }
       ]
     },
@@ -4089,9 +4139,39 @@
     },
     "SxdOUGdseq4": {
       "vid": "SxdOUGdseq4",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-04T08:37:58.761457+00:00",
-      "candidates": []
+      "candidates": [
+        {
+          "bvid": "BV1J54y1A7PL",
+          "status": "confirmed",
+          "evidence": [
+            "Codex显式原片ID复核：简介全文仅包含原片ID SxdOUGdseq4，与原库目标ID逐字符一致。此依据来自B站当前缓存的完整详情，不依靠相似标题或时长推断。标题及单P内容标识与目标作品\"Simple Made Easy\" - Rich Hickey (2011)相符；BV与原片均3699秒、CID1018554038，当前没有年份、集次、删减或分P归属冲突。未访问下载站，也未下载或搬运视频，未进行逐帧比较。批次结束后应用前须重核CID、可用性、简介原文及来源快照哈希。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review."
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "page": 1,
+          "title": "\"Simple Made Easy\" - Rich Hickey (2011)",
+          "up": "dailyrain",
+          "duration": 3699,
+          "original_duration": 3699,
+          "cid": 1018554038,
+          "aid": 864751488,
+          "segment_title": "＂Simple Made Easy＂ - Rich Hickey (2011)",
+          "page_count": 1,
+          "kind": "original",
+          "views": 46,
+          "pic": "https://i1.hdslb.com/bfs/archive/449ad6df72dbe495de124721be3b28ad1a9a6751.jpg",
+          "checked_at": "2026-11-04T23:03:55.670576+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-05T08:27:53.836726+00:00",
+            "evidence": "Codex显式原片ID复核：简介全文仅包含原片ID SxdOUGdseq4，与原库目标ID逐字符一致。此依据来自B站当前缓存的完整详情，不依靠相似标题或时长推断。标题及单P内容标识与目标作品\"Simple Made Easy\" - Rich Hickey (2011)相符；BV与原片均3699秒、CID1018554038，当前没有年份、集次、删减或分P归属冲突。未访问下载站，也未下载或搬运视频，未进行逐帧比较。批次结束后应用前须重核CID、可用性、简介原文及来源快照哈希。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review."
+          }
+        }
+      ]
     },
     "dEaecUuEqfc": {
       "vid": "dEaecUuEqfc",
@@ -4619,9 +4699,39 @@
     },
     "otbnC2zE2rw": {
       "vid": "otbnC2zE2rw",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-04T14:18:51.615379+00:00",
-      "candidates": []
+      "candidates": [
+        {
+          "bvid": "BV1YT411U7WT",
+          "status": "confirmed",
+          "evidence": [
+            "Codex显式原片ID复核：简介全文仅包含原片ID otbnC2zE2rw，与原库目标ID逐字符一致。此依据来自B站当前缓存的完整详情，不依靠相似标题或时长推断。标题及单P内容标识与目标作品Designing the Ideal Bootstrapped Business with Jason Cohen相符；BV与原片均3937秒、CID1018121784，当前没有年份、集次、删减或分P归属冲突。未访问下载站，也未下载或搬运视频，未进行逐帧比较。批次结束后应用前须重核CID、可用性、简介原文及来源快照哈希。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review."
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "page": 1,
+          "title": "Designing the Ideal Bootstrapped Business with Jason Cohen",
+          "up": "dailyrain",
+          "duration": 3937,
+          "original_duration": 3937,
+          "cid": 1018121784,
+          "aid": 482158430,
+          "segment_title": "Designing the Ideal Bootstrapped Business with Jason Cohen",
+          "page_count": 1,
+          "kind": "original",
+          "views": 40,
+          "pic": "https://i1.hdslb.com/bfs/archive/bf75e5eef24d373ffc0505cc201a549347afa07d.jpg",
+          "checked_at": "2026-11-04T23:03:55.760689+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-05T08:27:54.322679+00:00",
+            "evidence": "Codex显式原片ID复核：简介全文仅包含原片ID otbnC2zE2rw，与原库目标ID逐字符一致。此依据来自B站当前缓存的完整详情，不依靠相似标题或时长推断。标题及单P内容标识与目标作品Designing the Ideal Bootstrapped Business with Jason Cohen相符；BV与原片均3937秒、CID1018121784，当前没有年份、集次、删减或分P归属冲突。未访问下载站，也未下载或搬运视频，未进行逐帧比较。批次结束后应用前须重核CID、可用性、简介原文及来源快照哈希。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review."
+          }
+        }
+      ]
     },
     "040ejWnFkj0": {
       "vid": "040ejWnFkj0",
@@ -5555,9 +5665,39 @@
     },
     "xguam0TKMw8": {
       "vid": "xguam0TKMw8",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-04T14:23:13.765607+00:00",
-      "candidates": []
+      "candidates": [
+        {
+          "bvid": "BV11FhJeYEA3",
+          "status": "confirmed",
+          "evidence": [
+            "Codex来源链复核：BV标题、简介及单P共同标注Ray Dalio的同一作品。简介来源https://www.economicprinciples.org/的对应内容页https://www.economicprinciples.org/the-changing-world-order只有一个视频iframe，其地址明确包含YouTube原片ID xguam0TKMw8，不是访谈或相关推荐链接。BV与原片均2623秒、CID500001601181763；当前缓存可用，单P，无年份、集次、删减及分P归属冲突。此为官方来源链与元数据核对，未做逐帧比较；批次结束后应用前须重新核对CID、可用性、时长、来源哈希和冲突。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review."
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "page": 1,
+          "title": "Principles for Dealing with the Changing World Order by Ray Dalio",
+          "up": "每天一本好书",
+          "duration": 2623,
+          "original_duration": 2623,
+          "cid": 500001601181763,
+          "aid": 112708045243922,
+          "segment_title": "Principles for Dealing with the Changing World Order by Ray Dalio",
+          "page_count": 1,
+          "kind": "original",
+          "views": 287,
+          "pic": "https://i2.hdslb.com/bfs/archive/36209b979f4c2362b1c81fede0b57a27d9d722b0.jpg",
+          "checked_at": "2026-11-04T23:03:56.056954+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-05T08:27:52.950685+00:00",
+            "evidence": "Codex来源链复核：BV标题、简介及单P共同标注Ray Dalio的同一作品。简介来源https://www.economicprinciples.org/的对应内容页https://www.economicprinciples.org/the-changing-world-order只有一个视频iframe，其地址明确包含YouTube原片ID xguam0TKMw8，不是访谈或相关推荐链接。BV与原片均2623秒、CID500001601181763；当前缓存可用，单P，无年份、集次、删减及分P归属冲突。此为官方来源链与元数据核对，未做逐帧比较；批次结束后应用前须重新核对CID、可用性、时长、来源哈希和冲突。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review."
+          }
+        }
+      ]
     },
     "-J_xL4IGhJA": {
       "vid": "-J_xL4IGhJA",
@@ -6837,6 +6977,30 @@
           "pic": "https://i0.hdslb.com/bfs/archive/38ceddaa65592ad622dc0a84db0c6fac390ace19.jpg",
           "checked_at": "2026-11-04T23:03:56.310810+00:00",
           "availability": "available"
+        },
+        {
+          "bvid": "BV1Bz4y1u7nR",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1Bz4y1u7nR",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "RSA ANIMATE | Drive - The surprising truth about what motivates us | 企业管理 | 学习向",
+          "up": "keyif",
+          "duration": 648,
+          "original_duration": 648,
+          "cid": 1242807695,
+          "aid": 575014594,
+          "segment_title": "RSA ANIMATE | Drive - The surprising truth about what motivates us | 企业管理 | 学习向",
+          "page_count": 1,
+          "kind": "original",
+          "views": 175,
+          "pic": "https://i0.hdslb.com/bfs/archive/f492fe4928fd3ca8fbe93682553631accb206492.jpg",
+          "checked_at": "2026-11-05T07:23:25.526468+00:00",
+          "availability": "available"
         }
       ]
     },
@@ -7448,6 +7612,30 @@
           "pic": "https://i2.hdslb.com/bfs/archive/9784445f94555d85def6a54021deabef9a159fce.jpg",
           "checked_at": "2026-11-04T23:03:56.333429+00:00",
           "availability": "available"
+        },
+        {
+          "bvid": "BV1ykMb61EDY",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1ykMb61EDY",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "别再定目标了 - CGP Grey",
+          "up": "中文配音看世界",
+          "duration": 384,
+          "original_duration": 384,
+          "cid": 39733693996,
+          "aid": 116878441782637,
+          "segment_title": "video_final",
+          "page_count": 1,
+          "kind": "original",
+          "views": 113,
+          "pic": "https://i0.hdslb.com/bfs/archive/bb5339f43bcba9914e63a742974e54273db7d3fe.png",
+          "checked_at": "2026-11-05T07:23:21.214125+00:00",
+          "availability": "available"
         }
       ]
     },
@@ -7872,6 +8060,30 @@
           "views": 18607,
           "pic": "https://i1.hdslb.com/bfs/archive/79f86bcc1b11da71a14695dcf206767d152d2d4c.jpg",
           "checked_at": "2026-11-04T23:03:56.598720+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1Ku411t7GL",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1Ku411t7GL",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【熟肉】①ADHD是量的差异而不是质的区别",
+          "up": "想养哈士奇的哈士人",
+          "duration": 305,
+          "original_duration": 304,
+          "cid": 1127572437,
+          "aid": 528592572,
+          "segment_title": "【熟肉】①ADHD是量的差异而不是质的区别",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 18154,
+          "pic": "https://i1.hdslb.com/bfs/archive/93fc64a60a9ec0bee37cb7a88e88aa4a47336c88.jpg",
+          "checked_at": "2026-11-05T08:27:23.055852+00:00",
           "availability": "available"
         }
       ]
@@ -8651,6 +8863,30 @@
           "views": 305,
           "pic": "https://i2.hdslb.com/bfs/archive/7103385e607253aa6069b7f4483223a6d280c9e8.jpg",
           "checked_at": "2026-11-04T23:03:56.834710+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1Ss4y1h7GL",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1Ss4y1h7GL",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "CppCon 2015: Herb Sutter \"Writing Good C++14... By Default\"",
+          "up": "dailyrain",
+          "duration": 5346,
+          "original_duration": 5346,
+          "cid": 1015926054,
+          "aid": 949726156,
+          "segment_title": "CppCon 2015： Herb Sutter ＂Writing Good C++14... By Default＂",
+          "page_count": 1,
+          "kind": "original",
+          "views": 53,
+          "pic": "https://i2.hdslb.com/bfs/archive/d0c481cd3cb1849c7811f93f99a08c4afe34d1d5.jpg",
+          "checked_at": "2026-11-05T08:09:47.993360+00:00",
           "availability": "available"
         }
       ]
@@ -10802,9 +11038,39 @@
     },
     "lKXe3HUG2l4": {
       "vid": "lKXe3HUG2l4",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-04T14:14:36.580047+00:00",
-      "candidates": []
+      "candidates": [
+        {
+          "bvid": "BV12M411A7jq",
+          "status": "confirmed",
+          "evidence": [
+            "Codex显式原片ID复核：简介全文仅包含原片ID lKXe3HUG2l4，与原库目标ID逐字符一致。此依据来自B站当前缓存的完整详情，不依靠相似标题或时长推断。标题及单P内容标识与目标作品\"The Mess We're In\" by Joe Armstrong相符；BV与原片均2750秒、CID1017333874，当前没有年份、集次、删减或分P归属冲突。未访问下载站，也未下载或搬运视频，未进行逐帧比较。批次结束后应用前须重核CID、可用性、简介原文及来源快照哈希。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review."
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "page": 1,
+          "title": "\"The Mess We're In\" by Joe Armstrong",
+          "up": "dailyrain",
+          "duration": 2750,
+          "original_duration": 2750,
+          "cid": 1017333874,
+          "aid": 479694795,
+          "segment_title": "＂The Mess We're In＂ by Joe Armstrong",
+          "page_count": 1,
+          "kind": "original",
+          "views": 120,
+          "pic": "https://i1.hdslb.com/bfs/archive/800fa1cc814b026bc935ebd0eb89b57ce68c45a4.jpg",
+          "checked_at": "2026-11-04T23:03:57.194376+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-05T08:27:54.752597+00:00",
+            "evidence": "Codex显式原片ID复核：简介全文仅包含原片ID lKXe3HUG2l4，与原库目标ID逐字符一致。此依据来自B站当前缓存的完整详情，不依靠相似标题或时长推断。标题及单P内容标识与目标作品\"The Mess We're In\" by Joe Armstrong相符；BV与原片均2750秒、CID1017333874，当前没有年份、集次、删减或分P归属冲突。未访问下载站，也未下载或搬运视频，未进行逐帧比较。批次结束后应用前须重核CID、可用性、简介原文及来源快照哈希。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review."
+          }
+        }
+      ]
     },
     "mScpHTIi-kM": {
       "vid": "mScpHTIi-kM",
@@ -11080,6 +11346,30 @@
           "views": 7,
           "pic": "https://i2.hdslb.com/bfs/archive/38f9cc6d256a44f6dc7d399e6a5e18f531c8bf68.jpg",
           "checked_at": "2026-11-04T23:03:57.235461+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1gA411v7Do",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1gA411v7Do",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "治疗性断食-解决两仓储问题 - Dr. Jason Fung",
+          "up": "Ki3NI1c2",
+          "duration": 2170,
+          "original_duration": 2170,
+          "cid": 215477897,
+          "aid": 328901858,
+          "segment_title": "Therapeutic Fasting - Solving the Two-Compartment Problem",
+          "page_count": 1,
+          "kind": "original",
+          "views": 3312,
+          "pic": "https://i0.hdslb.com/bfs/archive/4a56dda5ceaabebe0a2ed2097c0be361ad991015.png",
+          "checked_at": "2026-11-05T07:23:28.685191+00:00",
           "availability": "available"
         }
       ]
@@ -12265,6 +12555,30 @@
           "views": 28,
           "pic": "https://i1.hdslb.com/bfs/archive/cc2cde5b7ba7fd22f4220f3c7d3638e56f128fac.jpg",
           "checked_at": "2026-11-04T23:03:57.592985+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1MA4y1X7iA",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1MA4y1X7iA",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Jason Fung 博士：禁食作为减肥的治疗选择  2019年7月28日",
+          "up": "纯肉饮食和轻断食",
+          "duration": 4288,
+          "original_duration": 4288,
+          "cid": 582237072,
+          "aid": 895909186,
+          "segment_title": "Dr. Jason Fung Fasting as a Therapeutic Option for Weight Loss",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1325,
+          "pic": "https://i0.hdslb.com/bfs/archive/3752840633ae8975609cefbd5881f95a2538b71b.jpg",
+          "checked_at": "2026-11-05T07:23:27.400629+00:00",
           "availability": "available"
         }
       ]
@@ -13933,9 +14247,39 @@
     },
     "wupToqz1e2g": {
       "vid": "wupToqz1e2g",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-04T21:37:34.975725+00:00",
-      "candidates": []
+      "candidates": [
+        {
+          "bvid": "BV1eP41197kY",
+          "status": "confirmed",
+          "evidence": [
+            "Codex显式原片ID复核：简介仅包含youtube/原片ID格式的链接 https://www.y2mate.com/youtube/wupToqz1e2g，与原库目标ID逐字符一致。此依据来自B站当前缓存的完整详情，不依靠相似标题或时长推断。标题及单P内容标识与目标作品Carl Sagan - Pale Blue Dot相符；BV与原片均211秒、CID1137592753，当前没有年份、集次、删减或分P归属冲突。未访问下载站，也未下载或搬运视频，未进行逐帧比较。批次结束后应用前须重核CID、可用性、简介原文及来源快照哈希。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review."
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "page": 1,
+          "title": "卡尔萨根-暗淡蓝点Carl Sagan  Pale Blue Dot",
+          "up": "花押字",
+          "duration": 211,
+          "original_duration": 211,
+          "cid": 1137592753,
+          "aid": 313922741,
+          "segment_title": "卡尔萨根-暗淡蓝点Carl Sagan  Pale Blue Dot",
+          "page_count": 1,
+          "kind": "original",
+          "views": 174,
+          "pic": "https://i0.hdslb.com/bfs/archive/4c848a8b8184ede32be4e24cc216fbcc5b59b58a.jpg",
+          "checked_at": "2026-11-04T23:03:58.232875+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-05T08:27:55.216597+00:00",
+            "evidence": "Codex显式原片ID复核：简介仅包含youtube/原片ID格式的链接 https://www.y2mate.com/youtube/wupToqz1e2g，与原库目标ID逐字符一致。此依据来自B站当前缓存的完整详情，不依靠相似标题或时长推断。标题及单P内容标识与目标作品Carl Sagan - Pale Blue Dot相符；BV与原片均211秒、CID1137592753，当前没有年份、集次、删减或分P归属冲突。未访问下载站，也未下载或搬运视频，未进行逐帧比较。批次结束后应用前须重核CID、可用性、简介原文及来源快照哈希。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review."
+          }
+        }
+      ]
     },
     "wxL4ElboiuA": {
       "vid": "wxL4ElboiuA",
@@ -14187,9 +14531,39 @@
     },
     "7jiPeIFXb6U": {
       "vid": "7jiPeIFXb6U",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-04T21:48:49.718417+00:00",
-      "candidates": []
+      "candidates": [
+        {
+          "bvid": "BV1U6tp6HEQq",
+          "status": "confirmed",
+          "evidence": [
+            "Codex显式原片ID复核：简介全文仅包含原片ID 7jiPeIFXb6U，与原库目标ID逐字符一致。此依据来自B站当前缓存的完整详情，不依靠相似标题或时长推断。标题及单P内容标识与目标作品I don't like notebooks.- Joel Grus (Allen Institute for Artificial Intelligence)相符；BV与原片均3373秒、CID41440053627，当前没有年份、集次、删减或分P归属冲突。未访问下载站，也未下载或搬运视频，未进行逐帧比较。批次结束后应用前须重核CID、可用性、简介原文及来源快照哈希。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review."
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "page": 1,
+          "title": "2018-10-10 I don't like notebooks.- Joel Grus",
+          "up": "荣耀属于递归战狂",
+          "duration": 3373,
+          "original_duration": 3373,
+          "cid": 41440053627,
+          "aid": 117185599048471,
+          "segment_title": "2018-10-10 I don't like notebooks.- Joel Grus",
+          "page_count": 1,
+          "kind": "original",
+          "views": 20,
+          "pic": "https://i2.hdslb.com/bfs/archive/8c057e85910ef4dac8fb727c3c99f604db8dffe1.jpg",
+          "checked_at": "2026-11-04T23:03:58.377128+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-05T08:27:55.641048+00:00",
+            "evidence": "Codex显式原片ID复核：简介全文仅包含原片ID 7jiPeIFXb6U，与原库目标ID逐字符一致。此依据来自B站当前缓存的完整详情，不依靠相似标题或时长推断。标题及单P内容标识与目标作品I don't like notebooks.- Joel Grus (Allen Institute for Artificial Intelligence)相符；BV与原片均3373秒、CID41440053627，当前没有年份、集次、删减或分P归属冲突。未访问下载站，也未下载或搬运视频，未进行逐帧比较。批次结束后应用前须重核CID、可用性、简介原文及来源快照哈希。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review."
+          }
+        }
+      ]
     },
     "7vfqkvwW2fs": {
       "vid": "7vfqkvwW2fs",
@@ -14715,9 +15089,39 @@
     },
     "JqNg819PiZY": {
       "vid": "JqNg819PiZY",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-04T21:59:08.329281+00:00",
-      "candidates": []
+      "candidates": [
+        {
+          "bvid": "BV1fmMbzHEoq",
+          "status": "confirmed",
+          "evidence": [
+            "Codex来源链复核：BV标题、简介及单P共同标注Leonard Susskind的同一作品。简介来源https://theoreticalminimum.com/courses/higgs-boson/2012/summer的对应内容页https://theoreticalminimum.com/courses/higgs-boson/2012/summer/lecture-1只有一个视频iframe，其地址明确包含YouTube原片ID JqNg819PiZY，不是访谈或相关推荐链接。BV与原片均4508秒、CID30958424052；当前缓存可用，单P，无年份、集次、删减及分P归属冲突。此为官方来源链与元数据核对，未做逐帧比较；批次结束后应用前须重新核对CID、可用性、时长、来源哈希和冲突。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review."
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "page": 1,
+          "title": "斯坦福大学《希格斯玻色子揭秘|Demystifying the Higgs Boson》中英字幕（claude-3.7-s",
+          "up": "GPT中英字幕课程资源",
+          "duration": 4508,
+          "original_duration": 4508,
+          "cid": 30958424052,
+          "aid": 114688260048029,
+          "segment_title": "Demystifying the Higgs Boson with Leonard Susskind.zh_en",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 2442,
+          "pic": "https://i1.hdslb.com/bfs/archive/621394a638dc060bd7a1d1754565492e9a605a1a.jpg",
+          "checked_at": "2026-11-04T23:03:58.487603+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-05T08:27:53.413145+00:00",
+            "evidence": "Codex来源链复核：BV标题、简介及单P共同标注Leonard Susskind的同一作品。简介来源https://theoreticalminimum.com/courses/higgs-boson/2012/summer的对应内容页https://theoreticalminimum.com/courses/higgs-boson/2012/summer/lecture-1只有一个视频iframe，其地址明确包含YouTube原片ID JqNg819PiZY，不是访谈或相关推荐链接。BV与原片均4508秒、CID30958424052；当前缓存可用，单P，无年份、集次、删减及分P归属冲突。此为官方来源链与元数据核对，未做逐帧比较；批次结束后应用前须重新核对CID、可用性、时长、来源哈希和冲突。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review."
+          }
+        }
+      ]
     },
     "M6vpFV6Wkl4": {
       "vid": "M6vpFV6Wkl4",
@@ -19853,9 +20257,34 @@
     },
     "XRr1kaXKBsU": {
       "vid": "XRr1kaXKBsU",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-05T00:40:10.141727+00:00",
-      "candidates": []
+      "candidates": [
+        {
+          "bvid": "BV1Ly4y1r7Ue",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1Ly4y1r7Ue",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "为什么重力不是一种力 - Why Gravity is NOT a Force by Veritasium",
+          "up": "便当鹿",
+          "duration": 1054,
+          "original_duration": 1054,
+          "cid": 245053354,
+          "aid": 797480936,
+          "segment_title": "Why Gravity is NOT a Force",
+          "page_count": 1,
+          "kind": "original",
+          "views": 304,
+          "pic": "https://i1.hdslb.com/bfs/archive/4306b825ffef0aea6e54b1d32785e970dc47da3c.jpg",
+          "checked_at": "2026-11-05T07:23:10.224536+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "Y6U728AZnV0": {
       "vid": "Y6U728AZnV0",
@@ -24725,9 +25154,39 @@
     },
     "VO6XEQIsCoM": {
       "vid": "VO6XEQIsCoM",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-05T02:16:37.222245+00:00",
-      "candidates": []
+      "candidates": [
+        {
+          "bvid": "BV1WQ4y1N7Dh",
+          "status": "confirmed",
+          "evidence": [
+            "Codex来源链复核：BV标题、简介和分P标明Barry Schwartz的The paradox of choice，简介引用https://www.ted.com/talks/barry_schwartz_the_paradox_of_choice；TED官方页面主播放器JSON直接绑定YouTube原片VO6XEQIsCoM、时长1223秒。BV单P1178秒，原片1223秒，CID188910321，差45秒，在约定检查线内。此为来源链和元数据复核，未做逐帧比较；应用前重新核对缓存可用性、CID、时长、冲突标记和分P归属。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review."
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "page": 1,
+          "title": "TED：选择的悖论The paradox of choice，by Barry Schwartz【中/英字幕可选】",
+          "up": "大明爱吃冰激凌",
+          "duration": 1178,
+          "original_duration": 1223,
+          "cid": 188910321,
+          "aid": 710508647,
+          "segment_title": "[1]Barry Schwartz The paradox of choice",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 10326,
+          "pic": "https://i2.hdslb.com/bfs/archive/53ac69e24990092cd5e8764191e382b513d23b62.jpg",
+          "checked_at": "2026-11-05T02:16:17.207946+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-05T08:27:52.058187+00:00",
+            "evidence": "Codex来源链复核：BV标题、简介和分P标明Barry Schwartz的The paradox of choice，简介引用https://www.ted.com/talks/barry_schwartz_the_paradox_of_choice；TED官方页面主播放器JSON直接绑定YouTube原片VO6XEQIsCoM、时长1223秒。BV单P1178秒，原片1223秒，CID188910321，差45秒，在约定检查线内。此为来源链和元数据复核，未做逐帧比较；应用前重新核对缓存可用性、CID、时长、冲突标记和分P归属。 Revalidated seven-day cached availability, unchanged CID, title, duration, flags, source hashes and segment ownership before applying this review."
+          }
+        }
+      ]
     },
     "Vjm8P8utT5g": {
       "vid": "Vjm8P8utT5g",
@@ -24976,6 +25435,2718 @@
           "views": 24,
           "pic": "https://i2.hdslb.com/bfs/archive/5caa962636fd843026f96fce62f9fa7a7bbf4467.jpg",
           "checked_at": "2026-11-05T02:19:53.887521+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "ZKC3hiyLeRc": {
+      "vid": "ZKC3hiyLeRc",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:07:07.953614+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Kv411q7J7",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "肥胖的病因 - Dr. Jason Fung",
+          "up": "Ki3NI1c2",
+          "duration": 2252,
+          "original_duration": 2252,
+          "cid": 215522211,
+          "aid": 243915052,
+          "segment_title": "Dr. Jason Fung - The Aetiology of Obesity",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1878,
+          "pic": "https://i1.hdslb.com/bfs/archive/20639b248e8d132db64e5f674d175ac5d4d09060.jpg",
+          "checked_at": "2026-11-05T07:07:07.672886+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "Ztc6QPNUqls": {
+      "vid": "Ztc6QPNUqls",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:07:20.502636+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Ti4y197qv",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【自译】Veritasium 20130509 - 你的质量并非来自希格斯玻色子",
+          "up": "宁鸢Eureksia",
+          "duration": 372,
+          "original_duration": 411,
+          "cid": 476964112,
+          "aid": 550407213,
+          "segment_title": "Your Mass is NOT From the Higgs Boson",
+          "page_count": 1,
+          "kind": "original",
+          "views": 230,
+          "pic": "https://i1.hdslb.com/bfs/archive/97c223227a9b701c58a83542b17bdcd194fc6b5b.jpg",
+          "checked_at": "2026-11-05T07:07:20.227207+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "_-mBeYC2KGc": {
+      "vid": "_-mBeYC2KGc",
+      "status": "review",
+      "completed_at": "2026-11-05T07:07:28.775248+00:00",
+      "candidates": []
+    },
+    "_P9HqHVPeik": {
+      "vid": "_P9HqHVPeik",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:07:40.870704+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1xs411Z786",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【有节操字幕计划】Wolfram 可以颠覆你世界观的编程语言",
+          "up": "罗兹",
+          "duration": 775,
+          "original_duration": 776,
+          "cid": 1429460,
+          "aid": 988838,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "original",
+          "views": 67652,
+          "pic": "https://i1.hdslb.com/bfs/archive/4edde99d7e62e3e184dad789205985384e9b5503.png",
+          "checked_at": "2026-11-05T07:07:40.599299+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "_bP80DEAbuo": {
+      "vid": "_bP80DEAbuo",
+      "status": "review",
+      "completed_at": "2026-11-05T07:07:54.794804+00:00",
+      "candidates": []
+    },
+    "aDejwCGdUV8": {
+      "vid": "aDejwCGdUV8",
+      "status": "review",
+      "completed_at": "2026-11-05T07:08:05.999762+00:00",
+      "candidates": []
+    },
+    "aHun58mz3vI": {
+      "vid": "aHun58mz3vI",
+      "status": "review",
+      "completed_at": "2026-11-05T07:08:59.178882+00:00",
+      "candidates": []
+    },
+    "aO3JgPUJ6iQ": {
+      "vid": "aO3JgPUJ6iQ",
+      "status": "review",
+      "completed_at": "2026-11-05T07:09:10.652444+00:00",
+      "candidates": []
+    },
+    "bY2FlayomlE": {
+      "vid": "bY2FlayomlE",
+      "status": "review",
+      "completed_at": "2026-11-05T07:09:20.849264+00:00",
+      "candidates": []
+    },
+    "bbyr7jZOllI": {
+      "vid": "bbyr7jZOllI",
+      "status": "review",
+      "completed_at": "2026-11-05T07:09:30.387223+00:00",
+      "candidates": []
+    },
+    "bx3KuE7UjGA": {
+      "vid": "bx3KuE7UjGA",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:09:38.989215+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1a64y1k7oi",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "MINIX 3 - a Modular, Self-Healing POSIX-compatible Operating System",
+          "up": "香喷喷的黄老邪",
+          "duration": 3379,
+          "original_duration": 3379,
+          "cid": 345577422,
+          "aid": 760855030,
+          "segment_title": "MINIX 3 - a Modular, Self-Healing POSIX-compatible Operating System",
+          "page_count": 1,
+          "kind": "original",
+          "views": 543,
+          "pic": "https://i2.hdslb.com/bfs/archive/57e2d97a96592d69996e2f15bf82ef9dc9af3f47.jpg",
+          "checked_at": "2026-11-05T07:09:38.706160+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "cUzklzVXJwo": {
+      "vid": "cUzklzVXJwo",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:09:47.863262+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1CNE46bEwZ",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【AI中配】虚数是怎么被发明的 - Veritasium",
+          "up": "高能君充电站",
+          "duration": 1409,
+          "original_duration": 1409,
+          "cid": 38929695511,
+          "aid": 116707783874655,
+          "segment_title": "【AI中配】虚数是怎么被发明的 - Veritasium",
+          "page_count": 1,
+          "kind": "dub_zh",
+          "views": 1185,
+          "pic": "https://i0.hdslb.com/bfs/archive/7dfde4e61076a4e8186bf636e1563b11d1632876.jpg",
+          "checked_at": "2026-11-05T07:09:47.597293+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV14r4y1E7ay",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "虚数是如何发明的",
+          "up": "科学技术与未来",
+          "duration": 1335,
+          "original_duration": 1409,
+          "cid": 768494325,
+          "aid": 770813266,
+          "segment_title": "虚数是如何发明的",
+          "page_count": 1,
+          "kind": "original",
+          "views": 582,
+          "pic": "https://i2.hdslb.com/bfs/archive/2abf648c2d121ba346d900f6ad3d3d32528f1073.jpg",
+          "checked_at": "2026-11-05T07:23:20.838171+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "cj02_UeUnGQ": {
+      "vid": "cj02_UeUnGQ",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:09:56.274760+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Du411Z7oX",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "一段X视窗系统的政治史 A Political History of X - Keith Packard",
+          "up": "笨蛋真嗣",
+          "duration": 2733,
+          "original_duration": 2733,
+          "cid": 423200657,
+          "aid": 506084102,
+          "segment_title": "_A Political History of X_ - Keith Packard _LCA 2020_",
+          "page_count": 1,
+          "kind": "original",
+          "views": 91,
+          "pic": "https://i2.hdslb.com/bfs/archive/edaff84e4674c9235db39bb93ae8d82caa4dfaa8.jpg",
+          "checked_at": "2026-11-05T07:09:55.994280+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "dpw9EHDh2bM": {
+      "vid": "dpw9EHDh2bM",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:10:04.875066+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1JE411X7NE",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "React Today and Tomorrow and  90% Cleaner React With Hooks",
+          "up": "是小超子诶",
+          "duration": 5730,
+          "original_duration": 5730,
+          "cid": 120442448,
+          "aid": 69490723,
+          "segment_title": "React Today and Tomorrow and  90% Cleaner React With Hooks",
+          "page_count": 1,
+          "kind": "original",
+          "views": 288,
+          "pic": "https://i0.hdslb.com/bfs/archive/ed78ef3888c5c40d0d3a798a5f0afd0a3e20c34d.jpg",
+          "checked_at": "2026-11-05T07:10:04.595419+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "eU5Dn-WaElI": {
+      "vid": "eU5Dn-WaElI",
+      "status": "review",
+      "completed_at": "2026-11-05T07:10:30.499989+00:00",
+      "candidates": []
+    },
+    "elvOZm0d4H0": {
+      "vid": "elvOZm0d4H0",
+      "status": "review",
+      "completed_at": "2026-11-05T07:10:54.723082+00:00",
+      "candidates": []
+    },
+    "ez773teNFYA": {
+      "vid": "ez773teNFYA",
+      "status": "review",
+      "completed_at": "2026-11-05T07:11:11.198528+00:00",
+      "candidates": []
+    },
+    "ezVk1ahRF78": {
+      "vid": "ezVk1ahRF78",
+      "status": "review",
+      "completed_at": "2026-11-05T07:11:33.390909+00:00",
+      "candidates": []
+    },
+    "f0gMdGrVteI": {
+      "vid": "f0gMdGrVteI",
+      "status": "review",
+      "completed_at": "2026-11-05T07:12:16.942181+00:00",
+      "candidates": []
+    },
+    "ftcIcn8AmSY": {
+      "vid": "ftcIcn8AmSY",
+      "status": "review",
+      "completed_at": "2026-11-05T07:12:36.978807+00:00",
+      "candidates": []
+    },
+    "gAk7aX5hksU": {
+      "vid": "gAk7aX5hksU",
+      "status": "review",
+      "completed_at": "2026-11-05T07:12:54.663066+00:00",
+      "candidates": []
+    },
+    "gV5obrYaogU": {
+      "vid": "gV5obrYaogU",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:13:03.274302+00:00",
+      "candidates": [
+        {
+          "bvid": "BV18u411B75s",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "SYMBOLICS S-PACKAGES 3D GRAPHICS AND ANIMATION DEMO",
+          "up": "账号已注销",
+          "duration": 1756,
+          "original_duration": 1756,
+          "cid": 545630066,
+          "aid": 509647467,
+          "segment_title": "SYMBOLICS S-PACKAGES 3D GRAPHICS AND ANIMATION DEMO",
+          "page_count": 1,
+          "kind": "original",
+          "views": 68,
+          "pic": "https://i1.hdslb.com/bfs/archive/5dcd4219602172b95cae20b7b70f20568aa6fe38.jpg",
+          "checked_at": "2026-11-05T07:13:02.994544+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "gWVmPtr9O0g": {
+      "vid": "gWVmPtr9O0g",
+      "status": "review",
+      "completed_at": "2026-11-05T07:13:25.013401+00:00",
+      "candidates": []
+    },
+    "hC3VTgIPoGU": {
+      "vid": "hC3VTgIPoGU",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:13:40.170846+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Pju1zkEoi",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "CHASING ICE captures largest glacier calving ever filmed",
+          "up": "soggypoutine",
+          "duration": 282,
+          "original_duration": 282,
+          "cid": 31044800062,
+          "aid": 114855109599114,
+          "segment_title": "CHASING ICE captures largest glacier calving ever filmed",
+          "page_count": 1,
+          "kind": "original",
+          "views": 13,
+          "pic": "https://i2.hdslb.com/bfs/archive/0e7386db0b8486ca0ea5fdb17d98ed017b5cb0a5.jpg",
+          "checked_at": "2026-11-05T07:13:39.888033+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "hzyFZcuHmeI": {
+      "vid": "hzyFZcuHmeI",
+      "status": "review",
+      "completed_at": "2026-11-05T07:14:16.200255+00:00",
+      "candidates": []
+    },
+    "j5v8D-alAKE": {
+      "vid": "j5v8D-alAKE",
+      "status": "review",
+      "completed_at": "2026-11-05T07:14:46.282218+00:00",
+      "candidates": []
+    },
+    "jA1C9VFqJKo": {
+      "vid": "jA1C9VFqJKo",
+      "status": "review",
+      "completed_at": "2026-11-05T07:15:38.826961+00:00",
+      "candidates": []
+    },
+    "kH5APw_SLUU": {
+      "vid": "kH5APw_SLUU",
+      "status": "review",
+      "completed_at": "2026-11-05T07:16:21.418724+00:00",
+      "candidates": []
+    },
+    "kd2KEHvK-q8": {
+      "vid": "kd2KEHvK-q8",
+      "status": "review",
+      "completed_at": "2026-11-05T07:16:43.111818+00:00",
+      "candidates": []
+    },
+    "kfg_e6YG37U": {
+      "vid": "kfg_e6YG37U",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:16:53.099321+00:00",
+      "candidates": [
+        {
+          "bvid": "BV12D4y197aA",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Deskbound _ Kelly Starrett _ Talks at Google",
+          "up": "jujujujujuy",
+          "duration": 3383,
+          "original_duration": 3383,
+          "cid": 252645342,
+          "aid": 712664374,
+          "segment_title": "Deskbound _ Kelly Starrett _ Talks at Google",
+          "page_count": 1,
+          "kind": "original",
+          "views": 150,
+          "pic": "https://i2.hdslb.com/bfs/archive/c1d9a8e60ddb8c2b9671f2992406521dcb511bfd.jpg",
+          "checked_at": "2026-11-05T07:16:52.815202+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "klTjiXjqHrQ": {
+      "vid": "klTjiXjqHrQ",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:17:01.716196+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Dv411H7hz",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Bret Victor - Seeing Spaces",
+          "up": "题叶",
+          "duration": 912,
+          "original_duration": 912,
+          "cid": 361822882,
+          "aid": 248998373,
+          "segment_title": "Bret Victor - Seeing Spaces",
+          "page_count": 1,
+          "kind": "original",
+          "views": 87,
+          "pic": "https://i1.hdslb.com/bfs/archive/8f4431574dd11524457fb99366b70656bfacbf19.jpg",
+          "checked_at": "2026-11-05T07:17:01.431850+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "kmFOBoy2MZ8": {
+      "vid": "kmFOBoy2MZ8",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:17:11.655103+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Fz4y1R7EG",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【星际拓展】殖民和地球化改造我们的太阳系--火星移民探索",
+          "up": "UncleBoson",
+          "duration": 2072,
+          "original_duration": 2072,
+          "cid": 197554194,
+          "aid": 583479027,
+          "segment_title": "videoplayback (1)",
+          "page_count": 1,
+          "kind": "original",
+          "views": 2183,
+          "pic": "https://i1.hdslb.com/bfs/archive/2f38682c8171f6511dc2d21e60b3eae44c535c38.jpg",
+          "checked_at": "2026-11-05T07:17:11.376503+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "krB0enBeSiE": {
+      "vid": "krB0enBeSiE",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:17:20.598522+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Q86fYZE5Q",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "[154] JavaScript之父Brendan Eich_Firefox、Mozilla与Brave创始人[中英精校]",
+          "up": "podcast播客每天更新",
+          "duration": 10759,
+          "original_duration": 10759,
+          "cid": 27650494454,
+          "aid": 113753769116301,
+          "segment_title": "[154] JavaScript之父Brendan Eich_Firefox、Mozilla与Brave创始人[中英精校]",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 187,
+          "pic": "https://i0.hdslb.com/bfs/archive/f4e219d2eb0aa870170d256f611d5d7048cc3b76.jpg",
+          "checked_at": "2026-11-05T07:17:20.332293+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "lG4VkPoG3ko": {
+      "vid": "lG4VkPoG3ko",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:17:28.881850+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Ei4y1F72M",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【官方双语】医检阳性≠得了病？重新理解贝叶斯定理",
+          "up": "3Blue1Brown",
+          "duration": 1274,
+          "original_duration": 1274,
+          "cid": 273771840,
+          "aid": 543477641,
+          "segment_title": "out_bayes.mp4",
+          "page_count": 1,
+          "kind": "official_zh",
+          "views": 284266,
+          "pic": "https://i2.hdslb.com/bfs/archive/19b95fe788370661fc413c038617aa4acddb6ccb.jpg",
+          "checked_at": "2026-11-05T07:17:28.592532+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "lJ3NC-R3gSI": {
+      "vid": "lJ3NC-R3gSI",
+      "status": "review",
+      "completed_at": "2026-11-05T07:17:42.792781+00:00",
+      "candidates": []
+    },
+    "lkgszkPnV8g": {
+      "vid": "lkgszkPnV8g",
+      "status": "review",
+      "completed_at": "2026-11-05T07:17:56.568922+00:00",
+      "candidates": []
+    },
+    "modXC5IWTJI": {
+      "vid": "modXC5IWTJI",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:18:18.464286+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1MS4y127tx",
+          "status": "confirmed",
+          "evidence": [
+            "exact original YouTube ID explicitly associated with selected segment"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Jeff Dean - Building Software Systems At Google and Lessons Learned",
+          "up": "DB的小宇宙",
+          "duration": 4965,
+          "original_duration": 4965,
+          "cid": 571134962,
+          "aid": 725545572,
+          "segment_title": "Building Software Systems At Google and Lessons Learned-modXC5IWTJI",
+          "page_count": 1,
+          "kind": "original",
+          "views": 217,
+          "pic": "https://i2.hdslb.com/bfs/archive/683e9095cd6389ac4267e64b8d27ce5437f34b05.jpg",
+          "checked_at": "2026-11-05T07:18:18.181472+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "n02tImce3AE": {
+      "vid": "n02tImce3AE",
+      "status": "review",
+      "completed_at": "2026-11-05T07:18:37.559451+00:00",
+      "candidates": []
+    },
+    "ne99laPUxN4": {
+      "vid": "ne99laPUxN4",
+      "status": "review",
+      "completed_at": "2026-11-05T07:18:47.547463+00:00",
+      "candidates": []
+    },
+    "nxyxcTZccsE": {
+      "vid": "nxyxcTZccsE",
+      "status": "review",
+      "completed_at": "2026-11-05T07:18:58.724604+00:00",
+      "candidates": []
+    },
+    "oHeehYYgl28": {
+      "vid": "oHeehYYgl28",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:19:07.378127+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Th411a7Hw",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【熟肉】【Technology Connections】加湿器：越简单就越有效",
+          "up": "墨枫梧桐_BA7MQN",
+          "duration": 1714,
+          "original_duration": 1714,
+          "cid": 351564273,
+          "aid": 206061731,
+          "segment_title": "加湿器：越简单就越好",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 1164,
+          "pic": "https://i0.hdslb.com/bfs/archive/857a1b4fdd4da4a8818cdb542d8492d6ba59abe6.jpg",
+          "checked_at": "2026-11-05T07:19:07.092057+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "ojm74VGsZBU": {
+      "vid": "ojm74VGsZBU",
+      "status": "review",
+      "completed_at": "2026-11-05T07:19:23.792442+00:00",
+      "candidates": []
+    },
+    "p5_tpq5ejFQ": {
+      "vid": "p5_tpq5ejFQ",
+      "status": "review",
+      "completed_at": "2026-11-05T07:19:57.247238+00:00",
+      "candidates": []
+    },
+    "pqeJFYwnkjE": {
+      "vid": "pqeJFYwnkjE",
+      "status": "review",
+      "completed_at": "2026-11-05T07:20:46.657076+00:00",
+      "candidates": []
+    },
+    "qOP2V_np2c0": {
+      "vid": "qOP2V_np2c0",
+      "status": "review",
+      "completed_at": "2026-11-05T07:21:14.665516+00:00",
+      "candidates": []
+    },
+    "skos4B5x7qE": {
+      "vid": "skos4B5x7qE",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:21:23.295177+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1yt411c74p",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "RustLatam 2019 - Without Boats: Zero-Cost Async IO",
+          "up": "Linux2048",
+          "duration": 1945,
+          "original_duration": 1944,
+          "cid": 107006205,
+          "aid": 61522437,
+          "segment_title": "RustLatam 2019 - Without Boats_ Zero-Cost Async IO",
+          "page_count": 1,
+          "kind": "original",
+          "views": 78,
+          "pic": "https://i0.hdslb.com/bfs/archive/27c9085e5086d9cc72e2f451d702eb564a787e40.jpg",
+          "checked_at": "2026-11-05T07:21:23.005189+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "slDAvewWfrA": {
+      "vid": "slDAvewWfrA",
+      "status": "review",
+      "completed_at": "2026-11-05T07:21:58.124487+00:00",
+      "candidates": []
+    },
+    "smStEPSRKBs": {
+      "vid": "smStEPSRKBs",
+      "status": "review",
+      "completed_at": "2026-11-05T07:22:14.625813+00:00",
+      "candidates": []
+    },
+    "tk862BbjWx4": {
+      "vid": "tk862BbjWx4",
+      "status": "review",
+      "completed_at": "2026-11-05T07:22:39.026505+00:00",
+      "candidates": []
+    },
+    "tt2AYafET68": {
+      "vid": "tt2AYafET68",
+      "status": "review",
+      "completed_at": "2026-11-05T07:22:54.361434+00:00",
+      "candidates": []
+    },
+    "hCQCP-5g5bo": {
+      "vid": "hCQCP-5g5bo",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:23:09.843352+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1uh2LB3E3U",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1uh2LB3E3U",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【中字】我往一只鸟里存了张图片 | Benn Jordan",
+          "up": "IdyllPathos",
+          "duration": 1853,
+          "original_duration": 1853,
+          "cid": 34523185815,
+          "aid": 115666405431410,
+          "segment_title": "【中字】我往一只鸟里存了张图片 | Benn Jordan",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 1739,
+          "pic": "https://i1.hdslb.com/bfs/archive/7b8386adea559e5ebc2b9da7d70d9f380152c019.jpg",
+          "checked_at": "2026-11-05T07:23:09.843321+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "y5UT04p5f7U": {
+      "vid": "y5UT04p5f7U",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:23:13.022037+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1QmNX6UEZE",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1QmNX6UEZE",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "一美分为何该消失了 - CGP Grey",
+          "up": "中文配音看世界",
+          "duration": 271,
+          "original_duration": 271,
+          "cid": 39938687797,
+          "aid": 116917364920697,
+          "segment_title": "video_final",
+          "page_count": 1,
+          "kind": "original",
+          "views": 443,
+          "pic": "https://i2.hdslb.com/bfs/archive/c80ecf574918eddef36eae86cc3d5a0836b25cd2.png",
+          "checked_at": "2026-11-05T07:23:13.021870+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "OxGsU8oIWjY": {
+      "vid": "OxGsU8oIWjY",
+      "status": "review",
+      "completed_at": "2026-11-05T07:23:18.130733+00:00",
+      "candidates": []
+    },
+    "wcBEOcPtlYk": {
+      "vid": "wcBEOcPtlYk",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:23:20.262771+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1UV4y157Eu",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1UV4y157Eu",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "译介熟肉-箱头是怎么影响电吉他音色的？Jim Lill @ Youtube",
+          "up": "小题大做的罗罗",
+          "duration": 1115,
+          "original_duration": 1114,
+          "cid": 854361423,
+          "aid": 858817986,
+          "segment_title": "译介熟肉-箱头是怎么影响电吉他音色的？Jim Lill @ Youtube",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 2758,
+          "pic": "https://i1.hdslb.com/bfs/archive/04959c42f7524f2c817924ea5aadbfe89c5ee6c3.jpg",
+          "checked_at": "2026-11-05T07:23:20.262733+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1MG4C6MEdw",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1MG4C6MEdw",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "实测：吉他音箱的音色究竟来自哪里？｜Jim Lill 电吉他实验系列",
+          "up": "Kai_____________",
+          "duration": 1115,
+          "original_duration": 1114,
+          "cid": 41909881537,
+          "aid": 117176488956229,
+          "segment_title": "9月15日 (3)",
+          "page_count": 1,
+          "kind": "original",
+          "views": 795,
+          "pic": "https://i0.hdslb.com/bfs/archive/61f62d40adc2662a7f07f929e08ba924fa5e044f.jpg",
+          "checked_at": "2026-11-05T07:23:33.279529+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "6ZYLp5uX9Yw": {
+      "vid": "6ZYLp5uX9Yw",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:23:23.327741+00:00",
+      "candidates": [
+        {
+          "bvid": "BV13Z4y1Z7GX",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV13Z4y1Z7GX",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Making of The Prodigy - Voodoo People in Ableton by Jim Pavloff",
+          "up": "LuciaJoyce",
+          "duration": 655,
+          "original_duration": 655,
+          "cid": 491154066,
+          "aid": 380979148,
+          "segment_title": "Making of The Prodigy - Voodoo People in Ableton by Jim Pavloff",
+          "page_count": 1,
+          "kind": "original",
+          "views": 235,
+          "pic": "https://i2.hdslb.com/bfs/archive/e37cf0c0828f3ddd81933740f04d03a655259c33.jpg",
+          "checked_at": "2026-11-05T07:23:23.327705+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "4-SGpEInX_c": {
+      "vid": "4-SGpEInX_c",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:23:25.137936+00:00",
+      "candidates": [
+        {
+          "bvid": "BV11D4y1F7YC",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV11D4y1F7YC",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Stephen Wolfram_ Complexity and the Fabric of Reality _ Lex Fridman",
+          "up": "Wizard_Core",
+          "duration": 13123,
+          "original_duration": 13123,
+          "cid": 476749802,
+          "aid": 722928081,
+          "segment_title": "Stephen Wolfram_ Complexity and the Fabric of Reality _ Lex Fridman Podcast #234",
+          "page_count": 1,
+          "kind": "original",
+          "views": 142,
+          "pic": "https://i0.hdslb.com/bfs/archive/c834eb3b0281d285f8ea86a5b6f4ae7f0df7f7ee.jpg",
+          "checked_at": "2026-11-05T07:23:25.137900+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "vElZc6zSIXM": {
+      "vid": "vElZc6zSIXM",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:23:32.932213+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1NdHcznE6r",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1NdHcznE6r",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "CppCon 2016: Chandler Carruth “High Performance Code 201: Hybrid Data",
+          "up": "Iammyself001",
+          "duration": 3349,
+          "original_duration": 3349,
+          "cid": 32707709789,
+          "aid": 115284807589321,
+          "segment_title": "CppCon 2016: Chandler Carruth “High Performance Code 201: Hybrid Data",
+          "page_count": 1,
+          "kind": "original",
+          "views": 4,
+          "pic": "https://i2.hdslb.com/bfs/archive/311089492aadd6942a45bdccb34d3b3e4e082162.jpg",
+          "checked_at": "2026-11-05T07:23:32.931949+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "uB0gr7Fh6lY": {
+      "vid": "uB0gr7Fh6lY",
+      "status": "review",
+      "completed_at": "2026-11-05T07:23:55.813993+00:00",
+      "candidates": []
+    },
+    "uBh2LxTW0s0": {
+      "vid": "uBh2LxTW0s0",
+      "status": "review",
+      "completed_at": "2026-11-05T07:24:38.808851+00:00",
+      "candidates": []
+    },
+    "uHQ4WCU1WQc": {
+      "vid": "uHQ4WCU1WQc",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:24:47.248701+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1mJ411F7gM",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【中字 | Ahoy】第一款电子游戏",
+          "up": "Barnett-Wong",
+          "duration": 3650,
+          "original_duration": 3650,
+          "cid": 122127815,
+          "aid": 70386479,
+          "segment_title": "The First Video Game (ChsRev .3)",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 6627,
+          "pic": "https://i2.hdslb.com/bfs/archive/ca3a4703cdffc72f8ee8057621c2662084fd056d.jpg",
+          "checked_at": "2026-11-05T07:24:46.956599+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "uknEhXyZgsg": {
+      "vid": "uknEhXyZgsg",
+      "status": "review",
+      "completed_at": "2026-11-05T07:24:59.432863+00:00",
+      "candidates": []
+    },
+    "vJjKwSF9gT8": {
+      "vid": "vJjKwSF9gT8",
+      "status": "review",
+      "completed_at": "2026-11-05T07:25:15.454603+00:00",
+      "candidates": []
+    },
+    "vuEQixrBKCc": {
+      "vid": "vuEQixrBKCc",
+      "status": "review",
+      "completed_at": "2026-11-05T07:25:51.507723+00:00",
+      "candidates": []
+    },
+    "wsaufB5F8dk": {
+      "vid": "wsaufB5F8dk",
+      "status": "review",
+      "completed_at": "2026-11-05T07:26:01.574221+00:00",
+      "candidates": []
+    },
+    "wtV5ev6813I": {
+      "vid": "wtV5ev6813I",
+      "status": "review",
+      "completed_at": "2026-11-05T07:26:25.870862+00:00",
+      "candidates": []
+    },
+    "xMP_AfiNlX4": {
+      "vid": "xMP_AfiNlX4",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:26:38.315569+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1MF411t7CC",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Building Prototypes Dan Gelbart  part 1 of 18  Introduction",
+          "up": "AlwaysLv",
+          "duration": 630,
+          "original_duration": 630,
+          "cid": 547744560,
+          "aid": 297247453,
+          "segment_title": "Building Prototypes Dan Gelbart  part 1 of 18  Introduction",
+          "page_count": 1,
+          "kind": "original",
+          "views": 136,
+          "pic": "https://i0.hdslb.com/bfs/archive/1af4cdf9cc2ae74f266aafb35863748388b641f5.jpg",
+          "checked_at": "2026-11-05T07:26:38.031687+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "xSGx3HSjKDo": {
+      "vid": "xSGx3HSjKDo",
+      "status": "review",
+      "completed_at": "2026-11-05T07:27:18.392739+00:00",
+      "candidates": []
+    },
+    "xe-f4gokRBs": {
+      "vid": "xe-f4gokRBs",
+      "status": "review",
+      "completed_at": "2026-11-05T07:27:43.970301+00:00",
+      "candidates": []
+    },
+    "xixM_cwSLcQ": {
+      "vid": "xixM_cwSLcQ",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:27:55.184284+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Yb41177P5",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Mentour Pilot讲解飞行中安定翼失控和如何阻止MCAS",
+          "up": "TechKyle",
+          "duration": 1379,
+          "original_duration": 1378,
+          "cid": 82416034,
+          "aid": 47055877,
+          "segment_title": "Mentour Pilot讲解飞行中安定翼失控和如何阻止MCAS",
+          "page_count": 1,
+          "kind": "original",
+          "views": 371,
+          "pic": "https://i1.hdslb.com/bfs/archive/3ff3792980c31afc55662e0fe5a4538e89af4429.jpg",
+          "checked_at": "2026-11-05T07:27:54.893176+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "xrIjfIjssLE": {
+      "vid": "xrIjfIjssLE",
+      "status": "review",
+      "completed_at": "2026-11-05T07:28:18.273581+00:00",
+      "candidates": []
+    },
+    "xzYgiOC9cj4": {
+      "vid": "xzYgiOC9cj4",
+      "status": "review",
+      "completed_at": "2026-11-05T07:28:41.275311+00:00",
+      "candidates": []
+    },
+    "zAFcV7zuUDA": {
+      "vid": "zAFcV7zuUDA",
+      "status": "review",
+      "completed_at": "2026-11-05T07:29:26.460179+00:00",
+      "candidates": []
+    },
+    "zUyH3XhpLTo": {
+      "vid": "zUyH3XhpLTo",
+      "status": "review",
+      "completed_at": "2026-11-05T07:29:58.652118+00:00",
+      "candidates": []
+    },
+    "zi0rHwfiX1Q": {
+      "vid": "zi0rHwfiX1Q",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:32:13.256932+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1E84y1H7XN",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "John Hughes - Testing the Hard Stuff and Staying Sane",
+          "up": "dailyrain",
+          "duration": 2838,
+          "original_duration": 2837,
+          "cid": 1016679843,
+          "aid": 609662792,
+          "segment_title": "John Hughes - Testing the Hard Stuff and Staying Sane",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1,
+          "pic": "https://i1.hdslb.com/bfs/archive/2ba21a51f30b05f7c771c4de2d546766a209ad65.jpg",
+          "checked_at": "2026-11-05T07:32:12.960471+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "zyVTxGpEO30": {
+      "vid": "zyVTxGpEO30",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:35:02.110796+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1oZFGeQEPt",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "中配|GDC2014|实用创意——Practical Creativity",
+          "up": "庸才的朽木",
+          "duration": 4040,
+          "original_duration": 3865,
+          "cid": 28149612705,
+          "aid": 113916340410324,
+          "segment_title": "中配|GDC2014|实用创意——Practical Creativity",
+          "page_count": 1,
+          "kind": "dub_zh",
+          "views": 964,
+          "pic": "https://i2.hdslb.com/bfs/archive/69837fc5158de5a89e3dbc8ebf7c10219eb58d1a.jpg",
+          "checked_at": "2026-11-05T07:35:01.852148+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV12wNPedEBQ",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "1-【GDC2014】如何发现全新的游戏灵感 - Practical Creativity",
+          "up": "懂些皮毛",
+          "duration": 3865,
+          "original_duration": 3865,
+          "cid": 28210429965,
+          "aid": 113944459023459,
+          "segment_title": "1-【GDC2014】如何发现全新的游戏灵感 - Practical Creativity",
+          "page_count": 1,
+          "kind": "original",
+          "views": 61,
+          "pic": "https://i0.hdslb.com/bfs/archive/6c10b732835b21e1d8ba8f508919e39eee6cd5ab.jpg",
+          "checked_at": "2026-11-05T07:46:11.856649+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "-I_jE0l7sYQ": {
+      "vid": "-I_jE0l7sYQ",
+      "status": "review",
+      "completed_at": "2026-11-05T07:35:16.594436+00:00",
+      "candidates": []
+    },
+    "-Ln-8QM8KhQ": {
+      "vid": "-Ln-8QM8KhQ",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:35:25.140907+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1PAkLBRE3B",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【熟肉】这个网站为什么能这么快？ - Wes Bos",
+          "up": "英文白斑马",
+          "duration": 803,
+          "original_duration": 819,
+          "cid": 35500263461,
+          "aid": 115926015938320,
+          "segment_title": "【熟肉】这个网站为什么能这么快？ - Wes Bos",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 126,
+          "pic": "https://i1.hdslb.com/bfs/archive/174c2e0ec11b6a4c1265f88fa6ad5c60b666ce98.png",
+          "checked_at": "2026-11-05T07:35:24.843008+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1PAkLBdEBC",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "【中配】这个网站为什么能这么快？ - Wes Bos",
+          "up": "黑纹白斑马",
+          "duration": 782,
+          "original_duration": 819,
+          "cid": 35500263218,
+          "aid": 115926016134919,
+          "segment_title": "【中配】这个网站为什么能这么快？ - Wes Bos",
+          "page_count": 1,
+          "kind": "dub_zh",
+          "views": 8021,
+          "pic": "https://i1.hdslb.com/bfs/archive/174c2e0ec11b6a4c1265f88fa6ad5c60b666ce98.png",
+          "checked_at": "2026-11-05T07:46:17.543933+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "-f-CFQxaUY4": {
+      "vid": "-f-CFQxaUY4",
+      "status": "review",
+      "completed_at": "2026-11-05T07:35:36.399378+00:00",
+      "candidates": []
+    },
+    "-suTmUX4Vbk": {
+      "vid": "-suTmUX4Vbk",
+      "status": "review",
+      "completed_at": "2026-11-05T07:36:13.929994+00:00",
+      "candidates": []
+    },
+    "06e-PwhmSq8": {
+      "vid": "06e-PwhmSq8",
+      "status": "review",
+      "completed_at": "2026-11-05T07:36:44.586876+00:00",
+      "candidates": []
+    },
+    "0MeRN7LE1LQ": {
+      "vid": "0MeRN7LE1LQ",
+      "status": "review",
+      "completed_at": "2026-11-05T07:37:16.756269+00:00",
+      "candidates": []
+    },
+    "0UjpmT5noto": {
+      "vid": "0UjpmT5noto",
+      "status": "review",
+      "completed_at": "2026-11-05T07:37:26.997793+00:00",
+      "candidates": []
+    },
+    "0VyH1laOd2M": {
+      "vid": "0VyH1laOd2M",
+      "status": "review",
+      "completed_at": "2026-11-05T07:37:41.909532+00:00",
+      "candidates": []
+    },
+    "0g9BcZvQbXU": {
+      "vid": "0g9BcZvQbXU",
+      "status": "review",
+      "completed_at": "2026-11-05T07:37:58.364316+00:00",
+      "candidates": []
+    },
+    "1H3xQaf7BFI": {
+      "vid": "1H3xQaf7BFI",
+      "status": "review",
+      "completed_at": "2026-11-05T07:38:05.721761+00:00",
+      "candidates": []
+    },
+    "1Y1ya-yF35g": {
+      "vid": "1Y1ya-yF35g",
+      "status": "review",
+      "completed_at": "2026-11-05T07:38:20.780872+00:00",
+      "candidates": []
+    },
+    "1rZ-JorHJEY": {
+      "vid": "1rZ-JorHJEY",
+      "status": "review",
+      "completed_at": "2026-11-05T07:38:43.818970+00:00",
+      "candidates": []
+    },
+    "1wAaI_6b9JE": {
+      "vid": "1wAaI_6b9JE",
+      "status": "review",
+      "completed_at": "2026-11-05T07:39:02.938281+00:00",
+      "candidates": []
+    },
+    "24R8JObNNQ4": {
+      "vid": "24R8JObNNQ4",
+      "status": "review",
+      "completed_at": "2026-11-05T07:39:31.241098+00:00",
+      "candidates": []
+    },
+    "2IT2oAzTcvU": {
+      "vid": "2IT2oAzTcvU",
+      "status": "review",
+      "completed_at": "2026-11-05T07:39:39.881157+00:00",
+      "candidates": []
+    },
+    "2LyzBoHo5EI": {
+      "vid": "2LyzBoHo5EI",
+      "status": "review",
+      "completed_at": "2026-11-05T07:39:53.813320+00:00",
+      "candidates": []
+    },
+    "2QrX5jsiico": {
+      "vid": "2QrX5jsiico",
+      "status": "review",
+      "completed_at": "2026-11-05T07:40:11.664866+00:00",
+      "candidates": []
+    },
+    "39iKLwlUqBo": {
+      "vid": "39iKLwlUqBo",
+      "status": "review",
+      "completed_at": "2026-11-05T07:40:50.384891+00:00",
+      "candidates": []
+    },
+    "3BR8tK-LuB0": {
+      "vid": "3BR8tK-LuB0",
+      "status": "review",
+      "completed_at": "2026-11-05T07:41:19.856841+00:00",
+      "candidates": []
+    },
+    "3GObi93tjZI": {
+      "vid": "3GObi93tjZI",
+      "status": "review",
+      "completed_at": "2026-11-05T07:41:57.237108+00:00",
+      "candidates": []
+    },
+    "3ka4KY7TMTU": {
+      "vid": "3ka4KY7TMTU",
+      "status": "review",
+      "completed_at": "2026-11-05T07:42:10.031783+00:00",
+      "candidates": []
+    },
+    "3lXv3Tt4x20": {
+      "vid": "3lXv3Tt4x20",
+      "status": "review",
+      "completed_at": "2026-11-05T07:42:35.593852+00:00",
+      "candidates": []
+    },
+    "3uiEyEKji0M": {
+      "vid": "3uiEyEKji0M",
+      "status": "review",
+      "completed_at": "2026-11-05T07:42:53.376723+00:00",
+      "candidates": []
+    },
+    "41VJudBdYXY": {
+      "vid": "41VJudBdYXY",
+      "status": "review",
+      "completed_at": "2026-11-05T07:43:28.271307+00:00",
+      "candidates": []
+    },
+    "449j7oKQVkc": {
+      "vid": "449j7oKQVkc",
+      "status": "review",
+      "completed_at": "2026-11-05T07:43:35.285986+00:00",
+      "candidates": []
+    },
+    "4RSht_aV7AU": {
+      "vid": "4RSht_aV7AU",
+      "status": "review",
+      "completed_at": "2026-11-05T07:43:47.442261+00:00",
+      "candidates": []
+    },
+    "4hZxo96x48A": {
+      "vid": "4hZxo96x48A",
+      "status": "review",
+      "completed_at": "2026-11-05T07:44:00.903064+00:00",
+      "candidates": []
+    },
+    "4oAB83Z1ydE": {
+      "vid": "4oAB83Z1ydE",
+      "status": "review",
+      "completed_at": "2026-11-05T07:44:47.388116+00:00",
+      "candidates": []
+    },
+    "5HbYScltf1c": {
+      "vid": "5HbYScltf1c",
+      "status": "review",
+      "completed_at": "2026-11-05T07:45:30.039673+00:00",
+      "candidates": []
+    },
+    "5Tek9h3a5wQ": {
+      "vid": "5Tek9h3a5wQ",
+      "status": "review",
+      "completed_at": "2026-11-05T07:45:33.750107+00:00",
+      "candidates": []
+    },
+    "5zkC9IMQmYA": {
+      "vid": "5zkC9IMQmYA",
+      "status": "review",
+      "completed_at": "2026-11-05T07:45:44.628633+00:00",
+      "candidates": []
+    },
+    "6AeWu1fZ7bY": {
+      "vid": "6AeWu1fZ7bY",
+      "status": "review",
+      "completed_at": "2026-11-05T07:45:57.145176+00:00",
+      "candidates": []
+    },
+    "Boi0XEm9-4E": {
+      "vid": "Boi0XEm9-4E",
+      "status": "review",
+      "completed_at": "2026-11-05T07:46:10.560967+00:00",
+      "candidates": []
+    },
+    "6_yU9eJ0NxA": {
+      "vid": "6_yU9eJ0NxA",
+      "status": "review",
+      "completed_at": "2026-11-05T07:46:15.611948+00:00",
+      "candidates": []
+    },
+    "6BhV-o77RqQ": {
+      "vid": "6BhV-o77RqQ",
+      "status": "review",
+      "completed_at": "2026-11-05T07:46:54.801286+00:00",
+      "candidates": []
+    },
+    "7CgXvIuZR40": {
+      "vid": "7CgXvIuZR40",
+      "status": "review",
+      "completed_at": "2026-11-05T07:47:19.172826+00:00",
+      "candidates": []
+    },
+    "7HKbjYqqPPQ": {
+      "vid": "7HKbjYqqPPQ",
+      "status": "review",
+      "completed_at": "2026-11-05T07:47:34.785430+00:00",
+      "candidates": []
+    },
+    "7OpM_zKGE4o": {
+      "vid": "7OpM_zKGE4o",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:47:43.208994+00:00",
+      "candidates": [
+        {
+          "bvid": "BV12T421S7o7",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【中配】非洲太阳能问题 - 实际工程背后的探讨 - Real Engineering",
+          "up": "黑纹白斑马",
+          "duration": 1048,
+          "original_duration": 1100,
+          "cid": 1537167612,
+          "aid": 1704460720,
+          "segment_title": "【中配】非洲太阳能问题 - 实际工程背后的探讨 - Real Engineering",
+          "page_count": 1,
+          "kind": "dub_zh",
+          "views": 360,
+          "pic": "https://i2.hdslb.com/bfs/archive/d90332bbff3d0125682149b08a618cdf76ccfc7e.png",
+          "checked_at": "2026-11-05T07:47:42.908157+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "816VLQNdPMM": {
+      "vid": "816VLQNdPMM",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:47:54.341870+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1wy4y1b7Ae",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【译制】绝对音准残酷的真相！成年人，别练了，没戏！",
+          "up": "音乐制作AsTune",
+          "duration": 985,
+          "original_duration": 986,
+          "cid": 317427589,
+          "aid": 799809628,
+          "segment_title": "Why Adults Can't Develop Perfect Pitch_压制版",
+          "page_count": 1,
+          "kind": "original",
+          "views": 100443,
+          "pic": "https://i1.hdslb.com/bfs/archive/60bd363e97329796a5994e2627abefa37e297d14.jpg",
+          "checked_at": "2026-11-05T07:47:54.035365+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "85ZCTuekjGA": {
+      "vid": "85ZCTuekjGA",
+      "status": "review",
+      "completed_at": "2026-11-05T07:48:20.151546+00:00",
+      "candidates": []
+    },
+    "86Krv3gE-c4": {
+      "vid": "86Krv3gE-c4",
+      "status": "review",
+      "completed_at": "2026-11-05T07:49:05.446108+00:00",
+      "candidates": []
+    },
+    "8ORLN_KwAgs": {
+      "vid": "8ORLN_KwAgs",
+      "status": "review",
+      "completed_at": "2026-11-05T07:49:25.772194+00:00",
+      "candidates": []
+    },
+    "9-IWMbJXoLM": {
+      "vid": "9-IWMbJXoLM",
+      "status": "review",
+      "completed_at": "2026-11-05T07:53:23.246800+00:00",
+      "candidates": []
+    },
+    "90NsjKvz9Ns": {
+      "vid": "90NsjKvz9Ns",
+      "status": "review",
+      "completed_at": "2026-11-05T07:55:21.264903+00:00",
+      "candidates": []
+    },
+    "99dKzubvpKE": {
+      "vid": "99dKzubvpKE",
+      "status": "review",
+      "completed_at": "2026-11-05T07:55:31.518735+00:00",
+      "candidates": []
+    },
+    "9F9ahZQ7oP0": {
+      "vid": "9F9ahZQ7oP0",
+      "status": "review",
+      "completed_at": "2026-11-05T07:55:55.412937+00:00",
+      "candidates": []
+    },
+    "9LfmrkyP81M": {
+      "vid": "9LfmrkyP81M",
+      "status": "review",
+      "completed_at": "2026-11-05T07:56:09.316606+00:00",
+      "candidates": []
+    },
+    "9W74aeuqsiU": {
+      "vid": "9W74aeuqsiU",
+      "status": "review",
+      "completed_at": "2026-11-05T07:56:31.119742+00:00",
+      "candidates": []
+    },
+    "9crggox5rbc": {
+      "vid": "9crggox5rbc",
+      "status": "review",
+      "completed_at": "2026-11-05T07:56:55.682533+00:00",
+      "candidates": []
+    },
+    "AGCmPLWZKd8": {
+      "vid": "AGCmPLWZKd8",
+      "status": "review",
+      "completed_at": "2026-11-05T07:57:10.785344+00:00",
+      "candidates": []
+    },
+    "ARYP83yNAWk": {
+      "vid": "ARYP83yNAWk",
+      "status": "review",
+      "completed_at": "2026-11-05T07:57:27.011262+00:00",
+      "candidates": []
+    },
+    "AZR0UKxNPh8": {
+      "vid": "AZR0UKxNPh8",
+      "status": "review",
+      "completed_at": "2026-11-05T07:57:34.661270+00:00",
+      "candidates": []
+    },
+    "Ac7G7xOG2Ag": {
+      "vid": "Ac7G7xOG2Ag",
+      "status": "review",
+      "completed_at": "2026-11-05T07:58:20.828499+00:00",
+      "candidates": []
+    },
+    "Av0PQDVTP4A": {
+      "vid": "Av0PQDVTP4A",
+      "status": "review",
+      "completed_at": "2026-11-05T07:58:39.896066+00:00",
+      "candidates": []
+    },
+    "B2482h_TNwg": {
+      "vid": "B2482h_TNwg",
+      "status": "review",
+      "completed_at": "2026-11-05T07:58:52.488353+00:00",
+      "candidates": []
+    },
+    "B8Y146v8HxE": {
+      "vid": "B8Y146v8HxE",
+      "status": "review",
+      "completed_at": "2026-11-05T07:59:28.546773+00:00",
+      "candidates": []
+    },
+    "BEG-ly9tQGk": {
+      "vid": "BEG-ly9tQGk",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T07:59:38.480168+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1MW411x7dJ",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Lars Andersen A new level of archery 国外真正的精灵王子惊人射术",
+          "up": "Leo_YX24",
+          "duration": 352,
+          "original_duration": 352,
+          "cid": 33163164,
+          "aid": 20300828,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1231,
+          "pic": "https://i1.hdslb.com/bfs/archive/bd3c21106ebb2855c2dcb20fd5823b56f76b7669.jpg",
+          "checked_at": "2026-11-05T07:59:38.190786+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "ByNs9TG30E8": {
+      "vid": "ByNs9TG30E8",
+      "status": "review",
+      "completed_at": "2026-11-05T07:59:45.424242+00:00",
+      "candidates": []
+    },
+    "D6EPuUdIC1E": {
+      "vid": "D6EPuUdIC1E",
+      "status": "review",
+      "completed_at": "2026-11-05T08:00:03.219325+00:00",
+      "candidates": []
+    },
+    "DFFVSvAr7Wc": {
+      "vid": "DFFVSvAr7Wc",
+      "status": "review",
+      "completed_at": "2026-11-05T08:00:28.830704+00:00",
+      "candidates": []
+    },
+    "DShDaJXK5qo": {
+      "vid": "DShDaJXK5qo",
+      "status": "review",
+      "completed_at": "2026-11-05T08:01:00.956378+00:00",
+      "candidates": []
+    },
+    "DXvAlwMAxiA": {
+      "vid": "DXvAlwMAxiA",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T08:01:09.807661+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1p8No6mEoF",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【熟肉】晶体管是怎么工作的-Ben Eater",
+          "up": "LVideoRoll",
+          "duration": 683,
+          "original_duration": 683,
+          "cid": 40052195907,
+          "aid": 116936608450421,
+          "segment_title": "【熟肉】晶体管是怎么工作的-Ben Eater",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 262,
+          "pic": "https://i0.hdslb.com/bfs/archive/1f9327d05ca6450e8007001c67c48b053f5439b1.jpg",
+          "checked_at": "2026-11-05T08:01:09.545832+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "DoeNbZlxfUM": {
+      "vid": "DoeNbZlxfUM",
+      "status": "review",
+      "completed_at": "2026-11-05T08:01:22.192186+00:00",
+      "candidates": []
+    },
+    "E0W1ZZYIV8o": {
+      "vid": "E0W1ZZYIV8o",
+      "status": "review",
+      "completed_at": "2026-11-05T08:01:41.326027+00:00",
+      "candidates": []
+    },
+    "EUXnJraKM3k": {
+      "vid": "EUXnJraKM3k",
+      "status": "review",
+      "completed_at": "2026-11-05T08:02:29.322934+00:00",
+      "candidates": []
+    },
+    "Ecy1FBdCRbQ": {
+      "vid": "Ecy1FBdCRbQ",
+      "status": "review",
+      "completed_at": "2026-11-05T08:02:51.968242+00:00",
+      "candidates": []
+    },
+    "Eghl19elKk8": {
+      "vid": "Eghl19elKk8",
+      "status": "review",
+      "completed_at": "2026-11-05T08:03:17.785167+00:00",
+      "candidates": []
+    },
+    "FBaVwwuErmU": {
+      "vid": "FBaVwwuErmU",
+      "status": "review",
+      "completed_at": "2026-11-05T08:03:31.450582+00:00",
+      "candidates": []
+    },
+    "FTKP0Y9MVus": {
+      "vid": "FTKP0Y9MVus",
+      "status": "review",
+      "completed_at": "2026-11-05T08:03:54.448012+00:00",
+      "candidates": []
+    },
+    "G-WO-z-QuWI": {
+      "vid": "G-WO-z-QuWI",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T08:04:05.668898+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1zHm8BiE4r",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【中配】如何改造金星 - Kurzgesagt",
+          "up": "数理分享",
+          "duration": 809,
+          "original_duration": 762,
+          "cid": 34646069185,
+          "aid": 115696218408087,
+          "segment_title": "【中配】如何改造金星 - Kurzgesagt",
+          "page_count": 1,
+          "kind": "dub_zh",
+          "views": 2431,
+          "pic": "https://i0.hdslb.com/bfs/archive/f5485dc41d0fc7bd8ade845ca4da0ac8f392bc48.jpg",
+          "checked_at": "2026-11-05T08:04:05.392469+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV19V411W7bG",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "【Kurz】如何快速改造金星？@青知字幕组",
+          "up": "青知字幕组",
+          "duration": 771,
+          "original_duration": 762,
+          "cid": 367499830,
+          "aid": 419119815,
+          "segment_title": "【成品】How To Terraform Venus (Quickly)",
+          "page_count": 1,
+          "kind": "original",
+          "views": 136014,
+          "pic": "https://i2.hdslb.com/bfs/archive/653345c964a4f09d9ac5ff6df6f107c346c601fd.jpg",
+          "checked_at": "2026-11-05T08:09:40.479513+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1xy4y1K7NC",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "kurzgesagt——我们应该如何改造金星？(生肉)",
+          "up": "元甫青禾",
+          "duration": 768,
+          "original_duration": 762,
+          "cid": 366613797,
+          "aid": 804017931,
+          "segment_title": "kurzgesagt",
+          "page_count": 1,
+          "kind": "original",
+          "views": 242,
+          "pic": "https://i2.hdslb.com/bfs/archive/a72b0796f550375c1d663bd020d32e7678ecbfee.jpg",
+          "checked_at": "2026-11-05T08:09:42.932436+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1kZxy6aEwj",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "如何快速改造金星？把炼狱变成绿洲",
+          "up": "njdkd",
+          "duration": 762,
+          "original_duration": 762,
+          "cid": 43212997929,
+          "aid": 117535789877147,
+          "segment_title": "source.zh-dub",
+          "page_count": 1,
+          "kind": "original",
+          "views": 14,
+          "pic": "https://i0.hdslb.com/bfs/archive/2351d5e45f30c7ffbfa9d5c50778f4aa988d1e22.jpg",
+          "checked_at": "2026-11-05T08:09:41.630263+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "G0ZZJXw4MTA": {
+      "vid": "G0ZZJXw4MTA",
+      "status": "review",
+      "completed_at": "2026-11-05T08:04:53.633931+00:00",
+      "candidates": []
+    },
+    "GtQdIYUtAHg": {
+      "vid": "GtQdIYUtAHg",
+      "status": "review",
+      "completed_at": "2026-11-05T08:05:23.005763+00:00",
+      "candidates": []
+    },
+    "H6ZFzEW7_Q4": {
+      "vid": "H6ZFzEW7_Q4",
+      "status": "review",
+      "completed_at": "2026-11-05T08:05:59.062016+00:00",
+      "candidates": []
+    },
+    "HMBl0ttu-Ow": {
+      "vid": "HMBl0ttu-Ow",
+      "status": "review",
+      "completed_at": "2026-11-05T08:06:14.292039+00:00",
+      "candidates": []
+    },
+    "HPqGaIMVuLs": {
+      "vid": "HPqGaIMVuLs",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T08:06:22.893448+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1p6F9eLEaE",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "[图形技术]Surface-Stable Fractal Dithering",
+          "up": "umamiiii",
+          "duration": 1306,
+          "original_duration": 1306,
+          "cid": 28168228693,
+          "aid": 113924645065251,
+          "segment_title": "[图形技术]Surface-Stable Fractal Dithering",
+          "page_count": 1,
+          "kind": "original",
+          "views": 912,
+          "pic": "https://i2.hdslb.com/bfs/archive/c35731f4d496624e88d5365c87fd8a0ee8d44aad.jpg",
+          "checked_at": "2026-11-05T08:06:22.598419+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "HSxSgbNQi-g": {
+      "vid": "HSxSgbNQi-g",
+      "status": "review",
+      "completed_at": "2026-11-05T08:06:43.319214+00:00",
+      "candidates": []
+    },
+    "HfNIiitVFtc": {
+      "vid": "HfNIiitVFtc",
+      "status": "review",
+      "completed_at": "2026-11-05T08:07:04.981038+00:00",
+      "candidates": []
+    },
+    "HlUe0TUHOIc": {
+      "vid": "HlUe0TUHOIc",
+      "status": "review",
+      "completed_at": "2026-11-05T08:07:17.536441+00:00",
+      "candidates": []
+    },
+    "Hzb37RyagCQ": {
+      "vid": "Hzb37RyagCQ",
+      "status": "review",
+      "completed_at": "2026-11-05T08:07:28.777610+00:00",
+      "candidates": []
+    },
+    "IRVdiHu1VCc": {
+      "vid": "IRVdiHu1VCc",
+      "status": "review",
+      "completed_at": "2026-11-05T08:07:44.722827+00:00",
+      "candidates": []
+    },
+    "IUDTlvagjJA": {
+      "vid": "IUDTlvagjJA",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T08:07:54.656775+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1uX4y1674D",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Virtual Barber Shop (Audio...use headphones_ close ur eyes)",
+          "up": "旺崽扭奶",
+          "duration": 281,
+          "original_duration": 281,
+          "cid": 1096073597,
+          "aid": 355121882,
+          "segment_title": "Virtual Barber Shop (Audio...use headphones_ close ur eyes)",
+          "page_count": 1,
+          "kind": "original",
+          "views": 350,
+          "pic": "https://i1.hdslb.com/bfs/archive/6ffa9a1546d33557cced2d542def163bd1fce616.jpg",
+          "checked_at": "2026-11-05T08:07:54.378187+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "J44svaQc5WY": {
+      "vid": "J44svaQc5WY",
+      "status": "review",
+      "completed_at": "2026-11-05T08:08:09.957879+00:00",
+      "candidates": []
+    },
+    "JRuNA2eK7w0": {
+      "vid": "JRuNA2eK7w0",
+      "status": "review",
+      "completed_at": "2026-11-05T08:08:23.650081+00:00",
+      "candidates": []
+    },
+    "Jd3-eiid-Uw": {
+      "vid": "Jd3-eiid-Uw",
+      "status": "review",
+      "completed_at": "2026-11-05T08:09:12.805961+00:00",
+      "candidates": []
+    },
+    "ODZBL80JPqw": {
+      "vid": "ODZBL80JPqw",
+      "status": "review",
+      "completed_at": "2026-11-05T08:09:29.446089+00:00",
+      "candidates": []
+    },
+    "TgFdics3uKo": {
+      "vid": "TgFdics3uKo",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T08:09:33.543136+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1vh411D7ru",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1vh411D7ru",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【教程】如何训练出世界上最好的耳朵！（二）抓住“关键窗口”期，错过了就是一生",
+          "up": "音乐制作AsTune",
+          "duration": 871,
+          "original_duration": 872,
+          "cid": 319754765,
+          "aid": 204949170,
+          "segment_title": "How To Develop Perfect Pitch! Part 1_压制版",
+          "page_count": 1,
+          "kind": "original",
+          "views": 9519,
+          "pic": "https://i1.hdslb.com/bfs/archive/a8d4d6dead34b4b0213950db199f1534f7f861ca.jpg",
+          "checked_at": "2026-11-05T08:09:33.543068+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1iy4y187f2",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1iy4y187f2",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【自翻熟肉】如何拥有绝对音感-01【搬运自Rick Beato】",
+          "up": "麋鹿的人参",
+          "duration": 871,
+          "original_duration": 872,
+          "cid": 313747740,
+          "aid": 799631424,
+          "segment_title": "How To Develop Perfect Pitch Part 1_1080p",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 536,
+          "pic": "https://i1.hdslb.com/bfs/archive/96894ed9ccc304ea9e1fbee2b49a9ba256a6c95d.jpg",
+          "checked_at": "2026-11-05T08:09:34.065714+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "PTUY16CkS-k": {
+      "vid": "PTUY16CkS-k",
+      "status": "review",
+      "completed_at": "2026-11-05T08:09:38.129504+00:00",
+      "candidates": []
+    },
+    "_7vPNcnYWQ4": {
+      "vid": "_7vPNcnYWQ4",
+      "status": "review",
+      "completed_at": "2026-11-05T08:09:39.810972+00:00",
+      "candidates": []
+    },
+    "sTu3LwpF6XI": {
+      "vid": "sTu3LwpF6XI",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T08:09:47.652249+00:00",
+      "candidates": [
+        {
+          "bvid": "BV16qNf6SEfE",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV16qNf6SEfE",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【熟肉】用晶体管制作逻辑门-Ben Eater",
+          "up": "LVideoRoll",
+          "duration": 782,
+          "original_duration": 782,
+          "cid": 40054230787,
+          "aid": 116937430403651,
+          "segment_title": "【熟肉】用晶体管制作逻辑门-Ben Eater",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 432,
+          "pic": "https://i0.hdslb.com/bfs/archive/533f40a77a31c2aff8eca3c6e0fb8f2eba81c791.jpg",
+          "checked_at": "2026-11-05T08:09:47.651862+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "tCRPUv8V22o": {
+      "vid": "tCRPUv8V22o",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T08:09:51.050581+00:00",
+      "candidates": [
+        {
+          "bvid": "BV12z4y117aj",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV12z4y117aj",
+          "page": 1,
+          "page_locked": true,
+          "evidence": [
+            "exact original YouTube ID explicitly associated with selected segment"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "title": "字节节拍：极简主义电音——单行C语言生成电音",
+          "up": "想太多的小马",
+          "duration": 435,
+          "original_duration": 435,
+          "cid": 309275594,
+          "aid": 587113937,
+          "segment_title": "Bytebeat - Music from very short programs - the 3rd iteration-tCRPUv8V22o",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1820,
+          "pic": "https://i2.hdslb.com/bfs/archive/a5332c7fd1778d89596a8d5db6a72c055d00212d.jpg",
+          "checked_at": "2026-11-05T08:09:51.050531+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "JrMiSQAGOS4": {
+      "vid": "JrMiSQAGOS4",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T08:10:14.912151+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1cm4y1d7am",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Why is Ukraine the West_s Fault_ Featuring John Mearsheimer",
+          "up": "Twilly_Brony",
+          "duration": 4456,
+          "original_duration": 4456,
+          "cid": 541233992,
+          "aid": 679451091,
+          "segment_title": "Why is Ukraine the West_s Fault_ Featuring John Mearsheimer",
+          "page_count": 1,
+          "kind": "original",
+          "views": 577,
+          "pic": "https://i1.hdslb.com/bfs/archive/0df83cab177655980b86b1d0151e12c99b24b0f4.jpg",
+          "checked_at": "2026-11-05T08:10:14.624624+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "JtKAScORevQ": {
+      "vid": "JtKAScORevQ",
+      "status": "review",
+      "completed_at": "2026-11-05T08:10:49.756725+00:00",
+      "candidates": []
+    },
+    "KFNxJVTJleE": {
+      "vid": "KFNxJVTJleE",
+      "status": "review",
+      "completed_at": "2026-11-05T08:11:16.384220+00:00",
+      "candidates": []
+    },
+    "KSWqx8goqSY": {
+      "vid": "KSWqx8goqSY",
+      "status": "review",
+      "completed_at": "2026-11-05T08:11:33.975119+00:00",
+      "candidates": []
+    },
+    "K_q-xnYRugQ": {
+      "vid": "K_q-xnYRugQ",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T08:11:42.284134+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1VgeB6SEXM",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description",
+            "exact original YouTube ID explicitly associated with selected segment"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【熟肉】美国电力系统最薄弱的环节 - Technology Connections K_q-xnYRugQ",
+          "up": "英文白斑马",
+          "duration": 1517,
+          "original_duration": 1548,
+          "cid": 42050129014,
+          "aid": 117302200702641,
+          "segment_title": "【熟肉】美国电力系统最薄弱的环节 - Technology Connections K_q-xnYRugQ",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 215,
+          "pic": "https://i1.hdslb.com/bfs/archive/4c2e66835c5d5be81ee9bb1541b5d1f9807b0d6f.png",
+          "checked_at": "2026-11-05T08:11:41.991440+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1XgeB6UEco",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description",
+            "exact original YouTube ID explicitly associated with selected segment"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "美国电力系统最薄弱的环节 - Technology Connections K_q-xnYRugQ",
+          "up": "黑纹白斑马",
+          "duration": 1474,
+          "original_duration": 1548,
+          "cid": 42050129092,
+          "aid": 117302200632494,
+          "segment_title": "美国电力系统最薄弱的环节 - Technology Connections K_q-xnYRugQ",
+          "page_count": 1,
+          "kind": "original",
+          "views": 637,
+          "pic": "https://i1.hdslb.com/bfs/archive/4c2e66835c5d5be81ee9bb1541b5d1f9807b0d6f.png",
+          "checked_at": "2026-11-05T08:27:14.881795+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "KaOC9danxNo": {
+      "vid": "KaOC9danxNo",
+      "status": "review",
+      "completed_at": "2026-11-05T08:12:02.276529+00:00",
+      "candidates": []
+    },
+    "KqFNbCcyFkk": {
+      "vid": "KqFNbCcyFkk",
+      "status": "review",
+      "completed_at": "2026-11-05T08:12:27.964669+00:00",
+      "candidates": []
+    },
+    "L-x8DYTOv7w": {
+      "vid": "L-x8DYTOv7w",
+      "status": "review",
+      "completed_at": "2026-11-05T08:12:45.675111+00:00",
+      "candidates": []
+    },
+    "LWGJA9i18Co": {
+      "vid": "LWGJA9i18Co",
+      "status": "review",
+      "completed_at": "2026-11-05T08:13:29.677079+00:00",
+      "candidates": []
+    },
+    "M4AhABManTw": {
+      "vid": "M4AhABManTw",
+      "status": "review",
+      "completed_at": "2026-11-05T08:13:47.415143+00:00",
+      "candidates": []
+    },
+    "MQyxG4vTyZ8": {
+      "vid": "MQyxG4vTyZ8",
+      "status": "review",
+      "completed_at": "2026-11-05T08:14:04.356983+00:00",
+      "candidates": []
+    },
+    "Mz3JeYfBTcY": {
+      "vid": "Mz3JeYfBTcY",
+      "status": "review",
+      "completed_at": "2026-11-05T08:14:19.533416+00:00",
+      "candidates": []
+    },
+    "N-yALPEpV4w": {
+      "vid": "N-yALPEpV4w",
+      "status": "review",
+      "completed_at": "2026-11-05T08:14:46.312459+00:00",
+      "candidates": []
+    },
+    "NMvwHDFVpCE": {
+      "vid": "NMvwHDFVpCE",
+      "status": "review",
+      "completed_at": "2026-11-05T08:14:57.534285+00:00",
+      "candidates": []
+    },
+    "NUQu-OPrzUc": {
+      "vid": "NUQu-OPrzUc",
+      "status": "review",
+      "completed_at": "2026-11-05T08:15:16.658061+00:00",
+      "candidates": []
+    },
+    "NXN7TOg3kj4": {
+      "vid": "NXN7TOg3kj4",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T08:15:27.901306+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1bE42157ER",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "FreeCAD 0.20初学者版|1|设置、首选项和导航|学习CAD的简易教程",
+          "up": "账号已注销",
+          "duration": 1444,
+          "original_duration": 1444,
+          "cid": 1525472433,
+          "aid": 1653985522,
+          "segment_title": "FreeCAD 0.20初学者版|1|设置、首选项和导航|学习CAD的简易教程",
+          "page_count": 1,
+          "kind": "original",
+          "views": 85,
+          "pic": "https://i0.hdslb.com/bfs/archive/15de145a3b7d7b9905ccacf09307451160f6f9fc.jpg",
+          "checked_at": "2026-11-05T08:15:27.616472+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "NYSgd1XSZXc": {
+      "vid": "NYSgd1XSZXc",
+      "status": "review",
+      "completed_at": "2026-11-05T08:16:22.245084+00:00",
+      "candidates": []
+    },
+    "O-2tpwW0kmU": {
+      "vid": "O-2tpwW0kmU",
+      "status": "review",
+      "completed_at": "2026-11-05T08:16:47.848190+00:00",
+      "candidates": []
+    },
+    "OMPfEXIlTVE": {
+      "vid": "OMPfEXIlTVE",
+      "status": "review",
+      "completed_at": "2026-11-05T08:16:55.228710+00:00",
+      "candidates": []
+    },
+    "OQ5jsbhAv_M": {
+      "vid": "OQ5jsbhAv_M",
+      "status": "review",
+      "completed_at": "2026-11-05T08:17:19.515137+00:00",
+      "candidates": []
+    },
+    "Oo0jm1PPRuo": {
+      "vid": "Oo0jm1PPRuo",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T08:17:29.436587+00:00",
+      "candidates": [
+        {
+          "bvid": "BV14x411G7wx",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【熟肉】【CC字幕】2018我们如何重新定义质量单位-千克",
+          "up": "呆槑槑槑槑呆",
+          "duration": 589,
+          "original_duration": 589,
+          "cid": 24058751,
+          "aid": 14762878,
+          "segment_title": "P1",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 3383,
+          "pic": "https://i2.hdslb.com/bfs/archive/0a0260a811b1c5852b46fd2037cfdb321cd8b37d.jpg",
+          "checked_at": "2026-11-05T08:17:29.150739+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1Bx411q7Wx",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "【Veritasium】新KG（公斤）是怎么定义的",
+          "up": "星晨氏",
+          "duration": 589,
+          "original_duration": 589,
+          "cid": 20026820,
+          "aid": 12145768,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "original",
+          "views": 829,
+          "pic": "https://i0.hdslb.com/bfs/archive/23ac2e4bb9f92515a53b895544b5cf27f6d23f3e.jpg",
+          "checked_at": "2026-11-05T08:27:21.701351+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "OqjcrfKjobY": {
+      "vid": "OqjcrfKjobY",
+      "status": "review",
+      "completed_at": "2026-11-05T08:18:01.588176+00:00",
+      "candidates": []
+    },
+    "PIPjmmmh_os": {
+      "vid": "PIPjmmmh_os",
+      "status": "review",
+      "completed_at": "2026-11-05T08:18:20.639592+00:00",
+      "candidates": []
+    },
+    "PJnJ8mK3Q3g": {
+      "vid": "PJnJ8mK3Q3g",
+      "status": "review",
+      "completed_at": "2026-11-05T08:18:37.160580+00:00",
+      "candidates": []
+    },
+    "PQccNdwm8Tw": {
+      "vid": "PQccNdwm8Tw",
+      "status": "review",
+      "completed_at": "2026-11-05T08:19:01.732325+00:00",
+      "candidates": []
+    },
+    "PYylPRX6z4Q": {
+      "vid": "PYylPRX6z4Q",
+      "status": "review",
+      "completed_at": "2026-11-05T08:19:19.202277+00:00",
+      "candidates": []
+    },
+    "PZbqAMEwtOE": {
+      "vid": "PZbqAMEwtOE",
+      "status": "review",
+      "completed_at": "2026-11-05T08:19:42.453502+00:00",
+      "candidates": []
+    },
+    "PdO3IP0Pro8": {
+      "vid": "PdO3IP0Pro8",
+      "status": "review",
+      "completed_at": "2026-11-05T08:19:52.169293+00:00",
+      "candidates": []
+    },
+    "Ps8jOj7diA0": {
+      "vid": "Ps8jOj7diA0",
+      "status": "review",
+      "completed_at": "2026-11-05T08:20:34.966444+00:00",
+      "candidates": []
+    },
+    "QOEMv0S8AcA": {
+      "vid": "QOEMv0S8AcA",
+      "status": "review",
+      "completed_at": "2026-11-05T08:20:43.313579+00:00",
+      "candidates": []
+    },
+    "QRaACa1Mrd4": {
+      "vid": "QRaACa1Mrd4",
+      "status": "review",
+      "completed_at": "2026-11-05T08:20:58.518331+00:00",
+      "candidates": []
+    },
+    "R3xX37RGJKE": {
+      "vid": "R3xX37RGJKE",
+      "status": "review",
+      "completed_at": "2026-11-05T08:21:12.356836+00:00",
+      "candidates": []
+    },
+    "REni8Oi1QJQ": {
+      "vid": "REni8Oi1QJQ",
+      "status": "review",
+      "completed_at": "2026-11-05T08:21:22.135303+00:00",
+      "candidates": []
+    },
+    "RQv5CVELG3U": {
+      "vid": "RQv5CVELG3U",
+      "status": "review",
+      "completed_at": "2026-11-05T08:21:49.878686+00:00",
+      "candidates": []
+    },
+    "RTB5XhjbgZA": {
+      "vid": "RTB5XhjbgZA",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T08:22:03.723663+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1zqHEzxEss",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "分段显示屏 | Posy",
+          "up": "部长个人汉化",
+          "duration": 835,
+          "original_duration": 835,
+          "cid": 32757256115,
+          "aid": 115295259724371,
+          "segment_title": "分段显示屏 | Posy",
+          "page_count": 1,
+          "kind": "original",
+          "views": 8214,
+          "pic": "https://i0.hdslb.com/bfs/archive/a508132e1f60d4d2f3e94ca97fdb6e26ac4c1dee.jpg",
+          "checked_at": "2026-11-05T08:22:03.436697+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "RUwS1uAdUcI": {
+      "vid": "RUwS1uAdUcI",
+      "status": "review",
+      "completed_at": "2026-11-05T08:22:18.632817+00:00",
+      "candidates": []
+    },
+    "Ra_0DgnJ1uQ": {
+      "vid": "Ra_0DgnJ1uQ",
+      "status": "review",
+      "completed_at": "2026-11-05T08:22:42.761956+00:00",
+      "candidates": []
+    },
+    "RlXdsyctD50": {
+      "vid": "RlXdsyctD50",
+      "status": "review",
+      "completed_at": "2026-11-05T08:23:11.193821+00:00",
+      "candidates": []
+    },
+    "RxD6H3ri8RI": {
+      "vid": "RxD6H3ri8RI",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T08:23:19.554959+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1WF411r7YJ",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【中字】Blender VFX 教程：绿屏的疯狂技巧 -绿幕-合成-跟追踪 -抠像节点",
+          "up": "幻鹰剑",
+          "duration": 591,
+          "original_duration": 591,
+          "cid": 1259546951,
+          "aid": 275720212,
+          "segment_title": "【中字】Blender VFX 教程：绿屏的疯狂技巧 -绿幕-合成-跟追踪 -抠像节点",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 2975,
+          "pic": "https://i1.hdslb.com/bfs/archive/2372bf2998c8f98aeab0a82e939fd0df04f543ef.jpg",
+          "checked_at": "2026-11-05T08:23:19.276814+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "SMEOKDVXlUo": {
+      "vid": "SMEOKDVXlUo",
+      "status": "review",
+      "completed_at": "2026-11-05T08:23:36.075911+00:00",
+      "candidates": []
+    },
+    "T3u7bGgVspM": {
+      "vid": "T3u7bGgVspM",
+      "status": "review",
+      "completed_at": "2026-11-05T08:23:51.249287+00:00",
+      "candidates": []
+    },
+    "URJ_qSXruW0": {
+      "vid": "URJ_qSXruW0",
+      "status": "review",
+      "completed_at": "2026-11-05T08:24:12.901796+00:00",
+      "candidates": []
+    },
+    "UnU7DJXiMAQ": {
+      "vid": "UnU7DJXiMAQ",
+      "status": "review",
+      "completed_at": "2026-11-05T08:24:20.408220+00:00",
+      "candidates": []
+    },
+    "V4V2bpZlqx8": {
+      "vid": "V4V2bpZlqx8",
+      "status": "review",
+      "completed_at": "2026-11-05T08:24:51.215749+00:00",
+      "candidates": []
+    },
+    "VBwWbFpkltg": {
+      "vid": "VBwWbFpkltg",
+      "status": "review",
+      "completed_at": "2026-11-05T08:25:10.253560+00:00",
+      "candidates": []
+    },
+    "VDfX44fZoMc": {
+      "vid": "VDfX44fZoMc",
+      "status": "review",
+      "completed_at": "2026-11-05T08:25:24.079754+00:00",
+      "candidates": []
+    },
+    "VNvzZfsC13o": {
+      "vid": "VNvzZfsC13o",
+      "status": "review",
+      "completed_at": "2026-11-05T08:25:55.225141+00:00",
+      "candidates": []
+    },
+    "VO_1AdYRGW8": {
+      "vid": "VO_1AdYRGW8",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T08:26:04.853179+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1t54y1X7KM",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "[4k, 60 fps] San Francisco, a Trip down Market Street, April 14, 1906",
+          "up": "霜星耀天穹",
+          "duration": 863,
+          "original_duration": 863,
+          "cid": 186289508,
+          "aid": 840620211,
+          "segment_title": "[4k, 60 fps] San Francisco, a Trip down Market Street, April 14, 1906",
+          "page_count": 1,
+          "kind": "original",
+          "views": 108,
+          "pic": "https://i2.hdslb.com/bfs/archive/928afd7911c0a87437a55d36b19d18444a263db6.jpg",
+          "checked_at": "2026-11-05T08:26:04.559770+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "VPBH1eW28mo": {
+      "vid": "VPBH1eW28mo",
+      "status": "review",
+      "completed_at": "2026-11-05T08:26:43.484775+00:00",
+      "candidates": []
+    },
+    "VeAdryYZ7ak": {
+      "vid": "VeAdryYZ7ak",
+      "status": "review",
+      "completed_at": "2026-11-05T08:27:00.203509+00:00",
+      "candidates": []
+    },
+    "lY8Ol2n4o4A": {
+      "vid": "lY8Ol2n4o4A",
+      "status": "review",
+      "completed_at": "2026-11-05T08:27:18.309273+00:00",
+      "candidates": []
+    },
+    "B9ly7JjqEb0": {
+      "vid": "B9ly7JjqEb0",
+      "status": "review",
+      "completed_at": "2026-11-05T08:27:19.848808+00:00",
+      "candidates": []
+    },
+    "sPFmKu2S5XY": {
+      "vid": "sPFmKu2S5XY",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T08:27:26.943336+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1T5Tk6JEiy",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1T5Tk6JEiy",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "ADHD的神经解剖学：第三部分（Russell Barkley 2009）",
+          "up": "不专注哒",
+          "duration": 2276,
+          "original_duration": 2276,
+          "cid": 39578438906,
+          "aid": 116848091862294,
+          "segment_title": "ADHD的神经解剖学：第三部分（Russell Barkley 2009）",
+          "page_count": 1,
+          "kind": "original",
+          "views": 66,
+          "pic": "https://i1.hdslb.com/bfs/archive/bcfd8aa70361c563cfcd8d71afe26c6ed6f8b4cb.jpg",
+          "checked_at": "2026-11-05T08:27:26.943266+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "_160oMzblY8": {
+      "vid": "_160oMzblY8",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T08:27:30.045693+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1NW411q7bQ",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1NW411q7bQ",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【区块链学习No.7】Blockchain 101 - A Visual Demo",
+          "up": "区块链大神",
+          "duration": 1070,
+          "original_duration": 1070,
+          "cid": 29780237,
+          "aid": 18241429,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "original",
+          "views": 551,
+          "pic": "https://i0.hdslb.com/bfs/archive/7ca594d5ca7b4a90b8c1506bf3c3f2e9fecbe74e.jpg",
+          "checked_at": "2026-11-05T08:27:30.045631+00:00",
           "availability": "available"
         }
       ]
