@@ -1,0 +1,131 @@
+{
+  "checked_at": "2026-11-05T01:12:08.181Z",
+  "checks": [
+    {
+      "sample": "iHzzSao6ypE",
+      "kind": "sub_zh",
+      "id": "iHzzSao6ypE",
+      "bvid": "BV1saMw6BEn7",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.944435,
+        "duration": 265,
+        "paused": false
+      },
+      "expected_duration": 265,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "39648560901"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【熟肉】交通问题有完美解法，问题出在人类身上 - CGP Grey\n英文白斑马\n关注\n2\n4\n分享\n更多\n00:04 / 04:25\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "-4Yp3j_jk8Q",
+      "kind": "sub_zh",
+      "id": "-4Yp3j_jk8Q",
+      "bvid": "BV14WViegEBw",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.957623,
+        "duration": 3589.7850000000003,
+        "paused": false
+      },
+      "expected_duration": 3591,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "500001583183051"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "[中文字幕] Leslie Lamport: Thinking Above The Code (莱斯利·兰伯特：超越代码的思考)\n80661238181_bili\n关注\n2\n1\n分享\n更多\n00:04 / 59:50\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "-k-V3ESHcfA",
+      "kind": "dub_zh",
+      "id": "-k-V3ESHcfA",
+      "bvid": "BV1Lo2sB5EHF",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.944805,
+        "duration": 999,
+        "paused": false
+      },
+      "expected_duration": 999,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "34479867948"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【中配】给比尔盖茨喂假汉堡拯救世界 - Mark Rober\nAI译片君\n关注\n31\n3\n分享\n更多\n00:04 / 16:39\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "tWr39Q9vBgo",
+      "kind": "original",
+      "id": "tWr39Q9vBgo",
+      "bvid": "BV1Nw41137zT",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.939082,
+        "duration": 113,
+        "paused": false
+      },
+      "expected_duration": 113,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1392631830"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "费曼：为什么我觉得社会“科学”是伪科学？Richard Feynman on Pseudoscience\n骗流量的频道\n关注\n6\n1\n分享\n更多\n00:04 / 01:53\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "aircAruvnKk",
+      "kind": "official_zh",
+      "id": "aircAruvnKk",
+      "bvid": "BV1bx411M7Zx",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.945868,
+        "duration": 1152.853,
+        "paused": false
+      },
+      "expected_duration": 1153,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "25368631"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【官方双语】深度学习之神经网络的结构 Part 1 ver 2.0\n3Blue1Brown\n关注\n2.4万\n761\n分享\n更多\n00:04 / 19:13\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "66YRCjkxIcg",
+      "kind": "original",
+      "id": "66YRCjkxIcg",
+      "bvid": "BV1NJ411i7c2",
+      "page": 10,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.215412,
+        "duration": 553,
+        "paused": false
+      },
+      "expected_duration": 553,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "133678125"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "[搬运] Civil Engineering | Practical Engineering\n好想取个简单的昵称\n关注\n84\n3\n分享\n更多\n00:05 / 09:13\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

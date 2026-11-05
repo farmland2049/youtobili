@@ -154,9 +154,10 @@ def import_legacy():
     write(WORK/'library.json',lib); write(WORK/'orphans.json',orphan)
     return lib
 
-def lang_kind(title, owner, original):
-    official = norm(owner) == norm(original) and bool(norm(original))
-    # "官方" in a title alone does not prove account ownership.
+def lang_kind(title, owner, original, mid=None):
+    account=read(ROOT/'data/official-channels.json',{}).get('accounts',{}).get(norm(original))
+    # Neither matching names nor "官方" in a title prove creator ownership.
+    official=bool(account and mid is not None and str(mid)==str(account['bilibili_mid']))
     sub = bool(re.search(r'双语|中英|中字|中文.{0,6}字幕|中文翻译|汉化|熟肉|精译',title))
     dub = bool(re.search(r'配音|中配|中文讲解|中文配|中文语音',title))
     return 'official_zh' if official and (sub or dub) else 'dub_zh' if dub else 'sub_zh' if sub else 'official_original' if official else 'original'
@@ -213,7 +214,7 @@ def evaluate(client, original, c):
         page = ranked[0]['page'] if ranked else 1
     result = assess(original,d,page,duration)
     p = next((p for p in pages if p['page']==page),{})
-    kind = lang_kind(d['title'],d['owner']['name'],original.get('channel',''))
+    kind = lang_kind(d['title'],d['owner']['name'],original.get('channel',''),d['owner'].get('mid'))
     fresh = {**c,**result,'page':page,'title':d['title'],'up':d['owner']['name'],
         'duration':p.get('duration',0),'original_duration':duration,'cid':p.get('cid'),'aid':d.get('aid'),
         'segment_title':p.get('part',''),'page_count':len(pages), 'kind':kind,
@@ -330,7 +331,7 @@ def run_match(args):
                             title=html.unescape(re.sub(r'<[^>]+>','',item.get('title') or ''))
                             snippet=html.unescape(re.sub(r'<[^>]+>','',item.get('description') or ''))
                             views=item.get('play',0)
-                            candidate['search_hint']={'kind':lang_kind(title,item.get('author') or '',original.get('channel','')),
+                            candidate['search_hint']={'kind':lang_kind(title,item.get('author') or '',original.get('channel',''),item.get('mid')),
                                 'identity':vid in primary_identity_ids(snippet),'views':views if isinstance(views,(int,float)) else 0}
                             duration=search_duration(item.get('duration'))
                             if defer_short_candidate(source_duration,duration):

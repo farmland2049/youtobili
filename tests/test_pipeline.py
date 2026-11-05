@@ -46,12 +46,25 @@ class MatchingTests(unittest.TestCase):
  def test_multiple_original_links(self):
   self.d['desc']+=' https://youtu.be/ABCDEFGHIJK';self.assertEqual(self.result()['status'],'review')
  def test_language_ranking_and_official_identity(self):
-  self.assertEqual(p.lang_kind('官方双语','Author','Author'),'official_zh')
+  self.assertEqual(p.lang_kind('官方双语','Author','Author'),'sub_zh')
   self.assertEqual(p.lang_kind('官方双语','搬运者','Author'),'sub_zh')
   self.assertEqual(p.lang_kind('中文配音','搬运者','Author'),'dub_zh')
   self.assertEqual(p.lang_kind('中文字幕配音','搬运者','Author'),'dub_zh')
-  self.assertEqual(p.lang_kind('【熟肉】向量','Author','Author'),'official_zh')
+  self.assertEqual(p.lang_kind('【熟肉】向量','Author','Author'),'sub_zh')
   self.assertLess(p.LANG_RANK['sub_zh'],p.LANG_RANK['dub_zh'])
+ def test_official_requires_verified_creator_account_id(self):
+  from unittest.mock import patch
+  with tempfile.TemporaryDirectory() as temp,patch.object(p,'ROOT',Path(temp)):
+   p.write(Path(temp)/'data/official-channels.json',{'accounts':{'author':{'bilibili_mid':123}}})
+   self.assertEqual(p.lang_kind('官方双语','Author','Author',456),'sub_zh')
+   self.assertEqual(p.lang_kind('官方双语','Author','Author'),'sub_zh')
+   self.assertEqual(p.lang_kind('官方双语','Renamed account','Author','123'),'official_zh')
+   self.assertEqual(p.lang_kind('Original','Renamed account','Author',123),'official_original')
+   self.assertEqual(p.lang_kind('Original','Author','Other creator',123),'original')
+ def test_missing_official_registry_does_not_trust_matching_names(self):
+  from unittest.mock import patch
+  with tempfile.TemporaryDirectory() as temp,patch.object(p,'ROOT',Path(temp)):
+   self.assertEqual(p.lang_kind('Original','Author','Author',123),'original')
  def test_network_failure_is_not_invalid(self):
   class Failing:
    def get(self,url):raise p.ApiError('timeout')
