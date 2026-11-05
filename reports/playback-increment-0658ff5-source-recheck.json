@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-11-05T07:02:17.583Z",
+  "checks": [
+    {
+      "sample": "qp0HIF3SfI4",
+      "kind": "sub_zh",
+      "id": "qp0HIF3SfI4",
+      "bvid": "BV1vW411a75e",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.222952,
+        "duration": 1082,
+        "paused": false
+      },
+      "expected_duration": 1082,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "27516050"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【TED】中文字幕 优秀的领军者如何激发大众的行为 How great leaders inspire action\n早睡早起的猫鲁老师\n关注\n628\n25\n分享\n更多\n00:05 / 18:02\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "-Ht4qiDRZE8",
+      "kind": "sub_zh",
+      "id": "-Ht4qiDRZE8",
+      "bvid": "BV1Ux411C7MX",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.953795,
+        "duration": 997,
+        "paused": false
+      },
+      "expected_duration": 997,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "15071218"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Luis Von Ahn - Massive-scale online collaboration (2011) 中文字幕\nwe-taper\n关注\n24\n1\n分享\n更多\n00:04 / 16:37\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "xx7Lfh5SKUQ",
+      "kind": "sub_zh",
+      "id": "xx7Lfh5SKUQ",
+      "bvid": "BV1rgxhzTEFJ",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.183314,
+        "duration": 3702,
+        "paused": false
+      },
+      "expected_duration": 3702,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "32845399947"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【熟肉】34C3演讲：关于阿波罗导航计算机的一切\nRigoLigo\n关注\n230\n30\n分享\n更多\n0:00:05 / 1:01:42\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

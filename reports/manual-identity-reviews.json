@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-04T23:05:06.948872+00:00",
+  "checked_at": "2026-11-05T07:01:21.878609+00:00",
   "reviews": [
     {
       "id": "NNnIGh9g6fA",
@@ -140,6 +140,176 @@
         "https://www.ted.com/talks/nadia_lopez_why_open_a_school_to_close_a_prison"
       ],
       "frame_by_frame_comparison": false
+    },
+    {
+      "bvid": "BV1vW411a75e",
+      "page": 1,
+      "cid": 27516050,
+      "duration_s": 1082,
+      "original_duration_s": 1115,
+      "decision": "confirmed",
+      "reviewer": "Codex",
+      "source": "https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action",
+      "source_snapshot": {
+        "source": "https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action",
+        "snapshot": "simon_sinek_how_great_leaders_inspire_action-0658ff5.html",
+        "source_sha256": "d68643618c29ea892197cd5f18813ab74fad001b36d34b637a9e8ebc4c1a2844",
+        "checked_at": "2026-11-05T01:33:49.706176+00:00",
+        "youtube_external_players": [
+          {
+            "path": [
+              "props",
+              "pageProps",
+              "videoData",
+              "videoPlayerData",
+              "external"
+            ],
+            "external": {
+              "__typename": "VideoPlayerExternal",
+              "service": "YouTube",
+              "code": "qp0HIF3SfI4",
+              "duration": 1115,
+              "startTime": 0
+            }
+          }
+        ]
+      },
+      "frame_by_frame_comparison": false,
+      "id": "qp0HIF3SfI4",
+      "evidence": "Codex来源链复核：BV简介引用https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action，已读取TED官网主播放器JSON（props.pageProps.videoData.videoPlayerData.external），其YouTube code为qp0HIF3SfI4、时长1115秒。BV单P为1082秒、CID27516050，差33秒，处于约定检查线内。当前元数据没有年份、集次、明显删减标记或跨原片分P归属冲突。此为来源链与元数据核对，未逐帧比较；Revalidated current cached availability, CID, source hashes, duration, flags and segment ownership before approval.",
+      "reviewed_at": "2026-11-05T07:01:20.644770+00:00",
+      "evidence_type": "creator source chain and segment metadata",
+      "sources": [
+        "https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action"
+      ]
+    },
+    {
+      "bvid": "BV1C7411Z7WT",
+      "page": 1,
+      "cid": 165498245,
+      "duration_s": 1082,
+      "original_duration_s": 1115,
+      "decision": "confirmed",
+      "reviewer": "Codex",
+      "source": "https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action",
+      "source_snapshot": {
+        "source": "https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action",
+        "snapshot": "simon_sinek_how_great_leaders_inspire_action-0658ff5.html",
+        "source_sha256": "d68643618c29ea892197cd5f18813ab74fad001b36d34b637a9e8ebc4c1a2844",
+        "checked_at": "2026-11-05T01:33:49.706176+00:00",
+        "youtube_external_players": [
+          {
+            "path": [
+              "props",
+              "pageProps",
+              "videoData",
+              "videoPlayerData",
+              "external"
+            ],
+            "external": {
+              "__typename": "VideoPlayerExternal",
+              "service": "YouTube",
+              "code": "qp0HIF3SfI4",
+              "duration": 1115,
+              "startTime": 0
+            }
+          }
+        ]
+      },
+      "frame_by_frame_comparison": false,
+      "id": "qp0HIF3SfI4",
+      "evidence": "Codex来源链复核：BV简介引用https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action，已读取TED官网主播放器JSON（props.pageProps.videoData.videoPlayerData.external），其YouTube code为qp0HIF3SfI4、时长1115秒。BV单P为1082秒、CID165498245，差33秒，处于约定检查线内。当前元数据没有年份、集次、明显删减标记或跨原片分P归属冲突。此为来源链与元数据核对，未逐帧比较；Revalidated current cached availability, CID, source hashes, duration, flags and segment ownership before approval.",
+      "reviewed_at": "2026-11-05T07:01:21.044918+00:00",
+      "evidence_type": "creator source chain and segment metadata",
+      "sources": [
+        "https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action"
+      ]
+    },
+    {
+      "bvid": "BV1Ux411C7MX",
+      "page": 1,
+      "cid": 15071218,
+      "duration_s": 997,
+      "original_duration_s": 1000,
+      "decision": "confirmed",
+      "reviewer": "Codex",
+      "source": "https://www.ted.com/talks/luis_von_ahn_massive_scale_online_collaboration",
+      "source_snapshot": {
+        "source": "https://www.ted.com/talks/luis_von_ahn_massive_scale_online_collaboration",
+        "snapshot": "luis_von_ahn_massive_scale_online_collaboration-0658ff5.html",
+        "source_sha256": "333bd434dc3b1bc1e2916378d34aaab6c5c550a5fd96d1936b3de59bbb9a1024",
+        "checked_at": "2026-11-05T01:33:55.455514+00:00",
+        "youtube_external_players": [
+          {
+            "path": [
+              "props",
+              "pageProps",
+              "videoData",
+              "videoPlayerData",
+              "external"
+            ],
+            "external": {
+              "__typename": "VideoPlayerExternal",
+              "service": "YouTube",
+              "code": "-Ht4qiDRZE8",
+              "duration": 1000,
+              "startTime": 0
+            }
+          }
+        ]
+      },
+      "frame_by_frame_comparison": false,
+      "id": "-Ht4qiDRZE8",
+      "evidence": "Codex来源链复核：BV简介引用https://www.ted.com/talks/luis_von_ahn_massive_scale_online_collaboration，已读取TED官网主播放器JSON（props.pageProps.videoData.videoPlayerData.external），其YouTube code为-Ht4qiDRZE8、时长1000秒。BV单P为997秒、CID15071218，差3秒，处于约定检查线内。当前元数据没有年份、集次、明显删减标记或跨原片分P归属冲突。此为来源链与元数据核对，未逐帧比较；Revalidated current cached availability, CID, source hashes, duration, flags and segment ownership before approval.",
+      "reviewed_at": "2026-11-05T07:01:21.476156+00:00",
+      "evidence_type": "creator source chain and segment metadata",
+      "sources": [
+        "https://www.ted.com/talks/luis_von_ahn_massive_scale_online_collaboration"
+      ]
+    },
+    {
+      "bvid": "BV1rgxhzTEFJ",
+      "page": 1,
+      "cid": 32845399947,
+      "duration_s": 3702,
+      "original_duration_s": 3702,
+      "decision": "confirmed",
+      "reviewer": "Codex",
+      "source": "https://media.ccc.de/v/34c3-9064-the_ultimate_apollo_guidance_computer_talk",
+      "sources": [
+        "https://media.ccc.de/v/34c3-9064-the_ultimate_apollo_guidance_computer_talk",
+        "https://www.pagetable.com/157",
+        "https://www.pagetable.com/156"
+      ],
+      "source_snapshot": {
+        "source": "https://www.pagetable.com/157",
+        "snapshot": "pagetable-apollo-source-0658ff5.html",
+        "source_sha256": "3c427cb00d5a72e872b98e8833fb385c2eac4a0e272648840eeaae600a6d6c13",
+        "checked_at": "2026-11-05T01:50:09.137454+00:00",
+        "youtube_ids": [
+          "xx7Lfh5SKUQ"
+        ],
+        "video_iframes": [
+          "https://www.youtube-nocookie.com/embed/xx7Lfh5SKUQ"
+        ]
+      },
+      "creator_event_metadata": {
+        "persons": [
+          "Michael Steil",
+          "Christian Hessmann"
+        ],
+        "conference_title": "34C3: TUWAT",
+        "date": "2017-12-27T00:00:00.000+01:00",
+        "duration": 3701,
+        "source": "https://api.media.ccc.de/public/events/4795",
+        "snapshot": "ccc-apollo-metadata.json",
+        "source_sha256": "5ccf469e85fe5e707572ce10c39e04200da98c4da5b143eab2f6d0a6a8d077cf"
+      },
+      "frame_by_frame_comparison": false,
+      "id": "xx7Lfh5SKUQ",
+      "evidence": "Codex来源链复核：BV简介引用CCC官方34c3-9064演讲页；官方事件元数据列出Michael Steil与Christian Hessmann、34C3及3701秒。讲者的2018年公开录像文章https://www.pagetable.com/157明确标注为34C3录像，正文唯一iframe嵌入https://www.youtube-nocookie.com/embed/xx7Lfh5SKUQ，绑定本库原片ID。同一演讲公告为https://www.pagetable.com/156。BV单P及原片均3702秒、CID32845399947。当前元数据无年份、集次、明显删减标记或跨原片分P归属冲突。此为来源链与元数据核对，未逐帧比较；Revalidated current cached availability, CID, source hashes, duration, flags and segment ownership before approval.",
+      "reviewed_at": "2026-11-05T07:01:21.878600+00:00",
+      "evidence_type": "creator source chain and segment metadata"
     }
   ]
 }

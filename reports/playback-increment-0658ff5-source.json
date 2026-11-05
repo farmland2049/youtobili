@@ -1,0 +1,20 @@
+{
+  "checked_at": "2026-11-05T07:01:43.276Z",
+  "checks": [
+    {
+      "sample": "qp0HIF3SfI4",
+      "error": "page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8765/#v/qp0HIF3SfI4\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:8765/#v/qp0HIF3SfI4\", waiting until \"load\"\u001b[22m\n",
+      "playing": false
+    },
+    {
+      "sample": "-Ht4qiDRZE8",
+      "error": "page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8765/#v/-Ht4qiDRZE8\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:8765/#v/-Ht4qiDRZE8\", waiting until \"load\"\u001b[22m\n",
+      "playing": false
+    },
+    {
+      "sample": "xx7Lfh5SKUQ",
+      "error": "page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:8765/#v/xx7Lfh5SKUQ\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:8765/#v/xx7Lfh5SKUQ\", waiting until \"load\"\u001b[22m\n",
+      "playing": false
+    }
+  ]
+}
