@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-05T14:44:50.090426+00:00",
+  "built_at": "2026-11-05T22:53:00.121988+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 1997,
-    "confirmed": 689,
-    "coverage": 0.10675550046482801,
-    "processed_match_rate": 0.34501752628943416
+    "processed": 2061,
+    "confirmed": 702,
+    "coverage": 0.10876975519057949,
+    "processed_match_rate": 0.3406113537117904
   },
   "areas": [
     {
@@ -16003,6 +16003,18 @@
           "views": 341,
           "pic": "https://i1.hdslb.com/bfs/archive/1a2292ceb052dab8ce782f2f3b16434608e2e8cb.jpg",
           "checked_at": "2026-11-04T23:03:55.465630+00:00"
+        },
+        {
+          "bvid": "BV1gs411W7Ju",
+          "page": 1,
+          "cid": 11553885,
+          "title": "［生肉］［TED］The Power of Belief - Mindset and Success: Eduardo",
+          "up": "陌上草熏",
+          "duration": 652,
+          "kind": "original",
+          "views": 3294,
+          "pic": "https://i0.hdslb.com/bfs/archive/c2af167d5d18dfbb205fd4e4cce9dc2b6e86e574.jpg",
+          "checked_at": "2026-11-05T22:46:20.841740+00:00"
         }
       ]
     },
@@ -21401,6 +21413,87 @@
       ]
     },
     {
+      "id": "iGbC5j4pG9w",
+      "title": "How an Average Family in Tokyo Can Buy a New Home",
+      "author": "Life Where I'm From",
+      "source_url": "https://www.youtube.com/watch?v=iGbC5j4pG9w",
+      "summary": "A mini-documentary by a Canadian living in Japan explaining how an average family can afford a new detached house in Tokyo. It covers how houses are treated as depreciating assets and how Japanese zoning and building practices keep prices low.",
+      "why": "It is the standard citation in HN housing debates for showing that dense cities can still have affordable single-family homes.",
+      "score": 3.5,
+      "tags": [
+        "housing",
+        "tokyo",
+        "zoning",
+        "urbanism",
+        "real estate"
+      ],
+      "categories": [
+        "transit-urbanism",
+        "investing-personal-finance",
+        "labor-work-wealth"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1TC4y1h78L",
+          "page": 1,
+          "cid": 208783269,
+          "title": "【中文字幕】日本中产阶级能在东京买怎样的房子？ | Life Where I'm From",
+          "up": "鱼雕爱我",
+          "duration": 717,
+          "kind": "sub_zh",
+          "views": 499,
+          "pic": "https://i1.hdslb.com/bfs/archive/04e18a8b4ccbf9d32c408e9c6ff03b7fa0e5968e.png",
+          "checked_at": "2026-11-05T14:53:05.645863+00:00"
+        },
+        {
+          "bvid": "BV11u4m1w7nL",
+          "page": 1,
+          "cid": 1457349307,
+          "title": "油管搬运：日本东京平均收入家庭如何负担起房产 How an Average Family in Tokyo Can Buy a New Home",
+          "up": "myddss",
+          "duration": 717,
+          "kind": "original",
+          "views": 41,
+          "pic": "https://i1.hdslb.com/bfs/archive/9ddc384f9aac99345e896b91b8ab82ecc3820905.jpg",
+          "checked_at": "2026-11-05T22:30:09.297066+00:00"
+        }
+      ]
+    },
+    {
+      "id": "iSVHp6CAyQ8",
+      "title": "Why The World Relies On ASML For Machines That Print Chips",
+      "author": "CNBC",
+      "source_url": "https://www.youtube.com/watch?v=iSVHp6CAyQ8",
+      "summary": "CNBC gets a tour of ASML's cleanrooms in the Netherlands to see how its roughly $200 million EUV lithography machines are built. It covers exploding molten tin, ultra-flat optics and why only one company can make these systems.",
+      "why": "Frequently recommended as a good, approachable overview of ASML and semiconductor equipment.",
+      "score": 3.5,
+      "tags": [
+        "asml",
+        "euv",
+        "semiconductors",
+        "chipmaking",
+        "cleanroom"
+      ],
+      "categories": [
+        "semiconductors-manufacturing",
+        "tech-industry-business"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1KGUDYmEb6",
+          "page": 1,
+          "cid": 26880116268,
+          "title": "(光刻机，世界信赖ASML)_Why The World Relies On ASML For Machines That Print Chips",
+          "up": "Scu6317",
+          "duration": 1120,
+          "kind": "original",
+          "views": 103,
+          "pic": "https://i1.hdslb.com/bfs/archive/8533a7120394fb15927669bf2cba497352b9411c.jpg",
+          "checked_at": "2026-11-05T22:30:10.553076+00:00"
+        }
+      ]
+    },
+    {
       "id": "ig_qpNfXHIU",
       "title": "Every Ruler Makes the Same Mistake When They Die",
       "author": "CGP Grey",
@@ -21469,6 +21562,120 @@
       ]
     },
     {
+      "id": "j6VlT_jUVPc",
+      "title": "The Ultimate AeroPress Technique (Episode #3)",
+      "author": "James Hoffmann",
+      "source_url": "https://www.youtube.com/watch?v=j6VlT_jUVPc",
+      "summary": "James Hoffmann demonstrates his AeroPress technique with a short recipe: 11g of coffee, 200g of just-boiled water, a 2-minute immersion, then a press. He explains why he skips rinsing, preheating and inverting.",
+      "why": "HN coffee fans cite it as a forgiving, repeatable recipe that gives good results.",
+      "score": 3.5,
+      "tags": [
+        "aeropress",
+        "james hoffmann",
+        "coffee",
+        "brew recipe",
+        "immersion"
+      ],
+      "categories": [
+        "cooking-food"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1sU4y1j7oM",
+          "page": 1,
+          "cid": 395980751,
+          "title": "James Hoffmann爱乐压系列 3 - 终极爱乐压技巧The Ultimate AeroPress Technique",
+          "up": "CoffeeHub",
+          "duration": 313,
+          "kind": "original",
+          "views": 540,
+          "pic": "https://i1.hdslb.com/bfs/archive/4bcc4931a469dc16fea09c8dc675654ad3642939.jpg",
+          "checked_at": "2026-11-05T22:31:22.581793+00:00"
+        }
+      ]
+    },
+    {
+      "id": "jOyfZex7B3E",
+      "title": "Sega Saturn CD - Cracked after 20 years",
+      "author": "debuglive",
+      "source_url": "https://www.youtube.com/watch?v=jOyfZex7B3E",
+      "summary": "A look inside Dr Abrasive's lab as he engineers a flash-card replacement for the Sega Saturn optical drive after cracking its CD protection 20 years on.",
+      "why": "Recommended as an inspiring story of hardware reverse engineering and persistence.",
+      "score": 3.5,
+      "tags": [
+        "sega saturn",
+        "dr abrasive",
+        "copy protection",
+        "hardware hacking",
+        "flashcart"
+      ],
+      "categories": [
+        "speedrunning-glitches",
+        "game-history-retro",
+        "embedded-diy-electronics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ss411h79q",
+          "page": 1,
+          "cid": 13095934,
+          "title": "【世嘉土星】时隔20年土星游戏机光碟读取终于被破解（非直读模块）@Sofronio",
+          "up": "Sofronio",
+          "duration": 1629,
+          "kind": "original",
+          "views": 38339,
+          "pic": "https://i0.hdslb.com/bfs/archive/351daeb896ed188914cdfc4ddf7d389dab620f77.jpg",
+          "checked_at": "2026-11-05T22:31:48.043204+00:00"
+        }
+      ]
+    },
+    {
+      "id": "jlX_pThh7z8",
+      "title": "WordTeX - A WYSIPCTWOTCG Typesetting Tool",
+      "author": "Tom Wildenhain",
+      "source_url": "https://www.youtube.com/watch?v=jlX_pThh7z8",
+      "summary": "Tom Wildenhain's SIGBOVIK 2018 presentation of WordTeX, a Microsoft Word template that mimics LaTeX typesetting output. It is a joke research project executed with serious effort.",
+      "why": "HN people recommend it as an entertaining example of great effort on a trivial problem, and cite the template in LaTeX-versus-Word discussions.",
+      "score": 3.5,
+      "tags": [
+        "wordtex",
+        "latex",
+        "sigbovik",
+        "microsoft word",
+        "typesetting"
+      ],
+      "categories": [
+        "graphic-design-typography",
+        "satire-parody"
+      ],
+      "versions": [
+        {
+          "bvid": "BV145411L78f",
+          "page": 1,
+          "cid": 253158762,
+          "title": "【双语字幕】WordTeX —— 一个所见即基本接近其他工具所得的文档排版工具",
+          "up": "花期hanaki",
+          "duration": 313,
+          "kind": "sub_zh",
+          "views": 3639,
+          "pic": "https://i1.hdslb.com/bfs/archive/0176efed7fc6819cd0b2c94bb66f400715853f54.jpg",
+          "checked_at": "2026-11-05T22:32:06.579227+00:00"
+        },
+        {
+          "bvid": "BV1Up411o7Bo",
+          "page": 1,
+          "cid": 38922175,
+          "title": "WordTeX -- 用 Word 制作和 LaTeX 效果一样的文档",
+          "up": "Yorlereiyo",
+          "duration": 313,
+          "kind": "original",
+          "views": 8083,
+          "pic": "https://i0.hdslb.com/bfs/archive/4602585351b1bd886414817bcf2b2be83086ca76.jpg",
+          "checked_at": "2026-11-05T22:46:34.666144+00:00"
+        }
+      ]
+    },
+    {
       "id": "mvmuCPvRoWQ",
       "title": "Euler's formula with introductory group theory",
       "author": "3Blue1Brown",
@@ -21499,6 +21706,98 @@
           "views": 420944,
           "pic": "https://i1.hdslb.com/bfs/archive/59b0607f9a4c0db4b118c801de2c51faa580ee0b.jpg",
           "checked_at": "2026-11-04T23:03:55.582504+00:00"
+        }
+      ]
+    },
+    {
+      "id": "n1QEj09Pe6k",
+      "title": "Why Planes Don't Fly Faster",
+      "author": "Wendover Productions",
+      "source_url": "https://www.youtube.com/watch?v=n1QEj09Pe6k",
+      "summary": "Wendover Productions explains why modern airliners fly no faster than they did decades ago, covering the economics of speed and fuel efficiency, and why supersonic travel faded.",
+      "why": "Recommended as a clear economic explanation of aviation tradeoffs, relevant to Concorde and supersonic startup threads.",
+      "score": 3.5,
+      "tags": [
+        "airliners",
+        "fuel efficiency",
+        "concorde",
+        "supersonic",
+        "wendover"
+      ],
+      "categories": [
+        "aviation",
+        "business-economics-other"
+      ],
+      "versions": [
+        {
+          "bvid": "BV13x411g7Cf",
+          "page": 1,
+          "cid": 24971057,
+          "title": "【wendover系列】为什么飞机不飞的更快？",
+          "up": "cl1fffff",
+          "duration": 692,
+          "kind": "original",
+          "views": 2343,
+          "pic": "https://i1.hdslb.com/bfs/archive/ae5d07f94ea51198088f6d921a87ff37485bdfde.jpg",
+          "checked_at": "2026-11-05T22:36:39.768828+00:00"
+        },
+        {
+          "bvid": "BV12W411N7RF",
+          "page": 1,
+          "cid": 40880282,
+          "title": "飞机为何不再飞快一点——航速背后的科技与经济学",
+          "up": "欧阳秉浩",
+          "duration": 692,
+          "kind": "original",
+          "views": 713,
+          "pic": "https://i1.hdslb.com/bfs/archive/bed4c18eb91fb71c11e78c57a3b57b53912b10b7.png",
+          "checked_at": "2026-11-05T22:46:21.570539+00:00"
+        }
+      ]
+    },
+    {
+      "id": "n3Xv_g3g-mA",
+      "title": "Loneliness",
+      "author": "Kurzgesagt – In a Nutshell",
+      "source_url": "https://www.youtube.com/watch?v=n3Xv_g3g-mA",
+      "summary": "Kurzgesagt explains why humans feel loneliness, its evolutionary role, and how modern life can turn it into a harmful downward spiral. It cites research and offers ideas on what to do about it.",
+      "why": "Shared in loneliness threads as a well-sourced, empathetic explanation, including for people struggling with it.",
+      "score": 3.5,
+      "tags": [
+        "loneliness",
+        "social isolation",
+        "evolutionary psychology",
+        "mental health",
+        "kurzgesagt"
+      ],
+      "categories": [
+        "psychology-behavior",
+        "mental-health-neurodiversity"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1fb41117FF",
+          "page": 1,
+          "cid": 77109149,
+          "title": "【Kurzgesagt】loneliness孤独感(中文字幕)",
+          "up": "晟安",
+          "duration": 750,
+          "kind": "sub_zh",
+          "views": 360,
+          "pic": "https://i0.hdslb.com/bfs/archive/e297aaccfca0d8c741116e8b23992ce160c30b1e.jpg",
+          "checked_at": "2026-11-05T22:36:49.717827+00:00"
+        },
+        {
+          "bvid": "BV1W4411Y7rn",
+          "page": 1,
+          "cid": 91028167,
+          "title": "【Kurzgesagt】孤独 Lonelines @柚子木字幕组",
+          "up": "柚子木字幕组",
+          "duration": 750,
+          "kind": "original",
+          "views": 53635,
+          "pic": "https://i1.hdslb.com/bfs/archive/0bb281b9fce7b1ebfb1e0d64cdda229f7d776d69.jpg",
+          "checked_at": "2026-11-05T22:46:25.481044+00:00"
         }
       ]
     },
@@ -21535,6 +21834,51 @@
           "views": 966,
           "pic": "https://i0.hdslb.com/bfs/archive/a8ae8feaf080c85e0a87d0beb675ca2ac733c754.jpg",
           "checked_at": "2026-11-04T23:03:59.209992+00:00"
+        }
+      ]
+    },
+    {
+      "id": "nLF0n9SACd4",
+      "title": "Dan Abramov: Beyond React 16 | JSConf Iceland",
+      "author": "JSConf",
+      "source_url": "https://www.youtube.com/watch?v=nLF0n9SACd4",
+      "summary": "Dan Abramov's JSConf Iceland talk on what came after React 16, with live-coded prototypes of async rendering and time slicing. It previews the ideas that became concurrent mode and suspense.",
+      "why": "Recommended as the clearest demo of what concurrent rendering solves, including the memorable clock animation.",
+      "score": 3.5,
+      "tags": [
+        "react",
+        "concurrent mode",
+        "async rendering",
+        "live coding",
+        "javascript"
+      ],
+      "categories": [
+        "web-development"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1nv41187PG",
+          "page": 1,
+          "cid": 316804796,
+          "title": "【油管搬运 机翻字幕】Dan Abramov - Beyond React 16 _ JSConf Iceland 1080p",
+          "up": "账号已注销",
+          "duration": 2004,
+          "kind": "original",
+          "views": 540,
+          "pic": "https://i2.hdslb.com/bfs/archive/73f0b702efdd736fdb32cfe84ebf8c62e850755e.png",
+          "checked_at": "2026-11-05T22:37:36.870102+00:00"
+        },
+        {
+          "bvid": "BV1fs411H7HY",
+          "page": 1,
+          "cid": 45073401,
+          "title": "Dan Abramov- Beyond React 16 - JSConf Iceland 2018",
+          "up": "CGOfficial",
+          "duration": 2005,
+          "kind": "original",
+          "views": 289,
+          "pic": "https://i1.hdslb.com/bfs/archive/387a398f0f8eda5172e843d21d935f33298be1b1.jpg",
+          "checked_at": "2026-11-05T22:46:29.386635+00:00"
         }
       ]
     },
@@ -21619,6 +21963,181 @@
       ]
     },
     {
+      "id": "oYp5XuGYqqY",
+      "title": "Do we see reality as it is? | Donald Hoffman | TED",
+      "author": "TED",
+      "source_url": "https://www.youtube.com/watch?v=oYp5XuGYqqY",
+      "summary": "Cognitive scientist Donald Hoffman argues in this TED talk that evolution shaped perception to track fitness rather than truth. He uses evolutionary simulations and the Australian jewel beetle as examples.",
+      "why": "Cited in discussions of perception, consciousness and what is real, though some commenters find his conclusions hand-wavy.",
+      "score": 3.5,
+      "tags": [
+        "donald hoffman",
+        "evolutionary simulations",
+        "perception",
+        "consciousness",
+        "ted"
+      ],
+      "categories": [
+        "consciousness-mind",
+        "evolution-genetics",
+        "neuroscience-brain"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1fC411n7CB",
+          "page": 1,
+          "cid": 1520561904,
+          "title": "Do we see reality as it is- - Donald Hoffman - TED",
+          "up": "GameOnStudio",
+          "duration": 1311,
+          "kind": "original",
+          "views": 220,
+          "pic": "https://i1.hdslb.com/bfs/archive/1d37f51ad49b425a7517e60c2efbd41e463e4df3.png",
+          "checked_at": "2026-11-05T22:38:42.572814+00:00"
+        }
+      ]
+    },
+    {
+      "id": "p8u_k2LIZyo",
+      "title": "Fast Inverse Square Root — A Quake III Algorithm",
+      "author": "Nemean",
+      "source_url": "https://www.youtube.com/watch?v=p8u_k2LIZyo",
+      "summary": "A walkthrough of the Quake III fast inverse square root, explaining where the constant 0x5f3759df comes from. It covers IEEE 754 floats, the bit hack that approximates a logarithm, and a Newton's method refinement.",
+      "why": "HN recommends it as an approachable explanation that makes the famous algorithm finally make sense.",
+      "score": 3.5,
+      "tags": [
+        "quake iii",
+        "ieee 754",
+        "floating point",
+        "newton's method",
+        "bit hacks"
+      ],
+      "categories": [
+        "algorithms-data-structures",
+        "software-performance",
+        "game-history-retro"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Fj48zME9t",
+          "page": 1,
+          "cid": 33072349314,
+          "title": "【中配】快速平方根倒数：雷神之锤3的经典算法解析 - Nemean",
+          "up": "黑纹白斑马",
+          "duration": 1151,
+          "kind": "dub_zh",
+          "views": 55245,
+          "pic": "https://i2.hdslb.com/bfs/archive/934ff4f7a3ccdea0138ac49d0228d8d7da3e884d.png",
+          "checked_at": "2026-11-05T22:39:32.796493+00:00"
+        },
+        {
+          "bvid": "BV1ym421g7tz",
+          "page": 1,
+          "cid": 1608994590,
+          "title": "快速平方根倒数算法：《Quake III》引擎的巧妙实现 - Nemean",
+          "up": "黑纹白斑马",
+          "duration": 1151,
+          "kind": "original",
+          "views": 95013,
+          "pic": "https://i1.hdslb.com/bfs/archive/c360157d97bf1f2211a05ba1ede4e2550a59c950.png",
+          "checked_at": "2026-11-05T22:46:30.771364+00:00"
+        },
+        {
+          "bvid": "BV18f4y1z7Tz",
+          "page": 1,
+          "cid": 299238176,
+          "title": "数字功底在编程中的体现：快速倒数开方——Quake引擎中的一个小算法",
+          "up": "战龙骑兵",
+          "duration": 1213,
+          "kind": "original",
+          "views": 1481,
+          "pic": "https://i0.hdslb.com/bfs/archive/d41f3a89984aaf61c28150a25b544bdf8ef74559.jpg",
+          "checked_at": "2026-11-05T22:46:32.062049+00:00"
+        },
+        {
+          "bvid": "BV1hK411g7wC",
+          "page": 1,
+          "cid": 272576817,
+          "title": "Fast Inverse Square Root — A Quake III Algorithm",
+          "up": "这剩下的果实",
+          "duration": 1208,
+          "kind": "original",
+          "views": 772,
+          "pic": "https://i0.hdslb.com/bfs/archive/411620a53b9ce528e2e522a8c4280b94a8736acf.jpg",
+          "checked_at": "2026-11-05T22:46:22.890248+00:00"
+        }
+      ]
+    },
+    {
+      "id": "qE7dYhpI_bI",
+      "title": "Adam Savage's Epiphany on the Science of Measurement!",
+      "author": "Adam Savage’s Tested",
+      "source_url": "https://www.youtube.com/watch?v=qE7dYhpI_bI",
+      "summary": "Adam Savage shows a set of Mitutoyo ceramic gauge blocks and uses them to explain metrology, the science of measurement. He argues that accuracy and precision work differently than most people assume, which changes how you think about every measuring tool.",
+      "why": "Recommended as a thoughtful, enjoyable 45-minute dive into measurement and the appreciation of precision.",
+      "score": 3.5,
+      "tags": [
+        "gauge blocks",
+        "measurement",
+        "precision",
+        "machining",
+        "adam savage"
+      ],
+      "categories": [
+        "mechanical-engineering",
+        "physics-space-other",
+        "making-woodworking-metalwork"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1gu411U7Et",
+          "page": 1,
+          "cid": 477928718,
+          "title": "亚当·萨维奇《测量科学的顿悟》",
+          "up": "小熊猫_没烦恼",
+          "duration": 2709,
+          "kind": "original",
+          "views": 27,
+          "pic": "https://i1.hdslb.com/bfs/archive/79d7a930405618f94b975414a291e49955dda46f.jpg",
+          "checked_at": "2026-11-05T22:42:07.714479+00:00"
+        }
+      ]
+    },
+    {
+      "id": "r6Rp-uo6HmI",
+      "title": "Why Snow and Confetti Ruin YouTube Video Quality",
+      "author": "Tom Scott",
+      "source_url": "https://www.youtube.com/watch?v=r6Rp-uo6HmI",
+      "summary": "Tom Scott explains why confetti and snow wreck video quality, using interframe compression and bitrate. He demonstrates it live by changing the quality on screen.",
+      "why": "Used as the clearest short demonstration of why noisy, high-motion content is hard for video compression.",
+      "score": 3.5,
+      "tags": [
+        "video compression",
+        "bitrate",
+        "interframe",
+        "youtube quality",
+        "tom scott"
+      ],
+      "categories": [
+        "information-theory",
+        "audio-video-engineering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ZV41177UK",
+          "page": 1,
+          "cid": 334406788,
+          "title": "【中字｜TomScott】雪花和纸片是怎么毁掉视频画质的",
+          "up": "Moric_FCB",
+          "duration": 260,
+          "kind": "sub_zh",
+          "views": 1600,
+          "pic": "https://i2.hdslb.com/bfs/archive/e64e9ff61fcaca21145d190543217f49ad0cd241.jpg",
+          "checked_at": "2026-11-05T22:44:17.620086+00:00"
+        }
+      ]
+    },
+    {
       "id": "rrkrvAUbU9Y",
       "title": "The puzzle of motivation | Dan Pink | TED",
       "author": "TED",
@@ -21650,6 +22169,39 @@
           "views": 16156,
           "pic": "https://i1.hdslb.com/bfs/archive/f86dab44a6f1346fcb35278416140e15226022c4.jpg",
           "checked_at": "2026-11-04T23:03:56.324457+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sI5Ftm1-jik",
+      "title": "Making a Full Bridge Rectifier",
+      "author": "ElectroBOOM",
+      "source_url": "https://www.youtube.com/watch?v=sI5Ftm1-jik",
+      "summary": "ElectroBOOM's Mehdi Sadaghdar explains how a full bridge rectifier works, the building block of AC to DC converters, with his usual humor and a demonstration of the circuit.",
+      "why": "Recommended as an enlightening and funny explanation of bridge rectifiers, often linked in power supply teardown threads.",
+      "score": 3.5,
+      "tags": [
+        "rectifier",
+        "electronics",
+        "diodes",
+        "ac to dc",
+        "electroboom"
+      ],
+      "categories": [
+        "electronics-circuits"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Ws411U7Ct",
+          "page": 1,
+          "cid": 3713199,
+          "title": "【作死物理小讲堂】特斯拉线圈养成计划之 全桥整流器 双语字幕",
+          "up": "罗兹",
+          "duration": 254,
+          "kind": "sub_zh",
+          "views": 279893,
+          "pic": "https://i0.hdslb.com/bfs/archive/8f99d3648aedb0ee6d52ef2bb879b1c3154318a6.jpg",
+          "checked_at": "2026-11-05T22:49:33.625467+00:00"
         }
       ]
     },
@@ -28145,6 +28697,7 @@
     "BV1EN411o7FY": "oV9rvDllKEg",
     "BV1kr4y1m7o8": "oV9rvDllKEg",
     "BV1v4E9zuEFJ": "pN34FNbOKXc",
+    "BV1gs411W7Ju": "pN34FNbOKXc",
     "BV1yt411c74p": "skos4B5x7qE",
     "BV1mJ411F7gM": "uHQ4WCU1WQc",
     "BV1G4411D7kZ": "v0YEaeIClKY",
@@ -28332,14 +28885,35 @@
     "BV1YK411H7Zz": "hdUbIlwHRkY",
     "BV1Kx42117e2": "hdUbIlwHRkY",
     "BV1f24y1u7tt": "iG9CE55wbtY",
+    "BV1TC4y1h78L": "iGbC5j4pG9w",
+    "BV11u4m1w7nL": "iGbC5j4pG9w",
+    "BV1KGUDYmEb6": "iSVHp6CAyQ8",
     "BV1vZ421N7EA": "ig_qpNfXHIU",
     "BV1xb421E7BC": "ipVxxxqwBQw",
+    "BV1sU4y1j7oM": "j6VlT_jUVPc",
+    "BV1ss411h79q": "jOyfZex7B3E",
+    "BV145411L78f": "jlX_pThh7z8",
+    "BV1Up411o7Bo": "jlX_pThh7z8",
     "BV1fx41187tZ": "mvmuCPvRoWQ",
+    "BV13x411g7Cf": "n1QEj09Pe6k",
+    "BV12W411N7RF": "n1QEj09Pe6k",
+    "BV1fb41117FF": "n3Xv_g3g-mA",
+    "BV1W4411Y7rn": "n3Xv_g3g-mA",
     "BV1Ds411p79N": "nAbCKa0FzjQ",
+    "BV1nv41187PG": "nLF0n9SACd4",
+    "BV1fs411H7HY": "nLF0n9SACd4",
     "BV1hR4y1v7Qy": "nXaxk27zwlk",
     "BV11dpDz4E3t": "nXaxk27zwlk",
     "BV1T5411X7sK": "oI_X2cMHNe0",
+    "BV1fC411n7CB": "oYp5XuGYqqY",
+    "BV1Fj48zME9t": "p8u_k2LIZyo",
+    "BV1ym421g7tz": "p8u_k2LIZyo",
+    "BV18f4y1z7Tz": "p8u_k2LIZyo",
+    "BV1hK411g7wC": "p8u_k2LIZyo",
+    "BV1gu411U7Et": "qE7dYhpI_bI",
+    "BV1ZV41177UK": "r6Rp-uo6HmI",
     "BV1w4411R7Tk": "rrkrvAUbU9Y",
+    "BV1Ws411U7Ct": "sI5Ftm1-jik",
     "BV1T5Tk6JEiy": "sPFmKu2S5XY",
     "BV1Ks411A73g": "uZgbKrDEzAs",
     "BV1yg4y1p7mc": "yvDCzhbjYWs",
