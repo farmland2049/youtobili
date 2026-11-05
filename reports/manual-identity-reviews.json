@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-05T08:27:55.997013+00:00",
+  "checked_at": "2026-11-05T13:28:31.025941+00:00",
   "reviews": [
     {
       "id": "NNnIGh9g6fA",
@@ -670,6 +670,35 @@
       "id": "7jiPeIFXb6U",
       "reviewed_at": "2026-11-05T08:27:55.997003+00:00",
       "evidence_type": "explicit original ID in complete description"
+    },
+    {
+      "bvid": "BV1uESMYqEFm",
+      "page": 1,
+      "cid": 26856327248,
+      "duration_s": 846,
+      "original_duration_s": 846,
+      "decision": "confirmed",
+      "reviewer": "Codex",
+      "evidence": "Codex显式原片ID复核：B站完整简介的主信息段明确标注“y站序列号：ghUs-84NAAU”，并同时给出原标题Testing 432 Hz Frequencies (and temperaments)及投稿者Adam Neely，与原库ID、标题和作者一致。此ID在转载注和说明正文之前，未作为推荐资源引用。BV单P与原片均846秒、CID26856327248，当前详情可用，无年份、集次、删减或分P归属冲突。此核验依据完整元数据中的明确身份声明，未进行逐帧比较；应用前重新核对来源哈希、CID、单P、时长和冲突。 Revalidated current seven-day cached identity, CID, duration, source hashes and segment ownership before approval.",
+      "frame_by_frame_comparison": false,
+      "sources": [
+        "https://www.bilibili.com/video/BV1uESMYqEFm"
+      ],
+      "source_snapshot": {
+        "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1uESMYqEFm",
+        "snapshot": "http/3f3b3e9cbe0770a96f5b1a85678955b6ebe533db035635fc4b29bccc37314705.json",
+        "source_sha256": "764d487968652decfb5005c26f6217c89ab4e4f25b45212a6707b24839612c1e",
+        "explicit_label": "y站序列号",
+        "original_id": "ghUs-84NAAU"
+      },
+      "original_metadata_snapshot": {
+        "source": "https://hackertube.org/api/video?vid=ghUs-84NAAU",
+        "snapshot": "http/003a4bd7b76f297a1bd11754272ff43123a9082ce1e65dcb0c1016fe655bb1ff.json",
+        "source_sha256": "e7a6fb7691a99612c66f873fddfb9da09422f4fd5209e1c1ce3f48d8c998022e"
+      },
+      "id": "ghUs-84NAAU",
+      "reviewed_at": "2026-11-05T13:28:31.025930+00:00",
+      "evidence_type": "explicit original ID and author in complete source description"
     }
   ]
 }

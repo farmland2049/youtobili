@@ -162,6 +162,13 @@ def lang_kind(title, owner, original, mid=None):
     dub = bool(re.search(r'配音|中配|中文讲解|中文配|中文语音',title))
     return 'official_zh' if official and (sub or dub) else 'dub_zh' if dub else 'sub_zh' if sub else 'official_original' if official else 'original'
 
+def content_years(title, segment_title=''):
+    # Export and browser-recording timestamps describe the file, not the content.
+    if re.fullmatch(r'成片-(?:19|20)\d{2}-\d{1,2}-\d{1,2} \d{1,2}:\d{2}:\d{2}', segment_title):
+        segment_title = ''
+    segment_title = re.sub(r'\s+-\s+个人\s+-\s+Microsoft Edge\s+(?:19|20)\d{2}-.*$', '', segment_title, flags=re.I)
+    return set(re.findall(r'(?<![0-9A-Za-z_])(?:19|20)\d{2}(?![0-9A-Za-z_])', title+' '+segment_title))
+
 def assess(original, detail, page, duration):
     """Conservative auto approval: explicit original URL, full segment, no contradictions."""
     title = detail.get('title','')
@@ -179,13 +186,15 @@ def assess(original, detail, page, duration):
     if original['vid'] in ids: evidence.append('explicit original URL or labeled YouTube ID in Bilibili description')
     elif not page_identity: flags.append('no explicit original URL; manual identity review required')
     if page_identity: evidence.append('exact original YouTube ID explicitly associated with selected segment')
-    a = set(re.findall(r'\b(?:19|20)\d{2}\b',original['title']))
-    b = set(re.findall(r'\b(?:19|20)\d{2}\b',title+' '+segment_title))
+    a = content_years(original['title'])
+    b = content_years(title, segment_title)
     if a and b and not (a & b): flags.append('conflicting years')
     episode = lambda s: re.findall(r'(?:lecture|chapter|part|lesson|第)\s*(\d+)',s,re.I)
     oa,ba=episode(original['title']),episode(segment_title if len(pages)>1 else title)
     if oa and ba and oa != ba: flags.append('conflicting episode')
     if re.search(r'删减|片段|节选|精华|cut\s*version|highlights',title+' '+segment_title,re.I): flags.append('possibly abridged')
+    if re.search(r'AI\s*生成.{0,16}(?:衍生|二次创作)|AI\s*(?:翻唱|cover)|(?:翻唱|二创|remix)', title+' '+segment_title, re.I) or re.search(r'(?:本音频|本视频|本作品).{0,12}AI\s*生成.{0,16}(?:衍生|二次创作)', desc, re.I):
+        flags.append('derivative content requires review')
     if not duration: flags.append('original duration unavailable')
     elif abs(actual-duration)>max(60,0.08*duration): flags.append('duration outside tolerance')
     if len(pages)>1:
@@ -225,7 +234,7 @@ def evaluate(client, original, c):
     fresh.pop('detail_deferred_after_match',None)
     if c.get('manual_review') and c.get('status')=='confirmed':
         # Explicit reviews survive rechecks only if availability and segment ID are unchanged.
-        if c.get('cid')==fresh['cid'] and not any(f in fresh['flags'] for f in ['conflicting years','conflicting episode','possibly abridged','missing segment','missing segment duration']):
+        if c.get('cid')==fresh['cid'] and not any(f in fresh['flags'] for f in ['conflicting years','conflicting episode','possibly abridged','derivative content requires review','missing segment','missing segment duration']):
             fresh['status']='confirmed';fresh['reason']='manual content review; availability rechecked'
     if c.get('manual_rejection') and c.get('status')=='unmatched':
         if c.get('cid')==fresh.get('cid') and fresh.get('cid') and fresh.get('page_count')==1:
@@ -584,7 +593,7 @@ def review(args):
     if args.decision=='confirmed':
         if not args.evidence or not args.evidence.strip() or not args.page:raise ValueError('approval requires --evidence and --page')
         if c.get('availability')!='available' or c.get('page')!=args.page:raise ValueError('check selected segment availability first')
-        if set(c.get('flags',[])) & {'conflicting years','conflicting episode','possibly abridged','missing segment','missing segment duration'}:raise ValueError('resolve content contradictions before approval')
+        if set(c.get('flags',[])) & {'conflicting years','conflicting episode','possibly abridged','derivative content requires review','missing segment','missing segment duration'}:raise ValueError('resolve content contradictions before approval')
         c['manual_review']={'at':now(),'evidence':args.evidence};c['evidence']=[args.evidence]
     if args.decision=='unmatched':
         if not args.evidence or not args.evidence.strip() or not args.page:raise ValueError('mismatch review requires --evidence and --page')

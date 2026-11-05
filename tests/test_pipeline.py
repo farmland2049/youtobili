@@ -17,6 +17,24 @@ class MatchingTests(unittest.TestCase):
   self.assertEqual(p.lang_kind('Talk【英/日字幕】','Uploader','Author'),'original')
   self.assertEqual(p.lang_kind('Talk【中/英配音】','Uploader','Author'),'dub_zh')
  def result(self):return p.assess(self.o,self.d,1,450)
+ def test_chinese_year_and_export_timestamp(self):
+  self.o['title']='Using a 1930 Teletype as a Linux Terminal'
+  self.d['title']='[生肉]把1930年的电传打字机用作Linux终端'
+  self.d['pages'][0]['part']='成片-2020-4-30 17:42:54'
+  self.assertEqual(self.result()['status'],'confirmed')
+ def test_browser_recording_timestamp_is_not_content_year(self):
+  self.o['title']='Ivan Sutherland Sketchpad Demo 1963'
+  self.d['title']='Ivan Sutherland Sketchpad Demo'
+  self.d['pages'][0]['part']='Ivan Sutherland Sketchpad Demo - YouTube 和另外 8 个页面 - 个人 - Microsoft Edge 2021-0'
+  self.assertEqual(self.result()['status'],'confirmed')
+  self.d['pages'][0]['part']='Sketchpad Demo 1965 - 个人 - Microsoft Edge 2021-0'
+  self.assertIn('conflicting years',self.result()['flags'])
+ def test_chinese_content_year_conflicts_still_require_review(self):
+  self.d['title']='2026年的神经网络'
+  self.d['pages'][0]['part']='成片-2024-1-1 12:00:00'
+  self.assertIn('conflicting years',self.result()['flags'])
+  self.assertEqual(p.content_years('型号12024年'),set())
+  self.assertEqual(p.content_years('型号20240年'),set())
  def test_short_video_with_identity_is_accepted(self):self.assertEqual(self.result()['status'],'confirmed')
  def test_title_and_duration_without_identity_are_not_enough(self):
   self.d['desc']='title is similar';self.assertEqual(self.result()['status'],'review')
@@ -26,6 +44,37 @@ class MatchingTests(unittest.TestCase):
   self.d['title']='Neural networks chapter 2 2024';self.assertIn('conflicting episode',self.result()['flags'])
  def test_abridged(self):
   self.d['title']+=' 精华片段';self.assertEqual(self.result()['status'],'review')
+ def test_explicit_ai_derivative_is_not_a_source_copy(self):
+  self.d['desc']+='\n本音频为 AI 生成衍生二次创作作品，仅供欣赏。'
+  self.assertIn('derivative content requires review',self.result()['flags'])
+  self.assertEqual(self.result()['status'],'review')
+ def test_derivative_flag_blocks_preserved_manual_confirmation(self):
+  self.d['desc']+='\n本音频为 AI 生成衍生二次创作作品。'
+  self.d.update(owner={'name':'Uploader'},bvid='BV1234567890')
+  d=self.d
+  class Cached:
+   def get(self,url):
+    return {'data':d} if 'bilibili.com' in url else {'duration_s':450}
+  fresh=p.evaluate(Cached(),self.o,{'bvid':'BV1234567890','page':1,'cid':123,'status':'confirmed','manual_review':{'evidence':'Prior source link review'}})
+  self.assertEqual(fresh['status'],'review')
+  self.assertIn('derivative content requires review',fresh['flags'])
+ def test_cover_and_remix_require_content_review(self):
+  for suffix in [' AI翻唱',' remix',' 二创']:
+   with self.subTest(suffix=suffix):
+    self.d['title']='Neural networks chapter 1 2024'+suffix
+    self.assertIn('derivative content requires review',self.result()['flags'])
+ def test_manual_approval_cannot_override_explicit_derivative_flag(self):
+  from unittest.mock import patch
+  from types import SimpleNamespace
+  c={'bvid':'BV1234567890','page':1,'availability':'available','status':'review','flags':['derivative content requires review']}
+  with patch.object(p,'read',return_value={self.o['vid']:{'candidates':[c]}}),patch.object(p,'write') as write:
+   with self.assertRaisesRegex(ValueError,'resolve content contradictions'):
+    p.review(SimpleNamespace(vid=self.o['vid'],bvid=c['bvid'],page=1,decision='confirmed',evidence='Contains original source URL'))
+   write.assert_not_called()
+ def test_translated_dubbing_does_not_imply_derivative_content(self):
+  self.d['title']='【中配】Neural networks chapter 1 2024'
+  self.d['desc']+='\n本视频使用 AI 生成中文配音，完整翻译原片。'
+  self.assertEqual(self.result()['status'],'confirmed')
  def test_wrong_duration(self):
   self.d['pages'][0]['duration']=700;self.assertIn('duration outside tolerance',self.result()['flags'])
  def test_collection_uses_segment_not_total_duration(self):

@@ -1,0 +1,47 @@
+{
+  "checked_at": "2026-11-05T13:30:33.072Z",
+  "checks": [
+    {
+      "sample": "YI3tsmFsrOg",
+      "kind": "sub_zh",
+      "id": "YI3tsmFsrOg",
+      "bvid": "BV1JK411U78q",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.188413,
+        "duration": 429,
+        "paused": false
+      },
+      "expected_duration": 429,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "877177214"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Kurzgesagt科普：地球上最致命的生物——噬菌体（中英字幕）\nKurzgesagt-科普\n关注\n2.8万\n933\n分享\n更多\n00:04 / 07:09\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "fNk_zzaMoSs",
+      "kind": "official_zh",
+      "id": "fNk_zzaMoSs",
+      "bvid": "BV1Ys411k7yQ",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.955706,
+        "duration": 591.8249999999999,
+        "paused": false
+      },
+      "expected_duration": 592,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "9720812"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【熟肉】线性代数的本质 - 01 - 向量究竟是什么？\n3Blue1Brown\n关注\n5.4万\n771\n分享\n更多\n00:04 / 09:52\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

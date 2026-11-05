@@ -1,960 +1,982 @@
 {
-  "baseline_commit": "0abd76a0a35f1ea532cf22064b834dc4954907d4",
+  "baseline_commit": "cedffbdd35251ac9944e0f68da64a0de650e22ce",
   "before": {
-    "corpus": 6454,
-    "processed": 1334,
-    "confirmed": 504,
-    "coverage": 0.07809110629067245,
-    "processed_match_rate": 0.3778110944527736
-  },
-  "after": {
     "corpus": 6454,
     "processed": 1553,
     "confirmed": 562,
     "coverage": 0.08707778122094825,
     "processed_match_rate": 0.36188023180940115
   },
-  "newly_processed": 219,
-  "newly_processed_confirmed": 48,
-  "newly_processed_match_rate": 0.2191780821917808,
+  "after": {
+    "corpus": 6454,
+    "processed": 1778,
+    "confirmed": 624,
+    "coverage": 0.09668422683607066,
+    "processed_match_rate": 0.35095613048368957
+  },
+  "newly_processed": 225,
+  "newly_processed_confirmed": 60,
+  "newly_processed_match_rate": 0.26666666666666666,
   "newly_processed_by_method": {
     "search": 200,
-    "public lead verification": 19
+    "public lead verification": 25
   },
-  "previously_processed_newly_confirmed": 10,
+  "previously_processed_newly_confirmed": 2,
   "added_originals": [
-    "-Ln-8QM8KhQ",
-    "4-SGpEInX_c",
-    "6ZYLp5uX9Yw",
-    "7OpM_zKGE4o",
-    "7jiPeIFXb6U",
-    "816VLQNdPMM",
-    "BEG-ly9tQGk",
-    "DXvAlwMAxiA",
-    "G-WO-z-QuWI",
-    "HPqGaIMVuLs",
-    "IUDTlvagjJA",
-    "JqNg819PiZY",
-    "JrMiSQAGOS4",
-    "K_q-xnYRugQ",
-    "NXN7TOg3kj4",
-    "Oo0jm1PPRuo",
-    "RTB5XhjbgZA",
-    "RxD6H3ri8RI",
-    "SxdOUGdseq4",
-    "TgFdics3uKo",
-    "VO6XEQIsCoM",
-    "VO_1AdYRGW8",
-    "XRr1kaXKBsU",
-    "ZKC3hiyLeRc",
-    "Ztc6QPNUqls",
-    "_160oMzblY8",
-    "_P9HqHVPeik",
-    "bx3KuE7UjGA",
-    "cUzklzVXJwo",
-    "cj02_UeUnGQ",
-    "dpw9EHDh2bM",
-    "gV5obrYaogU",
-    "hC3VTgIPoGU",
-    "hCQCP-5g5bo",
-    "hhiLw5Q_UFg",
-    "kfg_e6YG37U",
-    "klTjiXjqHrQ",
-    "kmFOBoy2MZ8",
-    "krB0enBeSiE",
-    "lG4VkPoG3ko",
-    "lKXe3HUG2l4",
-    "modXC5IWTJI",
-    "oHeehYYgl28",
-    "otbnC2zE2rw",
-    "sPFmKu2S5XY",
-    "sTu3LwpF6XI",
-    "skos4B5x7qE",
-    "tCRPUv8V22o",
-    "uHQ4WCU1WQc",
-    "vElZc6zSIXM",
-    "wcBEOcPtlYk",
-    "wupToqz1e2g",
-    "xMP_AfiNlX4",
-    "xguam0TKMw8",
-    "xixM_cwSLcQ",
-    "y5UT04p5f7U",
-    "zi0rHwfiX1Q",
-    "zyVTxGpEO30"
+    "1W_mSOS1Qts",
+    "2SuvO4Gi7uY",
+    "2XLZ4Z8LpEE",
+    "2aCOyOvOw5c",
+    "2zvjW9arAZ0",
+    "3FOzD4Sfgag",
+    "3LVeEjsn8Ts",
+    "3WMuzhQXJoY",
+    "3x1b_S6Qp2Q",
+    "5MdSE-N0bxs",
+    "5QwOpRh-IfI",
+    "5u7euN1HTuU",
+    "6OPsH8PK7xM",
+    "6orsmFndx_o",
+    "7gDKbT_l2us",
+    "7kGnfXXIKZM",
+    "8JrqH2oOTK4",
+    "8kUQWuK1L4w",
+    "97t7Xj_iBv0",
+    "9qi03QawZEk",
+    "Fgh2dFngFsg",
+    "OWJCfOvochA",
+    "PdFB7q89_3U",
+    "RoGuvvzHY1A",
+    "TnzcwTyr6cE",
+    "YI3tsmFsrOg",
+    "YIWV5fSaUB8",
+    "ZD_3_gsgsnk",
+    "ZYj4NkeGPdM",
+    "_8bhtEgB8Mo",
+    "d6iQrh2TK98",
+    "drv3BP0Fdi8",
+    "g2tMcMQqSbA",
+    "gMqZR3pqMjg",
+    "ghUs-84NAAU",
+    "juWaO5TJS00",
+    "k1BneeJTDcU",
+    "kPR8h4-qZdk",
+    "kPRA0W1kECg",
+    "l6T9xIeZTds",
+    "leFuF-zoVzA",
+    "ljOoGyCso8s",
+    "mZBwsm6B280",
+    "mdKst8zeh-U",
+    "mwrA5IRGpfU",
+    "nXaxk27zwlk",
+    "oFtjKbXKqbg",
+    "p3lsYlod5OU",
+    "qhbuKbxJsk8",
+    "sK5i-N34im8",
+    "sWgDk-o-6ZE",
+    "tDacjrSCeq4",
+    "t_yh_S31R9g",
+    "tyixMpuGEL8",
+    "uqKGREZs6-w",
+    "wVp5koAOu9M",
+    "x5Efg42-Qn0",
+    "yQ6VOOd73MA",
+    "ysa5OBhXz-Q",
+    "z8MVKianh54",
+    "zQGOcOUBi6s",
+    "zxRgfBXn6Mg"
   ],
   "withdrawn_originals": [],
-  "net_confirmed_change": 58,
-  "versions": 774,
+  "net_confirmed_change": 62,
+  "versions": 857,
   "added_versions": [
     {
-      "id": "-Ln-8QM8KhQ",
-      "bvid": "BV1PAkLBRE3B",
+      "id": "1W_mSOS1Qts",
+      "bvid": "BV19ELbzoEMP",
       "page": 1
     },
     {
-      "id": "-Ln-8QM8KhQ",
-      "bvid": "BV1PAkLBdEBC",
+      "id": "2SuvO4Gi7uY",
+      "bvid": "BV1dod6YHE8R",
       "page": 1
     },
     {
-      "id": "4-SGpEInX_c",
-      "bvid": "BV11D4y1F7YC",
+      "id": "2XLZ4Z8LpEE",
+      "bvid": "BV1Rk4y1r7tQ",
       "page": 1
     },
     {
-      "id": "6ZYLp5uX9Yw",
-      "bvid": "BV13Z4y1Z7GX",
+      "id": "2aCOyOvOw5c",
+      "bvid": "BV1az4y1X7y3",
       "page": 1
     },
     {
-      "id": "7OpM_zKGE4o",
-      "bvid": "BV12T421S7o7",
+      "id": "2zvjW9arAZ0",
+      "bvid": "BV1Cs411d7nY",
       "page": 1
     },
     {
-      "id": "7jiPeIFXb6U",
-      "bvid": "BV1U6tp6HEQq",
+      "id": "3FOzD4Sfgag",
+      "bvid": "BV1cs411b7xZ",
       "page": 1
     },
     {
-      "id": "7nJgHBbEgsE",
-      "bvid": "BV1MA4y1X7iA",
+      "id": "3FOzD4Sfgag",
+      "bvid": "BV1os411R7L3",
       "page": 1
     },
     {
-      "id": "816VLQNdPMM",
-      "bvid": "BV1wy4y1b7Ae",
+      "id": "3LVeEjsn8Ts",
+      "bvid": "BV1Nt4y1y7jj",
       "page": 1
     },
     {
-      "id": "BEG-ly9tQGk",
-      "bvid": "BV1MW411x7dJ",
+      "id": "3WMuzhQXJoY",
+      "bvid": "BV14LD8BHEg3",
       "page": 1
     },
     {
-      "id": "BzhbAK1pdPM",
-      "bvid": "BV1Ku411t7GL",
+      "id": "3WMuzhQXJoY",
+      "bvid": "BV1A4411Y7gT",
       "page": 1
     },
     {
-      "id": "DXvAlwMAxiA",
-      "bvid": "BV1p8No6mEoF",
+      "id": "3WMuzhQXJoY",
+      "bvid": "BV1N3411B7RG",
       "page": 1
     },
     {
-      "id": "G-WO-z-QuWI",
-      "bvid": "BV19V411W7bG",
+      "id": "3WMuzhQXJoY",
+      "bvid": "BV1qv411p7KL",
       "page": 1
     },
     {
-      "id": "G-WO-z-QuWI",
-      "bvid": "BV1kZxy6aEwj",
+      "id": "3x1b_S6Qp2Q",
+      "bvid": "BV1Bb4y1k7jm",
       "page": 1
     },
     {
-      "id": "G-WO-z-QuWI",
-      "bvid": "BV1xy4y1K7NC",
+      "id": "5MdSE-N0bxs",
+      "bvid": "BV1xW411b7xV",
       "page": 1
     },
     {
-      "id": "G-WO-z-QuWI",
-      "bvid": "BV1zHm8BiE4r",
+      "id": "5QwOpRh-IfI",
+      "bvid": "BV1zf4y1z7Po",
       "page": 1
     },
     {
-      "id": "HPqGaIMVuLs",
-      "bvid": "BV1p6F9eLEaE",
+      "id": "5u7euN1HTuU",
+      "bvid": "BV1AzNS6tEb6",
       "page": 1
     },
     {
-      "id": "IUDTlvagjJA",
-      "bvid": "BV1uX4y1674D",
+      "id": "5u7euN1HTuU",
+      "bvid": "BV1h94y1k789",
       "page": 1
     },
     {
-      "id": "JqNg819PiZY",
-      "bvid": "BV1fmMbzHEoq",
+      "id": "5u7euN1HTuU",
+      "bvid": "BV1mk4y1G7xY",
       "page": 1
     },
     {
-      "id": "JrMiSQAGOS4",
-      "bvid": "BV1cm4y1d7am",
+      "id": "6OPsH8PK7xM",
+      "bvid": "BV1M1yRBjEuF",
       "page": 1
     },
     {
-      "id": "K_q-xnYRugQ",
-      "bvid": "BV1VgeB6SEXM",
+      "id": "6orsmFndx_o",
+      "bvid": "BV1Sq4y1N7Hx",
       "page": 1
     },
     {
-      "id": "K_q-xnYRugQ",
-      "bvid": "BV1XgeB6UEco",
+      "id": "7gDKbT_l2us",
+      "bvid": "BV1o3411q761",
       "page": 1
     },
     {
-      "id": "NVGuFdX5guE",
-      "bvid": "BV1ykMb61EDY",
+      "id": "7kGnfXXIKZM",
+      "bvid": "BV18K411J7jE",
       "page": 1
     },
     {
-      "id": "NXN7TOg3kj4",
-      "bvid": "BV1bE42157ER",
+      "id": "7kGnfXXIKZM",
+      "bvid": "BV1mx3u6iEws",
       "page": 1
     },
     {
-      "id": "Oo0jm1PPRuo",
-      "bvid": "BV14x411G7wx",
+      "id": "8JrqH2oOTK4",
+      "bvid": "BV1P4411X7Hu",
       "page": 1
     },
     {
-      "id": "Oo0jm1PPRuo",
-      "bvid": "BV1Bx411q7Wx",
+      "id": "8kUQWuK1L4w",
+      "bvid": "BV1Ts411g7Fj",
       "page": 1
     },
     {
-      "id": "RTB5XhjbgZA",
-      "bvid": "BV1zqHEzxEss",
+      "id": "97t7Xj_iBv0",
+      "bvid": "BV1J4411f7QD",
       "page": 1
     },
     {
-      "id": "RxD6H3ri8RI",
-      "bvid": "BV1WF411r7YJ",
+      "id": "97t7Xj_iBv0",
+      "bvid": "BV1Mb411E71L",
       "page": 1
     },
     {
-      "id": "SxdOUGdseq4",
-      "bvid": "BV1J54y1A7PL",
+      "id": "9qi03QawZEk",
+      "bvid": "BV1954y1D7jk",
       "page": 1
     },
     {
-      "id": "TgFdics3uKo",
-      "bvid": "BV1iy4y187f2",
+      "id": "Fgh2dFngFsg",
+      "bvid": "BV17f4y1B7pB",
       "page": 1
     },
     {
-      "id": "TgFdics3uKo",
-      "bvid": "BV1vh411D7ru",
+      "id": "OWJCfOvochA",
+      "bvid": "BV1QaHXe7EMw",
       "page": 1
     },
     {
-      "id": "VO6XEQIsCoM",
-      "bvid": "BV1WQ4y1N7Dh",
+      "id": "PdFB7q89_3U",
+      "bvid": "BV1SjxYehEhC",
       "page": 1
     },
     {
-      "id": "VO_1AdYRGW8",
-      "bvid": "BV1t54y1X7KM",
+      "id": "RoGuvvzHY1A",
+      "bvid": "BV1UQ4y1d7Vu",
+      "page": 42
+    },
+    {
+      "id": "TnzcwTyr6cE",
+      "bvid": "BV1vs411t7ga",
+      "page": 1
+    },
+    {
+      "id": "YI3tsmFsrOg",
+      "bvid": "BV131421t7AT",
+      "page": 1
+    },
+    {
+      "id": "YI3tsmFsrOg",
+      "bvid": "BV1JK411U78q",
+      "page": 1
+    },
+    {
+      "id": "YIWV5fSaUB8",
+      "bvid": "BV1Vq4y1H7Ro",
+      "page": 1
+    },
+    {
+      "id": "ZD_3_gsgsnk",
+      "bvid": "BV1UQ4y1d7Vu",
+      "page": 49
+    },
+    {
+      "id": "ZYj4NkeGPdM",
+      "bvid": "BV16T4y1d7fw",
       "page": 1
     },
     {
-      "id": "XRr1kaXKBsU",
-      "bvid": "BV1Ly4y1r7Ue",
+      "id": "_8bhtEgB8Mo",
+      "bvid": "BV1o441127yv",
       "page": 1
     },
     {
-      "id": "ZKC3hiyLeRc",
-      "bvid": "BV1Kv411q7J7",
+      "id": "aircAruvnKk",
+      "bvid": "BV1g7411j7s1",
       "page": 1
     },
     {
-      "id": "Ztc6QPNUqls",
-      "bvid": "BV1Ti4y197qv",
+      "id": "d6iQrh2TK98",
+      "bvid": "BV17F4m1K7V3",
       "page": 1
     },
     {
-      "id": "_160oMzblY8",
-      "bvid": "BV1NW411q7bQ",
+      "id": "drv3BP0Fdi8",
+      "bvid": "BV1ms411t7cd",
       "page": 1
     },
     {
-      "id": "_P9HqHVPeik",
-      "bvid": "BV1xs411Z786",
+      "id": "fHNmRkzxHWs",
+      "bvid": "BV1hR4y1v7hF",
       "page": 1
     },
     {
-      "id": "bx3KuE7UjGA",
-      "bvid": "BV1a64y1k7oi",
+      "id": "g2tMcMQqSbA",
+      "bvid": "BV1fb4y1r7Hm",
       "page": 1
     },
     {
-      "id": "cUzklzVXJwo",
-      "bvid": "BV14r4y1E7ay",
+      "id": "gMqZR3pqMjg",
+      "bvid": "BV15441117Es",
       "page": 1
     },
     {
-      "id": "cUzklzVXJwo",
-      "bvid": "BV1CNE46bEwZ",
+      "id": "gMqZR3pqMjg",
+      "bvid": "BV1Bt421T7Us",
       "page": 1
     },
     {
-      "id": "cj02_UeUnGQ",
-      "bvid": "BV1Du411Z7oX",
+      "id": "gMqZR3pqMjg",
+      "bvid": "BV1Nx4y1B7ei",
       "page": 1
     },
     {
-      "id": "d4EgbgTm0Bg",
-      "bvid": "BV1HHUSBwEGZ",
+      "id": "ghUs-84NAAU",
+      "bvid": "BV1uESMYqEFm",
       "page": 1
+    },
+    {
+      "id": "juWaO5TJS00",
+      "bvid": "BV1UQ4y1d7Vu",
+      "page": 92
     },
     {
-      "id": "dpw9EHDh2bM",
-      "bvid": "BV1JE411X7NE",
+      "id": "k1BneeJTDcU",
+      "bvid": "BV11f4y1b7cM",
       "page": 1
     },
     {
-      "id": "gV5obrYaogU",
-      "bvid": "BV18u411B75s",
+      "id": "k1BneeJTDcU",
+      "bvid": "BV1uKxv6jEox",
       "page": 1
     },
     {
-      "id": "hC3VTgIPoGU",
-      "bvid": "BV1Pju1zkEoi",
+      "id": "kPR8h4-qZdk",
+      "bvid": "BV1vv411B7r2",
       "page": 1
     },
     {
-      "id": "hCQCP-5g5bo",
-      "bvid": "BV1uh2LB3E3U",
+      "id": "kPRA0W1kECg",
+      "bvid": "BV1BQ4y1N76f",
       "page": 1
     },
     {
-      "id": "hEx5DNLWGgA",
-      "bvid": "BV1Ss4y1h7GL",
+      "id": "kPRA0W1kECg",
+      "bvid": "BV1eW4y1K7ti",
       "page": 1
     },
     {
-      "id": "hhiLw5Q_UFg",
-      "bvid": "BV1Ao4y187GD",
+      "id": "l6T9xIeZTds",
+      "bvid": "BV1Bm4y1X7G3",
       "page": 1
     },
     {
-      "id": "kfg_e6YG37U",
-      "bvid": "BV12D4y197aA",
+      "id": "leFuF-zoVzA",
+      "bvid": "BV1ab411S7tg",
       "page": 1
     },
     {
-      "id": "klTjiXjqHrQ",
-      "bvid": "BV1Dv411H7hz",
+      "id": "ljOoGyCso8s",
+      "bvid": "BV1Ms411J7sH",
       "page": 1
     },
     {
-      "id": "kmFOBoy2MZ8",
-      "bvid": "BV1Fz4y1R7EG",
+      "id": "mZBwsm6B280",
+      "bvid": "BV18M4y1F7GP",
       "page": 1
     },
     {
-      "id": "krB0enBeSiE",
-      "bvid": "BV1Q86fYZE5Q",
+      "id": "mdKst8zeh-U",
+      "bvid": "BV14NCPYMEa3",
       "page": 1
     },
     {
-      "id": "lG4VkPoG3ko",
-      "bvid": "BV1Ei4y1F72M",
+      "id": "mwrA5IRGpfU",
+      "bvid": "BV1PF411e7AP",
       "page": 1
     },
     {
-      "id": "lKXe3HUG2l4",
-      "bvid": "BV12M411A7jq",
+      "id": "nXaxk27zwlk",
+      "bvid": "BV11dpDz4E3t",
       "page": 1
     },
     {
-      "id": "modXC5IWTJI",
-      "bvid": "BV1MS4y127tx",
+      "id": "nXaxk27zwlk",
+      "bvid": "BV1hR4y1v7Qy",
       "page": 1
     },
     {
-      "id": "oHeehYYgl28",
-      "bvid": "BV1Th411a7Hw",
+      "id": "oFtjKbXKqbg",
+      "bvid": "BV1N5oiYbETY",
       "page": 1
     },
     {
-      "id": "otbnC2zE2rw",
-      "bvid": "BV1YT411U7WT",
+      "id": "p3lsYlod5OU",
+      "bvid": "BV1PecqeuEKC",
       "page": 1
     },
     {
-      "id": "sPFmKu2S5XY",
-      "bvid": "BV1T5Tk6JEiy",
+      "id": "qhbuKbxJsk8",
+      "bvid": "BV15gJB6UEBL",
       "page": 1
     },
     {
-      "id": "sTu3LwpF6XI",
-      "bvid": "BV16qNf6SEfE",
+      "id": "qhbuKbxJsk8",
+      "bvid": "BV1H4411379A",
       "page": 1
     },
     {
-      "id": "skos4B5x7qE",
-      "bvid": "BV1yt411c74p",
+      "id": "sK5i-N34im8",
+      "bvid": "BV1A54y1B7B4",
       "page": 1
     },
     {
-      "id": "tCRPUv8V22o",
-      "bvid": "BV12z4y117aj",
+      "id": "sWgDk-o-6ZE",
+      "bvid": "BV1TR4y1v7ea",
       "page": 1
     },
     {
-      "id": "tIuj-oMN-Fk",
-      "bvid": "BV1gA411v7Do",
+      "id": "tDacjrSCeq4",
+      "bvid": "BV1gQ4y1o7TS",
       "page": 1
     },
     {
-      "id": "u6XAPnuFjJc",
-      "bvid": "BV1Bz4y1u7nR",
+      "id": "t_yh_S31R9g",
+      "bvid": "BV1Qj49zsEUq",
       "page": 1
     },
     {
-      "id": "uHQ4WCU1WQc",
-      "bvid": "BV1mJ411F7gM",
+      "id": "tyixMpuGEL8",
+      "bvid": "BV1RK4y197LU",
       "page": 1
     },
     {
-      "id": "vElZc6zSIXM",
-      "bvid": "BV1NdHcznE6r",
+      "id": "uqKGREZs6-w",
+      "bvid": "BV1vk6oBHEw9",
       "page": 1
+    },
+    {
+      "id": "wVp5koAOu9M",
+      "bvid": "BV1UQ4y1d7Vu",
+      "page": 201
     },
     {
-      "id": "wcBEOcPtlYk",
-      "bvid": "BV1MG4C6MEdw",
+      "id": "x5Efg42-Qn0",
+      "bvid": "BV15RYte1EPm",
       "page": 1
     },
     {
-      "id": "wcBEOcPtlYk",
-      "bvid": "BV1UV4y157Eu",
+      "id": "yQ6VOOd73MA",
+      "bvid": "BV1YpR2BxEyu",
       "page": 1
     },
     {
-      "id": "wupToqz1e2g",
-      "bvid": "BV1eP41197kY",
+      "id": "yQ6VOOd73MA",
+      "bvid": "BV1xnUJBnEgw",
       "page": 1
     },
     {
-      "id": "xMP_AfiNlX4",
-      "bvid": "BV1MF411t7CC",
+      "id": "ysa5OBhXz-Q",
+      "bvid": "BV17W411t7Ru",
       "page": 1
     },
     {
-      "id": "xguam0TKMw8",
-      "bvid": "BV11FhJeYEA3",
+      "id": "ysa5OBhXz-Q",
+      "bvid": "BV1GH4y1r7QJ",
       "page": 1
     },
     {
-      "id": "xixM_cwSLcQ",
-      "bvid": "BV1Yb41177P5",
+      "id": "ysa5OBhXz-Q",
+      "bvid": "BV1zs411v7Tj",
       "page": 1
     },
     {
-      "id": "y5UT04p5f7U",
-      "bvid": "BV1QmNX6UEZE",
+      "id": "z8MVKianh54",
+      "bvid": "BV1XE411y7Xv",
       "page": 1
     },
     {
-      "id": "zi0rHwfiX1Q",
-      "bvid": "BV1E84y1H7XN",
+      "id": "zQGOcOUBi6s",
+      "bvid": "BV1ux411x7VD",
       "page": 1
     },
     {
-      "id": "zyVTxGpEO30",
-      "bvid": "BV12wNPedEBQ",
+      "id": "zxRgfBXn6Mg",
+      "bvid": "BV1Yd4y127mP",
       "page": 1
     },
     {
-      "id": "zyVTxGpEO30",
-      "bvid": "BV1oZFGeQEPt",
+      "id": "zxRgfBXn6Mg",
+      "bvid": "BV1b64y1c7XL",
       "page": 1
     }
   ],
   "withdrawn_versions": [],
-  "net_versions_change": 75,
+  "net_versions_change": 83,
   "batches": [
     {
-      "id": "20261105T070656Z",
+      "id": "20261105T084430Z",
       "selected": 50,
       "completed": 50,
       "errors": [],
       "stopped": false,
       "originals": [
-        "ZKC3hiyLeRc",
-        "Ztc6QPNUqls",
-        "_-mBeYC2KGc",
-        "_P9HqHVPeik",
-        "_bP80DEAbuo",
-        "aDejwCGdUV8",
-        "aHun58mz3vI",
-        "aO3JgPUJ6iQ",
-        "bY2FlayomlE",
-        "bbyr7jZOllI",
-        "bx3KuE7UjGA",
-        "cUzklzVXJwo",
-        "cj02_UeUnGQ",
-        "dpw9EHDh2bM",
-        "eU5Dn-WaElI",
-        "elvOZm0d4H0",
-        "ez773teNFYA",
-        "ezVk1ahRF78",
-        "f0gMdGrVteI",
-        "ftcIcn8AmSY",
-        "gAk7aX5hksU",
-        "gV5obrYaogU",
-        "gWVmPtr9O0g",
-        "hC3VTgIPoGU",
-        "hzyFZcuHmeI",
-        "j5v8D-alAKE",
-        "jA1C9VFqJKo",
-        "kH5APw_SLUU",
-        "kd2KEHvK-q8",
-        "kfg_e6YG37U",
-        "klTjiXjqHrQ",
-        "kmFOBoy2MZ8",
-        "krB0enBeSiE",
-        "lG4VkPoG3ko",
-        "lJ3NC-R3gSI",
-        "lkgszkPnV8g",
-        "modXC5IWTJI",
-        "n02tImce3AE",
-        "ne99laPUxN4",
-        "nxyxcTZccsE",
-        "oHeehYYgl28",
-        "ojm74VGsZBU",
-        "p5_tpq5ejFQ",
-        "pqeJFYwnkjE",
-        "qOP2V_np2c0",
-        "skos4B5x7qE",
-        "slDAvewWfrA",
-        "smStEPSRKBs",
-        "tk862BbjWx4",
-        "tt2AYafET68"
+        "WTYet-qf1jo",
+        "WlT3UhC7NwQ",
+        "WxOp5mBY9IY",
+        "XKu_SEDAykw",
+        "XTeJ64KD5cg",
+        "Y99Wj-NStok",
+        "YCjNT9qGjh4",
+        "YI3tsmFsrOg",
+        "YuIIjLr6vUA",
+        "Z7rd04KzLcg",
+        "ZDR433b0HJY",
+        "ZD_3_gsgsnk",
+        "ZMQbHMgK2rw",
+        "ZPoqNeR3_UA",
+        "_6pl5GG8RQ4",
+        "_8bhtEgB8Mo",
+        "_DTpQ4Kk2wA",
+        "ab-r0capbzk",
+        "amJ-ev8Ial8",
+        "ax7f3JZJHSw",
+        "c8iFtaltX-s",
+        "cIcbAMO6sxo",
+        "cn7kTPbW6QQ",
+        "d6PyyatqJSE",
+        "dcjkezf1ARY",
+        "dqQw05Mr63E",
+        "drv3BP0Fdi8",
+        "e7wFotDKEF4",
+        "esQyYGezS7c",
+        "f-wWBGo6a2w",
+        "fNpsgTIpODA",
+        "fOGdb1CTu5c",
+        "ffkIQrq-m34",
+        "g2tMcMQqSbA",
+        "gDdq2rIqAlM",
+        "gJ5KV3rzuag",
+        "gMqZR3pqMjg",
+        "gSKzgpt4HBU",
+        "ghUs-84NAAU",
+        "giQ8xEWjnBs",
+        "gwvA49ZXnf8",
+        "h2I8AoB1xgU",
+        "h5cm7HOAqZY",
+        "hMKy52Intac",
+        "hOE6nVVr14c",
+        "i70wkxmumAw",
+        "ibqiet6Bg38",
+        "j4kI2h3iotA",
+        "jILgxeNBK_8",
+        "jmTwlEh8L7g"
       ],
       "primary_first": true,
-      "deferred_candidates": 160,
+      "deferred_candidates": 73,
       "attempted": 50,
       "unattempted": 0,
       "statuses": {
-        "review": 33,
-        "confirmed": 17
+        "review": 44,
+        "confirmed": 6
       },
-      "candidate_count": 1914
+      "candidate_count": 1924
     },
     {
-      "id": "20261105T072346Z",
+      "id": "20261105T090014Z",
       "selected": 50,
-      "completed": 16,
-      "errors": [
-        {
-          "vid": "zi0rHwfiX1Q",
-          "reason": "URLError"
-        }
-      ],
+      "completed": 43,
+      "errors": [],
       "stopped": false,
       "originals": [
-        "uB0gr7Fh6lY",
-        "uBh2LxTW0s0",
-        "uHQ4WCU1WQc",
-        "uknEhXyZgsg",
-        "vJjKwSF9gT8",
-        "vuEQixrBKCc",
-        "wsaufB5F8dk",
-        "wtV5ev6813I",
-        "xMP_AfiNlX4",
-        "xSGx3HSjKDo",
-        "xe-f4gokRBs",
-        "xixM_cwSLcQ",
-        "xrIjfIjssLE",
-        "xzYgiOC9cj4",
-        "zAFcV7zuUDA",
-        "zUyH3XhpLTo"
+        "jqjacHSTd48",
+        "k1BneeJTDcU",
+        "k6U-i4gXkLM",
+        "kPR8h4-qZdk",
+        "kPRA0W1kECg",
+        "knUitQQnpJo",
+        "l6T9xIeZTds",
+        "l6XQUciI-Sc",
+        "lG2dXobAXLI",
+        "lPgZfhnCAdI",
+        "la-sGpTpkxE",
+        "ljOoGyCso8s",
+        "lyqt6u5_sHA",
+        "m64SWl9bfvk",
+        "mdKst8zeh-U",
+        "mwrA5IRGpfU",
+        "nBNTAmLRmUg",
+        "nIoXOplUvAw",
+        "nUBtKNzoKZ4",
+        "nfY0lrdXar8",
+        "ngpsJKQR_ZE",
+        "nmgFG7PUHfo",
+        "nnR8fDW3Ilo",
+        "nphxoUxSvgY",
+        "nsaUX48t0w8",
+        "nvK8fua6O64",
+        "oOttvpjJvAo",
+        "oeqPrUmVz-o",
+        "pagPuiuA9cY",
+        "q7K0vRUKXKc",
+        "qOTYgcdNrXE",
+        "qTBAW-Eh0tM",
+        "qhbuKbxJsk8",
+        "r8RxkpUvxK0",
+        "rDPj5zI66LA",
+        "rJjKP8vYjpQ",
+        "rRi8LptvFZY",
+        "rn7MmS3vazU",
+        "sK5i-N34im8",
+        "sTJ7AzBIJoI",
+        "sWgDk-o-6ZE",
+        "s_osQvkeNRM",
+        "snz7JJlSZvw"
+      ],
+      "primary_first": true,
+      "deferred_candidates": 117,
+      "attempted": 43,
+      "unattempted": 7,
+      "statuses": {
+        "confirmed": 10,
+        "review": 33
+      }
+    },
+    {
+      "id": "20261105T124731Z",
+      "selected": 7,
+      "completed": 7,
+      "errors": [],
+      "stopped": false,
+      "originals": [
+        "suRDUFpsHus",
+        "tDacjrSCeq4",
+        "tP-Ipsat90c",
+        "tU3rGFyN5uQ",
+        "t_yh_S31R9g",
+        "tke6X2eME3c",
+        "tyixMpuGEL8"
       ],
       "primary_first": true,
       "deferred_candidates": 38,
-      "attempted": 17,
-      "unattempted": 33,
+      "attempted": 7,
+      "unattempted": 0,
       "statuses": {
         "confirmed": 3,
-        "review": 14
+        "review": 4
       },
-      "candidate_count": 609
+      "candidate_count": 272
     },
     {
-      "id": "20261105T073151Z",
-      "selected": 1,
-      "completed": 1,
-      "errors": [],
-      "stopped": false,
-      "originals": [
-        "zi0rHwfiX1Q"
-      ],
-      "primary_first": true,
-      "deferred_candidates": 8,
-      "attempted": 1,
-      "unattempted": 0,
-      "statuses": {
-        "confirmed": 1
-      },
-      "candidate_count": 38
-    },
-    {
-      "id": "20261105T073450Z",
-      "selected": 33,
-      "completed": 33,
-      "errors": [],
-      "stopped": false,
-      "originals": [
-        "zyVTxGpEO30",
-        "-I_jE0l7sYQ",
-        "-Ln-8QM8KhQ",
-        "-f-CFQxaUY4",
-        "-suTmUX4Vbk",
-        "06e-PwhmSq8",
-        "0MeRN7LE1LQ",
-        "0UjpmT5noto",
-        "0VyH1laOd2M",
-        "0g9BcZvQbXU",
-        "1H3xQaf7BFI",
-        "1Y1ya-yF35g",
-        "1rZ-JorHJEY",
-        "1wAaI_6b9JE",
-        "24R8JObNNQ4",
-        "2IT2oAzTcvU",
-        "2LyzBoHo5EI",
-        "2QrX5jsiico",
-        "39iKLwlUqBo",
-        "3BR8tK-LuB0",
-        "3GObi93tjZI",
-        "3ka4KY7TMTU",
-        "3lXv3Tt4x20",
-        "3uiEyEKji0M",
-        "41VJudBdYXY",
-        "449j7oKQVkc",
-        "4RSht_aV7AU",
-        "4hZxo96x48A",
-        "4oAB83Z1ydE",
-        "5HbYScltf1c",
-        "5Tek9h3a5wQ",
-        "5zkC9IMQmYA",
-        "6AeWu1fZ7bY"
-      ],
-      "primary_first": true,
-      "deferred_candidates": 23,
-      "attempted": 33,
-      "unattempted": 0,
-      "statuses": {
-        "review": 31,
-        "confirmed": 2
-      },
-      "candidate_count": 1258
-    },
-    {
-      "id": "20261105T074629Z",
-      "selected": 50,
-      "completed": 8,
-      "errors": [
-        {
-          "vid": "9-IWMbJXoLM",
-          "reason": "URLError"
-        }
-      ],
-      "stopped": false,
-      "originals": [
-        "6BhV-o77RqQ",
-        "7CgXvIuZR40",
-        "7HKbjYqqPPQ",
-        "7OpM_zKGE4o",
-        "816VLQNdPMM",
-        "85ZCTuekjGA",
-        "86Krv3gE-c4",
-        "8ORLN_KwAgs"
-      ],
-      "primary_first": true,
-      "deferred_candidates": 23,
-      "attempted": 9,
-      "unattempted": 41,
-      "statuses": {
-        "confirmed": 2,
-        "review": 7
-      },
-      "candidate_count": 303
-    },
-    {
-      "id": "20261105T075306Z",
-      "selected": 1,
-      "completed": 1,
-      "errors": [],
-      "stopped": false,
-      "originals": [
-        "9-IWMbJXoLM"
-      ],
-      "primary_first": true,
-      "deferred_candidates": 0,
-      "attempted": 1,
-      "unattempted": 0,
-      "statuses": {
-        "review": 1
-      },
-      "candidate_count": 40
-    },
-    {
-      "id": "20261105T075504Z",
-      "selected": 41,
-      "completed": 41,
-      "errors": [],
-      "stopped": false,
-      "originals": [
-        "90NsjKvz9Ns",
-        "99dKzubvpKE",
-        "9F9ahZQ7oP0",
-        "9LfmrkyP81M",
-        "9W74aeuqsiU",
-        "9crggox5rbc",
-        "AGCmPLWZKd8",
-        "ARYP83yNAWk",
-        "AZR0UKxNPh8",
-        "Ac7G7xOG2Ag",
-        "Av0PQDVTP4A",
-        "B2482h_TNwg",
-        "B8Y146v8HxE",
-        "BEG-ly9tQGk",
-        "ByNs9TG30E8",
-        "D6EPuUdIC1E",
-        "DFFVSvAr7Wc",
-        "DShDaJXK5qo",
-        "DXvAlwMAxiA",
-        "DoeNbZlxfUM",
-        "E0W1ZZYIV8o",
-        "EUXnJraKM3k",
-        "Ecy1FBdCRbQ",
-        "Eghl19elKk8",
-        "FBaVwwuErmU",
-        "FTKP0Y9MVus",
-        "G-WO-z-QuWI",
-        "G0ZZJXw4MTA",
-        "GtQdIYUtAHg",
-        "H6ZFzEW7_Q4",
-        "HMBl0ttu-Ow",
-        "HPqGaIMVuLs",
-        "HSxSgbNQi-g",
-        "HfNIiitVFtc",
-        "HlUe0TUHOIc",
-        "Hzb37RyagCQ",
-        "IRVdiHu1VCc",
-        "IUDTlvagjJA",
-        "J44svaQc5WY",
-        "JRuNA2eK7w0",
-        "Jd3-eiid-Uw"
-      ],
-      "primary_first": true,
-      "deferred_candidates": 91,
-      "attempted": 41,
-      "unattempted": 0,
-      "statuses": {
-        "review": 36,
-        "confirmed": 5
-      },
-      "candidate_count": 1549
-    },
-    {
-      "id": "20261105T081004Z",
+      "id": "20261105T125127Z",
       "selected": 50,
       "completed": 50,
       "errors": [],
       "stopped": false,
       "originals": [
-        "JrMiSQAGOS4",
-        "JtKAScORevQ",
-        "KFNxJVTJleE",
-        "KSWqx8goqSY",
-        "K_q-xnYRugQ",
-        "KaOC9danxNo",
-        "KqFNbCcyFkk",
-        "L-x8DYTOv7w",
-        "LWGJA9i18Co",
-        "M4AhABManTw",
-        "MQyxG4vTyZ8",
-        "Mz3JeYfBTcY",
-        "N-yALPEpV4w",
-        "NMvwHDFVpCE",
-        "NUQu-OPrzUc",
-        "NXN7TOg3kj4",
-        "NYSgd1XSZXc",
-        "O-2tpwW0kmU",
-        "OMPfEXIlTVE",
-        "OQ5jsbhAv_M",
-        "Oo0jm1PPRuo",
-        "OqjcrfKjobY",
-        "PIPjmmmh_os",
-        "PJnJ8mK3Q3g",
-        "PQccNdwm8Tw",
-        "PYylPRX6z4Q",
-        "PZbqAMEwtOE",
-        "PdO3IP0Pro8",
-        "Ps8jOj7diA0",
-        "QOEMv0S8AcA",
-        "QRaACa1Mrd4",
-        "R3xX37RGJKE",
-        "REni8Oi1QJQ",
-        "RQv5CVELG3U",
-        "RTB5XhjbgZA",
-        "RUwS1uAdUcI",
-        "Ra_0DgnJ1uQ",
-        "RlXdsyctD50",
-        "RxD6H3ri8RI",
-        "SMEOKDVXlUo",
-        "T3u7bGgVspM",
-        "URJ_qSXruW0",
-        "UnU7DJXiMAQ",
-        "V4V2bpZlqx8",
-        "VBwWbFpkltg",
-        "VDfX44fZoMc",
-        "VNvzZfsC13o",
-        "VO_1AdYRGW8",
-        "VPBH1eW28mo",
-        "VeAdryYZ7ak"
+        "uY-u1qyRM5w",
+        "uYNzqgU7na4",
+        "udPY5rQVoW0",
+        "uqKGREZs6-w",
+        "v6jhjjVy5Ls",
+        "vGAqYNFQdZ4",
+        "v_UyVmITiYQ",
+        "vmgxtcbc4iU",
+        "vu-h5y6tK34",
+        "wASCH_gPnDw",
+        "wFpeM3fxJoQ",
+        "wSdV1M7n4gQ",
+        "wqu_IpkOYBg",
+        "x5Efg42-Qn0",
+        "xKu2de0yCJI",
+        "xnez6tloNSQ",
+        "y3qfeoqErtY",
+        "yG1OZ69H_-o",
+        "yQ6VOOd73MA",
+        "ysa5OBhXz-Q",
+        "z_hm5oX7ZlE",
+        "zt0OQb1DBko",
+        "zxRgfBXn6Mg",
+        "-2ZTmuX3cog",
+        "-bYAQ-ZZtEU",
+        "-qCKR6wy94U",
+        "01oeaBb85Xc",
+        "0JDoll8OEFE",
+        "0Rnq1NpHdmw",
+        "0Z4aF-qiziM",
+        "0rR9IaXH1M0",
+        "15R2pMqU2ok",
+        "17KCHwOwgms",
+        "17oCQakzIl8",
+        "1L3eeC2lJZs",
+        "1W_mSOS1Qts",
+        "1WupH8oyrAo",
+        "1tSqSMOyNFE",
+        "24OXzIRIiMQ",
+        "2EWejmkKlxs",
+        "2FMBSblpcrc",
+        "2KZb2_vcNTg",
+        "2R07FL1wVo4",
+        "2SuvO4Gi7uY",
+        "2THVvshvq0Q",
+        "2aCOyOvOw5c",
+        "2nBPN-MKefA",
+        "2zvjW9arAZ0",
+        "35Idb_lCU4o",
+        "37wFVVVZlVU"
       ],
       "primary_first": true,
-      "deferred_candidates": 84,
+      "deferred_candidates": 116,
       "attempted": 50,
       "unattempted": 0,
       "statuses": {
-        "review": 43,
-        "confirmed": 7
+        "review": 41,
+        "confirmed": 9
       },
-      "candidate_count": 1922
+      "candidate_count": 1957
+    },
+    {
+      "id": "20261105T131017Z",
+      "selected": 50,
+      "completed": 50,
+      "errors": [],
+      "stopped": false,
+      "originals": [
+        "3EPTfOTC4Jw",
+        "3FOzD4Sfgag",
+        "3TFz1xqp3us",
+        "3TX3kV3TICU",
+        "3WMuzhQXJoY",
+        "3qln2u1Vr2E",
+        "3x1b_S6Qp2Q",
+        "43CMV8KIs3E",
+        "495nCzxM9PI",
+        "4AC6RSau7r8",
+        "4P_kbF0EbZM",
+        "4QXZ2RzN_Oo",
+        "4aw9uyj9MAE",
+        "4s9IjkMAmns",
+        "52KLGqDSAjo",
+        "5Dnw46eC-0o",
+        "5Dw3aKbw5Wo",
+        "5JYp9eGC3Cc",
+        "5MdSE-N0bxs",
+        "5MxH1sfJLBQ",
+        "5QwOpRh-IfI",
+        "5RKbSi87J5Q",
+        "5Vt8zqhHe_c",
+        "5gnpCqsXE8g",
+        "5guXaWwQpe4",
+        "5tSTk1083VY",
+        "5u7euN1HTuU",
+        "6OPsH8PK7xM",
+        "6VOQnK7O2To",
+        "72cM_E6bsOs",
+        "74zOY-vgkyw",
+        "7JUs4c99-mo",
+        "7gDKbT_l2us",
+        "7hwO8Q_TyCA",
+        "7kGnfXXIKZM",
+        "86gyW0vUmVs",
+        "87jfTIWosBw",
+        "8BIcAZxFfrc",
+        "8CAafjodkyE",
+        "8COaMKbNrX0",
+        "8JrqH2oOTK4",
+        "8PwwRR8deHk",
+        "94ed4v_T6YM",
+        "97t7Xj_iBv0",
+        "9OfBpQgLXUc",
+        "9QveBbn7t_c",
+        "9R5OWh7luL4",
+        "9c8an2XZ3MU",
+        "9vpqilhW9uI",
+        "9vz06QO3UkQ"
+      ],
+      "primary_first": true,
+      "deferred_candidates": 144,
+      "attempted": 50,
+      "unattempted": 0,
+      "statuses": {
+        "confirmed": 11,
+        "review": 39
+      },
+      "candidate_count": 1897
     }
   ],
   "completed_search_originals": 200,
-  "direct_search_confirmed": 37,
+  "direct_search_confirmed": 39,
   "source_verification_batches": [
     {
-      "id": "2026-11-05T07:23:07.348837+00:00",
-      "source": "serial-20261105T070643Z-leads-1.json",
-      "attempted": 16,
-      "completed": 16,
+      "id": "2026-11-05T08:59:31.033795+00:00",
+      "source": "serial-20261105T084417Z-leads-1.json",
+      "attempted": 15,
+      "completed": 15,
       "confirmed": 14,
       "errors": [],
       "stopped": false
     },
     {
-      "id": "2026-11-05T07:46:08.826064+00:00",
-      "source": "serial-20261105T074557Z-leads-1.json",
-      "attempted": 7,
-      "completed": 7,
-      "confirmed": 2,
+      "id": "2026-11-05T12:50:43.859797+00:00",
+      "source": "serial-20261105T125028Z-leads-1.json",
+      "attempted": 14,
+      "completed": 14,
+      "confirmed": 10,
       "errors": [],
       "stopped": false
     },
     {
-      "id": "2026-11-05T08:09:26.661018+00:00",
-      "source": "serial-20261105T080913Z-leads-1.json",
-      "attempted": 12,
-      "completed": 12,
-      "confirmed": 8,
+      "id": "2026-11-05T13:09:46.162639+00:00",
+      "source": "serial-20261105T125028Z-leads-2.json",
+      "attempted": 10,
+      "completed": 10,
+      "confirmed": 9,
       "errors": [],
       "stopped": false
     },
     {
-      "id": "2026-11-05T08:27:14.692906+00:00",
-      "source": "serial-20261105T080913Z-leads-2.json",
-      "attempted": 8,
-      "completed": 8,
-      "confirmed": 5,
-      "errors": [],
-      "stopped": false
-    },
-    {
-      "id": "2026-11-05T07:32:54.156612+00:00",
-      "source": "external-leads-0abd76a.json",
-      "attempted": 3,
-      "completed": 3,
-      "confirmed": 1,
+      "id": "2026-11-05T13:27:27.129432+00:00",
+      "source": "serial-20261105T125028Z-leads-3.json",
+      "attempted": 14,
+      "completed": 14,
+      "confirmed": 9,
       "errors": [],
       "stopped": false
     }
   ],
-  "source_leads_completed": 46,
-  "source_confirmed_versions": 30,
+  "source_leads_completed": 53,
+  "source_confirmed_versions": 42,
   "source_input_hashes": [
     {
-      "source": "serial-20261105T070643Z-leads-1.json",
-      "sha256": "314db76c3431ae20c820030c908c33081833c056a153418df9a795ee1da43594"
+      "source": "serial-20261105T084417Z-leads-1.json",
+      "sha256": "d2a5e85c4f5d606280bdd313d53abe193187a37035dbca84732cba601cb2c49f"
     },
     {
-      "source": "serial-20261105T074557Z-leads-1.json",
-      "sha256": "6d883e80b73dc39171809c0bedaa087ca6da49556f66f699e9b82fb5d883a36c"
+      "source": "serial-20261105T125028Z-leads-1.json",
+      "sha256": "9ffae3e8ebf37b743092d8b25d44d7fae75b411a3c775011c85d69ff0e3da577"
     },
     {
-      "source": "serial-20261105T080913Z-leads-1.json",
-      "sha256": "61b28b1fa5091c6f242b7d1d3d6517f8e9f257b0769bbaed82b222d9964a01a3"
+      "source": "serial-20261105T125028Z-leads-2.json",
+      "sha256": "1d2a5c75babc4ad2ecf6669062bf22a78d170290c235e6422fb31b01ffdb41b3"
     },
     {
-      "source": "serial-20261105T080913Z-leads-2.json",
-      "sha256": "17609ab9d6db70d95a52e4eeed5e65bef91e0bb4b752caec56d51f8462546f69"
-    },
-    {
-      "source": "external-leads-0abd76a.json",
-      "sha256": "edf853880929842f3b7da51ad88048c592d1ee12bb842e6c30725b356cb65978"
+      "source": "serial-20261105T125028Z-leads-3.json",
+      "sha256": "5d080dd0815c8cf0789e095c0dc3ca3b37fd4876ee6df67f5920cc4c51a775da"
     }
   ],
-  "batch_deferred_candidate_count": 427,
-  "remaining_deferred_candidates": 2081,
-  "new_query_pairs": 235,
-  "ordinary_errors": [
-    {
-      "vid": "zi0rHwfiX1Q",
-      "reason": "URLError"
-    },
-    {
-      "vid": "9-IWMbJXoLM",
-      "reason": "URLError"
-    }
-  ],
-  "manual_source_reviews": 8,
-  "manual_different_work_rejections": 4,
+  "batch_deferred_candidate_count": 488,
+  "remaining_deferred_candidates": 2548,
+  "new_query_pairs": 200,
+  "ordinary_errors": [],
+  "observed_interruption": {
+    "partial_batch": "interrupted-batch-receipt-cedffbd.json",
+    "completed": 43,
+    "interface_errors": 0,
+    "cause": "unknown; prior PID and tool handle absent",
+    "resumed_originals": 7
+  },
+  "metadata_title_review": {
+    "at": "2026-11-05T13:10:27.315904+00:00",
+    "review_status": "metadata_consistency_review_completed_for_snapshot",
+    "frame_by_frame_comparison": false,
+    "scope": "Read original/Bilibili/segment titles for 84 versions (including one held derivative), and cached descriptions for five ambiguous titles; no frame comparison.",
+    "findings": [
+      {
+        "id": "k1BneeJTDcU",
+        "bvid": "BV1psn46YET8",
+        "page": 1,
+        "decision": "hold_after_current_writer_stops",
+        "reason": "Uploader explicitly labels audio AI-generated derivative secondary creation; source URL is attribution, not proof of identical content."
+      }
+    ],
+    "remaining_limits": "Title and metadata consistency cannot establish full audiovisual equivalence; later new confirmations need final audit.",
+    "reviewed_at": "2026-11-05T13:19:45.217530+00:00"
+  },
+  "manual_identity_review": {
+    "at": "2026-11-05T13:28:31.026824+00:00",
+    "id": "ghUs-84NAAU",
+    "bvid": "BV1uESMYqEFm",
+    "requests": 0,
+    "reviewer": "Codex",
+    "decision": "confirmed"
+  },
+  "year_context_reassessment": {
+    "at": "2026-11-05T13:28:30.250515+00:00",
+    "requests": 0,
+    "checked": 1205,
+    "changes": [
+      {
+        "id": "N1CBDTgGtOU",
+        "bvid": "BV1eZ4y1W7wH",
+        "page": 1,
+        "cid": 201097382,
+        "before": "review",
+        "after": "review",
+        "before_flags": [
+          "no explicit original URL; manual identity review required",
+          "conflicting years",
+          "duration outside tolerance"
+        ],
+        "after_flags": [
+          "no explicit original URL; manual identity review required",
+          "duration outside tolerance"
+        ]
+      },
+      {
+        "id": "2XLZ4Z8LpEE",
+        "bvid": "BV1Rk4y1r7tQ",
+        "page": 1,
+        "cid": 185191935,
+        "before": "review",
+        "after": "confirmed",
+        "before_flags": [
+          "conflicting years"
+        ],
+        "after_flags": []
+      },
+      {
+        "id": "6orsmFndx_o",
+        "bvid": "BV1Sq4y1N7Hx",
+        "page": 1,
+        "cid": 410259501,
+        "before": "review",
+        "after": "confirmed",
+        "before_flags": [
+          "conflicting years"
+        ],
+        "after_flags": []
+      },
+      {
+        "id": "k1BneeJTDcU",
+        "bvid": "BV1psn46YET8",
+        "page": 1,
+        "cid": 42976087574,
+        "before": "confirmed",
+        "after": "review",
+        "before_flags": [],
+        "after_flags": [
+          "derivative content requires review"
+        ]
+      }
+    ],
+    "source_rule": "Explicit original identity still required; non-content filename dates excluded, explicit derivative content held for review."
+  },
   "cached_new_version_audit": {
-    "checked": 75,
+    "checked": 83,
     "requests": 0,
     "all_passed": true
   },
   "baseline_hashes": {
-    "baseline_library": "c64ccc28375517e5e9ca8a7c0a4f886886b4008722301d2b3cd8f5ba5f1bb2aa",
-    "baseline_public": "1d6956263e759a8a340a50f7d111e19c35c9c5abc3d2af42c6ff0ee019f8498f"
-  },
-  "source_page_probe_errors": [
-    {
-      "source": "https://worrydream.com/Engelbart/",
-      "stopped": true,
-      "error": "URLError"
-    }
-  ],
-  "source_page_probe_errors_are_bilibili_errors": false,
-  "subtitle_label_changes": {
-    "approved_versions": [
-      {
-        "id": "VO6XEQIsCoM",
-        "bvid": "BV1WQ4y1N7Dh",
-        "page": 1,
-        "before": "original",
-        "after": "sub_zh",
-        "status": "confirmed"
-      }
-    ],
-    "pending_candidate_label_cleanups": 1,
-    "approval_changes": 0
-  },
-  "runtime_validation": {
-    "python": "3.12.14",
-    "ssl": "OpenSSL 3.5.7",
-    "root_cause_proven": false,
-    "subsequent_search_originals_without_new_errors": 91
+    "baseline_library": "26ac6d424638547ad4cb877e242ea34b04c8665c04e7d2f771f5c8f810f0e27f",
+    "baseline_public": "ba33a41f10b64a5937c23472c5e695105abeb7e44fa6c6be2ee97779f09c90a2"
   },
   "validation": {
-    "python_tests": 55,
-    "browser_report": "browser-tests.json",
+    "unit_tests": 63,
+    "browser": "reports/browser-tests.json",
+    "browser_status": "pass",
     "playback_reports": [
-      "playback-increment-0abd76a-sources.json",
-      "playback-increment-0abd76a-identities.json",
-      "playback-increment-0abd76a-variants.json"
+      "reports/playback-increment-cedffbd.json",
+      "reports/playback-increment-cedffbd-languages.json"
     ],
-    "unique_playback_versions": 12,
-    "playback_observations": 13,
-    "all_playing": true,
-    "first_source_report_precedes_subtitle_label_correction": true,
+    "playback_observations": 10,
+    "unique_playback_versions": 10,
+    "playback_passed": true,
+    "cached_new_versions": 83,
     "frame_by_frame_comparison": false
   }
 }
