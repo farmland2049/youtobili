@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-05T13:28:31.025941+00:00",
+  "checked_at": "2026-11-05T14:44:49.736429+00:00",
   "reviews": [
     {
       "id": "NNnIGh9g6fA",
@@ -699,6 +699,147 @@
       "id": "ghUs-84NAAU",
       "reviewed_at": "2026-11-05T13:28:31.025930+00:00",
       "evidence_type": "explicit original ID and author in complete source description"
+    },
+    {
+      "id": "8COaMKbNrX0",
+      "bvid": "BV1SS4y1M7o5",
+      "page": 1,
+      "cid": 469255239,
+      "duration_s": 881,
+      "original_duration_s": 894,
+      "decision": "confirmed",
+      "reviewer": "Codex",
+      "evidence": "Codex官方来源链复核：B站主简介直接链接TED演讲页面。页面主视频数据props.pageProps.videoData.videoPlayerData.external明确标注YouTube ID 8COaMKbNrX0，讲者David Epstein，标题Are athletes really getting faster, better, stronger?。与目标原片8COaMKbNrX0对应，标题、讲者、单P内容标识一致，B站881秒/原片894秒在检查线内，CID469255239，当前无年份、集次、删减或分P矛盾。主播放器字段而非推荐列表用于绑定身份；未进行逐帧比较。 Revalidated cached availability, exact source hashes, primary player identity, unchanged CID/duration and segment ownership before applying.",
+      "frame_by_frame_comparison": false,
+      "source_snapshot": {
+        "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SS4y1M7o5",
+        "snapshot": "http/ac882574e4a2bf0d38a7c19cba623ae81c0b13401a6c9e8e8ceb90855e9c4f77.json",
+        "source_sha256": "7d01aaccb6c79322c9a4b31f91753487a8c00242bd24b3a6e94cced9ff2677d8"
+      },
+      "original_metadata_snapshot": {
+        "source": "https://hackertube.org/api/video?vid=8COaMKbNrX0",
+        "snapshot": "http/c32d878cd9633f8f30ba41b552db9f9a9ec59f9cd81675f091a76c93854a53a0.json",
+        "source_sha256": "46aa31455a0b7b502bab5d0e00a4e9a04db363daa90a7f5a16e183da74083c9a"
+      },
+      "official_source": {
+        "name": "epstein",
+        "source": "https://www.ted.com/talks/david_epstein_are_athletes_really_getting_faster_better_stronger",
+        "resolved_url": "https://www.ted.com/talks/david_epstein_are_athletes_really_getting_faster_better_stronger",
+        "snapshot": "ted-epstein-source-7b12421.html",
+        "sha256": "a4d5282c17540fc192a3db23b16d11031e7e2c8bf4eaa20ab7ac89b39e86ed2d",
+        "at": "2026-11-05T13:38:37.205199+00:00",
+        "source_sha256": "a4d5282c17540fc192a3db23b16d11031e7e2c8bf4eaa20ab7ac89b39e86ed2d",
+        "primary_json_path": "props.pageProps.videoData.videoPlayerData.external",
+        "external": {
+          "__typename": "VideoPlayerExternal",
+          "service": "YouTube",
+          "code": "8COaMKbNrX0",
+          "duration": 894,
+          "startTime": 0
+        },
+        "title": "Are athletes really getting faster, better, stronger?",
+        "speaker": "David Epstein"
+      },
+      "sources": [
+        "https://www.ted.com/talks/david_epstein_are_athletes_really_getting_faster_better_stronger",
+        "https://www.bilibili.com/video/BV1SS4y1M7o5"
+      ],
+      "reviewed_at": "2026-11-05T14:44:48.565241+00:00",
+      "evidence_type": "official primary-player source chain"
+    },
+    {
+      "id": "9vpqilhW9uI",
+      "bvid": "BV1C7411i7nK",
+      "page": 1,
+      "cid": 143587226,
+      "duration_s": 1122,
+      "original_duration_s": 1121,
+      "decision": "confirmed",
+      "reviewer": "Codex",
+      "evidence": "Codex官方来源链复核：B站主简介直接链接TED演讲页面。页面主视频数据props.pageProps.videoData.videoPlayerData.external明确标注YouTube ID 9vpqilhW9uI，讲者James Flynn，标题Why our IQ levels are higher than our grandparents'。与目标原片9vpqilhW9uI对应，标题、讲者、单P内容标识一致，B站1122秒/原片1121秒在检查线内，CID143587226，当前无年份、集次、删减或分P矛盾。主播放器字段而非推荐列表用于绑定身份；未进行逐帧比较。 Revalidated cached availability, exact source hashes, primary player identity, unchanged CID/duration and segment ownership before applying.",
+      "frame_by_frame_comparison": false,
+      "source_snapshot": {
+        "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1C7411i7nK",
+        "snapshot": "http/f4d7f906c1a8e898a5235082c3dd0f4c9ea56303ab55215b042c1e3108000d36.json",
+        "source_sha256": "211617d94f72b01020e0471acb0bed2711c999278f9352fb903a9fa914caba9c"
+      },
+      "original_metadata_snapshot": {
+        "source": "https://hackertube.org/api/video?vid=9vpqilhW9uI",
+        "snapshot": "http/55361a58405b90b74d46aa8c114172f977ec9be45140dc5270f476e052a67f9c.json",
+        "source_sha256": "e5ce8ba00276f94dc4d3e0fe2a0823b80f2f9de7816ce4d88b7002e769b378cb"
+      },
+      "official_source": {
+        "name": "flynn",
+        "source": "https://www.ted.com/talks/james_flynn_why_our_iq_levels_are_higher_than_our_grandparents",
+        "resolved_url": "https://www.ted.com/talks/james_flynn_why_our_iq_levels_are_higher_than_our_grandparents",
+        "snapshot": "ted-flynn-source-7b12421.html",
+        "sha256": "d83a1a5a4fa685f5f37d8021a7da50bdd8ba58dca61f95e5e2a9661f848f45ed",
+        "at": "2026-11-05T13:38:39.541529+00:00",
+        "source_sha256": "d83a1a5a4fa685f5f37d8021a7da50bdd8ba58dca61f95e5e2a9661f848f45ed",
+        "primary_json_path": "props.pageProps.videoData.videoPlayerData.external",
+        "external": {
+          "__typename": "VideoPlayerExternal",
+          "service": "YouTube",
+          "code": "9vpqilhW9uI",
+          "duration": 1121,
+          "startTime": 0
+        },
+        "title": "Why our IQ levels are higher than our grandparents'",
+        "speaker": "James Flynn"
+      },
+      "sources": [
+        "https://www.ted.com/talks/james_flynn_why_our_iq_levels_are_higher_than_our_grandparents",
+        "https://www.bilibili.com/video/BV1C7411i7nK"
+      ],
+      "reviewed_at": "2026-11-05T14:44:49.135632+00:00",
+      "evidence_type": "official primary-player source chain"
+    },
+    {
+      "id": "8COaMKbNrX0",
+      "bvid": "BV19V411q7XL",
+      "page": 1,
+      "cid": 291215732,
+      "duration_s": 873,
+      "original_duration_s": 894,
+      "decision": "unmatched",
+      "reviewer": "Codex",
+      "evidence": "Codex官方来源链复核：B站主简介直接链接TED演讲页面。页面主视频数据props.pageProps.videoData.videoPlayerData.external明确标注YouTube ID -akXMtIhPIo，讲者David Peterson，标题Why language is humanity's greatest invention。该ID与目标8COaMKbNrX0不同，主标题及讲者也分别是语言发明与David Peterson，而非运动表现与David Epstein；候选标题及简介均对应前者，故只否定这项错误匹配，不判视频失效。主播放器字段而非推荐列表用于绑定身份；未进行逐帧比较。 Revalidated cached availability, exact source hashes, primary player identity, unchanged CID/duration and segment ownership before applying.",
+      "frame_by_frame_comparison": false,
+      "source_snapshot": {
+        "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV19V411q7XL",
+        "snapshot": "http/dd0ea0ae2b9dacdec5d175d29b45e1e82f25d37ca0a1e6faa63c18f85f5c7fac.json",
+        "source_sha256": "d7f267c3e971bae203888534a1fc34614853190e5c65fc8ea53357dde600d457"
+      },
+      "original_metadata_snapshot": {
+        "source": "https://hackertube.org/api/video?vid=8COaMKbNrX0",
+        "snapshot": "http/c32d878cd9633f8f30ba41b552db9f9a9ec59f9cd81675f091a76c93854a53a0.json",
+        "source_sha256": "46aa31455a0b7b502bab5d0e00a4e9a04db363daa90a7f5a16e183da74083c9a"
+      },
+      "official_source": {
+        "name": "peterson",
+        "source": "https://www.ted.com/talks/david_peterson_why_language_is_humanity_s_greatest_invention",
+        "resolved_url": "https://www.ted.com/talks/david_peterson_why_language_is_humanity_s_greatest_invention",
+        "snapshot": "ted-peterson-source-7b12421.html",
+        "sha256": "f4ba1cca4cb7409a231f3b72466d84199fa417f3b1376b77ca48ff1a1ad01669",
+        "at": "2026-11-05T13:38:43.028810+00:00",
+        "source_sha256": "f4ba1cca4cb7409a231f3b72466d84199fa417f3b1376b77ca48ff1a1ad01669",
+        "primary_json_path": "props.pageProps.videoData.videoPlayerData.external",
+        "external": {
+          "__typename": "VideoPlayerExternal",
+          "service": "YouTube",
+          "code": "-akXMtIhPIo",
+          "duration": 874,
+          "startTime": 0
+        },
+        "title": "Why language is humanity's greatest invention",
+        "speaker": "David Peterson"
+      },
+      "sources": [
+        "https://www.ted.com/talks/david_peterson_why_language_is_humanity_s_greatest_invention",
+        "https://www.bilibili.com/video/BV19V411q7XL"
+      ],
+      "reviewed_at": "2026-11-05T14:44:49.736416+00:00",
+      "evidence_type": "official primary-player source chain"
     }
   ]
 }

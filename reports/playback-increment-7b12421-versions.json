@@ -1,0 +1,47 @@
+{
+  "checked_at": "2026-11-05T14:48:21.043Z",
+  "checks": [
+    {
+      "sample": "gFEE3w7F0ww",
+      "kind": "sub_zh",
+      "id": "gFEE3w7F0ww",
+      "bvid": "BV1eBrDY5EBg",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.298834,
+        "duration": 11125,
+        "paused": false
+      },
+      "expected_duration": 11125,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "27748993750"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "[215] NumPy、SciPy、Anaconda创始人Travis Oliphant_Python与科学编程[中英精校]\npodcast播客每天更新\n关注\n5\n1\n分享\n更多\n0:00:05 / 3:05:25\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "bEXefdbQDjw",
+      "kind": "dub_zh",
+      "id": "bEXefdbQDjw",
+      "bvid": "BV1SBr1BEERc",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.936191,
+        "duration": 1630,
+        "paused": false
+      },
+      "expected_duration": 1630,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "35431320714"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "[中配]培养活体鼠神经元玩...《毁灭战士》？| 第一部分 - The Thought Emporium\n账号已注销\n关注\n6\n0\n分享\n更多\n00:04 / 27:10\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

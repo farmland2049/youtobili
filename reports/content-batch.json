@@ -1,982 +1,1063 @@
 {
-  "baseline_commit": "cedffbdd35251ac9944e0f68da64a0de650e22ce",
+  "baseline_commit": "7b12421b2b5cac91bab7f4ef8e212ef9726dbe8e",
   "before": {
-    "corpus": 6454,
-    "processed": 1553,
-    "confirmed": 562,
-    "coverage": 0.08707778122094825,
-    "processed_match_rate": 0.36188023180940115
-  },
-  "after": {
     "corpus": 6454,
     "processed": 1778,
     "confirmed": 624,
     "coverage": 0.09668422683607066,
     "processed_match_rate": 0.35095613048368957
   },
-  "newly_processed": 225,
-  "newly_processed_confirmed": 60,
-  "newly_processed_match_rate": 0.26666666666666666,
+  "after": {
+    "corpus": 6454,
+    "processed": 1997,
+    "confirmed": 689,
+    "coverage": 0.10675550046482801,
+    "processed_match_rate": 0.34501752628943416
+  },
+  "newly_processed": 219,
+  "newly_processed_confirmed": 58,
+  "newly_processed_match_rate": 0.2648401826484018,
   "newly_processed_by_method": {
     "search": 200,
-    "public lead verification": 25
+    "public lead verification": 19
   },
-  "previously_processed_newly_confirmed": 2,
+  "previously_processed_newly_confirmed": 7,
   "added_originals": [
-    "1W_mSOS1Qts",
-    "2SuvO4Gi7uY",
-    "2XLZ4Z8LpEE",
-    "2aCOyOvOw5c",
-    "2zvjW9arAZ0",
-    "3FOzD4Sfgag",
-    "3LVeEjsn8Ts",
-    "3WMuzhQXJoY",
-    "3x1b_S6Qp2Q",
-    "5MdSE-N0bxs",
-    "5QwOpRh-IfI",
-    "5u7euN1HTuU",
-    "6OPsH8PK7xM",
-    "6orsmFndx_o",
-    "7gDKbT_l2us",
-    "7kGnfXXIKZM",
-    "8JrqH2oOTK4",
-    "8kUQWuK1L4w",
-    "97t7Xj_iBv0",
-    "9qi03QawZEk",
-    "Fgh2dFngFsg",
-    "OWJCfOvochA",
-    "PdFB7q89_3U",
-    "RoGuvvzHY1A",
-    "TnzcwTyr6cE",
-    "YI3tsmFsrOg",
-    "YIWV5fSaUB8",
-    "ZD_3_gsgsnk",
-    "ZYj4NkeGPdM",
-    "_8bhtEgB8Mo",
-    "d6iQrh2TK98",
-    "drv3BP0Fdi8",
-    "g2tMcMQqSbA",
-    "gMqZR3pqMjg",
-    "ghUs-84NAAU",
-    "juWaO5TJS00",
-    "k1BneeJTDcU",
-    "kPR8h4-qZdk",
-    "kPRA0W1kECg",
-    "l6T9xIeZTds",
-    "leFuF-zoVzA",
-    "ljOoGyCso8s",
-    "mZBwsm6B280",
-    "mdKst8zeh-U",
-    "mwrA5IRGpfU",
-    "nXaxk27zwlk",
-    "oFtjKbXKqbg",
-    "p3lsYlod5OU",
-    "qhbuKbxJsk8",
-    "sK5i-N34im8",
-    "sWgDk-o-6ZE",
-    "tDacjrSCeq4",
-    "t_yh_S31R9g",
-    "tyixMpuGEL8",
-    "uqKGREZs6-w",
-    "wVp5koAOu9M",
-    "x5Efg42-Qn0",
-    "yQ6VOOd73MA",
-    "ysa5OBhXz-Q",
-    "z8MVKianh54",
-    "zQGOcOUBi6s",
-    "zxRgfBXn6Mg"
+    "-gGLvg0n-uY",
+    "-t1_ffaFXao",
+    "069y1MpOkQY",
+    "8COaMKbNrX0",
+    "9vpqilhW9uI",
+    "AFVDZeg4RVY",
+    "AZX6awZq5Z0",
+    "AcS3NOQnsQM",
+    "BrK7X_XlGB8",
+    "CjVQJdIrDJ0",
+    "D7Sd8A6_fYU",
+    "DkMwYxfSYNQ",
+    "EIyixC9NsLI",
+    "Ee3EtYb8d1o",
+    "FfDa8tR25dk",
+    "GRYcSuyLiJk",
+    "GVT3WUa-48Y",
+    "HKTSaezB4p8",
+    "HrUy1Vn2KdI",
+    "IrabKK9Bhds",
+    "JeB3JnKp8To",
+    "L_XJ_s5IsQc",
+    "Nb2tebYAaOA",
+    "OSGv2VnC0go",
+    "O_azyt1JhI0",
+    "PFUZlNQIndo",
+    "QWveXdj6oZU",
+    "Qct6LKbneKQ",
+    "QgbLb6QCK88",
+    "ReRcHdeUG9Y",
+    "T42WuUpBuHE",
+    "TVgQ_tgWMyU",
+    "UIKGV2cTgqA",
+    "WDIkqP4JbkE",
+    "WEDIj9JBTC8",
+    "Wx_kugSemfY",
+    "YpllomiDMX0",
+    "YycAzdtUIko",
+    "ZEl-Y1NvBVI",
+    "ZsRRCnque2E",
+    "_sBBaNYex3E",
+    "_zfN9wnPvU0",
+    "aoczYXJeMY4",
+    "bEXefdbQDjw",
+    "bY7aRJE-oOY",
+    "cNZPRsrwumQ",
+    "cefnmjtAolY",
+    "czgOWmtGVGs",
+    "d0vY0CKYhPY",
+    "djB9oK6pkbA",
+    "efPrtcLdcdM",
+    "f9EbD6iY9zI",
+    "fD-R35DSSZY",
+    "fn3KWM1kuAw",
+    "fuFlMtZmvY0",
+    "gFEE3w7F0ww",
+    "gSKTfG1GXYQ",
+    "gSKzgpt4HBU",
+    "hIZxTQP1ifo",
+    "hdUbIlwHRkY",
+    "ipVxxxqwBQw",
+    "ntIczNQKfjQ",
+    "oCZMoY3q2uM",
+    "oRLON3ddZIw",
+    "xMzojQFyMo0"
   ],
   "withdrawn_originals": [],
-  "net_confirmed_change": 62,
-  "versions": 857,
+  "net_confirmed_change": 65,
+  "versions": 942,
   "added_versions": [
     {
-      "id": "1W_mSOS1Qts",
-      "bvid": "BV19ELbzoEMP",
+      "id": "-gGLvg0n-uY",
+      "bvid": "BV1mk4y1n7Sp",
       "page": 1
     },
     {
-      "id": "2SuvO4Gi7uY",
-      "bvid": "BV1dod6YHE8R",
+      "id": "-t1_ffaFXao",
+      "bvid": "BV1Lq4y187m1",
       "page": 1
     },
     {
-      "id": "2XLZ4Z8LpEE",
-      "bvid": "BV1Rk4y1r7tQ",
+      "id": "069y1MpOkQY",
+      "bvid": "BV1jx4y147EJ",
       "page": 1
     },
     {
-      "id": "2aCOyOvOw5c",
-      "bvid": "BV1az4y1X7y3",
+      "id": "8COaMKbNrX0",
+      "bvid": "BV1SS4y1M7o5",
       "page": 1
     },
     {
-      "id": "2zvjW9arAZ0",
-      "bvid": "BV1Cs411d7nY",
+      "id": "9vpqilhW9uI",
+      "bvid": "BV1C7411i7nK",
       "page": 1
     },
     {
-      "id": "3FOzD4Sfgag",
-      "bvid": "BV1cs411b7xZ",
+      "id": "AFVDZeg4RVY",
+      "bvid": "BV1QG411W7ok",
       "page": 1
     },
     {
-      "id": "3FOzD4Sfgag",
-      "bvid": "BV1os411R7L3",
+      "id": "AZX6awZq5Z0",
+      "bvid": "BV1Pp4y1r7N4",
       "page": 1
     },
     {
-      "id": "3LVeEjsn8Ts",
-      "bvid": "BV1Nt4y1y7jj",
+      "id": "AcS3NOQnsQM",
+      "bvid": "BV1sF411w7AH",
       "page": 1
     },
     {
-      "id": "3WMuzhQXJoY",
-      "bvid": "BV14LD8BHEg3",
+      "id": "BrK7X_XlGB8",
+      "bvid": "BV1QV411E7nN",
       "page": 1
     },
     {
-      "id": "3WMuzhQXJoY",
-      "bvid": "BV1A4411Y7gT",
+      "id": "BrK7X_XlGB8",
+      "bvid": "BV1VDjL6GEgV",
       "page": 1
     },
     {
-      "id": "3WMuzhQXJoY",
-      "bvid": "BV1N3411B7RG",
+      "id": "BrK7X_XlGB8",
+      "bvid": "BV1XDjL63E6d",
       "page": 1
     },
     {
-      "id": "3WMuzhQXJoY",
-      "bvid": "BV1qv411p7KL",
+      "id": "CjVQJdIrDJ0",
+      "bvid": "BV1uW411t73m",
       "page": 1
     },
     {
-      "id": "3x1b_S6Qp2Q",
-      "bvid": "BV1Bb4y1k7jm",
+      "id": "D7Sd8A6_fYU",
+      "bvid": "BV11D4y1371V",
       "page": 1
     },
     {
-      "id": "5MdSE-N0bxs",
-      "bvid": "BV1xW411b7xV",
+      "id": "D7Sd8A6_fYU",
+      "bvid": "BV1VW411h7Wv",
       "page": 1
     },
     {
-      "id": "5QwOpRh-IfI",
-      "bvid": "BV1zf4y1z7Po",
+      "id": "DkMwYxfSYNQ",
+      "bvid": "BV1B7411z7PD",
       "page": 1
     },
     {
-      "id": "5u7euN1HTuU",
-      "bvid": "BV1AzNS6tEb6",
+      "id": "DkMwYxfSYNQ",
+      "bvid": "BV1Cu4y1w7Yk",
       "page": 1
     },
     {
-      "id": "5u7euN1HTuU",
-      "bvid": "BV1h94y1k789",
+      "id": "DkMwYxfSYNQ",
+      "bvid": "BV1FT421971E",
       "page": 1
     },
     {
-      "id": "5u7euN1HTuU",
-      "bvid": "BV1mk4y1G7xY",
+      "id": "DkMwYxfSYNQ",
+      "bvid": "BV1WC4y197Qq",
       "page": 1
     },
     {
-      "id": "6OPsH8PK7xM",
-      "bvid": "BV1M1yRBjEuF",
+      "id": "DkMwYxfSYNQ",
+      "bvid": "BV1dJ41197bt",
       "page": 1
     },
     {
-      "id": "6orsmFndx_o",
-      "bvid": "BV1Sq4y1N7Hx",
+      "id": "EIyixC9NsLI",
+      "bvid": "BV1CwEi6pErc",
       "page": 1
     },
     {
-      "id": "7gDKbT_l2us",
-      "bvid": "BV1o3411q761",
+      "id": "Ee3EtYb8d1o",
+      "bvid": "BV1ab41127xo",
       "page": 1
     },
     {
-      "id": "7kGnfXXIKZM",
-      "bvid": "BV18K411J7jE",
+      "id": "FfDa8tR25dk",
+      "bvid": "BV1s4411G7XK",
       "page": 1
     },
     {
-      "id": "7kGnfXXIKZM",
-      "bvid": "BV1mx3u6iEws",
+      "id": "GRYcSuyLiJk",
+      "bvid": "BV18y411b7tG",
       "page": 1
     },
     {
-      "id": "8JrqH2oOTK4",
-      "bvid": "BV1P4411X7Hu",
+      "id": "GVT3WUa-48Y",
+      "bvid": "BV1L54y137pE",
       "page": 1
     },
     {
-      "id": "8kUQWuK1L4w",
-      "bvid": "BV1Ts411g7Fj",
+      "id": "HKTSaezB4p8",
+      "bvid": "BV1Eq4y1w7u5",
       "page": 1
     },
     {
-      "id": "97t7Xj_iBv0",
-      "bvid": "BV1J4411f7QD",
+      "id": "HrUy1Vn2KdI",
+      "bvid": "BV1E9kUYJEpi",
       "page": 1
     },
     {
-      "id": "97t7Xj_iBv0",
-      "bvid": "BV1Mb411E71L",
+      "id": "IrabKK9Bhds",
+      "bvid": "BV1Ut411C732",
       "page": 1
     },
     {
-      "id": "9qi03QawZEk",
-      "bvid": "BV1954y1D7jk",
+      "id": "IrabKK9Bhds",
+      "bvid": "BV1zt411C7Gt",
       "page": 1
     },
     {
-      "id": "Fgh2dFngFsg",
-      "bvid": "BV17f4y1B7pB",
+      "id": "JeB3JnKp8To",
+      "bvid": "BV1z4411T7Aq",
       "page": 1
     },
     {
-      "id": "OWJCfOvochA",
-      "bvid": "BV1QaHXe7EMw",
+      "id": "L_XJ_s5IsQc",
+      "bvid": "BV1Ds41147fv",
       "page": 1
     },
     {
-      "id": "PdFB7q89_3U",
-      "bvid": "BV1SjxYehEhC",
+      "id": "L_XJ_s5IsQc",
+      "bvid": "BV1Ft411J7vw",
       "page": 1
     },
     {
-      "id": "RoGuvvzHY1A",
-      "bvid": "BV1UQ4y1d7Vu",
-      "page": 42
+      "id": "L_XJ_s5IsQc",
+      "bvid": "BV1zi4y1t7R7",
+      "page": 1
+    },
+    {
+      "id": "Nb2tebYAaOA",
+      "bvid": "BV1AATC61EWz",
+      "page": 1
+    },
+    {
+      "id": "OSGv2VnC0go",
+      "bvid": "BV1ME411c7Zy",
+      "page": 1
     },
     {
-      "id": "TnzcwTyr6cE",
-      "bvid": "BV1vs411t7ga",
+      "id": "O_azyt1JhI0",
+      "bvid": "BV13h411y7JT",
       "page": 1
     },
     {
-      "id": "YI3tsmFsrOg",
-      "bvid": "BV131421t7AT",
+      "id": "PFUZlNQIndo",
+      "bvid": "BV1FA411s7QF",
       "page": 1
     },
     {
-      "id": "YI3tsmFsrOg",
-      "bvid": "BV1JK411U78q",
+      "id": "QWveXdj6oZU",
+      "bvid": "BV14s411q79C",
       "page": 1
     },
     {
-      "id": "YIWV5fSaUB8",
-      "bvid": "BV1Vq4y1H7Ro",
+      "id": "Qct6LKbneKQ",
+      "bvid": "BV1PZGE68E64",
       "page": 1
     },
     {
-      "id": "ZD_3_gsgsnk",
-      "bvid": "BV1UQ4y1d7Vu",
-      "page": 49
+      "id": "QgbLb6QCK88",
+      "bvid": "BV1mAnwzDEHx",
+      "page": 1
     },
     {
-      "id": "ZYj4NkeGPdM",
-      "bvid": "BV16T4y1d7fw",
+      "id": "ReRcHdeUG9Y",
+      "bvid": "BV1Qu4y1G7EU",
       "page": 1
     },
     {
-      "id": "_8bhtEgB8Mo",
-      "bvid": "BV1o441127yv",
+      "id": "S9JGmA5_unY",
+      "bvid": "BV1kfEW6dEZN",
       "page": 1
     },
     {
-      "id": "aircAruvnKk",
-      "bvid": "BV1g7411j7s1",
+      "id": "T42WuUpBuHE",
+      "bvid": "BV1nK4y1r7Tu",
       "page": 1
     },
     {
-      "id": "d6iQrh2TK98",
-      "bvid": "BV17F4m1K7V3",
+      "id": "TVgQ_tgWMyU",
+      "bvid": "BV1Zz4y1p74H",
       "page": 1
     },
     {
-      "id": "drv3BP0Fdi8",
-      "bvid": "BV1ms411t7cd",
+      "id": "TVgQ_tgWMyU",
+      "bvid": "BV1bZ421j7GR",
       "page": 1
     },
     {
-      "id": "fHNmRkzxHWs",
-      "bvid": "BV1hR4y1v7hF",
+      "id": "TVgQ_tgWMyU",
+      "bvid": "BV1pf4y137UX",
       "page": 1
     },
     {
-      "id": "g2tMcMQqSbA",
-      "bvid": "BV1fb4y1r7Hm",
+      "id": "UIKGV2cTgqA",
+      "bvid": "BV1AW411F7gP",
       "page": 1
     },
     {
-      "id": "gMqZR3pqMjg",
-      "bvid": "BV15441117Es",
+      "id": "WDIkqP4JbkE",
+      "bvid": "BV1Ay4y1j71e",
       "page": 1
     },
     {
-      "id": "gMqZR3pqMjg",
-      "bvid": "BV1Bt421T7Us",
+      "id": "WDIkqP4JbkE",
+      "bvid": "BV1HM411A7L9",
       "page": 1
     },
     {
-      "id": "gMqZR3pqMjg",
-      "bvid": "BV1Nx4y1B7ei",
+      "id": "WEDIj9JBTC8",
+      "bvid": "BV1Jo9MBREwN",
       "page": 1
     },
     {
-      "id": "ghUs-84NAAU",
-      "bvid": "BV1uESMYqEFm",
+      "id": "WEDIj9JBTC8",
+      "bvid": "BV1L142127c8",
       "page": 1
     },
     {
-      "id": "juWaO5TJS00",
-      "bvid": "BV1UQ4y1d7Vu",
-      "page": 92
+      "id": "Wx_kugSemfY",
+      "bvid": "BV1XMjf6fEVV",
+      "page": 1
     },
     {
-      "id": "k1BneeJTDcU",
-      "bvid": "BV11f4y1b7cM",
+      "id": "YpllomiDMX0",
+      "bvid": "BV1ay8T6HEpJ",
       "page": 1
     },
     {
-      "id": "k1BneeJTDcU",
-      "bvid": "BV1uKxv6jEox",
+      "id": "YycAzdtUIko",
+      "bvid": "BV1qx411e7Ge",
       "page": 1
     },
     {
-      "id": "kPR8h4-qZdk",
-      "bvid": "BV1vv411B7r2",
+      "id": "ZEl-Y1NvBVI",
+      "bvid": "BV16J411s7sX",
       "page": 1
     },
     {
-      "id": "kPRA0W1kECg",
-      "bvid": "BV1BQ4y1N76f",
+      "id": "ZsRRCnque2E",
+      "bvid": "BV1ex41167ZK",
       "page": 1
     },
     {
-      "id": "kPRA0W1kECg",
-      "bvid": "BV1eW4y1K7ti",
+      "id": "_sBBaNYex3E",
+      "bvid": "BV1WJ411u71d",
       "page": 1
     },
     {
-      "id": "l6T9xIeZTds",
-      "bvid": "BV1Bm4y1X7G3",
+      "id": "_zfN9wnPvU0",
+      "bvid": "BV1gXsd6rEhi",
       "page": 1
     },
     {
-      "id": "leFuF-zoVzA",
-      "bvid": "BV1ab411S7tg",
+      "id": "aoczYXJeMY4",
+      "bvid": "BV1rQ4y1A7kD",
       "page": 1
     },
     {
-      "id": "ljOoGyCso8s",
-      "bvid": "BV1Ms411J7sH",
+      "id": "bEXefdbQDjw",
+      "bvid": "BV1Joa16CExY",
       "page": 1
     },
     {
-      "id": "mZBwsm6B280",
-      "bvid": "BV18M4y1F7GP",
+      "id": "bEXefdbQDjw",
+      "bvid": "BV1SBr1BEERc",
       "page": 1
     },
     {
-      "id": "mdKst8zeh-U",
-      "bvid": "BV14NCPYMEa3",
+      "id": "bY7aRJE-oOY",
+      "bvid": "BV1ds411Q719",
       "page": 1
     },
     {
-      "id": "mwrA5IRGpfU",
-      "bvid": "BV1PF411e7AP",
+      "id": "cNZPRsrwumQ",
+      "bvid": "BV1ot411d7Dj",
       "page": 1
     },
     {
-      "id": "nXaxk27zwlk",
-      "bvid": "BV11dpDz4E3t",
+      "id": "cefnmjtAolY",
+      "bvid": "BV12b4y1f7T5",
       "page": 1
     },
     {
-      "id": "nXaxk27zwlk",
-      "bvid": "BV1hR4y1v7Qy",
+      "id": "czgOWmtGVGs",
+      "bvid": "BV1Bx411n7tN",
       "page": 1
     },
     {
-      "id": "oFtjKbXKqbg",
-      "bvid": "BV1N5oiYbETY",
+      "id": "czgOWmtGVGs",
+      "bvid": "BV1QE4m1X7bB",
       "page": 1
     },
     {
-      "id": "p3lsYlod5OU",
-      "bvid": "BV1PecqeuEKC",
+      "id": "czgOWmtGVGs",
+      "bvid": "BV1Xs411Y7kb",
       "page": 1
     },
     {
-      "id": "qhbuKbxJsk8",
-      "bvid": "BV15gJB6UEBL",
+      "id": "d0vY0CKYhPY",
+      "bvid": "BV1qTEp6rE6r",
       "page": 1
     },
     {
-      "id": "qhbuKbxJsk8",
-      "bvid": "BV1H4411379A",
+      "id": "djB9oK6pkbA",
+      "bvid": "BV19v411T7Cn",
       "page": 1
     },
     {
-      "id": "sK5i-N34im8",
-      "bvid": "BV1A54y1B7B4",
+      "id": "efPrtcLdcdM",
+      "bvid": "BV1E8411T7Jh",
       "page": 1
     },
     {
-      "id": "sWgDk-o-6ZE",
-      "bvid": "BV1TR4y1v7ea",
+      "id": "f9EbD6iY9zI",
+      "bvid": "BV1Jg411G7tc",
       "page": 1
     },
     {
-      "id": "tDacjrSCeq4",
-      "bvid": "BV1gQ4y1o7TS",
+      "id": "fD-R35DSSZY",
+      "bvid": "BV1ZdF1zrEr6",
       "page": 1
     },
     {
-      "id": "t_yh_S31R9g",
-      "bvid": "BV1Qj49zsEUq",
+      "id": "fn3KWM1kuAw",
+      "bvid": "BV1Ko4y1Z7ee",
       "page": 1
     },
     {
-      "id": "tyixMpuGEL8",
-      "bvid": "BV1RK4y197LU",
+      "id": "fuFlMtZmvY0",
+      "bvid": "BV1W8StBgE8C",
       "page": 1
     },
     {
-      "id": "uqKGREZs6-w",
-      "bvid": "BV1vk6oBHEw9",
+      "id": "fuFlMtZmvY0",
+      "bvid": "BV1ee411Z7kf",
       "page": 1
     },
     {
-      "id": "wVp5koAOu9M",
-      "bvid": "BV1UQ4y1d7Vu",
-      "page": 201
+      "id": "gFEE3w7F0ww",
+      "bvid": "BV1eBrDY5EBg",
+      "page": 1
     },
     {
-      "id": "x5Efg42-Qn0",
-      "bvid": "BV15RYte1EPm",
+      "id": "gSKTfG1GXYQ",
+      "bvid": "BV1RnySYmE9u",
       "page": 1
     },
     {
-      "id": "yQ6VOOd73MA",
-      "bvid": "BV1YpR2BxEyu",
+      "id": "gSKzgpt4HBU",
+      "bvid": "BV1FoFBzfE7N",
       "page": 1
     },
     {
-      "id": "yQ6VOOd73MA",
-      "bvid": "BV1xnUJBnEgw",
+      "id": "hIZxTQP1ifo",
+      "bvid": "BV1Us411172N",
       "page": 1
     },
     {
-      "id": "ysa5OBhXz-Q",
-      "bvid": "BV17W411t7Ru",
+      "id": "hdUbIlwHRkY",
+      "bvid": "BV1Kx42117e2",
       "page": 1
     },
     {
-      "id": "ysa5OBhXz-Q",
-      "bvid": "BV1GH4y1r7QJ",
+      "id": "hdUbIlwHRkY",
+      "bvid": "BV1YK411H7Zz",
       "page": 1
     },
     {
-      "id": "ysa5OBhXz-Q",
-      "bvid": "BV1zs411v7Tj",
+      "id": "ipVxxxqwBQw",
+      "bvid": "BV1xb421E7BC",
       "page": 1
     },
     {
-      "id": "z8MVKianh54",
-      "bvid": "BV1XE411y7Xv",
+      "id": "ntIczNQKfjQ",
+      "bvid": "BV1Xz411B7qQ",
       "page": 1
     },
     {
-      "id": "zQGOcOUBi6s",
-      "bvid": "BV1ux411x7VD",
+      "id": "oCZMoY3q2uM",
+      "bvid": "BV16f4y1D7f6",
       "page": 1
     },
     {
-      "id": "zxRgfBXn6Mg",
-      "bvid": "BV1Yd4y127mP",
+      "id": "oRLON3ddZIw",
+      "bvid": "BV1k54y127E9",
       "page": 1
     },
     {
-      "id": "zxRgfBXn6Mg",
-      "bvid": "BV1b64y1c7XL",
+      "id": "xMzojQFyMo0",
+      "bvid": "BV1mQ4y1f7on",
       "page": 1
     }
   ],
   "withdrawn_versions": [],
-  "net_versions_change": 83,
+  "net_versions_change": 85,
   "batches": [
     {
-      "id": "20261105T084430Z",
+      "id": "20261105T133254Z",
       "selected": 50,
       "completed": 50,
       "errors": [],
       "stopped": false,
       "originals": [
-        "WTYet-qf1jo",
-        "WlT3UhC7NwQ",
-        "WxOp5mBY9IY",
-        "XKu_SEDAykw",
-        "XTeJ64KD5cg",
-        "Y99Wj-NStok",
-        "YCjNT9qGjh4",
-        "YI3tsmFsrOg",
-        "YuIIjLr6vUA",
-        "Z7rd04KzLcg",
-        "ZDR433b0HJY",
-        "ZD_3_gsgsnk",
-        "ZMQbHMgK2rw",
-        "ZPoqNeR3_UA",
-        "_6pl5GG8RQ4",
-        "_8bhtEgB8Mo",
-        "_DTpQ4Kk2wA",
-        "ab-r0capbzk",
-        "amJ-ev8Ial8",
-        "ax7f3JZJHSw",
-        "c8iFtaltX-s",
-        "cIcbAMO6sxo",
-        "cn7kTPbW6QQ",
-        "d6PyyatqJSE",
-        "dcjkezf1ARY",
-        "dqQw05Mr63E",
-        "drv3BP0Fdi8",
-        "e7wFotDKEF4",
-        "esQyYGezS7c",
-        "f-wWBGo6a2w",
-        "fNpsgTIpODA",
-        "fOGdb1CTu5c",
-        "ffkIQrq-m34",
-        "g2tMcMQqSbA",
-        "gDdq2rIqAlM",
-        "gJ5KV3rzuag",
-        "gMqZR3pqMjg",
-        "gSKzgpt4HBU",
-        "ghUs-84NAAU",
-        "giQ8xEWjnBs",
-        "gwvA49ZXnf8",
-        "h2I8AoB1xgU",
-        "h5cm7HOAqZY",
-        "hMKy52Intac",
-        "hOE6nVVr14c",
-        "i70wkxmumAw",
-        "ibqiet6Bg38",
-        "j4kI2h3iotA",
-        "jILgxeNBK_8",
-        "jmTwlEh8L7g"
+        "AFVDZeg4RVY",
+        "AFnfTDbcPOA",
+        "AItTqnTsVjA",
+        "ALc8CBYOfkw",
+        "AZX6awZq5Z0",
+        "AxCo2bE9Gtk",
+        "AxZWxxZ2JGE",
+        "BDqvzFY72mg",
+        "B_nGEj8wIP0",
+        "Bqx6li5dbEY",
+        "BrK7X_XlGB8",
+        "C-kF25fWTO8",
+        "C8--cXwuuFQ",
+        "CJlrbMHLBd4",
+        "CK62I-4cuSY",
+        "CKIye4RZ-5k",
+        "CbIZU8cQWXc",
+        "CjVQJdIrDJ0",
+        "CpCrkO1x-Qo",
+        "Cyya23MPoAI",
+        "D5xh0ZIEUOE",
+        "D7Sd8A6_fYU",
+        "DC8tO16xdrY",
+        "DJFKl_5JTnA",
+        "DkMwYxfSYNQ",
+        "E8Lhqri8tZk",
+        "EBCYvoC4muc",
+        "EZxP0i9ah8E",
+        "E_xCssR8qQI",
+        "Ee3EtYb8d1o",
+        "EfGD2qveGdQ",
+        "EgiMu8A3pi0",
+        "EoWMF3VkI6U",
+        "Ep2-ohgFOys",
+        "FfDa8tR25dk",
+        "G0Q4UAiKacw",
+        "GFosQtEqzSE",
+        "GLG9g7BcjKs",
+        "GNKFSpJIBO0",
+        "GRYcSuyLiJk",
+        "GVT3WUa-48Y",
+        "HM1Zb3xmvMc",
+        "HXAW2GseICs",
+        "HhGI-GqAK9c",
+        "HhGuXCuDb1U",
+        "HrUy1Vn2KdI",
+        "IJcuQQ1eWWI",
+        "IJiHDmyhE1A",
+        "IX-gTobCJHs",
+        "IaWdEtANi-0"
       ],
       "primary_first": true,
-      "deferred_candidates": 73,
+      "deferred_candidates": 135,
       "attempted": 50,
       "unattempted": 0,
       "statuses": {
-        "review": 44,
-        "confirmed": 6
+        "review": 39,
+        "confirmed": 11
       },
-      "candidate_count": 1924
+      "candidate_count": 1945
     },
     {
-      "id": "20261105T090014Z",
-      "selected": 50,
-      "completed": 43,
-      "errors": [],
-      "stopped": false,
-      "originals": [
-        "jqjacHSTd48",
-        "k1BneeJTDcU",
-        "k6U-i4gXkLM",
-        "kPR8h4-qZdk",
-        "kPRA0W1kECg",
-        "knUitQQnpJo",
-        "l6T9xIeZTds",
-        "l6XQUciI-Sc",
-        "lG2dXobAXLI",
-        "lPgZfhnCAdI",
-        "la-sGpTpkxE",
-        "ljOoGyCso8s",
-        "lyqt6u5_sHA",
-        "m64SWl9bfvk",
-        "mdKst8zeh-U",
-        "mwrA5IRGpfU",
-        "nBNTAmLRmUg",
-        "nIoXOplUvAw",
-        "nUBtKNzoKZ4",
-        "nfY0lrdXar8",
-        "ngpsJKQR_ZE",
-        "nmgFG7PUHfo",
-        "nnR8fDW3Ilo",
-        "nphxoUxSvgY",
-        "nsaUX48t0w8",
-        "nvK8fua6O64",
-        "oOttvpjJvAo",
-        "oeqPrUmVz-o",
-        "pagPuiuA9cY",
-        "q7K0vRUKXKc",
-        "qOTYgcdNrXE",
-        "qTBAW-Eh0tM",
-        "qhbuKbxJsk8",
-        "r8RxkpUvxK0",
-        "rDPj5zI66LA",
-        "rJjKP8vYjpQ",
-        "rRi8LptvFZY",
-        "rn7MmS3vazU",
-        "sK5i-N34im8",
-        "sTJ7AzBIJoI",
-        "sWgDk-o-6ZE",
-        "s_osQvkeNRM",
-        "snz7JJlSZvw"
-      ],
-      "primary_first": true,
-      "deferred_candidates": 117,
-      "attempted": 43,
-      "unattempted": 7,
-      "statuses": {
-        "confirmed": 10,
-        "review": 33
-      }
-    },
-    {
-      "id": "20261105T124731Z",
-      "selected": 7,
-      "completed": 7,
-      "errors": [],
-      "stopped": false,
-      "originals": [
-        "suRDUFpsHus",
-        "tDacjrSCeq4",
-        "tP-Ipsat90c",
-        "tU3rGFyN5uQ",
-        "t_yh_S31R9g",
-        "tke6X2eME3c",
-        "tyixMpuGEL8"
-      ],
-      "primary_first": true,
-      "deferred_candidates": 38,
-      "attempted": 7,
-      "unattempted": 0,
-      "statuses": {
-        "confirmed": 3,
-        "review": 4
-      },
-      "candidate_count": 272
-    },
-    {
-      "id": "20261105T125127Z",
+      "id": "20261105T135109Z",
       "selected": 50,
       "completed": 50,
       "errors": [],
       "stopped": false,
       "originals": [
-        "uY-u1qyRM5w",
-        "uYNzqgU7na4",
-        "udPY5rQVoW0",
-        "uqKGREZs6-w",
-        "v6jhjjVy5Ls",
-        "vGAqYNFQdZ4",
-        "v_UyVmITiYQ",
-        "vmgxtcbc4iU",
-        "vu-h5y6tK34",
-        "wASCH_gPnDw",
-        "wFpeM3fxJoQ",
-        "wSdV1M7n4gQ",
-        "wqu_IpkOYBg",
-        "x5Efg42-Qn0",
-        "xKu2de0yCJI",
-        "xnez6tloNSQ",
-        "y3qfeoqErtY",
-        "yG1OZ69H_-o",
-        "yQ6VOOd73MA",
-        "ysa5OBhXz-Q",
-        "z_hm5oX7ZlE",
-        "zt0OQb1DBko",
-        "zxRgfBXn6Mg",
-        "-2ZTmuX3cog",
-        "-bYAQ-ZZtEU",
-        "-qCKR6wy94U",
-        "01oeaBb85Xc",
-        "0JDoll8OEFE",
-        "0Rnq1NpHdmw",
-        "0Z4aF-qiziM",
-        "0rR9IaXH1M0",
-        "15R2pMqU2ok",
-        "17KCHwOwgms",
-        "17oCQakzIl8",
-        "1L3eeC2lJZs",
-        "1W_mSOS1Qts",
-        "1WupH8oyrAo",
-        "1tSqSMOyNFE",
-        "24OXzIRIiMQ",
-        "2EWejmkKlxs",
-        "2FMBSblpcrc",
-        "2KZb2_vcNTg",
-        "2R07FL1wVo4",
-        "2SuvO4Gi7uY",
-        "2THVvshvq0Q",
-        "2aCOyOvOw5c",
-        "2nBPN-MKefA",
-        "2zvjW9arAZ0",
-        "35Idb_lCU4o",
-        "37wFVVVZlVU"
+        "IeSu_odkI5I",
+        "ImoQqNyRL8Y",
+        "Iod6uwUGM2E",
+        "IrabKK9Bhds",
+        "IxuU5L2MEII",
+        "Iyp_X3mwE1w",
+        "JENdgiAPD6c",
+        "JeB3JnKp8To",
+        "JiNKlhspdKg",
+        "K3lP3BhvnSo",
+        "KbB0FjPg0mw",
+        "KgzQuE1pR1w",
+        "Kxryv2XrnqM",
+        "L1j93RnIxEo",
+        "L_XJ_s5IsQc",
+        "LnS0PfNyj4U",
+        "M8F5hXqS-Ac",
+        "MFol6IMbZ7Y",
+        "MO0r930Sn_8",
+        "MYucYon2-lk",
+        "MiUHjLxm3V0",
+        "MondapIjAAM",
+        "N6xLMUifbxQ",
+        "NeopkvAP-ag",
+        "NiRrvxjrJ1U",
+        "NngCHTImH1g",
+        "Nnuq9PXbywA",
+        "Npd_xDuNi9k",
+        "O61WihMRdjM",
+        "OP4CKn86qGY",
+        "OQQ-W_63UgQ",
+        "OWXoRSIxyIU",
+        "O_azyt1JhI0",
+        "OqEeIG8aPPk",
+        "OxhTQdcieQE",
+        "PBFPJ3_6ZWs",
+        "PDylgzybWAw",
+        "PFUZlNQIndo",
+        "PFc379hu--8",
+        "PSGEjv3Tqo0",
+        "PmlRbfSavbI",
+        "PpG0z-npFIY",
+        "QEIUdMiColU",
+        "QKCK4lJLQHU",
+        "QWveXdj6oZU",
+        "Qct6LKbneKQ",
+        "QgbLb6QCK88",
+        "QpDn4-Na5co",
+        "QqrpFICtqpQ",
+        "RCRTgtpC-Go"
       ],
       "primary_first": true,
-      "deferred_candidates": 116,
+      "deferred_candidates": 87,
       "attempted": 50,
       "unattempted": 0,
       "statuses": {
-        "review": 41,
-        "confirmed": 9
+        "review": 42,
+        "confirmed": 8
       },
-      "candidate_count": 1957
+      "candidate_count": 1921
     },
     {
-      "id": "20261105T131017Z",
+      "id": "20261105T140832Z",
       "selected": 50,
       "completed": 50,
       "errors": [],
       "stopped": false,
       "originals": [
-        "3EPTfOTC4Jw",
-        "3FOzD4Sfgag",
-        "3TFz1xqp3us",
-        "3TX3kV3TICU",
-        "3WMuzhQXJoY",
-        "3qln2u1Vr2E",
-        "3x1b_S6Qp2Q",
-        "43CMV8KIs3E",
-        "495nCzxM9PI",
-        "4AC6RSau7r8",
-        "4P_kbF0EbZM",
-        "4QXZ2RzN_Oo",
-        "4aw9uyj9MAE",
-        "4s9IjkMAmns",
-        "52KLGqDSAjo",
-        "5Dnw46eC-0o",
-        "5Dw3aKbw5Wo",
-        "5JYp9eGC3Cc",
-        "5MdSE-N0bxs",
-        "5MxH1sfJLBQ",
-        "5QwOpRh-IfI",
-        "5RKbSi87J5Q",
-        "5Vt8zqhHe_c",
-        "5gnpCqsXE8g",
-        "5guXaWwQpe4",
-        "5tSTk1083VY",
-        "5u7euN1HTuU",
-        "6OPsH8PK7xM",
-        "6VOQnK7O2To",
-        "72cM_E6bsOs",
-        "74zOY-vgkyw",
-        "7JUs4c99-mo",
-        "7gDKbT_l2us",
-        "7hwO8Q_TyCA",
-        "7kGnfXXIKZM",
-        "86gyW0vUmVs",
-        "87jfTIWosBw",
-        "8BIcAZxFfrc",
-        "8CAafjodkyE",
-        "8COaMKbNrX0",
-        "8JrqH2oOTK4",
-        "8PwwRR8deHk",
-        "94ed4v_T6YM",
-        "97t7Xj_iBv0",
-        "9OfBpQgLXUc",
-        "9QveBbn7t_c",
-        "9R5OWh7luL4",
-        "9c8an2XZ3MU",
-        "9vpqilhW9uI",
-        "9vz06QO3UkQ"
+        "ReRcHdeUG9Y",
+        "SC2eSujzrUY",
+        "SCFXV6o7cro",
+        "SIOQgY1tqrU",
+        "SemHh0n19LA",
+        "SfsCniN7Nsc",
+        "T2OxO-4YLRk",
+        "T42WuUpBuHE",
+        "T5RmMNDR5XI",
+        "T6X2uwlQGQM",
+        "TPpoJGYlW54",
+        "TVgQ_tgWMyU",
+        "TVwKjGbz60k",
+        "TruCIPy79w8",
+        "TwKpj2ISQAc",
+        "TwRjO3kHxU4",
+        "UANN2Eu6ZnM",
+        "UIKGV2cTgqA",
+        "UV1V9-nnaAs",
+        "Uj6skZIxPuI",
+        "UnURElCzGc0",
+        "Uooh0Y9fC_M",
+        "UyyjU8fzEYU",
+        "VESMU7JfVHU",
+        "VFFlO7yBIBM",
+        "Vj04MKykmnQ",
+        "W1czBcnX1Ww",
+        "WDIkqP4JbkE",
+        "WEDIj9JBTC8",
+        "WYPNjSoDrqw",
+        "Wx_kugSemfY",
+        "XOR8mk0tLpc",
+        "Y4Gt3Xjd7G8",
+        "YpllomiDMX0",
+        "YycAzdtUIko",
+        "Z-9rLlFgcm0",
+        "ZEl-Y1NvBVI",
+        "ZecQ64l-gKM",
+        "ZfuierUvx1A",
+        "ZggCipbiHwE",
+        "ZsRRCnque2E",
+        "ZuXzvjBYW8A",
+        "_IgqJr8jG8M",
+        "_fHfgU8oMSo",
+        "_ul7X5js1vE",
+        "agzNANfNlTs",
+        "an5abNFba4Q",
+        "aoczYXJeMY4",
+        "b-7dMVcVWgc",
+        "bC-8y2R6IxI"
+      ],
+      "primary_first": true,
+      "deferred_candidates": 155,
+      "attempted": 50,
+      "unattempted": 0,
+      "statuses": {
+        "review": 38,
+        "confirmed": 12
+      },
+      "candidate_count": 1883
+    },
+    {
+      "id": "20261105T142600Z",
+      "selected": 50,
+      "completed": 50,
+      "errors": [],
+      "stopped": false,
+      "originals": [
+        "bEXefdbQDjw",
+        "bJ5ppf0po3k",
+        "bNfAAQUQ_54",
+        "bOf4EMN6-XA",
+        "bY7aRJE-oOY",
+        "baxtyeFVn3w",
+        "bmsV1TuESrc",
+        "bxe2T-V8XRs",
+        "byjhpzEoXFs",
+        "c2J91UG6Fn8",
+        "cefnmjtAolY",
+        "cfwwHa-7Ux8",
+        "clnozSXyF4k",
+        "coFIEH3vXPw",
+        "csyL9EC0S0c",
+        "czgOWmtGVGs",
+        "d0vY0CKYhPY",
+        "d3kfEeMZ65c",
+        "dF_9YcehCZo",
+        "dFs9WO2B8uI",
+        "djB9oK6pkbA",
+        "ds77e3aO9nA",
+        "e08kOj2kISU",
+        "e3K5UxWRRuY",
+        "eGaKZBr0ga4",
+        "eKl6WjfDqYA",
+        "eLn6LC1RpAo",
+        "eQ2OZKitRwc",
+        "ef2jpjTEB5U",
+        "efPrtcLdcdM",
+        "f9EbD6iY9zI",
+        "fDqBeXJ8Zx8",
+        "fTjhHrcyiQI",
+        "fWqBmmPQP40",
+        "fa28lIGuxq8",
+        "faHQA_0d9Mo",
+        "fuFlMtZmvY0",
+        "gD_dZvPwAj0",
+        "gFEE3w7F0ww",
+        "gRRvjZ_XNog",
+        "gSKTfG1GXYQ",
+        "ggUduBmvQ_4",
+        "giYbq4HmfGA",
+        "gqGEMQveoqg",
+        "gsffg5xxFQI",
+        "hdUbIlwHRkY",
+        "hpAMbpQ8J7g",
+        "hpgK51w6uhk",
+        "hs3piaN4b5I",
+        "hvk_XylEmLo"
       ],
       "primary_first": true,
       "deferred_candidates": 144,
       "attempted": 50,
       "unattempted": 0,
       "statuses": {
-        "confirmed": 11,
-        "review": 39
+        "confirmed": 12,
+        "review": 38
       },
-      "candidate_count": 1897
+      "candidate_count": 1940
     }
   ],
   "completed_search_originals": 200,
-  "direct_search_confirmed": 39,
+  "direct_search_confirmed": 43,
   "source_verification_batches": [
     {
-      "id": "2026-11-05T08:59:31.033795+00:00",
-      "source": "serial-20261105T084417Z-leads-1.json",
-      "attempted": 15,
-      "completed": 15,
-      "confirmed": 14,
-      "errors": [],
-      "stopped": false
-    },
-    {
-      "id": "2026-11-05T12:50:43.859797+00:00",
-      "source": "serial-20261105T125028Z-leads-1.json",
-      "attempted": 14,
-      "completed": 14,
+      "id": "2026-11-05T13:50:39.698867+00:00",
+      "source": "serial-20261105T133240Z-leads-1.json",
+      "attempted": 10,
+      "completed": 10,
       "confirmed": 10,
       "errors": [],
       "stopped": false
     },
     {
-      "id": "2026-11-05T13:09:46.162639+00:00",
-      "source": "serial-20261105T125028Z-leads-2.json",
-      "attempted": 10,
-      "completed": 10,
-      "confirmed": 9,
+      "id": "2026-11-05T14:07:58.118023+00:00",
+      "source": "serial-20261105T133240Z-leads-2.json",
+      "attempted": 9,
+      "completed": 9,
+      "confirmed": 5,
       "errors": [],
       "stopped": false
     },
     {
-      "id": "2026-11-05T13:27:27.129432+00:00",
-      "source": "serial-20261105T125028Z-leads-3.json",
+      "id": "2026-11-05T14:25:15.476283+00:00",
+      "source": "serial-20261105T133240Z-leads-3.json",
       "attempted": 14,
       "completed": 14,
-      "confirmed": 9,
+      "confirmed": 12,
+      "errors": [],
+      "stopped": false
+    },
+    {
+      "id": "2026-11-05T14:43:36.958513+00:00",
+      "source": "serial-20261105T133240Z-leads-4.json",
+      "attempted": 18,
+      "completed": 18,
+      "confirmed": 13,
+      "errors": [],
+      "stopped": false
+    },
+    {
+      "id": "2026-11-05T14:44:32.771801+00:00",
+      "source": "public-web-leads-7b12421.json",
+      "attempted": 2,
+      "completed": 2,
+      "confirmed": 0,
       "errors": [],
       "stopped": false
     }
   ],
   "source_leads_completed": 53,
-  "source_confirmed_versions": 42,
+  "source_confirmed_versions": 40,
   "source_input_hashes": [
     {
-      "source": "serial-20261105T084417Z-leads-1.json",
-      "sha256": "d2a5e85c4f5d606280bdd313d53abe193187a37035dbca84732cba601cb2c49f"
+      "source": "serial-20261105T133240Z-leads-1.json",
+      "sha256": "6f5eee645371eca1e401b3e0fdaba4d401dd02b7818954532d2ce404800f89a9"
     },
     {
-      "source": "serial-20261105T125028Z-leads-1.json",
-      "sha256": "9ffae3e8ebf37b743092d8b25d44d7fae75b411a3c775011c85d69ff0e3da577"
+      "source": "serial-20261105T133240Z-leads-2.json",
+      "sha256": "fc9f69f9c59ed334f61d89e35bd15331f341a5284c9cac77b7922004de84f1d9"
     },
     {
-      "source": "serial-20261105T125028Z-leads-2.json",
-      "sha256": "1d2a5c75babc4ad2ecf6669062bf22a78d170290c235e6422fb31b01ffdb41b3"
+      "source": "serial-20261105T133240Z-leads-3.json",
+      "sha256": "42a465c581b849d9c8a08cb61bbec0d38e51ad0a4c8fa68b3151564099d09f30"
     },
     {
-      "source": "serial-20261105T125028Z-leads-3.json",
-      "sha256": "5d080dd0815c8cf0789e095c0dc3ca3b37fd4876ee6df67f5920cc4c51a775da"
+      "source": "serial-20261105T133240Z-leads-4.json",
+      "sha256": "f8264967aa87fecd71e20cc33afaea52be044b9baa0a3a338f35f78baa5f0457"
+    },
+    {
+      "source": "public-web-leads-7b12421.json",
+      "sha256": "36d9342aa7d8270a90cb9887d0493dd8816a6eee3e5ca95bb29f4cc6b90b59cb"
     }
   ],
-  "batch_deferred_candidate_count": 488,
-  "remaining_deferred_candidates": 2548,
+  "batch_deferred_candidate_count": 521,
+  "remaining_deferred_candidates": 3048,
   "new_query_pairs": 200,
   "ordinary_errors": [],
-  "observed_interruption": {
-    "partial_batch": "interrupted-batch-receipt-cedffbd.json",
-    "completed": 43,
-    "interface_errors": 0,
-    "cause": "unknown; prior PID and tool handle absent",
-    "resumed_originals": 7
+  "public_web_discovery": {
+    "at": "2026-11-05T13:44:56.709466+00:00",
+    "queries": [
+      "\"Ucp0TTmvqOE\" bilibili",
+      "\"RJVL80Gg3lA\" bilibili",
+      "\"DleXA5ADG78\" bilibili",
+      "\"YQ2QtKcK2dA\" bilibili"
+    ],
+    "leads": [
+      {
+        "vid": "Ucp0TTmvqOE",
+        "bvid": "BV18441147g1",
+        "url": "https://www.bilibili.com/video/BV18441147g1/"
+      },
+      {
+        "vid": "Ucp0TTmvqOE",
+        "bvid": "BV15C411H7pM",
+        "url": "https://www.bilibili.com/video/BV15C411H7pM/"
+      }
+    ],
+    "verification_pending": true,
+    "notes": "Only target search hits recorded. Tesla full-event title and excerpt title are leads; neither search snippets nor source-link mentions approve identity/completeness. No inference that the three other originals have no Bilibili version.",
+    "additional_searches": [
+      {
+        "at": "2026-11-05T13:59:24.239528+00:00",
+        "queries": [
+          "\"Visualizing Data Using t-SNE\" site:bilibili.com/video",
+          "\"Brains, Sex, and Machine Learning\" site:bilibili.com/video",
+          "\"The Man behind Stable Diffusion\" site:bilibili.com/video",
+          "\"Conway's Game Of Life in APL\" site:bilibili.com/video"
+        ],
+        "returned_target_pages": 0,
+        "interpretation": "No additional indexed leads from these queries; not evidence that Bilibili versions do not exist."
+      }
+    ]
   },
+  "additional_source_probes": [
+    {
+      "source": "https://www.gcores.com/articles/110509",
+      "at": "2026-11-05T13:43:10.664407+00:00",
+      "resolved_url": "https://www.gcores.com/articles/110509",
+      "status": 200,
+      "snapshot": "gcores-blow-source-7b12421.html",
+      "sha256": "76f6f35e3e62e91f475e18a6aa3df87d5a8f03440a56ee38a6410e5c407fb722",
+      "original_id_present": false,
+      "bvid_present": false,
+      "review_decision": "continue review",
+      "reason": "Article metadata and visible text do not provide target original ID or candidate BV; no new content-identity approval.",
+      "frame_by_frame_comparison": false
+    },
+    {
+      "source": "https://www.ted.com/talks/david_epstein_are_athletes_really_getting_faster_bette",
+      "at": "2026-11-05T13:39:11.760917+00:00",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    },
+    {
+      "source": "https://roguelike.club/event2020.html",
+      "target": "TlLIOgWYVpI",
+      "at": "2026-11-05T13:53:17.059636+00:00",
+      "resolved_url": "https://www.roguelike.club/event2020.html",
+      "status": 200,
+      "snapshot": "roguelike-2020-source-7b12421.html",
+      "sha256": "de81992f416e7400f2b75dd03f32d1f80aae67bd63c2bb4ca2007051c6f70bba",
+      "target_id_present": false,
+      "video_links": [
+        "https://www.youtube.com/playlist?list=PLi7jNGNQhwdhKzh2I7NNJTxHjQEVejLxm",
+        "https://www.youtube.com/watch?v=tmrYfnMrifw",
+        "https://www.youtube.com/channel/UCKv_QzXft4mD6TXmQBZtzIA"
+      ],
+      "review_decision": "continue review",
+      "reason": "No target original YouTube ID verified in the retrieved source; 403 probe stopped without retry or alternative access.",
+      "frame_by_frame_comparison": false
+    },
+    {
+      "source": "https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase",
+      "target": "17KCHwOwgms",
+      "at": "2026-11-05T13:53:19.797195+00:00",
+      "resolved_url": "https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase",
+      "status": 200,
+      "snapshot": "wet-codebase-source-7b12421.html",
+      "sha256": "95d29fa6106b2f776a0b28fd5017ef8cb458b1c12be8ad056fe5c01cf268e44f",
+      "target_id_present": false,
+      "video_links": [
+        "https://player.vimeo.com/video/394022229"
+      ],
+      "review_decision": "continue review",
+      "reason": "No target original YouTube ID verified in the retrieved source; 403 probe stopped without retry or alternative access.",
+      "frame_by_frame_comparison": false
+    },
+    {
+      "source": "https://demozoo.org/productions/100/",
+      "target": "wqu_IpkOYBg",
+      "at": "2026-11-05T13:53:26.282851+00:00",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "review_decision": "continue review",
+      "reason": "No target original YouTube ID verified in the retrieved source; 403 probe stopped without retry or alternative access.",
+      "frame_by_frame_comparison": false
+    }
+  ],
+  "source_probe_errors": [
+    {
+      "source": "https://www.ted.com/talks/david_epstein_are_athletes_really_getting_faster_bette",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+      "retried": false
+    },
+    {
+      "source": "https://demozoo.org/productions/100/",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "retried": false
+    }
+  ],
+  "deferred_source_identity_reviews": [
+    {
+      "id": "8COaMKbNrX0",
+      "bvid": "BV1ANmLYkEqA",
+      "reason": "Truncated TED source URL not verified; one public-source request returned SSL unexpected EOF; stopped probe without retry.",
+      "receipt": "ted-epstein-truncated-receipt-7b12421.json"
+    }
+  ],
+  "manual_identity_reviews": {
+    "at": "2026-11-05T14:44:49.737336+00:00",
+    "requests": 0,
+    "reviews": [
+      {
+        "id": "8COaMKbNrX0",
+        "bvid": "BV1SS4y1M7o5",
+        "page": 1,
+        "decision": "confirmed",
+        "reviewer": "Codex"
+      },
+      {
+        "id": "9vpqilhW9uI",
+        "bvid": "BV1C7411i7nK",
+        "page": 1,
+        "decision": "confirmed",
+        "reviewer": "Codex"
+      },
+      {
+        "id": "8COaMKbNrX0",
+        "bvid": "BV19V411q7XL",
+        "page": 1,
+        "decision": "unmatched",
+        "reviewer": "Codex"
+      }
+    ]
+  },
+  "runtime": "Python 3.12.14 / OpenSSL 3.5.7",
   "metadata_title_review": {
-    "at": "2026-11-05T13:10:27.315904+00:00",
     "review_status": "metadata_consistency_review_completed_for_snapshot",
     "frame_by_frame_comparison": false,
-    "scope": "Read original/Bilibili/segment titles for 84 versions (including one held derivative), and cached descriptions for five ambiguous titles; no frame comparison.",
-    "findings": [
+    "scope": "Read original, Bilibili and segment titles for 85 versions; no frame comparison.",
+    "findings": [],
+    "reviewed_at": "2026-11-05T14:45:35.984270+00:00",
+    "observations": [
       {
-        "id": "k1BneeJTDcU",
-        "bvid": "BV1psn46YET8",
+        "id": "gFEE3w7F0ww",
+        "bvid": "BV1eBrDY5EBg",
         "page": 1,
-        "decision": "hold_after_current_writer_stops",
-        "reason": "Uploader explicitly labels audio AI-generated derivative secondary creation; source URL is attribution, not proof of identical content."
+        "observation": "Unlabeled title prefix [215] differs from original Lex Fridman Podcast #224. Its meaning was not verified; do not relabel it as the original episode.",
+        "evidence": "Full cached description explicitly identifies gFEE3w7F0ww, speaker/topic match Travis Oliphant Python/scientific computing, single-P duration and original duration both 11125 seconds. No explicit alternate Lex episode label in description.",
+        "decision": "Retain original Bilibili title and metadata ambiguity; no new manual identity approval or frame comparison."
       }
-    ],
-    "remaining_limits": "Title and metadata consistency cannot establish full audiovisual equivalence; later new confirmations need final audit.",
-    "reviewed_at": "2026-11-05T13:19:45.217530+00:00"
-  },
-  "manual_identity_review": {
-    "at": "2026-11-05T13:28:31.026824+00:00",
-    "id": "ghUs-84NAAU",
-    "bvid": "BV1uESMYqEFm",
-    "requests": 0,
-    "reviewer": "Codex",
-    "decision": "confirmed"
-  },
-  "year_context_reassessment": {
-    "at": "2026-11-05T13:28:30.250515+00:00",
-    "requests": 0,
-    "checked": 1205,
-    "changes": [
-      {
-        "id": "N1CBDTgGtOU",
-        "bvid": "BV1eZ4y1W7wH",
-        "page": 1,
-        "cid": 201097382,
-        "before": "review",
-        "after": "review",
-        "before_flags": [
-          "no explicit original URL; manual identity review required",
-          "conflicting years",
-          "duration outside tolerance"
-        ],
-        "after_flags": [
-          "no explicit original URL; manual identity review required",
-          "duration outside tolerance"
-        ]
-      },
-      {
-        "id": "2XLZ4Z8LpEE",
-        "bvid": "BV1Rk4y1r7tQ",
-        "page": 1,
-        "cid": 185191935,
-        "before": "review",
-        "after": "confirmed",
-        "before_flags": [
-          "conflicting years"
-        ],
-        "after_flags": []
-      },
-      {
-        "id": "6orsmFndx_o",
-        "bvid": "BV1Sq4y1N7Hx",
-        "page": 1,
-        "cid": 410259501,
-        "before": "review",
-        "after": "confirmed",
-        "before_flags": [
-          "conflicting years"
-        ],
-        "after_flags": []
-      },
-      {
-        "id": "k1BneeJTDcU",
-        "bvid": "BV1psn46YET8",
-        "page": 1,
-        "cid": 42976087574,
-        "before": "confirmed",
-        "after": "review",
-        "before_flags": [],
-        "after_flags": [
-          "derivative content requires review"
-        ]
-      }
-    ],
-    "source_rule": "Explicit original identity still required; non-content filename dates excluded, explicit derivative content held for review."
+    ]
   },
   "cached_new_version_audit": {
-    "checked": 83,
+    "checked": 85,
     "requests": 0,
     "all_passed": true
   },
   "baseline_hashes": {
-    "baseline_library": "26ac6d424638547ad4cb877e242ea34b04c8665c04e7d2f771f5c8f810f0e27f",
-    "baseline_public": "ba33a41f10b64a5937c23472c5e695105abeb7e44fa6c6be2ee97779f09c90a2"
+    "baseline_library": "bedac2b66adc3930478f669f5b8969a0ad9248ca0b63d7b6c2debe8c3aec65de",
+    "baseline_public": "4989b64a89336bfd445268c6e6346988461b0970d533526186440e249ae57bcd"
   },
   "validation": {
     "unit_tests": 63,
     "browser": "reports/browser-tests.json",
     "browser_status": "pass",
+    "cached_new_versions": 85,
+    "metadata_title_versions_reviewed": 85,
     "playback_reports": [
-      "reports/playback-increment-cedffbd.json",
-      "reports/playback-increment-cedffbd-languages.json"
+      "reports/playback-increment-7b12421.json",
+      "reports/playback-increment-7b12421-versions.json"
     ],
     "playback_observations": 10,
     "unique_playback_versions": 10,
     "playback_passed": true,
-    "cached_new_versions": 83,
     "frame_by_frame_comparison": false
   }
 }
