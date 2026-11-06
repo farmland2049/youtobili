@@ -1,399 +1,186 @@
 {
-  "baseline_commit": "e2de293d9ae77f8c9a7077b4724aea9865354320",
+  "baseline_commit": "c28b345d9fa0bf170133e26767d06f5237b1bfc9",
   "phase_status": "stopped_after_request_error",
   "before": {
-    "corpus": 6454,
-    "processed": 2392,
-    "confirmed": 780,
-    "coverage": 0.12085528354508832,
-    "processed_match_rate": 0.32608695652173914
-  },
-  "after": {
     "corpus": 6454,
     "processed": 2492,
     "confirmed": 801,
     "coverage": 0.124109079640533,
     "processed_match_rate": 0.32142857142857145
   },
-  "newly_processed": 100,
-  "newly_processed_confirmed": 21,
-  "newly_processed_match_rate": 0.21,
+  "after": {
+    "corpus": 6454,
+    "processed": 2521,
+    "confirmed": 805,
+    "coverage": 0.12472885032537961,
+    "processed_match_rate": 0.31931773105910355
+  },
+  "newly_processed": 29,
+  "newly_processed_confirmed": 4,
+  "newly_processed_match_rate": 0.13793103448275862,
   "added_originals": [
-    "gDfNRWsMRsU",
-    "gSvUqhZcbVg",
-    "hFL6qRIJZ_Y",
-    "ho7oagHeqNc",
-    "iRsSjh5TTqI",
-    "j4H9LL7A-nQ",
-    "jSFsrmLhC00",
-    "k1luKAS_Xcg",
-    "lWZ2Bz0tS-s",
-    "leX541Dr2rU",
-    "m05abdGSOxY",
-    "mGQLXRTl3Z0",
-    "nIKhUizkXxA",
-    "oOlDewpCfZQ",
-    "oQbei5JGiT8",
-    "oSmqbnhHp1c",
-    "oTpA5jt1g60",
-    "oz49vQwSoTE",
-    "p5Ac7ap_MAY",
-    "pL3Yzjk5R4M",
-    "pdJQ8iVTwj8"
+    "pZwvrxVavnQ",
+    "tTBWfkE7BXU",
+    "tcdVC4e6EV4",
+    "uDqjIdI4bF4"
   ],
   "withdrawn_originals": [],
-  "net_confirmed_change": 21,
-  "versions": 1095,
+  "net_confirmed_change": 4,
+  "versions": 1102,
   "added_versions": [
     {
-      "id": "bvim4rsNHkQ",
-      "bvid": "BV124411p7st",
-      "page": 1
-    },
-    {
-      "id": "bvim4rsNHkQ",
-      "bvid": "BV16x411s7tY",
-      "page": 1
-    },
-    {
-      "id": "bvim4rsNHkQ",
-      "bvid": "BV1njUoBUEcN",
-      "page": 1
-    },
-    {
-      "id": "bvim4rsNHkQ",
-      "bvid": "BV1oM4y157eQ",
-      "page": 1
-    },
-    {
-      "id": "gDfNRWsMRsU",
-      "bvid": "BV14C411L7dH",
-      "page": 1
-    },
-    {
-      "id": "gSvUqhZcbVg",
-      "bvid": "BV1P341127T9",
-      "page": 1
-    },
-    {
-      "id": "hFL6qRIJZ_Y",
-      "bvid": "BV1MP4y1H7W1",
-      "page": 1
-    },
-    {
-      "id": "hFL6qRIJZ_Y",
-      "bvid": "BV1NL4y187Cz",
-      "page": 1
-    },
-    {
-      "id": "ho7oagHeqNc",
-      "bvid": "BV15p4y1D7Hi",
-      "page": 1
-    },
-    {
-      "id": "iRsSjh5TTqI",
-      "bvid": "BV1rs411k7kN",
-      "page": 1
-    },
-    {
-      "id": "j4H9LL7A-nQ",
-      "bvid": "BV1p1E7znEsC",
-      "page": 1
-    },
-    {
-      "id": "jSFsrmLhC00",
-      "bvid": "BV1wK4y1h7it",
-      "page": 1
-    },
-    {
-      "id": "k1luKAS_Xcg",
-      "bvid": "BV1Zt41127ax",
-      "page": 1
-    },
-    {
-      "id": "lWZ2Bz0tS-s",
-      "bvid": "BV1aV41117Hq",
-      "page": 1
-    },
-    {
-      "id": "leX541Dr2rU",
-      "bvid": "BV1KEkxBsE1J",
-      "page": 1
-    },
-    {
-      "id": "m05abdGSOxY",
-      "bvid": "BV1uJ411s7tG",
-      "page": 1
-    },
-    {
-      "id": "mGQLXRTl3Z0",
-      "bvid": "BV1o54y1p7GH",
-      "page": 1
-    },
-    {
-      "id": "nIKhUizkXxA",
-      "bvid": "BV1zyuQ6iEGT",
-      "page": 1
-    },
-    {
       "id": "oOlDewpCfZQ",
-      "bvid": "BV1rs411n7Kt",
-      "page": 1
-    },
-    {
-      "id": "oQbei5JGiT8",
-      "bvid": "BV1vp4y1U7Ki",
-      "page": 1
-    },
-    {
-      "id": "oSmqbnhHp1c",
-      "bvid": "BV1YN411D7xd",
-      "page": 1
-    },
-    {
-      "id": "oTpA5jt1g60",
-      "bvid": "BV1FXkBBUEf9",
+      "bvid": "BV1sZ4y1t7AP",
       "page": 1
     },
     {
       "id": "oz49vQwSoTE",
-      "bvid": "BV1Lx411C7vK",
+      "bvid": "BV1584y1U7f7",
       "page": 1
     },
     {
       "id": "p5Ac7ap_MAY",
-      "bvid": "BV1Ug4y1z7XB",
+      "bvid": "BV1di4y1V7RX",
       "page": 1
     },
     {
-      "id": "pL3Yzjk5R4M",
-      "bvid": "BV1mD4y1d7GK",
+      "id": "pZwvrxVavnQ",
+      "bvid": "BV1pu4jzvEck",
       "page": 1
     },
     {
-      "id": "pdJQ8iVTwj8",
-      "bvid": "BV1cEwye4E6r",
+      "id": "tTBWfkE7BXU",
+      "bvid": "BV13f4y137eu",
       "page": 1
     },
     {
-      "id": "ycPr5-27vSI",
-      "bvid": "BV1yM4y1F7MT",
+      "id": "tcdVC4e6EV4",
+      "bvid": "BV1wa4y1L7UP",
+      "page": 1
+    },
+    {
+      "id": "uDqjIdI4bF4",
+      "bvid": "BV1iW411U7Ft",
       "page": 1
     }
   ],
   "withdrawn_versions": [],
-  "net_versions_change": 27,
+  "net_versions_change": 7,
   "search_batches": [
     {
-      "id": "20261106T012624Z",
+      "id": "20261106T020240Z",
       "selected": 50,
-      "completed": 50,
-      "errors": [],
-      "stopped": false,
-      "originals": [
-        "ckSoDW2-wrc",
-        "d6DBKoWbtjE",
-        "dDddKmdLEdg",
-        "eLqC3FNNOaI",
-        "eVtCO84MDj8",
-        "ez4DgdurRPg",
-        "f5SE47Xjx2Q",
-        "f8ZqBLcIvw0",
-        "fPrvnlvnu-k",
-        "fW8amMCVAJQ",
-        "frLwRLS_ZR0",
-        "gDfNRWsMRsU",
-        "gKWNjFagR9k",
-        "gPlpphT7n9s",
-        "gQnmP7UD_zk",
-        "gSvUqhZcbVg",
-        "gdK4y6O-llE",
-        "ghtpJnrdgbo",
-        "gisdyTBMNyQ",
-        "goh2x_G0ct4",
-        "gvZSpET11ZY",
-        "h3gwyHNo7MI",
-        "h4Uu5eyN6VU",
-        "hFL6qRIJZ_Y",
-        "hXgqik6HXc0",
-        "ho7oagHeqNc",
-        "hzPd3umu78g",
-        "i1vbvikDiI8",
-        "iRleB034EC8",
-        "iRsSjh5TTqI",
-        "ihkRwArnc1k",
-        "imhUmLtlZpw",
-        "ipzR9bhei_o",
-        "j02b8Fuz73A",
-        "j2dHFC31VtQ",
-        "j4H9LL7A-nQ",
-        "jGWFg7EDnyY",
-        "jPhJbKBuNnA",
-        "jSFsrmLhC00",
-        "jSo5v5t4OQM",
-        "jyQwgBAaBag",
-        "k1luKAS_Xcg",
-        "kb-m2fasdDY",
-        "kfM-yu0iQBk",
-        "kixAljyfdqU",
-        "klpDHn8viX8",
-        "lI7T650RTT8",
-        "lIFE7h3m40U",
-        "lKQ0yaEJjok",
-        "lWZ2Bz0tS-s"
-      ],
-      "primary_first": true,
-      "deferred_candidates": 99,
-      "excluded_originals": [
-        "HQKy1KJpSVc",
-        "QVuU2YCwHjw",
-        "SYeeTvitvFU",
-        "cjuGCJJUGsg",
-        "st571DYYTR8"
-      ],
-      "attempted": 50,
-      "unattempted": 0,
-      "statuses": {
-        "review": 41,
-        "confirmed": 9
-      },
-      "candidate_count": 1888
-    },
-    {
-      "id": "20261106T014220Z",
-      "selected": 50,
-      "completed": 49,
+      "completed": 28,
       "errors": [
         {
-          "vid": "s9fByRmAHgU",
+          "vid": "vs41JrnGaxc",
           "reason": "URLError"
         }
       ],
       "stopped": false,
       "originals": [
-        "leX541Dr2rU",
-        "lgivCGdmFrw",
-        "lhe286ky-9A",
-        "lnA9DMvHtfI",
-        "loCBvaj4eSg",
-        "lqzJewjZUkk",
-        "lr4MmmWQtZM",
-        "lvTqbM5Dq4Q",
-        "m05abdGSOxY",
-        "mHtdZgou0qU",
-        "mSB71jNq-yQ",
-        "muCPjK4nGY4",
-        "nIKhUizkXxA",
-        "nJslrTT-Yhc",
-        "ncPyMUfNyVM",
-        "noQcWra6sbU",
-        "nsJZ_kKjXcE",
-        "o2HBHckrdQc",
-        "o6L6XeNdd_k",
-        "oFrTqQw0_3c",
-        "oM6S7FEUfkU",
-        "oOlDewpCfZQ",
-        "oQbei5JGiT8",
-        "oSmqbnhHp1c",
-        "oTpA5jt1g60",
-        "ooNzRrHA9VY",
-        "orMtwOz6Db0",
-        "osSMJRyxG0k",
-        "oz49vQwSoTE",
-        "p5Ac7ap_MAY",
-        "pIgMTsQXg3Q",
-        "pL3Yzjk5R4M",
-        "pUF5esTscZI",
-        "pdJQ8iVTwj8",
-        "pdmODVYPDLA",
-        "pnv5iKB2hl4",
-        "pyX8kQ-JzHI",
-        "qMkYlIA7mgw",
-        "qS34oV-jv_A",
-        "r1ZLGqL1FMo",
-        "r9rGX91rq5I",
-        "rAl-9HwD858",
-        "rHP-OPXK2ig",
-        "rURRYI66E54",
-        "ra_9zU-mnl8",
-        "rgGmKD87U3M",
-        "rmueBVrLKcY",
-        "s0ukXDnWlTY",
-        "s9aCwCKgkLo"
+        "sCZJblyT_XM",
+        "sI1C9DyIi_8",
+        "sKudSeqHSJk",
+        "sbQhgEJuExY",
+        "sg2j7mZ9-2Y",
+        "sycgL3Qg_Ak",
+        "szIGZVrSAyc",
+        "t0mhvd3-60Y",
+        "tAACYA1Mwv4",
+        "tMP5Pbx8I4s",
+        "tTBWfkE7BXU",
+        "tafGL02EUOA",
+        "tcdVC4e6EV4",
+        "thqbjA2DC-E",
+        "tiKCORN-6m8",
+        "tnBQmEqBCY0",
+        "tw-rxtwhzcY",
+        "uDqjIdI4bF4",
+        "uGlzRt-FYto",
+        "uWUHkCgslNE",
+        "u_ktRTWMX3M",
+        "umatbZ0n4mE",
+        "usSfgHGEGxQ",
+        "v7AYyUqrMuQ",
+        "vKA4w2O61Xo",
+        "vOvQCPLkPt4",
+        "vWkgEddb4-A",
+        "vaCVh2SAZY4"
       ],
       "primary_first": true,
-      "deferred_candidates": 108,
+      "deferred_candidates": 70,
       "excluded_originals": [
         "HQKy1KJpSVc",
         "QVuU2YCwHjw",
         "SYeeTvitvFU",
         "cjuGCJJUGsg",
+        "s9fByRmAHgU",
         "st571DYYTR8"
       ],
-      "attempted": 50,
-      "unattempted": 0,
+      "attempted": 29,
+      "unattempted": 21,
       "statuses": {
-        "review": 39,
-        "confirmed": 11
+        "review": 25,
+        "confirmed": 4
       },
-      "candidate_count": 1894
+      "candidate_count": 1043
     }
   ],
-  "completed_search_originals": 99,
-  "direct_search_attempts": 100,
+  "completed_search_originals": 28,
+  "direct_search_attempts": 29,
   "direct_search_errors": [
     {
-      "vid": "s9fByRmAHgU",
+      "vid": "vs41JrnGaxc",
       "reason": "URLError"
     }
   ],
-  "unattempted_after_error": 0,
+  "unattempted_after_error": 21,
   "source_verification_batches": [
     {
-      "id": "2026-11-06T01:25:57.693427+00:00",
-      "source": "serial-20261106T012536Z-leads-1.json",
-      "attempted": 5,
-      "completed": 5,
-      "confirmed": 5,
-      "errors": [],
-      "stopped": false
-    },
-    {
-      "id": "2026-11-06T01:41:54.869373+00:00",
-      "source": "serial-20261106T012536Z-leads-2.json",
-      "attempted": 2,
-      "completed": 2,
-      "confirmed": 2,
+      "id": "2026-11-06T02:02:13.000219+00:00",
+      "source": "serial-20261106T020150Z-leads-1.json",
+      "attempted": 4,
+      "completed": 4,
+      "confirmed": 4,
       "errors": [],
       "stopped": false
     }
   ],
-  "source_leads_completed": 7,
-  "source_confirmed_versions": 7,
+  "source_leads_completed": 4,
+  "source_confirmed_versions": 4,
   "blocked_originals": {
     "st571DYYTR8": "prior URLError; no retry or unavailable classification",
     "HQKy1KJpSVc": "prior URLError; no retry or unavailable classification",
     "QVuU2YCwHjw": "prior URLError; no retry or unavailable classification",
     "SYeeTvitvFU": "prior URLError; no retry or unavailable classification",
     "cjuGCJJUGsg": "prior URLError; no retry or unavailable classification",
-    "s9fByRmAHgU": "URLError in current phase; failed search left unprocessed; do not classify unavailable"
+    "s9fByRmAHgU": "prior URLError; no retry or unavailable classification",
+    "vs41JrnGaxc": "URLError in current phase; failed search left unprocessed; do not classify unavailable"
   },
   "automatic_retry": false,
-  "remaining_unprocessed": 3962,
-  "remaining_review": 1697,
+  "remaining_unprocessed": 3933,
+  "remaining_review": 1723,
   "metadata_title_review": {
-    "baseline_commit": "e2de293d9ae77f8c9a7077b4724aea9865354320",
+    "baseline_commit": "c28b345d9fa0bf170133e26767d06f5237b1bfc9",
     "review_status": "metadata_consistency_review_completed_for_snapshot",
-    "reviewed_at": "2026-11-06T01:58:52.368553+00:00",
-    "scope": "Read original, Bilibili and segment titles for 27 versions; no frame comparison."
+    "reviewed_at": "2026-11-06T02:12:56.013069+00:00",
+    "scope": "Read original, Bilibili and segment titles for 7 versions; no frame comparison."
   },
   "cached_new_version_audit": {
-    "checked": 27,
+    "checked": 7,
     "requests": 0,
     "segment_conflicts": [],
     "all_passed": true
   },
-  "code_tests": "not rerun; code unchanged since tested commit e2de293",
+  "manual_review_downgrades": [
+    {
+      "id": "vKA4w2O61Xo",
+      "bvid": "BV1rB4y1T74j",
+      "reason": "Bilibili segment title says \"Can You Solve This\" while the original is \"The Most Common Cognitive Bias\"; explicit link alone does not resolve the contradiction."
+    }
+  ],
+  "code_tests": "not rerun; code unchanged since tested commit c28b345",
   "browser_tests": {
     "status": "pass",
     "scenarios": [
@@ -420,11 +207,11 @@
     "all_playing": true,
     "all_durations_match": true,
     "all_cids_observed": true,
-    "report": "playback-increment-e2de293.json"
+    "report": "playback-increment-c28b345.json"
   },
   "runtime": "Python 3.12.14 / OpenSSL 3.5.7",
   "baseline_hashes": {
-    "library": "5802cc32997777533a92005787c340ff0281d6260a1753197b3f63898e7dfecf",
-    "public": "a01e7776da341b531c0796afaf0d9ec30145e59d56b0cb11bdddb9d26824a63e"
+    "library": "b81b27b241b7c38629395897353bd19d49fab4c87765974d05e5d9969637786f",
+    "public": "ba202102692167ccbd715e1b3e7d453eaee0e818200731dcdca757b22c5d8069"
   }
 }

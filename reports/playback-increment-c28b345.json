@@ -1,0 +1,110 @@
+{
+  "checked_at": "2026-11-06T02:13:32.992Z",
+  "checks": [
+    {
+      "sample": "oOlDewpCfZQ",
+      "kind": "original",
+      "id": "oOlDewpCfZQ",
+      "bvid": "BV1rs411n7Kt",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.947977,
+        "duration": 380,
+        "paused": false
+      },
+      "expected_duration": 380,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "45585991"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "4 Chords - The Axis Of Awesome [MV]\n塔塔不掉\n关注\n40\n3\n分享\n更多\n00:04 / 06:20\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "oz49vQwSoTE",
+      "kind": "original",
+      "id": "oz49vQwSoTE",
+      "bvid": "BV1Lx411C7vK",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.947356,
+        "duration": 457,
+        "paused": false
+      },
+      "expected_duration": 457,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "14892511"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "今敏的匹配剪辑 Satoshi Kon - Editing Space & Time\n胖桶大哥\n关注\n39\n4\n分享\n更多\n00:04 / 07:37\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "p5Ac7ap_MAY",
+      "kind": "sub_zh",
+      "id": "p5Ac7ap_MAY",
+      "bvid": "BV1Ug4y1z7XB",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.944886,
+        "duration": 5560,
+        "paused": false
+      },
+      "expected_duration": 5560,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "182765203"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "日元王子（Princes of the Yen_ Central Bank Truth Documentary，含繁体中文字幕）\nthe锅\n关注\n240\n12\n分享\n更多\n0:00:04 / 1:32:40\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "pZwvrxVavnQ",
+      "kind": "dub_zh",
+      "id": "pZwvrxVavnQ",
+      "bvid": "BV1pu4jzvEck",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.95351,
+        "duration": 162,
+        "paused": false
+      },
+      "expected_duration": 162,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "32955304588"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【中配】茶与同意 - Thames Valley Police\n黑纹白斑马\n关注\n28\n2\n分享\n更多\n00:04 / 02:42\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "tcdVC4e6EV4",
+      "kind": "original",
+      "id": "tcdVC4e6EV4",
+      "bvid": "BV1wa4y1L7UP",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.954497,
+        "duration": 509.82,
+        "paused": false
+      },
+      "expected_duration": 511,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "247160917"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "通用人工智能的致命真相? Deadly Truth of General AI? - Computerphile\n安德罗波夫尤里\n关注\n1\n1\n分享\n更多\n00:04 / 08:30\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

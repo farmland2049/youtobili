@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T01:58:29.670159+00:00",
+  "built_at": "2026-11-06T02:12:45.717208+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 2492,
-    "confirmed": 801,
-    "coverage": 0.124109079640533,
-    "processed_match_rate": 0.32142857142857145
+    "processed": 2521,
+    "confirmed": 805,
+    "coverage": 0.12472885032537961,
+    "processed_match_rate": 0.31931773105910355
   },
   "areas": [
     {
@@ -26097,6 +26097,18 @@
           "views": 2096,
           "pic": "https://i0.hdslb.com/bfs/archive/143b9081d04f173ba37d7953183f9621482df81d.jpg",
           "checked_at": "2026-11-06T01:50:01.810221+00:00"
+        },
+        {
+          "bvid": "BV1sZ4y1t7AP",
+          "page": 1,
+          "cid": 742444094,
+          "title": "4 Chords  Music Videos  The Axis Of Awesome",
+          "up": "逆天蒜头",
+          "duration": 380,
+          "kind": "original",
+          "views": 37,
+          "pic": "https://i0.hdslb.com/bfs/archive/7f383ce973d99a3010eb1c65e8e316e65a621832.jpg",
+          "checked_at": "2026-11-06T02:02:17.947691+00:00"
         }
       ]
     },
@@ -26234,6 +26246,18 @@
           "views": 1854,
           "pic": "https://i1.hdslb.com/bfs/archive/2fd8d34a164c4cb10d8a637e07226b94778ead5d.jpg",
           "checked_at": "2026-11-06T01:51:56.340346+00:00"
+        },
+        {
+          "bvid": "BV1584y1U7f7",
+          "page": 1,
+          "cid": 1278545794,
+          "title": "电影课学习资料：今敏剪辑技巧 Satoshi Kon - Editing Space & Time",
+          "up": "冬柏林蓝猫",
+          "duration": 457,
+          "kind": "original",
+          "views": 124,
+          "pic": "https://i0.hdslb.com/bfs/archive/ed7b5ef9d876322ac10ba9856e64eb3cfeebe96d.jpg",
+          "checked_at": "2026-11-06T02:02:16.668122+00:00"
         }
       ]
     },
@@ -26268,6 +26292,18 @@
           "views": 14120,
           "pic": "https://i2.hdslb.com/bfs/archive/bc3dd21d9c2061dda58b1b31e297dd297812f7c5.jpg",
           "checked_at": "2026-11-06T01:52:05.033580+00:00"
+        },
+        {
+          "bvid": "BV1di4y1V7RX",
+          "page": 1,
+          "cid": 261193038,
+          "title": "【财经纪录片】日元王子 （Princes of the Yen_ Central Bank Truth Documentary）- 繁中字幕",
+          "up": "北极人在扭腰",
+          "duration": 5560,
+          "kind": "sub_zh",
+          "views": 4633,
+          "pic": "https://i2.hdslb.com/bfs/archive/e8de8795a7e65fd19211ce9646afa491dc049cc0.jpg",
+          "checked_at": "2026-11-06T02:02:13.228697+00:00"
         }
       ]
     },
@@ -26408,6 +26444,106 @@
           "views": 243,
           "pic": "https://i1.hdslb.com/bfs/archive/17f46f55e149e3c6ef2c8adcce9b91ceed82c9b1.png",
           "checked_at": "2026-11-04T23:03:55.487677+00:00"
+        }
+      ]
+    },
+    {
+      "id": "tTBWfkE7BXU",
+      "title": "Noam Chomsky - Manufacturing Consent",
+      "author": "Chomsky's Philosophy",
+      "source_url": "https://www.youtube.com/watch?v=tTBWfkE7BXU",
+      "summary": "A nine-minute excerpt from the 1992 documentary Manufacturing Consent in which Noam Chomsky summarizes how corporate media shapes public discourse.",
+      "why": "Cited as a short overview of the propaganda model whenever commenters discuss media influence and consent manufacturing.",
+      "score": 3.0,
+      "tags": [
+        "noam chomsky",
+        "manufacturing consent",
+        "propaganda model",
+        "corporate media",
+        "media literacy"
+      ],
+      "categories": [
+        "media-journalism",
+        "documentaries-storytelling"
+      ],
+      "versions": [
+        {
+          "bvid": "BV13f4y137eu",
+          "page": 1,
+          "cid": 432974585,
+          "title": "乔姆斯基 - 制造共识   Noam Chomsky - Manufacturing Consent",
+          "up": "Gren101",
+          "duration": 545,
+          "kind": "original",
+          "views": 1765,
+          "pic": "https://i2.hdslb.com/bfs/archive/48f874def5efc15856502332a66c3dd85f791c63.jpg",
+          "checked_at": "2026-11-06T02:05:41.263755+00:00"
+        }
+      ]
+    },
+    {
+      "id": "tcdVC4e6EV4",
+      "title": "Deadly Truth of General AI? - Computerphile",
+      "author": "Computerphile",
+      "source_url": "https://www.youtube.com/watch?v=tcdVC4e6EV4",
+      "summary": "A Computerphile video in which Rob Miles warns against assuming a general AI will think like a human. He uses the thought experiment of a stamp-collecting AI to show how a goal-driven system could pursue its aim with dangerous results.",
+      "why": "Often pointed to as an accessible first introduction to AI safety and why a superintelligent AI could be dangerous.",
+      "score": 3.0,
+      "tags": [
+        "agi",
+        "rob miles",
+        "stamp collector",
+        "superintelligence",
+        "alignment"
+      ],
+      "categories": [
+        "ai-safety-impact"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1wa4y1L7UP",
+          "page": 1,
+          "cid": 247160917,
+          "title": "通用人工智能的致命真相? Deadly Truth of General AI? - Computerphile",
+          "up": "安德罗波夫尤里",
+          "duration": 511,
+          "kind": "original",
+          "views": 121,
+          "pic": "https://i2.hdslb.com/bfs/archive/b7cd4c648911afc9e5fba09d01b4f0bd04ff8d74.jpg",
+          "checked_at": "2026-11-06T02:06:15.311294+00:00"
+        }
+      ]
+    },
+    {
+      "id": "uDqjIdI4bF4",
+      "title": "12 Principles of Animation (Official Full Series)",
+      "author": "AlanBeckerTutorials",
+      "source_url": "https://www.youtube.com/watch?v=uDqjIdI4bF4",
+      "summary": "Alan Becker's short series on the 12 principles of animation, covering squash and stretch, anticipation, staging, timing, arcs, appeal and the rest. Each principle gets a brief animated illustration.",
+      "why": "Recommended as a compact starting point for making animations feel more compelling, including for UI and app developers.",
+      "score": 3.0,
+      "tags": [
+        "animation",
+        "squash and stretch",
+        "timing",
+        "anticipation",
+        "motion design"
+      ],
+      "categories": [
+        "animation-vfx"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1iW411U7Ft",
+          "page": 1,
+          "cid": 56884097,
+          "title": "12个动画原理 AI熟肉中英双语12 Principles of Animation",
+          "up": "没脸的小刺猬",
+          "duration": 1443,
+          "kind": "sub_zh",
+          "views": 10260,
+          "pic": "https://i0.hdslb.com/bfs/archive/b9993177c394247d913e757c973624735fbef654.png",
+          "checked_at": "2026-11-06T02:07:31.896346+00:00"
         }
       ]
     },
@@ -31890,6 +32026,39 @@
       ]
     },
     {
+      "id": "pZwvrxVavnQ",
+      "title": "Tea and Consent",
+      "author": "Thames Valley Police",
+      "source_url": "https://www.youtube.com/watch?v=pZwvrxVavnQ",
+      "summary": "A short animation from Thames Valley Police that explains sexual consent by comparing it to offering someone a cup of tea.",
+      "why": "Mostly invoked as an analogy or joke, including in discussions of opt-in consent and voluntary transactions.",
+      "score": 0.0,
+      "tags": [
+        "consent",
+        "animation",
+        "analogy",
+        "public awareness"
+      ],
+      "categories": [
+        "social-issues-culture",
+        "law-policing-justice"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1pu4jzvEck",
+          "page": 1,
+          "cid": 32955304588,
+          "title": "【中配】茶与同意 - Thames Valley Police",
+          "up": "黑纹白斑马",
+          "duration": 162,
+          "kind": "dub_zh",
+          "views": 2216,
+          "pic": "https://i1.hdslb.com/bfs/archive/cc898d502059ddfea72a127d0ba02619badfe854.png",
+          "checked_at": "2026-11-06T02:02:15.876934+00:00"
+        }
+      ]
+    },
+    {
       "id": "stXgn2iZAAY",
       "title": "These are the most confusing questions Congress asked Zuckerberg",
       "author": "CNN Business",
@@ -32839,14 +33008,20 @@
     "BV1uJ411s7tG": "m05abdGSOxY",
     "BV1zyuQ6iEGT": "nIKhUizkXxA",
     "BV1rs411n7Kt": "oOlDewpCfZQ",
+    "BV1sZ4y1t7AP": "oOlDewpCfZQ",
     "BV1vp4y1U7Ki": "oQbei5JGiT8",
     "BV1YN411D7xd": "oSmqbnhHp1c",
     "BV1FXkBBUEf9": "oTpA5jt1g60",
     "BV1Lx411C7vK": "oz49vQwSoTE",
+    "BV1584y1U7f7": "oz49vQwSoTE",
     "BV1Ug4y1z7XB": "p5Ac7ap_MAY",
+    "BV1di4y1V7RX": "p5Ac7ap_MAY",
     "BV1mD4y1d7GK": "pL3Yzjk5R4M",
     "BV1cEwye4E6r": "pdJQ8iVTwj8",
     "BV1ut421572e": "qbKGw8MQ0i8",
+    "BV13f4y137eu": "tTBWfkE7BXU",
+    "BV1wa4y1L7UP": "tcdVC4e6EV4",
+    "BV1iW411U7Ft": "uDqjIdI4bF4",
     "BV1kweLe4EW3": "vHWiDx_l4V0",
     "BV1UV4y157Eu": "wcBEOcPtlYk",
     "BV1MG4C6MEdw": "wcBEOcPtlYk",
@@ -33011,6 +33186,7 @@
     "BV1dx41187sz": "o8NPllzkFhE",
     "BV13W411F7eV": "ogfYd705cRs",
     "BV1a4421U7ff": "ovYbgbrQ-v8",
+    "BV1pu4jzvEck": "pZwvrxVavnQ",
     "BV1xW411L75Y": "stXgn2iZAAY"
   }
 }
