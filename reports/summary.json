@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-05T22:53:00.109764+00:00",
+  "updated_at": "2026-11-06T00:02:18.250852+00:00",
   "corpus": 6454,
-  "processed": 2061,
-  "confirmed": 702,
-  "coverage": 0.10876975519057949,
-  "processed_match_rate": 0.3406113537117904,
+  "processed": 2225,
+  "confirmed": 741,
+  "coverage": 0.1148125193678339,
+  "processed_match_rate": 0.33303370786516856,
   "statuses": {
-    "confirmed": 702,
-    "review": 1360
+    "confirmed": 741,
+    "review": 1486
   },
-  "not_processed": 4393,
+  "not_processed": 4229,
   "verification_batch": {
-    "id": "2026-11-05T22:46:20.840905+00:00",
-    "source": "serial-20261105T222950Z-leads-2.json",
-    "attempted": 13,
-    "completed": 13,
-    "confirmed": 8,
+    "id": "2026-11-06T00:00:08.900655+00:00",
+    "source": "serial-20261105T231236Z-leads-4.json",
+    "attempted": 10,
+    "completed": 10,
+    "confirmed": 6,
     "errors": [],
     "stopped": false
   },
@@ -23,78 +23,77 @@
     {
       "vid": "st571DYYTR8",
       "reason": "URLError"
+    },
+    {
+      "vid": "HQKy1KJpSVc",
+      "reason": "URLError"
     }
   ],
-  "candidates": 61890,
-  "review_expansion_pending": 158,
-  "expanded_reviews": 1202,
+  "candidates": 67821,
+  "review_expansion_pending": 162,
+  "expanded_reviews": 1324,
   "batch": {
-    "id": "20261105T224653Z",
+    "id": "20261106T000044Z",
     "selected": 50,
-    "completed": 10,
+    "completed": 3,
     "errors": [
       {
-        "vid": "st571DYYTR8",
+        "vid": "HQKy1KJpSVc",
         "reason": "URLError"
       }
     ],
     "stopped": false,
     "originals": [
-      "rk6z1vP4Eo8",
-      "rtR63-ecUNo",
-      "rv-mFSoZOkE",
-      "s254IPHXgVA",
-      "s8nFqwOho-s",
-      "sBzRwzY7G-k",
-      "sI5Ftm1-jik",
-      "sSfejgwbDQ8",
-      "sfGtw2C95Ms",
-      "sfXn_ecH5Rw"
+      "H62hZJVqs2o",
+      "HBluLfX2F_k",
+      "HNkLcD3PKyk"
     ],
     "primary_first": true,
-    "deferred_candidates": 31,
-    "attempted": 11,
-    "unattempted": 39,
+    "deferred_candidates": 0,
+    "excluded_originals": [
+      "st571DYYTR8"
+    ],
+    "attempted": 4,
+    "unattempted": 46,
     "statuses": {
-      "review": 10,
-      "confirmed": 1
+      "review": 4
     },
-    "candidate_count": 431
+    "candidate_count": 140
   },
   "candidate_statuses": {
-    "review": 60918,
-    "confirmed": 964,
+    "review": 66798,
+    "confirmed": 1015,
     "unmatched": 7,
     "invalid": 1
   },
   "review_reasons": {
-    "duration outside tolerance": 68,
-    "no explicit original URL; manual identity review required; conflicting years": 61,
-    "no explicit original URL; manual identity review required": 2706,
-    "collection segment identity requires review": 119,
-    "no explicit original URL; manual identity review required; collection segment identity requires review": 530,
-    "no explicit original URL; manual identity review required; duration outside tolerance; collection segment identity requires review": 5492,
-    "no explicit original URL; manual identity review required; duration outside tolerance": 7826,
+    "duration outside tolerance": 71,
+    "no explicit original URL; manual identity review required; conflicting years": 65,
+    "no explicit original URL; manual identity review required": 2910,
+    "collection segment identity requires review": 121,
+    "no explicit original URL; manual identity review required; collection segment identity requires review": 569,
+    "no explicit original URL; manual identity review required; duration outside tolerance; collection segment identity requires review": 6021,
+    "no explicit original URL; manual identity review required; duration outside tolerance": 8437,
     "duration outside tolerance; collection segment identity requires review": 19,
-    "search duration shorter than original beyond tolerance; detail review deferred": 40317,
+    "search duration shorter than original beyond tolerance; detail review deferred": 44298,
     "description links multiple originals": 14,
-    "no explicit original URL; manual identity review required; conflicting episode": 3,
-    "no explicit original URL; manual identity review required; conflicting years; duration outside tolerance": 207,
-    "no explicit original URL; manual identity review required; conflicting years; duration outside tolerance; collection segment identity requires review": 149,
+    "no explicit original URL; manual identity review required; conflicting episode": 5,
+    "no explicit original URL; manual identity review required; conflicting years; duration outside tolerance": 226,
+    "no explicit original URL; manual identity review required; conflicting years; duration outside tolerance; collection segment identity requires review": 168,
     "no explicit original URL; manual identity review required; possibly abridged; collection segment identity requires review": 1,
-    "no explicit original URL; manual identity review required; conflicting episode; duration outside tolerance": 21,
-    "duration outside tolerance; description links multiple originals": 6,
-    "no explicit original URL; manual identity review required; conflicting years; collection segment identity requires review": 11,
+    "no explicit original URL; manual identity review required; conflicting episode; duration outside tolerance": 23,
+    "duration outside tolerance; description links multiple originals": 7,
+    "no explicit original URL; manual identity review required; conflicting years; collection segment identity requires review": 12,
     "no explicit original URL; manual identity review required; conflicting years; possibly abridged; duration outside tolerance; collection segment identity requires review": 1,
-    "no explicit original URL; manual identity review required; description links multiple originals": 6,
-    "no explicit original URL; manual identity review required; duration outside tolerance; description links multiple originals": 11,
+    "no explicit original URL; manual identity review required; description links multiple originals": 7,
+    "no explicit original URL; manual identity review required; duration outside tolerance; description links multiple originals": 14,
     "no explicit original URL; manual identity review required; conflicting years; conflicting episode; duration outside tolerance; collection segment identity requires review": 2,
-    "no explicit original URL; manual identity review required; conflicting episode; duration outside tolerance; collection segment identity requires review": 31,
+    "no explicit original URL; manual identity review required; conflicting episode; duration outside tolerance; collection segment identity requires review": 33,
     "no explicit original URL; manual identity review required; possibly abridged": 11,
-    "no explicit original URL; manual identity review required; possibly abridged; duration outside tolerance": 24,
-    "no explicit original URL; manual identity review required; possibly abridged; duration outside tolerance; collection segment identity requires review": 31,
+    "no explicit original URL; manual identity review required; possibly abridged; duration outside tolerance": 29,
+    "no explicit original URL; manual identity review required; possibly abridged; duration outside tolerance; collection segment identity requires review": 33,
     "conflicting episode; duration outside tolerance": 1,
-    "detail review deferred after primary identity confirmed": 3221,
+    "detail review deferred after primary identity confirmed": 3670,
     "no explicit original URL; manual identity review required; conflicting episode; collection segment identity requires review": 4,
     "possibly abridged": 2,
     "derivative content requires review": 1,
@@ -102,6 +101,7 @@
     "no explicit original URL; manual identity review required; derivative content requires review; collection segment identity requires review": 1,
     "no explicit original URL; manual identity review required; derivative content requires review; duration outside tolerance; collection segment identity requires review": 1,
     "request failed; availability unknown": 1,
-    "": 16
+    "": 16,
+    "no explicit original URL; manual identity review required; derivative content requires review": 1
   }
 }

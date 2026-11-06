@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T22:53:00.135050+00:00",
+  "updated_at": "2026-11-06T00:02:18.279120+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -18061,9 +18061,34 @@
     },
     "_L3gNaAVjQ4": {
       "vid": "_L3gNaAVjQ4",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-04T22:48:43.292649+00:00",
-      "candidates": []
+      "candidates": [
+        {
+          "bvid": "BV1cF411Y7VV",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1cF411Y7VV",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "George Hotz: Hacking the Simulation & Learning to Drive with Neural Nets |",
+          "up": "Canwait1ng",
+          "duration": 11327,
+          "original_duration": 11326,
+          "cid": 440049396,
+          "aid": 294003448,
+          "segment_title": "George Hotz - Hacking the Simulation & Learning to Drive with Neural Nets _ Lex",
+          "page_count": 1,
+          "kind": "original",
+          "views": 508,
+          "pic": "https://i1.hdslb.com/bfs/archive/165042a876a15a3befab232171b2d54b4636d70f.jpg",
+          "checked_at": "2026-11-06T00:00:13.068673+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "DOWDNBu9DkU": {
       "vid": "DOWDNBu9DkU",
@@ -24773,6 +24798,30 @@
           "pic": "https://i1.hdslb.com/bfs/archive/5ac4862dec611ea5bd51a84900f0b4697a484738.jpg",
           "checked_at": "2026-11-05T02:03:28.740628+00:00",
           "availability": "available"
+        },
+        {
+          "bvid": "BV11P4y1V72f",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV11P4y1V72f",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "\"Tree-sitter - a new parsing system for programming tools\" by Max Brunsfeld",
+          "up": "知识学砸了",
+          "duration": 2318,
+          "original_duration": 2318,
+          "cid": 452122508,
+          "aid": 892064920,
+          "segment_title": "\"Tree-sitter - a new parsing system for programming tools\" by Max Brunsfeld",
+          "page_count": 1,
+          "kind": "original",
+          "views": 434,
+          "pic": "https://i0.hdslb.com/bfs/archive/f9f20112d58fc4a376c94f632457aea5362e198f.jpg",
+          "checked_at": "2026-11-05T23:29:15.443049+00:00",
+          "availability": "available"
         }
       ]
     },
@@ -25618,6 +25667,30 @@
           "views": 18,
           "pic": "https://i1.hdslb.com/bfs/archive/a0bb8d59753396026430b03082bf9a90866e9525.jpg",
           "checked_at": "2026-11-05T02:19:44.954511+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1W64y1v7h2",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1W64y1v7h2",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "利他主义行为模拟 - Simulating Green Beard Altruism",
+          "up": "额额额哈哈哈i",
+          "duration": 802,
+          "original_duration": 803,
+          "cid": 321607055,
+          "aid": 760013710,
+          "segment_title": "Simulating Green Beard Altruism.h265",
+          "page_count": 1,
+          "kind": "original",
+          "views": 26861,
+          "pic": "https://i2.hdslb.com/bfs/archive/f2fd8e5313659adeae11b65eb476c9e2d532b883.jpg",
+          "checked_at": "2026-11-05T23:45:03.112161+00:00",
           "availability": "available"
         }
       ]
@@ -35787,6 +35860,2149 @@
     },
     "st571DYYTR8": {
       "vid": "st571DYYTR8",
+      "status": "review",
+      "completed_at": null,
+      "candidates": []
+    },
+    "RGw6fXprV9U": {
+      "vid": "RGw6fXprV9U",
+      "status": "review",
+      "completed_at": "2026-11-05T23:12:57.498250+00:00",
+      "candidates": []
+    },
+    "t-8TDOFqkQA": {
+      "vid": "t-8TDOFqkQA",
+      "status": "review",
+      "completed_at": "2026-11-05T23:13:32.542110+00:00",
+      "candidates": []
+    },
+    "t4vKPhjcMZg": {
+      "vid": "t4vKPhjcMZg",
+      "status": "review",
+      "completed_at": "2026-11-05T23:13:46.392449+00:00",
+      "candidates": []
+    },
+    "tKTZoB2Vjuk": {
+      "vid": "tKTZoB2Vjuk",
+      "status": "review",
+      "completed_at": "2026-11-05T23:14:19.858897+00:00",
+      "candidates": []
+    },
+    "tOMiAeRwpPA": {
+      "vid": "tOMiAeRwpPA",
+      "status": "review",
+      "completed_at": "2026-11-05T23:14:31.260147+00:00",
+      "candidates": []
+    },
+    "tcTZvNLL0-w": {
+      "vid": "tcTZvNLL0-w",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:14:42.346454+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1jN411A7XC",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "THE MARS UNDERGROUND [HD] Full Movie",
+          "up": "time_eclipse",
+          "duration": 4433,
+          "original_duration": 4433,
+          "cid": 1079502382,
+          "aid": 311953947,
+          "segment_title": "THE MARS UNDERGROUND [HD] Full Movie",
+          "page_count": 1,
+          "kind": "original",
+          "views": 78,
+          "pic": "https://i0.hdslb.com/bfs/archive/b6abdf87f9da1ae1cf4eb2a22aa9e2265255b371.jpg",
+          "checked_at": "2026-11-05T23:14:41.937459+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "tmNXKqeUtJM": {
+      "vid": "tmNXKqeUtJM",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:14:57.597501+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1m1jt6PEgo",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "为什么太阳系是扁平的 - minutephysics",
+          "up": "黑纹白斑马",
+          "duration": 166,
+          "original_duration": 192,
+          "cid": 39286801173,
+          "aid": 116787391893864,
+          "segment_title": "为什么太阳系是扁平的 - minutephysics",
+          "page_count": 1,
+          "kind": "original",
+          "views": 2798,
+          "pic": "https://i0.hdslb.com/bfs/archive/4ccfb792f7c3c54150cc10b9bc114008ac9b5edb.png",
+          "checked_at": "2026-11-05T23:14:57.178931+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "u-x7PdnvCyI": {
+      "vid": "u-x7PdnvCyI",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:15:08.913163+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1FB4y1w7F8",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "台积电张忠谋与英伟达黄仁勋的对话",
+          "up": "老歪直達車",
+          "duration": 5501,
+          "original_duration": 5501,
+          "cid": 333845630,
+          "aid": 587896774,
+          "segment_title": "Morris Chang, in conversation with Jen-Hsun Huang",
+          "page_count": 1,
+          "kind": "original",
+          "views": 12424,
+          "pic": "https://i0.hdslb.com/bfs/archive/29da6a8a04eba0b8b51ff917980b2776596ab578.jpg",
+          "checked_at": "2026-11-05T23:15:08.495073+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "u5um8QWWRvo": {
+      "vid": "u5um8QWWRvo",
+      "status": "review",
+      "completed_at": "2026-11-05T23:15:17.401325+00:00",
+      "candidates": []
+    },
+    "uTRUQ-RKfUs": {
+      "vid": "uTRUQ-RKfUs",
+      "status": "review",
+      "completed_at": "2026-11-05T23:15:28.496314+00:00",
+      "candidates": []
+    },
+    "uU_Q2a0S0zI": {
+      "vid": "uU_Q2a0S0zI",
+      "status": "review",
+      "completed_at": "2026-11-05T23:15:49.115954+00:00",
+      "candidates": []
+    },
+    "uaCaIhfETsM": {
+      "vid": "uaCaIhfETsM",
+      "status": "review",
+      "completed_at": "2026-11-05T23:16:09.621671+00:00",
+      "candidates": []
+    },
+    "uqH_Y1TupoQ": {
+      "vid": "uqH_Y1TupoQ",
+      "status": "review",
+      "completed_at": "2026-11-05T23:16:47.466816+00:00",
+      "candidates": []
+    },
+    "uxC1fPE1QEE": {
+      "vid": "uxC1fPE1QEE",
+      "status": "review",
+      "completed_at": "2026-11-05T23:17:31.377623+00:00",
+      "candidates": []
+    },
+    "v3pK0dccQ38": {
+      "vid": "v3pK0dccQ38",
+      "status": "review",
+      "completed_at": "2026-11-05T23:17:40.085720+00:00",
+      "candidates": []
+    },
+    "vJG698U2Mvo": {
+      "vid": "vJG698U2Mvo",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:17:52.487815+00:00",
+      "candidates": [
+        {
+          "bvid": "BV11oEc6ZENv",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【中配】测测你的注意力：你能看到那只隐形的大猩猩吗",
+          "up": "中文配音看世界",
+          "duration": 82,
+          "original_duration": 82,
+          "cid": 38854004519,
+          "aid": 116691409375391,
+          "segment_title": "video_final",
+          "page_count": 1,
+          "kind": "dub_zh",
+          "views": 861,
+          "pic": "https://i2.hdslb.com/bfs/archive/1b32fb6d0cd945a18b09a58d2d269bf9f1597b2d.png",
+          "checked_at": "2026-11-05T23:17:52.070654+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1h4411p77U",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "[LIFE-TIME LEARNING] Invisible Gorilla - selective attention test",
+          "up": "夏目的夹子",
+          "duration": 82,
+          "original_duration": 82,
+          "cid": 94918395,
+          "aid": 54261386,
+          "segment_title": "selective attention test",
+          "page_count": 1,
+          "kind": "original",
+          "views": 2555,
+          "pic": "https://i2.hdslb.com/bfs/archive/30e9a95981a1941b1b949dfd5b2a42f5351bfcf4.jpg",
+          "checked_at": "2026-11-05T23:29:23.404927+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "vNaEBbFbvcY": {
+      "vid": "vNaEBbFbvcY",
+      "status": "review",
+      "completed_at": "2026-11-05T23:18:23.553887+00:00",
+      "candidates": []
+    },
+    "vYLEuQrvND0": {
+      "vid": "vYLEuQrvND0",
+      "status": "review",
+      "completed_at": "2026-11-05T23:18:40.542343+00:00",
+      "candidates": []
+    },
+    "vyenmLqJQjs": {
+      "vid": "vyenmLqJQjs",
+      "status": "review",
+      "completed_at": "2026-11-05T23:18:59.690665+00:00",
+      "candidates": []
+    },
+    "wE5G1kTndI4": {
+      "vid": "wE5G1kTndI4",
+      "status": "review",
+      "completed_at": "2026-11-05T23:19:12.249442+00:00",
+      "candidates": []
+    },
+    "wICOlaQOpM0": {
+      "vid": "wICOlaQOpM0",
+      "status": "review",
+      "completed_at": "2026-11-05T23:19:34.537581+00:00",
+      "candidates": []
+    },
+    "whb4unrhy44": {
+      "vid": "whb4unrhy44",
+      "status": "review",
+      "completed_at": "2026-11-05T23:19:54.911884+00:00",
+      "candidates": []
+    },
+    "wwmOkaKh3-s": {
+      "vid": "wwmOkaKh3-s",
+      "status": "review",
+      "completed_at": "2026-11-05T23:20:17.255055+00:00",
+      "candidates": []
+    },
+    "x1v2tX4_dkQ": {
+      "vid": "x1v2tX4_dkQ",
+      "status": "review",
+      "completed_at": "2026-11-05T23:20:36.148991+00:00",
+      "candidates": []
+    },
+    "x7drE24geUw": {
+      "vid": "x7drE24geUw",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:20:44.554672+00:00",
+      "candidates": [
+        {
+          "bvid": "BV17m4y1X7kk",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description",
+            "exact original YouTube ID explicitly associated with selected segment"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "CRDTs - The Hard Parts",
+          "up": "houzhenhong",
+          "duration": 4210,
+          "original_duration": 4210,
+          "cid": 477273576,
+          "aid": 677902292,
+          "segment_title": "CRDTs - The Hard Parts [x7drE24geUw]",
+          "page_count": 1,
+          "kind": "original",
+          "views": 607,
+          "pic": "https://i1.hdslb.com/bfs/archive/1b408a0c32205f0eb51d3f716a918cd340a1d0e9.jpg",
+          "checked_at": "2026-11-05T23:20:44.109478+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1Ak4y1B7X5",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "CRDTs - The Hard Parts",
+          "up": "弱弱的Erik",
+          "duration": 4210,
+          "original_duration": 4210,
+          "cid": 211864981,
+          "aid": 753776923,
+          "segment_title": "CRDTs - The Hard Parts",
+          "page_count": 1,
+          "kind": "original",
+          "views": 309,
+          "pic": "https://i2.hdslb.com/bfs/archive/83dbc7321dcb458eb7d12004dc76711aacafc4c1.jpg",
+          "checked_at": "2026-11-05T23:29:14.294620+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "xLEe496IS1o": {
+      "vid": "xLEe496IS1o",
+      "status": "review",
+      "completed_at": "2026-11-05T23:21:04.930197+00:00",
+      "candidates": []
+    },
+    "xNjI03CGkb4": {
+      "vid": "xNjI03CGkb4",
+      "status": "review",
+      "completed_at": "2026-11-05T23:21:29.247968+00:00",
+      "candidates": []
+    },
+    "xNzoerDljjo": {
+      "vid": "xNzoerDljjo",
+      "status": "review",
+      "completed_at": "2026-11-05T23:21:39.598659+00:00",
+      "candidates": []
+    },
+    "xi1Lq79mLeE": {
+      "vid": "xi1Lq79mLeE",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:21:49.551041+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1BzZZYyEL3",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "The Mind Behind Windows： Dave Cutler",
+          "up": "fisheuler",
+          "duration": 11428,
+          "original_duration": 11428,
+          "cid": 29232728699,
+          "aid": 114279416075622,
+          "segment_title": "The Mind Behind Windows： Dave Cutler",
+          "page_count": 1,
+          "kind": "original",
+          "views": 70,
+          "pic": "https://i1.hdslb.com/bfs/archive/40f7204c8d1bf66b35a77d3eaa599664bb65f9ab.jpg",
+          "checked_at": "2026-11-05T23:21:49.131639+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "xoxhDk-hwuo": {
+      "vid": "xoxhDk-hwuo",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:21:59.523936+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1xZR1BkEAc",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【熟肉】亮片炸弹1.0大战门廊小偷 - Mark Rober",
+          "up": "英文白斑马",
+          "duration": 481,
+          "original_duration": 491,
+          "cid": 38198709630,
+          "aid": 116540548579968,
+          "segment_title": "【熟肉】亮片炸弹1.0大战门廊小偷 - Mark Rober",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 170,
+          "pic": "https://i2.hdslb.com/bfs/archive/fca80c10f165c28534bcae5c0c85097602168c48.png",
+          "checked_at": "2026-11-05T23:21:59.105303+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1seEe6XEW9",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "【中配】偷快递反被炸翻",
+          "up": "中文配音看世界",
+          "duration": 491,
+          "original_duration": 491,
+          "cid": 39024200596,
+          "aid": 116728839341993,
+          "segment_title": "video_final",
+          "page_count": 1,
+          "kind": "dub_zh",
+          "views": 3,
+          "pic": "https://i2.hdslb.com/bfs/archive/fc74c994c467692fb6095d2ebb0dd781d87bac3f.png",
+          "checked_at": "2026-11-05T23:29:22.098255+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "y-AXTx4PcKI": {
+      "vid": "y-AXTx4PcKI",
+      "status": "review",
+      "completed_at": "2026-11-05T23:22:19.996787+00:00",
+      "candidates": []
+    },
+    "yHXx3orN35Y": {
+      "vid": "yHXx3orN35Y",
+      "status": "review",
+      "completed_at": "2026-11-05T23:22:48.205460+00:00",
+      "candidates": []
+    },
+    "yY1FSsUV-8c": {
+      "vid": "yY1FSsUV-8c",
+      "status": "review",
+      "completed_at": "2026-11-05T23:23:27.238736+00:00",
+      "candidates": []
+    },
+    "ydyztGZnbNs": {
+      "vid": "ydyztGZnbNs",
+      "status": "review",
+      "completed_at": "2026-11-05T23:23:37.570471+00:00",
+      "candidates": []
+    },
+    "ytpRnRke6I0": {
+      "vid": "ytpRnRke6I0",
+      "status": "review",
+      "completed_at": "2026-11-05T23:24:09.601594+00:00",
+      "candidates": []
+    },
+    "zSIDRHUWlVo": {
+      "vid": "zSIDRHUWlVo",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:24:23.441847+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1wmaa6VE4D",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "自然跑步的基本原则｜Mark Cucuzzella 医生讲解跑步姿势",
+          "up": "bili_47854202282",
+          "duration": 506,
+          "original_duration": 506,
+          "cid": 42251846505,
+          "aid": 117343220995134,
+          "segment_title": "自然跑步的基本原则｜Mark Cucuzzella 医生讲解跑步姿势",
+          "page_count": 1,
+          "kind": "original",
+          "views": 115,
+          "pic": "https://i1.hdslb.com/bfs/archive/06a2e551efaf1abfbb219b28534289d8da46b428.jpg",
+          "checked_at": "2026-11-05T23:24:23.032510+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "zZ_nI9E9g0I": {
+      "vid": "zZ_nI9E9g0I",
+      "status": "review",
+      "completed_at": "2026-11-05T23:24:56.283675+00:00",
+      "candidates": []
+    },
+    "zeLToGnjIUM": {
+      "vid": "zeLToGnjIUM",
+      "status": "review",
+      "completed_at": "2026-11-05T23:25:10.500040+00:00",
+      "candidates": []
+    },
+    "zmCTmgavkrQ": {
+      "vid": "zmCTmgavkrQ",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:25:25.499849+00:00",
+      "candidates": [
+        {
+          "bvid": "BV15x4tzWEr3",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "SFIA 费米悖论：黑暗森林法则",
+          "up": "JohnWick2O77",
+          "duration": 1075,
+          "original_duration": 1075,
+          "cid": 33068289187,
+          "aid": 115372200099904,
+          "segment_title": "SFIA 费米悖论：黑暗森林法则",
+          "page_count": 1,
+          "kind": "original",
+          "views": 149,
+          "pic": "https://i2.hdslb.com/bfs/archive/70ce710d7dc51c9bc6333f00b2aeb4d11fdb531d.jpg",
+          "checked_at": "2026-11-05T23:25:25.067598+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "ztspvPYybIY": {
+      "vid": "ztspvPYybIY",
+      "status": "review",
+      "completed_at": "2026-11-05T23:25:41.843459+00:00",
+      "candidates": []
+    },
+    "zz4YVJ4aRfg": {
+      "vid": "zz4YVJ4aRfg",
+      "status": "review",
+      "completed_at": "2026-11-05T23:25:52.903660+00:00",
+      "candidates": []
+    },
+    "-8nqnOcoLqE": {
+      "vid": "-8nqnOcoLqE",
+      "status": "review",
+      "completed_at": "2026-11-05T23:26:32.969676+00:00",
+      "candidates": []
+    },
+    "-EA2FQXs4dw": {
+      "vid": "-EA2FQXs4dw",
+      "status": "review",
+      "completed_at": "2026-11-05T23:26:49.431347+00:00",
+      "candidates": []
+    },
+    "-QWHkcCP3tA": {
+      "vid": "-QWHkcCP3tA",
+      "status": "review",
+      "completed_at": "2026-11-05T23:27:00.129969+00:00",
+      "candidates": []
+    },
+    "-i6wvix6buI": {
+      "vid": "-i6wvix6buI",
+      "status": "review",
+      "completed_at": "2026-11-05T23:27:07.189572+00:00",
+      "candidates": []
+    },
+    "-pKR212H5vQ": {
+      "vid": "-pKR212H5vQ",
+      "status": "review",
+      "completed_at": "2026-11-05T23:27:23.651588+00:00",
+      "candidates": []
+    },
+    "04Wk9Oi_Fsk": {
+      "vid": "04Wk9Oi_Fsk",
+      "status": "review",
+      "completed_at": "2026-11-05T23:27:41.885060+00:00",
+      "candidates": []
+    },
+    "06yy88tLWlg": {
+      "vid": "06yy88tLWlg",
+      "status": "review",
+      "completed_at": "2026-11-05T23:27:51.684774+00:00",
+      "candidates": []
+    },
+    "0ifChJ0nJfM": {
+      "vid": "0ifChJ0nJfM",
+      "status": "review",
+      "completed_at": "2026-11-05T23:28:25.375292+00:00",
+      "candidates": []
+    },
+    "0rCUF-V1esM": {
+      "vid": "0rCUF-V1esM",
+      "status": "review",
+      "completed_at": "2026-11-05T23:28:38.749379+00:00",
+      "candidates": []
+    },
+    "0rSMt1pAlbE": {
+      "vid": "0rSMt1pAlbE",
+      "status": "review",
+      "completed_at": "2026-11-05T23:28:51.164475+00:00",
+      "candidates": []
+    },
+    "AUaJ8pDlxi8": {
+      "vid": "AUaJ8pDlxi8",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:29:12.056631+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1QW411G74H",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1QW411G74H",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Louis Rossmann历数10年来苹果产品的种种愚蠢缺陷",
+          "up": "新超级大猫咪",
+          "duration": 1488,
+          "original_duration": 1488,
+          "cid": 37472029,
+          "aid": 22592138,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "original",
+          "views": 5161,
+          "pic": "https://i0.hdslb.com/bfs/archive/1322786a6c43d7bb0b9e87e37c097ee538990cef.jpg",
+          "checked_at": "2026-11-05T23:29:12.056589+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "Cfe5UQ-1L9Q": {
+      "vid": "Cfe5UQ-1L9Q",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:29:13.476033+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1PH8RzQECB",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1PH8RzQECB",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "[Inigo Quilez] : 直播编程 快乐跳跃 - LIVE Coding  Happy Jumping",
+          "up": "松谷福_Shadow",
+          "duration": 20586,
+          "original_duration": 20586,
+          "cid": 31356357549,
+          "aid": 114935958868066,
+          "segment_title": "[Inigo Quilez] : 直播编程 快乐跳跃 - LIVE Coding  Happy Jumping",
+          "page_count": 1,
+          "kind": "original",
+          "views": 114,
+          "pic": "https://i2.hdslb.com/bfs/archive/4ea2e771ed125babdcd5d20b8ad697d09103b188.jpg",
+          "checked_at": "2026-11-05T23:29:13.475953+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "h4T_LlK1VE4": {
+      "vid": "h4T_LlK1VE4",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:29:18.825558+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1kZ4y1g7MC",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1kZ4y1g7MC",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "硬核恶搞：小偷的礼物——闪粉炸弹包裹3.0",
+          "up": "YouTube精选字幕组",
+          "duration": 1331,
+          "original_duration": 1331,
+          "cid": 268080034,
+          "aid": 373157365,
+          "segment_title": "Mark Rober闪光炸弹3.0(改)",
+          "page_count": 1,
+          "kind": "original",
+          "views": 929521,
+          "pic": "https://i0.hdslb.com/bfs/archive/6fb3e74063321858d4f307bdf83b7827bb2894ad.jpg",
+          "checked_at": "2026-11-05T23:29:18.825498+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1Tz4y1r763",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1Tz4y1r763",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【科技】快递贼vs闪粉弹3.0！@Mark Rober（生肉）",
+          "up": "驴肉墨鱼汤UNOFFICIAL",
+          "duration": 1331,
+          "original_duration": 1331,
+          "cid": 267552746,
+          "aid": 585712134,
+          "segment_title": "Glitterbomb 3.0 vs. Porch Pirates",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1233,
+          "pic": "https://i1.hdslb.com/bfs/archive/934328028c835e2ebdde8d826442e6ef08e95bda.jpg",
+          "checked_at": "2026-11-05T23:29:19.516489+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV17pmjBbEfQ",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV17pmjBbEfQ",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【中配】闪粉炸弹3.0大战快递小偷 - Mark Rober",
+          "up": "AI译片君",
+          "duration": 1331,
+          "original_duration": 1331,
+          "cid": 34685911602,
+          "aid": 115705009738907,
+          "segment_title": "【中配】闪粉炸弹3.0大战快递小偷 - Mark Rober",
+          "page_count": 1,
+          "kind": "dub_zh",
+          "views": 1350,
+          "pic": "https://i1.hdslb.com/bfs/archive/0f0f1fa5d3d750d6d4d604de1b29c36482aa24de.png",
+          "checked_at": "2026-11-05T23:29:20.890856+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "0vJJlVBVTFg": {
+      "vid": "0vJJlVBVTFg",
+      "status": "review",
+      "completed_at": "2026-11-05T23:29:57.971037+00:00",
+      "candidates": []
+    },
+    "0wtvQZijPzg": {
+      "vid": "0wtvQZijPzg",
+      "status": "review",
+      "completed_at": "2026-11-05T23:30:18.801856+00:00",
+      "candidates": []
+    },
+    "14wqBA5Q1yc": {
+      "vid": "14wqBA5Q1yc",
+      "status": "review",
+      "completed_at": "2026-11-05T23:30:46.857853+00:00",
+      "candidates": []
+    },
+    "17jymDn0W6U": {
+      "vid": "17jymDn0W6U",
+      "status": "review",
+      "completed_at": "2026-11-05T23:31:16.373228+00:00",
+      "candidates": []
+    },
+    "1Evwgu369Jw": {
+      "vid": "1Evwgu369Jw",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:31:34.143370+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Ps411R7Ty",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【RSA提神醒脑小视频】什么是同理心--Brené Brown",
+          "up": "零壳芥",
+          "duration": 173,
+          "original_duration": 173,
+          "cid": 5534097,
+          "aid": 3481538,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1700,
+          "pic": "https://i1.hdslb.com/bfs/archive/1f8154864082ccbeda310790ff3159e903ca7eec.jpg",
+          "checked_at": "2026-11-05T23:31:33.711440+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "1Hqm0dYKUx4": {
+      "vid": "1Hqm0dYKUx4",
+      "status": "review",
+      "completed_at": "2026-11-05T23:32:18.699484+00:00",
+      "candidates": []
+    },
+    "1OEu9C51K2A": {
+      "vid": "1OEu9C51K2A",
+      "status": "review",
+      "completed_at": "2026-11-05T23:32:30.667343+00:00",
+      "candidates": []
+    },
+    "1hs451PfFzQ": {
+      "vid": "1hs451PfFzQ",
+      "status": "review",
+      "completed_at": "2026-11-05T23:32:42.989263+00:00",
+      "candidates": []
+    },
+    "1sl5KJ69qiA": {
+      "vid": "1sl5KJ69qiA",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:32:51.665083+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Z7UXBhEco",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【中配】现实版电车难题 - Vsauce",
+          "up": "AI译片君",
+          "duration": 2078,
+          "original_duration": 2078,
+          "cid": 25917005096,
+          "aid": 115611812239082,
+          "segment_title": "【中配】现实版电车难题 - Vsauce",
+          "page_count": 1,
+          "kind": "dub_zh",
+          "views": 145,
+          "pic": "https://i1.hdslb.com/bfs/archive/dc77c39a3384e2f2e951301b87cfcff53eea84f4.png",
+          "checked_at": "2026-11-05T23:32:51.242257+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "21j_OCNLuYg": {
+      "vid": "21j_OCNLuYg",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:33:04.181309+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Jx411v7fr",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Life is easy. Why do we make it so hard- - Jon Jandai - TEDxDoiSuthep",
+          "up": "杀神丸",
+          "duration": 910,
+          "original_duration": 910,
+          "cid": 17572994,
+          "aid": 10646341,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "original",
+          "views": 664,
+          "pic": "https://i0.hdslb.com/bfs/archive/1e062753d765e0ba84896ef8f0d2e0ebd47a334a.jpg",
+          "checked_at": "2026-11-05T23:33:03.744964+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "2A2NY29iQdI": {
+      "vid": "2A2NY29iQdI",
+      "status": "review",
+      "completed_at": "2026-11-05T23:33:25.884048+00:00",
+      "candidates": []
+    },
+    "2AecAXinars": {
+      "vid": "2AecAXinars",
+      "status": "review",
+      "completed_at": "2026-11-05T23:33:38.419548+00:00",
+      "candidates": []
+    },
+    "2AnbYNudAyM": {
+      "vid": "2AnbYNudAyM",
+      "status": "review",
+      "completed_at": "2026-11-05T23:33:53.599090+00:00",
+      "candidates": []
+    },
+    "2JAOTJxYqh8": {
+      "vid": "2JAOTJxYqh8",
+      "status": "review",
+      "completed_at": "2026-11-05T23:34:05.287494+00:00",
+      "candidates": []
+    },
+    "2xcZS7arcgk": {
+      "vid": "2xcZS7arcgk",
+      "status": "review",
+      "completed_at": "2026-11-05T23:34:15.043242+00:00",
+      "candidates": []
+    },
+    "31D94QOo2gY": {
+      "vid": "31D94QOo2gY",
+      "status": "review",
+      "completed_at": "2026-11-05T23:34:34.915101+00:00",
+      "candidates": []
+    },
+    "3DtUzH3zoFo": {
+      "vid": "3DtUzH3zoFo",
+      "status": "review",
+      "completed_at": "2026-11-05T23:34:47.274230+00:00",
+      "candidates": []
+    },
+    "3Gmex_4hreQ": {
+      "vid": "3Gmex_4hreQ",
+      "status": "review",
+      "completed_at": "2026-11-05T23:35:45.625479+00:00",
+      "candidates": []
+    },
+    "3HxVMGaiZbc": {
+      "vid": "3HxVMGaiZbc",
+      "status": "review",
+      "completed_at": "2026-11-05T23:35:58.226811+00:00",
+      "candidates": []
+    },
+    "3Y2weLDiUWw": {
+      "vid": "3Y2weLDiUWw",
+      "status": "review",
+      "completed_at": "2026-11-05T23:36:20.207641+00:00",
+      "candidates": []
+    },
+    "46ehrFk-gLk": {
+      "vid": "46ehrFk-gLk",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:36:28.675991+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1zr4y1Z7RN",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【双语字幕】性别中立代词：单数they【Tom Scott】",
+          "up": "好人你幫幫人民的LA",
+          "duration": 229,
+          "original_duration": 229,
+          "cid": 1232712833,
+          "aid": 744745252,
+          "segment_title": "【双语字幕】性别中立代词：单数they【Tom Scott】",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 1006,
+          "pic": "https://i2.hdslb.com/bfs/archive/656d26fbbe37ddb88031cddc92192ae4f8ab123a.jpg",
+          "checked_at": "2026-11-05T23:36:28.241219+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "4F72VULWFvc": {
+      "vid": "4F72VULWFvc",
+      "status": "review",
+      "completed_at": "2026-11-05T23:36:46.920353+00:00",
+      "candidates": []
+    },
+    "4HgShra-KnY": {
+      "vid": "4HgShra-KnY",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:36:58.101713+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1mi4y1A7ji",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "ASPLOS Keynote - The Golden Age of Compiler Design in an Era of HW_SW Co-design",
+          "up": "Jakcwin",
+          "duration": 3140,
+          "original_duration": 3141,
+          "cid": 329640097,
+          "aid": 545167256,
+          "segment_title": "ASPLOS Keynote - The Golden Age of Compiler Design in an Era of HW_SW Co-design",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1586,
+          "pic": "https://i0.hdslb.com/bfs/archive/83bace49046b8889c2c1e0c70c203e3b6c564c49.jpg",
+          "checked_at": "2026-11-05T23:36:57.658061+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1hD4y1V77j",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "ASPLOS Keynote_ The Golden Age of Compiler Design in an Era of HW_SW Co-design b",
+          "up": "backyess",
+          "duration": 3141,
+          "original_duration": 3141,
+          "cid": 951484478,
+          "aid": 734857537,
+          "segment_title": "ASPLOS Keynote_ The Golden Age of Compiler Design in an Era of HW_SW Co-design b",
+          "page_count": 1,
+          "kind": "original",
+          "views": 82,
+          "pic": "https://i2.hdslb.com/bfs/archive/cc8e9ce1503a27d738c898210922f77c4b45ceb8.jpg",
+          "checked_at": "2026-11-05T23:45:12.050389+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "4t1K66dMhWk": {
+      "vid": "4t1K66dMhWk",
+      "status": "review",
+      "completed_at": "2026-11-05T23:37:09.968641+00:00",
+      "candidates": []
+    },
+    "4xGawJIseNY": {
+      "vid": "4xGawJIseNY",
+      "status": "review",
+      "completed_at": "2026-11-05T23:37:36.019215+00:00",
+      "candidates": []
+    },
+    "5AVO1IyfA9M": {
+      "vid": "5AVO1IyfA9M",
+      "status": "review",
+      "completed_at": "2026-11-05T23:37:53.683956+00:00",
+      "candidates": []
+    },
+    "5Q9x16uIsKA": {
+      "vid": "5Q9x16uIsKA",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:38:03.579659+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1NW411f76M",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "miniKanren - Dan Friedman and William Byrd",
+          "up": "Ibrahim_Ali",
+          "duration": 2777,
+          "original_duration": 2777,
+          "cid": 53648563,
+          "aid": 30731825,
+          "segment_title": "miniKanren - Dan Friedman and William Byrd",
+          "page_count": 1,
+          "kind": "original",
+          "views": 531,
+          "pic": "https://i0.hdslb.com/bfs/archive/fc63f91c1ed672273af803725885f39f579a182e.jpg",
+          "checked_at": "2026-11-05T23:38:03.154035+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "5SJm2ep3X_M": {
+      "vid": "5SJm2ep3X_M",
+      "status": "review",
+      "completed_at": "2026-11-05T23:38:23.888851+00:00",
+      "candidates": []
+    },
+    "5cWck_xcH64": {
+      "vid": "5cWck_xcH64",
+      "status": "review",
+      "completed_at": "2026-11-05T23:38:39.793950+00:00",
+      "candidates": []
+    },
+    "5jdEG_ACXLw": {
+      "vid": "5jdEG_ACXLw",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:38:48.438730+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1vN411E73M",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【纪录片】拆船厂",
+          "up": "Z1-Style",
+          "duration": 4372,
+          "original_duration": 4372,
+          "cid": 1286942001,
+          "aid": 491626165,
+          "segment_title": "【纪录片】拆船厂",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1659,
+          "pic": "https://i0.hdslb.com/bfs/archive/93b932afb32f22a273321d6e1547c13c59df7ae0.jpg",
+          "checked_at": "2026-11-05T23:38:48.001364+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "5kj5ApnhPAE": {
+      "vid": "5kj5ApnhPAE",
+      "status": "review",
+      "completed_at": "2026-11-05T23:39:01.153455+00:00",
+      "candidates": []
+    },
+    "6c_LeIXrzAk": {
+      "vid": "6c_LeIXrzAk",
+      "status": "review",
+      "completed_at": "2026-11-05T23:39:19.332309+00:00",
+      "candidates": []
+    },
+    "6p8zAbFKpW0": {
+      "vid": "6p8zAbFKpW0",
+      "status": "review",
+      "completed_at": "2026-11-05T23:39:33.528130+00:00",
+      "candidates": []
+    },
+    "7Q25-S7jzgs": {
+      "vid": "7Q25-S7jzgs",
+      "status": "review",
+      "completed_at": "2026-11-05T23:40:01.079445+00:00",
+      "candidates": []
+    },
+    "7R4xhwy-1oI": {
+      "vid": "7R4xhwy-1oI",
+      "status": "review",
+      "completed_at": "2026-11-05T23:40:12.222260+00:00",
+      "candidates": []
+    },
+    "7ZGCPap7GkY": {
+      "vid": "7ZGCPap7GkY",
+      "status": "review",
+      "completed_at": "2026-11-05T23:40:20.893911+00:00",
+      "candidates": []
+    },
+    "7ZVWIELHQQY": {
+      "vid": "7ZVWIELHQQY",
+      "status": "review",
+      "completed_at": "2026-11-05T23:40:41.345167+00:00",
+      "candidates": []
+    },
+    "7kVeCqQCxlk": {
+      "vid": "7kVeCqQCxlk",
+      "status": "review",
+      "completed_at": "2026-11-05T23:40:57.888146+00:00",
+      "candidates": []
+    },
+    "7tsXtk7psUc": {
+      "vid": "7tsXtk7psUc",
+      "status": "review",
+      "completed_at": "2026-11-05T23:41:24.816845+00:00",
+      "candidates": []
+    },
+    "7vsCAM17O-M": {
+      "vid": "7vsCAM17O-M",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:41:33.452539+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1E5ZYBNEFj",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【熟肉】学校体系已崩坏 只有AI可拯救 - CGP Grey",
+          "up": "英文白斑马",
+          "duration": 338,
+          "original_duration": 344,
+          "cid": 36154377522,
+          "aid": 116095600034331,
+          "segment_title": "【熟肉】学校体系已崩坏 只有AI可拯救 - CGP Grey",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 49,
+          "pic": "https://i0.hdslb.com/bfs/archive/5cf3516c16be532e5be161d046d7e2866c9610ed.png",
+          "checked_at": "2026-11-05T23:41:32.995100+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "7wC42HgLA4k": {
+      "vid": "7wC42HgLA4k",
+      "status": "review",
+      "completed_at": "2026-11-05T23:41:51.393468+00:00",
+      "candidates": []
+    },
+    "8455KEDitpU": {
+      "vid": "8455KEDitpU",
+      "status": "review",
+      "completed_at": "2026-11-05T23:42:01.310275+00:00",
+      "candidates": []
+    },
+    "8AHCfZTRGiI": {
+      "vid": "8AHCfZTRGiI",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:42:12.598067+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Q54y1Q7r2",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description",
+            "exact original YouTube ID explicitly associated with selected segment"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Johnny Cash - Hurt (Official Music Video) 4K 高清重制版",
+          "up": "SteinAdler金雕",
+          "duration": 229,
+          "original_duration": 229,
+          "cid": 184837763,
+          "aid": 840473742,
+          "segment_title": "Johnny Cash - Hurt (Official Music Video)-8AHCfZTRGiI",
+          "page_count": 1,
+          "kind": "original",
+          "views": 454454,
+          "pic": "https://i0.hdslb.com/bfs/archive/42d78d1b715349dedd67b4c8c27d58ac504c3f44.jpg",
+          "checked_at": "2026-11-05T23:42:12.162956+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "8FpigqfcvlM": {
+      "vid": "8FpigqfcvlM",
+      "status": "review",
+      "completed_at": "2026-11-05T23:42:26.426894+00:00",
+      "candidates": []
+    },
+    "8YUWDrLazCg": {
+      "vid": "8YUWDrLazCg",
+      "status": "review",
+      "completed_at": "2026-11-05T23:42:41.630869+00:00",
+      "candidates": []
+    },
+    "8ptH79R53c0": {
+      "vid": "8ptH79R53c0",
+      "status": "review",
+      "completed_at": "2026-11-05T23:43:10.091862+00:00",
+      "candidates": []
+    },
+    "8vWaawiUteM": {
+      "vid": "8vWaawiUteM",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:43:18.474459+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1b64y1M7np",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "神奇小子 george hotz 乔治-霍茨 | 编程 | 我们做的是冠状病毒科学，又名hacking nature #居家隔离 系列 篇 | COVID-19",
+          "up": "维他命水1123",
+          "duration": 13798,
+          "original_duration": 13800,
+          "cid": 182049707,
+          "aid": 582994501,
+          "segment_title": "George Hotz _ Programming _ we do coronavirus science aka hacking nature #lockdo",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1728,
+          "pic": "https://i1.hdslb.com/bfs/archive/2917401da5df2afb372379edd511b72c6d85da58.jpg",
+          "checked_at": "2026-11-05T23:43:18.033727+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "94swlF55tVc": {
+      "vid": "94swlF55tVc",
+      "status": "review",
+      "completed_at": "2026-11-05T23:43:51.958999+00:00",
+      "candidates": []
+    },
+    "96dWOEa4Djs": {
+      "vid": "96dWOEa4Djs",
+      "status": "review",
+      "completed_at": "2026-11-05T23:44:20.227903+00:00",
+      "candidates": []
+    },
+    "9F-WngVMJBQ": {
+      "vid": "9F-WngVMJBQ",
+      "status": "review",
+      "completed_at": "2026-11-05T23:44:43.204504+00:00",
+      "candidates": []
+    },
+    "ALaTm6VzTBw": {
+      "vid": "ALaTm6VzTBw",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:45:05.841457+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Pb4y1S7Fc",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1Pb4y1S7Fc",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【CGP Grey】如果把周三变成周末怎么样？",
+          "up": "自闭哥8420",
+          "duration": 165,
+          "original_duration": 165,
+          "cid": 391001778,
+          "aid": 632398314,
+          "segment_title": "weekend-wednesday",
+          "page_count": 1,
+          "kind": "original",
+          "views": 955,
+          "pic": "https://i0.hdslb.com/bfs/archive/d54edd526ff974b3f461616fb6de4eaf4374f73f.jpg",
+          "checked_at": "2026-11-05T23:45:05.841407+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "egEraZP9yXQ": {
+      "vid": "egEraZP9yXQ",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:45:08.628772+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1gE411j7bC",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1gE411j7bC",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【YouTube搬运】【Vsauce】How Many Holes Does a Human Have？（人身上有多少个洞）",
+          "up": "多喝热水的小林",
+          "duration": 1287,
+          "original_duration": 1287,
+          "cid": 163268155,
+          "aid": 95632465,
+          "segment_title": "How Many Holes Does a Human Have",
+          "page_count": 1,
+          "kind": "original",
+          "views": 331,
+          "pic": "https://i1.hdslb.com/bfs/archive/abfbc2119074a30190f72e3baa3b5196b6909cf6.jpg",
+          "checked_at": "2026-11-05T23:45:08.628706+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "CBrj4S24074": {
+      "vid": "CBrj4S24074",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:45:11.364004+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1gq4y1U7xN",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1gq4y1U7xN",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Chris Crawford巨龙演讲：我有一个梦想 | 中英双字 | 策 | CGDC1993",
+          "up": "唤嗒",
+          "duration": 2784,
+          "original_duration": 2784,
+          "cid": 399341481,
+          "aid": 590150868,
+          "segment_title": "Chris_Crawford_Dragon_Speech___I_Had_a_Dream__-20210829233052",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 9272,
+          "pic": "https://i2.hdslb.com/bfs/archive/a0f78d89f60b405b242ff6d09621bfb550605585.jpg",
+          "checked_at": "2026-11-05T23:45:11.363954+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "9QWaZp_2I1k": {
+      "vid": "9QWaZp_2I1k",
+      "status": "review",
+      "completed_at": "2026-11-05T23:45:48.889457+00:00",
+      "candidates": []
+    },
+    "9RUHJhskW00": {
+      "vid": "9RUHJhskW00",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:45:57.603923+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1pJ411M76U",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "分子马达蛋白Ron Vale-Molecular Motor Proteins",
+          "up": "锁塘柳烟池",
+          "duration": 2126,
+          "original_duration": 2126,
+          "cid": 119103376,
+          "aid": 68722774,
+          "segment_title": "分子马达蛋白Ron Vale-Molecular Motor Proteins",
+          "page_count": 1,
+          "kind": "original",
+          "views": 2532,
+          "pic": "https://i1.hdslb.com/bfs/archive/1541713c5b52ed473773ed38f14db28512babec6.jpg",
+          "checked_at": "2026-11-05T23:45:57.145062+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1524y1s7WC",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "Ron Vale (Ucsf, Hhmi) 1 Molecular Motor Proteins",
+          "up": "FLOWHUB",
+          "duration": 2126,
+          "original_duration": 2126,
+          "cid": 1006141449,
+          "aid": 694340755,
+          "segment_title": "Ron Vale (Ucsf, Hhmi) 1 Molecular Motor Proteins",
+          "page_count": 1,
+          "kind": "original",
+          "views": 302,
+          "pic": "https://i0.hdslb.com/bfs/archive/1504131f15b01fedb6eecc5caad977550081a431.jpg",
+          "checked_at": "2026-11-06T00:00:09.059345+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1RRb5eYEJB",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "Ron Vale (UCSF, HHMI) 1： Molecular Motor Proteins",
+          "up": "伍毅一",
+          "duration": 2126,
+          "original_duration": 2126,
+          "cid": 500001614774441,
+          "aid": 112782770965676,
+          "segment_title": "Ron Vale (UCSF, HHMI) 1： Molecular Motor Proteins",
+          "page_count": 1,
+          "kind": "original",
+          "views": 34,
+          "pic": "https://i1.hdslb.com/bfs/archive/f134ecf6270f9f545b05213bb72815c9264a55fc.jpg",
+          "checked_at": "2026-11-06T00:00:19.419288+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "9syvZr-9xwk": {
+      "vid": "9syvZr-9xwk",
+      "status": "review",
+      "completed_at": "2026-11-05T23:46:17.934591+00:00",
+      "candidates": []
+    },
+    "A0VYsiMtrNE": {
+      "vid": "A0VYsiMtrNE",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:46:30.482234+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1gwua6eEiP",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【搬运】電磁祭囃子 in NEO TOKYO 🏮",
+          "up": "日羲宓虫饣并干",
+          "duration": 59,
+          "original_duration": 59,
+          "cid": 40793408162,
+          "aid": 117073191635481,
+          "segment_title": "【搬运】電磁祭囃子 in NEO TOKYO 🏮",
+          "page_count": 1,
+          "kind": "original",
+          "views": 17,
+          "pic": "https://i0.hdslb.com/bfs/archive/6727fcaa356d8206686d7c3dc299f0c99e5b090f.jpg",
+          "checked_at": "2026-11-05T23:46:30.025827+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "ACkmg3Y64_s": {
+      "vid": "ACkmg3Y64_s",
+      "status": "review",
+      "completed_at": "2026-11-05T23:47:13.053282+00:00",
+      "candidates": []
+    },
+    "AIcfMMVcYZg": {
+      "vid": "AIcfMMVcYZg",
+      "status": "review",
+      "completed_at": "2026-11-05T23:47:43.955734+00:00",
+      "candidates": []
+    },
+    "ASXJgvy3mEg": {
+      "vid": "ASXJgvy3mEg",
+      "status": "review",
+      "completed_at": "2026-11-05T23:48:04.363977+00:00",
+      "candidates": []
+    },
+    "AZZNvT1vaJg": {
+      "vid": "AZZNvT1vaJg",
+      "status": "review",
+      "completed_at": "2026-11-05T23:48:27.147895+00:00",
+      "candidates": []
+    },
+    "AdKNCBrkZQ4": {
+      "vid": "AdKNCBrkZQ4",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:48:35.749987+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Va4y1j7Wz",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "低延时卫星网络的路由-星链计划",
+          "up": "肥罗爱足球",
+          "duration": 475,
+          "original_duration": 475,
+          "cid": 235293643,
+          "aid": 669607899,
+          "segment_title": "Low+Latency+Routing+in+Space",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1425,
+          "pic": "https://i0.hdslb.com/bfs/archive/ccf98c1e836a1ba4d8b4e119b648599c58cff197.jpg",
+          "checked_at": "2026-11-05T23:48:35.296496+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "AdKUJxjn-R8": {
+      "vid": "AdKUJxjn-R8",
+      "status": "review",
+      "completed_at": "2026-11-05T23:49:00.519010+00:00",
+      "candidates": []
+    },
+    "Ag1AKIl_2GM": {
+      "vid": "Ag1AKIl_2GM",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:49:09.211023+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1FW411n7U7",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Free software, free society: Richard Stallman at TEDxGeneva 2014",
+          "up": "红辣椒在做梦",
+          "duration": 819,
+          "original_duration": 820,
+          "cid": 31470629,
+          "aid": 19298204,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1044,
+          "pic": "https://i2.hdslb.com/bfs/archive/c1ef5c23194911017633ca7f70bce58eaf366158.jpg",
+          "checked_at": "2026-11-05T23:49:08.769642+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV15f4y1M7f4",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "Free software, free society, Richard Stallman at TEDx Geneva 2014",
+          "up": "这个昵称价值24枚硬币",
+          "duration": 820,
+          "original_duration": 820,
+          "cid": 445936975,
+          "aid": 379277047,
+          "segment_title": "y2mate.com - Free software free society Richard Stallman at TEDxGeneva 2014_1080",
+          "page_count": 1,
+          "kind": "original",
+          "views": 268,
+          "pic": "https://i0.hdslb.com/bfs/archive/fa345d030b8f3a67e162c16aa48914083b71fdf3.jpg",
+          "checked_at": "2026-11-06T00:00:24.925111+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "AnaASTBn_K4": {
+      "vid": "AnaASTBn_K4",
+      "status": "review",
+      "completed_at": "2026-11-05T23:49:23.183849+00:00",
+      "candidates": []
+    },
+    "Ao9iOeK_jvU": {
+      "vid": "Ao9iOeK_jvU",
+      "status": "review",
+      "completed_at": "2026-11-05T23:49:43.529480+00:00",
+      "candidates": []
+    },
+    "AwX9G38vdCE": {
+      "vid": "AwX9G38vdCE",
+      "status": "review",
+      "completed_at": "2026-11-05T23:49:56.101922+00:00",
+      "candidates": []
+    },
+    "AxJubaijQbI": {
+      "vid": "AxJubaijQbI",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:50:04.761908+00:00",
+      "candidates": [
+        {
+          "bvid": "BV191Q7BKE5x",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【熟肉】最好（和最差）的洗牌方式——Persi Diaconis",
+          "up": "超高校级の拉瓦嘻",
+          "duration": 562,
+          "original_duration": 562,
+          "cid": 37528210066,
+          "aid": 116408478336062,
+          "segment_title": "【熟肉】最好（和最差）的洗牌方式——Numberphile",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 467,
+          "pic": "https://i2.hdslb.com/bfs/archive/eb3cd4913778dd59ebe0c270a7b43911117786e1.jpg",
+          "checked_at": "2026-11-05T23:50:04.326244+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "AyORieDhpkg": {
+      "vid": "AyORieDhpkg",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:50:13.304505+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1pw411W7s7",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【荷兰DarkJazz/新爵士/阴暗氛围/Downtempo】The Kilimanjaro Darkjazz Ensemble-Here Be Dragons",
+          "up": "rezenico",
+          "duration": 3321,
+          "original_duration": 3321,
+          "cid": 1332653146,
+          "aid": 323379082,
+          "segment_title": "【荷兰DarkJazz/新爵士/阴暗氛围/Downtempo】The Kilimanjaro Darkjazz Ensemble-Here Be Dragons",
+          "page_count": 1,
+          "kind": "original",
+          "views": 381,
+          "pic": "https://i1.hdslb.com/bfs/archive/68f2de8342af1dc33962ee24f5a80accb22f082e.jpg",
+          "checked_at": "2026-11-05T23:50:12.853177+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "BCiZc0n6COY": {
+      "vid": "BCiZc0n6COY",
+      "status": "review",
+      "completed_at": "2026-11-05T23:50:36.551701+00:00",
+      "candidates": []
+    },
+    "BKP1I7IocYU": {
+      "vid": "BKP1I7IocYU",
+      "status": "review",
+      "completed_at": "2026-11-05T23:50:46.435023+00:00",
+      "candidates": []
+    },
+    "BTHvs3V8DBA": {
+      "vid": "BTHvs3V8DBA",
+      "status": "review",
+      "completed_at": "2026-11-05T23:50:59.389999+00:00",
+      "candidates": []
+    },
+    "BTlUyS-T-_4": {
+      "vid": "BTlUyS-T-_4",
+      "status": "review",
+      "completed_at": "2026-11-05T23:51:14.777507+00:00",
+      "candidates": []
+    },
+    "BXmOlCy0oBM": {
+      "vid": "BXmOlCy0oBM",
+      "status": "review",
+      "completed_at": "2026-11-05T23:51:36.961984+00:00",
+      "candidates": []
+    },
+    "Bca5_uyH9E4": {
+      "vid": "Bca5_uyH9E4",
+      "status": "review",
+      "completed_at": "2026-11-05T23:51:59.201736+00:00",
+      "candidates": []
+    },
+    "Bd2bbHoVQSM": {
+      "vid": "Bd2bbHoVQSM",
+      "status": "review",
+      "completed_at": "2026-11-05T23:52:13.002686+00:00",
+      "candidates": []
+    },
+    "Bea4FS-zDzc": {
+      "vid": "Bea4FS-zDzc",
+      "status": "review",
+      "completed_at": "2026-11-05T23:52:33.250553+00:00",
+      "candidates": []
+    },
+    "BiKfWdXXfIs": {
+      "vid": "BiKfWdXXfIs",
+      "status": "review",
+      "completed_at": "2026-11-05T23:52:44.513077+00:00",
+      "candidates": []
+    },
+    "BiqDZlAZygU": {
+      "vid": "BiqDZlAZygU",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:52:55.721214+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1wz4y1f7YL",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "In full: Rowan Atkinson on free speech",
+          "up": "AKNLRTC",
+          "duration": 546,
+          "original_duration": 546,
+          "cid": 240635536,
+          "aid": 584787172,
+          "segment_title": "In full: Rowan Atkinson on free speech",
+          "page_count": 1,
+          "kind": "original",
+          "views": 121,
+          "pic": "https://i1.hdslb.com/bfs/archive/e0376c4389c6dc2ffb4b738265b0f1cf744a9d1b.jpg",
+          "checked_at": "2026-11-05T23:52:55.274225+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "BwGsr3SzCZc": {
+      "vid": "BwGsr3SzCZc",
+      "status": "review",
+      "completed_at": "2026-11-05T23:53:25.554244+00:00",
+      "candidates": []
+    },
+    "C27RVio2rOs": {
+      "vid": "C27RVio2rOs",
+      "status": "review",
+      "completed_at": "2026-11-05T23:53:44.894503+00:00",
+      "candidates": []
+    },
+    "C7-8nUU6e3E": {
+      "vid": "C7-8nUU6e3E",
+      "status": "review",
+      "completed_at": "2026-11-05T23:53:53.409101+00:00",
+      "candidates": []
+    },
+    "CM0aohBfUTc": {
+      "vid": "CM0aohBfUTc",
+      "status": "review",
+      "completed_at": "2026-11-05T23:54:18.065792+00:00",
+      "candidates": []
+    },
+    "CUjt36SD3h8": {
+      "vid": "CUjt36SD3h8",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:54:26.681803+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Jb411v7cY",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "光为什么会在水中变慢Why does light slow down in water",
+          "up": "雅达诺",
+          "duration": 625,
+          "original_duration": 624,
+          "cid": 79916669,
+          "aid": 45643469,
+          "segment_title": "Why does light slow down in water",
+          "page_count": 1,
+          "kind": "original",
+          "views": 361,
+          "pic": "https://i2.hdslb.com/bfs/archive/6f8a38300a98002bc1933b200c2655ed5c4067ce.png",
+          "checked_at": "2026-11-05T23:54:26.238389+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1zC4y187Sr",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "【油管转载】为什么光在水中会变慢？Why does light slow down in water?",
+          "up": "无心学习ZZY",
+          "duration": 625,
+          "original_duration": 624,
+          "cid": 206009599,
+          "aid": 796184627,
+          "segment_title": "Why does light slow down in water",
+          "page_count": 1,
+          "kind": "original",
+          "views": 103,
+          "pic": "https://i0.hdslb.com/bfs/archive/9a393204223ee0b60d82a1d6c49a425316d61e01.jpg",
+          "checked_at": "2026-11-06T00:00:10.417628+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "CXv1j3GbgLk": {
+      "vid": "CXv1j3GbgLk",
+      "status": "review",
+      "completed_at": "2026-11-05T23:54:43.585969+00:00",
+      "candidates": []
+    },
+    "CaasbfdJdJg": {
+      "vid": "CaasbfdJdJg",
+      "status": "review",
+      "completed_at": "2026-11-05T23:55:07.895015+00:00",
+      "candidates": []
+    },
+    "CbHjcwIoTiY": {
+      "vid": "CbHjcwIoTiY",
+      "status": "review",
+      "completed_at": "2026-11-05T23:55:18.506268+00:00",
+      "candidates": []
+    },
+    "DYvhC_RdIwQ": {
+      "vid": "DYvhC_RdIwQ",
+      "status": "review",
+      "completed_at": "2026-11-05T23:56:11.569355+00:00",
+      "candidates": []
+    },
+    "DlkMs4ZHHr8": {
+      "vid": "DlkMs4ZHHr8",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:56:20.179217+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1vs411t72R",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Infinite Mario AI - Long Level",
+          "up": "bzhi1977498",
+          "duration": 77,
+          "original_duration": 71,
+          "cid": 10352774,
+          "aid": 6369596,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "original",
+          "views": 114,
+          "pic": "https://i0.hdslb.com/bfs/archive/e5405d68d274d84c6678b5061a339917ed33131c.png",
+          "checked_at": "2026-11-05T23:56:19.705031+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "DwKPFT-RioU": {
+      "vid": "DwKPFT-RioU",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:56:30.111166+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1xDrsBSEKS",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "[Neil Halloran] 二战中的逝者",
+          "up": "Chobblesome",
+          "duration": 1111,
+          "original_duration": 1111,
+          "cid": 35383348773,
+          "aid": 115893300364795,
+          "segment_title": "[Neil Halloran] 二战中的逝者",
+          "page_count": 1,
+          "kind": "original",
+          "views": 14,
+          "pic": "https://i1.hdslb.com/bfs/archive/a8e214137ec185b2196be18aca8206273a9d3369.jpg",
+          "checked_at": "2026-11-05T23:56:29.673378+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "EGqwXt90ZqA": {
+      "vid": "EGqwXt90ZqA",
+      "status": "review",
+      "completed_at": "2026-11-05T23:56:39.414488+00:00",
+      "candidates": []
+    },
+    "EMKLeS-Uq_8": {
+      "vid": "EMKLeS-Uq_8",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:56:49.338660+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Wk1nB5EX7",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【中配】双曲世界：一场非欧几何的奇幻冒险 [旧版预告] - CodeParade",
+          "up": "AI译片君",
+          "duration": 51,
+          "original_duration": 51,
+          "cid": 33709492642,
+          "aid": 115494841554240,
+          "segment_title": "【中配】双曲世界：一场非欧几何的奇幻冒险 [旧版预告] - CodeParade",
+          "page_count": 1,
+          "kind": "dub_zh",
+          "views": 2800,
+          "pic": "https://i0.hdslb.com/bfs/archive/11f37036cdba28b27a0964e2db88c28d292f9e81.png",
+          "checked_at": "2026-11-05T23:56:48.896479+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "ESXOAJRdcwQ": {
+      "vid": "ESXOAJRdcwQ",
+      "status": "review",
+      "completed_at": "2026-11-05T23:57:15.629590+00:00",
+      "candidates": []
+    },
+    "F8sZRBdmqc0": {
+      "vid": "F8sZRBdmqc0",
+      "status": "review",
+      "completed_at": "2026-11-05T23:57:24.532178+00:00",
+      "candidates": []
+    },
+    "FKTxC9pl-WM": {
+      "vid": "FKTxC9pl-WM",
+      "status": "review",
+      "completed_at": "2026-11-05T23:57:35.675602+00:00",
+      "candidates": []
+    },
+    "FjA0EQPeUGM": {
+      "vid": "FjA0EQPeUGM",
+      "status": "review",
+      "completed_at": "2026-11-05T23:57:52.566777+00:00",
+      "candidates": []
+    },
+    "FxKtZmQgxrI": {
+      "vid": "FxKtZmQgxrI",
+      "status": "review",
+      "completed_at": "2026-11-05T23:58:20.672188+00:00",
+      "candidates": []
+    },
+    "G1m0aX9Lpts": {
+      "vid": "G1m0aX9Lpts",
+      "status": "confirmed",
+      "completed_at": "2026-11-05T23:58:29.249197+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1yE411B7Xc",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Sam Aaron 使用 Sonic Pi 现场编程演奏电子音乐",
+          "up": "Crabbed",
+          "duration": 1322,
+          "original_duration": 1321,
+          "cid": 127783914,
+          "aid": 74702936,
+          "segment_title": "sam_aaron_live_coding_an_ambient_electro_set_w_sonic_pi_G1m0aX9Lpts_480p-muxed",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1425,
+          "pic": "https://i0.hdslb.com/bfs/archive/8488a6451ef71fb04e52d07ee82e65fbee0fb495.jpg",
+          "checked_at": "2026-11-05T23:58:28.802129+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "GC-0tCy4P1U": {
+      "vid": "GC-0tCy4P1U",
+      "status": "review",
+      "completed_at": "2026-11-05T23:58:36.699680+00:00",
+      "candidates": []
+    },
+    "Gh-Tff7DdzU": {
+      "vid": "Gh-Tff7DdzU",
+      "status": "review",
+      "completed_at": "2026-11-05T23:58:50.460425+00:00",
+      "candidates": []
+    },
+    "GjENnyQupow": {
+      "vid": "GjENnyQupow",
+      "status": "review",
+      "completed_at": "2026-11-05T23:59:10.885786+00:00",
+      "candidates": []
+    },
+    "GsyhGHUEt-k": {
+      "vid": "GsyhGHUEt-k",
+      "status": "review",
+      "completed_at": "2026-11-05T23:59:24.418023+00:00",
+      "candidates": []
+    },
+    "Gxd23UVID7k": {
+      "vid": "Gxd23UVID7k",
+      "status": "review",
+      "completed_at": "2026-11-05T23:59:48.622139+00:00",
+      "candidates": []
+    },
+    "D7Kn5p7TP_Y": {
+      "vid": "D7Kn5p7TP_Y",
+      "status": "review",
+      "completed_at": "2026-11-06T00:00:12.521786+00:00",
+      "candidates": []
+    },
+    "yY9GAyJtuJ0": {
+      "vid": "yY9GAyJtuJ0",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T00:00:15.848052+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1vszkBCEb1",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1vszkBCEb1",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【中配】球面几何比双曲几何更怪异：Hyperbolica开发日志02 - CodeParade",
+          "up": "黑纹白斑马",
+          "duration": 229,
+          "original_duration": 241,
+          "cid": 35586900380,
+          "aid": 115949906693927,
+          "segment_title": "【中配】球面几何比双曲几何更怪异：Hyperbolica开发日志02 - CodeParade",
+          "page_count": 1,
+          "kind": "dub_zh",
+          "views": 3959,
+          "pic": "https://i0.hdslb.com/bfs/archive/8246a500f370398bc35f64ade4fbd827f9bfb541.png",
+          "checked_at": "2026-11-06T00:00:15.848005+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "BxV14h0kFs0": {
+      "vid": "BxV14h0kFs0",
+      "status": "review",
+      "completed_at": "2026-11-06T00:00:18.637472+00:00",
+      "candidates": []
+    },
+    "IJEaMtNN_dM": {
+      "vid": "IJEaMtNN_dM",
+      "status": "review",
+      "completed_at": "2026-11-06T00:00:22.886466+00:00",
+      "candidates": []
+    },
+    "H62hZJVqs2o": {
+      "vid": "H62hZJVqs2o",
+      "status": "review",
+      "completed_at": "2026-11-06T00:00:53.729419+00:00",
+      "candidates": []
+    },
+    "HBluLfX2F_k": {
+      "vid": "HBluLfX2F_k",
+      "status": "review",
+      "completed_at": "2026-11-06T00:01:00.944279+00:00",
+      "candidates": []
+    },
+    "HNkLcD3PKyk": {
+      "vid": "HNkLcD3PKyk",
+      "status": "review",
+      "completed_at": "2026-11-06T00:01:18.836214+00:00",
+      "candidates": []
+    },
+    "HQKy1KJpSVc": {
+      "vid": "HQKy1KJpSVc",
       "status": "review",
       "completed_at": null,
       "candidates": []

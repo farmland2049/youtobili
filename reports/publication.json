@@ -1,28 +1,13 @@
 {
-  "built_at": "2026-11-05T22:53:00.121988+00:00",
+  "built_at": "2026-11-06T00:02:18.264952+00:00",
   "source_generated": "2026-10-31",
   "stats": {
     "corpus": 6454,
-    "processed": 2061,
-    "confirmed": 702,
-    "coverage": 0.10876975519057949,
-    "processed_match_rate": 0.3406113537117904
+    "processed": 2225,
+    "confirmed": 741,
+    "coverage": 0.1148125193678339,
+    "processed_match_rate": 0.33303370786516856
   },
   "conflicting_segments": 0,
-  "data_sha256": "41036fe3065752c3a1a9075513c80259f2e58d14845243dec75921574fe5a33d",
-  "pages": {
-    "published_data_commit": "a0fde3ff14fad6e2c71cf56d165a195f48ebcf1e",
-    "pages_run_id": 42126186452,
-    "pages_run_url": "https://github.com/qinqiang316/youtobili/actions/runs/42126186452",
-    "pages_status": "completed",
-    "pages_conclusion": "success",
-    "verified_live_hashes": {
-      "index.html": "1bbfda0c5ca29a1ee3b942bf7f9a9608a9d44b19a76f1489240cb13f5e133cbb",
-      "data.json": "41036fe3065752c3a1a9075513c80259f2e58d14845243dec75921574fe5a33d",
-      "app.js": "aa6dba3b2d15884cc5e213e8a188e9a81346382be2d2fa3dc97b3a17c6074bb2",
-      "style.css": "52e06c8cf98061458dc90bce256e57c4fc7d2601937324dcdc23a243af699013"
-    },
-    "live_video_count": 702,
-    "live_data_sha256": "41036fe3065752c3a1a9075513c80259f2e58d14845243dec75921574fe5a33d"
-  }
+  "data_sha256": "be88eddf51572b70f1d9c942945f46a7ebed07e083a85ed1cb713d76628016c0"
 }
