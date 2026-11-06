@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-11-06T18:32:53.361Z",
+  "checks": [
+    {
+      "sample": "ODSJsviD_SU",
+      "kind": "original",
+      "id": "ODSJsviD_SU",
+      "bvid": "BV1vN4y1P7QE",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.171133,
+        "duration": 12181,
+        "paused": false
+      },
+      "expected_duration": 12181,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "848875869"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【完整回放】特斯拉 2022 AI DAY\n无际星尘_Dophin\n关注\n26\n1\n分享\n更多\n0:00:05 / 3:23:01\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

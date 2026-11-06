@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T18:15:50.878637+00:00",
+  "updated_at": "2026-11-06T18:27:14.221853+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -1659,6 +1659,30 @@
           "checked_at": "2026-11-04T23:03:55.412793+00:00",
           "availability": "available",
           "aid": 115648084644103
+        },
+        {
+          "bvid": "BV1vN4y1P7QE",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1vN4y1P7QE",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【完整回放】特斯拉 2022 AI DAY",
+          "up": "无际星尘_Dophin",
+          "duration": 12181,
+          "original_duration": 12180,
+          "cid": 848875869,
+          "aid": 901036965,
+          "segment_title": "1664610757650.mp4",
+          "page_count": 1,
+          "kind": "original",
+          "views": 3650,
+          "pic": "https://i2.hdslb.com/bfs/archive/8ee486fff12fe5f611f51254b9dd9354bab96490.jpg",
+          "checked_at": "2026-11-06T18:18:08.602725+00:00",
+          "availability": "available"
         }
       ]
     },
@@ -56764,6 +56788,90 @@
     },
     "IFe9wiDfb0E": {
       "vid": "IFe9wiDfb0E",
+      "status": "review",
+      "completed_at": null,
+      "candidates": []
+    },
+    "II2QF9JwtLc": {
+      "vid": "II2QF9JwtLc",
+      "status": "review",
+      "completed_at": "2026-11-06T18:19:08.717535+00:00",
+      "candidates": []
+    },
+    "IJ-a2KeyCAY": {
+      "vid": "IJ-a2KeyCAY",
+      "status": "review",
+      "completed_at": "2026-11-06T18:19:42.736022+00:00",
+      "candidates": []
+    },
+    "IJNR2EpS0jw": {
+      "vid": "IJNR2EpS0jw",
+      "status": "review",
+      "completed_at": "2026-11-06T18:20:33.445619+00:00",
+      "candidates": []
+    },
+    "IKqXu-5jw60": {
+      "vid": "IKqXu-5jw60",
+      "status": "review",
+      "completed_at": "2026-11-06T18:20:46.181345+00:00",
+      "candidates": []
+    },
+    "ILQepXUhJ98": {
+      "vid": "ILQepXUhJ98",
+      "status": "review",
+      "completed_at": "2026-11-06T18:21:18.600430+00:00",
+      "candidates": []
+    },
+    "IRn4xzaugbk": {
+      "vid": "IRn4xzaugbk",
+      "status": "review",
+      "completed_at": "2026-11-06T18:22:00.903066+00:00",
+      "candidates": []
+    },
+    "IUK6zjtUj00": {
+      "vid": "IUK6zjtUj00",
+      "status": "review",
+      "completed_at": "2026-11-06T18:23:27.407617+00:00",
+      "candidates": []
+    },
+    "Iuv6hY6zsd0": {
+      "vid": "Iuv6hY6zsd0",
+      "status": "review",
+      "completed_at": "2026-11-06T18:24:04.790042+00:00",
+      "candidates": []
+    },
+    "JBEtPQDQNcI": {
+      "vid": "JBEtPQDQNcI",
+      "status": "review",
+      "completed_at": "2026-11-06T18:24:43.529694+00:00",
+      "candidates": []
+    },
+    "JDaicPIgn9U": {
+      "vid": "JDaicPIgn9U",
+      "status": "review",
+      "completed_at": "2026-11-06T18:25:03.710430+00:00",
+      "candidates": []
+    },
+    "JMP6gI5mLHc": {
+      "vid": "JMP6gI5mLHc",
+      "status": "review",
+      "completed_at": "2026-11-06T18:25:33.672403+00:00",
+      "candidates": []
+    },
+    "JQuHSQXxsjM": {
+      "vid": "JQuHSQXxsjM",
+      "status": "review",
+      "completed_at": "2026-11-06T18:25:57.189363+00:00",
+      "candidates": []
+    },
+    "JRcXUuQYR90": {
+      "vid": "JRcXUuQYR90",
+      "status": "review",
+      "completed_at": "2026-11-06T18:26:10.962278+00:00",
+      "candidates": []
+    },
+    "JZ017D_JOPY": {
+      "vid": "JZ017D_JOPY",
       "status": "review",
       "completed_at": null,
       "candidates": []
