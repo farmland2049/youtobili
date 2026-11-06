@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-11-06T16:29:39.878Z",
+  "checks": [
+    {
+      "sample": "7d9juPsv1QU",
+      "kind": "original",
+      "id": "7d9juPsv1QU",
+      "bvid": "BV1ds411L7jE",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.935511,
+        "duration": 231,
+        "paused": false
+      },
+      "expected_duration": 232,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "43613817"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "2013 Sci-Tech Awards: Matt Pharr, Greg Humphreys and Pat Hanrahan\netyjsdrg\n关注\n4\n0\n分享\n更多\n00:04 / 03:51\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "Nb2tebYAaOA",
+      "kind": "original",
+      "id": "Nb2tebYAaOA",
+      "bvid": "BV1kb4y1i7bM",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.944343,
+        "duration": 5684,
+        "paused": false
+      },
+      "expected_duration": 5684,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "455167865"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Jim Keller- Moore's Law, Microprocessors, and First Principles | Lex Fridman Pod\n搬运大仙\n关注\n2\n0\n分享\n更多\n0:00:04 / 1:34:44\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "N9qYF9DZPdw",
+      "kind": "original",
+      "id": "N9qYF9DZPdw",
+      "bvid": "BV1bh41117j6",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.948884,
+        "duration": 171,
+        "paused": false
+      },
+      "expected_duration": 171,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "289159812"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Weird Al Yankovic - White & Nerdy (Official Music Video)\n问天不会狙\n关注\n12\n0\n分享\n更多\n00:04 / 02:51\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

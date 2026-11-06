@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T16:13:28.107658+00:00",
+  "built_at": "2026-11-06T16:28:16.413775+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 3941,
-    "confirmed": 961,
-    "coverage": 0.14889990703439726,
-    "processed_match_rate": 0.24384673940624207
+    "processed": 3962,
+    "confirmed": 963,
+    "coverage": 0.14920979237682058,
+    "processed_match_rate": 0.24305906108026248
   },
   "areas": [
     {
@@ -4582,6 +4582,18 @@
         "semiconductors-manufacturing"
       ],
       "versions": [
+        {
+          "bvid": "BV1kb4y1i7bM",
+          "page": 1,
+          "cid": 455167865,
+          "title": "Jim Keller- Moore's Law, Microprocessors, and First Principles | Lex Fridman Pod",
+          "up": "搬运大仙",
+          "duration": 5684,
+          "kind": "original",
+          "views": 149,
+          "pic": "https://i0.hdslb.com/bfs/archive/1ba876fe6f264c72b952045fb987c5166f5c82c1.jpg",
+          "checked_at": "2026-11-06T16:27:51.359223+00:00"
+        },
         {
           "bvid": "BV1AATC61EWz",
           "page": 1,
@@ -34989,6 +35001,39 @@
       ]
     },
     {
+      "id": "7d9juPsv1QU",
+      "title": "2013 Sci-Tech Awards: Matt Pharr, Greg Humphreys and Pat Hanrahan",
+      "author": "Oscars",
+      "source_url": "https://www.youtube.com/watch?v=7d9juPsv1QU",
+      "summary": "The Academy's 2014 Sci-Tech Awards segment honoring Matt Pharr, Greg Humphreys and Pat Hanrahan for their physically based rendering work and book. The authors give a short acceptance speech that thanks Donald Knuth for literate programming.",
+      "why": "HN points to it as proof that the Physically Based Rendering book won an Oscar and for the speech crediting Knuth's literate programming.",
+      "score": 1.0,
+      "tags": [
+        "pbrt",
+        "literate programming",
+        "oscars",
+        "donald knuth",
+        "computer graphics"
+      ],
+      "categories": [
+        "computer-graphics-rendering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ds411L7jE",
+          "page": 1,
+          "cid": 43613817,
+          "title": "2013 Sci-Tech Awards: Matt Pharr, Greg Humphreys and Pat Hanrahan",
+          "up": "etyjsdrg",
+          "duration": 232,
+          "kind": "original",
+          "views": 142,
+          "pic": "https://i0.hdslb.com/bfs/archive/3b0e331228ac0d9972172cf1dead021b9812698b.jpg",
+          "checked_at": "2026-11-06T16:17:09.538535+00:00"
+        }
+      ]
+    },
+    {
       "id": "8dT6CR9_6l4",
       "title": "How AlphaZero Completely CRUSHED Stockfish",
       "author": "GothamChess",
@@ -37260,6 +37305,39 @@
       ]
     },
     {
+      "id": "N9qYF9DZPdw",
+      "title": "\"Weird Al\" Yankovic - White & Nerdy (Official 4K Video)",
+      "author": "alyankovicVEVO",
+      "source_url": "https://www.youtube.com/watch?v=N9qYF9DZPdw",
+      "summary": "Weird Al Yankovic's official music video for White & Nerdy, a parody of Chamillionaire's Ridin' about being a nerd.",
+      "why": "Mostly invoked as a joke when nerd stereotypes come up, and once for a trivia card visible in the video.",
+      "score": 0.0,
+      "tags": [
+        "weird al",
+        "nerd culture",
+        "parody",
+        "music video"
+      ],
+      "categories": [
+        "music-performance",
+        "satire-parody"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1bh41117j6",
+          "page": 1,
+          "cid": 289159812,
+          "title": "Weird Al Yankovic - White & Nerdy (Official Music Video)",
+          "up": "问天不会狙",
+          "duration": 171,
+          "kind": "original",
+          "views": 194,
+          "pic": "https://i2.hdslb.com/bfs/archive/d9c346cd60e72d6845d647be8e3f9d24adff46e5.jpg",
+          "checked_at": "2026-11-06T16:27:53.505010+00:00"
+        }
+      ]
+    },
+    {
       "id": "PF7EpEnglgk",
       "title": "KIDS REACT TO OLD COMPUTERS",
       "author": "REACT",
@@ -38104,6 +38182,7 @@
     "BV1Ku411t7GL": "BzhbAK1pdPM",
     "BV1nk4y1273w": "IOiZatlZtGU",
     "BV1WN4y1B7jL": "IOiZatlZtGU",
+    "BV1kb4y1i7bM": "Nb2tebYAaOA",
     "BV1AATC61EWz": "Nb2tebYAaOA",
     "BV13t411R7Fy": "QM1iUe6IofM",
     "BV1t94y1V7dS": "QM1iUe6IofM",
@@ -39158,6 +39237,7 @@
     "BV1DxWAzvEj6": "6n2eDcRjSsk",
     "BV1XT4y1L7Pk": "7TqqdOcX4dc",
     "BV18v7p6bETX": "7aXbh9VUB3U",
+    "BV1ds411L7jE": "7d9juPsv1QU",
     "BV1ue4y1o7JK": "8dT6CR9_6l4",
     "BV1Pb4y1S7Fc": "ALaTm6VzTBw",
     "BV1gq4y1U7xN": "CBrj4S24074",
@@ -39228,6 +39308,7 @@
     "BV1kT4y177EA": "L1UgdoP2aeg",
     "BV16s4y1S7To": "L_Guz73e6fw",
     "BV1ct411N7eR": "Lp7E973zozc",
+    "BV1bh41117j6": "N9qYF9DZPdw",
     "BV15t411w7rX": "PF7EpEnglgk",
     "BV1SjxYehEhC": "PdFB7q89_3U",
     "BV1bcxg6CEGA": "RXeOiIDNNek",
