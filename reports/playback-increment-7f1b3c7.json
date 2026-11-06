@@ -1,0 +1,89 @@
+{
+  "checked_at": "2026-11-06T19:06:44.680Z",
+  "checks": [
+    {
+      "sample": "_sBBaNYex3E",
+      "kind": "original",
+      "id": "_sBBaNYex3E",
+      "bvid": "BV1WJ411u71d",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.16942,
+        "duration": 39,
+        "paused": false
+      },
+      "expected_duration": 39,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "119455276"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Boston Dynamics波士顿动力公司Atlas机器人倒立、跑酷、翻跟头！\n飞翔的大玉米\n关注\n40\n5\n分享\n更多\n00:05 / 00:39\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "KZeIEiBrT_w",
+      "kind": "original",
+      "id": "KZeIEiBrT_w",
+      "bvid": "BV1V3hgzyEEf",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.940214,
+        "duration": 1952,
+        "paused": false
+      },
+      "expected_duration": 1952,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "31454332612"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【YouTube搬运】预测（几乎）任何事情的奇怪数学 The Strange Math That Predicts (Almost) Anything\n小溪_YouTube搬运笔记本\n关注\n3\n0\n分享\n更多\n00:04 / 32:32\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "LikxFZZO2sk",
+      "kind": "original",
+      "id": "LikxFZZO2sk",
+      "bvid": "BV1Nb411F7L3",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.225509,
+        "duration": 30,
+        "paused": false
+      },
+      "expected_duration": 30,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "58980553"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Parkour Atlas\n攀山涉水\n关注\n2\n1\n分享\n更多\n00:05 / 00:30\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "MQufJBVvAtY",
+      "kind": "original",
+      "id": "MQufJBVvAtY",
+      "bvid": "BV19P4y187xk",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.938206,
+        "duration": 2944,
+        "paused": false
+      },
+      "expected_duration": 2944,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "425773379"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Polyend Tracker 评测+全功能教程\nBaiCaiX\n关注\n13\n2\n分享\n更多\n00:04 / 49:04\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

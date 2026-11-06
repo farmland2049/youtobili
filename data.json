@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T18:27:14.200151+00:00",
+  "built_at": "2026-11-06T19:05:54.992226+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 4121,
-    "confirmed": 974,
-    "coverage": 0.15091416176014874,
-    "processed_match_rate": 0.23635040038825528
+    "processed": 4171,
+    "confirmed": 977,
+    "coverage": 0.1513789897737837,
+    "processed_match_rate": 0.2342363941500839
   },
   "areas": [
     {
@@ -35674,6 +35674,40 @@
       ]
     },
     {
+      "id": "KZeIEiBrT_w",
+      "title": "The Strange Math That Predicts (Almost) Anything",
+      "author": "Veritasium",
+      "source_url": "https://www.youtube.com/watch?v=KZeIEiBrT_w",
+      "summary": "A Veritasium video on how a feud between Russian mathematicians led to Markov chains and the modern prediction algorithms built on them. It covers the history and the math behind them.",
+      "why": "HN recommends it as an excellent, detailed history of Markov chains, often in threads on Markov models and language models.",
+      "score": 1.0,
+      "tags": [
+        "markov chains",
+        "probability",
+        "history of mathematics",
+        "prediction",
+        "veritasium"
+      ],
+      "categories": [
+        "probability-game-theory",
+        "recreational-math"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1V3hgzyEEf",
+          "page": 1,
+          "cid": 31454332612,
+          "title": "【YouTube搬运】预测（几乎）任何事情的奇怪数学 The Strange Math That Predicts (Almost) Anything",
+          "up": "小溪_YouTube搬运笔记本",
+          "duration": 1952,
+          "kind": "original",
+          "views": 58,
+          "pic": "https://i0.hdslb.com/bfs/archive/4e0825bff40e53cb2186687ea3f65c1daf68ecac.jpg",
+          "checked_at": "2026-11-06T18:45:49.898614+00:00"
+        }
+      ]
+    },
+    {
       "id": "LCEmiRjPEtQ",
       "title": "Andrej Karpathy: Software Is Changing (Again)",
       "author": "Y Combinator",
@@ -35705,6 +35739,73 @@
           "views": 86,
           "pic": "https://i2.hdslb.com/bfs/archive/627716297a4a897b64b8b6d5b58225c01d585f3e.jpg",
           "checked_at": "2026-11-04T23:03:55.372919+00:00"
+        }
+      ]
+    },
+    {
+      "id": "LikxFZZO2sk",
+      "title": "Parkour Atlas",
+      "author": "Boston Dynamics",
+      "source_url": "https://www.youtube.com/watch?v=LikxFZZO2sk",
+      "summary": "A short Boston Dynamics clip of the Atlas humanoid robot doing parkour, jumping over a log and leaping up steps using whole-body control and computer vision to locate markers.",
+      "why": "HN cites it as a striking demonstration of how far humanoid robot agility had come.",
+      "score": 1.0,
+      "tags": [
+        "boston dynamics",
+        "atlas",
+        "parkour",
+        "legged robots",
+        "whole-body control"
+      ],
+      "categories": [
+        "robotics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Nb411F7L3",
+          "page": 1,
+          "cid": 58980553,
+          "title": "Parkour Atlas",
+          "up": "攀山涉水",
+          "duration": 30,
+          "kind": "original",
+          "views": 213,
+          "pic": "https://i1.hdslb.com/bfs/archive/579f6fb5901d35593438c47d0c83148b0cb298b2.png",
+          "checked_at": "2026-11-06T18:59:24.823370+00:00"
+        }
+      ]
+    },
+    {
+      "id": "MQufJBVvAtY",
+      "title": "Polyend Tracker // Review and Full Tutorial from Sample to Song",
+      "author": "loopop",
+      "source_url": "https://www.youtube.com/watch?v=MQufJBVvAtY",
+      "summary": "Loopop reviews the Polyend Tracker hardware tracker-style sequencer and walks through a tutorial from sampling to finishing a song. It covers most of the device's features.",
+      "why": "HN mentions it as a good high-level tutorial when threads on tracker music and the Amiga scene come up.",
+      "score": 1.0,
+      "tags": [
+        "polyend tracker",
+        "tracker music",
+        "sampling",
+        "hardware sequencer",
+        "music production"
+      ],
+      "categories": [
+        "music-theory-production",
+        "demoscene-retrocomputing"
+      ],
+      "versions": [
+        {
+          "bvid": "BV19P4y187xk",
+          "page": 1,
+          "cid": 425773379,
+          "title": "Polyend Tracker 评测+全功能教程",
+          "up": "BaiCaiX",
+          "duration": 2944,
+          "kind": "original",
+          "views": 1184,
+          "pic": "https://i2.hdslb.com/bfs/archive/67989c180803616bf7048407f43f2769aee90854.jpg",
+          "checked_at": "2026-11-06T19:01:59.772413+00:00"
         }
       ]
     },
@@ -37999,6 +38100,18 @@
           "views": 3790,
           "pic": "https://i1.hdslb.com/bfs/archive/858d1ee579e7a1dbfbfe5144669888782c2f8ded.jpg",
           "checked_at": "2026-11-05T14:25:34.444690+00:00"
+        },
+        {
+          "bvid": "BV1VJ411u7Hk",
+          "page": 1,
+          "cid": 119386563,
+          "title": "【Boston Dynamics】More Parkour Atlas 波士顿动力双足机器人 Atlas 跑酷体操",
+          "up": "菠萝小子",
+          "duration": 39,
+          "kind": "original",
+          "views": 2331,
+          "pic": "https://i2.hdslb.com/bfs/archive/1dd22f54387ab07cefa717802f83df091e5556da.jpg",
+          "checked_at": "2026-11-06T19:04:53.531878+00:00"
         }
       ]
     },
@@ -39649,7 +39762,10 @@
     "BV1as411D7SX": "HkZDSqyE1do",
     "BV1vryLB1E5H": "IJEaMtNN_dM",
     "BV1wS411P75S": "JOiGEI9pQBs",
+    "BV1V3hgzyEEf": "KZeIEiBrT_w",
     "BV1J6dvBME8Y": "LCEmiRjPEtQ",
+    "BV1Nb411F7L3": "LikxFZZO2sk",
+    "BV19P4y187xk": "MQufJBVvAtY",
     "BV1Jv411A79R": "NiTsduRreug",
     "BV1Z54y1v753": "O9upVbGSBFo",
     "BV1ME15BiEAo": "RcVA8Nj6HEo",
@@ -39720,6 +39836,7 @@
     "BV1Vq4y1H7Ro": "YIWV5fSaUB8",
     "BV1hv41117Th": "_K-L9uhsBLM",
     "BV1WJ411u71d": "_sBBaNYex3E",
+    "BV1VJ411u7Hk": "_sBBaNYex3E",
     "BV1Mb4y1U7Zz": "dk3oc1Hr62g",
     "BV1Ko4y1Z7ee": "fn3KWM1kuAw",
     "BV1kh411o7eS": "iGLzWdT7vGc",
