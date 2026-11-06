@@ -193,7 +193,7 @@ def assess(original, detail, page, duration):
     oa,ba=episode(original['title']),episode(segment_title if len(pages)>1 else title)
     if oa and ba and oa != ba: flags.append('conflicting episode')
     if re.search(r'删减|片段|节选|精华|cut\s*version|highlights',title+' '+segment_title,re.I): flags.append('possibly abridged')
-    if re.search(r'AI\s*生成.{0,16}(?:衍生|二次创作)|AI\s*(?:翻唱|cover)|(?:翻唱|二创|remix)', title+' '+segment_title, re.I) or re.search(r'(?:本音频|本视频|本作品).{0,12}AI\s*生成.{0,16}(?:衍生|二次创作)', desc, re.I):
+    if re.search(r'AI\s*生成.{0,16}(?:衍生|二次创作)|AI\s*(?:翻唱|cover)|(?:翻唱|二创|remix)|MV\s*复刻', title+' '+segment_title, re.I) or re.search(r'(?:本音频|本视频|本作品).{0,12}AI\s*生成.{0,16}(?:衍生|二次创作)', desc, re.I):
         flags.append('derivative content requires review')
     if not duration: flags.append('original duration unavailable')
     elif abs(actual-duration)>max(60,0.08*duration): flags.append('duration outside tolerance')
@@ -240,6 +240,11 @@ def evaluate(client, original, c):
         if c.get('cid')==fresh.get('cid') and fresh.get('cid') and fresh.get('page_count')==1:
             fresh['status']='unmatched';fresh['reason']='manual content mismatch; availability rechecked'
             fresh['evidence']=[c['manual_rejection']['evidence']]
+    if c.get('manual_review_hold') and c.get('status')=='review':
+        # An automatic source-ID recheck cannot resolve a recorded content concern.
+        fresh['status']='review'
+        fresh['reason']=c['manual_review_hold']['reason']
+        fresh['flags']=list(dict.fromkeys(fresh['flags']+['manual content review required']))
     return fresh
 
 def entry_status(candidates):

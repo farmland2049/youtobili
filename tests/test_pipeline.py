@@ -59,7 +59,7 @@ class MatchingTests(unittest.TestCase):
   self.assertEqual(fresh['status'],'review')
   self.assertIn('derivative content requires review',fresh['flags'])
  def test_cover_and_remix_require_content_review(self):
-  for suffix in [' AI翻唱',' remix',' 二创']:
+  for suffix in [' AI翻唱',' remix',' 二创',' MV复刻/节奏医生']:
    with self.subTest(suffix=suffix):
     self.d['title']='Neural networks chapter 1 2024'+suffix
     self.assertIn('derivative content requires review',self.result()['flags'])
@@ -75,6 +75,19 @@ class MatchingTests(unittest.TestCase):
   self.d['title']='【中配】Neural networks chapter 1 2024'
   self.d['desc']+='\n本视频使用 AI 生成中文配音，完整翻译原片。'
   self.assertEqual(self.result()['status'],'confirmed')
+ def test_manual_content_hold_survives_automatic_recheck(self):
+  self.d['owner']={'name':'Uploader'}
+  d=self.d
+  class Cached:
+   def get(self,url):return {'data':d} if 'bilibili.com' in url else {'duration_s':450}
+  c={'bvid':'BV1234567890','page':1,'cid':123,'status':'review','manual_review_hold':{'reason':'Uploader declares visual redactions'}}
+  for cid in [123,456]:
+   self.d['pages'][0]['cid']=cid
+   fresh=p.evaluate(Cached(),self.o,c)
+   self.assertEqual(fresh['status'],'review')
+   self.assertEqual(fresh['reason'],c['manual_review_hold']['reason'])
+  c.update(status='confirmed',cid=456,manual_review={'evidence':'Explicit content review resolves the redactions'})
+  self.assertEqual(p.evaluate(Cached(),self.o,c)['status'],'confirmed')
  def test_wrong_duration(self):
   self.d['pages'][0]['duration']=700;self.assertIn('duration outside tolerance',self.result()['flags'])
  def test_collection_uses_segment_not_total_duration(self):

@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T08:47:07.151151+00:00",
+  "built_at": "2026-11-06T09:11:42.433839+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 3393,
-    "confirmed": 915,
-    "coverage": 0.1417725441586613,
-    "processed_match_rate": 0.2696728558797524
+    "processed": 3444,
+    "confirmed": 923,
+    "coverage": 0.1430120855283545,
+    "processed_match_rate": 0.2680023228803717
   },
   "areas": [
     {
@@ -2461,6 +2461,18 @@
         "indie-game-development"
       ],
       "versions": [
+        {
+          "bvid": "BV1j3411R7Bm",
+          "page": 1,
+          "cid": 980109480,
+          "title": "The art of screenshake at INDIGO Classes 2013",
+          "up": "samurai54",
+          "duration": 2650,
+          "kind": "original",
+          "views": 592,
+          "pic": "https://i0.hdslb.com/bfs/archive/7c944c17bd5268017eb3344482cc4f36644a42c7.jpg",
+          "checked_at": "2026-11-06T09:08:19.111970+00:00"
+        },
         {
           "bvid": "BV1rAAMe9E7f",
           "page": 1,
@@ -9135,6 +9147,40 @@
           "views": 38875,
           "pic": "https://i1.hdslb.com/bfs/archive/29d6a2dcc3bf8aa4eb84256ae3171635d7159281.jpg",
           "checked_at": "2026-11-04T23:03:58.992415+00:00"
+        }
+      ]
+    },
+    {
+      "id": "p6K4iIMlouI",
+      "title": "7 Habits For Effective Text Editing 2.0",
+      "author": "GoogleTalksArchive",
+      "source_url": "https://www.youtube.com/watch?v=p6K4iIMlouI",
+      "summary": "Vim creator Bram Moolenaar's 2007 Google Tech Talk on habits for efficient text editing. He explains how to spot repetition and inefficiency, then use editor features to fix it.",
+      "why": "HN recommends it as a lasting philosophy for improving your editing process incrementally, and it was widely remembered after Moolenaar's death.",
+      "score": 7.0,
+      "tags": [
+        "vim",
+        "bram moolenaar",
+        "editor habits",
+        "productivity",
+        "automation"
+      ],
+      "categories": [
+        "testing-debugging-tools",
+        "productivity-self-improvement"
+      ],
+      "versions": [
+        {
+          "bvid": "BV13U4y1j75T",
+          "page": 1,
+          "cid": 349906160,
+          "title": "7 Habits for Effective Text Editing 2.0",
+          "up": "Iammyself001",
+          "duration": 4830,
+          "kind": "original",
+          "views": 157,
+          "pic": "https://i1.hdslb.com/bfs/archive/fdf94746f60448d6232fdb48cea3ce9460741d91.jpg",
+          "checked_at": "2026-11-06T09:08:09.961461+00:00"
         }
       ]
     },
@@ -32024,6 +32070,122 @@
           "views": 24443,
           "pic": "https://i1.hdslb.com/bfs/archive/7b2d568a4cbda210e80d63dfb04ab039b4a77367.jpg",
           "checked_at": "2026-11-06T08:45:55.037255+00:00"
+        },
+        {
+          "bvid": "BV1mW411t7i6",
+          "page": 1,
+          "cid": 28792433,
+          "title": "Experiment! How Does An Owl Fly So Silently - Super Powered Owls - BBC",
+          "up": "-老九-",
+          "duration": 253,
+          "kind": "original",
+          "views": 2715,
+          "pic": "https://i1.hdslb.com/bfs/archive/2fbfd6acd21e64f80b1b93213b16456bbded472c.jpg",
+          "checked_at": "2026-11-06T08:51:36.182001+00:00"
+        }
+      ]
+    },
+    {
+      "id": "esUb7Zy5Oio",
+      "title": "Tesla Model 3's motor - The Brilliant Engineering behind it",
+      "author": "Sabin Civil Engineering",
+      "source_url": "https://www.youtube.com/watch?v=esUb7Zy5Oio",
+      "summary": "An engineering explainer on why Tesla abandoned the induction motor for the Model 3 and used an IPM-SynRM design. It covers the reluctance torque and permanent magnet principles behind the choice.",
+      "why": "HN recommends it as a clear explanation of the Model 3 motor and reluctance rotor design.",
+      "score": 2.0,
+      "tags": [
+        "tesla model 3",
+        "reluctance motor",
+        "permanent magnet",
+        "ev motors"
+      ],
+      "categories": [
+        "automotive-ev",
+        "mechanical-engineering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1sureBzEsW",
+          "page": 1,
+          "cid": 25944594393,
+          "title": "[中配]解析特斯拉Model 3电动机的创新工程 - Sabin Civil Engineering",
+          "up": "小何带你看世界-",
+          "duration": 728,
+          "kind": "dub_zh",
+          "views": 107,
+          "pic": "https://i1.hdslb.com/bfs/archive/16f9240980155bc5223211bd3995bc69553f03c5.jpg",
+          "checked_at": "2026-11-06T08:57:48.630232+00:00"
+        }
+      ]
+    },
+    {
+      "id": "f8FAJXPBdOg",
+      "title": "The Molecular Shape of You (Ed Sheeran Parody) | A Capella Science",
+      "author": "acapellascience",
+      "source_url": "https://www.youtube.com/watch?v=f8FAJXPBdOg",
+      "summary": "A Capella Science parody of Ed Sheeran's Shape of You, rewritten about molecular bonding and orbitals and sung a cappella.",
+      "why": "HN mentions it as an enjoyable science parody song, one of a set of A Capella Science videos.",
+      "score": 2.0,
+      "tags": [
+        "a cappella",
+        "parody",
+        "chemical bonding",
+        "orbitals",
+        "science music"
+      ],
+      "categories": [
+        "chemistry",
+        "satire-parody",
+        "music-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1yJ411U7qS",
+          "page": 1,
+          "cid": 129857659,
+          "title": "分子组成的shape of you（熟肉）",
+          "up": "石墨堆芯",
+          "duration": 286,
+          "kind": "sub_zh",
+          "views": 2862,
+          "pic": "https://i2.hdslb.com/bfs/archive/cdcee27bcd468735d107e69191196367d995d341.jpg",
+          "checked_at": "2026-11-06T08:59:19.097390+00:00"
+        },
+        {
+          "bvid": "BV1ox411t74X",
+          "page": 1,
+          "cid": 23052700,
+          "title": "【KeyI】【acapellascience】《你的分子形状 The Molecular Shape of You》英文字幕",
+          "up": "可意KeyI",
+          "duration": 285,
+          "kind": "original",
+          "views": 3167,
+          "pic": "https://i0.hdslb.com/bfs/archive/84e68f69485acdd831fe7ef38460c6622e058f7e.jpg",
+          "checked_at": "2026-11-06T09:08:15.626229+00:00"
+        },
+        {
+          "bvid": "BV147411v7u7",
+          "page": 1,
+          "cid": 144093015,
+          "title": "Shape of You风靡全球，但你肯定没听过这个化学知识科普版！",
+          "up": "ChemWhat",
+          "duration": 246,
+          "kind": "original",
+          "views": 2563,
+          "pic": "https://i2.hdslb.com/bfs/archive/0de2d049a98b3590296111f7a92c32020433df69.jpg",
+          "checked_at": "2026-11-06T09:08:18.292181+00:00"
+        },
+        {
+          "bvid": "BV16p411d762",
+          "page": 1,
+          "cid": 39457183,
+          "title": "【搞笑科学】The Molecular Shape of You (Ed Sheeran Parody) _ A Capella Science",
+          "up": "CGOfficial",
+          "duration": 285,
+          "kind": "original",
+          "views": 988,
+          "pic": "https://i0.hdslb.com/bfs/archive/486bf0cb424deb089e83d14a3f0dd699327d63e9.jpg",
+          "checked_at": "2026-11-06T09:08:14.276357+00:00"
         }
       ]
     },
@@ -32059,6 +32221,145 @@
           "views": 1285,
           "pic": "https://i1.hdslb.com/bfs/archive/8c9046061fa5424d373fa68cb4573d08c1f27faa.jpg",
           "checked_at": "2026-11-04T23:03:59.209815+00:00"
+        }
+      ]
+    },
+    {
+      "id": "fHsa9DqmId8",
+      "title": "My Video Went Viral. Here's Why",
+      "author": "Veritasium",
+      "source_url": "https://www.youtube.com/watch?v=fHsa9DqmId8",
+      "summary": "Veritasium's Derek Muller explains his hypothesis that YouTube's algorithm, not viewer preference, drives views, and that click-through rate has become the key metric. He argues this pushes creators toward clickable titles and thumbnails and leads to burnout.",
+      "why": "Cited in threads about recommendation algorithms and clickbait as a creator's inside view of why optimizing for click-through rate shapes content.",
+      "score": 2.0,
+      "tags": [
+        "youtube algorithm",
+        "clickbait",
+        "click-through rate",
+        "creator economy",
+        "veritasium"
+      ],
+      "categories": [
+        "product-growth-marketing",
+        "internet-culture",
+        "ai-data-other"
+      ],
+      "versions": [
+        {
+          "bvid": "BV124411j7Pf",
+          "page": 1,
+          "cid": 92966662,
+          "title": "【英字】My Video Went Viral. Here's Why【Veritasium真理元素】",
+          "up": "Veritasium真理元素",
+          "duration": 1423,
+          "kind": "original",
+          "views": 1435,
+          "pic": "https://i2.hdslb.com/bfs/archive/2a80ab1bfc56483f407a328f3b7ac414494d62a9.jpg",
+          "checked_at": "2026-11-06T08:59:51.445921+00:00"
+        }
+      ]
+    },
+    {
+      "id": "fzBRYsiyxjI",
+      "title": "The Material Science of Metal 3D Printing",
+      "author": "Real Engineering",
+      "source_url": "https://www.youtube.com/watch?v=fzBRYsiyxjI",
+      "summary": "Real Engineering explains the materials science behind metal 3D printing, including crystal structure, laser sintering, and why printed parts develop fatigue cracks. It shows how process imperfections limit the strength of printed metal.",
+      "why": "Commenters point to it whenever 3D-printed metal parts come up, as a clear explanation of why they have poor fatigue life and material defects.",
+      "score": 2.0,
+      "tags": [
+        "3d printing",
+        "metallurgy",
+        "fatigue",
+        "laser sintering",
+        "materials science"
+      ],
+      "categories": [
+        "materials-science",
+        "3d-printing-cnc",
+        "manufacturing-industry"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1t54y1B71Y",
+          "page": 1,
+          "cid": 198691636,
+          "title": "The Material Science of Metal 3D Printing",
+          "up": "Mrlxhh",
+          "duration": 900,
+          "kind": "original",
+          "views": 520,
+          "pic": "https://i0.hdslb.com/bfs/archive/5d2cfddc4918c08969d0ee7dae570d502b68347a.jpg",
+          "checked_at": "2026-11-06T09:03:23.793893+00:00"
+        }
+      ]
+    },
+    {
+      "id": "goSEyGNfiPM",
+      "title": "Updated BP Texas City Animation on the 15th Anniversary of the Explosion",
+      "author": "USCSB",
+      "source_url": "https://www.youtube.com/watch?v=goSEyGNfiPM",
+      "summary": "The US Chemical Safety Board's updated animation of the 2005 BP Texas City refinery explosion, which killed 15 workers. It was released ahead of a process safety training application.",
+      "why": "HN recommends the CSB's accident reconstruction animations as clear, worthwhile case studies of industrial disasters.",
+      "score": 2.0,
+      "tags": [
+        "bp texas city",
+        "process safety",
+        "csb",
+        "refinery explosion",
+        "accident animation"
+      ],
+      "categories": [
+        "manufacturing-industry",
+        "chemistry",
+        "law-policing-justice"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1y54y1p7Rd",
+          "page": 1,
+          "cid": 291055656,
+          "title": "【CSB】BP德克萨斯炼油厂爆炸事故",
+          "up": "安全员小王",
+          "duration": 665,
+          "kind": "original",
+          "views": 8030,
+          "pic": "https://i0.hdslb.com/bfs/archive/469a390b42c2b499c1f70b878c2e1e4d579fd774.jpg",
+          "checked_at": "2026-11-06T09:05:50.943349+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hBpetDxIEMU",
+      "title": "The Stuff of Thought | Steven Pinker | Talks at Google",
+      "author": "Talks at Google",
+      "source_url": "https://www.youtube.com/watch?v=hBpetDxIEMU",
+      "summary": "Steven Pinker presents his book The Stuff of Thought at Google in 2007. He covers language as a window into human nature, including taboo words, swearing and the psychology and game theory of indirect speech like bribery.",
+      "why": "HN commenters cite it for Pinker's analysis of profanity and of why talking about taboo words differs from using them.",
+      "score": 2.0,
+      "tags": [
+        "steven pinker",
+        "profanity",
+        "psycholinguistics",
+        "taboo words",
+        "indirect speech"
+      ],
+      "categories": [
+        "language-linguistics",
+        "psychology-behavior"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1wE411q7KV",
+          "page": 1,
+          "cid": 128113429,
+          "title": "Steven Pinker: \"The Stuff of Thought\" | Talks at Google",
+          "up": "柠檬露露-雅思IELTS",
+          "duration": 4505,
+          "kind": "original",
+          "views": 341,
+          "pic": "https://i1.hdslb.com/bfs/archive/4224aa987343cf175fa44d3710bc783ff9f2a242.jpg",
+          "checked_at": "2026-11-06T09:07:38.284994+00:00"
         }
       ]
     },
@@ -32311,6 +32612,39 @@
           "views": 2943,
           "pic": "https://i2.hdslb.com/bfs/archive/15aa04078178c8563f42affd70a83694fcb838db.jpg",
           "checked_at": "2026-11-04T23:03:59.471232+00:00"
+        }
+      ]
+    },
+    {
+      "id": "o25I2fzFGoY",
+      "title": "George Carlin on soft language",
+      "author": "Rob Logan",
+      "source_url": "https://www.youtube.com/watch?v=o25I2fzFGoY",
+      "summary": "A clip from George Carlin's 1990 special 'Doin' It Again' in which he describes how American English has been sterilized with euphemisms, using examples such as shell shock becoming PTSD.",
+      "why": "HN reaches for this clip whenever a thread involves euphemism or corporate and sanitized phrasing.",
+      "score": 2.0,
+      "tags": [
+        "george carlin",
+        "soft language",
+        "euphemism",
+        "stand-up"
+      ],
+      "categories": [
+        "standup-sketch-comedy",
+        "language-linguistics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1si4y1K7At",
+          "page": 1,
+          "cid": 311230905,
+          "title": "George Carlin on soft language",
+          "up": "ReasonableDoubt",
+          "duration": 566,
+          "kind": "original",
+          "views": 374,
+          "pic": "https://i2.hdslb.com/bfs/archive/b656eed20db00820a1c5fc1bafc571b79ffedbfb.jpg",
+          "checked_at": "2026-11-06T09:08:13.155290+00:00"
         }
       ]
     },
@@ -33137,6 +33471,18 @@
           "views": 33535,
           "pic": "https://i2.hdslb.com/bfs/archive/106b72a4e6611fc396e4c2317e68d708cd6d55fb.jpg",
           "checked_at": "2026-11-06T01:25:57.699500+00:00"
+        },
+        {
+          "bvid": "BV1jR4y1f74B",
+          "page": 1,
+          "cid": 894508544,
+          "title": "【原画中字】埃隆·马斯克Elon Musk - 特斯拉、SpaceX、太阳能、生活、大麻 | Joe Rogan访谈录 #1169 2018/09/07",
+          "up": "铁马实验室",
+          "duration": 9423,
+          "kind": "sub_zh",
+          "views": 13292,
+          "pic": "https://i0.hdslb.com/bfs/archive/f978c6f5e04f799abc13f4106811440d16fe8099.jpg",
+          "checked_at": "2026-11-06T08:51:35.116545+00:00"
         },
         {
           "bvid": "BV1wb411b7KZ",
@@ -34260,6 +34606,18 @@
           "views": 38966,
           "pic": "https://i0.hdslb.com/bfs/archive/0f67fabc05e599bc3d8a8743f9422dc7232c15b3.jpg",
           "checked_at": "2026-11-06T06:43:43.684322+00:00"
+        },
+        {
+          "bvid": "BV1ZW411Y79M",
+          "page": 1,
+          "cid": 30426380,
+          "title": "The man who arranges the blocks",
+          "up": "NL____",
+          "duration": 408,
+          "kind": "original",
+          "views": 4154,
+          "pic": "https://i2.hdslb.com/bfs/archive/c2668d64ae83a9fe27d8b128081becefe8d75c01.jpg",
+          "checked_at": "2026-11-06T09:08:10.946816+00:00"
         }
       ]
     },
@@ -36260,6 +36618,7 @@
     "BV19Y4y1i798": "4Q7FTjhvZ7Y",
     "BV1uhuY6eEqt": "8pTEmbeENF4",
     "BV15k4y1r7x5": "8pTEmbeENF4",
+    "BV1j3411R7Bm": "AJdEqssNZ-U",
     "BV1rAAMe9E7f": "AJdEqssNZ-U",
     "BV1aK4y1Y7VN": "FACK2knC08E",
     "BV1ky4y1k7bw": "FACK2knC08E",
@@ -36521,6 +36880,7 @@
     "BV1QJ411D7an": "hVimVzgtD6w",
     "BV1kymiYvEkK": "id1WShzzMCQ",
     "BV1h7421o7u3": "oAHbLRjF0vo",
+    "BV13U4y1j75T": "p6K4iIMlouI",
     "BV1Ss411z7gH": "qI_g07C_Q5I",
     "BV1eM411J7A7": "qI_g07C_Q5I",
     "BV1qWbb6nEgF": "qI_g07C_Q5I",
@@ -37300,7 +37660,17 @@
     "BV18osBe1E8G": "dX9CGRZwD-w",
     "BV1CgMWzGEYM": "dX9CGRZwD-w",
     "BV1Z7411k7Vb": "d_FEaFgJyfA",
+    "BV1mW411t7i6": "d_FEaFgJyfA",
+    "BV1sureBzEsW": "esUb7Zy5Oio",
+    "BV1yJ411U7qS": "f8FAJXPBdOg",
+    "BV1ox411t74X": "f8FAJXPBdOg",
+    "BV147411v7u7": "f8FAJXPBdOg",
+    "BV16p411d762": "f8FAJXPBdOg",
     "BV179TC6rEA3": "fCbAafKLqC8",
+    "BV124411j7Pf": "fHsa9DqmId8",
+    "BV1t54y1B71Y": "fzBRYsiyxjI",
+    "BV1y54y1p7Rd": "goSEyGNfiPM",
+    "BV1wE411q7KV": "hBpetDxIEMU",
     "BV1Ao4y187GD": "hhiLw5Q_UFg",
     "BV1KW4y1e7YS": "iSmkqocn0oQ",
     "BV1z24y1T7G3": "jfOUVYQnuhw",
@@ -37309,6 +37679,7 @@
     "BV1ab411S7tg": "leFuF-zoVzA",
     "BV1TT4y1k7Yn": "macM_MtS_w4",
     "BV1XJ411D7nE": "nq_SpRBXRmE",
+    "BV1si4y1K7At": "o25I2fzFGoY",
     "BV1PecqeuEKC": "p3lsYlod5OU",
     "BV1Gv411q7ck": "qWFScmtiC44",
     "BV14T4y1u7TM": "rG_Eh0J_4_s",
@@ -37335,6 +37706,7 @@
     "BV17vTg6yEvo": "l4w6808wJcU",
     "BV1azSkBhEAB": "mfv0V1SxbNA",
     "BV1yM4y1F7MT": "ycPr5-27vSI",
+    "BV1jR4y1f74B": "ycPr5-27vSI",
     "BV1wb411b7KZ": "ycPr5-27vSI",
     "BV1St41147HX": "ycPr5-27vSI",
     "BV12Y4y1z7xs": "ycPr5-27vSI",
@@ -37372,6 +37744,7 @@
     "BV1Tz4y1r763": "h4T_LlK1VE4",
     "BV1feMt6wEvk": "hBMoPUAeLnY",
     "BV1jW411q7xd": "hWTFG3J1CP8",
+    "BV1ZW411Y79M": "hWTFG3J1CP8",
     "BV1bU79zcEZ7": "ipRvjS7q1DI",
     "BV1tChwzSEXq": "iv-5mZ_9CPY",
     "BV1iqUKBwEKd": "iv-5mZ_9CPY",
