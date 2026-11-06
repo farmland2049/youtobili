@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T19:41:02.671101+00:00",
+  "built_at": "2026-11-06T19:58:32.439751+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 4221,
-    "confirmed": 979,
-    "coverage": 0.15168887511620702,
-    "processed_match_rate": 0.23193556029376924
+    "processed": 4239,
+    "confirmed": 982,
+    "coverage": 0.15215370312984197,
+    "processed_match_rate": 0.23165841000235904
   },
   "areas": [
     {
@@ -35995,6 +35995,109 @@
       ]
     },
     {
+      "id": "Pp9Yax8UNoM",
+      "title": "Space Shuttle Thermal Tile Demonstration",
+      "author": "Roscket Tasartir",
+      "source_url": "https://www.youtube.com/watch?v=Pp9Yax8UNoM",
+      "summary": "A two-minute clip recorded on a Kennedy Space Center tour showing a Space Shuttle thermal tile that can be held by hand while its surface is extremely hot. It demonstrates the tile's remarkable insulating properties.",
+      "why": "Cited as a striking, counterintuitive example of extreme thermal insulation and hard materials science.",
+      "score": 1.0,
+      "tags": [
+        "space shuttle",
+        "thermal tiles",
+        "insulation",
+        "materials science",
+        "nasa"
+      ],
+      "categories": [
+        "materials-science",
+        "space-exploration",
+        "everyday-physics-demos"
+      ],
+      "versions": [
+        {
+          "bvid": "BV14P4y1D7ba",
+          "page": 1,
+          "cid": 922233228,
+          "title": "Space Shuttle Thermal Tile Demonstration 航天飞机隔热瓦",
+          "up": "无量光生物科技",
+          "duration": 91,
+          "kind": "original",
+          "views": 70,
+          "pic": "https://i2.hdslb.com/bfs/archive/924863a6e705b5ed53d4681e744b5cffb14c2660.jpg",
+          "checked_at": "2026-11-06T19:45:28.569925+00:00"
+        }
+      ]
+    },
+    {
+      "id": "Q3oItpVa9fs",
+      "title": "CYMATICS: Science Vs. Music - Nigel Stanford",
+      "author": "Nigel John Stanford",
+      "source_url": "https://www.youtube.com/watch?v=Q3oItpVa9fs",
+      "summary": "Nigel Stanford's music video Cymatics, in which real science experiments, such as Chladni plates, ferrofluid and water, visualize the audio.",
+      "why": "Mentioned as a striking example of sound producing physical effects and a favorite among his videos.",
+      "score": 1.0,
+      "tags": [
+        "cymatics",
+        "chladni plate",
+        "ferrofluid",
+        "electronic music",
+        "sound visualization"
+      ],
+      "categories": [
+        "music-performance",
+        "everyday-physics-demos",
+        "music-theory-production"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Xt411i7bU",
+          "page": 1,
+          "cid": 66416151,
+          "title": "看得见的音乐CYMATICS: Science Vs  Music -  Nigel Stanford-影院dts临景音宣传片头",
+          "up": "Hawsayman",
+          "duration": 353,
+          "kind": "original",
+          "views": 1653,
+          "pic": "https://i1.hdslb.com/bfs/archive/8282fa558f51320206c5bc156cfbf751bf36d520.jpg",
+          "checked_at": "2026-11-06T19:45:58.899283+00:00"
+        }
+      ]
+    },
+    {
+      "id": "QK8mJJJvaes",
+      "title": "MACKLEMORE & RYAN LEWIS - THRIFT SHOP FEAT. WANZ (OFFICIAL VIDEO)",
+      "author": "Macklemore",
+      "source_url": "https://www.youtube.com/watch?v=QK8mJJJvaes",
+      "summary": "The official music video for Macklemore & Ryan Lewis's Thrift Shop featuring Wanz, a hip hop hit celebrating secondhand shopping.",
+      "why": "HN brings it up as a catchy example of pop music pushing back on consumerism, in threads about thrifting and spending.",
+      "score": 1.0,
+      "tags": [
+        "macklemore",
+        "thrift shop",
+        "hip hop",
+        "consumerism",
+        "music video"
+      ],
+      "categories": [
+        "music-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1rF411b7B3",
+          "page": 1,
+          "cid": 448473632,
+          "title": "【MACKLEMORE & RYAN LEWIS】THRIFT SHOP_FEAT. WANZ",
+          "up": "隔壁老蝗",
+          "duration": 233,
+          "kind": "original",
+          "views": 664,
+          "pic": "https://i1.hdslb.com/bfs/archive/91594e658d995f4e35c48a3c4dbecbef0e7a9126.jpg",
+          "checked_at": "2026-11-06T19:46:33.279333+00:00"
+        }
+      ]
+    },
+    {
       "id": "RcVA8Nj6HEo",
       "title": "What is PLUS times PLUS?",
       "author": "2swap",
@@ -39890,6 +39993,9 @@
     "BV1TQ4y1P7Ch": "NvDvESEXcgE",
     "BV1Z54y1v753": "O9upVbGSBFo",
     "BV1rT4y1c7WG": "Os7FE3J-U5Q",
+    "BV14P4y1D7ba": "Pp9Yax8UNoM",
+    "BV1Xt411i7bU": "Q3oItpVa9fs",
+    "BV1rF411b7B3": "QK8mJJJvaes",
     "BV1ME15BiEAo": "RcVA8Nj6HEo",
     "BV1vs411t7ga": "TnzcwTyr6cE",
     "BV1Uf4y127Nb": "U5kIdtMJGc8",

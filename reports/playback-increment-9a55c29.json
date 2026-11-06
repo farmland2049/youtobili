@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-11-06T19:59:11.763Z",
+  "checks": [
+    {
+      "sample": "Pp9Yax8UNoM",
+      "kind": "original",
+      "id": "Pp9Yax8UNoM",
+      "bvid": "BV14P4y1D7ba",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.941548,
+        "duration": 91,
+        "paused": false
+      },
+      "expected_duration": 91,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "922233228"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Space Shuttle Thermal Tile Demonstration 航天飞机隔热瓦\n无量光生物科技\n关注\n0\n0\n分享\n更多\n00:04 / 01:31\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "Q3oItpVa9fs",
+      "kind": "original",
+      "id": "Q3oItpVa9fs",
+      "bvid": "BV1Xt411i7bU",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.190766,
+        "duration": 353,
+        "paused": false
+      },
+      "expected_duration": 353,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "66416151"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "看得见的音乐CYMATICS: Science Vs Music - Nigel Stanford-影院dts临景音宣传片头\nHawsayman\n关注\n38\n0\n分享\n更多\n00:05 / 05:53\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "QK8mJJJvaes",
+      "kind": "original",
+      "id": "QK8mJJJvaes",
+      "bvid": "BV1rF411b7B3",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.936713,
+        "duration": 233,
+        "paused": false
+      },
+      "expected_duration": 233,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "448473632"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【MACKLEMORE & RYAN LEWIS】THRIFT SHOP_FEAT. WANZ\n隔壁老蝗\n关注\n14\n2\n分享\n更多\n00:04 / 03:53\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}
