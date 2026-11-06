@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T15:00:36.871028+00:00",
+  "built_at": "2026-11-06T15:28:14.865170+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 3820,
-    "confirmed": 955,
-    "coverage": 0.14797025100712735,
-    "processed_match_rate": 0.25
+    "processed": 3866,
+    "confirmed": 957,
+    "coverage": 0.14828013634955067,
+    "processed_match_rate": 0.24754267977237454
   },
   "areas": [
     {
@@ -34613,6 +34613,74 @@
       ]
     },
     {
+      "id": "0af00UcTO-c",
+      "title": "Where good ideas come from | Steven Johnson",
+      "author": "TED",
+      "source_url": "https://www.youtube.com/watch?v=0af00UcTO-c",
+      "summary": "Steven Johnson's TED talk argues that good ideas come from connected, slow-building hunches and liquid networks, from London coffee houses to Darwin to the modern web, rather than lone Eureka moments.",
+      "why": "HN people point to it as the talk version of his book on innovation, and for his brief discussion of liquid networks.",
+      "score": 1.0,
+      "tags": [
+        "steven johnson",
+        "creativity",
+        "liquid networks",
+        "innovation",
+        "ted"
+      ],
+      "categories": [
+        "ideas-education-other",
+        "futurism-technology-society",
+        "psychology-behavior"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Mb411W7Gq",
+          "page": 1,
+          "cid": 84334894,
+          "title": "【第一课-拓展】Where good ideas come from",
+          "up": "雨课堂",
+          "duration": 1097,
+          "kind": "original",
+          "views": 2792,
+          "pic": "https://i0.hdslb.com/bfs/archive/2c8cb2ca15ca507abcda3568330b1ec81e8ee687.jpg",
+          "checked_at": "2026-11-06T15:14:40.260119+00:00"
+        }
+      ]
+    },
+    {
+      "id": "0az7DEwG68A",
+      "title": "A way to explore Venus",
+      "author": "NASA Langley Research Center",
+      "source_url": "https://www.youtube.com/watch?v=0az7DEwG68A",
+      "summary": "A NASA Langley concept video for HAVOC, a lighter-than-air vehicle that would carry two astronauts on a 30-day mission in Venus's upper atmosphere. It explains why the planet's surface is so hostile and why the clouds are more habitable.",
+      "why": "HN shares it as the go-to visual for the idea of crewed blimps floating above Venus.",
+      "score": 1.0,
+      "tags": [
+        "venus",
+        "nasa",
+        "havoc",
+        "airship",
+        "space exploration"
+      ],
+      "categories": [
+        "space-exploration"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Jb411G7J9",
+          "page": 1,
+          "cid": 87991215,
+          "title": "【NASA Langley Research Center】一种探索金星的脑洞方法",
+          "up": "硫离子的收藏小站",
+          "duration": 215,
+          "kind": "original",
+          "views": 407,
+          "pic": "https://i0.hdslb.com/bfs/archive/94b351062155ebd44bf0d3c376f216c551a147ff.png",
+          "checked_at": "2026-11-06T15:14:55.016800+00:00"
+        }
+      ]
+    },
+    {
       "id": "0mCsluv5FXA",
       "title": "TypeScript types can run DOOM",
       "author": "Michigan TypeScript",
@@ -38942,6 +39010,8 @@
     "BV12Y4y1z7xs": "ycPr5-27vSI",
     "BV1sJ411C7qq": "-BeTq99LqUo",
     "BV1ya4y1L7VN": "-ZDZtBRTyeI",
+    "BV1Mb411W7Gq": "0af00UcTO-c",
+    "BV1Jb411G7J9": "0az7DEwG68A",
     "BV1iS9AYyEbv": "0mCsluv5FXA",
     "BV1pC4y1m7fZ": "2k8fHR9jKVM",
     "BV1dT91BXEcx": "3HYw6vPR9qU",

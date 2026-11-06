@@ -1,0 +1,47 @@
+{
+  "checked_at": "2026-11-06T15:28:48.232Z",
+  "checks": [
+    {
+      "sample": "0af00UcTO-c",
+      "kind": "original",
+      "id": "0af00UcTO-c",
+      "bvid": "BV1Mb411W7Gq",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.950138,
+        "duration": 1097,
+        "paused": false
+      },
+      "expected_duration": 1097,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "84334894"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【第一课-拓展】Where good ideas come from\n雨课堂\n关注\n40\n15\n分享\n更多\n00:04 / 18:17\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "0az7DEwG68A",
+      "kind": "original",
+      "id": "0az7DEwG68A",
+      "bvid": "BV1Jb411G7J9",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.171942,
+        "duration": 215,
+        "paused": false
+      },
+      "expected_duration": 215,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "87991215"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【NASA Langley Research Center】一种探索金星的脑洞方法\n硫离子的收藏小站\n关注\n19\n3\n分享\n更多\n00:04 / 03:35\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}
