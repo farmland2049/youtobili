@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T16:28:16.434133+00:00",
+  "updated_at": "2026-11-06T16:44:34.522744+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -21964,9 +21964,34 @@
     },
     "vYA0f6R5KAI": {
       "vid": "vYA0f6R5KAI",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-05T00:56:01.377162+00:00",
-      "candidates": []
+      "candidates": [
+        {
+          "bvid": "BV1UT4y137un",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1UT4y137un",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "SpaceX自研CFD软件：自适应、全尺度模拟火箭发动机",
+          "up": "Water-T",
+          "duration": 2797,
+          "original_duration": 2797,
+          "cid": 188858436,
+          "aid": 925599385,
+          "segment_title": "GPUs to Mars_ Full-Scale Simulation of SpaceX's Mars Rocket Engine",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1240,
+          "pic": "https://i0.hdslb.com/bfs/archive/acbe97772372c3903b05608848d3eb38656a4206.jpg",
+          "checked_at": "2026-11-06T16:44:05.022905+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "vwCdKU9uYnE": {
       "vid": "vwCdKU9uYnE",
@@ -55596,6 +55621,144 @@
           "availability": "available"
         }
       ]
+    },
+    "9-NU7yOSElE": {
+      "vid": "9-NU7yOSElE",
+      "status": "review",
+      "completed_at": "2026-11-06T16:31:42.065482+00:00",
+      "candidates": []
+    },
+    "9BnLbv6QYcA": {
+      "vid": "9BnLbv6QYcA",
+      "status": "review",
+      "completed_at": "2026-11-06T16:32:45.027078+00:00",
+      "candidates": []
+    },
+    "9KABcmczPdg": {
+      "vid": "9KABcmczPdg",
+      "status": "review",
+      "completed_at": "2026-11-06T16:33:10.358562+00:00",
+      "candidates": []
+    },
+    "9KR2N_Q8ep8": {
+      "vid": "9KR2N_Q8ep8",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T16:33:20.047891+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Zq4y1d7xr",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Tesla Crash Lab _ Data Driven Safety",
+          "up": "EclipseEra",
+          "duration": 269,
+          "original_duration": 269,
+          "cid": 424253554,
+          "aid": 591114009,
+          "segment_title": "Tesla Crash Lab _ Data Driven Safety",
+          "page_count": 1,
+          "kind": "original",
+          "views": 808,
+          "pic": "https://i1.hdslb.com/bfs/archive/557a29008fbf42ffcb1bfcbbbc322cbe4b45af6c.jpg",
+          "checked_at": "2026-11-06T16:33:19.088344+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "9LMr5XTgeyI": {
+      "vid": "9LMr5XTgeyI",
+      "status": "review",
+      "completed_at": "2026-11-06T16:33:39.936009+00:00",
+      "candidates": []
+    },
+    "9LmdUz3rOQU": {
+      "vid": "9LmdUz3rOQU",
+      "status": "review",
+      "completed_at": "2026-11-06T16:34:40.841804+00:00",
+      "candidates": []
+    },
+    "9ZDkItO-0a4": {
+      "vid": "9ZDkItO-0a4",
+      "status": "review",
+      "completed_at": "2026-11-06T16:35:57.642281+00:00",
+      "candidates": []
+    },
+    "9bjve67p33E": {
+      "vid": "9bjve67p33E",
+      "status": "review",
+      "completed_at": "2026-11-06T16:36:11.596716+00:00",
+      "candidates": []
+    },
+    "9h9wStdPkQY": {
+      "vid": "9h9wStdPkQY",
+      "status": "review",
+      "completed_at": "2026-11-06T16:37:21.564460+00:00",
+      "candidates": []
+    },
+    "9iUvuaChDEg": {
+      "vid": "9iUvuaChDEg",
+      "status": "review",
+      "completed_at": "2026-11-06T16:38:21.377621+00:00",
+      "candidates": []
+    },
+    "9jMONZMuS2U": {
+      "vid": "9jMONZMuS2U",
+      "status": "review",
+      "completed_at": "2026-11-06T16:38:31.223731+00:00",
+      "candidates": []
+    },
+    "9kaIXkImCAM": {
+      "vid": "9kaIXkImCAM",
+      "status": "review",
+      "completed_at": "2026-11-06T16:39:18.805687+00:00",
+      "candidates": []
+    },
+    "9nF0K2nJ7N8": {
+      "vid": "9nF0K2nJ7N8",
+      "status": "review",
+      "completed_at": "2026-11-06T16:39:44.739789+00:00",
+      "candidates": []
+    },
+    "9pEqyr_uT-k": {
+      "vid": "9pEqyr_uT-k",
+      "status": "review",
+      "completed_at": "2026-11-06T16:40:08.120132+00:00",
+      "candidates": []
+    },
+    "9pOiOhxujsE": {
+      "vid": "9pOiOhxujsE",
+      "status": "review",
+      "completed_at": "2026-11-06T16:40:54.992503+00:00",
+      "candidates": []
+    },
+    "9tJatdtv4jQ": {
+      "vid": "9tJatdtv4jQ",
+      "status": "review",
+      "completed_at": "2026-11-06T16:41:22.839907+00:00",
+      "candidates": []
+    },
+    "9xCJ3BCIudI": {
+      "vid": "9xCJ3BCIudI",
+      "status": "review",
+      "completed_at": "2026-11-06T16:41:35.409612+00:00",
+      "candidates": []
+    },
+    "9xxK5yyecRo": {
+      "vid": "9xxK5yyecRo",
+      "status": "review",
+      "completed_at": "2026-11-06T16:42:26.903450+00:00",
+      "candidates": []
+    },
+    "A1vyB-O5i6E": {
+      "vid": "A1vyB-O5i6E",
+      "status": "review",
+      "completed_at": null,
+      "candidates": []
     }
   }
 }

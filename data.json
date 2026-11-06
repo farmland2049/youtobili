@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T16:28:16.413775+00:00",
+  "built_at": "2026-11-06T16:44:34.502285+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 3962,
-    "confirmed": 963,
-    "coverage": 0.14920979237682058,
-    "processed_match_rate": 0.24305906108026248
+    "processed": 3980,
+    "confirmed": 965,
+    "coverage": 0.14951967771924388,
+    "processed_match_rate": 0.24246231155778894
   },
   "areas": [
     {
@@ -12592,6 +12592,41 @@
           "views": 228,
           "pic": "https://i2.hdslb.com/bfs/archive/fb28d0ffc9f4969015395cbad0c23cdf4ffd8de0.jpg",
           "checked_at": "2026-11-05T00:55:19.430031+00:00"
+        }
+      ]
+    },
+    {
+      "id": "vYA0f6R5KAI",
+      "title": "GPUs to Mars: Full-Scale Simulation of SpaceX's Mars Rocket Engine",
+      "author": "insideHPC Report",
+      "source_url": "https://www.youtube.com/watch?v=vYA0f6R5KAI",
+      "summary": "SpaceX engineers present at NVIDIA's GPU Technology Conference on a multi-physics code that simulates the full-scale Raptor methane engine. It covers GPU-based turbulent combustion modeling with adaptive grids and wavelet compression.",
+      "why": "HN points to it as evidence of SpaceX's serious simulation capability and as a showcase of GPU compute for CFD.",
+      "score": 5.5,
+      "tags": [
+        "cfd",
+        "gpu computing",
+        "spacex",
+        "raptor",
+        "combustion"
+      ],
+      "categories": [
+        "space-exploration",
+        "computer-architecture",
+        "computer-graphics-rendering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1UT4y137un",
+          "page": 1,
+          "cid": 188858436,
+          "title": "SpaceX自研CFD软件：自适应、全尺度模拟火箭发动机",
+          "up": "Water-T",
+          "duration": 2797,
+          "kind": "original",
+          "views": 1240,
+          "pic": "https://i0.hdslb.com/bfs/archive/acbe97772372c3903b05608848d3eb38656a4206.jpg",
+          "checked_at": "2026-11-06T16:44:05.022905+00:00"
         }
       ]
     },
@@ -35068,6 +35103,39 @@
       ]
     },
     {
+      "id": "9KR2N_Q8ep8",
+      "title": "Tesla Crash Lab | Data-Driven Safety",
+      "author": "Tesla",
+      "source_url": "https://www.youtube.com/watch?v=9KR2N_Q8ep8",
+      "summary": "A short Tesla promotional video touring the company's Crash Lab. It describes using data from the fleet and replicated real-world crash scenarios to engineer vehicle safety.",
+      "why": "Cited in car-safety threads as evidence that Tesla optimizes for real-world crash data rather than just standardized crash tests.",
+      "score": 1.0,
+      "tags": [
+        "tesla",
+        "crash testing",
+        "safety engineering",
+        "fleet data"
+      ],
+      "categories": [
+        "automotive-ev",
+        "tech-company-stories"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Zq4y1d7xr",
+          "page": 1,
+          "cid": 424253554,
+          "title": "Tesla Crash Lab _ Data Driven Safety",
+          "up": "EclipseEra",
+          "duration": 269,
+          "kind": "original",
+          "views": 808,
+          "pic": "https://i1.hdslb.com/bfs/archive/557a29008fbf42ffcb1bfcbbbc322cbe4b45af6c.jpg",
+          "checked_at": "2026-11-06T16:33:19.088344+00:00"
+        }
+      ]
+    },
+    {
       "id": "ALaTm6VzTBw",
       "title": "Two Is the Wrong Number of Days Off",
       "author": "CGP Grey",
@@ -38484,6 +38552,7 @@
     "BV1da411D7vy": "t7tA3NNKF0Q",
     "BV13vVr6BEnY": "t7tA3NNKF0Q",
     "BV1Nw41137zT": "tWr39Q9vBgo",
+    "BV1UT4y137un": "vYA0f6R5KAI",
     "BV1DXL3z6Efu": "zduSFxRajkE",
     "BV1Ux411C7MX": "-Ht4qiDRZE8",
     "BV1kt4y1i7hs": "1xQeXOz0Ncs",
@@ -39239,6 +39308,7 @@
     "BV18v7p6bETX": "7aXbh9VUB3U",
     "BV1ds411L7jE": "7d9juPsv1QU",
     "BV1ue4y1o7JK": "8dT6CR9_6l4",
+    "BV1Zq4y1d7xr": "9KR2N_Q8ep8",
     "BV1Pb4y1S7Fc": "ALaTm6VzTBw",
     "BV1gq4y1U7xN": "CBrj4S24074",
     "BV1kx411u7tz": "CIjXUg1s5gc",
