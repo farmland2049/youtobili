@@ -1,0 +1,110 @@
+{
+  "checked_at": "2026-11-06T04:38:54.970Z",
+  "checks": [
+    {
+      "sample": "FACK2knC08E",
+      "kind": "sub_zh",
+      "id": "FACK2knC08E",
+      "bvid": "BV1ky4y1k7bw",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.941625,
+        "duration": 3531,
+        "paused": false
+      },
+      "expected_duration": 3531,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "241199619"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【中英双CC字幕】DON'T PANIC — Hans Rosling showing the facts about population\n゙゙白鹭\n关注\n21\n5\n分享\n更多\n00:04 / 58:51\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "ip641WmY4pA",
+      "kind": "dub_zh",
+      "id": "ip641WmY4pA",
+      "bvid": "BV1ZMkpBeEkB",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.942374,
+        "duration": 131,
+        "paused": false
+      },
+      "expected_duration": 131,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "35454191169"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "[中配]DIY触觉输入旋钮：BLDC电机 + 圆形LCD - 开源项目！ - scottbez1\n账号已注销\n关注\n3\n0\n分享\n更多\n00:04 / 02:11\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "jhicDUgXyNg",
+      "kind": "original",
+      "id": "jhicDUgXyNg",
+      "bvid": "BV1ws411F7bq",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.95875,
+        "duration": 1109,
+        "paused": false
+      },
+      "expected_duration": 1109,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "53922700"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Delvon Lamarr Organ Trio - Warm-up Set (Live on KEXP)\n酣畅淋漓的赤石\n关注\n3\n0\n分享\n更多\n00:04 / 18:29\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "jhicDUgXyNg",
+      "kind": "original",
+      "id": "jhicDUgXyNg",
+      "bvid": "BV1nf4y1S7sN",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.955978,
+        "duration": 1109,
+        "paused": false
+      },
+      "expected_duration": 1109,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "180432390"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Delvon Lamarr Organ Trio - Warm-up Set (Live on KEXP)\nIGotRhythm\n关注\n2\n0\n分享\n更多\n00:04 / 18:29\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "nSKp2StlS6s",
+      "kind": "original",
+      "id": "nSKp2StlS6s",
+      "bvid": "BV1zb411h7GM",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.269334,
+        "duration": 223,
+        "paused": false
+      },
+      "expected_duration": 223,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "77689275"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "You Give REST a Bad Name\nvibbow\n关注\n5\n1\n分享\n更多\n00:05 / 03:43\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T04:09:10.762399+00:00",
+  "built_at": "2026-11-06T04:36:01.054858+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 2781,
-    "confirmed": 841,
-    "coverage": 0.13030678648899907,
-    "processed_match_rate": 0.3024092053218267
+    "processed": 2841,
+    "confirmed": 853,
+    "coverage": 0.1321660985435389,
+    "processed_match_rate": 0.3002463921154523
   },
   "areas": [
     {
@@ -2507,6 +2507,18 @@
           "views": 8759,
           "pic": "https://i1.hdslb.com/bfs/archive/554820d41fe41af89f7193bd7c094aa09efe2dcf.jpg",
           "checked_at": "2026-11-04T23:03:55.944967+00:00"
+        },
+        {
+          "bvid": "BV1ky4y1k7bw",
+          "page": 1,
+          "cid": 241199619,
+          "title": "【中英双CC字幕】DON'T PANIC — Hans Rosling showing the facts about population",
+          "up": "゙゙白鹭",
+          "duration": 3531,
+          "kind": "sub_zh",
+          "views": 909,
+          "pic": "https://i0.hdslb.com/bfs/archive/e0e5b08bc1e5bdc1e252c7639f4109b1f47f63bd.jpg",
+          "checked_at": "2026-11-06T04:14:24.946888+00:00"
         }
       ]
     },
@@ -28605,6 +28617,292 @@
       ]
     },
     {
+      "id": "hyYCn_kAngI",
+      "title": "How to Get Your First Customers | Startup School",
+      "author": "Y Combinator",
+      "source_url": "https://www.youtube.com/watch?v=hyYCn_kAngI",
+      "summary": "A Startup School talk by YC partner and former Airbnb growth head Gustaf Alstromer on how startups get their first customers. It covers doing things that don't scale, founders learning sales, the sales funnel, and charging your first customer.",
+      "why": "Commenters recommend the whole talk as practical, tactical advice for early customer acquisition and outbound sales.",
+      "score": 2.5,
+      "tags": [
+        "startups",
+        "sales",
+        "growth",
+        "y combinator",
+        "b2b"
+      ],
+      "categories": [
+        "startups-entrepreneurship",
+        "product-growth-marketing"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1rU421Z7YE",
+          "page": 1,
+          "cid": 1426376716,
+          "title": "How to Get Your First Customers | Startup School",
+          "up": "来自斯黄的大肥鱼",
+          "duration": 1374,
+          "kind": "original",
+          "views": 33,
+          "pic": "https://i0.hdslb.com/bfs/archive/10e00f52fd829debed6ab9308f4b948f953aa1a1.jpg",
+          "checked_at": "2026-11-06T04:15:13.745987+00:00"
+        }
+      ]
+    },
+    {
+      "id": "iIpPuJ_r8Xg",
+      "title": "The US Military’s Massive Global Transportation System",
+      "author": "Wendover Productions",
+      "source_url": "https://www.youtube.com/watch?v=iIpPuJ_r8Xg",
+      "summary": "Wendover Productions explains how the US military moves people and materiel worldwide, including prepositioned equipment, sealift and airlift. It shows the scale of the logistics system behind US force projection.",
+      "why": "Recommended as a clear overview of military logistics, often as a contrast with civilian infrastructure efforts.",
+      "score": 2.5,
+      "tags": [
+        "us military",
+        "supply chain",
+        "transportation",
+        "prepositioning",
+        "wendover"
+      ],
+      "categories": [
+        "military-warfare",
+        "business-economics-other",
+        "ships-ocean"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1mG4117786",
+          "page": 1,
+          "cid": 853778623,
+          "title": "【CC双语】揭秘 | 美国军方的大规模全球运输系统 | The US Military’s Massive Global Transportation Syst",
+          "up": "账号已注销",
+          "duration": 1094,
+          "kind": "sub_zh",
+          "views": 115,
+          "pic": "https://i1.hdslb.com/bfs/archive/3e0d4f86fcaacd41ed4dfc726ab56e6b1427b972.jpg",
+          "checked_at": "2026-11-06T04:15:32.840525+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ip641WmY4pA",
+      "title": "DIY haptic input knob: BLDC motor + round LCD",
+      "author": "scottbez1",
+      "source_url": "https://www.youtube.com/watch?v=ip641WmY4pA",
+      "summary": "A two-minute demo of SmartKnob View, an open-source input knob built from a brushless gimbal motor, magnetic encoder and round LCD. Closed-loop torque control gives software-defined detents and end stops.",
+      "why": "HN people hold it up as a polished solo hardware project and the go-to example of haptic knobs, including in discussions of physical car controls.",
+      "score": 2.5,
+      "tags": [
+        "smartknob",
+        "bldc motor",
+        "esp32",
+        "haptic feedback",
+        "open-source hardware"
+      ],
+      "categories": [
+        "embedded-diy-electronics",
+        "3d-printing-cnc"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ZMkpBeEkB",
+          "page": 1,
+          "cid": 35454191169,
+          "title": "[中配]DIY触觉输入旋钮：BLDC电机 + 圆形LCD - 开源项目！ - scottbez1",
+          "up": "账号已注销",
+          "duration": 131,
+          "kind": "dub_zh",
+          "views": 234,
+          "pic": "https://i2.hdslb.com/bfs/archive/ff3d9e87fa7814c48ab5a19d2cb8716fb18f440b.jpg",
+          "checked_at": "2026-11-06T04:16:22.187582+00:00"
+        }
+      ]
+    },
+    {
+      "id": "iqddnwKF8HQ",
+      "title": "Zig 2026: No-AI Policy, $670K Foundation, Left GitHub & Why Zig Isn’t 1.0 - Andrew Kelley Explains",
+      "author": "JetBrains",
+      "source_url": "https://www.youtube.com/watch?v=iqddnwKF8HQ",
+      "summary": "JetBrains interviews Zig creator Andrew Kelley about why Zig has no 1.0 after a decade, why the project left GitHub, and why it bans AI contributions. He also covers what makes Zig better than C and his views on open source.",
+      "why": "HN commenters point to it as a convincing primary-source interview showing Zig's cohesive design vision and the creator's level-headed reasoning.",
+      "score": 2.5,
+      "tags": [
+        "zig",
+        "andrew kelley",
+        "systems programming",
+        "open source",
+        "ai policy"
+      ],
+      "categories": [
+        "systems-programming-languages",
+        "software-practice-careers",
+        "tech-figures-interviews"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1dhGU6bEPX",
+          "page": 1,
+          "cid": 38658508986,
+          "title": "Zig No-AI Policy,$670K Foundation, Left GitHub&Why Zig Isn’t 1.0 - Andrew Kelley",
+          "up": "帆影",
+          "duration": 4391,
+          "kind": "original",
+          "views": 1434,
+          "pic": "https://i1.hdslb.com/bfs/archive/513553424d553b970e6caffeae99e251ea7390de.jpg",
+          "checked_at": "2026-11-06T04:16:54.690700+00:00"
+        }
+      ]
+    },
+    {
+      "id": "jAhjPd4uNFY",
+      "title": "Genetic Engineering Will Change Everything Forever – CRISPR",
+      "author": "Kurzgesagt – In a Nutshell",
+      "source_url": "https://www.youtube.com/watch?v=jAhjPd4uNFY",
+      "summary": "Kurzgesagt's animated explainer on CRISPR gene editing, covering how the technology works and what it could mean for curing disease, designer babies and aging. It frames genetic engineering as an irreversible change coming to humanity.",
+      "why": "HN commenters hand it out as a quick, accessible primer whenever CRISPR or gene editing comes up.",
+      "score": 2.5,
+      "tags": [
+        "crispr",
+        "cas9",
+        "genetic engineering",
+        "designer babies",
+        "animation"
+      ],
+      "categories": [
+        "evolution-genetics",
+        "biology-biotech"
+      ],
+      "versions": [
+        {
+          "bvid": "BV16t41197SU",
+          "page": 1,
+          "cid": 64743630,
+          "title": "Genetic Engineering Will Change Everything Forever – CRISPR",
+          "up": "BroDao",
+          "duration": 964,
+          "kind": "original",
+          "views": 320,
+          "pic": "https://i2.hdslb.com/bfs/archive/af436a681aadaff0556aaf24c63ec2e52c49cd93.jpg",
+          "checked_at": "2026-11-06T04:17:24.097334+00:00"
+        }
+      ]
+    },
+    {
+      "id": "jhicDUgXyNg",
+      "title": "Delvon Lamarr Organ Trio - Warm-up Set (Live on KEXP)",
+      "author": "KEXP",
+      "source_url": "https://www.youtube.com/watch?v=jhicDUgXyNg",
+      "summary": "A live KEXP warm-up set by the Delvon Lamarr Organ Trio, recorded at Upstream Music Fest in 2017. The set includes Move On Up and Memphis.",
+      "why": "HN people recommend it as a great live KEXP session with standout guitar work and good sound.",
+      "score": 2.5,
+      "tags": [
+        "kexp",
+        "soul jazz",
+        "organ trio",
+        "live session",
+        "seattle"
+      ],
+      "categories": [
+        "music-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ws411F7bq",
+          "page": 1,
+          "cid": 53922700,
+          "title": "Delvon Lamarr Organ Trio - Warm-up Set (Live on KEXP)",
+          "up": "酣畅淋漓的赤石",
+          "duration": 1109,
+          "kind": "original",
+          "views": 166,
+          "pic": "https://i1.hdslb.com/bfs/archive/5994e2a2c5ff7082eccb0372a4eb2763cffafe6d.jpg",
+          "checked_at": "2026-11-06T04:17:34.241093+00:00"
+        },
+        {
+          "bvid": "BV1nf4y1S7sN",
+          "page": 1,
+          "cid": 180432390,
+          "title": "Delvon Lamarr Organ Trio - Warm-up Set (Live on KEXP)",
+          "up": "IGotRhythm",
+          "duration": 1109,
+          "kind": "original",
+          "views": 105,
+          "pic": "https://i0.hdslb.com/bfs/archive/b8c5da21c08f414aabdf3e28395a2ba2f28f723c.png",
+          "checked_at": "2026-11-06T04:32:42.348482+00:00"
+        }
+      ]
+    },
+    {
+      "id": "mPZn4x3uOac",
+      "title": "In The Bleak Midwinter - Jacob Collier",
+      "author": "Jacob Collier",
+      "source_url": "https://www.youtube.com/watch?v=mPZn4x3uOac",
+      "summary": "Jacob Collier layers ten vocal parts to arrange and perform Harold Darke's carol \"In the Bleak Midwinter\", with inventive harmony and tuning.",
+      "why": "Recommended as a showcase of Collier's harmonic and microtonal skill.",
+      "score": 2.5,
+      "tags": [
+        "jacob collier",
+        "a cappella",
+        "microtonal",
+        "christmas carol",
+        "harmony"
+      ],
+      "categories": [
+        "music-performance",
+        "music-theory-production"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1mW411e7rH",
+          "page": 1,
+          "cid": 30679441,
+          "title": "In The Bleak Midwinter - Jacob Collier",
+          "up": "lamina13",
+          "duration": 370,
+          "kind": "original",
+          "views": 18966,
+          "pic": "https://i0.hdslb.com/bfs/archive/6e831d19f22a284e3c529295532de316c18475ce.jpg",
+          "checked_at": "2026-11-06T04:20:22.415618+00:00"
+        }
+      ]
+    },
+    {
+      "id": "nSKp2StlS6s",
+      "title": "You Give REST a Bad Name",
+      "author": "Dylan Beattie",
+      "source_url": "https://www.youtube.com/watch?v=nSKp2StlS6s",
+      "summary": "Dylan Beattie's parody of 'You Give Love a Bad Name' about hypermedia APIs and REST, performed with his band at developer conferences.",
+      "why": "Shared as developer humor, with commenters insisting any Dylan Beattie mention must come with this song.",
+      "score": 2.5,
+      "tags": [
+        "rest",
+        "hypermedia",
+        "parody",
+        "dylan beattie",
+        "developer humor"
+      ],
+      "categories": [
+        "software-other",
+        "software-architecture-design",
+        "satire-parody"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1zb411h7GM",
+          "page": 1,
+          "cid": 77689275,
+          "title": "You Give REST a Bad Name",
+          "up": "vibbow",
+          "duration": 223,
+          "kind": "original",
+          "views": 212,
+          "pic": "https://i1.hdslb.com/bfs/archive/3d21a915a5f1f3e3ec11d048d1d78c7e1568b7a9.jpg",
+          "checked_at": "2026-11-06T04:23:16.503833+00:00"
+        }
+      ]
+    },
+    {
       "id": "oFtjKbXKqbg",
       "title": "Pieter Levels: Programming, Viral AI Startups, and Digital Nomad Life | Lex Fridman Podcast #440",
       "author": "Lex Fridman",
@@ -28636,6 +28934,77 @@
           "views": 119,
           "pic": "https://i2.hdslb.com/bfs/archive/9dc49b4847eacece2c3b80c858000eaab9402c35.jpg",
           "checked_at": "2026-11-05T13:27:32.420915+00:00"
+        }
+      ]
+    },
+    {
+      "id": "qEJ4hkpQW8E",
+      "title": "How the US Is Destroying Young People’s Future | Scott Galloway | TED",
+      "author": "TED",
+      "source_url": "https://www.youtube.com/watch?v=qEJ4hkpQW8E",
+      "summary": "Scott Galloway's TED talk uses data to argue that young Americans are financially worse off than earlier generations, calling it a great intergenerational theft. He covers root causes and what could change it.",
+      "why": "HN commenters cite it for hard data on millennials versus boomers and the economic reality facing young workers.",
+      "score": 2.5,
+      "tags": [
+        "scott galloway",
+        "generational wealth",
+        "economics",
+        "young people",
+        "ted talk"
+      ],
+      "categories": [
+        "labor-work-wealth",
+        "macroeconomics",
+        "futurism-technology-society"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1BD421g72C",
+          "page": 1,
+          "cid": 1573386808,
+          "title": "How the US Is Destroying Young People’s Future _ Scott Galloway _ TED",
+          "up": "HenryZhangSE",
+          "duration": 1118,
+          "kind": "original",
+          "views": 148,
+          "pic": "https://i2.hdslb.com/bfs/archive/ce82c82e4a6455f256350d0f97170d8038df9f70.jpg",
+          "checked_at": "2026-11-06T04:29:26.017512+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rC4FCS-oMpg",
+      "title": "Makepad: Designing modern UIs with Rust - Rik Arends - RustNL 2023",
+      "author": "RustNL",
+      "source_url": "https://www.youtube.com/watch?v=rC4FCS-oMpg",
+      "summary": "Rik Arends presents Makepad, a Rust UI framework, at RustNL 2023. The talk covers designing modern, GPU-fast UIs with Rust and includes live-coded demos of an IDE and a synthesizer.",
+      "why": "HN commenters recommend it for the live-coded demos running at high frame rates, calling the performance impressive.",
+      "score": 2.5,
+      "tags": [
+        "makepad",
+        "rust",
+        "ui",
+        "gpu rendering",
+        "live coding",
+        "webassembly"
+      ],
+      "categories": [
+        "systems-programming-languages",
+        "web-development",
+        "computer-graphics-rendering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ju411379b",
+          "page": 1,
+          "cid": 1279614119,
+          "title": "Makepad: Designing modern UIs with Rust - Rik Arends - RustNL 2023",
+          "up": "dailyrain",
+          "duration": 3320,
+          "kind": "original",
+          "views": 217,
+          "pic": "https://i0.hdslb.com/bfs/archive/721121dba58123008f61d44b1493fc7911ef7ba9.jpg",
+          "checked_at": "2026-11-06T04:30:52.718622+00:00"
         }
       ]
     },
@@ -28674,6 +29043,39 @@
       ]
     },
     {
+      "id": "tF4DML7FIWk",
+      "title": "Atlas | Partners in Parkour",
+      "author": "Boston Dynamics",
+      "source_url": "https://www.youtube.com/watch?v=tF4DML7FIWk",
+      "summary": "Boston Dynamics shows its Atlas humanoid robots running a parkour course with jumps, balance beams and vaults, demonstrating whole-body athletic control.",
+      "why": "HN uses it as the benchmark for state-of-the-art humanoid robot mobility in discussions of Tesla Bot and robotics progress.",
+      "score": 2.5,
+      "tags": [
+        "boston dynamics",
+        "atlas",
+        "parkour",
+        "legged robots",
+        "humanoid robots"
+      ],
+      "categories": [
+        "robotics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1VA411A7eC",
+          "page": 1,
+          "cid": 31387878269,
+          "title": "波士顿动力BostonDynamics 跑酷 Atlas I Partners in Parkour 4K",
+          "up": "oiうさぎ",
+          "duration": 66,
+          "kind": "original",
+          "views": 1086,
+          "pic": "https://i2.hdslb.com/bfs/archive/78cf6709e12d120f2f63162d99e8e659ba8cbc1c.jpg",
+          "checked_at": "2026-11-06T04:34:30.291166+00:00"
+        }
+      ]
+    },
+    {
       "id": "tfAnxaWiSeE",
       "title": "Pitfall: A Classic Game Postmortem",
       "author": "GDC Festival of Gaming",
@@ -28705,6 +29107,40 @@
           "views": 31,
           "pic": "https://i0.hdslb.com/bfs/archive/182dc4003b7696f9c5f71cc1a515e1eed18b6092.jpg",
           "checked_at": "2026-11-06T00:29:38.628714+00:00"
+        }
+      ]
+    },
+    {
+      "id": "tvos4nORf_Y",
+      "title": "How Will You Measure Your Life? Clay Christensen at TEDxBoston",
+      "author": "TEDx Talks",
+      "source_url": "https://www.youtube.com/watch?v=tvos4nORf_Y",
+      "summary": "Clayton Christensen's TEDx talk applying business theory to personal life. He argues that career success is not the right measure of a life and urges attention to relationships and values.",
+      "why": "HN commenters share it as an inspiring reflection on what to optimize in life beyond career, especially in threads on burnout and meaning.",
+      "score": 2.5,
+      "tags": [
+        "clayton christensen",
+        "career",
+        "values",
+        "relationships",
+        "success"
+      ],
+      "categories": [
+        "productivity-self-improvement",
+        "management-leadership"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1H7411w71j",
+          "page": 1,
+          "cid": 154664029,
+          "title": "How Will You Measure Your Life_ Clay Christensen at TEDxBoston",
+          "up": "HollyGan",
+          "duration": 1171,
+          "kind": "original",
+          "views": 1488,
+          "pic": "https://i0.hdslb.com/bfs/archive/2c14bfb355887a2751ab5ea31126a35994ca1ab9.jpg",
+          "checked_at": "2026-11-06T04:35:06.159312+00:00"
         }
       ]
     },
@@ -33555,6 +33991,7 @@
     "BV15k4y1r7x5": "8pTEmbeENF4",
     "BV1rAAMe9E7f": "AJdEqssNZ-U",
     "BV1aK4y1Y7VN": "FACK2knC08E",
+    "BV1ky4y1k7bw": "FACK2knC08E",
     "BV1jZ4y1N7RE": "Kr3quGh7pJA",
     "BV1p4411k7N8": "W3aieHjyNvw",
     "BV1Rg4y1o7H5": "WXuK6gekU1Y",
@@ -34486,9 +34923,22 @@
     "BV1gx411t76H": "gLDYtH1RH-U",
     "BV1uh2LB3E3U": "hCQCP-5g5bo",
     "BV1Us411172N": "hIZxTQP1ifo",
+    "BV1rU421Z7YE": "hyYCn_kAngI",
+    "BV1mG4117786": "iIpPuJ_r8Xg",
+    "BV1ZMkpBeEkB": "ip641WmY4pA",
+    "BV1dhGU6bEPX": "iqddnwKF8HQ",
+    "BV16t41197SU": "jAhjPd4uNFY",
+    "BV1ws411F7bq": "jhicDUgXyNg",
+    "BV1nf4y1S7sN": "jhicDUgXyNg",
+    "BV1mW411e7rH": "mPZn4x3uOac",
+    "BV1zb411h7GM": "nSKp2StlS6s",
     "BV1N5oiYbETY": "oFtjKbXKqbg",
+    "BV1BD421g72C": "qEJ4hkpQW8E",
+    "BV1ju411379b": "rC4FCS-oMpg",
     "BV16qNf6SEfE": "sTu3LwpF6XI",
+    "BV1VA411A7eC": "tF4DML7FIWk",
     "BV1VE411G7f1": "tfAnxaWiSeE",
+    "BV1H7411w71j": "tvos4nORf_Y",
     "BV1b4411q743": "udlMSe5-zP8",
     "BV1QmNX6UEZE": "y5UT04p5f7U",
     "BV1Lq4y187m1": "-t1_ffaFXao",
