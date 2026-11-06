@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-11-06T05:29:01.750Z",
+  "checks": [
+    {
+      "sample": "aFwVf5a3pZM",
+      "kind": "original",
+      "id": "aFwVf5a3pZM",
+      "bvid": "BV1d4411n7AH",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.947984,
+        "duration": 4615,
+        "paused": false
+      },
+      "expected_duration": 4615,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "95216703"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【英语写作】【Larry McEnerney】超越学术的写作\naymaco\n关注\n38\n7\n分享\n更多\n0:00:04 / 1:16:55\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "29RkHH-psrY",
+      "kind": "original",
+      "id": "29RkHH-psrY",
+      "bvid": "BV1bg411j7Ki",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.945552,
+        "duration": 6276,
+        "paused": false
+      },
+      "expected_duration": 6276,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "388768445"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Oral History of Dave Cutler Part 1\n弱弱的Erik\n关注\n6\n0\n分享\n更多\n0:00:04 / 1:44:36\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "3BJU2drrtCM",
+      "kind": "original",
+      "id": "3BJU2drrtCM",
+      "bvid": "BV1VW411i7kz",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.305209,
+        "duration": 699,
+        "paused": false
+      },
+      "expected_duration": 698,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "30339611"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "How a TV Works in Slow Motion - The Slow Mo Guys（你的电视是怎么运作的）生肉\n小雨阿奔\n关注\n0\n0\n分享\n更多\n00:05 / 11:39\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

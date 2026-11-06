@@ -1,73 +1,103 @@
 {
-  "baseline_commit": "3cb8b6d5544e7777eb19601ddebadba5d21bb52f",
+  "baseline_commit": "004236e3ca1bc2541dd3007886d553af67c593d9",
   "phase_status": "stopped_after_request_error",
   "before": {
-    "corpus": 6454,
-    "processed": 2888,
-    "confirmed": 856,
-    "coverage": 0.13263092655717384,
-    "processed_match_rate": 0.296398891966759
-  },
-  "after": {
     "corpus": 6454,
     "processed": 2907,
     "confirmed": 857,
     "coverage": 0.1327858692283855,
     "processed_match_rate": 0.29480564155486755
   },
-  "newly_processed": 19,
-  "newly_processed_confirmed": 1,
+  "after": {
+    "corpus": 6454,
+    "processed": 2944,
+    "confirmed": 859,
+    "coverage": 0.1330957545708088,
+    "processed_match_rate": 0.29177989130434784
+  },
+  "newly_processed": 37,
+  "newly_processed_confirmed": 2,
   "added_originals": [
-    "2B-XwPjn9YY"
+    "29RkHH-psrY",
+    "3BJU2drrtCM"
   ],
   "withdrawn_originals": [],
-  "net_confirmed_change": 1,
-  "versions": 1171,
+  "net_confirmed_change": 2,
+  "versions": 1174,
   "added_versions": [
     {
-      "id": "2B-XwPjn9YY",
-      "bvid": "BV1NU4y1o7FQ",
+      "id": "aFwVf5a3pZM",
+      "bvid": "BV1d4411n7AH",
+      "page": 1
+    },
+    {
+      "id": "29RkHH-psrY",
+      "bvid": "BV1bg411j7Ki",
+      "page": 1
+    },
+    {
+      "id": "3BJU2drrtCM",
+      "bvid": "BV1VW411i7kz",
       "page": 1
     }
   ],
   "withdrawn_versions": [],
-  "net_versions_change": 1,
+  "net_versions_change": 3,
   "search_batches": [
     {
-      "id": "20261106T050442Z",
+      "id": "20261106T051643Z",
       "selected": 50,
-      "completed": 18,
+      "completed": 36,
       "errors": [
         {
-          "vid": "1bO8zEaSuWg",
+          "vid": "4_qJptwikRc",
           "reason": "URLError"
         }
       ],
       "stopped": false,
       "originals": [
-        "07o-TASvIxY",
-        "0BNejY1e9ik",
-        "0Pwj6BuS8Ds",
-        "0Qkyt1wXNlI",
-        "0iJZ_QGMLD0",
-        "0iz9PJbs5rE",
-        "0j0xzuh-6rY",
-        "0kahih8RT1k",
-        "0lnbdRweJtA",
-        "0qKp-0h9P18",
-        "0sHCQWjTrJ8",
-        "0z03xkwFbw4",
-        "13cmHf_kt-Q",
-        "144uOfr4SYA",
-        "1AcEt073Uds",
-        "1AjhFZVfB9c",
-        "1EWQYAfuMYw",
-        "1Nh_vxpycEA"
+        "1faaOrtHJ-A",
+        "1rCrfQUcXDI",
+        "2-oBNh0UkQc",
+        "21EiKfQYZXc",
+        "23X14HS4gLk",
+        "29RkHH-psrY",
+        "2BdBfsXbST8",
+        "2Ex8EEv-WPs",
+        "2Q26XIKtwXQ",
+        "2SdGkkp1aq8",
+        "2U9WMftV40c",
+        "2lisQQmWQkY",
+        "2qsmF8HHskg",
+        "2vuMzGhc1cg",
+        "2wq9x2QcZN0",
+        "34rdxDgpaaA",
+        "36qZYL5RlgY",
+        "37NaHRE0Sqw",
+        "3BJU2drrtCM",
+        "3HROqnw-nf4",
+        "3IryIOyPfTE",
+        "3QnD2c4Xovk",
+        "3R3-YwDZrzg",
+        "3TYT1QfdfsM",
+        "3byNNUReyvE",
+        "3jQoAYRKqhg",
+        "3pvpNKUPbIY",
+        "3qHkcs3kG44",
+        "3wMKoSRbGVs",
+        "45X4VP8CGtk",
+        "49kBWM3RQQ8",
+        "4KtotxNAwME",
+        "4KuVvb9DTaU",
+        "4PHT-zBxKQQ",
+        "4Vw6uF2LdZw",
+        "4WwAQqWUkpI"
       ],
       "primary_first": true,
-      "deferred_candidates": 0,
+      "deferred_candidates": 25,
       "excluded_originals": [
         "05WS0WN7zMQ",
+        "1bO8zEaSuWg",
         "AJgY9FtDLbs",
         "HQKy1KJpSVc",
         "NTJQTc-TqpU",
@@ -84,27 +114,28 @@
         "uTdyb-RWNKo",
         "vs41JrnGaxc"
       ],
-      "attempted": 19,
-      "unattempted": 31,
+      "attempted": 37,
+      "unattempted": 13,
       "statuses": {
-        "review": 19
+        "review": 33,
+        "confirmed": 4
       },
-      "candidate_count": 731
+      "candidate_count": 1342
     }
   ],
-  "completed_search_originals": 18,
-  "direct_search_attempts": 19,
+  "completed_search_originals": 36,
+  "direct_search_attempts": 37,
   "direct_search_errors": [
     {
-      "vid": "1bO8zEaSuWg",
+      "vid": "4_qJptwikRc",
       "reason": "URLError"
     }
   ],
-  "unattempted_after_error": 31,
+  "unattempted_after_error": 13,
   "source_verification_batches": [
     {
-      "id": "2026-11-06T05:04:13.046913+00:00",
-      "source": "serial-20261106T050347Z-leads-1.json",
+      "id": "2026-11-06T05:16:12.724642+00:00",
+      "source": "serial-20261106T051547Z-leads-1.json",
       "attempted": 2,
       "completed": 2,
       "confirmed": 1,
@@ -131,28 +162,40 @@
     "hhMAt3BluAU": "prior URLError; no retry or unavailable classification",
     "uTdyb-RWNKo": "URLError in current phase; failed search left unprocessed; do not classify unavailable",
     "05WS0WN7zMQ": "URLError in current phase; failed search left unprocessed; do not classify unavailable",
-    "1bO8zEaSuWg": "URLError in current phase; failed search left unprocessed; do not classify unavailable"
+    "1bO8zEaSuWg": "URLError in current phase; failed search left unprocessed; do not classify unavailable",
+    "4_qJptwikRc": "URLError in current phase; failed search left unprocessed; do not classify unavailable"
   },
   "automatic_retry": false,
-  "remaining_unprocessed": 3547,
-  "remaining_review": 2050,
+  "remaining_unprocessed": 3510,
+  "remaining_review": 2085,
   "metadata_title_review": {
-    "baseline_commit": "3cb8b6d5544e7777eb19601ddebadba5d21bb52f",
+    "baseline_commit": "004236e3ca1bc2541dd3007886d553af67c593d9",
     "review_status": "metadata_consistency_review_completed_for_snapshot",
-    "rows": 1,
-    "scope": "Read original, Bilibili and segment titles for 1 versions; no frame comparison.",
-    "manual_downgrades": []
+    "rows": 5,
+    "scope": "Read original, Bilibili and segment titles for 5 versions; no frame comparison.",
+    "manual_downgrades": [
+      {
+        "id": "3pvpNKUPbIY",
+        "bvid": "BV1hVreY4E5z",
+        "reason": "HackerTube episode 243; Bilibili title says episode 233"
+      },
+      {
+        "id": "3wMKoSRbGVs",
+        "bvid": "BV1RRrSYCEir",
+        "reason": "HackerTube episode 221; Bilibili title says episode 212"
+      }
+    ]
   },
   "cached_new_version_audit": {
-    "checked": 1,
+    "checked": 3,
     "requests": 0,
     "segment_conflicts": [],
     "all_passed": true
   },
   "browser_tests": {
-    "checked_at": "2026-11-06T05:12:59.890Z",
+    "checked_at": "2026-11-06T05:28:36.817Z",
     "status": "pass",
-    "originals": 857,
+    "originals": 859,
     "scenarios": [
       "desktop rendering",
       "mobile rendering/no horizontal overflow",
@@ -173,11 +216,11 @@
     "page_errors": []
   },
   "playback": {
-    "checked": 1,
+    "checked": 3,
     "all_playing": true,
     "all_durations_match": true,
     "all_cids_observed": true,
-    "report": "playback-increment-3cb8b6d.json"
+    "report": "playback-increment-004236e.json"
   },
-  "code_tests": "not rerun; code unchanged since tested baseline 3cb8b6d"
+  "code_tests": "not rerun; code unchanged since tested baseline 004236e"
 }

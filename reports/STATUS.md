@@ -1,55 +1,74 @@
 # 匹配进展
 
-更新时间：2026-11-06T05:12:35.176225+00:00
+更新时间：2026-11-06T05:28:27.989272+00:00
 
 - 原片库：6454
-- 完成处理：2907
-- 已确认原片：857
-- 全库覆盖率：13.28%
-- 已处理原片匹配率：29.48%
-- 状态：{'confirmed': 857, 'review': 2067}
+- 完成处理：2944
+- 已确认原片：859
+- 全库覆盖率：13.31%
+- 已处理原片匹配率：29.18%
+- 状态：{'confirmed': 859, 'review': 2103}
 
-- 待审中尚需扩大候选检查：177
-- 已扩大检查仍待审核：1890
+- 待审中尚需扩大候选检查：179
+- 已扩大检查仍待审核：1924
 
 ## 最近批次
 
 ```json
 {
-  "id": "20261106T050442Z",
+  "id": "20261106T051643Z",
   "selected": 50,
-  "completed": 18,
+  "completed": 36,
   "errors": [
     {
-      "vid": "1bO8zEaSuWg",
+      "vid": "4_qJptwikRc",
       "reason": "URLError"
     }
   ],
   "stopped": false,
   "originals": [
-    "07o-TASvIxY",
-    "0BNejY1e9ik",
-    "0Pwj6BuS8Ds",
-    "0Qkyt1wXNlI",
-    "0iJZ_QGMLD0",
-    "0iz9PJbs5rE",
-    "0j0xzuh-6rY",
-    "0kahih8RT1k",
-    "0lnbdRweJtA",
-    "0qKp-0h9P18",
-    "0sHCQWjTrJ8",
-    "0z03xkwFbw4",
-    "13cmHf_kt-Q",
-    "144uOfr4SYA",
-    "1AcEt073Uds",
-    "1AjhFZVfB9c",
-    "1EWQYAfuMYw",
-    "1Nh_vxpycEA"
+    "1faaOrtHJ-A",
+    "1rCrfQUcXDI",
+    "2-oBNh0UkQc",
+    "21EiKfQYZXc",
+    "23X14HS4gLk",
+    "29RkHH-psrY",
+    "2BdBfsXbST8",
+    "2Ex8EEv-WPs",
+    "2Q26XIKtwXQ",
+    "2SdGkkp1aq8",
+    "2U9WMftV40c",
+    "2lisQQmWQkY",
+    "2qsmF8HHskg",
+    "2vuMzGhc1cg",
+    "2wq9x2QcZN0",
+    "34rdxDgpaaA",
+    "36qZYL5RlgY",
+    "37NaHRE0Sqw",
+    "3BJU2drrtCM",
+    "3HROqnw-nf4",
+    "3IryIOyPfTE",
+    "3QnD2c4Xovk",
+    "3R3-YwDZrzg",
+    "3TYT1QfdfsM",
+    "3byNNUReyvE",
+    "3jQoAYRKqhg",
+    "3pvpNKUPbIY",
+    "3qHkcs3kG44",
+    "3wMKoSRbGVs",
+    "45X4VP8CGtk",
+    "49kBWM3RQQ8",
+    "4KtotxNAwME",
+    "4KuVvb9DTaU",
+    "4PHT-zBxKQQ",
+    "4Vw6uF2LdZw",
+    "4WwAQqWUkpI"
   ],
   "primary_first": true,
-  "deferred_candidates": 0,
+  "deferred_candidates": 25,
   "excluded_originals": [
     "05WS0WN7zMQ",
+    "1bO8zEaSuWg",
     "AJgY9FtDLbs",
     "HQKy1KJpSVc",
     "NTJQTc-TqpU",
@@ -66,12 +85,13 @@
     "uTdyb-RWNKo",
     "vs41JrnGaxc"
   ],
-  "attempted": 19,
-  "unattempted": 31,
+  "attempted": 37,
+  "unattempted": 13,
   "statuses": {
-    "review": 19
+    "review": 35,
+    "confirmed": 2
   },
-  "candidate_count": 731
+  "candidate_count": 1342
 }
 ```
 
@@ -79,8 +99,8 @@
 
 ```json
 {
-  "id": "2026-11-06T05:04:13.046913+00:00",
-  "source": "serial-20261106T050347Z-leads-1.json",
+  "id": "2026-11-06T05:16:12.724642+00:00",
+  "source": "serial-20261106T051547Z-leads-1.json",
   "attempted": 2,
   "completed": 2,
   "confirmed": 1,

@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T05:12:35.202332+00:00",
+  "built_at": "2026-11-06T05:28:28.013574+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 2907,
-    "confirmed": 857,
-    "coverage": 0.1327858692283855,
-    "processed_match_rate": 0.29480564155486755
+    "processed": 2944,
+    "confirmed": 859,
+    "coverage": 0.1330957545708088,
+    "processed_match_rate": 0.29177989130434784
   },
   "areas": [
     {
@@ -7556,6 +7556,18 @@
         "productivity-self-improvement"
       ],
       "versions": [
+        {
+          "bvid": "BV1d4411n7AH",
+          "page": 1,
+          "cid": 95216703,
+          "title": "【英语写作】【Larry McEnerney】超越学术的写作",
+          "up": "aymaco",
+          "duration": 4615,
+          "kind": "original",
+          "views": 1836,
+          "pic": "https://i0.hdslb.com/bfs/archive/c8939b17432b08117487b85f7ca111c7b7dea5fb.jpg",
+          "checked_at": "2026-11-06T05:16:12.726636+00:00"
+        },
         {
           "bvid": "BV1cLYWzTEHj",
           "page": 1,
@@ -29496,6 +29508,75 @@
       ]
     },
     {
+      "id": "29RkHH-psrY",
+      "title": "Oral History of Dave Cutler Part 1",
+      "author": "Computer History Museum",
+      "source_url": "https://www.youtube.com/watch?v=29RkHH-psrY",
+      "summary": "A Computer History Museum oral history interview with Dave Cutler, covering his youth, early work on operating systems at DuPont and Digital Equipment, and his path toward VMS and Windows NT. This is part one of a long-form interview.",
+      "why": "Recommended as a rare long-form interview with a legendary operating system designer, though some find it light on technical detail.",
+      "score": 2.0,
+      "tags": [
+        "dave cutler",
+        "windows nt",
+        "vms",
+        "dec",
+        "oral history"
+      ],
+      "categories": [
+        "history-of-computing",
+        "operating-systems",
+        "tech-figures-interviews"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1bg411j7Ki",
+          "page": 1,
+          "cid": 388768445,
+          "title": "Oral History of Dave Cutler Part 1",
+          "up": "弱弱的Erik",
+          "duration": 6276,
+          "kind": "original",
+          "views": 224,
+          "pic": "https://i1.hdslb.com/bfs/archive/7cf9ef82556cf49e9acbccfc84cd56a72db8fa58.jpg",
+          "checked_at": "2026-11-06T05:18:16.304596+00:00"
+        }
+      ]
+    },
+    {
+      "id": "3BJU2drrtCM",
+      "title": "How a TV Works in Slow Motion - The Slow Mo Guys",
+      "author": "The Slow Mo Guys",
+      "source_url": "https://www.youtube.com/watch?v=3BJU2drrtCM",
+      "summary": "The Slow Mo Guys film a TV and screens with a high-speed camera to show how displays build an image. The footage includes CRT-style scanning and how pixels light up over time.",
+      "why": "Frequently linked as visual proof of how a CRT's raster scan and phosphor decay work.",
+      "score": 2.0,
+      "tags": [
+        "crt",
+        "raster scan",
+        "slow motion",
+        "phosphor persistence",
+        "screens"
+      ],
+      "categories": [
+        "audio-video-engineering",
+        "everyday-physics-demos"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1VW411i7kz",
+          "page": 1,
+          "cid": 30339611,
+          "title": "How a TV Works in Slow Motion - The Slow Mo Guys（你的电视是怎么运作的）生肉",
+          "up": "小雨阿奔",
+          "duration": 698,
+          "kind": "original",
+          "views": 53,
+          "pic": "https://i0.hdslb.com/bfs/archive/a6fa48f7fc9e61d681f13fbd247f92229e1ce576.jpg",
+          "checked_at": "2026-11-06T05:22:34.804488+00:00"
+        }
+      ]
+    },
+    {
       "id": "5eqRuVp65eY",
       "title": "AI can't cross this line and we don't know why.",
       "author": "Welch Labs",
@@ -34333,6 +34414,7 @@
     "BV1JQNk6KErt": "Q2UnOryQiIY",
     "BV1KxxR6NEdN": "YKuRkGkf5HU",
     "BV12xxR6PED5": "ZeecOKBus3Q",
+    "BV1d4411n7AH": "aFwVf5a3pZM",
     "BV1cLYWzTEHj": "aFwVf5a3pZM",
     "BV12Z421h7qB": "cKPlPJyQrt4",
     "BV1wx411C7WT": "gB9n2gHsHN4",
@@ -35098,6 +35180,8 @@
     "BV1jx4y147EJ": "069y1MpOkQY",
     "BV1eyAReGEGy": "160F8F8mXlo",
     "BV1eY6kYQEJH": "1YbcB6b4A2U",
+    "BV1bg411j7Ki": "29RkHH-psrY",
+    "BV1VW411i7kz": "3BJU2drrtCM",
     "BV1ixtNeBEB3": "5eqRuVp65eY",
     "BV1f7411v75L": "7W33HRc1A6c",
     "BV1Ts411g7Fj": "8kUQWuK1L4w",
