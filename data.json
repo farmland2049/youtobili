@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T14:34:24.873143+00:00",
+  "built_at": "2026-11-06T15:00:36.871028+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 3769,
-    "confirmed": 949,
-    "coverage": 0.14704059497985744,
-    "processed_match_rate": 0.2517909259750597
+    "processed": 3820,
+    "confirmed": 955,
+    "coverage": 0.14797025100712735,
+    "processed_match_rate": 0.25
   },
   "areas": [
     {
@@ -34291,6 +34291,40 @@
       ]
     },
     {
+      "id": "mH0oCDa74tE",
+      "title": "Group theory, abstraction, and the 196,883-dimensional monster",
+      "author": "3Blue1Brown",
+      "source_url": "https://www.youtube.com/watch?v=mH0oCDa74tE",
+      "summary": "3Blue1Brown introduces group theory and abstract groups, then builds toward classification of finite simple groups and the enormous Monster group with its 196,883 dimensions.",
+      "why": "Mentioned as a favorite 3Blue1Brown video and a related watch in threads about deep mathematical structure.",
+      "score": 1.5,
+      "tags": [
+        "monster group",
+        "abstract algebra",
+        "symmetry",
+        "classification",
+        "mathematics"
+      ],
+      "categories": [
+        "pure-mathematics",
+        "recreational-math"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1LYUSB9E3G",
+          "page": 1,
+          "cid": 34249048808,
+          "title": "Group theory, abstraction, and the 196,883-dimensional monster [3Blue1Brown - Vi",
+          "up": "vector090_",
+          "duration": 1318,
+          "kind": "original",
+          "views": 70,
+          "pic": "https://i1.hdslb.com/bfs/archive/6426d42fc482d41ecba2041ec0be6c2e1d91acd9.jpg",
+          "checked_at": "2026-11-06T14:37:36.022551+00:00"
+        }
+      ]
+    },
+    {
       "id": "mfv0V1SxbNA",
       "title": "Building the PERFECT Linux PC with Linus Torvalds",
       "author": "Linus Tech Tips",
@@ -34322,6 +34356,109 @@
           "views": 23,
           "pic": "https://i2.hdslb.com/bfs/archive/d6449c27e795263ee0e04701d5b68a145a34274b.jpg",
           "checked_at": "2026-11-05T01:31:40.538761+00:00"
+        }
+      ]
+    },
+    {
+      "id": "pmfHHLfbjNQ",
+      "title": "Big Ideas: Don't get any -- by James Houston",
+      "author": "James Houston",
+      "source_url": "https://www.youtube.com/watch?v=pmfHHLfbjNQ",
+      "summary": "James Houston's entry to Radiohead's Nude remix contest, performing the 6/8, 63bpm song on obsolete hardware such as hard drives, a dot matrix printer, a scanner and a ZX Spectrum.",
+      "why": "It is the canonical example HN brings up in threads about music hacks on floppy drives, printers and other junk hardware.",
+      "score": 1.5,
+      "tags": [
+        "radiohead",
+        "dot matrix printer",
+        "hard drive music",
+        "zx spectrum",
+        "retro computing"
+      ],
+      "categories": [
+        "demoscene-retrocomputing",
+        "music-performance",
+        "embedded-diy-electronics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Ms41117y2",
+          "page": 1,
+          "cid": 8792384,
+          "title": "Big Ideas: Don't get any -- by James Houston",
+          "up": "和光Channel",
+          "duration": 234,
+          "kind": "original",
+          "views": 1874,
+          "pic": "https://i2.hdslb.com/bfs/archive/39f42a6f2299359e6e974faff9dec045f1ca353f.png",
+          "checked_at": "2026-11-06T14:41:38.607738+00:00"
+        }
+      ]
+    },
+    {
+      "id": "v3XcQtoja_Y",
+      "title": "Facebook's Prototype VR Face Tracking Got Even Better",
+      "author": "UploadVR",
+      "source_url": "https://www.youtube.com/watch?v=v3XcQtoja_Y",
+      "summary": "UploadVR covers a Facebook Reality Labs prototype that tracks facial expressions using cameras mounted in a VR headset. The updated version captures subtle micro-expressions for realistic avatars.",
+      "why": "Pointed to in metaverse and VR threads as proof that realtime photorealistic face tracking from headset cameras is coming.",
+      "score": 1.5,
+      "tags": [
+        "virtual reality",
+        "facebook reality labs",
+        "face tracking",
+        "avatars",
+        "headset cameras"
+      ],
+      "categories": [
+        "vr-ar-spatial",
+        "computer-vision-speech"
+      ],
+      "versions": [
+        {
+          "bvid": "BV18x411R75q",
+          "page": 1,
+          "cid": 100122429,
+          "title": "Facebook黑科技 VR面部追踪原形展示",
+          "up": "D总刹一脚",
+          "duration": 226,
+          "kind": "original",
+          "views": 1876,
+          "pic": "https://i0.hdslb.com/bfs/archive/4f9e6b5fe940132d4f499604133c5a04b2fac2d9.jpg",
+          "checked_at": "2026-11-06T14:49:35.098911+00:00"
+        }
+      ]
+    },
+    {
+      "id": "yFVXsjVdvmY",
+      "title": "The mathematics of love | Hannah Fry",
+      "author": "TED",
+      "source_url": "https://www.youtube.com/watch?v=yFVXsjVdvmY",
+      "summary": "Mathematician Hannah Fry's TED talk on patterns in dating and mate-seeking, including optimal stopping and three math-backed tips for finding a partner.",
+      "why": "Mentioned whenever the optimal stopping or secretary problem comes up in relation to choosing a partner.",
+      "score": 1.5,
+      "tags": [
+        "hannah fry",
+        "optimal stopping",
+        "ted talk",
+        "relationships",
+        "probability"
+      ],
+      "categories": [
+        "probability-game-theory",
+        "social-issues-culture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1qL411X7rB",
+          "page": 1,
+          "cid": 1078116548,
+          "title": "The mathematics of love _ Hannah Fry",
+          "up": "开心阿婆",
+          "duration": 1021,
+          "kind": "original",
+          "views": 41,
+          "pic": "https://i0.hdslb.com/bfs/archive/39c33fa271724f513829ef4937dd93e67de78286.jpg",
+          "checked_at": "2026-11-06T14:53:38.133834+00:00"
         }
       ]
     },
@@ -34405,6 +34542,40 @@
           "views": 234,
           "pic": "https://i2.hdslb.com/bfs/archive/0ee7cdf71be63ead847666bee4f7b18b4512f468.jpg",
           "checked_at": "2026-11-04T23:03:58.021006+00:00"
+        }
+      ]
+    },
+    {
+      "id": "-BeTq99LqUo",
+      "title": "Dangerous tattoo remover from eBay is a MILLION watt laser",
+      "author": "styropyro",
+      "source_url": "https://www.youtube.com/watch?v=-BeTq99LqUo",
+      "summary": "Styropyro tests an eBay laser tattoo removal device and finds it is a roughly million-watt pulsed laser, powerful enough to ignite air in the beam. He had bought it hoping to salvage an Nd:YAG laser cavity.",
+      "why": "HN mostly cites it as an example of the absurdly powerful lasers sold cheaply online, and a nod to the channel's DIY laser builds.",
+      "score": 1.0,
+      "tags": [
+        "lasers",
+        "nd:yag",
+        "tattoo removal",
+        "electronics",
+        "laser safety"
+      ],
+      "categories": [
+        "electronics-circuits",
+        "everyday-physics-demos"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1sJ411C7qq",
+          "page": 1,
+          "cid": 135310302,
+          "title": "激光纹身去除设备测试，功率达到百万瓦特！【Dangerous tattoo remover from eBay is a MILLION watt laser】",
+          "up": "MAD实验室",
+          "duration": 1146,
+          "kind": "original",
+          "views": 2978,
+          "pic": "https://i2.hdslb.com/bfs/archive/687dbc07e5f3e013f1f03345ff9818bd8b95e104.jpg",
+          "checked_at": "2026-11-06T14:58:19.173601+00:00"
         }
       ]
     },
@@ -35101,6 +35272,42 @@
           "views": 100,
           "pic": "https://i0.hdslb.com/bfs/archive/da64bc9d50e739da1b3dfa991c3e93e5ba0a6bcc.jpg",
           "checked_at": "2026-11-04T23:03:55.466504+00:00"
+        }
+      ]
+    },
+    {
+      "id": "VkR2hnXR0SM",
+      "title": "Blindsight Sci-fi Short Film",
+      "author": "Danil Krivoruchko",
+      "source_url": "https://www.youtube.com/watch?v=VkR2hnXR0SM",
+      "summary": "A five-minute CG sci-fi short film by Danil Krivoruchko, based on Peter Watts's novel Blindsight. It follows a revived crew member recalling a first contact mission, and took four years to make with artists worldwide.",
+      "why": "Shared as a fan-made teaser for Blindsight in threads about the novel or alien intelligence.",
+      "score": 1.0,
+      "tags": [
+        "blindsight",
+        "peter watts",
+        "sci-fi",
+        "short film",
+        "first contact",
+        "cgi"
+      ],
+      "categories": [
+        "film-video-production",
+        "animation-vfx",
+        "literature-writing"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1xK411A71s",
+          "page": 1,
+          "cid": 245600105,
+          "title": "《Blindsight》CG短片",
+          "up": "小刺猬Artist",
+          "duration": 284,
+          "kind": "original",
+          "views": 913,
+          "pic": "https://i0.hdslb.com/bfs/archive/cd27e08ef24cc8ed8177956c430550b01c567fb5.jpg",
+          "checked_at": "2026-11-06T14:59:34.638128+00:00"
         }
       ]
     },
@@ -38723,12 +38930,17 @@
     "BV1Ji421v77F": "h_zgURwr6nA",
     "BV1Es4y1R7t4": "l4w6808wJcU",
     "BV17vTg6yEvo": "l4w6808wJcU",
+    "BV1LYUSB9E3G": "mH0oCDa74tE",
     "BV1azSkBhEAB": "mfv0V1SxbNA",
+    "BV1Ms41117y2": "pmfHHLfbjNQ",
+    "BV18x411R75q": "v3XcQtoja_Y",
+    "BV1qL411X7rB": "yFVXsjVdvmY",
     "BV1yM4y1F7MT": "ycPr5-27vSI",
     "BV1jR4y1f74B": "ycPr5-27vSI",
     "BV1wb411b7KZ": "ycPr5-27vSI",
     "BV1St41147HX": "ycPr5-27vSI",
     "BV12Y4y1z7xs": "ycPr5-27vSI",
+    "BV1sJ411C7qq": "-BeTq99LqUo",
     "BV1ya4y1L7VN": "-ZDZtBRTyeI",
     "BV1iS9AYyEbv": "0mCsluv5FXA",
     "BV1pC4y1m7fZ": "2k8fHR9jKVM",
@@ -38750,6 +38962,7 @@
     "BV1vs411t7ga": "TnzcwTyr6cE",
     "BV1Uf4y127Nb": "U5kIdtMJGc8",
     "BV1yuHCeGEjb": "UBVV8pch1dM",
+    "BV1xK411A71s": "VkR2hnXR0SM",
     "BV1EvR5YmEp5": "ZI198eFghJk",
     "BV1bM4y1b7C5": "_2NI6t2r_Hs",
     "BV1HV411m7Ui": "_2NI6t2r_Hs",
