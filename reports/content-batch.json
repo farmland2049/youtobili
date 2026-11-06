@@ -1,76 +1,155 @@
 {
-  "baseline_commit": "298b3194e2103d55636ed37b336e60ebd331ae62",
+  "baseline_commit": "8636e56ae1b0c3d398ef83b0e4e36407be60f747",
   "phase_status": "stopped",
   "before": {
-    "corpus": 6454,
-    "processed": 3178,
-    "confirmed": 894,
-    "coverage": 0.13851874806321662,
-    "processed_match_rate": 0.2813089993706734
-  },
-  "after": {
     "corpus": 6454,
     "processed": 3204,
     "confirmed": 895,
     "coverage": 0.13867369073442826,
     "processed_match_rate": 0.2793383270911361
   },
-  "newly_processed": 26,
+  "after": {
+    "corpus": 6454,
+    "processed": 3265,
+    "confirmed": 904,
+    "coverage": 0.14006817477533312,
+    "processed_match_rate": 0.27687595712098007
+  },
+  "newly_processed": 61,
+  "newly_processed_confirmed": 9,
+  "newly_processed_match_rate": 0.14754098360655737,
   "added_originals": [
-    "OINa46HeWg8"
+    "CIjXUg1s5gc",
+    "QUcTsFe1PVs",
+    "R2_Mn-qRKjA",
+    "S4O5voOCqAQ",
+    "SA8ZBJWo73E",
+    "SDXB0CY2tSQ",
+    "SqayDnQ2wmw",
+    "ThjvMReOXYM",
+    "aWvHrih-Juk"
   ],
   "withdrawn_originals": [],
-  "versions": 1216,
+  "versions": 1227,
   "added_versions": [
     {
-      "id": "OINa46HeWg8",
-      "bvid": "BV12x411h7im",
+      "id": "CIjXUg1s5gc",
+      "bvid": "BV1kx411u7tz",
+      "page": 1
+    },
+    {
+      "id": "QUcTsFe1PVs",
+      "bvid": "BV1Gt411f7w1",
+      "page": 1
+    },
+    {
+      "id": "R2_Mn-qRKjA",
+      "bvid": "BV1Ga411J75V",
+      "page": 1
+    },
+    {
+      "id": "S4O5voOCqAQ",
+      "bvid": "BV1SjroYXEmG",
+      "page": 1
+    },
+    {
+      "id": "SA8ZBJWo73E",
+      "bvid": "BV1wpr4BmE9w",
+      "page": 1
+    },
+    {
+      "id": "SDXB0CY2tSQ",
+      "bvid": "BV1RT4y1h72v",
+      "page": 1
+    },
+    {
+      "id": "SqayDnQ2wmw",
+      "bvid": "BV19s411g7jZ",
+      "page": 1
+    },
+    {
+      "id": "SqayDnQ2wmw",
+      "bvid": "BV1P7g6z8E5U",
+      "page": 1
+    },
+    {
+      "id": "SqayDnQ2wmw",
+      "bvid": "BV1sXPGzgEvs",
+      "page": 1
+    },
+    {
+      "id": "ThjvMReOXYM",
+      "bvid": "BV1V3411A74K",
+      "page": 1
+    },
+    {
+      "id": "aWvHrih-Juk",
+      "bvid": "BV1mo4y1K7eA",
       "page": 1
     }
   ],
   "withdrawn_versions": [],
   "search_batches": [
     {
-      "id": "20261106T072247Z",
+      "id": "20261106T073426Z",
       "selected": 50,
-      "completed": 26,
-      "errors": [
-        {
-          "vid": "OMcjxe8slYI",
-          "reason": "URLError"
-        }
-      ],
+      "completed": 50,
+      "errors": [],
       "stopped": false,
       "originals": [
-        "MtxA20Q-Uss",
-        "Mx-AllVZ1VY",
-        "My4RA5I0FKs",
-        "N2jZryt607U",
-        "N65DpT2nqEI",
-        "NBvbsPNBIyk",
-        "NM51qOpwcIM",
-        "NPOHf20slZg",
-        "NST3u-GjjFw",
-        "NSuaUok-wTY",
-        "NV2yvI4Id9Q",
-        "NVEgyJCTee4",
-        "NY66qpMFOYo",
-        "NYa8kirsUfg",
-        "NZR_vMTLfIk",
-        "N_4R4X7AWtU",
-        "Nbv9L-WIu0s",
-        "NcUJnmBqHTY",
-        "NftT6HWFgq0",
-        "Nwew5gHoh3E",
-        "NxvQPzrg2Wg",
-        "O1lZ9n2bxWA",
-        "O4Ko7NW2yQo",
-        "OB-bdWKwXsU",
-        "OINa46HeWg8",
-        "OJv8rFap0Nw"
+        "OMi6xgdSbMA",
+        "OOK5xkFijPc",
+        "OOeBJ8mDr8Q",
+        "ObiqJzfyACM",
+        "OgRFOjVzvm0",
+        "OkEdyq3UE5M",
+        "OqmdLcyES_Q",
+        "OsDy-4L6-tQ",
+        "Ot4qdCs54ZE",
+        "OyBNmecVtdU",
+        "P1IcaBn3ej0",
+        "PC2JOQ7z5L0",
+        "PDL_pIPScSI",
+        "PHiyQID7SBs",
+        "PZRI1IfStY0",
+        "PaKIZ7gJlRU",
+        "Pm8P4oCIY3g",
+        "Q13CishCKXY",
+        "Q8ccXzM3x8A",
+        "Q8oCilY4szc",
+        "QAz-maaH0KM",
+        "QEJpZjg8GuA",
+        "QMVIJhC9Veg",
+        "QUcTsFe1PVs",
+        "Qaq9vlfoGnA",
+        "QdzV04T_kec",
+        "QeLu_yyz3tc",
+        "R13BD8qKeTg",
+        "R2_Mn-qRKjA",
+        "R2paSGQRwvo",
+        "R3bo-s_OY4Q",
+        "R9c-_neaxeU",
+        "RLySXTIBS3c",
+        "RcGyVTAoXEU",
+        "RijGNytjbOI",
+        "S-3wEC6Fj_8",
+        "S-VAL7Epn3o",
+        "S0dSm_ClcSw",
+        "S4O5voOCqAQ",
+        "S4W-P5aCWJs",
+        "SA8ZBJWo73E",
+        "SBvclVcesEE",
+        "SDXB0CY2tSQ",
+        "SFv8Wm2HdNM",
+        "SSH5EY-W5oM",
+        "SZazYFchLRI",
+        "SaadsrHBygc",
+        "Sf036fO-ZUk",
+        "SqayDnQ2wmw",
+        "T-TwcmT6Rcw"
       ],
       "primary_first": true,
-      "deferred_candidates": 30,
+      "deferred_candidates": 112,
       "excluded_originals": [
         "05WS0WN7zMQ",
         "1bO8zEaSuWg",
@@ -84,6 +163,7 @@
         "MpfvhiqFw7A",
         "NTJQTc-TqpU",
         "OL6-x0modwY",
+        "OMcjxe8slYI",
         "QVuU2YCwHjw",
         "SYeeTvitvFU",
         "bwDrHqNZ9lo",
@@ -96,19 +176,88 @@
         "uTdyb-RWNKo",
         "vs41JrnGaxc"
       ],
-      "attempted": 27,
-      "unattempted": 23,
+      "attempted": 50,
+      "unattempted": 0,
       "statuses": {
-        "review": 26,
+        "review": 44,
+        "confirmed": 6
+      },
+      "candidate_count": 1855
+    },
+    {
+      "id": "20261106T075248Z",
+      "selected": 50,
+      "completed": 8,
+      "errors": [
+        {
+          "vid": "TiXINuf5nbI",
+          "reason": "URLError"
+        }
+      ],
+      "stopped": false,
+      "originals": [
+        "T2IaJwkqgPk",
+        "TLm7Q92xMjQ",
+        "TMbl_ofF3AM",
+        "TPuJsgyu87U",
+        "TRL7o2kPqw0",
+        "TTM_b7EJg5E",
+        "Th4VlqQyVr4",
+        "ThjvMReOXYM"
+      ],
+      "primary_first": true,
+      "deferred_candidates": 4,
+      "excluded_originals": [
+        "05WS0WN7zMQ",
+        "1bO8zEaSuWg",
+        "4_qJptwikRc",
+        "6JAgXz6xO0s",
+        "AJgY9FtDLbs",
+        "HQKy1KJpSVc",
+        "IvUU8joBb1Q",
+        "Ks-_Mh1QhMc",
+        "MNXypBxNGMo",
+        "MpfvhiqFw7A",
+        "NTJQTc-TqpU",
+        "OL6-x0modwY",
+        "OMcjxe8slYI",
+        "QVuU2YCwHjw",
+        "SYeeTvitvFU",
+        "bwDrHqNZ9lo",
+        "cVaTc15plVs",
+        "cjuGCJJUGsg",
+        "dX649lnKAU0",
+        "hhMAt3BluAU",
+        "s9fByRmAHgU",
+        "st571DYYTR8",
+        "uTdyb-RWNKo",
+        "vs41JrnGaxc"
+      ],
+      "attempted": 9,
+      "unattempted": 41,
+      "statuses": {
+        "review": 8,
         "confirmed": 1
       },
-      "candidate_count": 1022
+      "candidate_count": 342
     }
   ],
-  "completed_search_originals": 26,
-  "direct_search_attempts": 27,
-  "unattempted_after_error": 23,
-  "source_verification_batches": [],
+  "completed_search_originals": 58,
+  "direct_search_attempts": 59,
+  "unattempted_after_error": 41,
+  "source_verification_batches": [
+    {
+      "id": "2026-11-06T07:52:10.519842+00:00",
+      "source": "serial-20261106T073358Z-leads-1.json",
+      "attempted": 6,
+      "completed": 6,
+      "confirmed": 4,
+      "errors": [],
+      "stopped": false
+    }
+  ],
+  "source_leads_completed": 6,
+  "source_confirmed_versions": 4,
   "blocked_originals": {
     "st571DYYTR8": "prior URLError; no retry or unavailable classification",
     "HQKy1KJpSVc": "prior URLError; no retry or unavailable classification",
@@ -133,35 +282,96 @@
     "Ks-_Mh1QhMc": "URLError in current phase; failed search left unprocessed; do not classify unavailable",
     "MNXypBxNGMo": "URLError in current phase; failed search left unprocessed; do not classify unavailable",
     "MpfvhiqFw7A": "URLError in current phase; failed search left unprocessed; do not classify unavailable",
-    "OMcjxe8slYI": "URLError; no retry; availability unknown"
+    "OMcjxe8slYI": "URLError; no retry; availability unknown",
+    "TiXINuf5nbI": "URLError; not retried; availability unknown"
   },
   "metadata_title_review": {
-    "baseline_commit": "298b3194e2103d55636ed37b336e60ebd331ae62",
+    "baseline_commit": "8636e56ae1b0c3d398ef83b0e4e36407be60f747",
     "review_status": "metadata_consistency_review_completed_for_snapshot",
-    "reviewed_at": "2026-11-06T07:31:48.761889+00:00",
-    "scope": "Read original, Bilibili and segment titles for 1 versions; no frame comparison."
+    "reviewed_at": "2026-11-06T07:55:40.545502+00:00",
+    "scope": "Read original, Bilibili and segment titles for 11 versions; no frame comparison."
   },
-  "metadata_rows_checked": 1,
+  "metadata_rows_checked": 11,
   "manual_downgrades": [],
   "cached_new_version_audit": {
-    "at": "2026-11-06T07:31:35.637716+00:00",
+    "at": "2026-11-06T07:55:19.530850+00:00",
     "requests": 0,
-    "versions_checked": 1,
+    "versions_checked": 11,
     "versions": [
       {
-        "id": "OINa46HeWg8",
-        "bvid": "BV12x411h7im",
+        "id": "QUcTsFe1PVs",
+        "bvid": "BV1Gt411f7w1",
         "page": 1,
-        "cid": 19057563
+        "cid": 59677060
+      },
+      {
+        "id": "R2_Mn-qRKjA",
+        "bvid": "BV1Ga411J75V",
+        "page": 1,
+        "cid": 720616302
+      },
+      {
+        "id": "S4O5voOCqAQ",
+        "bvid": "BV1SjroYXEmG",
+        "page": 1,
+        "cid": 27756528795
+      },
+      {
+        "id": "SA8ZBJWo73E",
+        "bvid": "BV1wpr4BmE9w",
+        "page": 1,
+        "cid": 35388588049
+      },
+      {
+        "id": "SDXB0CY2tSQ",
+        "bvid": "BV1RT4y1h72v",
+        "page": 1,
+        "cid": 579862663
+      },
+      {
+        "id": "SqayDnQ2wmw",
+        "bvid": "BV19s411g7jZ",
+        "page": 1,
+        "cid": 49917971
+      },
+      {
+        "id": "SqayDnQ2wmw",
+        "bvid": "BV1sXPGzgEvs",
+        "page": 1,
+        "cid": 36385850407
+      },
+      {
+        "id": "SqayDnQ2wmw",
+        "bvid": "BV1P7g6z8E5U",
+        "page": 1,
+        "cid": 30771839336
+      },
+      {
+        "id": "CIjXUg1s5gc",
+        "bvid": "BV1kx411u7tz",
+        "page": 1,
+        "cid": 24813560
+      },
+      {
+        "id": "aWvHrih-Juk",
+        "bvid": "BV1mo4y1K7eA",
+        "page": 1,
+        "cid": 1153869354
+      },
+      {
+        "id": "ThjvMReOXYM",
+        "bvid": "BV1V3411A74K",
+        "page": 1,
+        "cid": 721577137
       }
     ],
     "segment_conflicts": [],
     "scope": "Read-only live-run snapshot; final audit still required for later results."
   },
   "browser_tests": {
-    "checked_at": "2026-11-06T07:31:50.144Z",
+    "checked_at": "2026-11-06T07:55:42.049Z",
     "status": "pass",
-    "originals": 895,
+    "originals": 904,
     "scenarios": [
       "desktop rendering",
       "mobile rendering/no horizontal overflow",
@@ -182,35 +392,244 @@
     "page_errors": []
   },
   "playback": {
-    "checked_at": "2026-11-06T07:31:55.878Z",
+    "checked_at": "2026-11-06T07:56:48.154Z",
     "checks": [
       {
-        "sample": "OINa46HeWg8",
+        "sample": "QUcTsFe1PVs",
         "kind": "original",
-        "id": "OINa46HeWg8",
-        "bvid": "BV12x411h7im",
+        "id": "QUcTsFe1PVs",
+        "bvid": "BV1Gt411f7w1",
         "page": 1,
         "playing": true,
         "media": {
           "readyState": 4,
-          "currentTime": 3.936645,
-          "duration": 131,
+          "currentTime": 4.248636,
+          "duration": 236,
           "paused": false
         },
-        "expected_duration": 130,
+        "expected_duration": 236,
         "duration_matches_segment": true,
         "requested_cids": [
-          "19057563"
+          "59677060"
         ],
         "requested_cid_observed": true,
-        "visible_text": "B01. I Forgot My Phone\n雪夜飛行\n关注\n1\n0\n分享\n更多\n00:04 / 02:11\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+        "visible_text": "古蘇美爾音樂——吉爾伽美什傳奇（The Epic Of Gilgamesh In Sumerian）\n小庚君\n关注\n155\n26\n分享\n更多\n00:05 / 03:56\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+      },
+      {
+        "sample": "R2_Mn-qRKjA",
+        "kind": "original",
+        "id": "R2_Mn-qRKjA",
+        "bvid": "BV1Ga411J75V",
+        "page": 1,
+        "playing": true,
+        "media": {
+          "readyState": 4,
+          "currentTime": 3.953834,
+          "duration": 93,
+          "paused": false
+        },
+        "expected_duration": 93,
+        "duration_matches_segment": true,
+        "requested_cids": [
+          "720616302"
+        ],
+        "requested_cid_observed": true,
+        "visible_text": "BoJack Horseman -\"It gets easier\" (Season 2 Ending)\nSayafurika\n关注\n5\n2\n分享\n更多\n00:04 / 01:33\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+      },
+      {
+        "sample": "S4O5voOCqAQ",
+        "kind": "original",
+        "id": "S4O5voOCqAQ",
+        "bvid": "BV1SjroYXEmG",
+        "page": 1,
+        "playing": true,
+        "media": {
+          "readyState": 4,
+          "currentTime": 4.29443,
+          "duration": 195,
+          "paused": false
+        },
+        "expected_duration": 195,
+        "duration_matches_segment": true,
+        "requested_cids": [
+          "27756528795"
+        ],
+        "requested_cid_observed": true,
+        "visible_text": "Olympic Cyclist Vs. Toaster\n账号已注销\n关注\n0\n2\n分享\n更多\n00:05 / 03:15\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+      },
+      {
+        "sample": "SA8ZBJWo73E",
+        "kind": "dub_zh",
+        "id": "SA8ZBJWo73E",
+        "bvid": "BV1wpr4BmE9w",
+        "page": 1,
+        "playing": true,
+        "media": {
+          "readyState": 4,
+          "currentTime": 3.951038,
+          "duration": 3679,
+          "paused": false
+        },
+        "expected_duration": 3679,
+        "duration_matches_segment": true,
+        "requested_cids": [
+          "35388588049"
+        ],
+        "requested_cid_observed": true,
+        "visible_text": "[中配]深入探秘SpaceX Starbase工厂 - Everyday Astronaut\nWawa七七四十九\n关注\n2\n0\n分享\n更多\n0:00:04 / 1:01:19\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+      },
+      {
+        "sample": "SDXB0CY2tSQ",
+        "kind": "original",
+        "id": "SDXB0CY2tSQ",
+        "bvid": "BV1RT4y1h72v",
+        "page": 1,
+        "playing": true,
+        "media": {
+          "readyState": 4,
+          "currentTime": 3.953454,
+          "duration": 944,
+          "paused": false
+        },
+        "expected_duration": 944,
+        "duration_matches_segment": true,
+        "requested_cids": [
+          "579862663"
+        ],
+        "requested_cid_observed": true,
+        "visible_text": "Business Parks Suck but they dont have to\nYizhou_Wang\n关注\n0\n3\n分享\n更多\n00:04 / 15:44\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+      },
+      {
+        "sample": "SqayDnQ2wmw",
+        "kind": "original",
+        "id": "SqayDnQ2wmw",
+        "bvid": "BV19s411g7jZ",
+        "page": 1,
+        "playing": true,
+        "media": {
+          "readyState": 4,
+          "currentTime": 3.949153,
+          "duration": 319,
+          "paused": false
+        },
+        "expected_duration": 319,
+        "duration_matches_segment": true,
+        "requested_cids": [
+          "49917971"
+        ],
+        "requested_cid_observed": true,
+        "visible_text": "Aphex Twin - T69 Collapse\n莰禁黫\n关注\n181\n32\n分享\n更多\n00:04 / 05:19\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+      },
+      {
+        "sample": "SqayDnQ2wmw",
+        "kind": "original",
+        "id": "SqayDnQ2wmw",
+        "bvid": "BV1sXPGzgEvs",
+        "page": 1,
+        "playing": true,
+        "media": {
+          "readyState": 4,
+          "currentTime": 3.955716,
+          "duration": 319,
+          "paused": false
+        },
+        "expected_duration": 319,
+        "duration_matches_segment": true,
+        "requested_cids": [
+          "36385850407"
+        ],
+        "requested_cid_observed": true,
+        "visible_text": "Aphex Twin - T69 Collapse\n工业女\n关注\n26\n14\n分享\n更多\n00:04 / 05:19\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+      },
+      {
+        "sample": "SqayDnQ2wmw",
+        "kind": "original",
+        "id": "SqayDnQ2wmw",
+        "bvid": "BV1P7g6z8E5U",
+        "page": 1,
+        "playing": true,
+        "media": {
+          "readyState": 4,
+          "currentTime": 4.313831,
+          "duration": 319,
+          "paused": false
+        },
+        "expected_duration": 319,
+        "duration_matches_segment": true,
+        "requested_cids": [
+          "30771839336"
+        ],
+        "requested_cid_observed": true,
+        "visible_text": "Aphex Twin - T69 Collapse【IDM】\nEcho-Sky\n关注\n15\n4\n分享\n更多\n00:05 / 05:19\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+      },
+      {
+        "sample": "ThjvMReOXYM",
+        "kind": "original",
+        "id": "ThjvMReOXYM",
+        "bvid": "BV1V3411A74K",
+        "page": 1,
+        "playing": true,
+        "media": {
+          "readyState": 4,
+          "currentTime": 3.958718,
+          "duration": 9241,
+          "paused": false
+        },
+        "expected_duration": 9242,
+        "duration_matches_segment": true,
+        "requested_cids": [
+          "721577137"
+        ],
+        "requested_cid_observed": true,
+        "visible_text": "Crust of Rust：async/await\n笨1993\n关注\n5\n0\n分享\n更多\n0:00:04 / 2:34:01\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+      },
+      {
+        "sample": "aWvHrih-Juk",
+        "kind": "original",
+        "id": "aWvHrih-Juk",
+        "bvid": "BV1mo4y1K7eA",
+        "page": 1,
+        "playing": true,
+        "media": {
+          "readyState": 4,
+          "currentTime": 3.950488,
+          "duration": 2241,
+          "paused": false
+        },
+        "expected_duration": 2241,
+        "duration_matches_segment": true,
+        "requested_cids": [
+          "1153869354"
+        ],
+        "requested_cid_observed": true,
+        "visible_text": "【搬运】每日宇航员 如何游玩STARBASE Everyday Astronaut How To Visit STARBASE\n瑞士科学家爱德华兹\n关注\n14\n1\n分享\n更多\n00:04 / 37:21\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+      },
+      {
+        "sample": "CIjXUg1s5gc",
+        "kind": "original",
+        "id": "CIjXUg1s5gc",
+        "bvid": "BV1kx411u7tz",
+        "page": 1,
+        "playing": true,
+        "media": {
+          "readyState": 4,
+          "currentTime": 4.305265,
+          "duration": 828,
+          "paused": false
+        },
+        "expected_duration": 828,
+        "duration_matches_segment": true,
+        "requested_cids": [
+          "24813560"
+        ],
+        "requested_cid_observed": true,
+        "visible_text": "NPR小桌音乐会：T-Pain\nChroniccc\n关注\n8\n4\n分享\n更多\n00:05 / 13:48\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
       }
     ]
   },
   "unit_tests": {
-    "passed": 64,
-    "scope": "passed during this resumed task; code unchanged"
+    "passed": 64
   },
-  "remaining_unprocessed": 3250,
-  "remaining_processed_unconfirmed": 2309
+  "remaining_unprocessed": 3189,
+  "remaining_processed_unconfirmed": 2361
 }
