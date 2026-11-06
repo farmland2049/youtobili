@@ -1,70 +1,38 @@
 # 匹配进展
 
-更新时间：2026-11-06T03:46:12.809812+00:00
+更新时间：2026-11-06T03:52:14.432517+00:00
 
 - 原片库：6454
-- 完成处理：2752
-- 已确认原片：837
-- 全库覆盖率：12.97%
-- 已处理原片匹配率：30.41%
-- 状态：{'confirmed': 837, 'review': 1926}
+- 完成处理：2757
+- 已确认原片：839
+- 全库覆盖率：13.00%
+- 已处理原片匹配率：30.43%
+- 状态：{'confirmed': 839, 'review': 1930}
 
-- 待审中尚需扩大候选检查：170
-- 已扩大检查仍待审核：1756
+- 待审中尚需扩大候选检查：171
+- 已扩大检查仍待审核：1759
 
 ## 最近批次
 
 ```json
 {
-  "id": "20261106T033344Z",
+  "id": "20261106T035104Z",
   "selected": 50,
-  "completed": 35,
+  "completed": 3,
   "errors": [
     {
-      "vid": "bwDrHqNZ9lo",
+      "vid": "cVaTc15plVs",
       "reason": "URLError"
     }
   ],
   "stopped": false,
   "originals": [
-    "VdqhHKjepiE",
-    "W4SxKWwFhA0",
-    "W88Sact1kws",
-    "WB2-2j9e4co",
-    "WRdJCFEqFTU",
-    "WVTWCPoUt8w",
-    "Wi_nFz1CJSI",
-    "Wp7GAKLSGnI",
-    "X1T3IQ4N-3g",
-    "X29lF43mUlo",
-    "XtMmeAjQTXc",
-    "YNTARSM-Fjc",
-    "YXylqtEQ0tk",
-    "YcUycQoz0zg",
-    "Ygty9HxhFK4",
-    "Yze1YAz_LYM",
-    "Z0oFJ2jbkDI",
-    "Z2o_Sp2-aBo",
-    "ZlfIVEy_YOA",
-    "_BNIkw4Ao9w",
-    "_Cm6EFYktRQ",
-    "__wn9zXFiy8",
-    "_gXiVOmaVSo",
-    "_zSjpIyMt0k",
-    "a1PtQ67urG4",
-    "aNAtbYSxzuA",
-    "aXvDEmo6uS4",
-    "aZY-yQYVf38",
-    "aeRVdYN6fE8",
-    "agw-wlHGi0E",
-    "b9IkpUYlOx8",
-    "bB340S0tGf8",
-    "bM0PmwOlifE",
-    "baFaEvBywGc",
-    "bnoUBfLxZz0"
+    "c52QhiXsmyI",
+    "cBDJDZAo41c",
+    "cQWlnTyOSig"
   ],
   "primary_first": true,
-  "deferred_candidates": 46,
+  "deferred_candidates": 0,
   "excluded_originals": [
     "AJgY9FtDLbs",
     "HQKy1KJpSVc",
@@ -72,18 +40,18 @@
     "OL6-x0modwY",
     "QVuU2YCwHjw",
     "SYeeTvitvFU",
+    "bwDrHqNZ9lo",
     "cjuGCJJUGsg",
     "s9fByRmAHgU",
     "st571DYYTR8",
     "vs41JrnGaxc"
   ],
-  "attempted": 36,
-  "unattempted": 14,
+  "attempted": 4,
+  "unattempted": 46,
   "statuses": {
-    "review": 33,
-    "confirmed": 3
+    "review": 4
   },
-  "candidate_count": 1380
+  "candidate_count": 149
 }
 ```
 
@@ -91,11 +59,11 @@
 
 ```json
 {
-  "id": "2026-11-06T03:33:21.636498+00:00",
-  "source": "serial-20261106T031637Z-leads-1.json",
-  "attempted": 3,
-  "completed": 3,
-  "confirmed": 2,
+  "id": "2026-11-06T03:50:33.116183+00:00",
+  "source": "serial-20261106T035008Z-leads-1.json",
+  "attempted": 5,
+  "completed": 5,
+  "confirmed": 5,
   "errors": [],
   "stopped": false
 }
