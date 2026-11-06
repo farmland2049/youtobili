@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-06T16:55:20.046943+00:00",
+  "updated_at": "2026-11-06T16:58:49.763681+00:00",
   "corpus": 6454,
-  "processed": 3990,
-  "confirmed": 966,
-  "coverage": 0.14967462039045554,
-  "processed_match_rate": 0.24210526315789474,
+  "processed": 3991,
+  "confirmed": 967,
+  "coverage": 0.14982956306166717,
+  "processed_match_rate": 0.24229516411926835,
   "statuses": {
-    "confirmed": 966,
-    "review": 3062
+    "confirmed": 967,
+    "review": 3063
   },
-  "not_processed": 2464,
+  "not_processed": 2463,
   "verification_batch": {
     "id": "2026-11-06T16:44:05.020817+00:00",
     "source": "cached-identity-leads.json",
@@ -171,34 +171,31 @@
     {
       "vid": "AfKZclMWS1U",
       "reason": "URLError"
+    },
+    {
+      "vid": "AjSl4n_KdOY",
+      "reason": "URLError"
     }
   ],
-  "candidates": 133808,
-  "review_expansion_pending": 200,
+  "candidates": 133848,
+  "review_expansion_pending": 201,
   "expanded_reviews": 2862,
   "batch": {
-    "id": "20261106T164949Z",
+    "id": "20261106T165716Z",
     "selected": 50,
-    "completed": 8,
+    "completed": 1,
     "errors": [
       {
-        "vid": "AfKZclMWS1U",
+        "vid": "AjSl4n_KdOY",
         "reason": "URLError"
       }
     ],
     "stopped": false,
     "originals": [
-      "AIxY_Y9TGWI",
-      "AJ2keSJzYyY",
-      "ARKbfWk4Xyw",
-      "AXlyMrv8_dQ",
-      "AYshVbcEmUc",
-      "AaZ_RSt0KP8",
-      "AbSehcT19u0",
-      "Ae9EKCyI1xU"
+      "AgkfIQ4IGaM"
     ],
     "primary_first": true,
-    "deferred_candidates": 28,
+    "deferred_candidates": 25,
     "excluded_originals": [
       "05WS0WN7zMQ",
       "1bO8zEaSuWg",
@@ -210,6 +207,7 @@
       "A1vyB-O5i6E",
       "AIZgw09CG9E",
       "AJgY9FtDLbs",
+      "AfKZclMWS1U",
       "FUPstXCqyus",
       "HQKy1KJpSVc",
       "IvUU8joBb1Q",
@@ -238,30 +236,30 @@
       "vs41JrnGaxc",
       "y4sOfO8Ei1g"
     ],
-    "attempted": 9,
-    "unattempted": 41,
+    "attempted": 2,
+    "unattempted": 48,
     "statuses": {
-      "review": 8,
+      "review": 1,
       "confirmed": 1
     },
-    "candidate_count": 334
+    "candidate_count": 40
   },
   "candidate_statuses": {
-    "review": 132492,
-    "confirmed": 1308,
+    "review": 132531,
+    "confirmed": 1309,
     "unmatched": 7,
     "invalid": 1
   },
   "review_reasons": {
     "duration outside tolerance": 83,
     "no explicit original URL; manual identity review required; conflicting years": 115,
-    "no explicit original URL; manual identity review required": 6486,
+    "no explicit original URL; manual identity review required": 6487,
     "collection segment identity requires review": 143,
-    "no explicit original URL; manual identity review required; collection segment identity requires review": 1147,
+    "no explicit original URL; manual identity review required; collection segment identity requires review": 1148,
     "no explicit original URL; manual identity review required; duration outside tolerance; collection segment identity requires review": 12381,
     "no explicit original URL; manual identity review required; duration outside tolerance": 18092,
     "duration outside tolerance; collection segment identity requires review": 22,
-    "search duration shorter than original beyond tolerance; detail review deferred": 86167,
+    "search duration shorter than original beyond tolerance; detail review deferred": 86179,
     "description links multiple originals": 17,
     "no explicit original URL; manual identity review required; conflicting episode": 11,
     "no explicit original URL; manual identity review required; conflicting years; duration outside tolerance": 457,
@@ -280,7 +278,7 @@
     "no explicit original URL; manual identity review required; possibly abridged; duration outside tolerance": 45,
     "no explicit original URL; manual identity review required; possibly abridged; duration outside tolerance; collection segment identity requires review": 56,
     "conflicting episode; duration outside tolerance": 1,
-    "detail review deferred after primary identity confirmed": 6242,
+    "detail review deferred after primary identity confirmed": 6267,
     "no explicit original URL; manual identity review required; conflicting episode; collection segment identity requires review": 5,
     "possibly abridged": 2,
     "derivative content requires review": 2,

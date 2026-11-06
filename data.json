@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T16:55:20.069271+00:00",
+  "built_at": "2026-11-06T16:58:49.786462+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 3990,
-    "confirmed": 966,
-    "coverage": 0.14967462039045554,
-    "processed_match_rate": 0.24210526315789474
+    "processed": 3991,
+    "confirmed": 967,
+    "coverage": 0.14982956306166717,
+    "processed_match_rate": 0.24229516411926835
   },
   "areas": [
     {
@@ -35205,6 +35205,41 @@
       ]
     },
     {
+      "id": "AgkfIQ4IGaM",
+      "title": "Deep Visualization Toolbox",
+      "author": "Jason Yosinski",
+      "source_url": "https://www.youtube.com/watch?v=AgkfIQ4IGaM",
+      "summary": "A short demo of the Deep Visualization Toolbox, which shows the activations inside a convolutional neural network as it processes live camera input. Viewers see individual units responding to edges, faces and text.",
+      "why": "HN points to it as an intuitive way to see what hidden layers of a convnet learn, and as a reference for hierarchical feature learning.",
+      "score": 1.0,
+      "tags": [
+        "convnets",
+        "feature visualization",
+        "caffe",
+        "interpretability",
+        "computer vision"
+      ],
+      "categories": [
+        "machine-learning",
+        "computer-vision-speech",
+        "data-visualization"
+      ],
+      "versions": [
+        {
+          "bvid": "BV19s411Y7yM",
+          "page": 1,
+          "cid": 12107399,
+          "title": "Deep Visualization Toolbox",
+          "up": "悟空快看看八戒熟了吗",
+          "duration": 233,
+          "kind": "original",
+          "views": 1307,
+          "pic": "https://i2.hdslb.com/bfs/archive/d39e12e54b5d2412e9d7cc30661925fb40ce018d.jpg",
+          "checked_at": "2026-11-06T16:57:27.486330+00:00"
+        }
+      ]
+    },
+    {
       "id": "CBrj4S24074",
       "title": "Chris Crawford Dragon Speech \"I Had a Dream\"",
       "author": "Chris Crawford",
@@ -39346,6 +39381,7 @@
     "BV1Zq4y1d7xr": "9KR2N_Q8ep8",
     "BV1Pb4y1S7Fc": "ALaTm6VzTBw",
     "BV1WW411c7XM": "AYshVbcEmUc",
+    "BV19s411Y7yM": "AgkfIQ4IGaM",
     "BV1gq4y1U7xN": "CBrj4S24074",
     "BV1kx411u7tz": "CIjXUg1s5gc",
     "BV1Uw4m1r7Vd": "GwzN5YwMzv0",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T16:55:20.089626+00:00",
+  "updated_at": "2026-11-06T16:58:49.807253+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -55852,6 +55852,42 @@
     },
     "AfKZclMWS1U": {
       "vid": "AfKZclMWS1U",
+      "status": "review",
+      "completed_at": null,
+      "candidates": []
+    },
+    "AgkfIQ4IGaM": {
+      "vid": "AgkfIQ4IGaM",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T16:57:28.374726+00:00",
+      "candidates": [
+        {
+          "bvid": "BV19s411Y7yM",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Deep Visualization Toolbox",
+          "up": "悟空快看看八戒熟了吗",
+          "duration": 233,
+          "original_duration": 234,
+          "cid": 12107399,
+          "aid": 7405645,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1307,
+          "pic": "https://i2.hdslb.com/bfs/archive/d39e12e54b5d2412e9d7cc30661925fb40ce018d.jpg",
+          "checked_at": "2026-11-06T16:57:27.486330+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "AjSl4n_KdOY": {
+      "vid": "AjSl4n_KdOY",
       "status": "review",
       "completed_at": null,
       "candidates": []

@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-11-06T17:01:08.930Z",
+  "checks": [
+    {
+      "sample": "AgkfIQ4IGaM",
+      "kind": "original",
+      "id": "AgkfIQ4IGaM",
+      "bvid": "BV19s411Y7yM",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.95291,
+        "duration": 234,
+        "paused": false
+      },
+      "expected_duration": 233,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "12107399"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Deep Visualization Toolbox\n悟空快看看八戒熟了吗\n关注\n10\n2\n分享\n更多\n00:04 / 03:54\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}
