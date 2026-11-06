@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-11-06T21:31:23.145Z",
+  "checks": [
+    {
+      "sample": "YAneTFiz5WU",
+      "kind": "sub_zh",
+      "id": "YAneTFiz5WU",
+      "bvid": "BV1Uv411B726",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.23829,
+        "duration": 303,
+        "paused": false
+      },
+      "expected_duration": 303,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "208878909"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【InRange/双语】泥浆测试--AR-15\n二封度字幕组\n关注\n188\n56\n分享\n更多\n00:05 / 05:03\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "YJg02ivYzSs",
+      "kind": "sub_zh",
+      "id": "YJg02ivYzSs",
+      "bvid": "BV1Bc3X6kEz9",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.95582,
+        "duration": 376,
+        "paused": false
+      },
+      "expected_duration": 376,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "40523531706"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "HYPER-REALITY_中文字幕1080p\nStellaSense\n关注\n0\n0\n分享\n更多\n00:04 / 06:16\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "YvT_gqs5ETk",
+      "kind": "sub_zh",
+      "id": "YvT_gqs5ETk",
+      "bvid": "BV14T4y137Cb",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.233752,
+        "duration": 161,
+        "paused": false
+      },
+      "expected_duration": 161,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "189566147"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【中字】【SNL】亚马逊Echo_Amazon Echo\nTahuevo\n关注\n16\n4\n分享\n更多\n00:05 / 02:41\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T21:06:38.124689+00:00",
+  "built_at": "2026-11-06T21:30:47.991154+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 4326,
-    "confirmed": 992,
-    "coverage": 0.15370312984195847,
-    "processed_match_rate": 0.22931114193250116
+    "processed": 4360,
+    "confirmed": 995,
+    "coverage": 0.15416795785559342,
+    "processed_match_rate": 0.22821100917431192
   },
   "areas": [
     {
@@ -36671,6 +36671,110 @@
       ]
     },
     {
+      "id": "YAneTFiz5WU",
+      "title": "AR15: Mud Test",
+      "author": "InRangeTV",
+      "source_url": "https://www.youtube.com/watch?v=YAneTFiz5WU",
+      "summary": "InRangeTV subjects an AR-15 to a mud test in the same mud and location as a preceding AK-47 test. It shows how the rifle runs when covered in mud.",
+      "why": "Cited in AR versus AK reliability debates as evidence that the AR-15 handles mud better than its reputation suggests.",
+      "score": 1.0,
+      "tags": [
+        "ar-15",
+        "ak-47",
+        "mud test",
+        "firearms",
+        "reliability"
+      ],
+      "categories": [
+        "military-warfare",
+        "mechanical-engineering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Uv411B726",
+          "page": 1,
+          "cid": 208878909,
+          "title": "【InRange/双语】泥浆测试--AR-15",
+          "up": "二封度字幕组",
+          "duration": 303,
+          "kind": "sub_zh",
+          "views": 4120,
+          "pic": "https://i2.hdslb.com/bfs/archive/9f006e38968684da9eba4e787264c14bea19160f.jpg",
+          "checked_at": "2026-11-06T21:22:46.833350+00:00"
+        }
+      ]
+    },
+    {
+      "id": "YJg02ivYzSs",
+      "title": "HYPER-REALITY",
+      "author": "Keiichi Matsuda",
+      "source_url": "https://www.youtube.com/watch?v=YJg02ivYzSs",
+      "summary": "Keiichi Matsuda's short concept film depicting a future where physical and virtual realities have merged and the city is saturated with media and advertising. It shows an augmented-reality-filled daily life as a provocative vision.",
+      "why": "HN cites it as a shorthand for the dystopian risks of ad-driven, ubiquitous AR, usually in critical discussions of advertising and the metaverse.",
+      "score": 1.0,
+      "tags": [
+        "augmented reality",
+        "speculative design",
+        "advertising",
+        "dystopia",
+        "short film"
+      ],
+      "categories": [
+        "vr-ar-spatial",
+        "futurism-technology-society",
+        "film-video-production"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Bc3X6kEz9",
+          "page": 1,
+          "cid": 40523531706,
+          "title": "HYPER-REALITY_中文字幕1080p",
+          "up": "StellaSense",
+          "duration": 376,
+          "kind": "sub_zh",
+          "views": 25,
+          "pic": "https://i0.hdslb.com/bfs/archive/0f570b16065113ef18b9ee2bd7ac0f61879432ed.jpg",
+          "checked_at": "2026-11-06T21:23:35.780676+00:00"
+        }
+      ]
+    },
+    {
+      "id": "YvT_gqs5ETk",
+      "title": "Amazon Echo - SNL",
+      "author": "Saturday Night Live",
+      "source_url": "https://www.youtube.com/watch?v=YvT_gqs5ETk",
+      "summary": "A Saturday Night Live sketch for the Amazon Echo Silver, a smart speaker for the elderly, in which older users misunderstand Alexa. It parodies voice assistants.",
+      "why": "HN brings it up as a joke and as design inspiration for voice assistants for seniors.",
+      "score": 1.0,
+      "tags": [
+        "alexa",
+        "snl",
+        "voice assistants",
+        "seniors",
+        "satire"
+      ],
+      "categories": [
+        "satire-parody",
+        "standup-sketch-comedy",
+        "consumer-devices"
+      ],
+      "versions": [
+        {
+          "bvid": "BV14T4y137Cb",
+          "page": 1,
+          "cid": 189566147,
+          "title": "【中字】【SNL】亚马逊Echo_Amazon Echo",
+          "up": "Tahuevo",
+          "duration": 161,
+          "kind": "sub_zh",
+          "views": 580,
+          "pic": "https://i1.hdslb.com/bfs/archive/034f3d516a6afd6d3fdedca71369adef9d7c9298.jpg",
+          "checked_at": "2026-11-06T21:29:16.927097+00:00"
+        }
+      ]
+    },
+    {
       "id": "ZI198eFghJk",
       "title": "Modernizing Compiler Design for Carbon Toolchain - Chandler Carruth - CppNow 2023",
       "author": "CppNow",
@@ -40426,6 +40530,9 @@
     "BV1nk5RzVEwA": "VplMHWSZf5c",
     "BV1aWGdztEEz": "VplMHWSZf5c",
     "BV1Fx4y1h76V": "Vt4Dfa4fOEY",
+    "BV1Uv411B726": "YAneTFiz5WU",
+    "BV1Bc3X6kEz9": "YJg02ivYzSs",
+    "BV14T4y137Cb": "YvT_gqs5ETk",
     "BV1EvR5YmEp5": "ZI198eFghJk",
     "BV1bM4y1b7C5": "_2NI6t2r_Hs",
     "BV1HV411m7Ui": "_2NI6t2r_Hs",
