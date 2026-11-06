@@ -1,405 +1,143 @@
 {
-  "baseline_commit": "4f4f1edd96885370871b0e0553f33ee0d2e1fae6",
+  "baseline_commit": "120737081a4b88a4082790fb6d8ebd20ad08be81",
   "phase_status": "stopped_after_request_error",
   "before": {
-    "corpus": 6454,
-    "processed": 2225,
-    "confirmed": 741,
-    "coverage": 0.1148125193678339,
-    "processed_match_rate": 0.33303370786516856
-  },
-  "after": {
     "corpus": 6454,
     "processed": 2296,
     "confirmed": 764,
     "coverage": 0.1183762008057019,
     "processed_match_rate": 0.3327526132404181
   },
-  "newly_processed": 71,
-  "newly_processed_confirmed": 21,
-  "newly_processed_match_rate": 0.29577464788732394,
-  "newly_processed_by_method": {
-    "search": 67,
-    "public lead verification": 4
+  "after": {
+    "corpus": 6454,
+    "processed": 2312,
+    "confirmed": 768,
+    "coverage": 0.1189959714905485,
+    "processed_match_rate": 0.33217993079584773
   },
-  "previously_processed_newly_confirmed": 2,
+  "newly_processed": 16,
+  "newly_processed_confirmed": 4,
+  "newly_processed_match_rate": 0.25,
   "added_originals": [
-    "7xH7eGFuSYI",
-    "Iq9DzN6mvYA",
-    "JFaOYYSxSEA",
-    "JurplDfPi3U",
-    "JxI3Eu5DPwE",
-    "KINIAgRpkDA",
-    "KTHOwgpMIiU",
-    "LNidsMesxSE",
-    "LsGZ_2RuJ2A",
-    "LwicN2u6Dro",
-    "N8elxpSu9pw",
-    "N9RUqGYuGfw",
-    "NAh9oLs67Cw",
-    "NbpZCSf4_Yk",
-    "O45LaFsaqMA",
-    "OBPpRqxY8Uw",
-    "OFgxAFdxYAQ",
-    "OHPkdMGI6D4",
-    "QMiubC6LdTA",
-    "l4w6808wJcU",
-    "rbu7Zu5X1zI",
-    "tfAnxaWiSeE",
-    "wOlcB-JxkFw"
+    "SDtAh9IwG-I",
+    "TjDEsGZLbio",
+    "qS4H6PEcCCA",
+    "rzJqXd-1dEU"
   ],
   "withdrawn_originals": [],
-  "net_confirmed_change": 23,
-  "versions": 1049,
+  "net_confirmed_change": 4,
+  "versions": 1053,
   "added_versions": [
     {
-      "id": "2AXv49dDQJw",
-      "bvid": "BV1AbJi6ZEqb",
+      "id": "SDtAh9IwG-I",
+      "bvid": "BV1xn1GB4EjC",
       "page": 1
     },
     {
-      "id": "7xH7eGFuSYI",
-      "bvid": "BV1UZ4y137Ps",
+      "id": "TjDEsGZLbio",
+      "bvid": "BV1DK4y177U4",
       "page": 1
     },
     {
-      "id": "Iq9DzN6mvYA",
-      "bvid": "BV14x411q7vU",
+      "id": "qS4H6PEcCCA",
+      "bvid": "BV1es411c7mE",
       "page": 1
     },
     {
-      "id": "Iq9DzN6mvYA",
-      "bvid": "BV1G24y1W7Tt",
-      "page": 1
-    },
-    {
-      "id": "JFaOYYSxSEA",
-      "bvid": "BV1GE411G7mP",
-      "page": 1
-    },
-    {
-      "id": "JurplDfPi3U",
-      "bvid": "BV1L8411c71a",
-      "page": 1
-    },
-    {
-      "id": "JxI3Eu5DPwE",
-      "bvid": "BV1Ch411A7vS",
-      "page": 1
-    },
-    {
-      "id": "KINIAgRpkDA",
-      "bvid": "BV1Px4y1w7S6",
-      "page": 1
-    },
-    {
-      "id": "KTHOwgpMIiU",
-      "bvid": "BV1iz4y1X731",
-      "page": 1
-    },
-    {
-      "id": "LNidsMesxSE",
-      "bvid": "BV1EV411W7ub",
-      "page": 1
-    },
-    {
-      "id": "LsGZ_2RuJ2A",
-      "bvid": "BV1464y1k7bY",
-      "page": 1
-    },
-    {
-      "id": "LsGZ_2RuJ2A",
-      "bvid": "BV1CV411j7J5",
-      "page": 1
-    },
-    {
-      "id": "LsGZ_2RuJ2A",
-      "bvid": "BV1Ds4y117fE",
-      "page": 1
-    },
-    {
-      "id": "LsGZ_2RuJ2A",
-      "bvid": "BV1PQ4y1d7Gw",
-      "page": 1
-    },
-    {
-      "id": "LsGZ_2RuJ2A",
-      "bvid": "BV1Q64y1L7tC",
-      "page": 1
-    },
-    {
-      "id": "LsGZ_2RuJ2A",
-      "bvid": "BV1XX4y1x7PB",
-      "page": 1
-    },
-    {
-      "id": "LsGZ_2RuJ2A",
-      "bvid": "BV1pq4y1j7e4",
-      "page": 1
-    },
-    {
-      "id": "LwicN2u6Dro",
-      "bvid": "BV1aF411c7mK",
-      "page": 1
-    },
-    {
-      "id": "N8elxpSu9pw",
-      "bvid": "BV1Ta4y1E7Xw",
-      "page": 1
-    },
-    {
-      "id": "N9RUqGYuGfw",
-      "bvid": "BV15i4y1G7oH",
-      "page": 1
-    },
-    {
-      "id": "N9RUqGYuGfw",
-      "bvid": "BV1ihBBBFE2B",
-      "page": 1
-    },
-    {
-      "id": "NAh9oLs67Cw",
-      "bvid": "BV1ff4y1d7YE",
-      "page": 1
-    },
-    {
-      "id": "NbpZCSf4_Yk",
-      "bvid": "BV15K4y1N7rx",
-      "page": 1
-    },
-    {
-      "id": "O45LaFsaqMA",
-      "bvid": "BV1Wz4y1f7tK",
-      "page": 1
-    },
-    {
-      "id": "OBPpRqxY8Uw",
-      "bvid": "BV1V4411b7Gq",
-      "page": 1
-    },
-    {
-      "id": "OFgxAFdxYAQ",
-      "bvid": "BV1iY411Y749",
-      "page": 1
-    },
-    {
-      "id": "OHPkdMGI6D4",
-      "bvid": "BV1Jx421C7yE",
-      "page": 1
-    },
-    {
-      "id": "QMiubC6LdTA",
-      "bvid": "BV1hW411B7ui",
-      "page": 1
-    },
-    {
-      "id": "ig_qpNfXHIU",
-      "bvid": "BV17Ym3BjE5w",
-      "page": 1
-    },
-    {
-      "id": "l4w6808wJcU",
-      "bvid": "BV17vTg6yEvo",
-      "page": 1
-    },
-    {
-      "id": "l4w6808wJcU",
-      "bvid": "BV1Es4y1R7t4",
-      "page": 1
-    },
-    {
-      "id": "rbu7Zu5X1zI",
-      "bvid": "BV1Mf2hYoENn",
-      "page": 1
-    },
-    {
-      "id": "tfAnxaWiSeE",
-      "bvid": "BV1VE411G7f1",
-      "page": 1
-    },
-    {
-      "id": "wOlcB-JxkFw",
-      "bvid": "BV1pEf2YWEja",
+      "id": "rzJqXd-1dEU",
+      "bvid": "BV1uV41167Lq",
       "page": 1
     }
   ],
   "withdrawn_versions": [],
-  "net_versions_change": 34,
-  "batches": [
+  "net_versions_change": 4,
+  "search_batches": [
     {
-      "id": "20261106T000914Z",
+      "id": "20261106T004637Z",
       "selected": 50,
-      "completed": 50,
-      "errors": [],
-      "stopped": false,
-      "originals": [
-        "HStF1RJOyxI",
-        "HVv_IQKlafQ",
-        "HbUnatPfSgg",
-        "ILNs1GChGDk",
-        "IYO3tOqDISE",
-        "Ie-gqwSHQr0",
-        "Ijst4g5KFN0",
-        "Iq9DzN6mvYA",
-        "JAcR7kqOb3o",
-        "JFaOYYSxSEA",
-        "JdxkVQy7QLM",
-        "JmwbYl6f11c",
-        "JsVtHqICeKE",
-        "JurplDfPi3U",
-        "JxI3Eu5DPwE",
-        "KDpNQQqdSh8",
-        "KEoGrbKAyKE",
-        "KINIAgRpkDA",
-        "KJPdbp1An2s",
-        "KNWh6Kw3ejQ",
-        "K_nnUbX7uuQ",
-        "K_oET45GzMI",
-        "KdnGPQaICjk",
-        "L3LMbpZIKhQ",
-        "LNidsMesxSE",
-        "LUFp6sjKbkE",
-        "LZgyVadkgmI",
-        "LfascZSTU4o",
-        "Lq-Y7crQo44",
-        "LruaD7XhQ50",
-        "LsGZ_2RuJ2A",
-        "LwicN2u6Dro",
-        "MCVj5RZOqwY",
-        "MEUWxNifJJ8",
-        "MHTizZ_XcUM",
-        "M_VuXVErD6E",
-        "MgrO5za0lSY",
-        "MlhAkNWC1qo",
-        "Mlrrc_vy79E",
-        "Mvse4Xhzwuk",
-        "N4UFC0y1tY0",
-        "N8elxpSu9pw",
-        "N9RUqGYuGfw",
-        "NAh9oLs67Cw",
-        "NbpZCSf4_Yk",
-        "NfizT369g60",
-        "O45LaFsaqMA",
-        "OBPpRqxY8Uw",
-        "OFgxAFdxYAQ",
-        "OHPkdMGI6D4"
-      ],
-      "primary_first": true,
-      "deferred_candidates": 239,
-      "excluded_originals": [
-        "HQKy1KJpSVc",
-        "st571DYYTR8"
-      ],
-      "attempted": 50,
-      "unattempted": 0,
-      "statuses": {
-        "confirmed": 16,
-        "review": 34
-      },
-      "candidate_count": 1854
-    },
-    {
-      "id": "20261106T003003Z",
-      "selected": 50,
-      "completed": 17,
+      "completed": 13,
       "errors": [
         {
-          "vid": "QVuU2YCwHjw",
+          "vid": "SYeeTvitvFU",
           "reason": "URLError"
         }
       ],
       "stopped": false,
       "originals": [
-        "OINAk2xl8Bc",
-        "OLLwG_SN8oo",
-        "OsFEV35tWsg",
-        "PGv5BqNL164",
-        "PbC4gqZGPSY",
-        "PezlFNTGWv4",
-        "Phl82D57P58",
-        "PnbOWi6f_IM",
-        "PriwCi6SzLo",
-        "PsPX0nElJ0k",
-        "PtKhbbcc1Rc",
-        "Q1ZeXnmDZMQ",
-        "QAHi3lX3oGM",
-        "QEJ9HrZq7Ro",
-        "QMiubC6LdTA",
-        "QTJRwKOFddc",
-        "QVBlnCTu9Ms"
+        "QpAhX-gsHMs",
+        "RCCigccBzIU",
+        "RhdlBHHimeM",
+        "RtWbpyjJqrU",
+        "RxabLA7UQ9k",
+        "RzWB5jL5RX0",
+        "S-Xm7s9eGxU",
+        "S2Hp_1jqpY8",
+        "SAc0vQCC6UQ",
+        "SDtAh9IwG-I",
+        "SKhcan8pk2w",
+        "SKtQgFBRUvQ",
+        "SR1jwwagtaQ"
       ],
       "primary_first": true,
-      "deferred_candidates": 2,
+      "deferred_candidates": 16,
       "excluded_originals": [
         "HQKy1KJpSVc",
+        "QVuU2YCwHjw",
         "st571DYYTR8"
       ],
-      "attempted": 18,
-      "unattempted": 32,
+      "attempted": 14,
+      "unattempted": 36,
       "statuses": {
-        "review": 17,
+        "review": 13,
         "confirmed": 1
       },
-      "candidate_count": 662
+      "candidate_count": 507
     }
   ],
-  "completed_search_originals": 67,
-  "direct_search_attempts": 68,
-  "direct_search_completed": 67,
-  "direct_search_confirmed_at_completion": 17,
+  "completed_search_originals": 13,
+  "direct_search_attempts": 14,
+  "direct_search_errors": [
+    {
+      "vid": "SYeeTvitvFU",
+      "reason": "URLError"
+    }
+  ],
+  "unattempted_after_error": 36,
   "source_verification_batches": [
     {
-      "id": "2026-11-06T00:29:15.624179+00:00",
-      "source": "serial-20261106T000854Z-leads-1.json",
-      "attempted": 20,
-      "completed": 20,
-      "confirmed": 17,
+      "id": "2026-11-06T00:46:12.986455+00:00",
+      "source": "serial-20261106T004552Z-leads-1.json",
+      "attempted": 3,
+      "completed": 3,
+      "confirmed": 3,
       "errors": [],
       "stopped": false
     }
   ],
-  "source_leads_completed": 20,
-  "source_confirmed_versions": 17,
-  "source_input_hashes": [
-    {
-      "source": "serial-20261106T000854Z-leads-1.json",
-      "sha256": "ecdce3e132291cc41d71946a8c14194fc619409d9141c29bcd731b183c53450c"
-    }
-  ],
-  "new_query_pairs": 0,
-  "ordinary_errors": [
-    {
-      "vid": "QVuU2YCwHjw",
-      "reason": "URLError"
-    }
-  ],
+  "source_leads_completed": 3,
+  "source_confirmed_versions": 3,
   "blocked_originals": {
-    "st571DYYTR8": "URLError in prior phase; excluded and not retried",
-    "HQKy1KJpSVc": "URLError in prior phase; excluded and not retried",
-    "QVuU2YCwHjw": "URLError in current phase; failed search left unprocessed; do not classify unavailable"
+    "st571DYYTR8": "prior URLError; no retry or unavailable classification",
+    "HQKy1KJpSVc": "prior URLError; no retry or unavailable classification",
+    "QVuU2YCwHjw": "prior URLError; no retry or unavailable classification",
+    "SYeeTvitvFU": "URLError in current phase; failed search left unprocessed; do not classify unavailable"
   },
   "automatic_retry": false,
-  "unattempted_after_error": 32,
-  "candidate_search_deferrals": 241,
-  "remaining_unprocessed": 4158,
-  "remaining_review": 1535,
+  "remaining_unprocessed": 4142,
+  "remaining_review": 1548,
   "metadata_title_review": {
-    "baseline_commit": "4f4f1edd96885370871b0e0553f33ee0d2e1fae6",
-    "findings": [],
+    "baseline_commit": "120737081a4b88a4082790fb6d8ebd20ad08be81",
     "review_status": "metadata_consistency_review_completed_for_snapshot",
-    "reviewed_at": "2026-11-06T00:38:36.001769+00:00",
-    "scope": "Read original, Bilibili and segment titles for 34 versions; no frame comparison."
+    "reviewed_at": "2026-11-06T00:52:36.957704+00:00",
+    "scope": "Read original, Bilibili and segment titles for 4 versions; no frame comparison."
   },
   "cached_new_version_audit": {
-    "checked": 34,
+    "checked": 4,
     "requests": 0,
     "segment_conflicts": [],
     "all_passed": true
   },
-  "unit_tests": {
-    "count": 64,
-    "status": "pass"
-  },
+  "code_tests": "not rerun; code unchanged since tested commit 1207370",
   "browser_tests": {
     "status": "pass",
     "scenarios": [
@@ -422,15 +160,15 @@
     "page_errors": []
   },
   "playback": {
-    "checked": 10,
+    "checked": 4,
     "all_playing": true,
     "all_durations_match": true,
     "all_cids_observed": true,
-    "report": "playback-increment-4f4f1ed.json"
+    "report": "playback-increment-1207370.json"
   },
   "runtime": "Python 3.12.14 / OpenSSL 3.5.7",
   "baseline_hashes": {
-    "baseline_library": "1ae68689663a6ef51ae3c069e535579ff2abb0e63aea33799a85e133e202dad1",
-    "baseline_public": "be88eddf51572b70f1d9c942945f46a7ebed07e083a85ed1cb713d76628016c0"
+    "library": "9334b51e069762164e1096396798abb33a4567ad8e6e2c0e92824a3d5da9f589",
+    "public": "931206a1f3cb2f960dc85cb45a399c3a48e8d3ea29564c5d38fa8474e0cf70ae"
   }
 }

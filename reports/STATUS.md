@@ -1,63 +1,60 @@
 # 匹配进展
 
-更新时间：2026-11-06T00:37:55.170698+00:00
+更新时间：2026-11-06T00:52:03.852996+00:00
 
 - 原片库：6454
-- 完成处理：2296
-- 已确认原片：764
-- 全库覆盖率：11.84%
-- 已处理原片匹配率：33.28%
-- 状态：{'confirmed': 764, 'review': 1535}
+- 完成处理：2312
+- 已确认原片：768
+- 全库覆盖率：11.90%
+- 已处理原片匹配率：33.22%
+- 状态：{'confirmed': 768, 'review': 1548}
 
-- 待审中尚需扩大候选检查：163
-- 已扩大检查仍待审核：1372
+- 待审中尚需扩大候选检查：164
+- 已扩大检查仍待审核：1384
 
 ## 最近批次
 
 ```json
 {
-  "id": "20261106T003003Z",
+  "id": "20261106T004637Z",
   "selected": 50,
-  "completed": 17,
+  "completed": 13,
   "errors": [
     {
-      "vid": "QVuU2YCwHjw",
+      "vid": "SYeeTvitvFU",
       "reason": "URLError"
     }
   ],
   "stopped": false,
   "originals": [
-    "OINAk2xl8Bc",
-    "OLLwG_SN8oo",
-    "OsFEV35tWsg",
-    "PGv5BqNL164",
-    "PbC4gqZGPSY",
-    "PezlFNTGWv4",
-    "Phl82D57P58",
-    "PnbOWi6f_IM",
-    "PriwCi6SzLo",
-    "PsPX0nElJ0k",
-    "PtKhbbcc1Rc",
-    "Q1ZeXnmDZMQ",
-    "QAHi3lX3oGM",
-    "QEJ9HrZq7Ro",
-    "QMiubC6LdTA",
-    "QTJRwKOFddc",
-    "QVBlnCTu9Ms"
+    "QpAhX-gsHMs",
+    "RCCigccBzIU",
+    "RhdlBHHimeM",
+    "RtWbpyjJqrU",
+    "RxabLA7UQ9k",
+    "RzWB5jL5RX0",
+    "S-Xm7s9eGxU",
+    "S2Hp_1jqpY8",
+    "SAc0vQCC6UQ",
+    "SDtAh9IwG-I",
+    "SKhcan8pk2w",
+    "SKtQgFBRUvQ",
+    "SR1jwwagtaQ"
   ],
   "primary_first": true,
-  "deferred_candidates": 2,
+  "deferred_candidates": 16,
   "excluded_originals": [
     "HQKy1KJpSVc",
+    "QVuU2YCwHjw",
     "st571DYYTR8"
   ],
-  "attempted": 18,
-  "unattempted": 32,
+  "attempted": 14,
+  "unattempted": 36,
   "statuses": {
-    "review": 17,
+    "review": 13,
     "confirmed": 1
   },
-  "candidate_count": 662
+  "candidate_count": 507
 }
 ```
 
@@ -65,11 +62,11 @@
 
 ```json
 {
-  "id": "2026-11-06T00:29:15.624179+00:00",
-  "source": "serial-20261106T000854Z-leads-1.json",
-  "attempted": 20,
-  "completed": 20,
-  "confirmed": 17,
+  "id": "2026-11-06T00:46:12.986455+00:00",
+  "source": "serial-20261106T004552Z-leads-1.json",
+  "attempted": 3,
+  "completed": 3,
+  "confirmed": 3,
   "errors": [],
   "stopped": false
 }

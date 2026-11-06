@@ -1,0 +1,89 @@
+{
+  "checked_at": "2026-11-06T00:53:16.561Z",
+  "checks": [
+    {
+      "sample": "TjDEsGZLbio",
+      "kind": "sub_zh",
+      "id": "TjDEsGZLbio",
+      "bvid": "BV1DK4y177U4",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.280154,
+        "duration": 134,
+        "paused": false
+      },
+      "expected_duration": 134,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "251073388"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【中英字幕】讽刺音乐家汤姆·勒尔演唱 沃纳·冯·布劳恩之歌 Wernher von Braun\n胭脂泪叹\n关注\n193\n14\n分享\n更多\n00:05 / 02:14\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "rzJqXd-1dEU",
+      "kind": "sub_zh",
+      "id": "rzJqXd-1dEU",
+      "bvid": "BV1uV41167Lq",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.950082,
+        "duration": 739.871,
+        "paused": false
+      },
+      "expected_duration": 741,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "207856264"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【中文字幕】日本人能看懂简体中文吗？ - That Japanese Man Yuta\n梦寄宿的彼方\n关注\n10\n0\n分享\n更多\n00:04 / 12:20\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "qS4H6PEcCCA",
+      "kind": "original",
+      "id": "qS4H6PEcCCA",
+      "bvid": "BV1es411c7mE",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.935807,
+        "duration": 1535,
+        "paused": false
+      },
+      "expected_duration": 1535,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "48498070"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Epicycles, complex Fourier and Homer Simpson's orbit\nbecomequantum\n关注\n8\n0\n分享\n更多\n00:04 / 25:35\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "SDtAh9IwG-I",
+      "kind": "dub_zh",
+      "id": "SDtAh9IwG-I",
+      "bvid": "BV1xn1GB4EjC",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.950911,
+        "duration": 1234,
+        "paused": false
+      },
+      "expected_duration": 1234,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "33579795292"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【中配】可见光子究竟有多大 - Huygens Optics\nAI译片君\n关注\n98\n24\n分享\n更多\n00:04 / 20:34\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

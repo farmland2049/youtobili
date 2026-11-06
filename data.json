@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T00:37:55.184769+00:00",
+  "built_at": "2026-11-06T00:52:03.867321+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 2296,
-    "confirmed": 764,
-    "coverage": 0.1183762008057019,
-    "processed_match_rate": 0.3327526132404181
+    "processed": 2312,
+    "confirmed": 768,
+    "coverage": 0.1189959714905485,
+    "processed_match_rate": 0.33217993079584773
   },
   "areas": [
     {
@@ -24978,6 +24978,40 @@
       ]
     },
     {
+      "id": "SDtAh9IwG-I",
+      "title": "How big is a visible photon?",
+      "author": "Huygens Optics",
+      "source_url": "https://www.youtube.com/watch?v=SDtAh9IwG-I",
+      "summary": "Huygens Optics shows through a laser interference experiment that the question of a photon's size is really about coherence length. It argues that photons exist as energy exchanges between radiation and matter, not as little particles in free space.",
+      "why": "HN recommends it as an approachable, intuitive explanation of why visible photons can be surprisingly large, from a channel known for practical optics.",
+      "score": 3.0,
+      "tags": [
+        "photons",
+        "coherence length",
+        "interference",
+        "optics",
+        "quantum"
+      ],
+      "categories": [
+        "quantum-physics",
+        "everyday-physics-demos"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1xn1GB4EjC",
+          "page": 1,
+          "cid": 33579795292,
+          "title": "【中配】可见光子究竟有多大 - Huygens Optics",
+          "up": "AI译片君",
+          "duration": 1234,
+          "kind": "dub_zh",
+          "views": 5061,
+          "pic": "https://i1.hdslb.com/bfs/archive/3fcd79bf1fde024fe1614fe42d985db9eeaf7ad8.png",
+          "checked_at": "2026-11-06T00:50:02.126952+00:00"
+        }
+      ]
+    },
+    {
       "id": "SzA2YODtgK4",
       "title": "Getting Started With Org Mode",
       "author": "thoughtbot",
@@ -27374,6 +27408,38 @@
       ]
     },
     {
+      "id": "rzJqXd-1dEU",
+      "title": "Can Japanese People Read Chinese? (Mandarin, Simplified)",
+      "author": "That Japanese Man Yuta",
+      "source_url": "https://www.youtube.com/watch?v=rzJqXd-1dEU",
+      "summary": "Yuta, a Japanese YouTuber, tests how much simplified Chinese a Japanese person can read, working with a Mandarin speaker. The video shows where shared kanji help and where meanings differ.",
+      "why": "HN uses it to answer whether Japanese speakers can read Chinese: they can guess a lot, but not reliably.",
+      "score": 2.0,
+      "tags": [
+        "kanji",
+        "simplified chinese",
+        "japanese",
+        "writing systems"
+      ],
+      "categories": [
+        "language-linguistics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1uV41167Lq",
+          "page": 1,
+          "cid": 207856264,
+          "title": "【中文字幕】日本人能看懂简体中文吗？ - That Japanese Man Yuta",
+          "up": "梦寄宿的彼方",
+          "duration": 741,
+          "kind": "sub_zh",
+          "views": 554,
+          "pic": "https://i1.hdslb.com/bfs/archive/85664246272e74ac4975b95df61c353fbe6eae42.jpg",
+          "checked_at": "2026-11-06T00:46:15.436280+00:00"
+        }
+      ]
+    },
+    {
       "id": "tIeHLnjs5U8",
       "title": "Backpropagation calculus | Deep Learning Chapter 4",
       "author": "3Blue1Brown",
@@ -27726,6 +27792,41 @@
           "views": 274,
           "pic": "https://i0.hdslb.com/bfs/archive/f830c2e5a55da6169ea589aa64232085114da6ae.jpg",
           "checked_at": "2026-11-04T23:03:56.842782+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TjDEsGZLbio",
+      "title": "Tom Lehrer - Wernher von Braun - with intro",
+      "author": "The Tom Lehrer Wisdom Channel",
+      "source_url": "https://www.youtube.com/watch?v=TjDEsGZLbio",
+      "summary": "Tom Lehrer performs his satirical song about rocket scientist Wernher von Braun, with an introduction, in a short clip posted for the Apollo 11 anniversary. It lampoons von Braun's moral flexibility.",
+      "why": "HN brings it up as the sharpest satire of scientists who serve whoever pays them, and as a favorite Lehrer song.",
+      "score": 1.5,
+      "tags": [
+        "tom lehrer",
+        "wernher von braun",
+        "satire",
+        "rocketry",
+        "ethics of science"
+      ],
+      "categories": [
+        "music-performance",
+        "satire-parody",
+        "space-exploration"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1DK4y177U4",
+          "page": 1,
+          "cid": 251073388,
+          "title": "【中英字幕】讽刺音乐家汤姆·勒尔演唱 沃纳·冯·布劳恩之歌 Wernher von Braun",
+          "up": "胭脂泪叹",
+          "duration": 134,
+          "kind": "sub_zh",
+          "views": 3810,
+          "pic": "https://i0.hdslb.com/bfs/archive/0709aa27d25c843d7afd45b43f00c034c51e4e36.jpg",
+          "checked_at": "2026-11-06T00:46:13.954719+00:00"
         }
       ]
     },
@@ -29178,6 +29279,40 @@
           "views": 19885,
           "pic": "https://i1.hdslb.com/bfs/archive/eb6a5c6039c267f42d12289c1e98d87e19a1664f.jpg",
           "checked_at": "2026-11-05T14:25:29.478155+00:00"
+        }
+      ]
+    },
+    {
+      "id": "qS4H6PEcCCA",
+      "title": "Epicycles, complex Fourier series and Homer Simpson's orbit",
+      "author": "Mathologer",
+      "source_url": "https://www.youtube.com/watch?v=qS4H6PEcCCA",
+      "summary": "Mathologer explains epicycles and complex Fourier series, inspired by an animation of Homer Simpson drawn with epicycles. It covers the shape of the Moon's orbit around the Sun and how to make your own epicycle drawings.",
+      "why": "HN points to it as a visual teaching resource for Fourier series, and as a reference when epicycles come up as analogies.",
+      "score": 1.0,
+      "tags": [
+        "epicycles",
+        "complex numbers",
+        "fourier series",
+        "mathologer",
+        "visual math"
+      ],
+      "categories": [
+        "recreational-math",
+        "information-theory"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1es411c7mE",
+          "page": 1,
+          "cid": 48498070,
+          "title": "Epicycles, complex Fourier and Homer Simpson's orbit",
+          "up": "becomequantum",
+          "duration": 1535,
+          "kind": "original",
+          "views": 186,
+          "pic": "https://i0.hdslb.com/bfs/archive/6ae86ad9ff017f36b9b6c967da29fc7d453ef202.jpg",
+          "checked_at": "2026-11-06T00:46:16.926587+00:00"
         }
       ]
     },
@@ -31422,6 +31557,7 @@
     "BV1mgjp6QExy": "P1ww1IXRfTA",
     "BV1KqHszDECz": "PaCmpygFfXo",
     "BV1hW411B7ui": "QMiubC6LdTA",
+    "BV1xn1GB4EjC": "SDtAh9IwG-I",
     "BV19t411q7Pa": "SzA2YODtgK4",
     "BV1Ws411e73w": "YMqgiXLjvRs",
     "BV183411x7g5": "aICaAEXDJQQ",
@@ -31490,6 +31626,7 @@
     "BV1XJ411D7nE": "nq_SpRBXRmE",
     "BV1PecqeuEKC": "p3lsYlod5OU",
     "BV1Gv411q7ck": "qWFScmtiC44",
+    "BV1uV41167Lq": "rzJqXd-1dEU",
     "BV16x411V7Qg": "tIeHLnjs5U8",
     "BV1dM4m1d7TD": "ulCdoCfw-bY",
     "BV1zZ4y1k7Jw": "v68zYyaEmEA",
@@ -31501,6 +31638,7 @@
     "BV1u6CGBdE3m": "Kas0tIxDvrg",
     "BV1Ax411x7rK": "MzRCDLre1b4",
     "BV11W411n75x": "PAAkCSZUG1c",
+    "BV1DK4y177U4": "TjDEsGZLbio",
     "BV1g4421D7bE": "UKxQTvqcpSg",
     "BV1Ji421v77F": "h_zgURwr6nA",
     "BV1Es4y1R7t4": "l4w6808wJcU",
@@ -31546,6 +31684,7 @@
     "BV1TN4y1H7bY": "nzCaZQqAs9I",
     "BV1ZMffYUEPP": "o0Bi-q89j5Y",
     "BV1k54y127E9": "oRLON3ddZIw",
+    "BV1es411c7mE": "qS4H6PEcCCA",
     "BV1csdzYxEAN": "sCr_gb8rdEI",
     "BV12z4y117aj": "tCRPUv8V22o",
     "BV14Y41147Au": "thnXzUFJnfQ",
