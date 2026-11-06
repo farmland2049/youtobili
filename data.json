@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T13:55:36.456360+00:00",
+  "built_at": "2026-11-06T14:22:32.479531+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 3708,
-    "confirmed": 944,
-    "coverage": 0.1462658816237992,
-    "processed_match_rate": 0.2545846817691478
+    "processed": 3759,
+    "confirmed": 949,
+    "coverage": 0.14704059497985744,
+    "processed_match_rate": 0.2524607608406491
   },
   "areas": [
     {
@@ -1503,6 +1503,18 @@
           "views": 18837,
           "pic": "https://i0.hdslb.com/bfs/archive/7e60a803225c189458de1899ba416dcd1b1d94f1.png",
           "checked_at": "2026-11-04T23:03:55.345545+00:00"
+        },
+        {
+          "bvid": "BV11t411A7vt",
+          "page": 1,
+          "cid": 105931992,
+          "title": "[3blue1brown]加字幕搬运 What is a Neural Network _ Deep learning, chapter 1",
+          "up": "账号已注销",
+          "duration": 1154,
+          "kind": "original",
+          "views": 760,
+          "pic": "https://i0.hdslb.com/bfs/archive/4538d7ef85edf0885aa63f2a8f67343de2b52a3e.jpg",
+          "checked_at": "2026-11-06T14:21:24.120818+00:00"
         },
         {
           "bvid": "BV1g7411j7s1",
@@ -33959,6 +33971,74 @@
       ]
     },
     {
+      "id": "NTfOnGZUZDk",
+      "title": "Where GREP Came From - Computerphile",
+      "author": "Computerphile",
+      "source_url": "https://www.youtube.com/watch?v=NTfOnGZUZDk",
+      "summary": "Brian Kernighan explains how grep came to be, written overnight by Ken Thompson, and how it got its name from the ed command g/re/p. He also covers the lineage from QED to ed that led to it.",
+      "why": "HN commenters point to it as a short, charming first-hand account of Unix history from someone who was there.",
+      "score": 1.5,
+      "tags": [
+        "grep",
+        "unix",
+        "kernighan",
+        "ed",
+        "text editors"
+      ],
+      "categories": [
+        "history-of-computing",
+        "testing-debugging-tools"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1C7Jr66EFY",
+          "page": 1,
+          "cid": 42751233739,
+          "title": "【中配】grep命令从何而来：计算机传奇历史 - Computerphile NTfOnGZUZDk",
+          "up": "黑纹白斑马",
+          "duration": 563,
+          "kind": "dub_zh",
+          "views": 1843,
+          "pic": "https://i0.hdslb.com/bfs/archive/beefa3060e7e86f3e7105288859657ee9a3e085d.png",
+          "checked_at": "2026-11-06T13:59:56.635410+00:00"
+        }
+      ]
+    },
+    {
+      "id": "OaGp5_Sfbss",
+      "title": "'The True Cost' - Official Trailer",
+      "author": "UNTOLD",
+      "source_url": "https://www.youtube.com/watch?v=OaGp5_Sfbss",
+      "summary": "The official trailer for The True Cost, a documentary on the fast fashion industry and who pays for cheap clothing. It touches on garment worker conditions and the Rana Plaza collapse.",
+      "why": "HN cites the film as a source on fast fashion exploitation and pollution.",
+      "score": 1.5,
+      "tags": [
+        "fast fashion",
+        "garment workers",
+        "rana plaza",
+        "labor exploitation",
+        "documentary"
+      ],
+      "categories": [
+        "documentaries-storytelling",
+        "labor-work-wealth"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1us411r774",
+          "page": 1,
+          "cid": 10077832,
+          "title": "2015国际华人纪录片影展之《时尚的代价》The True Cost - Official Trailer",
+          "up": "anonyme_c",
+          "duration": 154,
+          "kind": "original",
+          "views": 3083,
+          "pic": "https://i2.hdslb.com/bfs/archive/7f133058e5e91c3a4138584fac8d17bc51d1773a.jpg",
+          "checked_at": "2026-11-06T14:02:18.555232+00:00"
+        }
+      ]
+    },
+    {
       "id": "PAAkCSZUG1c",
       "title": "Gopherfest 2015 | Go Proverbs with Rob Pike",
       "author": "The Go Programming Language",
@@ -34059,6 +34139,76 @@
           "views": 1096,
           "pic": "https://i0.hdslb.com/bfs/archive/085b3eb5fa14c2b7fa5560367a04ccf9f0e40107.png",
           "checked_at": "2026-11-05T02:19:37.887455+00:00"
+        }
+      ]
+    },
+    {
+      "id": "VdjYVF4a6iU",
+      "title": "DIY Scanning Electron Microscope - Overview",
+      "author": "Applied Science",
+      "source_url": "https://www.youtube.com/watch?v=VdjYVF4a6iU",
+      "summary": "Ben Krasnow shows the first image from his home-built scanning electron microscope, after months of work, and walks through how the parts operate together.",
+      "why": "Used as an example of Applied Science pushing the limits of garage engineering, in DIY microscope threads.",
+      "score": 1.5,
+      "tags": [
+        "scanning electron microscope",
+        "applied science",
+        "ben krasnow",
+        "diy",
+        "vacuum"
+      ],
+      "categories": [
+        "3d-printing-cnc",
+        "everyday-physics-demos",
+        "materials-science"
+      ],
+      "versions": [
+        {
+          "bvid": "BV17q4y1p7tS",
+          "page": 1,
+          "cid": 382674395,
+          "title": "DIY Scanning Electron Microscope自制电子显微镜",
+          "up": "SpaceInfinite",
+          "duration": 897,
+          "kind": "original",
+          "views": 326,
+          "pic": "https://i1.hdslb.com/bfs/archive/0ae57ff703cbf452e482f658c6e25a524d6e0398.jpg",
+          "checked_at": "2026-11-06T14:10:28.304046+00:00"
+        }
+      ]
+    },
+    {
+      "id": "XZGiVzIr8Qg",
+      "title": "David Bowie Criticizes MTV for Not Playing Videos by Black Artists | MTV News",
+      "author": "MTV News",
+      "source_url": "https://www.youtube.com/watch?v=XZGiVzIr8Qg",
+      "summary": "A 1983 interview clip in which David Bowie questions MTV VJ Mark Goodman about why the channel played so few videos by black artists.",
+      "why": "Cited as a famous, pointed example of Bowie challenging MTV's exclusion of black music, in threads on media gatekeeping.",
+      "score": 1.5,
+      "tags": [
+        "david bowie",
+        "mtv",
+        "1983",
+        "music industry",
+        "racism"
+      ],
+      "categories": [
+        "music-performance",
+        "social-issues-culture",
+        "media-journalism"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1jU4y1q7g3",
+          "page": 1,
+          "cid": 785402031,
+          "title": "David Bowie Criticizes MTV for Not Playing Videos by Black Artists ｜ MTV News",
+          "up": "bidooooooo",
+          "duration": 281,
+          "kind": "original",
+          "views": 60,
+          "pic": "https://i0.hdslb.com/bfs/archive/e35cc56273cb6c7e39d645c20417169b850cb1a8.jpg",
+          "checked_at": "2026-11-06T14:13:21.528068+00:00"
         }
       ]
     },
@@ -36594,6 +36744,41 @@
       ]
     },
     {
+      "id": "L1UgdoP2aeg",
+      "title": "Inside the Lab Where Robots Run Their Own Experiments",
+      "author": "Seeker",
+      "source_url": "https://www.youtube.com/watch?v=L1UgdoP2aeg",
+      "summary": "A Seeker short documentary on a lab where robots run experiments with almost no human intervention, covering automation and active machine learning in drug discovery and synthetic biology.",
+      "why": "HN cites it as an example of automated cloud labs and AI already running physical experiments.",
+      "score": 0.0,
+      "tags": [
+        "robot scientists",
+        "cloud lab",
+        "strateos",
+        "automation",
+        "drug discovery"
+      ],
+      "categories": [
+        "robotics",
+        "biology-biotech",
+        "manufacturing-industry"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1kT4y177EA",
+          "page": 1,
+          "cid": 208581518,
+          "title": "从合成到筛选，云端实验室Inside the Lab Where Robots Run Their Own Experiments",
+          "up": "colobe",
+          "duration": 493,
+          "kind": "original",
+          "views": 663,
+          "pic": "https://i0.hdslb.com/bfs/archive/9480acfbc0b8e69567b377fc13891239c7542d21.jpg",
+          "checked_at": "2026-11-06T14:21:22.524746+00:00"
+        }
+      ]
+    },
+    {
       "id": "L_Guz73e6fw",
       "title": "Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI | Lex Fridman Podcast #367",
       "author": "Lex Fridman",
@@ -37387,6 +37572,7 @@
     "BV1bx411M7Zx": "aircAruvnKk",
     "BV137411P7FS": "aircAruvnKk",
     "BV16ssYzrECx": "aircAruvnKk",
+    "BV11t411A7vt": "aircAruvnKk",
     "BV1g7411j7s1": "aircAruvnKk",
     "BV18itveVErY": "aircAruvnKk",
     "BV13x411R78d": "xAoljeRJ3lU",
@@ -38527,9 +38713,13 @@
     "BV1ZE41157iN": "Kas0tIxDvrg",
     "BV1u6CGBdE3m": "Kas0tIxDvrg",
     "BV1Ax411x7rK": "MzRCDLre1b4",
+    "BV1C7Jr66EFY": "NTfOnGZUZDk",
+    "BV1us411r774": "OaGp5_Sfbss",
     "BV11W411n75x": "PAAkCSZUG1c",
     "BV1DK4y177U4": "TjDEsGZLbio",
     "BV1g4421D7bE": "UKxQTvqcpSg",
+    "BV17q4y1p7tS": "VdjYVF4a6iU",
+    "BV1jU4y1q7g3": "XZGiVzIr8Qg",
     "BV1Ji421v77F": "h_zgURwr6nA",
     "BV1Es4y1R7t4": "l4w6808wJcU",
     "BV17vTg6yEvo": "l4w6808wJcU",
@@ -38611,6 +38801,7 @@
     "BV1CwEi6pErc": "EIyixC9NsLI",
     "BV1Eq4y1w7u5": "HKTSaezB4p8",
     "BV16CXhYbEhR": "IACHfKmZMr8",
+    "BV1kT4y177EA": "L1UgdoP2aeg",
     "BV16s4y1S7To": "L_Guz73e6fw",
     "BV1ct411N7eR": "Lp7E973zozc",
     "BV15t411w7rX": "PF7EpEnglgk",
