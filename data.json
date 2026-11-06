@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T07:18:24.785231+00:00",
+  "built_at": "2026-11-06T07:31:35.154491+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 3178,
-    "confirmed": 894,
-    "coverage": 0.13851874806321662,
-    "processed_match_rate": 0.2813089993706734
+    "processed": 3204,
+    "confirmed": 895,
+    "coverage": 0.13867369073442826,
+    "processed_match_rate": 0.2793383270911361
   },
   "areas": [
     {
@@ -31068,6 +31068,41 @@
       ]
     },
     {
+      "id": "OINa46HeWg8",
+      "title": "I Forgot My Phone",
+      "author": "charstarleneTV",
+      "source_url": "https://www.youtube.com/watch?v=OINa46HeWg8",
+      "summary": "A two-minute satirical short film in which a woman leaves her phone at home and notices how everyone around her is absorbed in their screens. It became a viral comment on phone distraction and social disconnection.",
+      "why": "Cited in threads about phone addiction and distraction as a classic, widely seen illustration of the problem.",
+      "score": 2.0,
+      "tags": [
+        "smartphones",
+        "short film",
+        "social disconnection",
+        "attention",
+        "satire"
+      ],
+      "categories": [
+        "futurism-technology-society",
+        "satire-parody",
+        "social-issues-culture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV12x411h7im",
+          "page": 1,
+          "cid": 19057563,
+          "title": "B01. I Forgot My Phone",
+          "up": "雪夜飛行",
+          "duration": 130,
+          "kind": "original",
+          "views": 228,
+          "pic": "https://i2.hdslb.com/bfs/archive/71a895aa21392e3370c9c9b4a6bc06b70f5e832a.jpg",
+          "checked_at": "2026-11-06T07:30:52.076277+00:00"
+        }
+      ]
+    },
+    {
       "id": "OTVE5iPMKLg",
       "title": "Your Coffee Addiction Is Probably Good for You",
       "author": "CGP Grey",
@@ -36493,6 +36528,7 @@
     "BV1Lb411k76o": "LtlrITxB5qg",
     "BV1Az4y1C74y": "Lu56xVlZ40M",
     "BV1at411Q7y2": "Mjx3S3UjmnA",
+    "BV12x411h7im": "OINa46HeWg8",
     "BV1Bm411B7Mp": "OTVE5iPMKLg",
     "BV1QaHXe7EMw": "OWJCfOvochA",
     "BV1L44y1W74L": "QjJaFG63Hlo",

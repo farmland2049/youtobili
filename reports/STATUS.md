@@ -1,43 +1,61 @@
 # 匹配进展
 
-更新时间：2026-11-06T07:18:24.759321+00:00
+更新时间：2026-11-06T07:31:35.134357+00:00
 
 - 原片库：6454
-- 完成处理：3178
-- 已确认原片：894
-- 全库覆盖率：13.85%
-- 已处理原片匹配率：28.13%
-- 状态：{'confirmed': 894, 'review': 2307}
+- 完成处理：3204
+- 已确认原片：895
+- 全库覆盖率：13.87%
+- 已处理原片匹配率：27.93%
+- 状态：{'confirmed': 895, 'review': 2333}
 
-- 待审中尚需扩大候选检查：184
-- 已扩大检查仍待审核：2123
+- 待审中尚需扩大候选检查：185
+- 已扩大检查仍待审核：2148
 
 ## 最近批次
 
 ```json
 {
-  "id": "20261106T071424Z",
+  "id": "20261106T072247Z",
   "selected": 50,
-  "completed": 8,
+  "completed": 26,
   "errors": [
     {
-      "vid": "MpfvhiqFw7A",
+      "vid": "OMcjxe8slYI",
       "reason": "URLError"
     }
   ],
   "stopped": false,
   "originals": [
-    "MO8hZlgK5zc",
-    "MSZgoFyuHC8",
-    "MVEKt_H3FsI",
-    "MWsGBRdK2N0",
-    "MejbOFk7H6c",
-    "Mjx3S3UjmnA",
-    "MmG2ah5Df4g",
-    "MnyeRlMsTgI"
+    "MtxA20Q-Uss",
+    "Mx-AllVZ1VY",
+    "My4RA5I0FKs",
+    "N2jZryt607U",
+    "N65DpT2nqEI",
+    "NBvbsPNBIyk",
+    "NM51qOpwcIM",
+    "NPOHf20slZg",
+    "NST3u-GjjFw",
+    "NSuaUok-wTY",
+    "NV2yvI4Id9Q",
+    "NVEgyJCTee4",
+    "NY66qpMFOYo",
+    "NYa8kirsUfg",
+    "NZR_vMTLfIk",
+    "N_4R4X7AWtU",
+    "Nbv9L-WIu0s",
+    "NcUJnmBqHTY",
+    "NftT6HWFgq0",
+    "Nwew5gHoh3E",
+    "NxvQPzrg2Wg",
+    "O1lZ9n2bxWA",
+    "O4Ko7NW2yQo",
+    "OB-bdWKwXsU",
+    "OINa46HeWg8",
+    "OJv8rFap0Nw"
   ],
   "primary_first": true,
-  "deferred_candidates": 21,
+  "deferred_candidates": 30,
   "excluded_originals": [
     "05WS0WN7zMQ",
     "1bO8zEaSuWg",
@@ -48,6 +66,7 @@
     "IvUU8joBb1Q",
     "Ks-_Mh1QhMc",
     "MNXypBxNGMo",
+    "MpfvhiqFw7A",
     "NTJQTc-TqpU",
     "OL6-x0modwY",
     "QVuU2YCwHjw",
@@ -62,13 +81,13 @@
     "uTdyb-RWNKo",
     "vs41JrnGaxc"
   ],
-  "attempted": 9,
-  "unattempted": 41,
+  "attempted": 27,
+  "unattempted": 23,
   "statuses": {
-    "review": 8,
+    "review": 26,
     "confirmed": 1
   },
-  "candidate_count": 313
+  "candidate_count": 1022
 }
 ```
 

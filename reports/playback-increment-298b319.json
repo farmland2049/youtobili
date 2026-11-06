@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-11-06T07:31:55.878Z",
+  "checks": [
+    {
+      "sample": "OINa46HeWg8",
+      "kind": "original",
+      "id": "OINa46HeWg8",
+      "bvid": "BV12x411h7im",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.936645,
+        "duration": 131,
+        "paused": false
+      },
+      "expected_duration": 130,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "19057563"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "B01. I Forgot My Phone\n雪夜飛行\n关注\n1\n0\n分享\n更多\n00:04 / 02:11\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}
