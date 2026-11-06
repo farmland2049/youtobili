@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-11-06T18:16:16.604Z",
+  "checks": [
+    {
+      "sample": "HkZDSqyE1do",
+      "kind": "original",
+      "id": "HkZDSqyE1do",
+      "bvid": "BV1as411D7SX",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.953853,
+        "duration": 995,
+        "paused": false
+      },
+      "expected_duration": 994,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "3534607"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【Forest Man】 记一个种出了森林的男人\n发呆的大头\n关注\n35\n26\n分享\n更多\n00:04 / 16:35\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

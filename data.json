@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T18:00:44.781160+00:00",
+  "built_at": "2026-11-06T18:15:50.857866+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 4091,
-    "confirmed": 973,
-    "coverage": 0.15075921908893708,
-    "processed_match_rate": 0.2378391591297971
+    "processed": 4108,
+    "confirmed": 974,
+    "coverage": 0.15091416176014874,
+    "processed_match_rate": 0.2370983446932814
   },
   "areas": [
     {
@@ -35560,6 +35560,40 @@
       ]
     },
     {
+      "id": "HkZDSqyE1do",
+      "title": "Forest Man",
+      "author": "William D McMaster",
+      "source_url": "https://www.youtube.com/watch?v=HkZDSqyE1do",
+      "summary": "A short documentary about Jadav Payeng, who since the 1970s has planted a forest larger than Central Park on India's Majuli island, turning barren land into a lush oasis.",
+      "why": "HN commenters share it as an inspiring example of one person restoring an ecosystem by planting trees.",
+      "score": 1.0,
+      "tags": [
+        "jadav payeng",
+        "majuli island",
+        "forest",
+        "conservation",
+        "india"
+      ],
+      "categories": [
+        "environment-agriculture",
+        "documentaries-storytelling"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1as411D7SX",
+          "page": 1,
+          "cid": 3534607,
+          "title": "【Forest Man】 记一个种出了森林的男人",
+          "up": "发呆的大头",
+          "duration": 994,
+          "kind": "original",
+          "views": 6674,
+          "pic": "https://i1.hdslb.com/bfs/archive/4bf21e6b61dd118db786a7f8ba90d6245537fdf2.jpg",
+          "checked_at": "2026-11-06T18:11:56.057668+00:00"
+        }
+      ]
+    },
+    {
       "id": "IJEaMtNN_dM",
       "title": "The Hidden Rules of Conversation",
       "author": "Tom Scott",
@@ -39599,6 +39633,7 @@
     "BV1444y1K7a8": "EUWVVTY63hc",
     "BV1Uw4m1r7Vd": "GwzN5YwMzv0",
     "BV15V4y1E7mu": "GwzN5YwMzv0",
+    "BV1as411D7SX": "HkZDSqyE1do",
     "BV1vryLB1E5H": "IJEaMtNN_dM",
     "BV1wS411P75S": "JOiGEI9pQBs",
     "BV1J6dvBME8Y": "LCEmiRjPEtQ",
