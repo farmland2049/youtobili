@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T07:10:22.534241+00:00",
+  "built_at": "2026-11-06T07:18:24.785231+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 3169,
-    "confirmed": 892,
-    "coverage": 0.1382088627207933,
-    "processed_match_rate": 0.2814768065635847
+    "processed": 3178,
+    "confirmed": 894,
+    "coverage": 0.13851874806321662,
+    "processed_match_rate": 0.2813089993706734
   },
   "areas": [
     {
@@ -31034,6 +31034,40 @@
       ]
     },
     {
+      "id": "Mjx3S3UjmnA",
+      "title": "CBTC: Communications-Based Train Control",
+      "author": "mtainfo",
+      "source_url": "https://www.youtube.com/watch?v=Mjx3S3UjmnA",
+      "summary": "An MTA video on communications-based train control, the system meant to replace the New York City subway's century-old signaling. It also shows the mechanical interlocks and signals in use today.",
+      "why": "Cited as a view into how outdated and error-prone NYC subway signaling is, and how antique interlocking systems work.",
+      "score": 2.0,
+      "tags": [
+        "cbtc",
+        "nyc subway",
+        "railway signaling",
+        "interlocking",
+        "mta"
+      ],
+      "categories": [
+        "transit-urbanism",
+        "mechanical-engineering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1at411Q7y2",
+          "page": 1,
+          "cid": 65848192,
+          "title": "百年纽约地铁的信号改造-CBTC: Communications-Based Train Control",
+          "up": "sfh0525",
+          "duration": 566,
+          "kind": "original",
+          "views": 2585,
+          "pic": "https://i1.hdslb.com/bfs/archive/3a33f1e98481717b636b2ef83a354e2878399a95.png",
+          "checked_at": "2026-11-06T07:16:22.317686+00:00"
+        }
+      ]
+    },
+    {
       "id": "OTVE5iPMKLg",
       "title": "Your Coffee Addiction Is Probably Good for You",
       "author": "CGP Grey",
@@ -33600,6 +33634,52 @@
           "views": 225,
           "pic": "https://i2.hdslb.com/bfs/archive/d446154849c65b200da967350844505020d21f5e.jpg",
           "checked_at": "2026-11-04T23:26:05.989899+00:00"
+        }
+      ]
+    },
+    {
+      "id": "kopoLzvh5jY",
+      "title": "Multi-Agent Hide and Seek",
+      "author": "OpenAI",
+      "source_url": "https://www.youtube.com/watch?v=kopoLzvh5jY",
+      "summary": "OpenAI's short demo of agents playing hide-and-seek in a simulated environment. Through self-play, the agents develop six progressively more complex strategies and counter-strategies, including tool use.",
+      "why": "HN uses it as a vivid example of emergent behavior from multi-agent reinforcement learning, and as a way to make AI misalignment concerns feel concrete.",
+      "score": 1.0,
+      "tags": [
+        "emergent behavior",
+        "self-play",
+        "openai",
+        "reinforcement learning",
+        "ai safety"
+      ],
+      "categories": [
+        "machine-learning",
+        "ai-safety-impact"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1gi4y1G71g",
+          "page": 1,
+          "cid": 219427156,
+          "title": "OpenAI：基于强化学习的套路与反套路多智能体捉迷藏游戏（Multi-Agent Hide and Seek）",
+          "up": "图科学实验室GSLab",
+          "duration": 181,
+          "kind": "original",
+          "views": 2762,
+          "pic": "https://i1.hdslb.com/bfs/archive/352f83fe87ec915822d5fdfbbc2f2183a5ff2153.jpg",
+          "checked_at": "2026-11-06T07:13:53.755063+00:00"
+        },
+        {
+          "bvid": "BV1ni4y1B7Mr",
+          "page": 1,
+          "cid": 1403493848,
+          "title": "OpenAI迭代一定次数后能够自动找到程序的bug（Multi-Agent Hide and Seek）",
+          "up": "小路小路123",
+          "duration": 178,
+          "kind": "original",
+          "views": 300,
+          "pic": "https://i2.hdslb.com/bfs/archive/c3d68c38331988df2bdb0fc18153d178aaeafbf2.jpg",
+          "checked_at": "2026-11-06T07:13:54.910254+00:00"
         }
       ]
     },
@@ -36412,6 +36492,7 @@
     "BV18C41157za": "LKiBlGDfRU8",
     "BV1Lb411k76o": "LtlrITxB5qg",
     "BV1Az4y1C74y": "Lu56xVlZ40M",
+    "BV1at411Q7y2": "Mjx3S3UjmnA",
     "BV1Bm411B7Mp": "OTVE5iPMKLg",
     "BV1QaHXe7EMw": "OWJCfOvochA",
     "BV1L44y1W74L": "QjJaFG63Hlo",
@@ -36493,6 +36574,8 @@
     "BV1tChwzSEXq": "iv-5mZ_9CPY",
     "BV1iqUKBwEKd": "iv-5mZ_9CPY",
     "BV1Br4y1J7W4": "kFT54hO1X8M",
+    "BV1gi4y1G71g": "kopoLzvh5jY",
+    "BV1ni4y1B7Mr": "kopoLzvh5jY",
     "BV13a4y1J7oy": "l4UgZBs7ZGo",
     "BV1o54y1p7GH": "mGQLXRTl3Z0",
     "BV18M4y1F7GP": "mZBwsm6B280",

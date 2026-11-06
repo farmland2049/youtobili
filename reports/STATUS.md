@@ -1,58 +1,43 @@
 # 匹配进展
 
-更新时间：2026-11-06T07:10:22.508343+00:00
+更新时间：2026-11-06T07:18:24.759321+00:00
 
 - 原片库：6454
-- 完成处理：3169
-- 已确认原片：892
-- 全库覆盖率：13.82%
-- 已处理原片匹配率：28.15%
-- 状态：{'confirmed': 892, 'review': 2299}
+- 完成处理：3178
+- 已确认原片：894
+- 全库覆盖率：13.85%
+- 已处理原片匹配率：28.13%
+- 状态：{'confirmed': 894, 'review': 2307}
 
-- 待审中尚需扩大候选检查：183
-- 已扩大检查仍待审核：2116
+- 待审中尚需扩大候选检查：184
+- 已扩大检查仍待审核：2123
 
 ## 最近批次
 
 ```json
 {
-  "id": "20261106T070104Z",
+  "id": "20261106T071424Z",
   "selected": 50,
-  "completed": 23,
+  "completed": 8,
   "errors": [
     {
-      "vid": "MNXypBxNGMo",
+      "vid": "MpfvhiqFw7A",
       "reason": "URLError"
     }
   ],
   "stopped": false,
   "originals": [
-    "Ks0SOn8hjG8",
-    "Kvsvd67XUKw",
-    "KxGRhd_iWuE",
-    "L2IKCdnzl5k",
-    "L41oIvre9K0",
-    "L9n77DPJ7AE",
-    "LIIBRr31DIU",
-    "LKp2gikIkD8",
-    "LLCF7vPanrY",
-    "LMxate9gegg",
-    "LNjJTgXujno",
-    "LPqtfC70QTU",
-    "LZPKTaVB1IU",
-    "LabqeJEOQyI",
-    "LdOe18KhtT4",
-    "Lg_aUOSLuRo",
-    "LmlAYnFF_s8",
-    "LtlrITxB5qg",
-    "Lu56xVlZ40M",
-    "M2fKMP47slQ",
-    "MEqxaH47DTs",
-    "MGMoRu5yrVc",
-    "MGfhQTbcqmA"
+    "MO8hZlgK5zc",
+    "MSZgoFyuHC8",
+    "MVEKt_H3FsI",
+    "MWsGBRdK2N0",
+    "MejbOFk7H6c",
+    "Mjx3S3UjmnA",
+    "MmG2ah5Df4g",
+    "MnyeRlMsTgI"
   ],
   "primary_first": true,
-  "deferred_candidates": 34,
+  "deferred_candidates": 21,
   "excluded_originals": [
     "05WS0WN7zMQ",
     "1bO8zEaSuWg",
@@ -62,6 +47,7 @@
     "HQKy1KJpSVc",
     "IvUU8joBb1Q",
     "Ks-_Mh1QhMc",
+    "MNXypBxNGMo",
     "NTJQTc-TqpU",
     "OL6-x0modwY",
     "QVuU2YCwHjw",
@@ -76,13 +62,13 @@
     "uTdyb-RWNKo",
     "vs41JrnGaxc"
   ],
-  "attempted": 24,
-  "unattempted": 26,
+  "attempted": 9,
+  "unattempted": 41,
   "statuses": {
-    "confirmed": 2,
-    "review": 22
+    "review": 8,
+    "confirmed": 1
   },
-  "candidate_count": 916
+  "candidate_count": 313
 }
 ```
 
@@ -90,11 +76,11 @@
 
 ```json
 {
-  "id": "2026-11-06T07:00:33.120245+00:00",
-  "source": "serial-20261106T070005Z-leads-1.json",
-  "attempted": 2,
-  "completed": 2,
-  "confirmed": 2,
+  "id": "2026-11-06T07:13:50.137698+00:00",
+  "source": "serial-20261106T071321Z-leads-1.json",
+  "attempted": 3,
+  "completed": 3,
+  "confirmed": 3,
   "errors": [],
   "stopped": false
 }

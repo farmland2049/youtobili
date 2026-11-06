@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-11-06T07:20:27.755Z",
+  "checks": [
+    {
+      "sample": "kopoLzvh5jY",
+      "kind": "original",
+      "id": "kopoLzvh5jY",
+      "bvid": "BV1gi4y1G71g",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.954621,
+        "duration": 181,
+        "paused": false
+      },
+      "expected_duration": 181,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "219427156"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "OpenAI：基于强化学习的套路与反套路多智能体捉迷藏游戏（Multi-Agent Hide and Seek）\n图科学实验室GSLab\n关注\n10\n0\n分享\n更多\n00:04 / 03:01\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "kopoLzvh5jY",
+      "kind": "original",
+      "id": "kopoLzvh5jY",
+      "bvid": "BV1ni4y1B7Mr",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.936377,
+        "duration": 178,
+        "paused": false
+      },
+      "expected_duration": 178,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1403493848"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "OpenAI迭代一定次数后能够自动找到程序的bug（Multi-Agent Hide and Seek）\n小路小路123\n关注\n4\n0\n分享\n更多\n00:04 / 02:58\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "Mjx3S3UjmnA",
+      "kind": "original",
+      "id": "Mjx3S3UjmnA",
+      "bvid": "BV1at411Q7y2",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.945724,
+        "duration": 566,
+        "paused": false
+      },
+      "expected_duration": 566,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "65848192"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "百年纽约地铁的信号改造-CBTC: Communications-Based Train Control\nsfh0525\n关注\n23\n2\n分享\n更多\n00:04 / 09:26\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

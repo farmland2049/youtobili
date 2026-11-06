@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T07:10:22.555954+00:00",
+  "updated_at": "2026-11-06T07:18:24.807519+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -48521,6 +48521,139 @@
     },
     "MNXypBxNGMo": {
       "vid": "MNXypBxNGMo",
+      "status": "review",
+      "completed_at": null,
+      "candidates": []
+    },
+    "kopoLzvh5jY": {
+      "vid": "kopoLzvh5jY",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T07:13:53.755105+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1gi4y1G71g",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1gi4y1G71g",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "OpenAI：基于强化学习的套路与反套路多智能体捉迷藏游戏（Multi-Agent Hide and Seek）",
+          "up": "图科学实验室GSLab",
+          "duration": 181,
+          "original_duration": 178,
+          "cid": 219427156,
+          "aid": 541564673,
+          "segment_title": "Multi-Agent Hide and Seek",
+          "page_count": 1,
+          "kind": "original",
+          "views": 2762,
+          "pic": "https://i1.hdslb.com/bfs/archive/352f83fe87ec915822d5fdfbbc2f2183a5ff2153.jpg",
+          "checked_at": "2026-11-06T07:13:53.755063+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1ni4y1B7Mr",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1ni4y1B7Mr",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "OpenAI迭代一定次数后能够自动找到程序的bug（Multi-Agent Hide and Seek）",
+          "up": "小路小路123",
+          "duration": 178,
+          "original_duration": 178,
+          "cid": 1403493848,
+          "aid": 538636795,
+          "segment_title": "OpenAI迭代一定次数后能够自动找到程序的bug（Multi-Agent Hide and Seek）",
+          "page_count": 1,
+          "kind": "original",
+          "views": 300,
+          "pic": "https://i2.hdslb.com/bfs/archive/c3d68c38331988df2bdb0fc18153d178aaeafbf2.jpg",
+          "checked_at": "2026-11-06T07:13:54.910254+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "MO8hZlgK5zc": {
+      "vid": "MO8hZlgK5zc",
+      "status": "review",
+      "completed_at": "2026-11-06T07:14:43.824507+00:00",
+      "candidates": []
+    },
+    "MSZgoFyuHC8": {
+      "vid": "MSZgoFyuHC8",
+      "status": "review",
+      "completed_at": "2026-11-06T07:15:17.138038+00:00",
+      "candidates": []
+    },
+    "MVEKt_H3FsI": {
+      "vid": "MVEKt_H3FsI",
+      "status": "review",
+      "completed_at": "2026-11-06T07:15:29.033093+00:00",
+      "candidates": []
+    },
+    "MWsGBRdK2N0": {
+      "vid": "MWsGBRdK2N0",
+      "status": "review",
+      "completed_at": "2026-11-06T07:15:45.143977+00:00",
+      "candidates": []
+    },
+    "MejbOFk7H6c": {
+      "vid": "MejbOFk7H6c",
+      "status": "review",
+      "completed_at": "2026-11-06T07:16:13.867791+00:00",
+      "candidates": []
+    },
+    "Mjx3S3UjmnA": {
+      "vid": "Mjx3S3UjmnA",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T07:16:23.114621+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1at411Q7y2",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "百年纽约地铁的信号改造-CBTC: Communications-Based Train Control",
+          "up": "sfh0525",
+          "duration": 566,
+          "original_duration": 566,
+          "cid": 65848192,
+          "aid": 37460508,
+          "segment_title": "CBTC_ Communications-Based Train Control",
+          "page_count": 1,
+          "kind": "original",
+          "views": 2585,
+          "pic": "https://i1.hdslb.com/bfs/archive/3a33f1e98481717b636b2ef83a354e2878399a95.png",
+          "checked_at": "2026-11-06T07:16:22.317686+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "MmG2ah5Df4g": {
+      "vid": "MmG2ah5Df4g",
+      "status": "review",
+      "completed_at": "2026-11-06T07:16:59.488241+00:00",
+      "candidates": []
+    },
+    "MnyeRlMsTgI": {
+      "vid": "MnyeRlMsTgI",
+      "status": "review",
+      "completed_at": "2026-11-06T07:17:13.833871+00:00",
+      "candidates": []
+    },
+    "MpfvhiqFw7A": {
+      "vid": "MpfvhiqFw7A",
       "status": "review",
       "completed_at": null,
       "candidates": []

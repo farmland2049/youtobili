@@ -1,93 +1,69 @@
 {
-  "baseline_commit": "bfad51bdc00e345e15c615ef60096fa094d45cb7",
-  "phase_status": "stopped_after_request_error",
+  "baseline_commit": "c082cfae811e4406670a5bd546115146dc7473c3",
+  "phase_status": "stopped",
   "before": {
-    "corpus": 6454,
-    "processed": 3145,
-    "confirmed": 889,
-    "coverage": 0.13774403470715835,
-    "processed_match_rate": 0.282670906200318
-  },
-  "after": {
     "corpus": 6454,
     "processed": 3169,
     "confirmed": 892,
     "coverage": 0.1382088627207933,
     "processed_match_rate": 0.2814768065635847
   },
-  "newly_processed": 24,
-  "newly_processed_confirmed": 3,
+  "after": {
+    "corpus": 6454,
+    "processed": 3178,
+    "confirmed": 894,
+    "coverage": 0.13851874806321662,
+    "processed_match_rate": 0.2813089993706734
+  },
+  "newly_processed": 9,
   "added_originals": [
-    "LtlrITxB5qg",
-    "Lu56xVlZ40M",
-    "RZtZia4ZkX8"
+    "Mjx3S3UjmnA",
+    "kopoLzvh5jY"
   ],
   "withdrawn_originals": [],
-  "net_confirmed_change": 3,
-  "versions": 1212,
+  "versions": 1215,
   "added_versions": [
     {
-      "id": "K1xnYFCZ9Yg",
-      "bvid": "BV148WPeGEh9",
+      "id": "Mjx3S3UjmnA",
+      "bvid": "BV1at411Q7y2",
       "page": 1
     },
     {
-      "id": "LtlrITxB5qg",
-      "bvid": "BV1Lb411k76o",
+      "id": "kopoLzvh5jY",
+      "bvid": "BV1gi4y1G71g",
       "page": 1
     },
     {
-      "id": "Lu56xVlZ40M",
-      "bvid": "BV1Az4y1C74y",
-      "page": 1
-    },
-    {
-      "id": "RZtZia4ZkX8",
-      "bvid": "BV15ZGQ6BECR",
+      "id": "kopoLzvh5jY",
+      "bvid": "BV1ni4y1B7Mr",
       "page": 1
     }
   ],
   "withdrawn_versions": [],
-  "net_versions_change": 4,
   "search_batches": [
     {
-      "id": "20261106T070104Z",
+      "id": "20261106T071424Z",
       "selected": 50,
-      "completed": 23,
+      "completed": 8,
       "errors": [
         {
-          "vid": "MNXypBxNGMo",
+          "vid": "MpfvhiqFw7A",
           "reason": "URLError"
         }
       ],
       "stopped": false,
       "originals": [
-        "Ks0SOn8hjG8",
-        "Kvsvd67XUKw",
-        "KxGRhd_iWuE",
-        "L2IKCdnzl5k",
-        "L41oIvre9K0",
-        "L9n77DPJ7AE",
-        "LIIBRr31DIU",
-        "LKp2gikIkD8",
-        "LLCF7vPanrY",
-        "LMxate9gegg",
-        "LNjJTgXujno",
-        "LPqtfC70QTU",
-        "LZPKTaVB1IU",
-        "LabqeJEOQyI",
-        "LdOe18KhtT4",
-        "Lg_aUOSLuRo",
-        "LmlAYnFF_s8",
-        "LtlrITxB5qg",
-        "Lu56xVlZ40M",
-        "M2fKMP47slQ",
-        "MEqxaH47DTs",
-        "MGMoRu5yrVc",
-        "MGfhQTbcqmA"
+        "MO8hZlgK5zc",
+        "MSZgoFyuHC8",
+        "MVEKt_H3FsI",
+        "MWsGBRdK2N0",
+        "MejbOFk7H6c",
+        "Mjx3S3UjmnA",
+        "MmG2ah5Df4g",
+        "MnyeRlMsTgI"
       ],
       "primary_first": true,
-      "deferred_candidates": 34,
+      "deferred_candidates": 21,
       "excluded_originals": [
         "05WS0WN7zMQ",
         "1bO8zEaSuWg",
@@ -97,6 +73,7 @@
         "HQKy1KJpSVc",
         "IvUU8joBb1Q",
         "Ks-_Mh1QhMc",
+        "MNXypBxNGMo",
         "NTJQTc-TqpU",
         "OL6-x0modwY",
         "QVuU2YCwHjw",
@@ -111,37 +88,29 @@
         "uTdyb-RWNKo",
         "vs41JrnGaxc"
       ],
-      "attempted": 24,
-      "unattempted": 26,
+      "attempted": 9,
+      "unattempted": 41,
       "statuses": {
-        "review": 22,
-        "confirmed": 2
+        "review": 8,
+        "confirmed": 1
       },
-      "candidate_count": 916
+      "candidate_count": 313
     }
   ],
-  "completed_search_originals": 23,
-  "direct_search_attempts": 24,
-  "direct_search_errors": [
-    {
-      "vid": "MNXypBxNGMo",
-      "reason": "URLError"
-    }
-  ],
-  "unattempted_after_error": 26,
+  "completed_search_originals": 8,
+  "direct_search_attempts": 9,
+  "unattempted_after_error": 41,
   "source_verification_batches": [
     {
-      "id": "2026-11-06T07:00:33.120245+00:00",
-      "source": "serial-20261106T070005Z-leads-1.json",
-      "attempted": 2,
-      "completed": 2,
-      "confirmed": 2,
+      "id": "2026-11-06T07:13:50.137698+00:00",
+      "source": "serial-20261106T071321Z-leads-1.json",
+      "attempted": 3,
+      "completed": 3,
+      "confirmed": 3,
       "errors": [],
       "stopped": false
     }
   ],
-  "source_leads_completed": 2,
-  "source_confirmed_versions": 2,
   "blocked_originals": {
     "st571DYYTR8": "prior URLError; no retry or unavailable classification",
     "HQKy1KJpSVc": "prior URLError; no retry or unavailable classification",
@@ -164,28 +133,54 @@
     "6JAgXz6xO0s": "URLError in current phase; failed search left unprocessed; do not classify unavailable",
     "IvUU8joBb1Q": "URLError in current phase; failed search left unprocessed; do not classify unavailable",
     "Ks-_Mh1QhMc": "URLError in current phase; failed search left unprocessed; do not classify unavailable",
-    "MNXypBxNGMo": "URLError in current phase; failed search left unprocessed; do not classify unavailable"
+    "MNXypBxNGMo": "URLError in current phase; failed search left unprocessed; do not classify unavailable",
+    "MpfvhiqFw7A": "URLError in current phase; failed search left unprocessed; do not classify unavailable"
   },
-  "automatic_retry": false,
-  "remaining_unprocessed": 3285,
-  "remaining_review": 2277,
   "metadata_title_review": {
-    "baseline_commit": "bfad51bdc00e345e15c615ef60096fa094d45cb7",
+    "baseline_commit": "c082cfae811e4406670a5bd546115146dc7473c3",
     "review_status": "metadata_consistency_review_completed_for_snapshot",
-    "rows": 4,
+    "reviewed_at": "2026-11-06T07:18:22.305560+00:00",
     "scope": "Read original, Bilibili and segment titles for 4 versions; no frame comparison.",
-    "manual_downgrades": []
+    "rows_checked": 4
   },
+  "manual_downgrades": [
+    {
+      "id": "ZQFzMfHIxng",
+      "bvid": "BV14E411q7np",
+      "reason": "different talk title: C++ atomics vs Read Copy Update"
+    }
+  ],
   "cached_new_version_audit": {
-    "checked": 4,
+    "at": "2026-11-06T07:18:25.248518+00:00",
     "requests": 0,
+    "versions_checked": 3,
+    "versions": [
+      {
+        "id": "kopoLzvh5jY",
+        "bvid": "BV1gi4y1G71g",
+        "page": 1,
+        "cid": 219427156
+      },
+      {
+        "id": "kopoLzvh5jY",
+        "bvid": "BV1ni4y1B7Mr",
+        "page": 1,
+        "cid": 1403493848
+      },
+      {
+        "id": "Mjx3S3UjmnA",
+        "bvid": "BV1at411Q7y2",
+        "page": 1,
+        "cid": 65848192
+      }
+    ],
     "segment_conflicts": [],
-    "all_passed": true
+    "scope": "Read-only live-run snapshot; final audit still required for later results."
   },
   "browser_tests": {
-    "checked_at": "2026-11-06T07:10:44.753Z",
+    "checked_at": "2026-11-06T07:18:26.629Z",
     "status": "pass",
-    "originals": 892,
+    "originals": 894,
     "scenarios": [
       "desktop rendering",
       "mobile rendering/no horizontal overflow",
@@ -206,11 +201,76 @@
     "page_errors": []
   },
   "playback": {
-    "checked": 4,
-    "all_playing": true,
-    "all_durations_match": true,
-    "all_cids_observed": true,
-    "report": "playback-increment-bfad51b.json"
+    "checked_at": "2026-11-06T07:20:27.755Z",
+    "checks": [
+      {
+        "sample": "kopoLzvh5jY",
+        "kind": "original",
+        "id": "kopoLzvh5jY",
+        "bvid": "BV1gi4y1G71g",
+        "page": 1,
+        "playing": true,
+        "media": {
+          "readyState": 4,
+          "currentTime": 3.954621,
+          "duration": 181,
+          "paused": false
+        },
+        "expected_duration": 181,
+        "duration_matches_segment": true,
+        "requested_cids": [
+          "219427156"
+        ],
+        "requested_cid_observed": true,
+        "visible_text": "OpenAI：基于强化学习的套路与反套路多智能体捉迷藏游戏（Multi-Agent Hide and Seek）\n图科学实验室GSLab\n关注\n10\n0\n分享\n更多\n00:04 / 03:01\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+      },
+      {
+        "sample": "kopoLzvh5jY",
+        "kind": "original",
+        "id": "kopoLzvh5jY",
+        "bvid": "BV1ni4y1B7Mr",
+        "page": 1,
+        "playing": true,
+        "media": {
+          "readyState": 4,
+          "currentTime": 3.936377,
+          "duration": 178,
+          "paused": false
+        },
+        "expected_duration": 178,
+        "duration_matches_segment": true,
+        "requested_cids": [
+          "1403493848"
+        ],
+        "requested_cid_observed": true,
+        "visible_text": "OpenAI迭代一定次数后能够自动找到程序的bug（Multi-Agent Hide and Seek）\n小路小路123\n关注\n4\n0\n分享\n更多\n00:04 / 02:58\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+      },
+      {
+        "sample": "Mjx3S3UjmnA",
+        "kind": "original",
+        "id": "Mjx3S3UjmnA",
+        "bvid": "BV1at411Q7y2",
+        "page": 1,
+        "playing": true,
+        "media": {
+          "readyState": 4,
+          "currentTime": 3.945724,
+          "duration": 566,
+          "paused": false
+        },
+        "expected_duration": 566,
+        "duration_matches_segment": true,
+        "requested_cids": [
+          "65848192"
+        ],
+        "requested_cid_observed": true,
+        "visible_text": "百年纽约地铁的信号改造-CBTC: Communications-Based Train Control\nsfh0525\n关注\n23\n2\n分享\n更多\n00:04 / 09:26\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+      }
+    ]
   },
-  "code_tests": "not rerun; code unchanged since tested baseline bfad51b"
+  "unit_tests": {
+    "passed": 64
+  },
+  "remaining_unprocessed": 3276,
+  "remaining_processed_unconfirmed": 2284
 }
