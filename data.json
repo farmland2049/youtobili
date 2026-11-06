@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T22:06:16.205893+00:00",
+  "built_at": "2026-11-06T22:26:46.933435+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 4410,
-    "confirmed": 1002,
-    "coverage": 0.155252556554075,
-    "processed_match_rate": 0.2272108843537415
+    "processed": 4436,
+    "confirmed": 1005,
+    "coverage": 0.15571738456770995,
+    "processed_match_rate": 0.22655545536519386
   },
   "areas": [
     {
@@ -37156,6 +37156,75 @@
       ]
     },
     {
+      "id": "bJ_seXo-Enc",
+      "title": "The artificial gravity lab",
+      "author": "Tom Scott",
+      "source_url": "https://www.youtube.com/watch?v=bJ_seXo-Enc",
+      "summary": "Tom Scott tours the rotating room artificial gravity facility at Brandeis University's Graybiel lab. It shows how humans cope with rotation-based gravity and the odd effects such as Coriolis forces.",
+      "why": "HN cites it as an intuitive demonstration of the Coriolis effect and the practical problems of spinning habitats.",
+      "score": 1.0,
+      "tags": [
+        "coriolis force",
+        "rotating reference frame",
+        "spin gravity",
+        "tom scott",
+        "space habitats"
+      ],
+      "categories": [
+        "everyday-physics-demos",
+        "space-exploration",
+        "fundamental-physics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Cb411M7fK",
+          "page": 1,
+          "cid": 84960972,
+          "title": "【Tom Scott】人造重力场实验室",
+          "up": "jackpot1912",
+          "duration": 378,
+          "kind": "original",
+          "views": 2502,
+          "pic": "https://i1.hdslb.com/bfs/archive/913c3f0b733189690e48baba005852ba6627ed76.jpg",
+          "checked_at": "2026-11-06T22:09:48.492854+00:00"
+        }
+      ]
+    },
+    {
+      "id": "boB6qu5dcCw",
+      "title": "Ion drive: The first flight",
+      "author": "nature video",
+      "source_url": "https://www.youtube.com/watch?v=boB6qu5dcCw",
+      "summary": "Nature video showing MIT researchers flying the first plane with no moving parts, powered by an ion drive that creates an ionic wind from high-powered electrodes. The 5m-wide craft flies across a sports hall.",
+      "why": "Linked as a quick demonstration of the ion plane in threads about silent aircraft and flying cars.",
+      "score": 1.0,
+      "tags": [
+        "ion drive",
+        "mit",
+        "ionic wind",
+        "silent drones",
+        "aircraft"
+      ],
+      "categories": [
+        "aviation",
+        "everyday-physics-demos"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1zS4y137x7",
+          "page": 1,
+          "cid": 545942002,
+          "title": "Ion drive The first flight",
+          "up": "悠VS尚",
+          "duration": 306,
+          "kind": "original",
+          "views": 264,
+          "pic": "https://i0.hdslb.com/bfs/archive/275ce6af3a3b2b36f0100e6738c8a7ef8894d9f2.jpg",
+          "checked_at": "2026-11-06T22:15:35.618767+00:00"
+        }
+      ]
+    },
+    {
       "id": "c33AZBnRHks",
       "title": "Someone improved my code by 40,832,277,770%",
       "author": "Stand-up Maths",
@@ -37187,6 +37256,40 @@
           "views": 727,
           "pic": "https://i0.hdslb.com/bfs/archive/165565bff1951b7fcb20ef9d9aa721e416702675.png",
           "checked_at": "2026-11-05T02:03:21.398742+00:00"
+        }
+      ]
+    },
+    {
+      "id": "cCeeTfsm8bk",
+      "title": "Mark Osborne's MORE",
+      "author": "HappyProductCorp",
+      "source_url": "https://www.youtube.com/watch?v=cCeeTfsm8bk",
+      "summary": "MORE is Mark Osborne's Oscar-nominated stop-motion short about a joyless inventor in a drab, conformist society who yearns for his younger days. It won Best Short Film at Sundance in 1999.",
+      "why": "Brought up in threads about isolation, dystopia and busyness as a moving, relevant short film.",
+      "score": 1.0,
+      "tags": [
+        "stop-motion",
+        "short film",
+        "mark osborne",
+        "dystopia",
+        "animation"
+      ],
+      "categories": [
+        "animation-vfx",
+        "film-video-production"
+      ],
+      "versions": [
+        {
+          "bvid": "BV13s41197h2",
+          "page": 1,
+          "cid": 6212226,
+          "title": "【获奖动画短片】 MORE - Mark Osborne 【1998】",
+          "up": "小狐狸茶茶",
+          "duration": 383,
+          "kind": "original",
+          "views": 5444,
+          "pic": "https://i1.hdslb.com/bfs/archive/fd15648376dd4d83a8a6c13d220212ec67fb18d9.jpg",
+          "checked_at": "2026-11-06T22:21:00.993438+00:00"
         }
       ]
     },
@@ -40834,7 +40937,10 @@
     "BV1zt411L7dx": "aUgtMaAZzW0",
     "BV1xc411E7Gq": "agMrewRJTow",
     "BV1eW411D7NK": "awADEuv5vWY",
+    "BV1Cb411M7fK": "bJ_seXo-Enc",
+    "BV1zS4y137x7": "boB6qu5dcCw",
     "BV11hm6BgEYu": "c33AZBnRHks",
+    "BV13s41197h2": "cCeeTfsm8bk",
     "BV1ot411d7Dj": "cNZPRsrwumQ",
     "BV1Vx411L7mW": "eNSN6qet1kE",
     "BV144411L7dg": "er416Ad3R1g",

@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-11-06T22:27:26.992Z",
+  "checks": [
+    {
+      "sample": "bJ_seXo-Enc",
+      "kind": "original",
+      "id": "bJ_seXo-Enc",
+      "bvid": "BV1Cb411M7fK",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.14469,
+        "duration": 378,
+        "paused": false
+      },
+      "expected_duration": 378,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "84960972"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【Tom Scott】人造重力场实验室\njackpot1912\n关注\n23\n1\n分享\n更多\n00:05 / 06:18\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "boB6qu5dcCw",
+      "kind": "original",
+      "id": "boB6qu5dcCw",
+      "bvid": "BV1zS4y137x7",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.957305,
+        "duration": 306,
+        "paused": false
+      },
+      "expected_duration": 306,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "545942002"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Ion drive The first flight\n悠VS尚\n关注\n3\n0\n分享\n更多\n00:04 / 05:06\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "cCeeTfsm8bk",
+      "kind": "original",
+      "id": "cCeeTfsm8bk",
+      "bvid": "BV13s41197h2",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.943649,
+        "duration": 384,
+        "paused": false
+      },
+      "expected_duration": 383,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "6212226"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【获奖动画短片】 MORE - Mark Osborne 【1998】\n小狐狸茶茶\n关注\n95\n21\n分享\n更多\n00:04 / 06:24\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}
