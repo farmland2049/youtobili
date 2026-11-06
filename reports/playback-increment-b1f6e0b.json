@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-11-06T16:55:52.202Z",
+  "checks": [
+    {
+      "sample": "AYshVbcEmUc",
+      "kind": "sub_zh",
+      "id": "AYshVbcEmUc",
+      "bvid": "BV1WW411c7XM",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.260631,
+        "duration": 64,
+        "paused": false
+      },
+      "expected_duration": 64,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "42418117"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Liam – An Innovation Story_bilibili-中文字幕\n过错的错过\n关注\n0\n2\n分享\n更多\n00:05 / 01:04\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

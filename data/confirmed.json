@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T16:48:32.377131+00:00",
+  "updated_at": "2026-11-06T16:55:20.089626+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -55774,6 +55774,84 @@
     },
     "AIZgw09CG9E": {
       "vid": "AIZgw09CG9E",
+      "status": "review",
+      "completed_at": null,
+      "candidates": []
+    },
+    "AIxY_Y9TGWI": {
+      "vid": "AIxY_Y9TGWI",
+      "status": "review",
+      "completed_at": "2026-11-06T16:50:01.570846+00:00",
+      "candidates": []
+    },
+    "AJ2keSJzYyY": {
+      "vid": "AJ2keSJzYyY",
+      "status": "review",
+      "completed_at": "2026-11-06T16:50:17.364769+00:00",
+      "candidates": []
+    },
+    "ARKbfWk4Xyw": {
+      "vid": "ARKbfWk4Xyw",
+      "status": "review",
+      "completed_at": "2026-11-06T16:50:34.981504+00:00",
+      "candidates": []
+    },
+    "AXlyMrv8_dQ": {
+      "vid": "AXlyMrv8_dQ",
+      "status": "review",
+      "completed_at": "2026-11-06T16:51:07.041744+00:00",
+      "candidates": []
+    },
+    "AYshVbcEmUc": {
+      "vid": "AYshVbcEmUc",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T16:51:16.847331+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1WW411c7XM",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Liam – An Innovation Story_bilibili-中文字幕",
+          "up": "过错的错过",
+          "duration": 64,
+          "original_duration": 64,
+          "cid": 42418117,
+          "aid": 25073073,
+          "segment_title": "Liam – An Innovation Story_bilibili",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 78,
+          "pic": "https://i0.hdslb.com/bfs/archive/27207513728e09a9d5871f3bccc6a63cfb2a0336.png",
+          "checked_at": "2026-11-06T16:51:15.772194+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "AaZ_RSt0KP8": {
+      "vid": "AaZ_RSt0KP8",
+      "status": "review",
+      "completed_at": "2026-11-06T16:51:50.361002+00:00",
+      "candidates": []
+    },
+    "AbSehcT19u0": {
+      "vid": "AbSehcT19u0",
+      "status": "review",
+      "completed_at": "2026-11-06T16:53:13.153503+00:00",
+      "candidates": []
+    },
+    "Ae9EKCyI1xU": {
+      "vid": "Ae9EKCyI1xU",
+      "status": "review",
+      "completed_at": "2026-11-06T16:53:23.723872+00:00",
+      "candidates": []
+    },
+    "AfKZclMWS1U": {
+      "vid": "AfKZclMWS1U",
       "status": "review",
       "completed_at": null,
       "candidates": []

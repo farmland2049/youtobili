@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T16:48:32.357692+00:00",
+  "built_at": "2026-11-06T16:55:20.069271+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 3982,
-    "confirmed": 965,
-    "coverage": 0.14951967771924388,
-    "processed_match_rate": 0.24234053239578102
+    "processed": 3990,
+    "confirmed": 966,
+    "coverage": 0.14967462039045554,
+    "processed_match_rate": 0.24210526315789474
   },
   "areas": [
     {
@@ -35170,6 +35170,41 @@
       ]
     },
     {
+      "id": "AYshVbcEmUc",
+      "title": "Liam – An Innovation Story",
+      "author": "Apple",
+      "source_url": "https://www.youtube.com/watch?v=AYshVbcEmUc",
+      "summary": "A short Apple promotional video about Liam, a robot that disassembles old iPhones so their materials can be recovered. It frames the robot as part of Apple's product life cycle and recycling story.",
+      "why": "Cited in repair and recycling threads as Apple's showcase of its iPhone disassembly robot, and sometimes mocked as marketing for what is really shredding.",
+      "score": 1.0,
+      "tags": [
+        "apple",
+        "liam",
+        "recycling",
+        "right to repair",
+        "robotics"
+      ],
+      "categories": [
+        "robotics",
+        "repair-teardown",
+        "environment-agriculture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1WW411c7XM",
+          "page": 1,
+          "cid": 42418117,
+          "title": "Liam – An Innovation Story_bilibili-中文字幕",
+          "up": "过错的错过",
+          "duration": 64,
+          "kind": "sub_zh",
+          "views": 78,
+          "pic": "https://i0.hdslb.com/bfs/archive/27207513728e09a9d5871f3bccc6a63cfb2a0336.png",
+          "checked_at": "2026-11-06T16:51:15.772194+00:00"
+        }
+      ]
+    },
+    {
       "id": "CBrj4S24074",
       "title": "Chris Crawford Dragon Speech \"I Had a Dream\"",
       "author": "Chris Crawford",
@@ -39310,6 +39345,7 @@
     "BV1ue4y1o7JK": "8dT6CR9_6l4",
     "BV1Zq4y1d7xr": "9KR2N_Q8ep8",
     "BV1Pb4y1S7Fc": "ALaTm6VzTBw",
+    "BV1WW411c7XM": "AYshVbcEmUc",
     "BV1gq4y1U7xN": "CBrj4S24074",
     "BV1kx411u7tz": "CIjXUg1s5gc",
     "BV1Uw4m1r7Vd": "GwzN5YwMzv0",
