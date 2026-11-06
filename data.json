@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T09:20:56.456734+00:00",
+  "built_at": "2026-11-06T12:47:38.525144+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 3450,
-    "confirmed": 923,
-    "coverage": 0.1430120855283545,
-    "processed_match_rate": 0.26753623188405795
+    "processed": 3629,
+    "confirmed": 938,
+    "coverage": 0.14533622559652928,
+    "processed_match_rate": 0.25847340865252133
   },
   "areas": [
     {
@@ -21809,6 +21809,18 @@
           "views": 2652,
           "pic": "https://i1.hdslb.com/bfs/archive/0254dde8ba1a4e14888db1b3c3f6fb8874a8e765.png",
           "checked_at": "2026-11-04T23:03:56.841453+00:00"
+        },
+        {
+          "bvid": "BV1yx411S7XQ",
+          "page": 1,
+          "cid": 16189011,
+          "title": "【CGP格雷】统治者需要了解的黄金规则（下）@lawyerlulu字幕组",
+          "up": "lawyerlulu字幕组",
+          "duration": 338,
+          "kind": "original",
+          "views": 3809,
+          "pic": "https://i0.hdslb.com/bfs/archive/adc3437cb322baee6c2f05cb5b835f40907df5e2.jpg",
+          "checked_at": "2026-11-06T10:01:41.135607+00:00"
         }
       ]
     },
@@ -29472,6 +29484,18 @@
       ],
       "versions": [
         {
+          "bvid": "BV1hffGBqEQk",
+          "page": 1,
+          "cid": 36184591144,
+          "title": "【中配】沙子撑起了汽车：揭秘加筋土工程学 - Practical Engineering",
+          "up": "黑纹白斑马",
+          "duration": 450,
+          "kind": "dub_zh",
+          "views": 1786,
+          "pic": "https://i2.hdslb.com/bfs/archive/7a0efc3dc9a8a9f880317c38a23bf0abcc731b15.png",
+          "checked_at": "2026-11-06T10:01:40.272352+00:00"
+        },
+        {
           "bvid": "BV1NJ411i7c2",
           "page": 9,
           "cid": 133678052,
@@ -32479,6 +32503,40 @@
       ]
     },
     {
+      "id": "kBLkX2VaQs4",
+      "title": "Louis CK - Everything Is Amazing and Nobody Is Happy",
+      "author": "Patrick Reed",
+      "source_url": "https://www.youtube.com/watch?v=kBLkX2VaQs4",
+      "summary": "A short clip of Louis CK on Conan riffing that everything is amazing and nobody is happy, about complaining over modern wonders like air travel and wifi. The uploader added a note about the comedian's later misconduct.",
+      "why": "HN commenters bring it up as a reminder to appreciate technology instead of complaining, from Waymo to AI art to flight delays.",
+      "score": 2.0,
+      "tags": [
+        "louis ck",
+        "complaining",
+        "gratitude",
+        "stand-up",
+        "progress"
+      ],
+      "categories": [
+        "standup-sketch-comedy",
+        "futurism-technology-society"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Dx411R7Va",
+          "page": 1,
+          "cid": 99371129,
+          "title": "Louis CK - Everything Is Amazing and Nobody Is Happy",
+          "up": "hiccup21",
+          "duration": 201,
+          "kind": "original",
+          "views": 401,
+          "pic": "https://i1.hdslb.com/bfs/archive/703bd09faec0dbaf66d883a8c168f8860f78c701.jpg",
+          "checked_at": "2026-11-06T09:33:03.373950+00:00"
+        }
+      ]
+    },
+    {
       "id": "kLiwvnr4L80",
       "title": "Trends in Deep Learning Hardware: Bill Dally (NVIDIA)",
       "author": "Paul G. Allen School",
@@ -32510,6 +32568,40 @@
           "views": 141,
           "pic": "https://i2.hdslb.com/bfs/archive/339fd7e3a9b8dcc6ab075008b34159d1a5250894.jpg",
           "checked_at": "2026-11-04T23:03:55.410379+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ky1nGQhHTso",
+      "title": "Why is Japan So Weak in Software?",
+      "author": "Asianometry",
+      "source_url": "https://www.youtube.com/watch?v=ky1nGQhHTso",
+      "summary": "Asianometry examines why Japan's software industry has lagged despite its hardware strengths. It looks at dependence on US software and the low prestige of programming.",
+      "why": "Recommended as a good explanation of Japanese software industry struggles, though one commenter is unsure of its accuracy.",
+      "score": 2.0,
+      "tags": [
+        "japan",
+        "software industry",
+        "tech history",
+        "asianometry",
+        "economics"
+      ],
+      "categories": [
+        "tech-industry-business",
+        "history-of-computing"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1jeWUeEEGE",
+          "page": 1,
+          "cid": 500001659131200,
+          "title": "Why is Japan So Weak in Software?",
+          "up": "搬运大仙",
+          "duration": 1178,
+          "kind": "original",
+          "views": 83,
+          "pic": "https://i1.hdslb.com/bfs/archive/b412ad9fd074165e2f502fcec89857fc3e78c1bd.jpg",
+          "checked_at": "2026-11-06T09:36:32.052047+00:00"
         }
       ]
     },
@@ -32685,6 +32777,88 @@
       ]
     },
     {
+      "id": "pNlq-EVld70",
+      "title": "A 10x faster TypeScript",
+      "author": "Microsoft Developer",
+      "source_url": "https://www.youtube.com/watch?v=pNlq-EVld70",
+      "summary": "Anders Hejlsberg introduces the native port of the TypeScript compiler, written in Go, which promises roughly 10x faster tooling. He demos compiling VS Code and explains where the speedup comes from.",
+      "why": "Commenters cite it as the authoritative source for why the port is faster and why Go was chosen.",
+      "score": 2.0,
+      "tags": [
+        "typescript",
+        "go",
+        "compilers",
+        "anders hejlsberg",
+        "native port"
+      ],
+      "categories": [
+        "compilers-interpreters",
+        "web-development",
+        "software-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1SSQ5Y4EED",
+          "page": 1,
+          "cid": 25768301210,
+          "title": "A 10x faster TypeScript",
+          "up": "帆影",
+          "duration": 825,
+          "kind": "original",
+          "views": 1271,
+          "pic": "https://i2.hdslb.com/bfs/archive/7875fd84ae30238577344719c1950d6a00a2b9a7.jpg",
+          "checked_at": "2026-11-06T09:52:15.818985+00:00"
+        },
+        {
+          "bvid": "BV1NMXKBoE3s",
+          "page": 1,
+          "cid": 37022075453,
+          "title": "A 10x faster TypeScript - Rewritten in Golang",
+          "up": "Ooo-Oooo-Ooooo",
+          "duration": 825,
+          "kind": "original",
+          "views": 74,
+          "pic": "https://i0.hdslb.com/bfs/archive/67139f42f549651cd23d5186eb2a86a3a5b61a2a.jpg",
+          "checked_at": "2026-11-06T10:01:35.788038+00:00"
+        }
+      ]
+    },
+    {
+      "id": "pq1XqP4-qOo",
+      "title": "2021: Year of the Linux Gaming Desktop - Andrew Kelley",
+      "author": "Zig SHOWTIME",
+      "source_url": "https://www.youtube.com/watch?v=pq1XqP4-qOo",
+      "summary": "Andrew Kelley's Zig SHOWTIME talk on an experiment to ship static Linux executables that can do graphics and gaming, followed by an interview. It covers the problems of Linux binary stability, dynamic linking and the graphics ABI.",
+      "why": "HN cites it in threads on Linux desktop application distribution as a clear treatment of why binary compatibility and static linking are hard.",
+      "score": 2.0,
+      "tags": [
+        "static linking",
+        "zig",
+        "linux gaming",
+        "abi stability",
+        "graphics drivers"
+      ],
+      "categories": [
+        "linux-open-source-os",
+        "systems-programming-languages",
+        "game-programming-engines"
+      ],
+      "versions": [
+        {
+          "bvid": "BV135411N7q2",
+          "page": 1,
+          "cid": 300433292,
+          "title": "2021 - Year of the Linux Gaming Desktop",
+          "up": "Gennadi",
+          "duration": 2558,
+          "kind": "original",
+          "views": 30,
+          "pic": "https://i0.hdslb.com/bfs/archive/0ce87488ae52539835d10d812910311d52ec40b1.jpg",
+          "checked_at": "2026-11-06T09:53:57.541829+00:00"
+        }
+      ]
+    },
+    {
       "id": "qWFScmtiC44",
       "title": "Talk: Video Games and the Future of Education",
       "author": "Jonathan Blow",
@@ -32715,6 +32889,86 @@
           "views": 617,
           "pic": "https://i2.hdslb.com/bfs/archive/d71d423e02812ed9dddb5e507f7dc284462c3ecd.jpg",
           "checked_at": "2026-11-04T23:03:55.465362+00:00"
+        }
+      ]
+    },
+    {
+      "id": "qgG5Jhi_Els",
+      "title": "Vim universe. fzf - command line fuzzy finder",
+      "author": "Alexey Samoshkin",
+      "source_url": "https://www.youtube.com/watch?v=qgG5Jhi_Els",
+      "summary": "A screencast showing how to use the fzf command-line fuzzy finder in the shell and in Vim. It covers searching files and also using the Vim plugin for help tags, buffers, lines and grep matches.",
+      "why": "Recommended as a useful early tutorial for learning fzf with Vim.",
+      "score": 2.0,
+      "tags": [
+        "fzf",
+        "vim",
+        "fuzzy finder",
+        "command line",
+        "screencast"
+      ],
+      "categories": [
+        "testing-debugging-tools"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Rh411J7Kj",
+          "page": 1,
+          "cid": 423904867,
+          "title": "vim universe. fzf - command line fuzzy finder",
+          "up": "Iammyself001",
+          "duration": 821,
+          "kind": "original",
+          "views": 66,
+          "pic": "https://i0.hdslb.com/bfs/archive/8707e1a2f285302b49235bf2b85eb4c1944c79e6.jpg",
+          "checked_at": "2026-11-06T09:56:32.314523+00:00"
+        }
+      ]
+    },
+    {
+      "id": "qs2QcycggWU",
+      "title": "How does Starlink Satellite Internet Work?📡☄🖥",
+      "author": "Branch Education",
+      "source_url": "https://www.youtube.com/watch?v=qs2QcycggWU",
+      "summary": "Branch Education explains how Starlink works, from the ground dish and satellites to phased-array beam steering and data routing. Animations cover how a beam stays connected to a satellite moving at 27,000 km/h.",
+      "why": "Recommended for its detailed and clear look at Starlink hardware and beamforming.",
+      "score": 2.0,
+      "tags": [
+        "starlink",
+        "phased array",
+        "beamforming",
+        "satellites",
+        "networking"
+      ],
+      "categories": [
+        "networking-internet",
+        "space-exploration",
+        "electronics-circuits"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Du4qe1Ef6",
+          "page": 1,
+          "cid": 25641098497,
+          "title": "星链是如何工作的 How does Starlink Satellite Internet Work 📡☄🖥",
+          "up": "StarDazz",
+          "duration": 1689,
+          "kind": "original",
+          "views": 3384,
+          "pic": "https://i1.hdslb.com/bfs/archive/c85da5c54fe242209fa98683989ef891df80ab80.jpg",
+          "checked_at": "2026-11-06T09:57:24.431906+00:00"
+        },
+        {
+          "bvid": "BV1HP411J7SF",
+          "page": 1,
+          "cid": 853736207,
+          "title": "How does Satellite Internet Work_马斯克的starlink卫星通信系统工作原理",
+          "up": "bibbbbbbbiibi",
+          "duration": 1689,
+          "kind": "original",
+          "views": 906,
+          "pic": "https://i1.hdslb.com/bfs/archive/5d66570a377788e192d5e895420ff6289fc73174.jpg",
+          "checked_at": "2026-11-06T10:01:34.463544+00:00"
         }
       ]
     },
@@ -32766,6 +33020,75 @@
       ]
     },
     {
+      "id": "rHdS_4GsKmg",
+      "title": "Where Does Growth Come From? | Clayton Christensen | Talks at Google",
+      "author": "Talks at Google",
+      "source_url": "https://www.youtube.com/watch?v=rHdS_4GsKmg",
+      "summary": "Clayton Christensen speaks at Google on where growth comes from, covering disruption, market-creating versus efficiency innovation, and jobs to be done. He also touches on measuring your life.",
+      "why": "Referenced in threads about disruption and incumbents as a clear statement of his theories.",
+      "score": 2.0,
+      "tags": [
+        "clayton christensen",
+        "jobs to be done",
+        "innovation",
+        "business strategy",
+        "growth"
+      ],
+      "categories": [
+        "startups-entrepreneurship",
+        "product-growth-marketing"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1BE411T7tF",
+          "page": 1,
+          "cid": 162245149,
+          "title": "Clayton Christensen_ Where does Growth come from_ Talks at Google",
+          "up": "HollyGan",
+          "duration": 4866,
+          "kind": "original",
+          "views": 576,
+          "pic": "https://i0.hdslb.com/bfs/archive/748804ba67cffcfc3641172c73108a015aeefd3f.jpg",
+          "checked_at": "2026-11-06T09:59:20.667418+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rWRbTnE1PEM",
+      "title": "Jeff Bezos 1997 Interview",
+      "author": "Chuck Severance",
+      "source_url": "https://www.youtube.com/watch?v=rWRbTnE1PEM",
+      "summary": "A 1997 interview with Jeff Bezos taped at a Special Libraries conference, where he explains why Amazon started with books and why the web made it possible. He calls it the Kitty Hawk stage of electronic commerce.",
+      "why": "HN people share it as a precise, early statement of Amazon's pitch, useful for startup idea reasoning.",
+      "score": 2.0,
+      "tags": [
+        "jeff bezos",
+        "amazon",
+        "e-commerce",
+        "startups",
+        "1997"
+      ],
+      "categories": [
+        "tech-company-stories",
+        "startups-entrepreneurship",
+        "tech-figures-interviews"
+      ],
+      "versions": [
+        {
+          "bvid": "BV17Sh265EZ3",
+          "page": 1,
+          "cid": 42190572900,
+          "title": "【中配】1997年贝索斯采访，那时他还只是个卖书的 - Chuck Severance rWRbTnE1PEM",
+          "up": "caillichen_",
+          "duration": 340,
+          "kind": "dub_zh",
+          "views": 39,
+          "pic": "https://i0.hdslb.com/bfs/archive/79be421021371a636b4273bf8a31247eeb1edca2.jpg",
+          "checked_at": "2026-11-06T10:00:10.944904+00:00"
+        }
+      ]
+    },
+    {
       "id": "rzJqXd-1dEU",
       "title": "Can Japanese People Read Chinese? (Mandarin, Simplified)",
       "author": "That Japanese Man Yuta",
@@ -32794,6 +33117,87 @@
           "views": 554,
           "pic": "https://i1.hdslb.com/bfs/archive/85664246272e74ac4975b95df61c353fbe6eae42.jpg",
           "checked_at": "2026-11-06T00:46:15.436280+00:00"
+        }
+      ]
+    },
+    {
+      "id": "s19G6n0UjsM",
+      "title": "Rust at speed — building a fast concurrent database",
+      "author": "Jon Gjengset",
+      "source_url": "https://www.youtube.com/watch?v=s19G6n0UjsM",
+      "summary": "A guest lecture Jon Gjengset gave at Two Sigma on using Rust for large, high-performance systems. It covers why Rust suits such projects, the Noria research database, a concurrent data structure used in it, and practical experience.",
+      "why": "HN points to it as a detailed, captivating talk by the Noria author, including a good explanation of deduplicating data between maps using unsafe.",
+      "score": 2.0,
+      "tags": [
+        "rust",
+        "noria",
+        "concurrent data structures",
+        "databases",
+        "jon gjengset"
+      ],
+      "categories": [
+        "systems-programming-languages",
+        "databases-storage",
+        "software-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1BQ4y1M7Kv",
+          "page": 1,
+          "cid": 171785446,
+          "title": "Rust at speed — building a fast concurrent database",
+          "up": "施斌",
+          "duration": 3174,
+          "kind": "original",
+          "views": 58,
+          "pic": "https://i0.hdslb.com/bfs/archive/09059636986ab7d40e25bd5de3d1a3fb2b7fec92.jpg",
+          "checked_at": "2026-11-06T10:02:42.427772+00:00"
+        },
+        {
+          "bvid": "BV1anDTYgENM",
+          "page": 1,
+          "cid": 26633045016,
+          "title": "Rust at speed — building a fast concurrent database",
+          "up": "罗熠",
+          "duration": 3174,
+          "kind": "original",
+          "views": 14,
+          "pic": "https://i1.hdslb.com/bfs/archive/e18e52d0feded5930bcec36945bb755bb41ba63c.jpg",
+          "checked_at": "2026-11-06T10:20:30.853646+00:00"
+        }
+      ]
+    },
+    {
+      "id": "si9iqF5uTFk",
+      "title": "Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (Part One, 1982)",
+      "author": "National Security Agency",
+      "source_url": "https://www.youtube.com/watch?v=si9iqF5uTFk",
+      "summary": "Part one of Capt. Grace Hopper's 1982 NSA lecture on the future of data, hardware, software and people. It includes her humor, her nanosecond demonstration and views on scaling and resisting old ways of doing things.",
+      "why": "HN enjoys it as a funny, quotable lecture from a bygone era, with lines about horizontal scaling and change that still resonate.",
+      "score": 2.0,
+      "tags": [
+        "grace hopper",
+        "computing history",
+        "nsa",
+        "1982",
+        "scaling"
+      ],
+      "categories": [
+        "history-of-computing",
+        "tech-figures-interviews"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1uqsteUEkR",
+          "page": 1,
+          "cid": 25605900348,
+          "title": "Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People",
+          "up": "AlphaSu的科技频道",
+          "duration": 2920,
+          "kind": "original",
+          "views": 192,
+          "pic": "https://i2.hdslb.com/bfs/archive/b45461e66c323ede59e5d202c4b8257c759fa6c0.jpg",
+          "checked_at": "2026-11-06T10:05:08.273161+00:00"
         }
       ]
     },
@@ -32828,6 +33232,53 @@
           "views": 562624,
           "pic": "https://i1.hdslb.com/bfs/archive/c617e8ce539c6dfb96fb89e7d2feec919b609b5d.jpg",
           "checked_at": "2026-11-04T23:03:55.416030+00:00"
+        }
+      ]
+    },
+    {
+      "id": "uF-GSj-Exms",
+      "title": "Foundry 2022 Operating System Demo",
+      "author": "Palantir",
+      "source_url": "https://www.youtube.com/watch?v=uF-GSj-Exms",
+      "summary": "A 49-minute demo of Palantir Foundry by its chief architect. It walks through data integration, ML and AI workflows, analytics, and application building across the platform.",
+      "why": "Pointed to as the clearest explanation of what Foundry actually is, and for its polished software, though one commenter calls it dated now.",
+      "score": 2.0,
+      "tags": [
+        "palantir",
+        "foundry",
+        "data integration",
+        "pipelines",
+        "enterprise software"
+      ],
+      "categories": [
+        "databases-storage",
+        "data-science-statistics",
+        "tech-company-stories"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1mx4y187rn",
+          "page": 1,
+          "cid": 1511204547,
+          "title": "Palantir Foundry Demo",
+          "up": "奶味鱼心",
+          "duration": 2939,
+          "kind": "original",
+          "views": 9434,
+          "pic": "https://i2.hdslb.com/bfs/archive/348534f98aaee036ac977f0cd3e6be9df64a7850.png",
+          "checked_at": "2026-11-06T10:13:10.773504+00:00"
+        },
+        {
+          "bvid": "BV1n8411t74x",
+          "page": 1,
+          "cid": 837840535,
+          "title": "Palantir Foundry 2022 Operating System Demo",
+          "up": "会飞的呆呆猪",
+          "duration": 2939,
+          "kind": "original",
+          "views": 784,
+          "pic": "https://i1.hdslb.com/bfs/archive/9e5a4980b950a7e0d9e040009aa5adb9f3f28229.jpg",
+          "checked_at": "2026-11-06T10:20:29.538287+00:00"
         }
       ]
     },
@@ -32999,6 +33450,74 @@
           "views": 1744,
           "pic": "https://i1.hdslb.com/bfs/archive/30bd77ac462c8a71cecfc6a4cfa6adaaa2c9608a.jpg",
           "checked_at": "2026-11-06T00:29:33.051171+00:00"
+        }
+      ]
+    },
+    {
+      "id": "xFFs9UgOAlE",
+      "title": "CS50 Lecture by Mark Zuckerberg - 7 December 2005",
+      "author": "CS50",
+      "source_url": "https://www.youtube.com/watch?v=xFFs9UgOAlE",
+      "summary": "A December 2005 guest lecture by Mark Zuckerberg in Harvard's CS50, discussing Facebook's early days, its technical choices and computer science. It captures him as a 21-year-old founder before Facebook's rise.",
+      "why": "HN commenters mine it for early-Facebook history, such as his view on open source, privacy and the problems that shaped its architecture.",
+      "score": 2.0,
+      "tags": [
+        "mark zuckerberg",
+        "facebook",
+        "cs50",
+        "startups",
+        "scaling"
+      ],
+      "categories": [
+        "tech-company-stories",
+        "tech-figures-interviews",
+        "startups-entrepreneurship"
+      ],
+      "versions": [
+        {
+          "bvid": "BV137411q78m",
+          "page": 1,
+          "cid": 143734776,
+          "title": "CS50 Lecture by Mark Zuckerberg",
+          "up": "钴冷街",
+          "duration": 3935,
+          "kind": "original",
+          "views": 399,
+          "pic": "https://i2.hdslb.com/bfs/archive/e9a7be09a932f53a7eb70b3f42a6aaf383b45b20.jpg",
+          "checked_at": "2026-11-06T10:25:28.487789+00:00"
+        }
+      ]
+    },
+    {
+      "id": "xnqTKD8uD64",
+      "title": "CppCon 2014: Herb Sutter \"Back to the Basics! Essentials of Modern C++ Style\"",
+      "author": "CppCon",
+      "source_url": "https://www.youtube.com/watch?v=xnqTKD8uD64",
+      "summary": "Herb Sutter revisits basic C++ questions in light of C++11 and C++14: how to declare and initialize variables, pass values to functions, write loops, and use smart pointers. It covers auto, rvalue references, range-for, uniform initialization, lambdas, unique_ptr and shared_ptr.",
+      "why": "HN people list it among the go-to talks for learning or refreshing modern C++ style, and cite it for Sutter's guidance on function parameter passing.",
+      "score": 2.0,
+      "tags": [
+        "c++11",
+        "c++14",
+        "smart pointers",
+        "herb sutter",
+        "cppcon"
+      ],
+      "categories": [
+        "systems-programming-languages"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1iG411V79h",
+          "page": 1,
+          "cid": 830993754,
+          "title": "CppCon 2014: Herb Sutter \"Back to the Basics! Essentials of Modern C++ Style\"",
+          "up": "三颗小石头子儿",
+          "duration": 6027,
+          "kind": "original",
+          "views": 285,
+          "pic": "https://i1.hdslb.com/bfs/archive/351359cda322252d0aa365ba015500231be33394.jpg",
+          "checked_at": "2026-11-06T10:30:47.289827+00:00"
         }
       ]
     },
@@ -34445,6 +34964,39 @@
           "views": 3084,
           "pic": "https://i1.hdslb.com/bfs/archive/b4dc5a78cc4c78deaf45a80c4dbffee98a715e15.jpg",
           "checked_at": "2026-11-05T01:46:42.995492+00:00"
+        }
+      ]
+    },
+    {
+      "id": "er416Ad3R1g",
+      "title": "† Carpenter Brut † TURBO KILLER † Directed by Seth Ickerman † Official Video †",
+      "author": "Carpenter Brut",
+      "source_url": "https://www.youtube.com/watch?v=er416Ad3R1g",
+      "summary": "The official video for Carpenter Brut's Turbo Killer, directed by Seth Ickerman, with psychedelic 1980s-styled visuals set to rock-leaning synthwave.",
+      "why": "Recommended as an example of synthwave with striking retro visuals.",
+      "score": 1.0,
+      "tags": [
+        "carpenter brut",
+        "synthwave",
+        "music video",
+        "80s aesthetic",
+        "seth ickerman"
+      ],
+      "categories": [
+        "music-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV144411L7dg",
+          "page": 1,
+          "cid": 93440963,
+          "title": "赛博朋克电子摇滚 Carpenter Brut TURBO KILLER Directed by Seth Ickerman",
+          "up": "叫我柯喵喵",
+          "duration": 255,
+          "kind": "original",
+          "views": 49403,
+          "pic": "https://i0.hdslb.com/bfs/archive/616f6eb69252b41497489f3f5cbb4401cc55afdc.jpg",
+          "checked_at": "2026-11-06T10:01:45.501153+00:00"
         }
       ]
     },
@@ -36553,6 +37105,40 @@
           "checked_at": "2026-11-05T00:54:39.129592+00:00"
         }
       ]
+    },
+    {
+      "id": "wCDIYvFmgW8",
+      "title": "Fatboy Slim ft. Bootsy Collins - Weapon Of Choice [Official 4k Video]",
+      "author": "Fatboy Slim",
+      "source_url": "https://www.youtube.com/watch?v=wCDIYvFmgW8",
+      "summary": "The restored 4k official music video for Fatboy Slim's Weapon of Choice featuring Bootsy Collins, directed by Spike Jonze, with Christopher Walken dancing around a hotel lobby. It won multiple MTV awards and a Grammy.",
+      "why": "HN mentions it mostly in passing as a joke or trivia, such as noting that Spike Jonze appears as a dancer.",
+      "score": 0.0,
+      "tags": [
+        "fatboy slim",
+        "christopher walken",
+        "spike jonze",
+        "weapon of choice",
+        "dance"
+      ],
+      "categories": [
+        "music-performance",
+        "film-tv-clips"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1sp4y1b7Qy",
+          "page": 1,
+          "cid": 330677066,
+          "title": "【Fatboy Slim】Weapon Of Choice【4K母带级Official MV】",
+          "up": "BlueEvenfall",
+          "duration": 226,
+          "kind": "original",
+          "views": 5090,
+          "pic": "https://i0.hdslb.com/bfs/archive/b87f1dd8a5f0b6aee3fab6c78a87b560693a4129.jpg",
+          "checked_at": "2026-11-06T10:01:39.224997+00:00"
+        }
+      ]
     }
   ],
   "legacy": {
@@ -37327,6 +37913,7 @@
     "BV1KGUDYmEb6": "iSVHp6CAyQ8",
     "BV17Ym3BjE5w": "ig_qpNfXHIU",
     "BV1vZ421N7EA": "ig_qpNfXHIU",
+    "BV1yx411S7XQ": "ig_qpNfXHIU",
     "BV1xb421E7BC": "ipVxxxqwBQw",
     "BV1BQTr6PECb": "iw17c70uJes",
     "BV1sU4y1j7oM": "j6VlT_jUVPc",
@@ -37579,6 +38166,7 @@
     "BV1v77E6sEtj": "-hxX_Q5CnaA",
     "BV1Lq4y187m1": "-t1_ffaFXao",
     "BV1jx4y147EJ": "069y1MpOkQY",
+    "BV1hffGBqEQk": "0olpSN6_TCc",
     "BV1eyAReGEGy": "160F8F8mXlo",
     "BV1eY6kYQEJH": "1YbcB6b4A2U",
     "BV1bg411j7Ki": "29RkHH-psrY",
@@ -37675,22 +38263,39 @@
     "BV1KW4y1e7YS": "iSmkqocn0oQ",
     "BV1z24y1T7G3": "jfOUVYQnuhw",
     "BV1SByTB1Em6": "jfOUVYQnuhw",
+    "BV1Dx411R7Va": "kBLkX2VaQs4",
     "BV192421M7AK": "kLiwvnr4L80",
+    "BV1jeWUeEEGE": "ky1nGQhHTso",
     "BV1ab411S7tg": "leFuF-zoVzA",
     "BV1TT4y1k7Yn": "macM_MtS_w4",
     "BV1XJ411D7nE": "nq_SpRBXRmE",
     "BV1si4y1K7At": "o25I2fzFGoY",
     "BV1PecqeuEKC": "p3lsYlod5OU",
+    "BV1SSQ5Y4EED": "pNlq-EVld70",
+    "BV1NMXKBoE3s": "pNlq-EVld70",
+    "BV135411N7q2": "pq1XqP4-qOo",
     "BV1Gv411q7ck": "qWFScmtiC44",
+    "BV1Rh411J7Kj": "qgG5Jhi_Els",
+    "BV1Du4qe1Ef6": "qs2QcycggWU",
+    "BV1HP411J7SF": "qs2QcycggWU",
     "BV14T4y1u7TM": "rG_Eh0J_4_s",
     "BV11G411g7eR": "rG_Eh0J_4_s",
+    "BV1BE411T7tF": "rHdS_4GsKmg",
+    "BV17Sh265EZ3": "rWRbTnE1PEM",
     "BV1uV41167Lq": "rzJqXd-1dEU",
+    "BV1BQ4y1M7Kv": "s19G6n0UjsM",
+    "BV1anDTYgENM": "s19G6n0UjsM",
+    "BV1uqsteUEkR": "si9iqF5uTFk",
     "BV16x411V7Qg": "tIeHLnjs5U8",
+    "BV1mx4y187rn": "uF-GSj-Exms",
+    "BV1n8411t74x": "uF-GSj-Exms",
     "BV1dM4m1d7TD": "ulCdoCfw-bY",
     "BV1c4411e7Pu": "uxPdPpi5W4o",
     "BV1zZ4y1k7Jw": "v68zYyaEmEA",
     "BV1aWsRzQEVc": "vQpUV--2Jao",
     "BV1pEf2YWEja": "wOlcB-JxkFw",
+    "BV137411q78m": "xFFs9UgOAlE",
+    "BV1iG411V79h": "xnqTKD8uD64",
     "BV1Xx411L7cG": "0lvMgMrNDlg",
     "BV1NU4y1o7FQ": "2B-XwPjn9YY",
     "BV1PQ4y1q7uF": "2z5A-COlDPk",
@@ -37738,6 +38343,7 @@
     "BV11hm6BgEYu": "c33AZBnRHks",
     "BV1ot411d7Dj": "cNZPRsrwumQ",
     "BV1Vx411L7mW": "eNSN6qet1kE",
+    "BV144411L7dg": "er416Ad3R1g",
     "BV1MT4y1c7p7": "fnUc_W3xE1w",
     "BV17pmjBbEfQ": "h4T_LlK1VE4",
     "BV1kZ4y1g7MC": "h4T_LlK1VE4",
@@ -37802,6 +38408,7 @@
     "BV13W411F7eV": "ogfYd705cRs",
     "BV1a4421U7ff": "ovYbgbrQ-v8",
     "BV1pu4jzvEck": "pZwvrxVavnQ",
-    "BV1xW411L75Y": "stXgn2iZAAY"
+    "BV1xW411L75Y": "stXgn2iZAAY",
+    "BV1sp4y1b7Qy": "wCDIYvFmgW8"
   }
 }
