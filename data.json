@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T19:58:32.439751+00:00",
+  "built_at": "2026-11-06T20:33:23.619163+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 4239,
-    "confirmed": 982,
-    "coverage": 0.15215370312984197,
-    "processed_match_rate": 0.23165841000235904
+    "processed": 4289,
+    "confirmed": 988,
+    "coverage": 0.15308335915711188,
+    "processed_match_rate": 0.23035672650967592
   },
   "areas": [
     {
@@ -36061,6 +36061,42 @@
           "views": 1653,
           "pic": "https://i1.hdslb.com/bfs/archive/8282fa558f51320206c5bc156cfbf751bf36d520.jpg",
           "checked_at": "2026-11-06T19:45:58.899283+00:00"
+        },
+        {
+          "bvid": "BV1Bc411A7fh",
+          "page": 1,
+          "cid": 1143967390,
+          "title": "【可视化音乐】CYMATICS: Science Vs. Music - Nigel Stanford",
+          "up": "小龙猫0u0",
+          "duration": 361,
+          "kind": "original",
+          "views": 1456,
+          "pic": "https://i2.hdslb.com/bfs/archive/69f0f54e7e1bcb1630cdf7e07f50a56fd9c3d58d.jpg",
+          "checked_at": "2026-11-06T20:00:57.997862+00:00"
+        },
+        {
+          "bvid": "BV1yx411L73L",
+          "page": 1,
+          "cid": 26790187,
+          "title": "【搬运】CYMATICS- Science Vs. Music - Nigel Stanford",
+          "up": "铁狐",
+          "duration": 352,
+          "kind": "original",
+          "views": 650,
+          "pic": "https://i1.hdslb.com/bfs/archive/e37dc3fd0e09c21fcb6c7aea6b188a4efb76f0f3.jpg",
+          "checked_at": "2026-11-06T20:00:56.704707+00:00"
+        },
+        {
+          "bvid": "BV18t411W72W",
+          "page": 1,
+          "cid": 71256545,
+          "title": "【科学与音乐】超炫酷 CYMATICS  Science Vs. Music - Nigel Stanford",
+          "up": "七七咋咋和霍哈",
+          "duration": 353,
+          "kind": "original",
+          "views": 632,
+          "pic": "https://i2.hdslb.com/bfs/archive/2f16ee5f7cdcdfd43bb79b87b1acd857d80ac3ba.jpg",
+          "checked_at": "2026-11-06T20:00:59.399859+00:00"
         }
       ]
     },
@@ -36098,6 +36134,73 @@
       ]
     },
     {
+      "id": "RIvL2ONhFBI",
+      "title": "Sydney Golang Meetup - Rob Pike - Go 2 Draft Specifications",
+      "author": "Macquarie Group",
+      "source_url": "https://www.youtube.com/watch?v=RIvL2ONhFBI",
+      "summary": "Rob Pike presents the Go 2 draft specifications at the Sydney Golang Meetup, covering the Go 2 process and several proposals including generics. The Q&A contains a well-known exchange about the name of the language.",
+      "why": "Cited in Go threads for Pike's stance on generics and the Go 2 process, plus an amusing Q&A moment.",
+      "score": 1.0,
+      "tags": [
+        "golang",
+        "rob pike",
+        "go 2",
+        "generics",
+        "language proposals"
+      ],
+      "categories": [
+        "systems-programming-languages",
+        "programming-language-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1cA411H7Lu",
+          "page": 1,
+          "cid": 232959074,
+          "title": "Rob Pike. Go 2 Draft Specifications. Sydney Golang Meetup. Nov 13, 2018",
+          "up": "欧长坤",
+          "duration": 4020,
+          "kind": "original",
+          "views": 251,
+          "pic": "https://i0.hdslb.com/bfs/archive/bf6aaee17e4f145477fb8f92eb1d9d87579b764c.jpg",
+          "checked_at": "2026-11-06T20:03:10.047529+00:00"
+        }
+      ]
+    },
+    {
+      "id": "RPdB_zdyMbM",
+      "title": "The Black Lotus - Starstruck - Amiga Demo (AGA)",
+      "author": "RetroDemoScene",
+      "source_url": "https://www.youtube.com/watch?v=RPdB_zdyMbM",
+      "summary": "Starstruck, an AGA Amiga demo by The Black Lotus that won first place at Assembly 2006, shown in HD at 50fps.",
+      "why": "Shared as an example of great Amiga demoscene work.",
+      "score": 1.0,
+      "tags": [
+        "amiga",
+        "demoscene",
+        "the black lotus",
+        "aga",
+        "assembly"
+      ],
+      "categories": [
+        "demoscene-retrocomputing"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1bh4y1q7au",
+          "page": 1,
+          "cid": 1298830444,
+          "title": "The Black Lotus - Starstruck - Amiga Demo (AGA)",
+          "up": "X10-Cookiez",
+          "duration": 378,
+          "kind": "original",
+          "views": 259,
+          "pic": "https://i1.hdslb.com/bfs/archive/544725fdda9107f580e1cf4a589656fe92998c34.jpg",
+          "checked_at": "2026-11-06T20:04:47.733615+00:00"
+        }
+      ]
+    },
+    {
       "id": "RcVA8Nj6HEo",
       "title": "What is PLUS times PLUS?",
       "author": "2swap",
@@ -36129,6 +36232,121 @@
           "views": 1598,
           "pic": "https://i0.hdslb.com/bfs/archive/3eca60c1be1e42256c8ea67de4bd1f46350df6b5.png",
           "checked_at": "2026-11-06T01:13:20.873585+00:00"
+        }
+      ]
+    },
+    {
+      "id": "S94ETUiMZwQ",
+      "title": "Westworld - Consciousness does not exist, Anthony Hopkins",
+      "author": "Dozenal Tauist",
+      "source_url": "https://www.youtube.com/watch?v=S94ETUiMZwQ",
+      "summary": "A two-minute Westworld scene in which Robert Ford and Bernard Lowe discuss whether consciousness exists. Ford argues that the self is a fiction for hosts and humans alike.",
+      "why": "HN uses it in AI and consciousness debates as a memorable take on why general intelligence is hard to define.",
+      "score": 1.0,
+      "tags": [
+        "westworld",
+        "consciousness",
+        "artificial general intelligence",
+        "philosophy of mind"
+      ],
+      "categories": [
+        "consciousness-mind",
+        "film-tv-clips"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1AvYo6HE2F",
+          "page": 1,
+          "cid": 42059041425,
+          "title": "Westworld - Consciousness does not exist, Anthony Hopkins",
+          "up": "LalaLlane",
+          "duration": 118,
+          "kind": "original",
+          "views": 12,
+          "pic": "https://i1.hdslb.com/bfs/archive/0b25aecce796c05f9f0c4d4e01e031152d75204f.jpg",
+          "checked_at": "2026-11-06T20:10:42.584969+00:00"
+        }
+      ]
+    },
+    {
+      "id": "SnRgW54EWwA",
+      "title": "VACNET Anti-cheat",
+      "author": "3kliksphilip",
+      "source_url": "https://www.youtube.com/watch?v=SnRgW54EWwA",
+      "summary": "3kliksphilip summarizes Valve's GDC talk on VACNet, a deep-learning system that flags CS:GO cheaters and feeds the Overwatch review queue. It covers Trust Factor, VAC, and how the data is collected and analyzed.",
+      "why": "HN cites it as a source for how Valve uses machine learning on player behavior to detect cheating.",
+      "score": 1.0,
+      "tags": [
+        "vacnet",
+        "cs:go",
+        "valve",
+        "deep learning",
+        "overwatch"
+      ],
+      "categories": [
+        "gaming-culture",
+        "machine-learning",
+        "speedrunning-glitches"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ot411j7bZ",
+          "page": 1,
+          "cid": 105794029,
+          "title": "VACNET的工作原理VACNET Anti-cheat 熟肉(渣翻)",
+          "up": "烨煊煊煊煊",
+          "duration": 784,
+          "kind": "sub_zh",
+          "views": 938,
+          "pic": "https://i0.hdslb.com/bfs/archive/774c652227aabbed64c96ed2d9e148b4824c9f88.jpg",
+          "checked_at": "2026-11-06T20:15:45.334175+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TlO2gcs1YvM",
+      "title": "MICRO DRONES KILLER ARMS ROBOTS - AUTONOMOUS ARTIFICIAL INTELLIGENCE - WARNING !!",
+      "author": "CS Consulting",
+      "source_url": "https://www.youtube.com/watch?v=TlO2gcs1YvM",
+      "summary": "A dramatized fictional video of micro drones with facial recognition and swarm AI used as autonomous killer weapons. It is a Slaughterbots-style warning about lethal autonomous weapons.",
+      "why": "Linked in drone and military AI threads as a chilling dramatization, though some find it alarmist.",
+      "score": 1.0,
+      "tags": [
+        "killer drones",
+        "swarms",
+        "military ai",
+        "facial recognition",
+        "design fiction"
+      ],
+      "categories": [
+        "robotics",
+        "ai-safety-impact",
+        "military-warfare"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1QW411i7Sk",
+          "page": 1,
+          "cid": 29661157,
+          "title": "难以置信的无人机应用 MICRO DRONES KILLER ARMS ROBOTS",
+          "up": "试飞外场食堂",
+          "duration": 468,
+          "kind": "original",
+          "views": 622,
+          "pic": "https://i0.hdslb.com/bfs/archive/6a5f74fd9b2ca36084c926e1b7433e14ade39464.jpg",
+          "checked_at": "2026-11-06T20:24:29.539047+00:00"
+        },
+        {
+          "bvid": "BV1am4y1F7uU",
+          "page": 1,
+          "cid": 895918988,
+          "title": "MICRO DRONES KILLER ARMS ROBOTS - AUTONOMOUS ARTIFICIAL INTELLIGENCE",
+          "up": "一夜秋风Daniel",
+          "duration": 469,
+          "kind": "original",
+          "views": 44,
+          "pic": "https://i0.hdslb.com/bfs/archive/002c94455b4bb0091957d4f57ac363cf6f09464c.jpg",
+          "checked_at": "2026-11-06T20:32:16.874903+00:00"
         }
       ]
     },
@@ -36199,6 +36417,39 @@
           "views": 2897,
           "pic": "https://i2.hdslb.com/bfs/archive/8f1da00fc745e489b79beca6e30151ea70ac9018.jpg",
           "checked_at": "2026-11-04T23:03:56.837015+00:00"
+        }
+      ]
+    },
+    {
+      "id": "U6xJfP7-HCc",
+      "title": "Base 12 - Numberphile",
+      "author": "Numberphile",
+      "source_url": "https://www.youtube.com/watch?v=U6xJfP7-HCc",
+      "summary": "Numberphile's James Grime makes the case for base 12 (dozenal) over base 10, showing how twelve's many divisors make arithmetic and everyday fractions easier.",
+      "why": "HN uses it as the accessible overview of the dozenal system whenever base 12 or the 12 times table comes up.",
+      "score": 1.0,
+      "tags": [
+        "dozenal",
+        "duodecimal",
+        "number bases",
+        "numberphile",
+        "arithmetic"
+      ],
+      "categories": [
+        "recreational-math"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ys41167Nv",
+          "page": 1,
+          "cid": 9993926,
+          "title": "十二进制  Base 12 - Numberphile",
+          "up": "何氏集团及CVS联合王国",
+          "duration": 552,
+          "kind": "original",
+          "views": 1747,
+          "pic": "https://i2.hdslb.com/bfs/archive/4182ddcf58611721d954644e4e6a02aabc7ac917.jpg",
+          "checked_at": "2026-11-06T20:26:46.313126+00:00"
         }
       ]
     },
@@ -39995,10 +40246,20 @@
     "BV1rT4y1c7WG": "Os7FE3J-U5Q",
     "BV14P4y1D7ba": "Pp9Yax8UNoM",
     "BV1Xt411i7bU": "Q3oItpVa9fs",
+    "BV1Bc411A7fh": "Q3oItpVa9fs",
+    "BV1yx411L73L": "Q3oItpVa9fs",
+    "BV18t411W72W": "Q3oItpVa9fs",
     "BV1rF411b7B3": "QK8mJJJvaes",
+    "BV1cA411H7Lu": "RIvL2ONhFBI",
+    "BV1bh4y1q7au": "RPdB_zdyMbM",
     "BV1ME15BiEAo": "RcVA8Nj6HEo",
+    "BV1AvYo6HE2F": "S94ETUiMZwQ",
+    "BV1ot411j7bZ": "SnRgW54EWwA",
+    "BV1QW411i7Sk": "TlO2gcs1YvM",
+    "BV1am4y1F7uU": "TlO2gcs1YvM",
     "BV1vs411t7ga": "TnzcwTyr6cE",
     "BV1Uf4y127Nb": "U5kIdtMJGc8",
+    "BV1ys41167Nv": "U6xJfP7-HCc",
     "BV1yuHCeGEjb": "UBVV8pch1dM",
     "BV1xK411A71s": "VkR2hnXR0SM",
     "BV1EvR5YmEp5": "ZI198eFghJk",
