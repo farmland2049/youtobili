@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T03:14:09.333056+00:00",
+  "built_at": "2026-11-06T03:46:12.827318+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 2667,
-    "confirmed": 827,
-    "coverage": 0.12813758909203596,
-    "processed_match_rate": 0.3100862392200975
+    "processed": 2752,
+    "confirmed": 837,
+    "coverage": 0.12968701580415246,
+    "processed_match_rate": 0.30414244186046513
   },
   "areas": [
     {
@@ -21889,6 +21889,40 @@
       ]
     },
     {
+      "id": "kYYJlNbV1OM",
+      "title": "2017 Personality 01: Introduction",
+      "author": "Jordan B Peterson",
+      "source_url": "https://www.youtube.com/watch?v=kYYJlNbV1OM",
+      "summary": "The opening lecture of Jordan Peterson's 2017 University of Toronto personality course. He defines personality from historical, constructivist, psychoanalytic, behavioral and neuropsychological angles.",
+      "why": "Recommended as part of a long lecture series on psychology, complementing biology lectures, and named when HN asks for the best lecture series.",
+      "score": 3.5,
+      "tags": [
+        "personality",
+        "psychology",
+        "university lecture",
+        "jordan peterson",
+        "psychoanalysis"
+      ],
+      "categories": [
+        "psychology-behavior",
+        "university-lectures"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Jf4y1z7sd",
+          "page": 1,
+          "cid": 298358052,
+          "title": "2017 性格心理学 01 课程简介 ｜乔丹·彼得森 【2017 Personality 01 Introduction】 Dr.Jordan Peterson",
+          "up": "水能载周亦覆周",
+          "duration": 3243,
+          "kind": "original",
+          "views": 1571,
+          "pic": "https://i0.hdslb.com/bfs/archive/8750791eb5e7a14e42613ef49062c0ec2dbd61f3.jpg",
+          "checked_at": "2026-11-06T03:33:21.640469+00:00"
+        }
+      ]
+    },
+    {
       "id": "mvmuCPvRoWQ",
       "title": "Euler's formula with introductory group theory",
       "author": "3Blue1Brown",
@@ -27905,6 +27939,110 @@
       ]
     },
     {
+      "id": "QAr-uHd8h8o",
+      "title": "Why Figure 8 knot is NOT hard to untie!",
+      "author": "Hard Is Easy",
+      "source_url": "https://www.youtube.com/watch?v=QAr-uHd8h8o",
+      "summary": "Hard Is Easy runs experiments to show that a correctly tied figure 8 knot is not hard to untie after loading. He shows how two knots that look similar can behave differently depending on how they are dressed.",
+      "why": "Cited in climbing knot threads to counter the claim that figure 8s jam, by showing the correct tying method.",
+      "score": 2.5,
+      "tags": [
+        "figure 8 knot",
+        "rock climbing",
+        "knot experiments",
+        "climbing safety",
+        "bowline"
+      ],
+      "categories": [
+        "sports-athletics",
+        "everyday-physics-demos"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Cy4y1r7zY",
+          "page": 1,
+          "cid": 249673662,
+          "title": "（油管搬运）Why Figure 8 knot is NOT hard to untie!让8字结不难解开的打法",
+          "up": "六国之殇",
+          "duration": 1057,
+          "kind": "original",
+          "views": 249,
+          "pic": "https://i1.hdslb.com/bfs/archive/ff4f919d649822d27f07d104e300af0b7928064e.jpg",
+          "checked_at": "2026-11-06T03:21:31.212367+00:00"
+        }
+      ]
+    },
+    {
+      "id": "QLUIExAnNcE",
+      "title": "Understanding the Honda CR-V Hybrid E-Drive",
+      "author": "WeberAuto",
+      "source_url": "https://www.youtube.com/watch?v=QLUIExAnNcE",
+      "summary": "WeberAuto explains how the Honda E-Drive (i-MMD) hybrid transaxle works in the CR-V, Accord, Insight and Clarity hybrids. It walks through the system's three modes of operation.",
+      "why": "HN recommends it as a clear explanation of a mind-blowingly simple power-split hybrid design.",
+      "score": 2.5,
+      "tags": [
+        "honda",
+        "e-drive",
+        "hybrid",
+        "transaxle",
+        "ecvt",
+        "weberauto"
+      ],
+      "categories": [
+        "automotive-ev",
+        "mechanical-engineering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Ca4y1H7SP",
+          "page": 1,
+          "cid": 367315511,
+          "title": "Understanding the Honda Hybrid E-Drive",
+          "up": "好奇的成哥哥",
+          "duration": 1516,
+          "kind": "original",
+          "views": 1860,
+          "pic": "https://i1.hdslb.com/bfs/archive/08d1e7d45a9df74448c4786c84e661ff434d1251.jpg",
+          "checked_at": "2026-11-06T03:22:23.593345+00:00"
+        }
+      ]
+    },
+    {
+      "id": "QspuCt1FM9M",
+      "title": "Justin Bieber 800% Slower",
+      "author": "turinpt2",
+      "source_url": "https://www.youtube.com/watch?v=QspuCt1FM9M",
+      "summary": "A Justin Bieber song slowed down 800% with the PaulStretch program, turning a pop track into a long ambient drone.",
+      "why": "HN points to it as the canonical example of extreme audio stretching making pop music into something entirely different and relaxing.",
+      "score": 2.5,
+      "tags": [
+        "paulstretch",
+        "ambient",
+        "drone",
+        "time stretching",
+        "audio experiment"
+      ],
+      "categories": [
+        "music-theory-production",
+        "information-theory",
+        "music-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1sS9yBKE1d",
+          "page": 1,
+          "cid": 37919982225,
+          "title": "贾斯汀比伯800%慢速",
+          "up": "カラジッチ先輩",
+          "duration": 591,
+          "kind": "original",
+          "views": 2178,
+          "pic": "https://i1.hdslb.com/bfs/archive/55202d715119ed99fa8bc698f163b493da7f9cf5.jpg",
+          "checked_at": "2026-11-06T03:24:24.267698+00:00"
+        }
+      ]
+    },
+    {
       "id": "R37zkizucPU",
       "title": "Louis CK honors George Carlin",
       "author": "Bromista5",
@@ -27939,6 +28077,87 @@
       ]
     },
     {
+      "id": "S4gU2Tsv6hY",
+      "title": "The Iroquois Confederacy",
+      "author": "Historia Civilis",
+      "source_url": "https://www.youtube.com/watch?v=S4gU2Tsv6hY",
+      "summary": "Historia Civilis explains the origins and governing system of the Iroquois (Haudenosaunee) Confederacy. It covers the Great Law and the league's surprisingly intricate legal and political structure.",
+      "why": "HN recommends it for anyone interested in legal systems, governance, or history.",
+      "score": 2.5,
+      "tags": [
+        "iroquois",
+        "haudenosaunee",
+        "legal systems",
+        "indigenous history",
+        "great law of peace"
+      ],
+      "categories": [
+        "world-history",
+        "law-policing-justice"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1XU4y1B7MU",
+          "page": 1,
+          "cid": 820776921,
+          "title": "视频2 the-iroquois-confederacy",
+          "up": "桀骜Bravura",
+          "duration": 961,
+          "kind": "original",
+          "views": 124,
+          "pic": "https://i2.hdslb.com/bfs/archive/f4115a5c0cb6c0d25186a2af6a58afc9eb1b3ff6.jpg",
+          "checked_at": "2026-11-06T03:26:22.886511+00:00"
+        },
+        {
+          "bvid": "BV1Dg8u6HE7L",
+          "page": 1,
+          "cid": 41116959646,
+          "title": "The Iroquois Confederacy",
+          "up": "将神子",
+          "duration": 961,
+          "kind": "original",
+          "views": 9,
+          "pic": "https://i2.hdslb.com/bfs/archive/0a2b4648a715472213e7699b0c889fb2f306cb72.jpg",
+          "checked_at": "2026-11-06T03:33:22.997787+00:00"
+        }
+      ]
+    },
+    {
+      "id": "SEwTjZvy8vw",
+      "title": "2023 LLVM Dev Mtg - Mojo 🔥: A system programming language for heterogenous computing",
+      "author": "LLVM",
+      "source_url": "https://www.youtube.com/watch?v=SEwTjZvy8vw",
+      "summary": "A 2023 LLVM Developers' Meeting keynote by Abdul Dakkak, Chris Lattner and Jeff Niu introducing Mojo, a Python-family systems language built on MLIR and LLVM for heterogeneous computing.",
+      "why": "HN points to it as the best deep dive into Mojo's design, including MLIR use and SIMD-first scalars.",
+      "score": 2.5,
+      "tags": [
+        "mojo",
+        "mlir",
+        "llvm",
+        "compilers",
+        "chris lattner"
+      ],
+      "categories": [
+        "compilers-interpreters",
+        "systems-programming-languages",
+        "programming-language-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Aa4y1f7qo",
+          "page": 1,
+          "cid": 1344789912,
+          "title": "2023 LLVM Dev Mtg - Mojo 🔥- A system programming language for heterogenous comp",
+          "up": "搬运大仙",
+          "duration": 2989,
+          "kind": "original",
+          "views": 135,
+          "pic": "https://i1.hdslb.com/bfs/archive/af820d8b4b9ba4c1a51cd4e3e37e6cb47bfdae97.jpg",
+          "checked_at": "2026-11-06T03:27:07.958979+00:00"
+        }
+      ]
+    },
+    {
       "id": "SGUCcjHTmGY",
       "title": "OpenAI Codex Live Demo",
       "author": "OpenAI",
@@ -27968,6 +28187,41 @@
           "views": 1090,
           "pic": "https://i0.hdslb.com/bfs/archive/a3ea312f5dc46d387474acf33c731e3ad4338a0d.jpg",
           "checked_at": "2026-11-04T23:03:55.385733+00:00"
+        }
+      ]
+    },
+    {
+      "id": "Tml94je2edk",
+      "title": "Why Static Typing Came Back • Richard Feldman • GOTO 2022",
+      "author": "GOTO Conferences",
+      "source_url": "https://www.youtube.com/watch?v=Tml94je2edk",
+      "summary": "Richard Feldman's GOTO Copenhagen 2022 talk on why dynamic languages like Python, Ruby, PHP and JavaScript rose in the 1990s and why each now has a popular static type checker. It argues that modern static typing recovers the advantages that made dynamic languages attractive.",
+      "why": "HN commenters cite it as a clear account of the trade-offs between static and dynamic typing and why the industry is swinging back to types.",
+      "score": 2.5,
+      "tags": [
+        "static typing",
+        "dynamic languages",
+        "gradual typing",
+        "programming language history",
+        "type checkers"
+      ],
+      "categories": [
+        "programming-language-design",
+        "scripting-languages",
+        "web-development"
+      ],
+      "versions": [
+        {
+          "bvid": "BV14g4y197EU",
+          "page": 1,
+          "cid": 1330209266,
+          "title": "【编程语言】为何静态类型又回来了？Why Static Typing Came Back • Richard Feldman • GOTO 2022",
+          "up": "vimalakirtii",
+          "duration": 3121,
+          "kind": "original",
+          "views": 51,
+          "pic": "https://i0.hdslb.com/bfs/archive/94c863e6ee2104f1a7be04c57f33ade3a50a1fe4.jpg",
+          "checked_at": "2026-11-06T03:28:45.159194+00:00"
         }
       ]
     },
@@ -28006,6 +28260,74 @@
       ]
     },
     {
+      "id": "VdqhHKjepiE",
+      "title": "RimWorld: Contrarian, Ridiculous, and Impossible Game Design Methods",
+      "author": "GDC Festival of Gaming",
+      "source_url": "https://www.youtube.com/watch?v=VdqhHKjepiE",
+      "summary": "RimWorld creator Tynan Sylvester explains at GDC 2017 how Ludeon framed the game as a story generator rather than a game. He covers the design methods that came out of that frame.",
+      "why": "Recommended as an accessible talk on emergent narrative and on how RimWorld was designed, and cited in threads on simulation games.",
+      "score": 2.5,
+      "tags": [
+        "rimworld",
+        "emergent narrative",
+        "story generator",
+        "gdc",
+        "simulation games"
+      ],
+      "categories": [
+        "game-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1yE41137sZ",
+          "page": 1,
+          "cid": 164515731,
+          "title": "RimWorld - Contrarian, Ridiculous, and Impossible Game Design Methods",
+          "up": "楚天阔tkchu2",
+          "duration": 3653,
+          "kind": "original",
+          "views": 123,
+          "pic": "https://i0.hdslb.com/bfs/archive/c83d298e3dfd5c8a70a5cfb2752bc6701cdc8d9e.jpg",
+          "checked_at": "2026-11-06T03:33:54.413925+00:00"
+        }
+      ]
+    },
+    {
+      "id": "WB2-2j9e4co",
+      "title": "Extreme transformer home in Hong Kong: Gary Chang's 24 rooms in 1",
+      "author": "Kirsten Dirksen",
+      "source_url": "https://www.youtube.com/watch?v=WB2-2j9e4co",
+      "summary": "Kirsten Dirksen visits architect Gary Chang's 32 square meter Hong Kong apartment, which he has redesigned over decades. Sliding walls and transformable furniture turn it into 24 different room configurations.",
+      "why": "Held up as the ultimate example of small-space design and a beautiful compact home.",
+      "score": 2.5,
+      "tags": [
+        "tiny apartment",
+        "hong kong",
+        "transformable furniture",
+        "architecture",
+        "gary chang"
+      ],
+      "categories": [
+        "visual-arts",
+        "home-diy-repair",
+        "product-industrial-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1tz411i7Es",
+          "page": 1,
+          "cid": 199392306,
+          "title": "香港32平米豪宅？收藏3000张光碟，还有水疗馆和私人影院？Extreme transformer home in Hong Kong",
+          "up": "Rainman34",
+          "duration": 617,
+          "kind": "original",
+          "views": 382,
+          "pic": "https://i2.hdslb.com/bfs/archive/888de9f55ffd19d415a059dccbbd28a724230b6e.jpg",
+          "checked_at": "2026-11-06T03:34:53.993709+00:00"
+        }
+      ]
+    },
+    {
       "id": "_zfN9wnPvU0",
       "title": "AI Slop Is Destroying The Internet",
       "author": "Kurzgesagt – In a Nutshell",
@@ -28037,6 +28359,40 @@
           "views": 10,
           "pic": "https://i2.hdslb.com/bfs/archive/39c5775be8ad489561f677fd1a3b08a68efcca5f.jpg",
           "checked_at": "2026-11-05T14:43:55.592264+00:00"
+        }
+      ]
+    },
+    {
+      "id": "b9IkpUYlOx8",
+      "title": "Super Mario World Ending Theme sight-read by Tom Brier",
+      "author": "Keeper1st",
+      "source_url": "https://www.youtube.com/watch?v=b9IkpUYlOx8",
+      "summary": "Pianist Tom Brier sight-reads a piano arrangement of the Super Mario World ending theme, working from a first-draft score by Keeper1st. He takes some liberties with the score as he plays.",
+      "why": "HN commenters recommend it as a showcase of remarkable sight-reading and a favorite when sight-reading or notation comes up.",
+      "score": 2.5,
+      "tags": [
+        "video game music",
+        "super mario",
+        "piano",
+        "sight-reading",
+        "sheet music"
+      ],
+      "categories": [
+        "music-performance",
+        "game-history-retro"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1vs41117N4",
+          "page": 1,
+          "cid": 4545836,
+          "title": "Super_Mario_World_Ending_Theme_sight-read_by_Tom_Brier",
+          "up": "强巴NuNu",
+          "duration": 308,
+          "kind": "original",
+          "views": 1609,
+          "pic": "https://i0.hdslb.com/bfs/archive/b094b451a8810a9b65e9950b386f4280443f12fc.jpg",
+          "checked_at": "2026-11-06T03:43:36.486273+00:00"
         }
       ]
     },
@@ -33735,6 +34091,7 @@
     "BV1ss411h79q": "jOyfZex7B3E",
     "BV145411L78f": "jlX_pThh7z8",
     "BV1Up411o7Bo": "jlX_pThh7z8",
+    "BV1Jf4y1z7sd": "kYYJlNbV1OM",
     "BV1fx41187tZ": "mvmuCPvRoWQ",
     "BV13x411g7Cf": "n1QEj09Pe6k",
     "BV12W411N7RF": "n1QEj09Pe6k",
@@ -33938,9 +34295,19 @@
     "BV1AE411P7Cb": "NmGaXEmfTIo",
     "BV1UGSWBKE8h": "ODSJsviD_SU",
     "BV1Q5KpeWEdt": "P_fHJIYENdI",
+    "BV1Cy4y1r7zY": "QAr-uHd8h8o",
+    "BV1Ca4y1H7SP": "QLUIExAnNcE",
+    "BV1sS9yBKE1d": "QspuCt1FM9M",
     "BV1Rs411Y7EH": "R37zkizucPU",
+    "BV1XU4y1B7MU": "S4gU2Tsv6hY",
+    "BV1Dg8u6HE7L": "S4gU2Tsv6hY",
+    "BV1Aa4y1f7qo": "SEwTjZvy8vw",
     "BV11q4y1U7K8": "SGUCcjHTmGY",
+    "BV14g4y197EU": "Tml94je2edk",
+    "BV1yE41137sZ": "VdqhHKjepiE",
+    "BV1tz411i7Es": "WB2-2j9e4co",
     "BV1gXsd6rEhi": "_zfN9wnPvU0",
+    "BV1vs41117N4": "b9IkpUYlOx8",
     "BV17F4m1K7V3": "d6iQrh2TK98",
     "BV1uh2LB3E3U": "hCQCP-5g5bo",
     "BV1Us411172N": "hIZxTQP1ifo",
