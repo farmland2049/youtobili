@@ -1,155 +1,172 @@
 {
-  "baseline_commit": "8636e56ae1b0c3d398ef83b0e4e36407be60f747",
+  "baseline_commit": "f8b3c657ceb8c9167f184a31a6b5e58e8d420363",
   "phase_status": "stopped",
   "before": {
-    "corpus": 6454,
-    "processed": 3204,
-    "confirmed": 895,
-    "coverage": 0.13867369073442826,
-    "processed_match_rate": 0.2793383270911361
-  },
-  "after": {
     "corpus": 6454,
     "processed": 3265,
     "confirmed": 904,
     "coverage": 0.14006817477533312,
     "processed_match_rate": 0.27687595712098007
   },
-  "newly_processed": 61,
-  "newly_processed_confirmed": 9,
-  "newly_processed_match_rate": 0.14754098360655737,
+  "after": {
+    "corpus": 6454,
+    "processed": 3393,
+    "confirmed": 915,
+    "coverage": 0.1417725441586613,
+    "processed_match_rate": 0.2696728558797524
+  },
+  "newly_processed": 128,
+  "newly_processed_confirmed": 11,
+  "newly_processed_match_rate": 0.0859375,
   "added_originals": [
-    "CIjXUg1s5gc",
-    "QUcTsFe1PVs",
-    "R2_Mn-qRKjA",
-    "S4O5voOCqAQ",
-    "SA8ZBJWo73E",
-    "SDXB0CY2tSQ",
-    "SqayDnQ2wmw",
-    "ThjvMReOXYM",
-    "aWvHrih-Juk"
+    "UC_BCz0pzMw",
+    "VVV4xeWBIxE",
+    "W6aKQ-eBFk0",
+    "Wo2m3jaJixU",
+    "WvwiH1DOK1M",
+    "ZDxLa6P6exc",
+    "Zd_UcjMusUA",
+    "_ArVh3Cj9rw",
+    "alasBxZsb40",
+    "d_FEaFgJyfA",
+    "rG_Eh0J_4_s"
   ],
   "withdrawn_originals": [],
-  "versions": 1227,
+  "versions": 1241,
   "added_versions": [
     {
-      "id": "CIjXUg1s5gc",
-      "bvid": "BV1kx411u7tz",
+      "id": "UC_BCz0pzMw",
+      "bvid": "BV1rA411G7qk",
       "page": 1
     },
     {
-      "id": "QUcTsFe1PVs",
-      "bvid": "BV1Gt411f7w1",
+      "id": "VVV4xeWBIxE",
+      "bvid": "BV1Bs411Y7MW",
       "page": 1
     },
     {
-      "id": "R2_Mn-qRKjA",
-      "bvid": "BV1Ga411J75V",
+      "id": "W6aKQ-eBFk0",
+      "bvid": "BV1xV4y137Yv",
       "page": 1
     },
     {
-      "id": "S4O5voOCqAQ",
-      "bvid": "BV1SjroYXEmG",
+      "id": "Wo2m3jaJixU",
+      "bvid": "BV1fX4y1v7WM",
       "page": 1
     },
     {
-      "id": "SA8ZBJWo73E",
-      "bvid": "BV1wpr4BmE9w",
+      "id": "WvwiH1DOK1M",
+      "bvid": "BV19Y4y1g7Hz",
       "page": 1
     },
     {
-      "id": "SDXB0CY2tSQ",
-      "bvid": "BV1RT4y1h72v",
+      "id": "ZDxLa6P6exc",
+      "bvid": "BV1RW41187B4",
       "page": 1
     },
     {
-      "id": "SqayDnQ2wmw",
-      "bvid": "BV19s411g7jZ",
+      "id": "Zd_UcjMusUA",
+      "bvid": "BV1Vw4m1Z789",
       "page": 1
     },
     {
-      "id": "SqayDnQ2wmw",
-      "bvid": "BV1P7g6z8E5U",
+      "id": "_ArVh3Cj9rw",
+      "bvid": "BV12FQXB9Eb8",
       "page": 1
     },
     {
-      "id": "SqayDnQ2wmw",
-      "bvid": "BV1sXPGzgEvs",
+      "id": "_ArVh3Cj9rw",
+      "bvid": "BV1RV411j7vv",
       "page": 1
     },
     {
-      "id": "ThjvMReOXYM",
-      "bvid": "BV1V3411A74K",
+      "id": "_ArVh3Cj9rw",
+      "bvid": "BV1w3CdBvEM8",
       "page": 1
     },
     {
-      "id": "aWvHrih-Juk",
-      "bvid": "BV1mo4y1K7eA",
+      "id": "alasBxZsb40",
+      "bvid": "BV1uf4y1H7iu",
+      "page": 1
+    },
+    {
+      "id": "d_FEaFgJyfA",
+      "bvid": "BV1Z7411k7Vb",
+      "page": 1
+    },
+    {
+      "id": "rG_Eh0J_4_s",
+      "bvid": "BV11G411g7eR",
+      "page": 1
+    },
+    {
+      "id": "rG_Eh0J_4_s",
+      "bvid": "BV14T4y1u7TM",
       "page": 1
     }
   ],
   "withdrawn_versions": [],
   "search_batches": [
     {
-      "id": "20261106T073426Z",
+      "id": "20261106T080022Z",
       "selected": 50,
       "completed": 50,
       "errors": [],
       "stopped": false,
       "originals": [
-        "OMi6xgdSbMA",
-        "OOK5xkFijPc",
-        "OOeBJ8mDr8Q",
-        "ObiqJzfyACM",
-        "OgRFOjVzvm0",
-        "OkEdyq3UE5M",
-        "OqmdLcyES_Q",
-        "OsDy-4L6-tQ",
-        "Ot4qdCs54ZE",
-        "OyBNmecVtdU",
-        "P1IcaBn3ej0",
-        "PC2JOQ7z5L0",
-        "PDL_pIPScSI",
-        "PHiyQID7SBs",
-        "PZRI1IfStY0",
-        "PaKIZ7gJlRU",
-        "Pm8P4oCIY3g",
-        "Q13CishCKXY",
-        "Q8ccXzM3x8A",
-        "Q8oCilY4szc",
-        "QAz-maaH0KM",
-        "QEJpZjg8GuA",
-        "QMVIJhC9Veg",
-        "QUcTsFe1PVs",
-        "Qaq9vlfoGnA",
-        "QdzV04T_kec",
-        "QeLu_yyz3tc",
-        "R13BD8qKeTg",
-        "R2_Mn-qRKjA",
-        "R2paSGQRwvo",
-        "R3bo-s_OY4Q",
-        "R9c-_neaxeU",
-        "RLySXTIBS3c",
-        "RcGyVTAoXEU",
-        "RijGNytjbOI",
-        "S-3wEC6Fj_8",
-        "S-VAL7Epn3o",
-        "S0dSm_ClcSw",
-        "S4O5voOCqAQ",
-        "S4W-P5aCWJs",
-        "SA8ZBJWo73E",
-        "SBvclVcesEE",
-        "SDXB0CY2tSQ",
-        "SFv8Wm2HdNM",
-        "SSH5EY-W5oM",
-        "SZazYFchLRI",
-        "SaadsrHBygc",
-        "Sf036fO-ZUk",
-        "SqayDnQ2wmw",
-        "T-TwcmT6Rcw"
+        "TlinocVHpzk",
+        "TrC6ROeV4GI",
+        "UAeJHAFjwPM",
+        "UBX2QQHlQ_I",
+        "UC_BCz0pzMw",
+        "UIDb6VBO9os",
+        "UX4KklvCDmg",
+        "Ufmu1WD2TSk",
+        "Um63OQz3bjo",
+        "Uwuv05aZ6ug",
+        "UziFw-jQSks",
+        "V2P8mjWRqpk",
+        "V2aq5M3Q76U",
+        "V8DfjXnIk6c",
+        "V9K6gjR07Po",
+        "VI_riscmviI",
+        "VNTQ-M_uSo8",
+        "VVV4xeWBIxE",
+        "VdIURAu1-aU",
+        "VhWGQCzAtl8",
+        "VnbiVw_1FNs",
+        "Vrq2akzdFq8",
+        "VxINoKFm-S4",
+        "W6aKQ-eBFk0",
+        "WHj2GaPuEhY",
+        "WITLR_qSPXk",
+        "WMSBRk5WG58",
+        "WNWYk4DdT_E",
+        "WO2X3oZEJOA",
+        "WU0gvPcc3jQ",
+        "WijoL3Hy_Bw",
+        "WjTrfoiB0MQ",
+        "Wo2m3jaJixU",
+        "Wpzvaqypav8",
+        "WrxZ4AZPdOQ",
+        "Ws4kbgfpKCw",
+        "WvwiH1DOK1M",
+        "WxK11RsLqp4",
+        "X4Neivqp2K4",
+        "X6NJkWbM1xk",
+        "X8aWBcPVPMo",
+        "XO9FKQAxWZc",
+        "XRAP3lBivYM",
+        "XRXwWbo_mX0",
+        "XSoOrlh5i1k",
+        "XeJSXfXep4M",
+        "XehNK7UpZsc",
+        "XgRlrBl-7Yg",
+        "XopSDJq6w8E",
+        "XwRSS7jeo5s"
       ],
       "primary_first": true,
-      "deferred_candidates": 112,
+      "deferred_candidates": 70,
       "excluded_originals": [
         "05WS0WN7zMQ",
         "1bO8zEaSuWg",
@@ -166,6 +183,7 @@
         "OMcjxe8slYI",
         "QVuU2YCwHjw",
         "SYeeTvitvFU",
+        "TiXINuf5nbI",
         "bwDrHqNZ9lo",
         "cVaTc15plVs",
         "cjuGCJJUGsg",
@@ -179,34 +197,71 @@
       "attempted": 50,
       "unattempted": 0,
       "statuses": {
-        "review": 44,
-        "confirmed": 6
+        "confirmed": 5,
+        "review": 45
       },
-      "candidate_count": 1855
+      "candidate_count": 1860
     },
     {
-      "id": "20261106T075248Z",
+      "id": "20261106T081906Z",
       "selected": 50,
-      "completed": 8,
-      "errors": [
-        {
-          "vid": "TiXINuf5nbI",
-          "reason": "URLError"
-        }
-      ],
+      "completed": 50,
+      "errors": [],
       "stopped": false,
       "originals": [
-        "T2IaJwkqgPk",
-        "TLm7Q92xMjQ",
-        "TMbl_ofF3AM",
-        "TPuJsgyu87U",
-        "TRL7o2kPqw0",
-        "TTM_b7EJg5E",
-        "Th4VlqQyVr4",
-        "ThjvMReOXYM"
+        "YHLU0Uej1WA",
+        "YJrOuBkYCMQ",
+        "YUU7_BthBWM",
+        "YdHTlUGN1zw",
+        "YjjTPV2pXY0",
+        "Yl_K2Ata6XY",
+        "Yo8kfV9kONw",
+        "YsmgPp_nlok",
+        "ZDxLa6P6exc",
+        "ZTdUmlGxVo0",
+        "ZV-AFnCkRLY",
+        "ZW5_eEKEC28",
+        "ZXtimhT-ff4",
+        "ZZs2HUW9tDA",
+        "Zd_UcjMusUA",
+        "Ze2pc6NwsHQ",
+        "Zklo4Z1SqkE",
+        "ZmWREtcDVBE",
+        "Zn7oWIhFffs",
+        "_0QMKFzW9fw",
+        "_9mzmvhwMqw",
+        "_ArVh3Cj9rw",
+        "_B_4vhsmRRI",
+        "_GVSLcqGP7g",
+        "_NuvwndwYSY",
+        "_YysNM2JoFo",
+        "_b4qKv1Ctv8",
+        "_fZOl7C_vDI",
+        "_loUDS4c3Cs",
+        "a1rC79DHpmY",
+        "aBBuoD9eL5k",
+        "aCv10_WvGxo",
+        "aDMjgOYOcDw",
+        "aDNPhq5ggoE",
+        "aHx-XUA6f9g",
+        "aIHj3qMRqqE",
+        "aMnn0Jq0J-E",
+        "aNR4n0i2ZlM",
+        "aT7mnSstKGs",
+        "aeWyp2vXxqA",
+        "aiv1JOfMjm0",
+        "alasBxZsb40",
+        "ao2GL3NAWQU",
+        "aoNOVlxJmow",
+        "aokNwKx7gM8",
+        "aoy_WJ3mE50",
+        "au0QJYISe4c",
+        "aw7fUMhNov8",
+        "azI3nqrHEXM",
+        "b1JlYZQG3lI"
       ],
       "primary_first": true,
-      "deferred_candidates": 4,
+      "deferred_candidates": 29,
       "excluded_originals": [
         "05WS0WN7zMQ",
         "1bO8zEaSuWg",
@@ -223,6 +278,7 @@
         "OMcjxe8slYI",
         "QVuU2YCwHjw",
         "SYeeTvitvFU",
+        "TiXINuf5nbI",
         "bwDrHqNZ9lo",
         "cVaTc15plVs",
         "cjuGCJJUGsg",
@@ -233,30 +289,116 @@
         "uTdyb-RWNKo",
         "vs41JrnGaxc"
       ],
-      "attempted": 9,
-      "unattempted": 41,
+      "attempted": 50,
+      "unattempted": 0,
       "statuses": {
-        "review": 8,
+        "review": 46,
+        "confirmed": 4
+      },
+      "candidate_count": 1877
+    },
+    {
+      "id": "20261106T083632Z",
+      "selected": 50,
+      "completed": 27,
+      "errors": [
+        {
+          "vid": "doz1QJ7LwjA",
+          "reason": "URLError"
+        }
+      ],
+      "stopped": false,
+      "originals": [
+        "b1NTaVQPt1E",
+        "b5P3QDm61go",
+        "bHJyoqDO0zw",
+        "bKgf5PaBzyg",
+        "bLk1cjZ4ll0",
+        "bPhUhypV27w",
+        "bl8jQ2wRh6k",
+        "bqPARIKHbN8",
+        "bzkRVzciAZg",
+        "c0O6UXrOZJo",
+        "c1QmB5bW_WQ",
+        "cDA3_5982h8",
+        "cIQ36Kt7UVg",
+        "cNICGEwmXLU",
+        "cQl6jUjFjp4",
+        "cQoQE_HDG8g",
+        "cYsVvV1aVss",
+        "coGpmA4saEk",
+        "ctS8FzqcRug",
+        "cxrkC-pMH_s",
+        "d-YcVLq98Ew",
+        "dGiQaabX3_o",
+        "dQGnwKBxAKk",
+        "d_FEaFgJyfA",
+        "dfY5ZQDzC5s",
+        "dmWQtI3DFFo",
+        "doN4t5NKW-k"
+      ],
+      "primary_first": true,
+      "deferred_candidates": 17,
+      "excluded_originals": [
+        "05WS0WN7zMQ",
+        "1bO8zEaSuWg",
+        "4_qJptwikRc",
+        "6JAgXz6xO0s",
+        "AJgY9FtDLbs",
+        "HQKy1KJpSVc",
+        "IvUU8joBb1Q",
+        "Ks-_Mh1QhMc",
+        "MNXypBxNGMo",
+        "MpfvhiqFw7A",
+        "NTJQTc-TqpU",
+        "OL6-x0modwY",
+        "OMcjxe8slYI",
+        "QVuU2YCwHjw",
+        "SYeeTvitvFU",
+        "TiXINuf5nbI",
+        "bwDrHqNZ9lo",
+        "cVaTc15plVs",
+        "cjuGCJJUGsg",
+        "dX649lnKAU0",
+        "hhMAt3BluAU",
+        "s9fByRmAHgU",
+        "st571DYYTR8",
+        "uTdyb-RWNKo",
+        "vs41JrnGaxc"
+      ],
+      "attempted": 28,
+      "unattempted": 22,
+      "statuses": {
+        "review": 27,
         "confirmed": 1
       },
-      "candidate_count": 342
+      "candidate_count": 1064
     }
   ],
-  "completed_search_originals": 58,
-  "direct_search_attempts": 59,
-  "unattempted_after_error": 41,
+  "completed_search_originals": 127,
+  "direct_search_attempts": 128,
+  "unattempted_after_error": 22,
   "source_verification_batches": [
     {
-      "id": "2026-11-06T07:52:10.519842+00:00",
-      "source": "serial-20261106T073358Z-leads-1.json",
-      "attempted": 6,
-      "completed": 6,
-      "confirmed": 4,
+      "id": "2026-11-06T08:18:35.921895+00:00",
+      "source": "serial-20261106T075953Z-leads-1.json",
+      "attempted": 2,
+      "completed": 2,
+      "confirmed": 2,
+      "errors": [],
+      "stopped": false
+    },
+    {
+      "id": "2026-11-06T08:36:04.665598+00:00",
+      "source": "serial-20261106T075953Z-leads-2.json",
+      "attempted": 2,
+      "completed": 2,
+      "confirmed": 2,
       "errors": [],
       "stopped": false
     }
   ],
-  "source_leads_completed": 6,
+  "source_leads_completed": 4,
   "source_confirmed_versions": 4,
   "blocked_originals": {
     "st571DYYTR8": "prior URLError; no retry or unavailable classification",
@@ -283,95 +425,114 @@
     "MNXypBxNGMo": "URLError in current phase; failed search left unprocessed; do not classify unavailable",
     "MpfvhiqFw7A": "URLError in current phase; failed search left unprocessed; do not classify unavailable",
     "OMcjxe8slYI": "URLError; no retry; availability unknown",
-    "TiXINuf5nbI": "URLError; not retried; availability unknown"
+    "TiXINuf5nbI": "URLError; not retried; availability unknown",
+    "doz1QJ7LwjA": "URLError; not retried; availability unknown"
   },
   "metadata_title_review": {
-    "baseline_commit": "8636e56ae1b0c3d398ef83b0e4e36407be60f747",
+    "baseline_commit": "f8b3c657ceb8c9167f184a31a6b5e58e8d420363",
     "review_status": "metadata_consistency_review_completed_for_snapshot",
-    "reviewed_at": "2026-11-06T07:55:40.545502+00:00",
-    "scope": "Read original, Bilibili and segment titles for 11 versions; no frame comparison."
+    "reviewed_at": "2026-11-06T08:47:28.455716+00:00",
+    "scope": "Read original, Bilibili and segment titles for 14 versions; no frame comparison."
   },
-  "metadata_rows_checked": 11,
+  "metadata_rows_checked": 14,
   "manual_downgrades": [],
   "cached_new_version_audit": {
-    "at": "2026-11-06T07:55:19.530850+00:00",
+    "at": "2026-11-06T08:47:07.643891+00:00",
     "requests": 0,
-    "versions_checked": 11,
+    "versions_checked": 14,
     "versions": [
       {
-        "id": "QUcTsFe1PVs",
-        "bvid": "BV1Gt411f7w1",
+        "id": "UC_BCz0pzMw",
+        "bvid": "BV1rA411G7qk",
         "page": 1,
-        "cid": 59677060
+        "cid": 336971622
       },
       {
-        "id": "R2_Mn-qRKjA",
-        "bvid": "BV1Ga411J75V",
+        "id": "VVV4xeWBIxE",
+        "bvid": "BV1Bs411Y7MW",
         "page": 1,
-        "cid": 720616302
+        "cid": 12019811
       },
       {
-        "id": "S4O5voOCqAQ",
-        "bvid": "BV1SjroYXEmG",
+        "id": "W6aKQ-eBFk0",
+        "bvid": "BV1xV4y137Yv",
         "page": 1,
-        "cid": 27756528795
+        "cid": 882817424
       },
       {
-        "id": "SA8ZBJWo73E",
-        "bvid": "BV1wpr4BmE9w",
+        "id": "Wo2m3jaJixU",
+        "bvid": "BV1fX4y1v7WM",
         "page": 1,
-        "cid": 35388588049
+        "cid": 1186412200
       },
       {
-        "id": "SDXB0CY2tSQ",
-        "bvid": "BV1RT4y1h72v",
+        "id": "WvwiH1DOK1M",
+        "bvid": "BV19Y4y1g7Hz",
         "page": 1,
-        "cid": 579862663
+        "cid": 752273027
       },
       {
-        "id": "SqayDnQ2wmw",
-        "bvid": "BV19s411g7jZ",
+        "id": "rG_Eh0J_4_s",
+        "bvid": "BV14T4y1u7TM",
         "page": 1,
-        "cid": 49917971
+        "cid": 191213405
       },
       {
-        "id": "SqayDnQ2wmw",
-        "bvid": "BV1sXPGzgEvs",
+        "id": "rG_Eh0J_4_s",
+        "bvid": "BV11G411g7eR",
         "page": 1,
-        "cid": 36385850407
+        "cid": 843137856
       },
       {
-        "id": "SqayDnQ2wmw",
-        "bvid": "BV1P7g6z8E5U",
+        "id": "ZDxLa6P6exc",
+        "bvid": "BV1RW41187B4",
         "page": 1,
-        "cid": 30771839336
+        "cid": 28668238
       },
       {
-        "id": "CIjXUg1s5gc",
-        "bvid": "BV1kx411u7tz",
+        "id": "Zd_UcjMusUA",
+        "bvid": "BV1Vw4m1Z789",
         "page": 1,
-        "cid": 24813560
+        "cid": 1458892302
       },
       {
-        "id": "aWvHrih-Juk",
-        "bvid": "BV1mo4y1K7eA",
+        "id": "_ArVh3Cj9rw",
+        "bvid": "BV1w3CdBvEM8",
         "page": 1,
-        "cid": 1153869354
+        "cid": 34050737404
       },
       {
-        "id": "ThjvMReOXYM",
-        "bvid": "BV1V3411A74K",
+        "id": "_ArVh3Cj9rw",
+        "bvid": "BV1RV411j7vv",
         "page": 1,
-        "cid": 721577137
+        "cid": 343927542
+      },
+      {
+        "id": "_ArVh3Cj9rw",
+        "bvid": "BV12FQXB9Eb8",
+        "page": 1,
+        "cid": 36899392270
+      },
+      {
+        "id": "alasBxZsb40",
+        "bvid": "BV1uf4y1H7iu",
+        "page": 1,
+        "cid": 399632751
+      },
+      {
+        "id": "d_FEaFgJyfA",
+        "bvid": "BV1Z7411k7Vb",
+        "page": 1,
+        "cid": 145628939
       }
     ],
     "segment_conflicts": [],
     "scope": "Read-only live-run snapshot; final audit still required for later results."
   },
   "browser_tests": {
-    "checked_at": "2026-11-06T07:55:42.049Z",
+    "checked_at": "2026-11-06T08:47:29.998Z",
     "status": "pass",
-    "originals": 904,
+    "originals": 915,
     "scenarios": [
       "desktop rendering",
       "mobile rendering/no horizontal overflow",
@@ -392,244 +553,307 @@
     "page_errors": []
   },
   "playback": {
-    "checked_at": "2026-11-06T07:56:48.154Z",
+    "checked_at": "2026-11-06T08:48:49.031Z",
     "checks": [
       {
-        "sample": "QUcTsFe1PVs",
+        "sample": "UC_BCz0pzMw",
         "kind": "original",
-        "id": "QUcTsFe1PVs",
-        "bvid": "BV1Gt411f7w1",
+        "id": "UC_BCz0pzMw",
+        "bvid": "BV1rA411G7qk",
         "page": 1,
         "playing": true,
         "media": {
           "readyState": 4,
-          "currentTime": 4.248636,
-          "duration": 236,
+          "currentTime": 3.952891,
+          "duration": 971,
           "paused": false
         },
-        "expected_duration": 236,
+        "expected_duration": 971,
         "duration_matches_segment": true,
         "requested_cids": [
-          "59677060"
+          "336971622"
         ],
         "requested_cid_observed": true,
-        "visible_text": "古蘇美爾音樂——吉爾伽美什傳奇（The Epic Of Gilgamesh In Sumerian）\n小庚君\n关注\n155\n26\n分享\n更多\n00:05 / 03:56\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+        "visible_text": "The Economics of Nuclear Energy\ngordodenavidad\n关注\n0\n0\n分享\n更多\n00:04 / 16:11\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
       },
       {
-        "sample": "R2_Mn-qRKjA",
-        "kind": "original",
-        "id": "R2_Mn-qRKjA",
-        "bvid": "BV1Ga411J75V",
+        "sample": "VVV4xeWBIxE",
+        "kind": "sub_zh",
+        "id": "VVV4xeWBIxE",
+        "bvid": "BV1Bs411Y7MW",
         "page": 1,
         "playing": true,
         "media": {
           "readyState": 4,
-          "currentTime": 3.953834,
-          "duration": 93,
+          "currentTime": 3.943313,
+          "duration": 272,
           "paused": false
         },
-        "expected_duration": 93,
+        "expected_duration": 271,
         "duration_matches_segment": true,
         "requested_cids": [
-          "720616302"
+          "12019811"
         ],
         "requested_cid_observed": true,
-        "visible_text": "BoJack Horseman -\"It gets easier\" (Season 2 Ending)\nSayafurika\n关注\n5\n2\n分享\n更多\n00:04 / 01:33\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+        "visible_text": "【1080P双语字幕】原始科技之熔炉冶铁篇 Primitive Technology: Forge Blower\n美欧前沿\n关注\n99\n40\n分享\n更多\n00:04 / 04:32\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
       },
       {
-        "sample": "S4O5voOCqAQ",
+        "sample": "W6aKQ-eBFk0",
         "kind": "original",
-        "id": "S4O5voOCqAQ",
-        "bvid": "BV1SjroYXEmG",
+        "id": "W6aKQ-eBFk0",
+        "bvid": "BV1xV4y137Yv",
         "page": 1,
         "playing": true,
         "media": {
           "readyState": 4,
-          "currentTime": 4.29443,
-          "duration": 195,
+          "currentTime": 3.939222,
+          "duration": 1719,
           "paused": false
         },
-        "expected_duration": 195,
+        "expected_duration": 1719,
         "duration_matches_segment": true,
         "requested_cids": [
-          "27756528795"
+          "882817424"
         ],
         "requested_cid_observed": true,
-        "visible_text": "Olympic Cyclist Vs. Toaster\n账号已注销\n关注\n0\n2\n分享\n更多\n00:05 / 03:15\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+        "visible_text": "用R9 7950X深入探究AMD 锐龙Zen 4 的Eco模式【Gamers Nexus】\nTacoma213\n关注\n34\n11\n分享\n更多\n00:04 / 28:39\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
       },
       {
-        "sample": "SA8ZBJWo73E",
+        "sample": "Wo2m3jaJixU",
+        "kind": "original",
+        "id": "Wo2m3jaJixU",
+        "bvid": "BV1fX4y1v7WM",
+        "page": 1,
+        "playing": true,
+        "media": {
+          "readyState": 4,
+          "currentTime": 3.952993,
+          "duration": 3968,
+          "paused": false
+        },
+        "expected_duration": 3968,
+        "duration_matches_segment": true,
+        "requested_cids": [
+          "1186412200"
+        ],
+        "requested_cid_observed": true,
+        "visible_text": "Scaling the Linear Sync Engine\nMok姬\n关注\n1\n0\n分享\n更多\n0:00:04 / 1:06:08\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+      },
+      {
+        "sample": "WvwiH1DOK1M",
+        "kind": "sub_zh",
+        "id": "WvwiH1DOK1M",
+        "bvid": "BV19Y4y1g7Hz",
+        "page": 1,
+        "playing": true,
+        "media": {
+          "readyState": 4,
+          "currentTime": 3.94268,
+          "duration": 567,
+          "paused": false
+        },
+        "expected_duration": 567,
+        "duration_matches_segment": true,
+        "requested_cids": [
+          "752273027"
+        ],
+        "requested_cid_observed": true,
+        "visible_text": "【中文字幕】什么是几何内核？C3D vs ACIS vs Parasolid\n唔潮唔饮TEA\n关注\n35\n11\n分享\n更多\n00:04 / 09:27\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+      },
+      {
+        "sample": "ZDxLa6P6exc",
+        "kind": "original",
+        "id": "ZDxLa6P6exc",
+        "bvid": "BV1RW41187B4",
+        "page": 1,
+        "playing": true,
+        "media": {
+          "readyState": 4,
+          "currentTime": 4.316705,
+          "duration": 721,
+          "paused": false
+        },
+        "expected_duration": 720,
+        "duration_matches_segment": true,
+        "requested_cids": [
+          "28668238"
+        ],
+        "requested_cid_observed": true,
+        "visible_text": "[LGR] 远古核弹 —— SGI Indigo 2 Impact 10000 图形工作站介绍\n初生之鸟\n关注\n479\n96\n分享\n更多\n00:05 / 12:01\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+      },
+      {
+        "sample": "Zd_UcjMusUA",
+        "kind": "original",
+        "id": "Zd_UcjMusUA",
+        "bvid": "BV1Vw4m1Z789",
+        "page": 1,
+        "playing": true,
+        "media": {
+          "readyState": 4,
+          "currentTime": 4.237279,
+          "duration": 1067,
+          "paused": false
+        },
+        "expected_duration": 1067,
+        "duration_matches_segment": true,
+        "requested_cids": [
+          "1458892302"
+        ],
+        "requested_cid_observed": true,
+        "visible_text": "[Drumeo] Larnell Lewis Hears Enter Sandman For The First Time\n循环双链表\n关注\n8\n1\n分享\n更多\n00:05 / 17:47\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+      },
+      {
+        "sample": "_ArVh3Cj9rw",
         "kind": "dub_zh",
-        "id": "SA8ZBJWo73E",
-        "bvid": "BV1wpr4BmE9w",
+        "id": "_ArVh3Cj9rw",
+        "bvid": "BV1w3CdBvEM8",
         "page": 1,
         "playing": true,
         "media": {
           "readyState": 4,
-          "currentTime": 3.951038,
-          "duration": 3679,
+          "currentTime": 3.941181,
+          "duration": 1803,
           "paused": false
         },
-        "expected_duration": 3679,
+        "expected_duration": 1803,
         "duration_matches_segment": true,
         "requested_cids": [
-          "35388588049"
+          "34050737404"
         ],
         "requested_cid_observed": true,
-        "visible_text": "[中配]深入探秘SpaceX Starbase工厂 - Everyday Astronaut\nWawa七七四十九\n关注\n2\n0\n分享\n更多\n0:00:04 / 1:01:19\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+        "visible_text": "【中配】推理的未来 - Vsauce\n香蕉配音君\n关注\n4\n0\n分享\n更多\n00:04 / 30:03\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
       },
       {
-        "sample": "SDXB0CY2tSQ",
+        "sample": "_ArVh3Cj9rw",
         "kind": "original",
-        "id": "SDXB0CY2tSQ",
-        "bvid": "BV1RT4y1h72v",
+        "id": "_ArVh3Cj9rw",
+        "bvid": "BV1RV411j7vv",
         "page": 1,
         "playing": true,
         "media": {
           "readyState": 4,
-          "currentTime": 3.953454,
-          "duration": 944,
+          "currentTime": 3.941485,
+          "duration": 1801.866,
           "paused": false
         },
-        "expected_duration": 944,
+        "expected_duration": 1803,
         "duration_matches_segment": true,
         "requested_cids": [
-          "579862663"
+          "343927542"
         ],
         "requested_cid_observed": true,
-        "visible_text": "Business Parks Suck but they dont have to\nYizhou_Wang\n关注\n0\n3\n分享\n更多\n00:04 / 15:44\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+        "visible_text": "The Future Of Reasoning\njbwkztb\n关注\n7\n0\n分享\n更多\n00:04 / 30:02\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
       },
       {
-        "sample": "SqayDnQ2wmw",
+        "sample": "_ArVh3Cj9rw",
         "kind": "original",
-        "id": "SqayDnQ2wmw",
-        "bvid": "BV19s411g7jZ",
+        "id": "_ArVh3Cj9rw",
+        "bvid": "BV12FQXB9Eb8",
         "page": 1,
         "playing": true,
         "media": {
           "readyState": 4,
-          "currentTime": 3.949153,
-          "duration": 319,
+          "currentTime": 3.944591,
+          "duration": 1801.866,
           "paused": false
         },
-        "expected_duration": 319,
+        "expected_duration": 1803,
         "duration_matches_segment": true,
         "requested_cids": [
-          "49917971"
+          "36899392270"
         ],
         "requested_cid_observed": true,
-        "visible_text": "Aphex Twin - T69 Collapse\n莰禁黫\n关注\n181\n32\n分享\n更多\n00:04 / 05:19\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+        "visible_text": "The Future Of Reasoning\nMadAestHetic\n关注\n1\n0\n分享\n更多\n00:04 / 30:02\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
       },
       {
-        "sample": "SqayDnQ2wmw",
+        "sample": "alasBxZsb40",
         "kind": "original",
-        "id": "SqayDnQ2wmw",
-        "bvid": "BV1sXPGzgEvs",
+        "id": "alasBxZsb40",
+        "bvid": "BV1uf4y1H7iu",
         "page": 1,
         "playing": true,
         "media": {
           "readyState": 4,
-          "currentTime": 3.955716,
-          "duration": 319,
+          "currentTime": 3.935928,
+          "duration": 1693,
           "paused": false
         },
-        "expected_duration": 319,
+        "expected_duration": 1693,
         "duration_matches_segment": true,
         "requested_cids": [
-          "36385850407"
+          "399632751"
         ],
         "requested_cid_observed": true,
-        "visible_text": "Aphex Twin - T69 Collapse\n工业女\n关注\n26\n14\n分享\n更多\n00:04 / 05:19\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+        "visible_text": "迈克·华莱士（ Mike Wallace）采访阿道斯·赫胥黎（ALDOUS HUXLEY，1894—1963）\n马斯特的文学世界\n关注\n30\n3\n分享\n更多\n00:04 / 28:13\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
       },
       {
-        "sample": "SqayDnQ2wmw",
+        "sample": "d_FEaFgJyfA",
         "kind": "original",
-        "id": "SqayDnQ2wmw",
-        "bvid": "BV1P7g6z8E5U",
+        "id": "d_FEaFgJyfA",
+        "bvid": "BV1Z7411k7Vb",
         "page": 1,
         "playing": true,
         "media": {
           "readyState": 4,
-          "currentTime": 4.313831,
-          "duration": 319,
+          "currentTime": 3.943668,
+          "duration": 254,
           "paused": false
         },
-        "expected_duration": 319,
+        "expected_duration": 254,
         "duration_matches_segment": true,
         "requested_cids": [
-          "30771839336"
+          "145628939"
         ],
         "requested_cid_observed": true,
-        "visible_text": "Aphex Twin - T69 Collapse【IDM】\nEcho-Sky\n关注\n15\n4\n分享\n更多\n00:05 / 05:19\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+        "visible_text": "【BBC】实验！为什么猫头鹰飞过鸦雀无声？揭秘它的超能力… || BBC Earth【斑豆搬运】\n海树11\n关注\n743\n58\n分享\n更多\n00:04 / 04:14\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
       },
       {
-        "sample": "ThjvMReOXYM",
+        "sample": "rG_Eh0J_4_s",
         "kind": "original",
-        "id": "ThjvMReOXYM",
-        "bvid": "BV1V3411A74K",
+        "id": "rG_Eh0J_4_s",
+        "bvid": "BV14T4y1u7TM",
         "page": 1,
         "playing": true,
         "media": {
           "readyState": 4,
-          "currentTime": 3.958718,
-          "duration": 9241,
+          "currentTime": 3.954699,
+          "duration": 674,
           "paused": false
         },
-        "expected_duration": 9242,
+        "expected_duration": 674,
         "duration_matches_segment": true,
         "requested_cids": [
-          "721577137"
+          "191213405"
         ],
         "requested_cid_observed": true,
-        "visible_text": "Crust of Rust：async/await\n笨1993\n关注\n5\n0\n分享\n更多\n0:00:04 / 2:34:01\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+        "visible_text": "【前沿】旋转爆轰发动机 [Rotating Detonation Engine, RDE]\n硬绵绵\n关注\n51\n6\n分享\n更多\n00:04 / 11:14\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
       },
       {
-        "sample": "aWvHrih-Juk",
+        "sample": "rG_Eh0J_4_s",
         "kind": "original",
-        "id": "aWvHrih-Juk",
-        "bvid": "BV1mo4y1K7eA",
+        "id": "rG_Eh0J_4_s",
+        "bvid": "BV11G411g7eR",
         "page": 1,
         "playing": true,
         "media": {
           "readyState": 4,
-          "currentTime": 3.950488,
-          "duration": 2241,
+          "currentTime": 4.273084,
+          "duration": 655,
           "paused": false
         },
-        "expected_duration": 2241,
+        "expected_duration": 655,
         "duration_matches_segment": true,
         "requested_cids": [
-          "1153869354"
+          "843137856"
         ],
         "requested_cid_observed": true,
-        "visible_text": "【搬运】每日宇航员 如何游玩STARBASE Everyday Astronaut How To Visit STARBASE\n瑞士科学家爱德华兹\n关注\n14\n1\n分享\n更多\n00:04 / 37:21\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
-      },
-      {
-        "sample": "CIjXUg1s5gc",
-        "kind": "original",
-        "id": "CIjXUg1s5gc",
-        "bvid": "BV1kx411u7tz",
-        "page": 1,
-        "playing": true,
-        "media": {
-          "readyState": 4,
-          "currentTime": 4.305265,
-          "duration": 828,
-          "paused": false
-        },
-        "expected_duration": 828,
-        "duration_matches_segment": true,
-        "requested_cids": [
-          "24813560"
-        ],
-        "requested_cid_observed": true,
-        "visible_text": "NPR小桌音乐会：T-Pain\nChroniccc\n关注\n8\n4\n分享\n更多\n00:05 / 13:48\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+        "visible_text": "[科普]什么是旋转爆震发动机 Rotating Detonation Engine\n旅美十一年\n关注\n14\n1\n分享\n更多\n00:05 / 10:55\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
       }
     ]
   },
   "unit_tests": {
     "passed": 64
   },
-  "remaining_unprocessed": 3189,
-  "remaining_processed_unconfirmed": 2361
+  "remaining_unprocessed": 3061,
+  "remaining_processed_unconfirmed": 2478
 }

@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T07:55:19.043950+00:00",
+  "built_at": "2026-11-06T08:47:07.151151+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 3265,
-    "confirmed": 904,
-    "coverage": 0.14006817477533312,
-    "processed_match_rate": 0.27687595712098007
+    "processed": 3393,
+    "confirmed": 915,
+    "coverage": 0.1417725441586613,
+    "processed_match_rate": 0.2696728558797524
   },
   "areas": [
     {
@@ -31547,6 +31547,304 @@
       ]
     },
     {
+      "id": "UC_BCz0pzMw",
+      "title": "The Economics of Nuclear Energy",
+      "author": "Real Engineering",
+      "source_url": "https://www.youtube.com/watch?v=UC_BCz0pzMw",
+      "summary": "Real Engineering looks at why nuclear power plants are expensive and how their economics compare with fossil and renewable alternatives. It is based on a video from the Illinois Energy Professors.",
+      "why": "Recommended as a clear walkthrough of nuclear plant economics and why incentives favor other generation.",
+      "score": 2.0,
+      "tags": [
+        "nuclear power",
+        "energy economics",
+        "reactors",
+        "levelized cost",
+        "real engineering"
+      ],
+      "categories": [
+        "nuclear-energy",
+        "mechanical-engineering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1rA411G7qk",
+          "page": 1,
+          "cid": 336971622,
+          "title": "The Economics of Nuclear Energy",
+          "up": "gordodenavidad",
+          "duration": 971,
+          "kind": "original",
+          "views": 61,
+          "pic": "https://i1.hdslb.com/bfs/archive/f198d88d3740ee7cd8c3b0d37a16a4fd40e7f7c8.jpg",
+          "checked_at": "2026-11-06T08:01:45.619661+00:00"
+        }
+      ]
+    },
+    {
+      "id": "VVV4xeWBIxE",
+      "title": "Primitive Technology: Forge Blower",
+      "author": "Primitive Technology",
+      "source_url": "https://www.youtube.com/watch?v=VVV4xeWBIxE",
+      "summary": "A Primitive Technology episode in which the creator builds a bow-drill-driven bark fan to blow air into a fire, using only natural materials. It shows the progression from fanning a fire by hand to a rotary forge blower.",
+      "why": "HN readers like the channel for showing technology rebuilt from raw materials, and cite it as a vivid example of knowledge building on knowledge.",
+      "score": 2.0,
+      "tags": [
+        "forge blower",
+        "bushcraft",
+        "metallurgy",
+        "bow drill",
+        "fire"
+      ],
+      "categories": [
+        "making-woodworking-metalwork",
+        "home-diy-repair"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Bs411Y7MW",
+          "page": 1,
+          "cid": 12019811,
+          "title": "【1080P双语字幕】原始科技之熔炉冶铁篇 Primitive Technology: Forge Blower",
+          "up": "美欧前沿",
+          "duration": 271,
+          "kind": "sub_zh",
+          "views": 61221,
+          "pic": "https://i1.hdslb.com/bfs/archive/ad4e79fc69c23f99767ef866038c486e4c795905.jpg",
+          "checked_at": "2026-11-06T08:06:15.763943+00:00"
+        }
+      ]
+    },
+    {
+      "id": "W6aKQ-eBFk0",
+      "title": "AMD Ryzen Eco Mode Deep-Dive & Benchmarks on R9 7950X (Zen 4)",
+      "author": "Gamers Nexus",
+      "source_url": "https://www.youtube.com/watch?v=W6aKQ-eBFk0",
+      "summary": "Gamers Nexus benchmarks the Ryzen 9 7950X in its BIOS Eco Mode presets (65W, 105W and stock 170W). It measures the performance cost against the power and heat savings.",
+      "why": "Cited as evidence that Eco Mode gives large power savings for a small performance loss on Zen 4.",
+      "score": 2.0,
+      "tags": [
+        "ryzen 7950x",
+        "eco mode",
+        "zen 4",
+        "benchmarks",
+        "power consumption"
+      ],
+      "categories": [
+        "computer-architecture",
+        "consumer-devices"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1xV4y137Yv",
+          "page": 1,
+          "cid": 882817424,
+          "title": "用R9 7950X深入探究AMD 锐龙Zen 4 的Eco模式【Gamers Nexus】",
+          "up": "Tacoma213",
+          "duration": 1719,
+          "kind": "original",
+          "views": 4608,
+          "pic": "https://i1.hdslb.com/bfs/archive/1688c808384094a0e33d4aa74a7a208492feb607.jpg",
+          "checked_at": "2026-11-06T08:08:01.304899+00:00"
+        }
+      ]
+    },
+    {
+      "id": "Wo2m3jaJixU",
+      "title": "Scaling the Linear Sync Engine",
+      "author": "Linear",
+      "source_url": "https://www.youtube.com/watch?v=Wo2m3jaJixU",
+      "summary": "A Linear engineer talks about scaling the company's sync engine, which keeps client data local and synchronized. It follows an earlier talk on the same system.",
+      "why": "Recommended whenever local-first software, sync engines and CRDT alternatives come up, as a practical production account.",
+      "score": 2.0,
+      "tags": [
+        "linear",
+        "local-first",
+        "sync engine",
+        "real-time collaboration",
+        "web architecture"
+      ],
+      "categories": [
+        "web-development",
+        "distributed-systems",
+        "software-architecture-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1fX4y1v7WM",
+          "page": 1,
+          "cid": 1186412200,
+          "title": "Scaling the Linear Sync Engine",
+          "up": "Mok姬",
+          "duration": 3968,
+          "kind": "original",
+          "views": 23,
+          "pic": "https://i1.hdslb.com/bfs/archive/8d6a4eec8f91be5e7181fca1a659d9a7febce45e.jpg",
+          "checked_at": "2026-11-06T08:10:31.653030+00:00"
+        }
+      ]
+    },
+    {
+      "id": "WvwiH1DOK1M",
+      "title": "What is a Geometry Kernel? C3D vs ACIS vs Parasolid",
+      "author": "nickkallen1",
+      "source_url": "https://www.youtube.com/watch?v=WvwiH1DOK1M",
+      "summary": "The Plasticity creator explains what a geometry kernel is and compares commercial options C3D, ACIS, and Parasolid, describing his months of research and why he chose as he did.",
+      "why": "Cited in CAD threads as a rare plain-spoken comparison of commercial geometry kernels and their limitations.",
+      "score": 2.0,
+      "tags": [
+        "parasolid",
+        "c3d",
+        "acis",
+        "plasticity",
+        "cad"
+      ],
+      "categories": [
+        "computer-graphics-rendering",
+        "3d-printing-cnc"
+      ],
+      "versions": [
+        {
+          "bvid": "BV19Y4y1g7Hz",
+          "page": 1,
+          "cid": 752273027,
+          "title": "【中文字幕】什么是几何内核？C3D vs ACIS vs Parasolid",
+          "up": "唔潮唔饮TEA",
+          "duration": 567,
+          "kind": "sub_zh",
+          "views": 2846,
+          "pic": "https://i1.hdslb.com/bfs/archive/2dca5a8d835826d7d0b9eb1239754c26b30d130a.jpg",
+          "checked_at": "2026-11-06T08:12:11.572609+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ZDxLa6P6exc",
+      "title": "SGI Indigo2: An $86,000 Workstation from 1995",
+      "author": "LGR",
+      "source_url": "https://www.youtube.com/watch?v=ZDxLa6P6exc",
+      "summary": "LGR looks at the Silicon Graphics Indigo2, a UNIX workstation that cost about $86,000 in 1995, covering its pros and cons, games it can run, and whether it is worth owning today.",
+      "why": "Recommended in threads about SGI and vintage workstations as a good look at the hardware.",
+      "score": 2.0,
+      "tags": [
+        "silicon graphics",
+        "indigo2",
+        "retro computing",
+        "unix workstation",
+        "lgr"
+      ],
+      "categories": [
+        "demoscene-retrocomputing",
+        "history-of-computing",
+        "computer-architecture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1RW41187B4",
+          "page": 1,
+          "cid": 28668238,
+          "title": "[LGR] 远古核弹 —— SGI Indigo 2 Impact 10000 图形工作站介绍",
+          "up": "初生之鸟",
+          "duration": 720,
+          "kind": "original",
+          "views": 36380,
+          "pic": "https://i0.hdslb.com/bfs/archive/fe6b43b55d62397669c1d96ed4bfd1aad4e98dd0.png",
+          "checked_at": "2026-11-06T08:22:54.190310+00:00"
+        }
+      ]
+    },
+    {
+      "id": "Zd_UcjMusUA",
+      "title": "Larnell Lewis Hears \"Enter Sandman\" For The First Time",
+      "author": "Drumeo",
+      "source_url": "https://www.youtube.com/watch?v=Zd_UcjMusUA",
+      "summary": "Drummer Larnell Lewis hears Metallica's Enter Sandman for the first time on Drumeo and learns to play it by ear, using his musical vocabulary.",
+      "why": "Cited as an inspiring example of quickly picking up a new piece by ear and of expertise transferring across genres.",
+      "score": 2.0,
+      "tags": [
+        "drumming",
+        "enter sandman",
+        "by ear",
+        "metallica",
+        "larnell lewis"
+      ],
+      "categories": [
+        "music-performance",
+        "music-theory-production"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Vw4m1Z789",
+          "page": 1,
+          "cid": 1458892302,
+          "title": "[Drumeo] Larnell Lewis Hears Enter Sandman For The First Time",
+          "up": "循环双链表",
+          "duration": 1067,
+          "kind": "original",
+          "views": 596,
+          "pic": "https://i0.hdslb.com/bfs/archive/a276d8e81801cb2dd9c142d828178e110a1561f1.jpg",
+          "checked_at": "2026-11-06T08:25:03.233378+00:00"
+        }
+      ]
+    },
+    {
+      "id": "_ArVh3Cj9rw",
+      "title": "The Future Of Reasoning",
+      "author": "Vsauce",
+      "source_url": "https://www.youtube.com/watch?v=_ArVh3Cj9rw",
+      "summary": "Vsauce explores how human reasoning works, drawing on the social theory of reason and the extended mind thesis, made in partnership with Bill Gates around climate change.",
+      "why": "HN commenters cite it for the social theory that reasoning evolved as a collaborative activity, and one lists it as a favorite video.",
+      "score": 2.0,
+      "tags": [
+        "reasoning",
+        "extended mind",
+        "cognition",
+        "vsauce",
+        "social theory of reason"
+      ],
+      "categories": [
+        "consciousness-mind",
+        "psychology-behavior"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1w3CdBvEM8",
+          "page": 1,
+          "cid": 34050737404,
+          "title": "【中配】推理的未来 - Vsauce",
+          "up": "香蕉配音君",
+          "duration": 1803,
+          "kind": "dub_zh",
+          "views": 139,
+          "pic": "https://i1.hdslb.com/bfs/archive/8f2a2053c51cd3cfca878e0dcff8fd32a984d259.jpg",
+          "checked_at": "2026-11-06T08:26:28.426720+00:00"
+        },
+        {
+          "bvid": "BV1RV411j7vv",
+          "page": 1,
+          "cid": 343927542,
+          "title": "The Future Of Reasoning",
+          "up": "jbwkztb",
+          "duration": 1803,
+          "kind": "original",
+          "views": 123,
+          "pic": "https://i1.hdslb.com/bfs/archive/5b895d8bcd4c7ef0836717a284121eaead3dde73.jpg",
+          "checked_at": "2026-11-06T08:36:06.205113+00:00"
+        },
+        {
+          "bvid": "BV12FQXB9Eb8",
+          "page": 1,
+          "cid": 36899392270,
+          "title": "The Future Of Reasoning",
+          "up": "MadAestHetic",
+          "duration": 1803,
+          "kind": "original",
+          "views": 12,
+          "pic": "https://i2.hdslb.com/bfs/archive/180f60fbdcce8c058e0c7d64895159c522682bf1.jpg",
+          "checked_at": "2026-11-06T08:36:04.869655+00:00"
+        }
+      ]
+    },
+    {
       "id": "aWvHrih-Juk",
       "title": "How To Visit STARBASE // A Complete Guide To Seeing Starship!",
       "author": "Everyday Astronaut",
@@ -31576,6 +31874,41 @@
           "views": 490,
           "pic": "https://i0.hdslb.com/bfs/archive/0246e0d08f5fcae9e0587bdb816a40edae247534.jpg",
           "checked_at": "2026-11-06T07:52:21.973625+00:00"
+        }
+      ]
+    },
+    {
+      "id": "alasBxZsb40",
+      "title": "Aldous Huxley interviewed by Mike Wallace : 1958 (Full)",
+      "author": "someoddstuff",
+      "source_url": "https://www.youtube.com/watch?v=alasBxZsb40",
+      "summary": "Mike Wallace interviews Aldous Huxley in 1958 about the warnings in Brave New World, including mass persuasion, overpopulation and voluntary totalitarianism.",
+      "why": "Recommended as more thought-provoking than the usual pill-popping take on Huxley.",
+      "score": 2.0,
+      "tags": [
+        "huxley",
+        "brave new world",
+        "1958 interview",
+        "totalitarianism",
+        "overpopulation"
+      ],
+      "categories": [
+        "tech-figures-interviews",
+        "literature-writing",
+        "philosophy-ethics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1uf4y1H7iu",
+          "page": 1,
+          "cid": 399632751,
+          "title": "迈克·华莱士（ Mike Wallace）采访阿道斯·赫胥黎（ALDOUS HUXLEY，1894—1963）",
+          "up": "马斯特的文学世界",
+          "duration": 1693,
+          "kind": "original",
+          "views": 3815,
+          "pic": "https://i1.hdslb.com/bfs/archive/61be3779e8072b0aee002632cf9b76cc1f0272e3.jpg",
+          "checked_at": "2026-11-06T08:33:13.666490+00:00"
         }
       ]
     },
@@ -31657,6 +31990,40 @@
           "views": 30,
           "pic": "https://i1.hdslb.com/bfs/archive/2b3ccbf40c26f41429e035d07f1285ef7f31c5fa.jpg",
           "checked_at": "2026-11-05T01:09:04.860924+00:00"
+        }
+      ]
+    },
+    {
+      "id": "d_FEaFgJyfA",
+      "title": "Experiment! How Does An Owl Fly So Silently? | Super Powered Owls | BBC",
+      "author": "BBC Earth",
+      "source_url": "https://www.youtube.com/watch?v=d_FEaFgJyfA",
+      "summary": "A BBC Earth clip from Super Powered Owls in which the team uses sensitive sound equipment to compare owl flight with other birds. It shows why owls fly almost silently.",
+      "why": "Linked in owl-feather and quiet-flight threads as a clear audio comparison.",
+      "score": 2.0,
+      "tags": [
+        "owls",
+        "bird flight",
+        "acoustics",
+        "biomimicry",
+        "bbc earth"
+      ],
+      "categories": [
+        "animals-nature",
+        "everyday-physics-demos"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Z7411k7Vb",
+          "page": 1,
+          "cid": 145628939,
+          "title": "【BBC】实验！为什么猫头鹰飞过鸦雀无声？揭秘它的超能力… || BBC Earth【斑豆搬运】",
+          "up": "海树11",
+          "duration": 254,
+          "kind": "original",
+          "views": 24443,
+          "pic": "https://i1.hdslb.com/bfs/archive/7b2d568a4cbda210e80d63dfb04ab039b4a77367.jpg",
+          "checked_at": "2026-11-06T08:45:55.037255+00:00"
         }
       ]
     },
@@ -32014,6 +32381,53 @@
           "views": 617,
           "pic": "https://i2.hdslb.com/bfs/archive/d71d423e02812ed9dddb5e507f7dc284462c3ecd.jpg",
           "checked_at": "2026-11-04T23:03:55.465362+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rG_Eh0J_4_s",
+      "title": "What Is A Rotating Detonation Engine - And Why Are They Better Than Regular Engines",
+      "author": "Scott Manley",
+      "source_url": "https://www.youtube.com/watch?v=rG_Eh0J_4_s",
+      "summary": "Scott Manley explains rotating detonation engines, how they differ from pulsed detonation engines, and why thermodynamics predicts they beat traditional jet and rocket engines.",
+      "why": "Recommended as the introductory explainer whenever rotating detonation engines show up in the news.",
+      "score": 2.0,
+      "tags": [
+        "rotating detonation engine",
+        "rocket propulsion",
+        "thermodynamics",
+        "scott manley",
+        "jet engines"
+      ],
+      "categories": [
+        "aviation",
+        "space-exploration",
+        "mechanical-engineering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV14T4y1u7TM",
+          "page": 1,
+          "cid": 191213405,
+          "title": "【前沿】旋转爆轰发动机 [Rotating Detonation Engine, RDE]",
+          "up": "硬绵绵",
+          "duration": 674,
+          "kind": "original",
+          "views": 4390,
+          "pic": "https://i1.hdslb.com/bfs/archive/0a5ac73bfcbba995adb44cba91e8c64aa42a5af9.jpg",
+          "checked_at": "2026-11-06T08:18:39.470062+00:00"
+        },
+        {
+          "bvid": "BV11G411g7eR",
+          "page": 1,
+          "cid": 843137856,
+          "title": "[科普]什么是旋转爆震发动机 Rotating Detonation Engine",
+          "up": "旅美十一年",
+          "duration": 655,
+          "kind": "original",
+          "views": 1668,
+          "pic": "https://i0.hdslb.com/bfs/archive/aac93aaa6b5e327ee07ea04f48a998114b76466e.jpg",
+          "checked_at": "2026-11-06T08:18:40.398598+00:00"
         }
       ]
     },
@@ -36870,10 +37284,22 @@
     "BV1iy4y187f2": "TgFdics3uKo",
     "BV1vh411D7ru": "TgFdics3uKo",
     "BV1V3411A74K": "ThjvMReOXYM",
+    "BV1rA411G7qk": "UC_BCz0pzMw",
+    "BV1Bs411Y7MW": "VVV4xeWBIxE",
+    "BV1xV4y137Yv": "W6aKQ-eBFk0",
+    "BV1fX4y1v7WM": "Wo2m3jaJixU",
+    "BV19Y4y1g7Hz": "WvwiH1DOK1M",
+    "BV1RW41187B4": "ZDxLa6P6exc",
+    "BV1Vw4m1Z789": "Zd_UcjMusUA",
+    "BV1w3CdBvEM8": "_ArVh3Cj9rw",
+    "BV1RV411j7vv": "_ArVh3Cj9rw",
+    "BV12FQXB9Eb8": "_ArVh3Cj9rw",
     "BV1mo4y1K7eA": "aWvHrih-Juk",
+    "BV1uf4y1H7iu": "alasBxZsb40",
     "BV1LL4y1n7e3": "b9_Vh9h3Ohw",
     "BV18osBe1E8G": "dX9CGRZwD-w",
     "BV1CgMWzGEYM": "dX9CGRZwD-w",
+    "BV1Z7411k7Vb": "d_FEaFgJyfA",
     "BV179TC6rEA3": "fCbAafKLqC8",
     "BV1Ao4y187GD": "hhiLw5Q_UFg",
     "BV1KW4y1e7YS": "iSmkqocn0oQ",
@@ -36885,6 +37311,8 @@
     "BV1XJ411D7nE": "nq_SpRBXRmE",
     "BV1PecqeuEKC": "p3lsYlod5OU",
     "BV1Gv411q7ck": "qWFScmtiC44",
+    "BV14T4y1u7TM": "rG_Eh0J_4_s",
+    "BV11G411g7eR": "rG_Eh0J_4_s",
     "BV1uV41167Lq": "rzJqXd-1dEU",
     "BV16x411V7Qg": "tIeHLnjs5U8",
     "BV1dM4m1d7TD": "ulCdoCfw-bY",
