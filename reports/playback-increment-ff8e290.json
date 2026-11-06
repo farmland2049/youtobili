@@ -1,0 +1,89 @@
+{
+  "checked_at": "2026-11-06T16:14:15.090Z",
+  "checks": [
+    {
+      "sample": "5BXtgq0Nhsc",
+      "kind": "original",
+      "id": "5BXtgq0Nhsc",
+      "bvid": "BV1PK4y1e7sK",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.948403,
+        "duration": 695,
+        "paused": false
+      },
+      "expected_duration": 696,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "228015440"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Noam Chomsky - The Crimes of U.S. Presidents\n乔粉魔法屋\n关注\n2\n0\n分享\n更多\n00:04 / 11:35\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "5eL_LcxwwHg",
+      "kind": "original",
+      "id": "5eL_LcxwwHg",
+      "bvid": "BV1up4y1m7Xy",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.948407,
+        "duration": 3589,
+        "paused": false
+      },
+      "expected_duration": 3589,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1421455383"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Zig Roadmap 2024 - Andrew Kelley\nC-BJ\n关注\n7\n6\n分享\n更多\n00:04 / 59:49\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "6BBx8BwLhqg",
+      "kind": "original",
+      "id": "6BBx8BwLhqg",
+      "bvid": "BV1zh411b7kp",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.951851,
+        "duration": 168.802,
+        "paused": false
+      },
+      "expected_duration": 170,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "428604908"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "磁性物体 扔进 磁共振机器 会怎么样 How dangerous are magnetic items near an MRI magnet\ntaylorzhou101\n关注\n1\n0\n分享\n更多\n00:04 / 02:49\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "7TqqdOcX4dc",
+      "kind": "original",
+      "id": "7TqqdOcX4dc",
+      "bvid": "BV1XT4y1L7Pk",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.011899,
+        "duration": 219,
+        "paused": false
+      },
+      "expected_duration": 219,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "230517077"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Wuppertal Schwebebahn 1902 & 2015\nWsssC\n关注\n8\n0\n分享\n更多\n00:04 / 03:39\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T15:46:03.807421+00:00",
+  "built_at": "2026-11-06T16:13:28.107658+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 3891,
-    "confirmed": 957,
-    "coverage": 0.14828013634955067,
-    "processed_match_rate": 0.2459521973785659
+    "processed": 3941,
+    "confirmed": 961,
+    "coverage": 0.14889990703439726,
+    "processed_match_rate": 0.24384673940624207
   },
   "areas": [
     {
@@ -34783,6 +34783,109 @@
       ]
     },
     {
+      "id": "5BXtgq0Nhsc",
+      "title": "Noam Chomsky - The Crimes of U.S. Presidents",
+      "author": "Chomsky's Philosophy",
+      "source_url": "https://www.youtube.com/watch?v=5BXtgq0Nhsc",
+      "summary": "A short clip, from 2003, of Noam Chomsky going through crimes of post-WW2 US presidents. He argues that they would be indictable under the Nuremberg principles.",
+      "why": "HN links it as the source for the claim that every post-war president would be indictable under Nuremberg standards.",
+      "score": 1.0,
+      "tags": [
+        "chomsky",
+        "nuremberg principles",
+        "war crimes",
+        "us presidents"
+      ],
+      "categories": [
+        "geopolitics-foreign-policy",
+        "us-politics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1PK4y1e7sK",
+          "page": 1,
+          "cid": 228015440,
+          "title": "Noam Chomsky - The Crimes of U.S. Presidents",
+          "up": "乔粉魔法屋",
+          "duration": 696,
+          "kind": "original",
+          "views": 92,
+          "pic": "https://i2.hdslb.com/bfs/archive/1f1ff7c3dbfb00f6dc85ba1f00fdade20f750fee.jpg",
+          "checked_at": "2026-11-06T15:58:33.855146+00:00"
+        }
+      ]
+    },
+    {
+      "id": "5eL_LcxwwHg",
+      "title": "[#36] Zig Roadmap 2024 - Andrew Kelley",
+      "author": "Zig SHOWTIME",
+      "source_url": "https://www.youtube.com/watch?v=5eL_LcxwwHg",
+      "summary": "Andrew Kelley's 2024 Zig roadmap talk, followed by a Q&A, covers the language's priorities and the state of the project. Topics include compilation speed, moving off LLVM toward a self-hosted toolchain, async, and the path to 1.0.",
+      "why": "HN points to it as the authoritative source on Zig's direction, especially why async was removed and why the toolchain is changing.",
+      "score": 1.0,
+      "tags": [
+        "zig",
+        "andrew kelley",
+        "compiler",
+        "llvm",
+        "async",
+        "roadmap"
+      ],
+      "categories": [
+        "systems-programming-languages",
+        "compilers-interpreters",
+        "programming-language-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1up4y1m7Xy",
+          "page": 1,
+          "cid": 1421455383,
+          "title": "Zig Roadmap 2024 - Andrew Kelley",
+          "up": "C-BJ",
+          "duration": 3589,
+          "kind": "original",
+          "views": 638,
+          "pic": "https://i0.hdslb.com/bfs/archive/52de430ad9cae96b32052e91b36e40dfe72020af.jpg",
+          "checked_at": "2026-11-06T16:01:23.283258+00:00"
+        }
+      ]
+    },
+    {
+      "id": "6BBx8BwLhqg",
+      "title": "How dangerous are magnetic items near an MRI magnet?",
+      "author": "practiCal fMRI",
+      "source_url": "https://www.youtube.com/watch?v=6BBx8BwLhqg",
+      "summary": "A three-minute demonstration with a decommissioned 4 tesla MRI magnet showing how magnetic objects are pulled in and oscillate along the bore. It illustrates the safety hazards of ferromagnetic items near MRI scanners.",
+      "why": "Linked in threads on magnets and implants as a vivid demonstration of how violent MRI magnet forces are.",
+      "score": 1.0,
+      "tags": [
+        "mri",
+        "magnetism",
+        "safety",
+        "ferromagnetism",
+        "physics demo"
+      ],
+      "categories": [
+        "everyday-physics-demos",
+        "medicine-disease"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1zh411b7kp",
+          "page": 1,
+          "cid": 428604908,
+          "title": "磁性物体 扔进 磁共振机器 会怎么样 How dangerous are magnetic items near an MRI magnet",
+          "up": "taylorzhou101",
+          "duration": 170,
+          "kind": "original",
+          "views": 68,
+          "pic": "https://i0.hdslb.com/bfs/archive/37e75ba4c642278ccf0b2398b26c988ecbdc1a73.jpg",
+          "checked_at": "2026-11-06T16:04:40.913384+00:00"
+        }
+      ]
+    },
+    {
       "id": "6n2eDcRjSsk",
       "title": "AI slop attacks on the curl project - Daniel Stenberg",
       "author": "Daniel Stenberg",
@@ -34814,6 +34917,40 @@
           "views": 325,
           "pic": "https://i2.hdslb.com/bfs/archive/2ee0c03dfac3b19dc2dbbfd8c027ecf55f8dabcd.jpg",
           "checked_at": "2026-11-04T23:03:55.567191+00:00"
+        }
+      ]
+    },
+    {
+      "id": "7TqqdOcX4dc",
+      "title": "Wuppertal Schwebebahn 1902 & 2015 side by side video",
+      "author": "Ett & Annat",
+      "source_url": "https://www.youtube.com/watch?v=7TqqdOcX4dc",
+      "summary": "A side-by-side edit lining up footage of the Wuppertal Schwebebahn suspended monorail filmed in 1902 and in 2015. It lets you compare how the buildings and surroundings changed over 113 years.",
+      "why": "HN shares it whenever the Wuppertal suspended railway comes up, as a neat then-and-now comparison.",
+      "score": 1.0,
+      "tags": [
+        "schwebebahn",
+        "monorail",
+        "historical footage",
+        "1902",
+        "germany"
+      ],
+      "categories": [
+        "transit-urbanism",
+        "world-history"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1XT4y1L7Pk",
+          "page": 1,
+          "cid": 230517077,
+          "title": "Wuppertal Schwebebahn 1902 & 2015",
+          "up": "WsssC",
+          "duration": 219,
+          "kind": "original",
+          "views": 224,
+          "pic": "https://i1.hdslb.com/bfs/archive/1123baac69c10314f6d49d7144c22a1f848f131a.jpg",
+          "checked_at": "2026-11-06T16:11:40.955168+00:00"
         }
       ]
     },
@@ -39015,7 +39152,11 @@
     "BV1iS9AYyEbv": "0mCsluv5FXA",
     "BV1pC4y1m7fZ": "2k8fHR9jKVM",
     "BV1dT91BXEcx": "3HYw6vPR9qU",
+    "BV1PK4y1e7sK": "5BXtgq0Nhsc",
+    "BV1up4y1m7Xy": "5eL_LcxwwHg",
+    "BV1zh411b7kp": "6BBx8BwLhqg",
     "BV1DxWAzvEj6": "6n2eDcRjSsk",
+    "BV1XT4y1L7Pk": "7TqqdOcX4dc",
     "BV18v7p6bETX": "7aXbh9VUB3U",
     "BV1ue4y1o7JK": "8dT6CR9_6l4",
     "BV1Pb4y1S7Fc": "ALaTm6VzTBw",
