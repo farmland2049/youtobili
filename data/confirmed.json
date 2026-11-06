@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T16:58:49.807253+00:00",
+  "updated_at": "2026-11-06T17:32:15.778451+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -55890,6 +55890,378 @@
       "vid": "AjSl4n_KdOY",
       "status": "review",
       "completed_at": null,
+      "candidates": []
+    },
+    "AouW9_jyZck": {
+      "vid": "AouW9_jyZck",
+      "status": "review",
+      "completed_at": "2026-11-06T17:04:00.017375+00:00",
+      "candidates": []
+    },
+    "AqDdWEiSwMM": {
+      "vid": "AqDdWEiSwMM",
+      "status": "review",
+      "completed_at": "2026-11-06T17:04:24.146092+00:00",
+      "candidates": []
+    },
+    "AqeJzItldSQ": {
+      "vid": "AqeJzItldSQ",
+      "status": "review",
+      "completed_at": "2026-11-06T17:05:24.109010+00:00",
+      "candidates": []
+    },
+    "AtK_YsVInw8": {
+      "vid": "AtK_YsVInw8",
+      "status": "review",
+      "completed_at": "2026-11-06T17:05:50.029656+00:00",
+      "candidates": []
+    },
+    "B8DjTcANBx0": {
+      "vid": "B8DjTcANBx0",
+      "status": "review",
+      "completed_at": "2026-11-06T17:06:10.578129+00:00",
+      "candidates": []
+    },
+    "BJEHsvW2J6M": {
+      "vid": "BJEHsvW2J6M",
+      "status": "review",
+      "completed_at": "2026-11-06T17:06:22.331172+00:00",
+      "candidates": []
+    },
+    "BT5L4YU_Fl4": {
+      "vid": "BT5L4YU_Fl4",
+      "status": "review",
+      "completed_at": "2026-11-06T17:06:53.537265+00:00",
+      "candidates": []
+    },
+    "BTURkjYJ_uk": {
+      "vid": "BTURkjYJ_uk",
+      "status": "review",
+      "completed_at": "2026-11-06T17:07:18.676242+00:00",
+      "candidates": []
+    },
+    "Bch5B23_pu0": {
+      "vid": "Bch5B23_pu0",
+      "status": "review",
+      "completed_at": "2026-11-06T17:07:39.939257+00:00",
+      "candidates": []
+    },
+    "BcyYyyaPz84": {
+      "vid": "BcyYyyaPz84",
+      "status": "review",
+      "completed_at": "2026-11-06T17:07:50.017102+00:00",
+      "candidates": []
+    },
+    "BemHqUqcpI8": {
+      "vid": "BemHqUqcpI8",
+      "status": "review",
+      "completed_at": "2026-11-06T17:08:19.748314+00:00",
+      "candidates": []
+    },
+    "Bf1GjCaYzYg": {
+      "vid": "Bf1GjCaYzYg",
+      "status": "review",
+      "completed_at": "2026-11-06T17:09:29.562638+00:00",
+      "candidates": []
+    },
+    "Bm7L-2J52GU": {
+      "vid": "Bm7L-2J52GU",
+      "status": "review",
+      "completed_at": "2026-11-06T17:09:44.257410+00:00",
+      "candidates": []
+    },
+    "Bo3lUw9GUJA": {
+      "vid": "Bo3lUw9GUJA",
+      "status": "review",
+      "completed_at": "2026-11-06T17:09:53.788050+00:00",
+      "candidates": []
+    },
+    "BpT6MkCeP7Y": {
+      "vid": "BpT6MkCeP7Y",
+      "status": "review",
+      "completed_at": "2026-11-06T17:11:04.657410+00:00",
+      "candidates": []
+    },
+    "Bw-opH4f8Qg": {
+      "vid": "Bw-opH4f8Qg",
+      "status": "review",
+      "completed_at": "2026-11-06T17:11:40.901706+00:00",
+      "candidates": []
+    },
+    "Bx08yRsR9ow": {
+      "vid": "Bx08yRsR9ow",
+      "status": "review",
+      "completed_at": "2026-11-06T17:12:18.964463+00:00",
+      "candidates": []
+    },
+    "BzznBt8tVnI": {
+      "vid": "BzznBt8tVnI",
+      "status": "review",
+      "completed_at": "2026-11-06T17:12:48.170163+00:00",
+      "candidates": []
+    },
+    "C-52AI_ojyQ": {
+      "vid": "C-52AI_ojyQ",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T17:13:00.026743+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1xs411X7aV",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Billion到底是多大？How big is a billion - Numberphile",
+          "up": "阴天不下雨",
+          "duration": 582,
+          "original_duration": 582,
+          "cid": 5897535,
+          "aid": 3683540,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1482,
+          "pic": "https://i0.hdslb.com/bfs/archive/c11daac19a6d8b5dba8356f97b00ffcea7b89918.jpg",
+          "checked_at": "2026-11-06T17:12:59.073019+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "C7H3V7tkxeA": {
+      "vid": "C7H3V7tkxeA",
+      "status": "review",
+      "completed_at": "2026-11-06T17:13:31.176690+00:00",
+      "candidates": []
+    },
+    "CAOnSbDSaOw": {
+      "vid": "CAOnSbDSaOw",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T17:13:42.519466+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1ei4y1L7Q3",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "14. Limbic System",
+          "up": "becomequantum",
+          "duration": 5324,
+          "original_duration": 5324,
+          "cid": 257073905,
+          "aid": 542752048,
+          "segment_title": "y2mate.com - 14. Limbic System_360p",
+          "page_count": 1,
+          "kind": "original",
+          "views": 217,
+          "pic": "https://i1.hdslb.com/bfs/archive/0d4c9f0d73987c33fb5033b2f155a3a986d84aab.jpg",
+          "checked_at": "2026-11-06T17:13:41.522050+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "CGAhWgkKlHI": {
+      "vid": "CGAhWgkKlHI",
+      "status": "review",
+      "completed_at": "2026-11-06T17:13:56.254979+00:00",
+      "candidates": []
+    },
+    "CGN4RFkhH2M": {
+      "vid": "CGN4RFkhH2M",
+      "status": "review",
+      "completed_at": "2026-11-06T17:14:11.357760+00:00",
+      "candidates": []
+    },
+    "CJlqsdezhhk": {
+      "vid": "CJlqsdezhhk",
+      "status": "review",
+      "completed_at": "2026-11-06T17:14:47.367626+00:00",
+      "candidates": []
+    },
+    "CKh7UOELpPo": {
+      "vid": "CKh7UOELpPo",
+      "status": "review",
+      "completed_at": "2026-11-06T17:15:13.613436+00:00",
+      "candidates": []
+    },
+    "CLo3e1Pak-Y": {
+      "vid": "CLo3e1Pak-Y",
+      "status": "review",
+      "completed_at": "2026-11-06T17:15:55.073136+00:00",
+      "candidates": []
+    },
+    "CMR9z9Xr8GM": {
+      "vid": "CMR9z9Xr8GM",
+      "status": "review",
+      "completed_at": "2026-11-06T17:16:10.587471+00:00",
+      "candidates": []
+    },
+    "CX6LlEcJ4nw": {
+      "vid": "CX6LlEcJ4nw",
+      "status": "review",
+      "completed_at": "2026-11-06T17:16:34.832516+00:00",
+      "candidates": []
+    },
+    "CeDOQpfaUc8": {
+      "vid": "CeDOQpfaUc8",
+      "status": "review",
+      "completed_at": "2026-11-06T17:16:54.039494+00:00",
+      "candidates": []
+    },
+    "CgASBVMyVFI": {
+      "vid": "CgASBVMyVFI",
+      "status": "review",
+      "completed_at": "2026-11-06T17:17:28.920962+00:00",
+      "candidates": []
+    },
+    "CiHN0ZWE5bk": {
+      "vid": "CiHN0ZWE5bk",
+      "status": "review",
+      "completed_at": "2026-11-06T17:17:48.599626+00:00",
+      "candidates": []
+    },
+    "ClfBxWPkBKU": {
+      "vid": "ClfBxWPkBKU",
+      "status": "review",
+      "completed_at": "2026-11-06T17:18:11.523640+00:00",
+      "candidates": []
+    },
+    "Clgl63CWOkM": {
+      "vid": "Clgl63CWOkM",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T17:18:21.548500+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1PioWYdE57",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Guerrilla Public Service 2011",
+          "up": "Maoyt",
+          "duration": 600,
+          "original_duration": 600,
+          "cid": 29057876102,
+          "aid": 114221400530006,
+          "segment_title": "Guerrilla Public Service 2011",
+          "page_count": 1,
+          "kind": "original",
+          "views": 28,
+          "pic": "https://i0.hdslb.com/bfs/archive/c7ef0446ee7c4611d4d5873f2ac13fce77a31b7e.jpg",
+          "checked_at": "2026-11-06T17:18:20.585039+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "CmZdGo6b5yA": {
+      "vid": "CmZdGo6b5yA",
+      "status": "review",
+      "completed_at": "2026-11-06T17:19:11.357258+00:00",
+      "candidates": []
+    },
+    "Cn4vC80Pv6Q": {
+      "vid": "Cn4vC80Pv6Q",
+      "status": "review",
+      "completed_at": "2026-11-06T17:19:48.004693+00:00",
+      "candidates": []
+    },
+    "CnbVCNIh1NA": {
+      "vid": "CnbVCNIh1NA",
+      "status": "review",
+      "completed_at": "2026-11-06T17:20:13.359933+00:00",
+      "candidates": []
+    },
+    "CpfdtgW6_oI": {
+      "vid": "CpfdtgW6_oI",
+      "status": "review",
+      "completed_at": "2026-11-06T17:20:45.811069+00:00",
+      "candidates": []
+    },
+    "CtUfBc4qQMg": {
+      "vid": "CtUfBc4qQMg",
+      "status": "review",
+      "completed_at": "2026-11-06T17:22:23.809092+00:00",
+      "candidates": []
+    },
+    "CuoER1DwYLY": {
+      "vid": "CuoER1DwYLY",
+      "status": "review",
+      "completed_at": "2026-11-06T17:22:37.630388+00:00",
+      "candidates": []
+    },
+    "Cvq3Pf3j61c": {
+      "vid": "Cvq3Pf3j61c",
+      "status": "review",
+      "completed_at": "2026-11-06T17:24:04.389252+00:00",
+      "candidates": []
+    },
+    "CxVXvFOPIyQ": {
+      "vid": "CxVXvFOPIyQ",
+      "status": "review",
+      "completed_at": "2026-11-06T17:24:38.934642+00:00",
+      "candidates": []
+    },
+    "CxwceUvxlCo": {
+      "vid": "CxwceUvxlCo",
+      "status": "review",
+      "completed_at": "2026-11-06T17:25:48.281455+00:00",
+      "candidates": []
+    },
+    "D2vj0WcvH5c": {
+      "vid": "D2vj0WcvH5c",
+      "status": "review",
+      "completed_at": "2026-11-06T17:27:02.804010+00:00",
+      "candidates": []
+    },
+    "D38dcArwCNc": {
+      "vid": "D38dcArwCNc",
+      "status": "review",
+      "completed_at": "2026-11-06T17:27:19.107865+00:00",
+      "candidates": []
+    },
+    "D7GDTZ45TRw": {
+      "vid": "D7GDTZ45TRw",
+      "status": "review",
+      "completed_at": "2026-11-06T17:27:30.509330+00:00",
+      "candidates": []
+    },
+    "DEEr6dT-4uQ": {
+      "vid": "DEEr6dT-4uQ",
+      "status": "review",
+      "completed_at": "2026-11-06T17:27:39.920903+00:00",
+      "candidates": []
+    },
+    "DGscoaUWW2M": {
+      "vid": "DGscoaUWW2M",
+      "status": "review",
+      "completed_at": "2026-11-06T17:28:43.488391+00:00",
+      "candidates": []
+    },
+    "DOW_kPzY_JY": {
+      "vid": "DOW_kPzY_JY",
+      "status": "review",
+      "completed_at": "2026-11-06T17:29:55.904111+00:00",
+      "candidates": []
+    },
+    "DU8hg4FTm0g": {
+      "vid": "DU8hg4FTm0g",
+      "status": "review",
+      "completed_at": "2026-11-06T17:30:21.594974+00:00",
+      "candidates": []
+    },
+    "DX73uXs3xGU": {
+      "vid": "DX73uXs3xGU",
+      "status": "review",
+      "completed_at": "2026-11-06T17:30:39.096548+00:00",
       "candidates": []
     }
   }

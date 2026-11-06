@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T16:58:49.786462+00:00",
+  "built_at": "2026-11-06T17:32:15.757964+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 3991,
-    "confirmed": 967,
-    "coverage": 0.14982956306166717,
-    "processed_match_rate": 0.24229516411926835
+    "processed": 4041,
+    "confirmed": 970,
+    "coverage": 0.15029439107530213,
+    "processed_match_rate": 0.24003959415986142
   },
   "areas": [
     {
@@ -35240,6 +35240,74 @@
       ]
     },
     {
+      "id": "C-52AI_ojyQ",
+      "title": "How big is a billion? - Numberphile",
+      "author": "Numberphile",
+      "source_url": "https://www.youtube.com/watch?v=C-52AI_ojyQ",
+      "summary": "Numberphile explains the long and short scales for naming large numbers, covering millions, billions, trillions, milliards and the Greek myriad, with James Grime and Tony Padilla.",
+      "why": "HN links it whenever a thread hits the ambiguity of whether a billion is 10^9 or 10^12.",
+      "score": 1.0,
+      "tags": [
+        "billion",
+        "number names",
+        "long scale",
+        "short scale",
+        "numberphile"
+      ],
+      "categories": [
+        "recreational-math",
+        "language-linguistics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1xs411X7aV",
+          "page": 1,
+          "cid": 5897535,
+          "title": "Billion到底是多大？How big is a billion - Numberphile",
+          "up": "阴天不下雨",
+          "duration": 582,
+          "kind": "original",
+          "views": 1482,
+          "pic": "https://i0.hdslb.com/bfs/archive/c11daac19a6d8b5dba8356f97b00ffcea7b89918.jpg",
+          "checked_at": "2026-11-06T17:12:59.073019+00:00"
+        }
+      ]
+    },
+    {
+      "id": "CAOnSbDSaOw",
+      "title": "14. Limbic System",
+      "author": "Stanford",
+      "source_url": "https://www.youtube.com/watch?v=CAOnSbDSaOw",
+      "summary": "Robert Sapolsky's Stanford lecture on the limbic system as the emotional part of the nervous system, covering its role in decision making, links to the cortex and the functions of its subparts.",
+      "why": "HN cites it as a real academic source to back up or correct claims about emotion, anger and anxiety in the brain.",
+      "score": 1.0,
+      "tags": [
+        "neurobiology",
+        "sapolsky",
+        "emotion",
+        "amygdala",
+        "stanford"
+      ],
+      "categories": [
+        "neuroscience-brain",
+        "university-lectures"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ei4y1L7Q3",
+          "page": 1,
+          "cid": 257073905,
+          "title": "14. Limbic System",
+          "up": "becomequantum",
+          "duration": 5324,
+          "kind": "original",
+          "views": 217,
+          "pic": "https://i1.hdslb.com/bfs/archive/0d4c9f0d73987c33fb5033b2f155a3a986d84aab.jpg",
+          "checked_at": "2026-11-06T17:13:41.522050+00:00"
+        }
+      ]
+    },
+    {
       "id": "CBrj4S24074",
       "title": "Chris Crawford Dragon Speech \"I Had a Dream\"",
       "author": "Chris Crawford",
@@ -35303,6 +35371,41 @@
           "views": 705,
           "pic": "https://i1.hdslb.com/bfs/archive/b47472012091229864cb2f9a7e0632352c1ea7dd.png",
           "checked_at": "2026-11-06T07:52:16.817359+00:00"
+        }
+      ]
+    },
+    {
+      "id": "Clgl63CWOkM",
+      "title": "Guerrilla Public Service 2011",
+      "author": "Richard Ankrom",
+      "source_url": "https://www.youtube.com/watch?v=Clgl63CWOkM",
+      "summary": "Richard Ankrom's account of his 2001 guerrilla project, in which he painted and installed a missing freeway exit sign on a Pasadena freeway. The sign matched official standards and stayed up for years before being discovered.",
+      "why": "HN cites it as the best-known example of a citizen quietly fixing public infrastructure, often in threads on unsanctioned civic repairs.",
+      "score": 1.0,
+      "tags": [
+        "freeway sign",
+        "guerrilla public service",
+        "civic hacking",
+        "pasadena",
+        "road signage"
+      ],
+      "categories": [
+        "transit-urbanism",
+        "documentaries-storytelling",
+        "visual-arts"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1PioWYdE57",
+          "page": 1,
+          "cid": 29057876102,
+          "title": "Guerrilla Public Service 2011",
+          "up": "Maoyt",
+          "duration": 600,
+          "kind": "original",
+          "views": 28,
+          "pic": "https://i0.hdslb.com/bfs/archive/c7ef0446ee7c4611d4d5873f2ac13fce77a31b7e.jpg",
+          "checked_at": "2026-11-06T17:18:20.585039+00:00"
         }
       ]
     },
@@ -39382,8 +39485,11 @@
     "BV1Pb4y1S7Fc": "ALaTm6VzTBw",
     "BV1WW411c7XM": "AYshVbcEmUc",
     "BV19s411Y7yM": "AgkfIQ4IGaM",
+    "BV1xs411X7aV": "C-52AI_ojyQ",
+    "BV1ei4y1L7Q3": "CAOnSbDSaOw",
     "BV1gq4y1U7xN": "CBrj4S24074",
     "BV1kx411u7tz": "CIjXUg1s5gc",
+    "BV1PioWYdE57": "Clgl63CWOkM",
     "BV1Uw4m1r7Vd": "GwzN5YwMzv0",
     "BV15V4y1E7mu": "GwzN5YwMzv0",
     "BV1vryLB1E5H": "IJEaMtNN_dM",

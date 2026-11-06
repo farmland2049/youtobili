@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-11-06T17:32:48.010Z",
+  "checks": [
+    {
+      "sample": "C-52AI_ojyQ",
+      "kind": "original",
+      "id": "C-52AI_ojyQ",
+      "bvid": "BV1xs411X7aV",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.940245,
+        "duration": 581.8199999999999,
+        "paused": false
+      },
+      "expected_duration": 582,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "5897535"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Billion到底是多大？How big is a billion - Numberphile\n阴天不下雨\n关注\n4\n2\n分享\n更多\n00:04 / 09:42\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "CAOnSbDSaOw",
+      "kind": "original",
+      "id": "CAOnSbDSaOw",
+      "bvid": "BV1ei4y1L7Q3",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.954434,
+        "duration": 5324,
+        "paused": false
+      },
+      "expected_duration": 5324,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "257073905"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "14. Limbic System\nbecomequantum\n关注\n1\n0\n分享\n更多\n0:00:04 / 1:28:44\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "Clgl63CWOkM",
+      "kind": "original",
+      "id": "Clgl63CWOkM",
+      "bvid": "BV1PioWYdE57",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.323273,
+        "duration": 600,
+        "paused": false
+      },
+      "expected_duration": 600,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "29057876102"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Guerrilla Public Service 2011\nMaoyt\n关注\n3\n0\n分享\n更多\n00:05 / 10:00\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}
