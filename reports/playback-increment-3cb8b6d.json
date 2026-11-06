@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-11-06T05:13:11.927Z",
+  "checks": [
+    {
+      "sample": "2B-XwPjn9YY",
+      "kind": "original",
+      "id": "2B-XwPjn9YY",
+      "bvid": "BV1NU4y1o7FQ",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.947959,
+        "duration": 311,
+        "paused": false
+      },
+      "expected_duration": 311,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "558746254"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "1984年乔布斯介绍初代苹麦金塔电脑The Lost 1984 Video- young Steve Jobs introduces the Macintosh\nstevechenko\n关注\n19\n1\n分享\n更多\n00:04 / 05:11\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

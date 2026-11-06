@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T05:01:15.176022+00:00",
+  "built_at": "2026-11-06T05:12:35.202332+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 2888,
-    "confirmed": 856,
-    "coverage": 0.13263092655717384,
-    "processed_match_rate": 0.296398891966759
+    "processed": 2907,
+    "confirmed": 857,
+    "coverage": 0.1327858692283855,
+    "processed_match_rate": 0.29480564155486755
   },
   "areas": [
     {
@@ -30812,6 +30812,41 @@
       ]
     },
     {
+      "id": "2B-XwPjn9YY",
+      "title": "The Lost 1984 Video: young Steve Jobs introduces the Macintosh",
+      "author": "macessentials",
+      "source_url": "https://www.youtube.com/watch?v=2B-XwPjn9YY",
+      "summary": "A restored recording of Steve Jobs unveiling the original Macintosh in 1984, including the moment it is taken out of its bag and speaks. The upload comes from the team that rediscovered and restored the lost footage.",
+      "why": "HN commenters cite it as the source for the talking-Macintosh introduction, usually in threads about speech synthesis and audio.",
+      "score": 1.5,
+      "tags": [
+        "steve jobs",
+        "macintosh",
+        "1984",
+        "product launch",
+        "speech synthesis"
+      ],
+      "categories": [
+        "tech-figures-interviews",
+        "gui-hci-history",
+        "tech-company-stories"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1NU4y1o7FQ",
+          "page": 1,
+          "cid": 558746254,
+          "title": "1984年乔布斯介绍初代苹麦金塔电脑The Lost 1984 Video- young Steve Jobs introduces the Macintosh",
+          "up": "stevechenko",
+          "duration": 311,
+          "kind": "original",
+          "views": 339,
+          "pic": "https://i2.hdslb.com/bfs/archive/09de929c91924c8a66ea5be7afc82453879b01aa.jpg",
+          "checked_at": "2026-11-06T05:04:15.637649+00:00"
+        }
+      ]
+    },
+    {
       "id": "AxnotgLql0k",
       "title": "'Fastware' - Andrei Alexandrescu [ ACCU 2016 ]",
       "author": "ACCU Conference",
@@ -35102,6 +35137,7 @@
     "BV1aWsRzQEVc": "vQpUV--2Jao",
     "BV1pEf2YWEja": "wOlcB-JxkFw",
     "BV1Xx411L7cG": "0lvMgMrNDlg",
+    "BV1NU4y1o7FQ": "2B-XwPjn9YY",
     "BV1LY411Y7Wb": "AxnotgLql0k",
     "BV1ZE41157iN": "Kas0tIxDvrg",
     "BV1u6CGBdE3m": "Kas0tIxDvrg",
