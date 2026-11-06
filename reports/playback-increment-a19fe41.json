@@ -1,0 +1,89 @@
+{
+  "checked_at": "2026-11-06T05:00:34.725Z",
+  "checks": [
+    {
+      "sample": "tF4DML7FIWk",
+      "kind": "original",
+      "id": "tF4DML7FIWk",
+      "bvid": "BV1Sv411N7kz",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.939503,
+        "duration": 66,
+        "paused": false
+      },
+      "expected_duration": 66,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "394256304"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Atlas _ Partners in Parkour\nLuce_go\n关注\n1\n0\n分享\n更多\n00:04 / 01:06\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "wO2lWmgEK1Y",
+      "kind": "original",
+      "id": "wO2lWmgEK1Y",
+      "bvid": "BV1wV7s6pE26",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.942237,
+        "duration": 1705,
+        "paused": false
+      },
+      "expected_duration": 1705,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "39458441238"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "The Brexit effect- how leaving the EU hit the UK | FT Film\n一个小电子\n关注\n1\n0\n分享\n更多\n00:04 / 28:25\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "-C-JoyNuQJs",
+      "kind": "original",
+      "id": "-C-JoyNuQJs",
+      "bvid": "BV1vstAehERr",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.93849,
+        "duration": 2966,
+        "paused": false
+      },
+      "expected_duration": 2966,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "25851530013"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Douglas Crockford_ The JSON Saga\n七月--_--\n关注\n0\n0\n分享\n更多\n00:04 / 49:26\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "-hxX_Q5CnaA",
+      "kind": "original",
+      "id": "-hxX_Q5CnaA",
+      "bvid": "BV1v77E6sEtj",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.940602,
+        "duration": 467,
+        "paused": false
+      },
+      "expected_duration": 467,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "39441272777"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "杰夫·贝索斯：关于亚马逊与Zappos的分享视频 - 07272009july\n黑纹白斑马\n关注\n18\n4\n分享\n更多\n00:04 / 07:47\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

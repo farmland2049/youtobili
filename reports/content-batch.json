@@ -1,222 +1,117 @@
 {
-  "baseline_commit": "3bd54ec0d7283de4306070cba6a3720e14d13f6f",
+  "baseline_commit": "a19fe4192960ee471b6f1bf50ae807e98f433be5",
   "phase_status": "stopped_after_request_error",
   "before": {
-    "corpus": 6454,
-    "processed": 2781,
-    "confirmed": 841,
-    "coverage": 0.13030678648899907,
-    "processed_match_rate": 0.3024092053218267
-  },
-  "after": {
     "corpus": 6454,
     "processed": 2841,
     "confirmed": 853,
     "coverage": 0.1321660985435389,
     "processed_match_rate": 0.3002463921154523
   },
-  "newly_processed": 60,
-  "newly_processed_confirmed": 12,
+  "after": {
+    "corpus": 6454,
+    "processed": 2888,
+    "confirmed": 856,
+    "coverage": 0.13263092655717384,
+    "processed_match_rate": 0.296398891966759
+  },
+  "newly_processed": 47,
+  "newly_processed_confirmed": 3,
   "added_originals": [
-    "hyYCn_kAngI",
-    "iIpPuJ_r8Xg",
-    "ip641WmY4pA",
-    "iqddnwKF8HQ",
-    "jAhjPd4uNFY",
-    "jhicDUgXyNg",
-    "mPZn4x3uOac",
-    "nSKp2StlS6s",
-    "qEJ4hkpQW8E",
-    "rC4FCS-oMpg",
-    "tF4DML7FIWk",
-    "tvos4nORf_Y"
+    "-C-JoyNuQJs",
+    "-hxX_Q5CnaA",
+    "wO2lWmgEK1Y"
   ],
   "withdrawn_originals": [],
-  "net_confirmed_change": 12,
-  "versions": 1166,
+  "net_confirmed_change": 3,
+  "versions": 1170,
   "added_versions": [
     {
-      "id": "FACK2knC08E",
-      "bvid": "BV1ky4y1k7bw",
-      "page": 1
-    },
-    {
-      "id": "hyYCn_kAngI",
-      "bvid": "BV1rU421Z7YE",
-      "page": 1
-    },
-    {
-      "id": "iIpPuJ_r8Xg",
-      "bvid": "BV1mG4117786",
-      "page": 1
-    },
-    {
-      "id": "ip641WmY4pA",
-      "bvid": "BV1ZMkpBeEkB",
-      "page": 1
-    },
-    {
-      "id": "iqddnwKF8HQ",
-      "bvid": "BV1dhGU6bEPX",
-      "page": 1
-    },
-    {
-      "id": "jAhjPd4uNFY",
-      "bvid": "BV16t41197SU",
-      "page": 1
-    },
-    {
-      "id": "jhicDUgXyNg",
-      "bvid": "BV1ws411F7bq",
-      "page": 1
-    },
-    {
-      "id": "jhicDUgXyNg",
-      "bvid": "BV1nf4y1S7sN",
-      "page": 1
-    },
-    {
-      "id": "mPZn4x3uOac",
-      "bvid": "BV1mW411e7rH",
-      "page": 1
-    },
-    {
-      "id": "nSKp2StlS6s",
-      "bvid": "BV1zb411h7GM",
-      "page": 1
-    },
-    {
-      "id": "qEJ4hkpQW8E",
-      "bvid": "BV1BD421g72C",
-      "page": 1
-    },
-    {
-      "id": "rC4FCS-oMpg",
-      "bvid": "BV1ju411379b",
-      "page": 1
-    },
-    {
       "id": "tF4DML7FIWk",
-      "bvid": "BV1VA411A7eC",
+      "bvid": "BV1Sv411N7kz",
       "page": 1
     },
     {
-      "id": "tvos4nORf_Y",
-      "bvid": "BV1H7411w71j",
+      "id": "wO2lWmgEK1Y",
+      "bvid": "BV1wV7s6pE26",
+      "page": 1
+    },
+    {
+      "id": "-C-JoyNuQJs",
+      "bvid": "BV1vstAehERr",
+      "page": 1
+    },
+    {
+      "id": "-hxX_Q5CnaA",
+      "bvid": "BV1v77E6sEtj",
       "page": 1
     }
   ],
   "withdrawn_versions": [],
-  "net_versions_change": 14,
+  "net_versions_change": 4,
   "search_batches": [
     {
-      "id": "20261106T041449Z",
+      "id": "20261106T044216Z",
       "selected": 50,
-      "completed": 50,
-      "errors": [],
-      "stopped": false,
-      "originals": [
-        "hk-0qJXyido",
-        "hyYCn_kAngI",
-        "i9i47sgi-V4",
-        "iIpPuJ_r8Xg",
-        "iLmkec_4Rfo",
-        "ip641WmY4pA",
-        "iphcyNWFD10",
-        "iqddnwKF8HQ",
-        "j6ow-UemzBc",
-        "jAhjPd4uNFY",
-        "jhicDUgXyNg",
-        "jhnKBKZvb_U",
-        "kgCUn4fQTsc",
-        "l9ag2x3CS9M",
-        "lC4YLMLar5I",
-        "lFXJWPhDsSY",
-        "lX-K63pVPTM",
-        "lqJUIqZNzP8",
-        "m1lhGqNCZlA",
-        "mPZn4x3uOac",
-        "mPn2AdMH7UQ",
-        "mSgXWpvQEHE",
-        "mUcUy7SqdS0",
-        "mb3uK-_QkOo",
-        "meiU6TxysCg",
-        "mmfjM-SGlGs",
-        "mpbeOCKZFfQ",
-        "n28W4AmvMDE",
-        "nSKp2StlS6s",
-        "ne6tB2KiZuk",
-        "o1Fyn_h6LKU",
-        "oAVjF_7ensg",
-        "oGTQ0Wj6yIg",
-        "oLkfnc_UMcE",
-        "ooOL4T-BAg0",
-        "pKmSdY56VtY",
-        "pSHj5UKSylk",
-        "pSm7BcQHWXk",
-        "plcc6E-E1uU",
-        "pqQSwQLDIK8",
-        "q3OuCR0EpGo",
-        "qEJ4hkpQW8E",
-        "qJZ1Ez28C-A",
-        "qPb_0JZ6-Rc",
-        "qoyKe-HxmFk",
-        "rC4FCS-oMpg",
-        "rQKis2Cfpeo",
-        "rkfAcWpOYAA",
-        "rwhUpu9MfZ0",
-        "s10etP1p2bU"
-      ],
-      "primary_first": true,
-      "deferred_candidates": 128,
-      "excluded_originals": [
-        "AJgY9FtDLbs",
-        "HQKy1KJpSVc",
-        "NTJQTc-TqpU",
-        "OL6-x0modwY",
-        "QVuU2YCwHjw",
-        "SYeeTvitvFU",
-        "bwDrHqNZ9lo",
-        "cVaTc15plVs",
-        "cjuGCJJUGsg",
-        "dX649lnKAU0",
-        "hhMAt3BluAU",
-        "s9fByRmAHgU",
-        "st571DYYTR8",
-        "vs41JrnGaxc"
-      ],
-      "attempted": 50,
-      "unattempted": 0,
-      "statuses": {
-        "review": 40,
-        "confirmed": 10
-      },
-      "candidate_count": 1867
-    },
-    {
-      "id": "20261106T043304Z",
-      "selected": 50,
-      "completed": 9,
+      "completed": 47,
       "errors": [
         {
-          "vid": "uTdyb-RWNKo",
+          "vid": "05WS0WN7zMQ",
           "reason": "URLError"
         }
       ],
       "stopped": false,
       "originals": [
-        "sJj9y4t9UnU",
-        "sKOk4Y4inVY",
-        "sfrYOWlKJ_g",
-        "sgHbC6udIqc",
-        "tF4DML7FIWk",
-        "tJoe_daP0DE",
-        "taZJblMAuko",
-        "tvos4nORf_Y",
-        "uKfKtXYLG78"
+        "uXdtafGdIVM",
+        "udJJ7n_Ryjg",
+        "vDwzmJpI4io",
+        "vN4U5FqrOdQ",
+        "vVX-PrBRtTY",
+        "vc4yL3YTwWk",
+        "vq2BxAJZ4Tc",
+        "w-I6XTVZXww",
+        "wMFPe-DwULM",
+        "wO2lWmgEK1Y",
+        "wROQUZDCIMI",
+        "wfzSE4Hoxbc",
+        "wq5D43qAsVg",
+        "xGbgDf4HCHU",
+        "xL_sMXfzzyA",
+        "xMabpBvtXr4",
+        "xR7XMkjDGw0",
+        "xUezfuy8Qpc",
+        "xY45YE7ggng",
+        "xYemnKEKx0c",
+        "x_q50tvbQm4",
+        "xb8idEf-Iak",
+        "xcwJt4bcnXs",
+        "yYTSdlOdkn0",
+        "yqMjMPlXzdA",
+        "ywWBy6J5gz8",
+        "zDEpeWQHtFU",
+        "zaXKQ70q4KQ",
+        "zyQwAhppWj8",
+        "-7qT_38iRSc",
+        "-C-JoyNuQJs",
+        "-DVyjdw4t9I",
+        "-DX3vJiqxm4",
+        "-K11rY57K7k",
+        "-NL76uQOpI0",
+        "-QMHOsfjHq0",
+        "-ZSli7QW4rg",
+        "-ZXrJRpA0Jw",
+        "-_aL9V0JsQQ",
+        "-epPf7D8oMk",
+        "-gPuH1yeZ08",
+        "-gYb5GUs0dM",
+        "-hCimLnIsDA",
+        "-hxX_Q5CnaA",
+        "-opBifFfsMY",
+        "-q7ZVXOU3kM",
+        "0-wB1VY3Nrc"
       ],
       "primary_first": true,
-      "deferred_candidates": 39,
+      "deferred_candidates": 37,
       "excluded_originals": [
         "AJgY9FtDLbs",
         "HQKy1KJpSVc",
@@ -231,39 +126,31 @@
         "hhMAt3BluAU",
         "s9fByRmAHgU",
         "st571DYYTR8",
+        "uTdyb-RWNKo",
         "vs41JrnGaxc"
       ],
-      "attempted": 10,
-      "unattempted": 40,
+      "attempted": 48,
+      "unattempted": 2,
       "statuses": {
-        "review": 8,
-        "confirmed": 2
+        "review": 44,
+        "confirmed": 4
       },
-      "candidate_count": 374
+      "candidate_count": 1797
     }
   ],
-  "completed_search_originals": 59,
-  "direct_search_attempts": 60,
+  "completed_search_originals": 47,
+  "direct_search_attempts": 48,
   "direct_search_errors": [
     {
-      "vid": "uTdyb-RWNKo",
+      "vid": "05WS0WN7zMQ",
       "reason": "URLError"
     }
   ],
-  "unattempted_after_error": 40,
+  "unattempted_after_error": 2,
   "source_verification_batches": [
     {
-      "id": "2026-11-06T04:14:23.139703+00:00",
-      "source": "serial-20261106T041358Z-leads-1.json",
-      "attempted": 2,
-      "completed": 2,
-      "confirmed": 1,
-      "errors": [],
-      "stopped": false
-    },
-    {
-      "id": "2026-11-06T04:32:42.091338+00:00",
-      "source": "serial-20261106T041358Z-leads-2.json",
+      "id": "2026-11-06T04:41:51.539242+00:00",
+      "source": "serial-20261106T044126Z-leads-1.json",
       "attempted": 1,
       "completed": 1,
       "confirmed": 1,
@@ -271,8 +158,8 @@
       "stopped": false
     }
   ],
-  "source_leads_completed": 3,
-  "source_confirmed_versions": 2,
+  "source_leads_completed": 1,
+  "source_confirmed_versions": 1,
   "blocked_originals": {
     "st571DYYTR8": "prior URLError; no retry or unavailable classification",
     "HQKy1KJpSVc": "prior URLError; no retry or unavailable classification",
@@ -288,27 +175,35 @@
     "cVaTc15plVs": "prior URLError; no retry or unavailable classification",
     "dX649lnKAU0": "prior URLError; no retry or unavailable classification",
     "hhMAt3BluAU": "prior URLError; no retry or unavailable classification",
-    "uTdyb-RWNKo": "URLError in current phase; failed search left unprocessed; do not classify unavailable"
+    "uTdyb-RWNKo": "URLError in current phase; failed search left unprocessed; do not classify unavailable",
+    "05WS0WN7zMQ": "URLError in current phase; failed search left unprocessed; do not classify unavailable"
   },
   "automatic_retry": false,
-  "remaining_unprocessed": 3613,
-  "remaining_review": 1988,
+  "remaining_unprocessed": 3566,
+  "remaining_review": 2032,
   "metadata_title_review": {
-    "baseline_commit": "3bd54ec0d7283de4306070cba6a3720e14d13f6f",
+    "baseline_commit": "a19fe4192960ee471b6f1bf50ae807e98f433be5",
     "review_status": "metadata_consistency_review_completed_for_snapshot",
-    "rows": 14,
-    "scope": "Read original, Bilibili and segment titles for 14 versions; no frame comparison."
+    "rows": 4,
+    "scope": "Read original, Bilibili and segment titles for 4 versions; no frame comparison.",
+    "manual_downgrades": [
+      {
+        "id": "-DVyjdw4t9I",
+        "bvid": "BV1towjedEH5",
+        "reason": "Bilibili title identifies episode 310; original is Lex Fridman Podcast episode 341"
+      }
+    ]
   },
   "cached_new_version_audit": {
-    "checked": 14,
+    "checked": 4,
     "requests": 0,
     "segment_conflicts": [],
     "all_passed": true
   },
   "browser_tests": {
-    "checked_at": "2026-11-06T04:37:59.590Z",
+    "checked_at": "2026-11-06T05:00:03.987Z",
     "status": "pass",
-    "originals": 853,
+    "originals": 856,
     "scenarios": [
       "desktop rendering",
       "mobile rendering/no horizontal overflow",
@@ -329,12 +224,11 @@
     "page_errors": []
   },
   "playback": {
-    "checked": 5,
+    "checked": 4,
     "all_playing": true,
     "all_durations_match": true,
     "all_cids_observed": true,
-    "report": "playback-increment-3bd54ec.json"
+    "report": "playback-increment-a19fe41.json"
   },
-  "code_tests": "not rerun; code unchanged since tested commit 3bd54ec",
-  "new_internal_segment_path_in_public_data": false
+  "code_tests": "not rerun; code unchanged since tested baseline a19fe41"
 }

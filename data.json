@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T04:36:01.054858+00:00",
+  "built_at": "2026-11-06T05:01:15.176022+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 2841,
-    "confirmed": 853,
-    "coverage": 0.1321660985435389,
-    "processed_match_rate": 0.3002463921154523
+    "processed": 2888,
+    "confirmed": 856,
+    "coverage": 0.13263092655717384,
+    "processed_match_rate": 0.296398891966759
   },
   "areas": [
     {
@@ -29072,6 +29072,18 @@
           "views": 1086,
           "pic": "https://i2.hdslb.com/bfs/archive/78cf6709e12d120f2f63162d99e8e659ba8cbc1c.jpg",
           "checked_at": "2026-11-06T04:34:30.291166+00:00"
+        },
+        {
+          "bvid": "BV1Sv411N7kz",
+          "page": 1,
+          "cid": 394256304,
+          "title": "Atlas _ Partners in Parkour",
+          "up": "Luce_go",
+          "duration": 66,
+          "kind": "original",
+          "views": 21,
+          "pic": "https://i2.hdslb.com/bfs/archive/6d8f7708a20e0800c26eea8e3713cca2a1dcc978.jpg",
+          "checked_at": "2026-11-06T04:41:51.784973+00:00"
         }
       ]
     },
@@ -29179,6 +29191,39 @@
       ]
     },
     {
+      "id": "wO2lWmgEK1Y",
+      "title": "The Brexit effect: how leaving the EU hit the UK | FT Film",
+      "author": "Financial Times",
+      "source_url": "https://www.youtube.com/watch?v=wO2lWmgEK1Y",
+      "summary": "A Financial Times film examining how Brexit hurt the UK economy, with FT writers and business people. It looks at trade effects, political silence about the costs, and the absence of a convincing Brexit dividend.",
+      "why": "Pointed to as an in-depth, journalistic account of Brexit's economic aftermath.",
+      "score": 2.5,
+      "tags": [
+        "brexit",
+        "uk economy",
+        "trade",
+        "financial times"
+      ],
+      "categories": [
+        "macroeconomics",
+        "geopolitics-foreign-policy"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1wV7s6pE26",
+          "page": 1,
+          "cid": 39458441238,
+          "title": "The Brexit effect- how leaving the EU hit the UK | FT Film",
+          "up": "一个小电子",
+          "duration": 1705,
+          "kind": "original",
+          "views": 7,
+          "pic": "https://i0.hdslb.com/bfs/archive/90b02c3c9b854086098e46c4018cfd0db28c146b.jpg",
+          "checked_at": "2026-11-06T04:46:19.600696+00:00"
+        }
+      ]
+    },
+    {
       "id": "y5UT04p5f7U",
       "title": "Death to Pennies",
       "author": "CGP Grey",
@@ -29208,6 +29253,75 @@
           "views": 443,
           "pic": "https://i2.hdslb.com/bfs/archive/c80ecf574918eddef36eae86cc3d5a0836b25cd2.png",
           "checked_at": "2026-11-05T07:23:13.021870+00:00"
+        }
+      ]
+    },
+    {
+      "id": "-C-JoyNuQJs",
+      "title": "Douglas Crockford: The JSON Saga",
+      "author": "YUI Library",
+      "source_url": "https://www.youtube.com/watch?v=-C-JoyNuQJs",
+      "summary": "Douglas Crockford tells how JSON was discovered rather than invented, and how its simplicity made it a dominant data interchange format. He also covers surrounding history such as earlier Netscape usage and the 'Good, not Evil' license story.",
+      "why": "HN commenters cite it as Crockford's first-hand account of JSON's origins and of the no-evil license anecdote.",
+      "score": 2.0,
+      "tags": [
+        "json",
+        "douglas crockford",
+        "javascript",
+        "xml",
+        "open source licensing"
+      ],
+      "categories": [
+        "web-development",
+        "tech-figures-interviews",
+        "software-practice-careers"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1vstAehERr",
+          "page": 1,
+          "cid": 25851530013,
+          "title": "Douglas Crockford_ The JSON Saga",
+          "up": "七月--_--",
+          "duration": 2966,
+          "kind": "original",
+          "views": 15,
+          "pic": "https://i2.hdslb.com/bfs/archive/908111742f8dbae85b999a4249ecc9189e9b37c4.jpg",
+          "checked_at": "2026-11-06T04:53:09.240036+00:00"
+        }
+      ]
+    },
+    {
+      "id": "-hxX_Q5CnaA",
+      "title": "Video from Jeff Bezos about Amazon and Zappos",
+      "author": "07272009july",
+      "source_url": "https://www.youtube.com/watch?v=-hxX_Q5CnaA",
+      "summary": "A short 2009 video of Jeff Bezos talking about Amazon and Zappos. He discusses customer focus, invention and long-term thinking.",
+      "why": "HN commenters like his candid, authentic delivery and the lessons on customer obsession and thinking long term.",
+      "score": 2.0,
+      "tags": [
+        "jeff bezos",
+        "amazon",
+        "zappos",
+        "customer obsession",
+        "long-term thinking"
+      ],
+      "categories": [
+        "tech-company-stories",
+        "product-growth-marketing"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1v77E6sEtj",
+          "page": 1,
+          "cid": 39441272777,
+          "title": "杰夫·贝索斯：关于亚马逊与Zappos的分享视频 - 07272009july",
+          "up": "黑纹白斑马",
+          "duration": 467,
+          "kind": "original",
+          "views": 557,
+          "pic": "https://i0.hdslb.com/bfs/archive/7fe9e88ea11ab0ac0c2f44f7f891a4000b7157d1.png",
+          "checked_at": "2026-11-06T04:58:01.684584+00:00"
         }
       ]
     },
@@ -34937,10 +35051,14 @@
     "BV1ju411379b": "rC4FCS-oMpg",
     "BV16qNf6SEfE": "sTu3LwpF6XI",
     "BV1VA411A7eC": "tF4DML7FIWk",
+    "BV1Sv411N7kz": "tF4DML7FIWk",
     "BV1VE411G7f1": "tfAnxaWiSeE",
     "BV1H7411w71j": "tvos4nORf_Y",
     "BV1b4411q743": "udlMSe5-zP8",
+    "BV1wV7s6pE26": "wO2lWmgEK1Y",
     "BV1QmNX6UEZE": "y5UT04p5f7U",
+    "BV1vstAehERr": "-C-JoyNuQJs",
+    "BV1v77E6sEtj": "-hxX_Q5CnaA",
     "BV1Lq4y187m1": "-t1_ffaFXao",
     "BV1jx4y147EJ": "069y1MpOkQY",
     "BV1eyAReGEGy": "160F8F8mXlo",
