@@ -1,75 +1,41 @@
 {
-  "baseline_commit": "6441a193e85a89e1d1b191e2fdd25b34134ea7ef",
+  "baseline_commit": "6bd29f4d1ba576716725951994989e5f184314b3",
   "phase_status": "stopped_after_request_error",
   "before": {
-    "corpus": 6454,
-    "processed": 2752,
-    "confirmed": 837,
-    "coverage": 0.12968701580415246,
-    "processed_match_rate": 0.30414244186046513
-  },
-  "after": {
     "corpus": 6454,
     "processed": 2757,
     "confirmed": 839,
     "coverage": 0.12999690114657578,
     "processed_match_rate": 0.30431628581791803
   },
-  "newly_processed": 5,
-  "newly_processed_confirmed": 2,
-  "newly_processed_match_rate": 0.4,
-  "added_originals": [
-    "7W33HRc1A6c",
-    "dk3oc1Hr62g"
-  ],
-  "withdrawn_originals": [],
-  "net_confirmed_change": 2,
-  "versions": 1150,
-  "added_versions": [
-    {
-      "id": "7W33HRc1A6c",
-      "bvid": "BV1f7411v75L",
-      "page": 1
-    },
-    {
-      "id": "IOiZatlZtGU",
-      "bvid": "BV1WN4y1B7jL",
-      "page": 1
-    },
-    {
-      "id": "dk3oc1Hr62g",
-      "bvid": "BV1Mb4y1U7Zz",
-      "page": 1
-    },
-    {
-      "id": "vtIzMaLkCaM",
-      "bvid": "BV1ZU4y1Z71k",
-      "page": 1
-    },
-    {
-      "id": "vtIzMaLkCaM",
-      "bvid": "BV1n4411n7Lm",
-      "page": 1
-    }
-  ],
-  "withdrawn_versions": [],
-  "net_versions_change": 5,
+  "after": {
+    "corpus": 6454,
+    "processed": 2759,
+    "confirmed": 839,
+    "coverage": 0.12999690114657578,
+    "processed_match_rate": 0.3040956868430591
+  },
+  "newly_processed": 2,
+  "newly_processed_confirmed": 0,
+  "added_originals": [],
+  "added_versions": [],
+  "net_confirmed_change": 0,
+  "net_versions_change": 0,
   "search_batches": [
     {
-      "id": "20261106T035104Z",
+      "id": "20261106T035616Z",
       "selected": 50,
-      "completed": 3,
+      "completed": 2,
       "errors": [
         {
-          "vid": "cVaTc15plVs",
+          "vid": "dX649lnKAU0",
           "reason": "URLError"
         }
       ],
       "stopped": false,
       "originals": [
-        "c52QhiXsmyI",
-        "cBDJDZAo41c",
-        "cQWlnTyOSig"
+        "dPK6t7echuA",
+        "dT9y-KQbqi4"
       ],
       "primary_first": true,
       "deferred_candidates": 0,
@@ -81,41 +47,42 @@
         "QVuU2YCwHjw",
         "SYeeTvitvFU",
         "bwDrHqNZ9lo",
+        "cVaTc15plVs",
         "cjuGCJJUGsg",
         "s9fByRmAHgU",
         "st571DYYTR8",
         "vs41JrnGaxc"
       ],
-      "attempted": 4,
-      "unattempted": 46,
+      "attempted": 3,
+      "unattempted": 47,
       "statuses": {
-        "review": 4
+        "review": 3
       },
-      "candidate_count": 149
+      "candidate_count": 118
     }
   ],
-  "completed_search_originals": 3,
-  "direct_search_attempts": 4,
+  "completed_search_originals": 2,
+  "direct_search_attempts": 3,
   "direct_search_errors": [
     {
-      "vid": "cVaTc15plVs",
+      "vid": "dX649lnKAU0",
       "reason": "URLError"
     }
   ],
-  "unattempted_after_error": 46,
+  "unattempted_after_error": 47,
   "source_verification_batches": [
     {
-      "id": "2026-11-06T03:50:33.116183+00:00",
-      "source": "serial-20261106T035008Z-leads-1.json",
-      "attempted": 5,
-      "completed": 5,
-      "confirmed": 5,
+      "id": "2026-11-06T03:55:51.352396+00:00",
+      "source": "serial-20261106T035527Z-leads-1.json",
+      "attempted": 1,
+      "completed": 1,
+      "confirmed": 0,
       "errors": [],
       "stopped": false
     }
   ],
-  "source_leads_completed": 5,
-  "source_confirmed_versions": 5,
+  "source_leads_completed": 1,
+  "source_confirmed_versions": 0,
   "blocked_originals": {
     "st571DYYTR8": "prior URLError; no retry or unavailable classification",
     "HQKy1KJpSVc": "prior URLError; no retry or unavailable classification",
@@ -128,55 +95,25 @@
     "NTJQTc-TqpU": "prior URLError; no retry or unavailable classification",
     "OL6-x0modwY": "prior URLError; no retry or unavailable classification",
     "bwDrHqNZ9lo": "prior URLError; no retry or unavailable classification",
-    "cVaTc15plVs": "URLError in current phase; failed search left unprocessed; do not classify unavailable"
+    "cVaTc15plVs": "prior URLError; no retry or unavailable classification",
+    "dX649lnKAU0": "URLError in current phase; failed search left unprocessed; do not classify unavailable"
   },
   "automatic_retry": false,
-  "remaining_unprocessed": 3697,
-  "remaining_review": 1930,
-  "metadata_title_review": {
-    "baseline_commit": "6441a193e85a89e1d1b191e2fdd25b34134ea7ef",
-    "review_status": "metadata_consistency_review_completed_for_snapshot",
-    "reviewed_at": "2026-11-06T03:52:35.273112+00:00",
-    "scope": "Read original, Bilibili and segment titles for 5 versions; no frame comparison."
-  },
+  "remaining_unprocessed": 3695,
+  "remaining_review": 1933,
+  "metadata_title_review": "not applicable; no public confirmations",
   "cached_new_version_audit": {
-    "checked": 5,
+    "checked": 0,
     "requests": 0,
     "segment_conflicts": [],
     "all_passed": true
   },
-  "browser_tests": {
-    "status": "pass",
-    "scenarios": [
-      "desktop rendering",
-      "mobile rendering/no horizontal overflow",
-      "real cover HTTP load",
-      "Chinese taxonomy",
-      "search/empty result",
-      "legacy BV deep link",
-      "legacy localStorage migration",
-      "like/unlike",
-      "watch later",
-      "history",
-      "version switch",
-      "escape closes and removes iframe",
-      "theme",
-      "short duration fixture",
-      "shared BV different pages fixture"
-    ],
-    "page_errors": []
-  },
-  "playback": {
-    "checked": 5,
-    "all_playing": true,
-    "all_durations_match": true,
-    "all_cids_observed": true,
-    "report": "playback-increment-6441a19.json"
-  },
-  "code_tests": "not rerun; code unchanged since tested commit 6441a19",
+  "browser_tests": "not rerun; public video data unchanged",
+  "playback": "not rerun; no added version",
+  "code_tests": "not rerun; code unchanged since tested commit 6bd29f4",
   "runtime": "Python 3.12.14 / OpenSSL 3.5.7",
   "baseline_hashes": {
-    "library": "ca2f0f66bb435fddee89b3da4ea8b56f2216df9fc930c58c3eb620c4c7d4d707",
-    "public": "69717dedf170a15a4f50874fd77d36d708f14d282d8eddfad9c6f92165e83d01"
+    "library": "29055bcf7706ea4f64d74264b2d369b5a447ed133cfd76529a482e62fa1f1e89",
+    "public": "6232c3e8ef02aabc5ad74c2f2407a28846cdc6cd71e153309e0a370769fb1f54"
   }
 }

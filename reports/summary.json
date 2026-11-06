@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-06T03:52:14.432517+00:00",
+  "updated_at": "2026-11-06T03:57:29.822944+00:00",
   "corpus": 6454,
-  "processed": 2757,
+  "processed": 2759,
   "confirmed": 839,
   "coverage": 0.12999690114657578,
-  "processed_match_rate": 0.30431628581791803,
+  "processed_match_rate": 0.3040956868430591,
   "statuses": {
     "confirmed": 839,
-    "review": 1930
+    "review": 1933
   },
-  "not_processed": 3697,
+  "not_processed": 3695,
   "verification_batch": {
-    "id": "2026-11-06T03:50:33.116183+00:00",
-    "source": "serial-20261106T035008Z-leads-1.json",
-    "attempted": 5,
-    "completed": 5,
-    "confirmed": 5,
+    "id": "2026-11-06T03:55:51.352396+00:00",
+    "source": "serial-20261106T035527Z-leads-1.json",
+    "attempted": 1,
+    "completed": 1,
+    "confirmed": 0,
     "errors": [],
     "stopped": false
   },
@@ -67,26 +67,29 @@
     {
       "vid": "cVaTc15plVs",
       "reason": "URLError"
+    },
+    {
+      "vid": "dX649lnKAU0",
+      "reason": "URLError"
     }
   ],
-  "candidates": 87438,
-  "review_expansion_pending": 171,
-  "expanded_reviews": 1759,
+  "candidates": 87556,
+  "review_expansion_pending": 172,
+  "expanded_reviews": 1761,
   "batch": {
-    "id": "20261106T035104Z",
+    "id": "20261106T035616Z",
     "selected": 50,
-    "completed": 3,
+    "completed": 2,
     "errors": [
       {
-        "vid": "cVaTc15plVs",
+        "vid": "dX649lnKAU0",
         "reason": "URLError"
       }
     ],
     "stopped": false,
     "originals": [
-      "c52QhiXsmyI",
-      "cBDJDZAo41c",
-      "cQWlnTyOSig"
+      "dPK6t7echuA",
+      "dT9y-KQbqi4"
     ],
     "primary_first": true,
     "deferred_candidates": 0,
@@ -98,34 +101,35 @@
       "QVuU2YCwHjw",
       "SYeeTvitvFU",
       "bwDrHqNZ9lo",
+      "cVaTc15plVs",
       "cjuGCJJUGsg",
       "s9fByRmAHgU",
       "st571DYYTR8",
       "vs41JrnGaxc"
     ],
-    "attempted": 4,
-    "unattempted": 46,
+    "attempted": 3,
+    "unattempted": 47,
     "statuses": {
-      "review": 4
+      "review": 3
     },
-    "candidate_count": 149
+    "candidate_count": 118
   },
   "candidate_statuses": {
-    "review": 86280,
+    "review": 86398,
     "confirmed": 1150,
     "unmatched": 7,
     "invalid": 1
   },
   "review_reasons": {
-    "duration outside tolerance": 77,
+    "duration outside tolerance": 78,
     "no explicit original URL; manual identity review required; conflicting years": 78,
-    "no explicit original URL; manual identity review required": 3865,
+    "no explicit original URL; manual identity review required": 3866,
     "collection segment identity requires review": 126,
-    "no explicit original URL; manual identity review required; collection segment identity requires review": 735,
-    "no explicit original URL; manual identity review required; duration outside tolerance; collection segment identity requires review": 7861,
-    "no explicit original URL; manual identity review required; duration outside tolerance": 11071,
+    "no explicit original URL; manual identity review required; collection segment identity requires review": 738,
+    "no explicit original URL; manual identity review required; duration outside tolerance; collection segment identity requires review": 7875,
+    "no explicit original URL; manual identity review required; duration outside tolerance": 11081,
     "duration outside tolerance; collection segment identity requires review": 20,
-    "search duration shorter than original beyond tolerance; detail review deferred": 56922,
+    "search duration shorter than original beyond tolerance; detail review deferred": 57007,
     "description links multiple originals": 14,
     "no explicit original URL; manual identity review required; conflicting episode": 8,
     "no explicit original URL; manual identity review required; conflicting years; duration outside tolerance": 292,
@@ -150,8 +154,8 @@
     "no explicit original URL; manual identity review required; derivative content requires review; duration outside tolerance": 15,
     "no explicit original URL; manual identity review required; derivative content requires review; collection segment identity requires review": 1,
     "no explicit original URL; manual identity review required; derivative content requires review; duration outside tolerance; collection segment identity requires review": 2,
-    "request failed; availability unknown": 10,
-    "": 73,
+    "request failed; availability unknown": 11,
+    "": 76,
     "no explicit original URL; manual identity review required; derivative content requires review": 16,
     "no explicit original URL; manual identity review required; possibly abridged; duration outside tolerance; description links multiple originals": 1,
     "conflicting Bilibili part title; manual identity review required": 1,
