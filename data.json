@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T06:57:33.411030+00:00",
+  "built_at": "2026-11-06T07:10:22.534241+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 3145,
-    "confirmed": 889,
-    "coverage": 0.13774403470715835,
-    "processed_match_rate": 0.282670906200318
+    "processed": 3169,
+    "confirmed": 892,
+    "coverage": 0.1382088627207933,
+    "processed_match_rate": 0.2814768065635847
   },
   "areas": [
     {
@@ -30870,6 +30870,18 @@
           "views": 776,
           "pic": "https://i1.hdslb.com/bfs/archive/e5ff1c01b4588e83161e0a48b8b0193c8d08d9ee.jpg",
           "checked_at": "2026-11-06T06:54:49.087185+00:00"
+        },
+        {
+          "bvid": "BV148WPeGEh9",
+          "page": 1,
+          "cid": 500001653499932,
+          "title": "What Is the RNA World Hypothesis_Stated Clearly",
+          "up": "BioBloom",
+          "duration": 429,
+          "kind": "original",
+          "views": 63,
+          "pic": "https://i0.hdslb.com/bfs/archive/30bc2aea7d3943205476a1783f192a85dba5db29.jpg",
+          "checked_at": "2026-11-06T07:00:33.453652+00:00"
         }
       ]
     },
@@ -30951,6 +30963,73 @@
           "views": 388,
           "pic": "https://i2.hdslb.com/bfs/archive/0a5f817dc9528dc1c207427e7eaba7dbf279e4de.jpg",
           "checked_at": "2026-11-05T01:46:37.464643+00:00"
+        }
+      ]
+    },
+    {
+      "id": "LtlrITxB5qg",
+      "title": "The IBM 1401 mainframe runs \"Edith\"",
+      "author": "CuriousMarc",
+      "source_url": "https://www.youtube.com/watch?v=LtlrITxB5qg",
+      "summary": "CuriousMarc runs the program 'Edith' on a 1959 IBM 1401 mainframe at the Computer History Museum. The program prints a famous line-printer image on the vintage machine. The video is part retro-computing demo and part joke.",
+      "why": "HN points to it as a fun, well-known example of line-printer art on early IBM hardware, and to the channel for vintage computing history.",
+      "score": 2.0,
+      "tags": [
+        "ibm 1401",
+        "line printer",
+        "mainframe",
+        "computer history",
+        "retrocomputing"
+      ],
+      "categories": [
+        "demoscene-retrocomputing",
+        "history-of-computing"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Lb411k76o",
+          "page": 1,
+          "cid": 74159365,
+          "title": "在IBM 1401大型机上运行\"Edith\"",
+          "up": "7gugu",
+          "duration": 669,
+          "kind": "original",
+          "views": 2512,
+          "pic": "https://i2.hdslb.com/bfs/archive/7bf8a8446ea615e997469829b05571fc1ff754e5.jpg",
+          "checked_at": "2026-11-06T07:08:07.268247+00:00"
+        }
+      ]
+    },
+    {
+      "id": "Lu56xVlZ40M",
+      "title": "OpenAI Plays Hide and Seek…and Breaks The Game! 🤖",
+      "author": "Two Minute Papers",
+      "source_url": "https://www.youtube.com/watch?v=Lu56xVlZ40M",
+      "summary": "Two Minute Papers covers OpenAI's multi-agent hide-and-seek experiment, in which agents learned emergent tool use and found ways to break the game's rules. It summarizes the 'Emergent Tool Use from Multi-Agent Interaction' paper.",
+      "why": "HN mentions it as a fun and slightly worrying example of AI systems behaving in unintended ways when optimizing.",
+      "score": 2.0,
+      "tags": [
+        "openai",
+        "hide and seek",
+        "emergent behavior",
+        "reinforcement learning",
+        "two minute papers"
+      ],
+      "categories": [
+        "machine-learning"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Az4y1C74y",
+          "page": 1,
+          "cid": 264074372,
+          "title": "OpenAI Plays Hide and Seek and Breaks The Game! 强化学习 捉迷藏 躲猫猫",
+          "up": "a196693",
+          "duration": 368,
+          "kind": "original",
+          "views": 870,
+          "pic": "https://i2.hdslb.com/bfs/archive/c3626aa79212280b252b4e2bbee9726442136c01.jpg",
+          "checked_at": "2026-11-06T07:08:24.623343+00:00"
         }
       ]
     },
@@ -34705,6 +34784,41 @@
       ]
     },
     {
+      "id": "RZtZia4ZkX8",
+      "title": "Evolved Virtual Creatures (1994)",
+      "author": "karlsims",
+      "source_url": "https://www.youtube.com/watch?v=RZtZia4ZkX8",
+      "summary": "A restored 1994 video of Karl Sims' research on evolved virtual creatures, where simulated block creatures are bred through artificial evolution to swim, walk, follow and compete. It is a landmark demonstration of genetic algorithms in physics simulation.",
+      "why": "HN brings it up as a classic example of evolutionary algorithms, including how the creatures exploited physics-simulation bugs, which parallels metric gaming in AI.",
+      "score": 0.0,
+      "tags": [
+        "karl sims",
+        "genetic algorithms",
+        "evolution",
+        "physics simulation",
+        "virtual creatures"
+      ],
+      "categories": [
+        "machine-learning",
+        "computer-graphics-rendering",
+        "evolution-genetics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV15ZGQ6BECR",
+          "page": 1,
+          "cid": 38662045972,
+          "title": "演化虚拟生物 Evolved Virtual Creatures (1994) Karl Sims",
+          "up": "Proj-Evol-Inst",
+          "duration": 249,
+          "kind": "original",
+          "views": 619,
+          "pic": "https://i1.hdslb.com/bfs/archive/e30deacdbdf2b9be5d9106b45b4ae76607086d3d.jpg",
+          "checked_at": "2026-11-06T07:00:35.588324+00:00"
+        }
+      ]
+    },
+    {
       "id": "TGfQu0bQTKc",
       "title": "Interview with Senior Rust Developer",
       "author": "Kai Lentit",
@@ -36292,9 +36406,12 @@
     "BV1ss411V7s9": "I6IQ_FOCE6I",
     "BV1fTM6zEERn": "IQJL3htsDyQ",
     "BV1uJ411A7gd": "K1xnYFCZ9Yg",
+    "BV148WPeGEh9": "K1xnYFCZ9Yg",
     "BV1wf4y1X75w": "KdfHVcU8U7U",
     "BV1Ex421S7kn": "LKiBlGDfRU8",
     "BV18C41157za": "LKiBlGDfRU8",
+    "BV1Lb411k76o": "LtlrITxB5qg",
+    "BV1Az4y1C74y": "Lu56xVlZ40M",
     "BV1Bm411B7Mp": "OTVE5iPMKLg",
     "BV1QaHXe7EMw": "OWJCfOvochA",
     "BV1L44y1W74L": "QjJaFG63Hlo",
@@ -36411,6 +36528,7 @@
     "BV15t411w7rX": "PF7EpEnglgk",
     "BV1SjxYehEhC": "PdFB7q89_3U",
     "BV1bcxg6CEGA": "RXeOiIDNNek",
+    "BV15ZGQ6BECR": "RZtZia4ZkX8",
     "BV1qm421K7bP": "TGfQu0bQTKc",
     "BV1Vq4y1H7Ro": "YIWV5fSaUB8",
     "BV1hv41117Th": "_K-L9uhsBLM",
