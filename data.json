@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T00:52:03.867321+00:00",
+  "built_at": "2026-11-06T01:22:10.611557+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 2312,
-    "confirmed": 768,
-    "coverage": 0.1189959714905485,
-    "processed_match_rate": 0.33217993079584773
+    "processed": 2392,
+    "confirmed": 780,
+    "coverage": 0.12085528354508832,
+    "processed_match_rate": 0.32608695652173914
   },
   "areas": [
     {
@@ -870,6 +870,18 @@
           "views": 20,
           "pic": "https://i0.hdslb.com/bfs/archive/e537b097506ef843ca81c6ea30270909a955f392.jpg",
           "checked_at": "2026-11-04T23:03:55.473876+00:00"
+        },
+        {
+          "bvid": "BV1mmno6FEqF",
+          "page": 1,
+          "cid": 43076748588,
+          "title": "向量到底是什么？3Blue1Brown 线性代数第一课",
+          "up": "njdkd",
+          "duration": 592,
+          "kind": "original",
+          "views": 4,
+          "pic": "https://i0.hdslb.com/bfs/archive/e8b0acdac4017fe17eeec989d98773187f203c96.jpg",
+          "checked_at": "2026-11-06T01:13:23.963709+00:00"
         }
       ]
     },
@@ -25008,6 +25020,30 @@
           "views": 5061,
           "pic": "https://i1.hdslb.com/bfs/archive/3fcd79bf1fde024fe1614fe42d985db9eeaf7ad8.png",
           "checked_at": "2026-11-06T00:50:02.126952+00:00"
+        },
+        {
+          "bvid": "BV1nH4y1E7VF",
+          "page": 1,
+          "cid": 1438891839,
+          "title": "Huygens Optics - How big is a visible photon",
+          "up": "123aser",
+          "duration": 1234,
+          "kind": "original",
+          "views": 41,
+          "pic": "https://i0.hdslb.com/bfs/archive/fc5fd4c6a39002892d1fe5acdbe34aed3e1952c9.jpg",
+          "checked_at": "2026-11-06T00:56:13.370713+00:00"
+        },
+        {
+          "bvid": "BV1kY411L7kU",
+          "page": 1,
+          "cid": 508842347,
+          "title": "How big is a visible photon",
+          "up": "GlobalInsight",
+          "duration": 1234,
+          "kind": "original",
+          "views": 21,
+          "pic": "https://i2.hdslb.com/bfs/archive/14ff87e7ad0ca8d8ba8eb41e3bceaca820b4726e.jpg",
+          "checked_at": "2026-11-06T00:56:14.685850+00:00"
         }
       ]
     },
@@ -25046,6 +25082,76 @@
       ]
     },
     {
+      "id": "XxCha4Kez9c",
+      "title": "How the US Postal Service reads terrible handwriting",
+      "author": "Tom Scott",
+      "source_url": "https://www.youtube.com/watch?v=XxCha4Kez9c",
+      "summary": "Tom Scott visits the USPS Remote Encoding Center in Salt Lake City, where keyers decipher mail images machines cannot read. It shows the lengths taken to decode bad handwriting.",
+      "why": "Recommended in address and OCR threads as a look at the last human mail-coding operation.",
+      "score": 3.0,
+      "tags": [
+        "usps",
+        "tom scott",
+        "ocr",
+        "mail sorting",
+        "handwriting"
+      ],
+      "categories": [
+        "computer-vision-speech",
+        "manufacturing-industry",
+        "documentaries-storytelling"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1uB4y167Mf",
+          "page": 1,
+          "cid": 798633581,
+          "title": "How the US Postal Service reads terrible handwriting",
+          "up": "noboodyy",
+          "duration": 473,
+          "kind": "original",
+          "views": 60,
+          "pic": "https://i1.hdslb.com/bfs/archive/94771e47a00d098b8a5dad95fa8124c4de4edabe.jpg",
+          "checked_at": "2026-11-06T01:07:47.889362+00:00"
+        }
+      ]
+    },
+    {
+      "id": "YAtLTLiqNwg",
+      "title": "Elon Musk Interview: 1-on-1 with Sandy Munro",
+      "author": "Munro Live",
+      "source_url": "https://www.youtube.com/watch?v=YAtLTLiqNwg",
+      "summary": "Sandy Munro interviews Elon Musk at Boca Chica about Tesla production, mega-castings, seats, structural battery packs and the difficulty of mass production.",
+      "why": "HN uses it as a primary source on Tesla manufacturing and engineering decisions and Musk's grasp of product detail.",
+      "score": 3.0,
+      "tags": [
+        "elon musk",
+        "sandy munro",
+        "gigacasting",
+        "mass production",
+        "tesla"
+      ],
+      "categories": [
+        "automotive-ev",
+        "manufacturing-industry",
+        "tech-figures-interviews"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1wV411i7Ji",
+          "page": 1,
+          "cid": 294718247,
+          "title": "Elon Musk Interview- 1-on-1 with Sandy Munro",
+          "up": "-antsuper-",
+          "duration": 2940,
+          "kind": "original",
+          "views": 1005,
+          "pic": "https://i0.hdslb.com/bfs/archive/b2ab5e00961c3081ebffd94148e877e53dd1d20a.jpg",
+          "checked_at": "2026-11-06T01:08:14.275244+00:00"
+        }
+      ]
+    },
+    {
       "id": "YMqgiXLjvRs",
       "title": "Y Combinator's Paul Graham sits down with Jason at LAUNCH Festival 2014",
       "author": "This Week in Startups",
@@ -25076,6 +25182,144 @@
           "views": 487,
           "pic": "https://i1.hdslb.com/bfs/archive/31f7c75aa8db870f9697e506fa81e7fe0e645e5c.jpg",
           "checked_at": "2026-11-04T23:03:57.591913+00:00"
+        }
+      ]
+    },
+    {
+      "id": "YdOXS_9_P4U",
+      "title": "Terence Tao on the cosmic distance ladder",
+      "author": "3Blue1Brown",
+      "source_url": "https://www.youtube.com/watch?v=YdOXS_9_P4U",
+      "summary": "Terence Tao and Grant Sanderson of 3Blue1Brown walk through the cosmic distance ladder, showing how humans measured distances from the Earth to the Moon, Sun, planets and beyond. It includes animations and the history behind each step.",
+      "why": "HN recommends it as an excellent explanation of how we know cosmic distances.",
+      "score": 3.0,
+      "tags": [
+        "astronomy",
+        "terence tao",
+        "3blue1brown",
+        "distance measurement",
+        "history of science"
+      ],
+      "categories": [
+        "cosmology-astrophysics",
+        "recreational-math"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1L5UDBdEsh",
+          "page": 1,
+          "cid": 34248000839,
+          "title": "Terence Tao on the cosmic distance ladder [3Blue1Brown - Videos]",
+          "up": "vector090_",
+          "duration": 1713,
+          "kind": "original",
+          "views": 42,
+          "pic": "https://i1.hdslb.com/bfs/archive/a2a3b59d815b96d973dbc669e840eba77bd146d5.jpg",
+          "checked_at": "2026-11-06T01:08:42.081603+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ZOzZ8R4gphE",
+      "title": "Let's port Diablo to SerenityOS!",
+      "author": "Andreas Kling",
+      "source_url": "https://www.youtube.com/watch?v=ZOzZ8R4gphE",
+      "summary": "Andreas Kling ports the game Diablo to SerenityOS, his from-scratch Unix-like operating system, using the devilutionX project. The roughly 80-minute session shows what porting third-party software to the OS involves.",
+      "why": "HN commenters recommend it as a demonstration of SerenityOS's hackability and fast iteration across all layers of the system.",
+      "score": 3.0,
+      "tags": [
+        "serenityos",
+        "andreas kling",
+        "porting",
+        "c++",
+        "diablo",
+        "os hacking"
+      ],
+      "categories": [
+        "operating-systems",
+        "software-practice-careers",
+        "systems-programming-languages"
+      ],
+      "versions": [
+        {
+          "bvid": "BV16Q7FzbEmc",
+          "page": 1,
+          "cid": 30241394144,
+          "title": "Let's port Diablo to SerenityOS!",
+          "up": "yosokim",
+          "duration": 4779,
+          "kind": "original",
+          "views": 12,
+          "pic": "https://i0.hdslb.com/bfs/archive/86ea350e2c248d2b8defb19b28d070b52efebe1b.jpg",
+          "checked_at": "2026-11-06T01:11:33.631023+00:00"
+        }
+      ]
+    },
+    {
+      "id": "_9B__0S21y8",
+      "title": "\"Tackling Concurrency Bugs with TLA+\" by Hillel Wayne",
+      "author": "Strange Loop Conference",
+      "source_url": "https://www.youtube.com/watch?v=_9B__0S21y8",
+      "summary": "Hillel Wayne's Strange Loop talk introducing TLA+ as a specification language for finding concurrency bugs in designs. It covers stalling, race conditions and dropped messages, with PlusCal examples.",
+      "why": "Recommended as a concise, high-level intro to what TLA+ is and when it helps.",
+      "score": 3.0,
+      "tags": [
+        "tla+",
+        "concurrency",
+        "pluscal",
+        "formal methods",
+        "hillel wayne"
+      ],
+      "categories": [
+        "logic-formal-methods",
+        "distributed-systems"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Gf4y1f7Pi",
+          "page": 1,
+          "cid": 751360698,
+          "title": "Tackling Concurrency Bugs with TLA+ by Hillel Wayne| 解决Hillel Wayne的TLA的并发错误",
+          "up": "安常投资",
+          "duration": 1806,
+          "kind": "original",
+          "views": 8,
+          "pic": "https://i0.hdslb.com/bfs/archive/60ad386a86c6c24969de993adc4b7055ee462365.jpg",
+          "checked_at": "2026-11-06T01:14:52.265472+00:00"
+        }
+      ]
+    },
+    {
+      "id": "_fQtxKmgJC8",
+      "title": "The Story of Tetris",
+      "author": "Gaming Historian",
+      "source_url": "https://www.youtube.com/watch?v=_fQtxKmgJC8",
+      "summary": "Gaming Historian recounts how Alexey Pajitnov created Tetris in the Soviet Union and how a fight over publishing rights spanned the West, Mirrorsoft, Nintendo and the Cold War. It runs about an hour with chaptered parts.",
+      "why": "HN recommends it as an excellent documentary on Tetris and its tangled licensing history.",
+      "score": 3.0,
+      "tags": [
+        "tetris",
+        "video game history",
+        "licensing",
+        "soviet union",
+        "nintendo"
+      ],
+      "categories": [
+        "game-history-retro",
+        "tech-company-stories"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1CW411j73x",
+          "page": 1,
+          "cid": 38068707,
+          "title": "【游戏史学家】《俄罗斯方块》的故事 The Story of Tetris | Gaming Historian",
+          "up": "卡姐Cara",
+          "duration": 3571,
+          "kind": "original",
+          "views": 53001,
+          "pic": "https://i0.hdslb.com/bfs/archive/36e911eb35c2491099732e187c62a989d083456f.png",
+          "checked_at": "2026-11-06T01:15:16.043200+00:00"
         }
       ]
     },
@@ -25114,6 +25358,74 @@
       ]
     },
     {
+      "id": "aXflBZXAucQ",
+      "title": "Why We Sleep: Science of Sleep & Dreams | Matthew Walker | Talks at Google",
+      "author": "Talks at Google",
+      "source_url": "https://www.youtube.com/watch?v=aXflBZXAucQ",
+      "summary": "Berkeley sleep scientist Matthew Walker presents the science of sleep and dreams and how sleep affects health and lifespan, based on his book Why We Sleep.",
+      "why": "HN suggests it as an easy alternative to the book for people who want Walker's sleep findings.",
+      "score": 3.0,
+      "tags": [
+        "sleep",
+        "matthew walker",
+        "dreams",
+        "health",
+        "sleep deprivation"
+      ],
+      "categories": [
+        "fitness-sleep-longevity",
+        "neuroscience-brain"
+      ],
+      "versions": [
+        {
+          "bvid": "BV15f4y1A7t5",
+          "page": 1,
+          "cid": 404582925,
+          "title": "Why We Sleep- Science of Sleep & Dreams | Matthew Walker | Talks at Google",
+          "up": "粥的吃",
+          "duration": 3292,
+          "kind": "original",
+          "views": 1180,
+          "pic": "https://i0.hdslb.com/bfs/archive/7b4dea1433651b9b901881be33f93cc3aa58ce0c.jpg",
+          "checked_at": "2026-11-06T01:17:36.601514+00:00"
+        }
+      ]
+    },
+    {
+      "id": "b9FC9fAlfQE",
+      "title": "EEVblog #186 - Soldering Tutorial Part 3 - Surface Mount",
+      "author": "EEVblog",
+      "source_url": "https://www.youtube.com/watch?v=b9FC9fAlfQE",
+      "summary": "Dave Jones of EEVblog shows hand soldering of surface-mount parts, including drag soldering and tack-and-reflow of 0.5mm fine-pitch ICs, with solder paste and hot air.",
+      "why": "Recommended as a good introduction to SMD soldering techniques for beginners.",
+      "score": 3.0,
+      "tags": [
+        "soldering",
+        "surface mount",
+        "drag soldering",
+        "hot air",
+        "electronics"
+      ],
+      "categories": [
+        "repair-teardown",
+        "electronics-circuits"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Hx41127DG",
+          "page": 1,
+          "cid": 17235850,
+          "title": "EEVblog #186 - Soldering Tutorial Part 3 - Surface Mount",
+          "up": "剪蘑菇的小姑娘",
+          "duration": 2396,
+          "kind": "original",
+          "views": 321,
+          "pic": "https://i1.hdslb.com/bfs/archive/9aba3e62c83d734997a7bf34eaa5de046afea7e4.jpg",
+          "checked_at": "2026-11-06T01:18:35.294158+00:00"
+        }
+      ]
+    },
+    {
       "id": "boPEO2auJj4",
       "title": "CppCon 2015: Timur Doumler “C++ in the Audio Industry”",
       "author": "CppCon",
@@ -25144,6 +25456,39 @@
           "views": 138,
           "pic": "https://i1.hdslb.com/bfs/archive/043d39b78a9e8fec4845eb8de726d72e807c9208.jpg",
           "checked_at": "2026-11-04T23:03:56.834461+00:00"
+        }
+      ]
+    },
+    {
+      "id": "bvim4rsNHkQ",
+      "title": "How Not to Land an Orbital Rocket Booster",
+      "author": "SpaceX",
+      "source_url": "https://www.youtube.com/watch?v=bvim4rsNHkQ",
+      "summary": "SpaceX's own compilation of failed orbital booster landing attempts, set to sound, showing the crashes before landings succeeded.",
+      "why": "HN uses it as evidence that SpaceX iterated through visible failures and is open and humorous about them.",
+      "score": 3.0,
+      "tags": [
+        "spacex",
+        "falcon 9",
+        "booster landing",
+        "iteration",
+        "failure montage"
+      ],
+      "categories": [
+        "space-exploration"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1px411s7SG",
+          "page": 1,
+          "cid": 23607954,
+          "title": "火箭回收是如何失败的 How Not to Land an Orbital Rocket Booster",
+          "up": "智繁星",
+          "duration": 129,
+          "kind": "original",
+          "views": 485,
+          "pic": "https://i1.hdslb.com/bfs/archive/aac9eae642c19d8ce8eb48167c995c97a24aee6a.jpg",
+          "checked_at": "2026-11-06T01:19:28.440152+00:00"
         }
       ]
     },
@@ -26737,6 +27082,41 @@
           "views": 28,
           "pic": "https://i1.hdslb.com/bfs/archive/14f49bb0b808451a050996920956b8993e9a58ae.jpg",
           "checked_at": "2026-11-04T23:03:55.467204+00:00"
+        }
+      ]
+    },
+    {
+      "id": "FquNpWdf9vg",
+      "title": "The Computer Chronicles - Hypercard (1987)",
+      "author": "The Computer Chronicles",
+      "source_url": "https://www.youtube.com/watch?v=FquNpWdf9vg",
+      "summary": "A 1987 episode of The Computer Chronicles on Apple's HyperCard, showing users building their own applications. Gary Kildall appears and Bill Atkinson discusses the program, with credit given to earlier influences.",
+      "why": "HN points to it as a period view of HyperCard and a source for its history and influences.",
+      "score": 2.0,
+      "tags": [
+        "hypercard",
+        "bill atkinson",
+        "gary kildall",
+        "apple",
+        "computer history"
+      ],
+      "categories": [
+        "gui-hci-history",
+        "history-of-computing",
+        "tech-company-stories"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1sa4y1t7SX",
+          "page": 1,
+          "cid": 172556685,
+          "title": "[计算机编年史] Hypercard (1987)/[The Computer Chronicles] Hypercard (1987)",
+          "up": "拖泥老师有空吗",
+          "duration": 1612,
+          "kind": "original",
+          "views": 345,
+          "pic": "https://i0.hdslb.com/bfs/archive/9cb34f4bb1b78dba7e6cfbe50118524197beb1ad.jpg",
+          "checked_at": "2026-11-06T01:13:22.728697+00:00"
         }
       ]
     },
@@ -28515,6 +28895,41 @@
       ]
     },
     {
+      "id": "RcVA8Nj6HEo",
+      "title": "What is PLUS times PLUS?",
+      "author": "2swap",
+      "source_url": "https://www.youtube.com/watch?v=RcVA8Nj6HEo",
+      "summary": "2swap explores lambda calculus using John Tromp's lambda diagrams, with animated beta-reductions, asking what PLUS times PLUS gives. It touches on Church encodings and the equivalence of Turing machines and lambda calculus.",
+      "why": "Mentioned in lambda calculus and combinator threads as a visual entry point to the topic.",
+      "score": 1.0,
+      "tags": [
+        "lambda diagrams",
+        "beta reduction",
+        "combinators",
+        "church encoding",
+        "visualization"
+      ],
+      "categories": [
+        "computational-theory",
+        "recreational-math",
+        "functional-programming"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ME15BiEAo",
+          "page": 1,
+          "cid": 33588511697,
+          "title": "【中配】正正得正 - 2swap",
+          "up": "AI译片君",
+          "duration": 1709,
+          "kind": "dub_zh",
+          "views": 1598,
+          "pic": "https://i0.hdslb.com/bfs/archive/3eca60c1be1e42256c8ea67de4bd1f46350df6b5.png",
+          "checked_at": "2026-11-06T01:13:20.873585+00:00"
+        }
+      ]
+    },
+    {
       "id": "TnzcwTyr6cE",
       "title": "Genetic Engineering and Diseases – Gene Drive & Malaria",
       "author": "Kurzgesagt – In a Nutshell",
@@ -29949,6 +30364,41 @@
       ]
     },
     {
+      "id": "DxREm3s1scA",
+      "title": "Elon Musk: SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI | Lex Fridman Podcast #252",
+      "author": "Lex Fridman",
+      "source_url": "https://www.youtube.com/watch?v=DxREm3s1scA",
+      "summary": "Lex Fridman's long conversation with Elon Musk covering SpaceX, Mars, Tesla Autopilot and self-driving, robotics and AI.",
+      "why": "Mostly cited as a primary source for Musk's statements on self-driving and other topics, often with skepticism about his depth.",
+      "score": 0.0,
+      "tags": [
+        "elon musk",
+        "tesla autopilot",
+        "spacex",
+        "self-driving",
+        "lex fridman"
+      ],
+      "categories": [
+        "tech-figures-interviews",
+        "space-exploration",
+        "self-driving-cars"
+      ],
+      "versions": [
+        {
+          "bvid": "BV15WHf67Ebf",
+          "page": 1,
+          "cid": 42498393640,
+          "title": "【转载】Elon Musk | Lex Fridman Podcast # 252",
+          "up": "Nesai猫猫草",
+          "duration": 9108,
+          "kind": "original",
+          "views": 82,
+          "pic": "https://i1.hdslb.com/bfs/archive/b44b4c63374dc3e2e07614efd43ae76957a95237.jpg",
+          "checked_at": "2026-11-06T01:13:27.357722+00:00"
+        }
+      ]
+    },
+    {
       "id": "EIyixC9NsLI",
       "title": "Badgers : animated music video : MrWeebl",
       "author": "Weebl's Stuff",
@@ -30684,6 +31134,7 @@
   "legacy": {
     "BV1Ys411k7yQ": "fNk_zzaMoSs",
     "BV1XcUSB1EXT": "fNk_zzaMoSs",
+    "BV1mmno6FEqF": "fNk_zzaMoSs",
     "BV1EvPjzME7B": "Unzc731iCUY",
     "BV1CbpC6QEnt": "Unzc731iCUY",
     "BV1R9hd6aEWi": "Unzc731iCUY",
@@ -31558,10 +32009,21 @@
     "BV1KqHszDECz": "PaCmpygFfXo",
     "BV1hW411B7ui": "QMiubC6LdTA",
     "BV1xn1GB4EjC": "SDtAh9IwG-I",
+    "BV1nH4y1E7VF": "SDtAh9IwG-I",
+    "BV1kY411L7kU": "SDtAh9IwG-I",
     "BV19t411q7Pa": "SzA2YODtgK4",
+    "BV1uB4y167Mf": "XxCha4Kez9c",
+    "BV1wV411i7Ji": "YAtLTLiqNwg",
     "BV1Ws411e73w": "YMqgiXLjvRs",
+    "BV1L5UDBdEsh": "YdOXS_9_P4U",
+    "BV16Q7FzbEmc": "ZOzZ8R4gphE",
+    "BV1Gf4y1f7Pi": "_9B__0S21y8",
+    "BV1CW411j73x": "_fQtxKmgJC8",
     "BV183411x7g5": "aICaAEXDJQQ",
+    "BV15f4y1A7t5": "aXflBZXAucQ",
+    "BV1Hx41127DG": "b9FC9fAlfQE",
     "BV1BJ411N72S": "boPEO2auJj4",
+    "BV1px411s7SG": "bvim4rsNHkQ",
     "BV1gE411j7bC": "egEraZP9yXQ",
     "BV1ZdF1zrEr6": "fD-R35DSSZY",
     "BV1c8411Y765": "lXfEK8G8CUI",
@@ -31605,6 +32067,7 @@
     "BV1QW411G74H": "AUaJ8pDlxi8",
     "BV1sF411w7AH": "AcS3NOQnsQM",
     "BV12u4y1t7Lx": "Eg_ToU7m1MI",
+    "BV1sa4y1t7SX": "FquNpWdf9vg",
     "BV1Ex421S7kn": "LKiBlGDfRU8",
     "BV18C41157za": "LKiBlGDfRU8",
     "BV1Bm411B7Mp": "OTVE5iPMKLg",
@@ -31661,6 +32124,7 @@
     "BV1J6dvBME8Y": "LCEmiRjPEtQ",
     "BV1Jv411A79R": "NiTsduRreug",
     "BV1Z54y1v753": "O9upVbGSBFo",
+    "BV1ME15BiEAo": "RcVA8Nj6HEo",
     "BV1vs411t7ga": "TnzcwTyr6cE",
     "BV1Uf4y127Nb": "U5kIdtMJGc8",
     "BV1yuHCeGEjb": "UBVV8pch1dM",
@@ -31704,6 +32168,7 @@
     "BV11w2bBqE7m": "C2vgICfQawE",
     "BV183411k7eb": "C2vgICfQawE",
     "BV1uc411H7aT": "C_78DM8fG6E",
+    "BV15WHf67Ebf": "DxREm3s1scA",
     "BV1CwEi6pErc": "EIyixC9NsLI",
     "BV1Eq4y1w7u5": "HKTSaezB4p8",
     "BV16CXhYbEhR": "IACHfKmZMr8",
