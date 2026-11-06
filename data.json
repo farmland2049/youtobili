@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T20:56:05.704161+00:00",
+  "built_at": "2026-11-06T21:06:38.124689+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 4316,
-    "confirmed": 991,
-    "coverage": 0.15354818717074684,
-    "processed_match_rate": 0.22961075069508805
+    "processed": 4326,
+    "confirmed": 992,
+    "coverage": 0.15370312984195847,
+    "processed_match_rate": 0.22931114193250116
   },
   "areas": [
     {
@@ -36621,6 +36621,18 @@
           "views": 904,
           "pic": "https://i2.hdslb.com/bfs/archive/7f2a6e25dc6dec097f7503e024169760c966f4d3.jpg",
           "checked_at": "2026-11-06T20:51:51.334460+00:00"
+        },
+        {
+          "bvid": "BV1aWGdztEEz",
+          "page": 1,
+          "cid": 29772416319,
+          "title": "Scott Aaronson  How Much Math Is Knowable",
+          "up": "哈罗DE",
+          "duration": 4003,
+          "kind": "original",
+          "views": 8,
+          "pic": "https://i2.hdslb.com/bfs/archive/bc08d3d3c6cc4286f4be5c52464bf5860ee0329b.jpg",
+          "checked_at": "2026-11-06T20:58:48.852565+00:00"
         }
       ]
     },
@@ -36977,6 +36989,18 @@
           "views": 1233,
           "pic": "https://i1.hdslb.com/bfs/archive/934328028c835e2ebdde8d826442e6ef08e95bda.jpg",
           "checked_at": "2026-11-05T23:29:19.516489+00:00"
+        },
+        {
+          "bvid": "BV1EeMCztE4J",
+          "page": 1,
+          "cid": 30486364602,
+          "title": "Glitterbomb 3.0 vs. Porch Pirates [Mark Rober]",
+          "up": "vector090_",
+          "duration": 1331,
+          "kind": "original",
+          "views": 58,
+          "pic": "https://i2.hdslb.com/bfs/archive/693ac89a28f3bbcb8bb97427c8f9f4117cc73fd1.jpg",
+          "checked_at": "2026-11-06T20:58:38.684045+00:00"
         }
       ]
     },
@@ -38834,6 +38858,40 @@
       ]
     },
     {
+      "id": "iWeu2dxHRDg",
+      "title": "Car Thieves vs the Almost Final GlitterBomb 5.0",
+      "author": "Mark Rober",
+      "source_url": "https://www.youtube.com/watch?v=iWeu2dxHRDg",
+      "summary": "Mark Rober's holiday video features the near-final version of his glitter bomb package, built to deter thieves. It is part of his series of elaborate revenge traps against porch pirates and car thieves.",
+      "why": "Commenters link the glitter bomb series whenever package theft comes up.",
+      "score": 0.0,
+      "tags": [
+        "mark rober",
+        "glitter bomb",
+        "package theft",
+        "engineering"
+      ],
+      "categories": [
+        "engineering-making-other",
+        "3d-printing-cnc",
+        "automotive-ev"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1MDMzzcEkb",
+          "page": 1,
+          "cid": 30482958446,
+          "title": "Car Thieves vs the Almost Final GlitterBomb 5.0 [Mark Rober]",
+          "up": "vector090_",
+          "duration": 1101,
+          "kind": "original",
+          "views": 49,
+          "pic": "https://i2.hdslb.com/bfs/archive/59a01ebfe76158c180fbea5a0f975e308eee37e1.jpg",
+          "checked_at": "2026-11-06T20:58:45.363570+00:00"
+        }
+      ]
+    },
+    {
       "id": "lXUZvyajciY",
       "title": "Andrej Karpathy — “We’re summoning ghosts, not building animals”",
       "author": "Dwarkesh Patel",
@@ -40366,6 +40424,7 @@
     "BV1xK411A71s": "VkR2hnXR0SM",
     "BV1354y1y7Kw": "VoS7DsT1rdM",
     "BV1nk5RzVEwA": "VplMHWSZf5c",
+    "BV1aWGdztEEz": "VplMHWSZf5c",
     "BV1Fx4y1h76V": "Vt4Dfa4fOEY",
     "BV1EvR5YmEp5": "ZI198eFghJk",
     "BV1bM4y1b7C5": "_2NI6t2r_Hs",
@@ -40379,6 +40438,7 @@
     "BV17pmjBbEfQ": "h4T_LlK1VE4",
     "BV1kZ4y1g7MC": "h4T_LlK1VE4",
     "BV1Tz4y1r763": "h4T_LlK1VE4",
+    "BV1EeMCztE4J": "h4T_LlK1VE4",
     "BV1feMt6wEvk": "hBMoPUAeLnY",
     "BV1jW411q7xd": "hWTFG3J1CP8",
     "BV1ZW411Y79M": "hWTFG3J1CP8",
@@ -40436,6 +40496,7 @@
     "BV1kh411o7eS": "iGLzWdT7vGc",
     "BV1gb411V7v1": "iGLzWdT7vGc",
     "BV1ot4y127mw": "iKcWu0tsiZM",
+    "BV1MDMzzcEkb": "iWeu2dxHRDg",
     "BV1JVWtzDEPJ": "lXUZvyajciY",
     "BV1Xz411B7qQ": "ntIczNQKfjQ",
     "BV1dx41187sz": "o8NPllzkFhE",

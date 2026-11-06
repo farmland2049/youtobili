@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-11-06T21:07:16.272Z",
+  "checks": [
+    {
+      "sample": "h4T_LlK1VE4",
+      "kind": "original",
+      "id": "h4T_LlK1VE4",
+      "bvid": "BV1EeMCztE4J",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.325647,
+        "duration": 1331,
+        "paused": false
+      },
+      "expected_duration": 1331,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "30486364602"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Glitterbomb 3.0 vs. Porch Pirates [Mark Rober]\nvector090_\n关注\n0\n0\n分享\n更多\n00:05 / 22:11\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "VplMHWSZf5c",
+      "kind": "original",
+      "id": "VplMHWSZf5c",
+      "bvid": "BV1aWGdztEEz",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.250002,
+        "duration": 4003,
+        "paused": false
+      },
+      "expected_duration": 4003,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "29772416319"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Scott Aaronson How Much Math Is Knowable\n哈罗DE\n关注\n0\n0\n分享\n更多\n0:00:05 / 1:06:43\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "iWeu2dxHRDg",
+      "kind": "original",
+      "id": "iWeu2dxHRDg",
+      "bvid": "BV1MDMzzcEkb",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.325408,
+        "duration": 1101,
+        "paused": false
+      },
+      "expected_duration": 1101,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "30482958446"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Car Thieves vs the Almost Final GlitterBomb 5.0 [Mark Rober]\nvector090_\n关注\n0\n0\n分享\n更多\n00:05 / 18:21\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}
