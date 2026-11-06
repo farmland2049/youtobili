@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T21:30:48.012383+00:00",
+  "updated_at": "2026-11-06T22:06:16.227408+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -59004,6 +59004,30 @@
           "pic": "https://i0.hdslb.com/bfs/archive/0f570b16065113ef18b9ee2bd7ac0f61879432ed.jpg",
           "checked_at": "2026-11-06T21:23:35.780676+00:00",
           "availability": "available"
+        },
+        {
+          "bvid": "BV1be411x7t3",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description",
+            "exact original YouTube ID explicitly associated with selected segment"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "混合现实 mixed-reality 超现实 HYPER-REALITY",
+          "up": "旧世界的余晖",
+          "duration": 376,
+          "original_duration": 376,
+          "cid": 171303334,
+          "aid": 242548938,
+          "segment_title": "HYPER-REALITY [YJg02ivYzSs]",
+          "page_count": 1,
+          "kind": "original",
+          "views": 5032,
+          "pic": "https://i2.hdslb.com/bfs/archive/192d1231d064fc5cb91d6f16b17a21734ae3d8f0.png",
+          "checked_at": "2026-11-06T21:33:09.147880+00:00",
+          "availability": "available"
         }
       ]
     },
@@ -59101,6 +59125,543 @@
       "vid": "Z2ZXW2HBLPM",
       "status": "review",
       "completed_at": null,
+      "candidates": []
+    },
+    "ZH2wGpEZVgE": {
+      "vid": "ZH2wGpEZVgE",
+      "status": "review",
+      "completed_at": "2026-11-06T21:34:54.422297+00:00",
+      "candidates": []
+    },
+    "ZJUyVVFOXOc": {
+      "vid": "ZJUyVVFOXOc",
+      "status": "review",
+      "completed_at": "2026-11-06T21:35:23.031697+00:00",
+      "candidates": []
+    },
+    "ZN4njIQcSR4": {
+      "vid": "ZN4njIQcSR4",
+      "status": "review",
+      "completed_at": "2026-11-06T21:35:52.520055+00:00",
+      "candidates": []
+    },
+    "ZPbyDSvGasw": {
+      "vid": "ZPbyDSvGasw",
+      "status": "review",
+      "completed_at": "2026-11-06T21:36:31.013844+00:00",
+      "candidates": []
+    },
+    "ZR0ujwlvbkQ": {
+      "vid": "ZR0ujwlvbkQ",
+      "status": "review",
+      "completed_at": "2026-11-06T21:37:37.205741+00:00",
+      "candidates": []
+    },
+    "ZRkm6-bBk4U": {
+      "vid": "ZRkm6-bBk4U",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T21:37:48.441072+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1n3411H7DF",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Munro Live：特斯拉、大众、福特电动车构架比较",
+          "up": "EV剪集",
+          "duration": 2485,
+          "original_duration": 2504,
+          "cid": 563720753,
+          "aid": 425349945,
+          "segment_title": "20220331_161924",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1917,
+          "pic": "https://i1.hdslb.com/bfs/archive/e39a7fa4ea5c21201d950733ee7392ee10ca5728.jpg",
+          "checked_at": "2026-11-06T21:37:47.295210+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "ZTidn2dBYbY": {
+      "vid": "ZTidn2dBYbY",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T21:37:59.762872+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Jy4y1y7CK",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【蒸汽波】David Hasselhoff - True Survivor",
+          "up": "bili_30849250426",
+          "duration": 244,
+          "original_duration": 244,
+          "cid": 234437502,
+          "aid": 797028389,
+          "segment_title": "David Hasselhoff - True Survivor(1)",
+          "page_count": 1,
+          "kind": "original",
+          "views": 2587,
+          "pic": "https://i0.hdslb.com/bfs/archive/426b94b6b614194817002ae0683b079f515a8cde.jpg",
+          "checked_at": "2026-11-06T21:37:58.629306+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1Ki4y1p7z7",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "David Hasselhoff - True Survivor (from \"Kung Fury\") [Official Video]",
+          "up": "KRY哦",
+          "duration": 244,
+          "original_duration": 244,
+          "cid": 1421956924,
+          "aid": 539307870,
+          "segment_title": "David Hasselhoff - True Survivor (from \"Kung Fury\") [Official Video]",
+          "page_count": 1,
+          "kind": "original",
+          "views": 293,
+          "pic": "https://i2.hdslb.com/bfs/archive/1c7fc8f529497b49ee80bf3a6fbda5769e486ea9.jpg",
+          "checked_at": "2026-11-06T22:04:49.038885+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "ZYD9yyMh9Hk": {
+      "vid": "ZYD9yyMh9Hk",
+      "status": "review",
+      "completed_at": "2026-11-06T21:38:20.199453+00:00",
+      "candidates": []
+    },
+    "ZYqG31V4qtA": {
+      "vid": "ZYqG31V4qtA",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T21:38:34.599689+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1z64y1M7m7",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【4900hs暴打一切，AMD，GOD】AMD's most important product ever - Ryzen 9 4900HS",
+          "up": "熬夜兰那罗",
+          "duration": 702,
+          "original_duration": 702,
+          "cid": 172493571,
+          "aid": 582501182,
+          "segment_title": "AMD's most important product ever - Ryzen 9 4900HS [720p]_bilibili",
+          "page_count": 1,
+          "kind": "original",
+          "views": 2593,
+          "pic": "https://i0.hdslb.com/bfs/archive/ac6703f06725b51317d547634a6e2a59062fffc2.png",
+          "checked_at": "2026-11-06T21:38:33.347591+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1754y1d7PB",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "AMD's most important product ever - Ryzen 9 4900HS",
+          "up": "明说塑料",
+          "duration": 702,
+          "original_duration": 702,
+          "cid": 173079676,
+          "aid": 840086522,
+          "segment_title": "video1585827124",
+          "page_count": 1,
+          "kind": "original",
+          "views": 213,
+          "pic": "https://i1.hdslb.com/bfs/archive/864f5d138b0f01c2b1924edba97ffe4a6cf23529.jpg",
+          "checked_at": "2026-11-06T22:04:47.650280+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "ZZ3F3zWiEmc": {
+      "vid": "ZZ3F3zWiEmc",
+      "status": "review",
+      "completed_at": "2026-11-06T21:38:55.198902+00:00",
+      "candidates": []
+    },
+    "Za45bT41sXg": {
+      "vid": "Za45bT41sXg",
+      "status": "review",
+      "completed_at": "2026-11-06T21:39:14.494390+00:00",
+      "candidates": []
+    },
+    "ZvmMzI0X7fE": {
+      "vid": "ZvmMzI0X7fE",
+      "status": "review",
+      "completed_at": "2026-11-06T21:39:35.192304+00:00",
+      "candidates": []
+    },
+    "ZzsK8Am6dKU": {
+      "vid": "ZzsK8Am6dKU",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T21:39:47.799926+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1tA41127m5",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Parsing with Derivatives",
+          "up": "dailyrain",
+          "duration": 4390,
+          "original_duration": 4390,
+          "cid": 1016348628,
+          "aid": 309643941,
+          "segment_title": "Parsing with Derivatives",
+          "page_count": 1,
+          "kind": "original",
+          "views": 17,
+          "pic": "https://i1.hdslb.com/bfs/archive/8b1b6938ddc34c62e1a9c1e785a08ef4cc4d86d2.jpg",
+          "checked_at": "2026-11-06T21:39:46.697937+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "_-agl0pOQfs": {
+      "vid": "_-agl0pOQfs",
+      "status": "review",
+      "completed_at": "2026-11-06T21:40:48.948116+00:00",
+      "candidates": []
+    },
+    "_6sh097Dk5k": {
+      "vid": "_6sh097Dk5k",
+      "status": "review",
+      "completed_at": "2026-11-06T21:41:23.233331+00:00",
+      "candidates": []
+    },
+    "_9LX9HSQkWo": {
+      "vid": "_9LX9HSQkWo",
+      "status": "review",
+      "completed_at": "2026-11-06T21:41:34.956480+00:00",
+      "candidates": []
+    },
+    "_ByEBjf9ktY": {
+      "vid": "_ByEBjf9ktY",
+      "status": "review",
+      "completed_at": "2026-11-06T21:41:51.435765+00:00",
+      "candidates": []
+    },
+    "_DrsVhzbLzU": {
+      "vid": "_DrsVhzbLzU",
+      "status": "review",
+      "completed_at": "2026-11-06T21:43:20.116947+00:00",
+      "candidates": []
+    },
+    "_gZK0tW8EhQ": {
+      "vid": "_gZK0tW8EhQ",
+      "status": "review",
+      "completed_at": "2026-11-06T21:43:31.089087+00:00",
+      "candidates": []
+    },
+    "_mP9OmOFxc4": {
+      "vid": "_mP9OmOFxc4",
+      "status": "review",
+      "completed_at": "2026-11-06T21:44:26.728602+00:00",
+      "candidates": []
+    },
+    "_njf8jwEGRo": {
+      "vid": "_njf8jwEGRo",
+      "status": "review",
+      "completed_at": "2026-11-06T21:44:47.199112+00:00",
+      "candidates": []
+    },
+    "_ve4M4UsJQo": {
+      "vid": "_ve4M4UsJQo",
+      "status": "review",
+      "completed_at": "2026-11-06T21:46:17.542609+00:00",
+      "candidates": []
+    },
+    "a3ww0gwEszo": {
+      "vid": "a3ww0gwEszo",
+      "status": "review",
+      "completed_at": "2026-11-06T21:47:47.746246+00:00",
+      "candidates": []
+    },
+    "aFdpBqmDpzM": {
+      "vid": "aFdpBqmDpzM",
+      "status": "review",
+      "completed_at": "2026-11-06T21:48:50.412192+00:00",
+      "candidates": []
+    },
+    "aJ4TJ4-kkDw": {
+      "vid": "aJ4TJ4-kkDw",
+      "status": "review",
+      "completed_at": "2026-11-06T21:49:36.157136+00:00",
+      "candidates": []
+    },
+    "aMkCKeZ8xZw": {
+      "vid": "aMkCKeZ8xZw",
+      "status": "review",
+      "completed_at": "2026-11-06T21:50:15.277484+00:00",
+      "candidates": []
+    },
+    "aPvXnmBIO7o": {
+      "vid": "aPvXnmBIO7o",
+      "status": "review",
+      "completed_at": "2026-11-06T21:50:39.931572+00:00",
+      "candidates": []
+    },
+    "aUgtMaAZzW0": {
+      "vid": "aUgtMaAZzW0",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T21:50:50.670431+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1d8411Y7nx",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "阿汤初级序列 -Primary Series Ashtanga",
+          "up": "Doct0r喵",
+          "duration": 4688,
+          "original_duration": 4688,
+          "cid": 864465621,
+          "aid": 219189202,
+          "segment_title": "阿汤初级序列 -Primary Series Ashtanga",
+          "page_count": 1,
+          "kind": "original",
+          "views": 3342,
+          "pic": "https://i2.hdslb.com/bfs/archive/cbc0ebca9177c6e5ef4841a20416489bfd8ce842.jpg",
+          "checked_at": "2026-11-06T21:50:49.479902+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1zt411L7dx",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "Primary Series Ashtanga with Sri K. Pattabhi Jois",
+          "up": "两只老虎小姐",
+          "duration": 4688,
+          "original_duration": 4688,
+          "cid": 105443091,
+          "aid": 60575086,
+          "segment_title": "Primary Series Ashtanga with Sri K. Pattabhi Jois",
+          "page_count": 1,
+          "kind": "original",
+          "views": 2035,
+          "pic": "https://i0.hdslb.com/bfs/archive/4d100c2297b77b7b6635f0d442041c3ee557e956.jpg",
+          "checked_at": "2026-11-06T22:04:46.314041+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "aVnRQRdePp4": {
+      "vid": "aVnRQRdePp4",
+      "status": "review",
+      "completed_at": "2026-11-06T21:51:03.295334+00:00",
+      "candidates": []
+    },
+    "ab8GtuPdrUQ": {
+      "vid": "ab8GtuPdrUQ",
+      "status": "review",
+      "completed_at": "2026-11-06T21:52:33.981834+00:00",
+      "candidates": []
+    },
+    "abqAanC2NZs": {
+      "vid": "abqAanC2NZs",
+      "status": "review",
+      "completed_at": "2026-11-06T21:53:05.829803+00:00",
+      "candidates": []
+    },
+    "agMrewRJTow": {
+      "vid": "agMrewRJTow",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T21:53:20.356612+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1xc411E7Gq",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "How Lexus Fixed Tesla's Bad Idea- Steer-By-Wire Yoke 雷克萨斯用线控转向解决了特斯拉异形方向盘的缺点？",
+          "up": "永恒的贝式弧线",
+          "duration": 868,
+          "original_duration": 868,
+          "cid": 1059207582,
+          "aid": 268625051,
+          "segment_title": "How Lexus Fixed Tesla's Bad Idea- Steer-By-Wire Yoke 雷克萨斯用线控转向解决了特斯拉异形方向盘的缺点？",
+          "page_count": 1,
+          "kind": "original",
+          "views": 252,
+          "pic": "https://i2.hdslb.com/bfs/archive/76318f2fd89b2b144ea4f5fa0ac79a48bd04b4b9.jpg",
+          "checked_at": "2026-11-06T21:53:18.944474+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "agxSclh27uo": {
+      "vid": "agxSclh27uo",
+      "status": "review",
+      "completed_at": "2026-11-06T21:53:44.515019+00:00",
+      "candidates": []
+    },
+    "akvSE5Z474c": {
+      "vid": "akvSE5Z474c",
+      "status": "review",
+      "completed_at": "2026-11-06T21:54:53.966893+00:00",
+      "candidates": []
+    },
+    "antLneVlxcs": {
+      "vid": "antLneVlxcs",
+      "status": "review",
+      "completed_at": "2026-11-06T21:55:20.323331+00:00",
+      "candidates": []
+    },
+    "aoag03mSuXQ": {
+      "vid": "aoag03mSuXQ",
+      "status": "review",
+      "completed_at": "2026-11-06T21:55:31.972842+00:00",
+      "candidates": []
+    },
+    "aolI_Rz0ZqY": {
+      "vid": "aolI_Rz0ZqY",
+      "status": "review",
+      "completed_at": "2026-11-06T21:55:39.896060+00:00",
+      "candidates": []
+    },
+    "aqqEYz38ens": {
+      "vid": "aqqEYz38ens",
+      "status": "review",
+      "completed_at": "2026-11-06T21:56:25.572753+00:00",
+      "candidates": []
+    },
+    "ar-poc38C84": {
+      "vid": "ar-poc38C84",
+      "status": "review",
+      "completed_at": "2026-11-06T21:57:58.461567+00:00",
+      "candidates": []
+    },
+    "aw6RsUhw1Q8": {
+      "vid": "aw6RsUhw1Q8",
+      "status": "review",
+      "completed_at": "2026-11-06T21:58:14.219488+00:00",
+      "candidates": []
+    },
+    "awADEuv5vWY": {
+      "vid": "awADEuv5vWY",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T21:58:27.389776+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1eW411D7NK",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【英文字幕/搬运】How we can use light to see deep inside our bodies and brains  Mary Lou",
+          "up": "ankikong",
+          "duration": 1011,
+          "original_duration": 1011,
+          "cid": 52870809,
+          "aid": 30307647,
+          "segment_title": "How we can use light to see deep inside our bodies and brains  Mary Lou Jepsen",
+          "page_count": 1,
+          "kind": "original",
+          "views": 168,
+          "pic": "https://i0.hdslb.com/bfs/archive/0697f1d593be5827bb229a3c7ab5d5441eec5388.jpg",
+          "checked_at": "2026-11-06T21:58:26.130833+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "ay-gqx18UTM": {
+      "vid": "ay-gqx18UTM",
+      "status": "review",
+      "completed_at": "2026-11-06T21:59:37.274966+00:00",
+      "candidates": []
+    },
+    "ay2uwtRO3QE": {
+      "vid": "ay2uwtRO3QE",
+      "status": "review",
+      "completed_at": "2026-11-06T21:59:53.132242+00:00",
+      "candidates": []
+    },
+    "ayh0qebfD2g": {
+      "vid": "ayh0qebfD2g",
+      "status": "review",
+      "completed_at": "2026-11-06T22:00:13.434274+00:00",
+      "candidates": []
+    },
+    "b1HWNcLDK88": {
+      "vid": "b1HWNcLDK88",
+      "status": "review",
+      "completed_at": "2026-11-06T22:00:26.644450+00:00",
+      "candidates": []
+    },
+    "b2mnbyRgXkY": {
+      "vid": "b2mnbyRgXkY",
+      "status": "review",
+      "completed_at": "2026-11-06T22:00:47.287104+00:00",
+      "candidates": []
+    },
+    "b6URa-PTqfA": {
+      "vid": "b6URa-PTqfA",
+      "status": "review",
+      "completed_at": "2026-11-06T22:01:15.944616+00:00",
+      "candidates": []
+    },
+    "b9ifQvQCO7Y": {
+      "vid": "b9ifQvQCO7Y",
+      "status": "review",
+      "completed_at": "2026-11-06T22:02:37.227611+00:00",
+      "candidates": []
+    },
+    "bBx2Y5HhplI": {
+      "vid": "bBx2Y5HhplI",
+      "status": "review",
+      "completed_at": "2026-11-06T22:03:38.617549+00:00",
+      "candidates": []
+    },
+    "bEOOYbscyTs": {
+      "vid": "bEOOYbscyTs",
+      "status": "review",
+      "completed_at": "2026-11-06T22:03:59.628479+00:00",
       "candidates": []
     }
   }

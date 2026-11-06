@@ -1,13 +1,13 @@
 {
-  "built_at": "2026-11-06T21:30:47.991154+00:00",
+  "built_at": "2026-11-06T22:06:16.205893+00:00",
   "source_generated": "2026-10-31",
   "stats": {
     "corpus": 6454,
-    "processed": 4360,
-    "confirmed": 995,
-    "coverage": 0.15416795785559342,
-    "processed_match_rate": 0.22821100917431192
+    "processed": 4410,
+    "confirmed": 1002,
+    "coverage": 0.155252556554075,
+    "processed_match_rate": 0.2272108843537415
   },
   "conflicting_segments": 0,
-  "data_sha256": "3382224847680546ccec791f976831933cf19cd2c87e810949e57176f5a98cde"
+  "data_sha256": "ab160aa5917fb5e6c10d2dc6c0984275d6881d8df7bb1cdc5d966489f9845e9c"
 }

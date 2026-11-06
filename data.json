@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T21:30:47.991154+00:00",
+  "built_at": "2026-11-06T22:06:16.205893+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 4360,
-    "confirmed": 995,
-    "coverage": 0.15416795785559342,
-    "processed_match_rate": 0.22821100917431192
+    "processed": 4410,
+    "confirmed": 1002,
+    "coverage": 0.155252556554075,
+    "processed_match_rate": 0.2272108843537415
   },
   "areas": [
     {
@@ -36736,6 +36736,18 @@
           "views": 25,
           "pic": "https://i0.hdslb.com/bfs/archive/0f570b16065113ef18b9ee2bd7ac0f61879432ed.jpg",
           "checked_at": "2026-11-06T21:23:35.780676+00:00"
+        },
+        {
+          "bvid": "BV1be411x7t3",
+          "page": 1,
+          "cid": 171303334,
+          "title": "混合现实 mixed-reality 超现实 HYPER-REALITY",
+          "up": "旧世界的余晖",
+          "duration": 376,
+          "kind": "original",
+          "views": 5032,
+          "pic": "https://i2.hdslb.com/bfs/archive/192d1231d064fc5cb91d6f16b17a21734ae3d8f0.png",
+          "checked_at": "2026-11-06T21:33:09.147880+00:00"
         }
       ]
     },
@@ -36811,6 +36823,166 @@
       ]
     },
     {
+      "id": "ZRkm6-bBk4U",
+      "title": "Comparing Tesla, Ford, & VW's Electrical Architectures",
+      "author": "Munro Live",
+      "source_url": "https://www.youtube.com/watch?v=ZRkm6-bBk4U",
+      "summary": "Sandy Munro sits down with engineers from 3IS to compare the electrical architectures of the Tesla Model Y, Ford Mach-E and VW ID.4. They discuss ECU counts, bus architectures and what the differences mean for cost and integration.",
+      "why": "HN recommends it as a fair, technical comparison and cites it when discussing why legacy automakers have more boxes and complexity than Tesla.",
+      "score": 1.0,
+      "tags": [
+        "tesla",
+        "ecu",
+        "teardown",
+        "ev",
+        "vehicle architecture"
+      ],
+      "categories": [
+        "automotive-ev",
+        "repair-teardown"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1n3411H7DF",
+          "page": 1,
+          "cid": 563720753,
+          "title": "Munro Live：特斯拉、大众、福特电动车构架比较",
+          "up": "EV剪集",
+          "duration": 2485,
+          "kind": "original",
+          "views": 1917,
+          "pic": "https://i1.hdslb.com/bfs/archive/e39a7fa4ea5c21201d950733ee7392ee10ca5728.jpg",
+          "checked_at": "2026-11-06T21:37:47.295210+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ZTidn2dBYbY",
+      "title": "David Hasselhoff - True Survivor (from Kung Fury)",
+      "author": "DavidHasselhoffVEVO",
+      "source_url": "https://www.youtube.com/watch?v=ZTidn2dBYbY",
+      "summary": "The official music video for David Hasselhoff's synthwave track True Survivor, written for the film Kung Fury. It is an 80s-style pop song from the Kickstarter-funded movie.",
+      "why": "Mostly mentioned as a joke or a personal pick, including on a coding playlist thread.",
+      "score": 1.0,
+      "tags": [
+        "david hasselhoff",
+        "kung fury",
+        "synthwave",
+        "80s",
+        "music video"
+      ],
+      "categories": [
+        "music-performance",
+        "demoscene-retrocomputing"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Jy4y1y7CK",
+          "page": 1,
+          "cid": 234437502,
+          "title": "【蒸汽波】David Hasselhoff - True Survivor",
+          "up": "bili_30849250426",
+          "duration": 244,
+          "kind": "original",
+          "views": 2587,
+          "pic": "https://i0.hdslb.com/bfs/archive/426b94b6b614194817002ae0683b079f515a8cde.jpg",
+          "checked_at": "2026-11-06T21:37:58.629306+00:00"
+        },
+        {
+          "bvid": "BV1Ki4y1p7z7",
+          "page": 1,
+          "cid": 1421956924,
+          "title": "David Hasselhoff - True Survivor (from \"Kung Fury\") [Official Video]",
+          "up": "KRY哦",
+          "duration": 244,
+          "kind": "original",
+          "views": 293,
+          "pic": "https://i2.hdslb.com/bfs/archive/1c7fc8f529497b49ee80bf3a6fbda5769e486ea9.jpg",
+          "checked_at": "2026-11-06T22:04:49.038885+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ZYqG31V4qtA",
+      "title": "AMD's most important product ever - Ryzen 9 4900HS",
+      "author": "Linus Tech Tips",
+      "source_url": "https://www.youtube.com/watch?v=ZYqG31V4qtA",
+      "summary": "Linus Tech Tips reviews AMD's Ryzen 9 4900HS mobile CPU in the ASUS ROG Zephyrus G14 laptop, calling it a landmark product. It highlights strong performance against Intel along with good efficiency and battery life.",
+      "why": "HN people cite it as a review showing Zen 2's efficiency and performance advantage over Intel in laptops.",
+      "score": 1.0,
+      "tags": [
+        "ryzen 9 4900hs",
+        "zephyrus g14",
+        "laptop cpu",
+        "amd vs intel",
+        "review"
+      ],
+      "categories": [
+        "computer-architecture",
+        "consumer-devices"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1z64y1M7m7",
+          "page": 1,
+          "cid": 172493571,
+          "title": "【4900hs暴打一切，AMD，GOD】AMD's most important product ever - Ryzen 9 4900HS",
+          "up": "熬夜兰那罗",
+          "duration": 702,
+          "kind": "original",
+          "views": 2593,
+          "pic": "https://i0.hdslb.com/bfs/archive/ac6703f06725b51317d547634a6e2a59062fffc2.png",
+          "checked_at": "2026-11-06T21:38:33.347591+00:00"
+        },
+        {
+          "bvid": "BV1754y1d7PB",
+          "page": 1,
+          "cid": 173079676,
+          "title": "AMD's most important product ever - Ryzen 9 4900HS",
+          "up": "明说塑料",
+          "duration": 702,
+          "kind": "original",
+          "views": 213,
+          "pic": "https://i1.hdslb.com/bfs/archive/864f5d138b0f01c2b1924edba97ffe4a6cf23529.jpg",
+          "checked_at": "2026-11-06T22:04:47.650280+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ZzsK8Am6dKU",
+      "title": "Parsing with Derivatives",
+      "author": "Stanford",
+      "source_url": "https://www.youtube.com/watch?v=ZzsK8Am6dKU",
+      "summary": "A Stanford talk by Matthew Might on parsing with derivatives, a new way to write parsers, and why better parsing tools are needed. It discusses language theory and criticizes ad-hoc hand-written parsers.",
+      "why": "Mentioned as a great talk and related reading in threads on parsing techniques.",
+      "score": 1.0,
+      "tags": [
+        "parsing",
+        "language theory",
+        "matt might",
+        "parser combinators",
+        "derivatives"
+      ],
+      "categories": [
+        "compilers-interpreters",
+        "functional-programming"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1tA41127m5",
+          "page": 1,
+          "cid": 1016348628,
+          "title": "Parsing with Derivatives",
+          "up": "dailyrain",
+          "duration": 4390,
+          "kind": "original",
+          "views": 17,
+          "pic": "https://i1.hdslb.com/bfs/archive/8b1b6938ddc34c62e1a9c1e785a08ef4cc4d86d2.jpg",
+          "checked_at": "2026-11-06T21:39:46.697937+00:00"
+        }
+      ]
+    },
+    {
       "id": "_2NI6t2r_Hs",
       "title": "The History of Unix, Rob Pike",
       "author": "Stephanie Borgman",
@@ -36866,6 +37038,120 @@
           "views": 54,
           "pic": "https://i2.hdslb.com/bfs/archive/08b02e42d4580a6e6ef59de9d6b891bc7c34b8c9.jpg",
           "checked_at": "2026-11-04T23:03:56.833050+00:00"
+        }
+      ]
+    },
+    {
+      "id": "aUgtMaAZzW0",
+      "title": "Primary Series Ashtanga with Sri K. Pattabhi Jois",
+      "author": "Adam Wade",
+      "source_url": "https://www.youtube.com/watch?v=aUgtMaAZzW0",
+      "summary": "A 1993 Yoga Works video of the Ashtanga Yoga Primary Series led by Sri K. Pattabhi Jois, with senior students demonstrating. The class is filmed in classic style from the back of the room.",
+      "why": "HN commenters suggest it as a free guided stretching routine, with the first half hour enough for a good stretch.",
+      "score": 1.0,
+      "tags": [
+        "ashtanga",
+        "yoga",
+        "stretching",
+        "primary series",
+        "mysore"
+      ],
+      "categories": [
+        "fitness-sleep-longevity"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1d8411Y7nx",
+          "page": 1,
+          "cid": 864465621,
+          "title": "阿汤初级序列 -Primary Series Ashtanga",
+          "up": "Doct0r喵",
+          "duration": 4688,
+          "kind": "original",
+          "views": 3342,
+          "pic": "https://i2.hdslb.com/bfs/archive/cbc0ebca9177c6e5ef4841a20416489bfd8ce842.jpg",
+          "checked_at": "2026-11-06T21:50:49.479902+00:00"
+        },
+        {
+          "bvid": "BV1zt411L7dx",
+          "page": 1,
+          "cid": 105443091,
+          "title": "Primary Series Ashtanga with Sri K. Pattabhi Jois",
+          "up": "两只老虎小姐",
+          "duration": 4688,
+          "kind": "original",
+          "views": 2035,
+          "pic": "https://i0.hdslb.com/bfs/archive/4d100c2297b77b7b6635f0d442041c3ee557e956.jpg",
+          "checked_at": "2026-11-06T22:04:46.314041+00:00"
+        }
+      ]
+    },
+    {
+      "id": "agMrewRJTow",
+      "title": "How Lexus Fixed Tesla's Bad Idea: Steer-By-Wire Yoke",
+      "author": "Engineering Explained",
+      "source_url": "https://www.youtube.com/watch?v=agMrewRJTow",
+      "summary": "Engineering Explained compares Lexus's steer-by-wire yoke on the RZ 450e with Tesla's yoke. It covers how steer-by-wire works and how variable steering ratios address the yoke's flaws.",
+      "why": "HN points to it to explain how steer-by-wire is implemented and why variable steering ratio is its benefit.",
+      "score": 1.0,
+      "tags": [
+        "steer by wire",
+        "lexus",
+        "tesla yoke",
+        "variable steering ratio",
+        "automotive"
+      ],
+      "categories": [
+        "automotive-ev",
+        "ux-ui-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1xc411E7Gq",
+          "page": 1,
+          "cid": 1059207582,
+          "title": "How Lexus Fixed Tesla's Bad Idea- Steer-By-Wire Yoke 雷克萨斯用线控转向解决了特斯拉异形方向盘的缺点？",
+          "up": "永恒的贝式弧线",
+          "duration": 868,
+          "kind": "original",
+          "views": 252,
+          "pic": "https://i2.hdslb.com/bfs/archive/76318f2fd89b2b144ea4f5fa0ac79a48bd04b4b9.jpg",
+          "checked_at": "2026-11-06T21:53:18.944474+00:00"
+        }
+      ]
+    },
+    {
+      "id": "awADEuv5vWY",
+      "title": "How we can use light to see deep inside our bodies and brains | Mary Lou Jepsen",
+      "author": "TED",
+      "source_url": "https://www.youtube.com/watch?v=awADEuv5vWY",
+      "summary": "Inventor Mary Lou Jepsen demonstrates using red light and sound to see inside the body and brain, aiming at tumor detection and neural activity measurement, and potentially a cheaper wearable MRI replacement.",
+      "why": "HN mentions it as a reference for Openwater's approach of light-based deep tissue imaging.",
+      "score": 1.0,
+      "tags": [
+        "openwater",
+        "near-infrared",
+        "brain imaging",
+        "holography",
+        "ted talk"
+      ],
+      "categories": [
+        "medicine-disease",
+        "neuroscience-brain",
+        "consumer-devices"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1eW411D7NK",
+          "page": 1,
+          "cid": 52870809,
+          "title": "【英文字幕/搬运】How we can use light to see deep inside our bodies and brains  Mary Lou",
+          "up": "ankikong",
+          "duration": 1011,
+          "kind": "original",
+          "views": 168,
+          "pic": "https://i0.hdslb.com/bfs/archive/0697f1d593be5827bb229a3c7ab5d5441eec5388.jpg",
+          "checked_at": "2026-11-06T21:58:26.130833+00:00"
         }
       ]
     },
@@ -40532,11 +40818,22 @@
     "BV1Fx4y1h76V": "Vt4Dfa4fOEY",
     "BV1Uv411B726": "YAneTFiz5WU",
     "BV1Bc3X6kEz9": "YJg02ivYzSs",
+    "BV1be411x7t3": "YJg02ivYzSs",
     "BV14T4y137Cb": "YvT_gqs5ETk",
     "BV1EvR5YmEp5": "ZI198eFghJk",
+    "BV1n3411H7DF": "ZRkm6-bBk4U",
+    "BV1Jy4y1y7CK": "ZTidn2dBYbY",
+    "BV1Ki4y1p7z7": "ZTidn2dBYbY",
+    "BV1z64y1M7m7": "ZYqG31V4qtA",
+    "BV1754y1d7PB": "ZYqG31V4qtA",
+    "BV1tA41127m5": "ZzsK8Am6dKU",
     "BV1bM4y1b7C5": "_2NI6t2r_Hs",
     "BV1HV411m7Ui": "_2NI6t2r_Hs",
     "BV1XqmXB9Ecu": "_2NI6t2r_Hs",
+    "BV1d8411Y7nx": "aUgtMaAZzW0",
+    "BV1zt411L7dx": "aUgtMaAZzW0",
+    "BV1xc411E7Gq": "agMrewRJTow",
+    "BV1eW411D7NK": "awADEuv5vWY",
     "BV11hm6BgEYu": "c33AZBnRHks",
     "BV1ot411d7Dj": "cNZPRsrwumQ",
     "BV1Vx411L7mW": "eNSN6qet1kE",
