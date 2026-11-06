@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T22:26:46.933435+00:00",
+  "built_at": "2026-11-06T23:09:57.191810+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 4436,
-    "confirmed": 1005,
-    "coverage": 0.15571738456770995,
-    "processed_match_rate": 0.22655545536519386
+    "processed": 4486,
+    "confirmed": 1014,
+    "coverage": 0.1571118686086148,
+    "processed_match_rate": 0.22603655818100757
   },
   "areas": [
     {
@@ -28094,6 +28094,40 @@
       ]
     },
     {
+      "id": "P76Vbsk_3J0",
+      "title": "Clojure for Java Programmers Part 1 - Rich Hickey",
+      "author": "ClojureTV",
+      "source_url": "https://www.youtube.com/watch?v=P76Vbsk_3J0",
+      "summary": "Rich Hickey introduces Clojure to the NYC Java Study Group in the first of a two-part talk. It covers reader syntax, core data structures, code-as-data, evaluation, special operators, functions, macros and sequences, assuming no Lisp background.",
+      "why": "Recommended as a clear, well-paced introduction to Clojure and Lisp ideas like code as data and macros, straight from the language's creator.",
+      "score": 2.5,
+      "tags": [
+        "rich hickey",
+        "lisp",
+        "macros",
+        "code as data",
+        "java interop"
+      ],
+      "categories": [
+        "functional-programming",
+        "scripting-languages"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1P5411T7MB",
+          "page": 1,
+          "cid": 354447200,
+          "title": "Clojure for Java Programmers Part 1 - Rich Hickey-P76Vbsk_3J0",
+          "up": "lizhaoyu",
+          "duration": 6493,
+          "kind": "original",
+          "views": 196,
+          "pic": "https://i1.hdslb.com/bfs/archive/aa7892506866164ab7b8231ff87aa73b56f9fdee.jpg",
+          "checked_at": "2026-11-06T22:30:12.710995+00:00"
+        }
+      ]
+    },
+    {
       "id": "P_fHJIYENdI",
       "title": "AlphaFold - The Most Useful Thing AI Has Ever Done",
       "author": "Veritasium",
@@ -30775,6 +30809,41 @@
       ]
     },
     {
+      "id": "FlQYU3m1e80",
+      "title": "Is It Really Impossible To Cool A Datacenter In Space?",
+      "author": "Scott Manley",
+      "source_url": "https://www.youtube.com/watch?v=FlQYU3m1e80",
+      "summary": "Scott Manley explains the thermal balance of spacecraft and how a satellite could be configured to radiate away the heat from datacenter-scale computing in space. His rough numbers suggest it is feasible.",
+      "why": "HN points to it as a convincing energy-budget analysis in debates over space datacenters, while debating its assumptions.",
+      "score": 2.0,
+      "tags": [
+        "thermal radiation",
+        "starlink",
+        "spacecraft thermal",
+        "scott manley",
+        "orbital datacenter"
+      ],
+      "categories": [
+        "space-exploration",
+        "fundamental-physics",
+        "computer-architecture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1PbAczPEFX",
+          "page": 1,
+          "cid": 25983917229,
+          "title": "太空服务器真会'自燃'？Scott Manley硬核算了一笔账！",
+          "up": "只说中文的翻译菌",
+          "duration": 1470,
+          "kind": "original",
+          "views": 115,
+          "pic": "https://i0.hdslb.com/bfs/archive/bfb7e2ea91fc46dc67fec5d70005174793ffadeb.jpg",
+          "checked_at": "2026-11-06T23:01:54.754231+00:00"
+        }
+      ]
+    },
+    {
       "id": "FquNpWdf9vg",
       "title": "The Computer Chronicles - Hypercard (1987)",
       "author": "The Computer Chronicles",
@@ -32108,6 +32177,18 @@
         "computer-architecture"
       ],
       "versions": [
+        {
+          "bvid": "BV1CunZeyErG",
+          "page": 1,
+          "cid": 25672353173,
+          "title": "芯片是如何制造的？CPU制造步骤 [BranchEducation]",
+          "up": "502BG",
+          "duration": 1668,
+          "kind": "original",
+          "views": 4642,
+          "pic": "https://i0.hdslb.com/bfs/archive/137bd8fa2a372e8317e1c8c43c344c3ba295a0ea.jpg",
+          "checked_at": "2026-11-06T23:01:55.824155+00:00"
+        },
         {
           "bvid": "BV18osBe1E8G",
           "page": 1,
@@ -34613,6 +34694,18 @@
           "views": 234,
           "pic": "https://i2.hdslb.com/bfs/archive/0ee7cdf71be63ead847666bee4f7b18b4512f468.jpg",
           "checked_at": "2026-11-04T23:03:58.021006+00:00"
+        },
+        {
+          "bvid": "BV1CF41157rA",
+          "page": 1,
+          "cid": 733754699,
+          "title": "Joe Rogan Experience #1169 - Elon Musk",
+          "up": "ZXIXZ",
+          "duration": 9424,
+          "kind": "original",
+          "views": 230,
+          "pic": "https://i1.hdslb.com/bfs/archive/f09a10a8474bccf66fe53ee5134241a7f96c4799.jpg",
+          "checked_at": "2026-11-06T22:30:10.178122+00:00"
         }
       ]
     },
@@ -37187,6 +37280,18 @@
           "views": 2502,
           "pic": "https://i1.hdslb.com/bfs/archive/913c3f0b733189690e48baba005852ba6627ed76.jpg",
           "checked_at": "2026-11-06T22:09:48.492854+00:00"
+        },
+        {
+          "bvid": "BV1wk4y1z7fb",
+          "page": 1,
+          "cid": 198711262,
+          "title": "人工重力实验室 The Artificial Gravity Lab",
+          "up": "海上明月共潮生61",
+          "duration": 378,
+          "kind": "original",
+          "views": 260,
+          "pic": "https://i0.hdslb.com/bfs/archive/9e3729113372d8366ae5601e2807454a6f461833.jpg",
+          "checked_at": "2026-11-06T22:30:11.430625+00:00"
         }
       ]
     },
@@ -37327,6 +37432,85 @@
       ]
     },
     {
+      "id": "d-ruFmgTpqA",
+      "title": "Garmin Emergency Autoland Flight Trial",
+      "author": "AVweb",
+      "source_url": "https://www.youtube.com/watch?v=d-ruFmgTpqA",
+      "summary": "AVweb's flight trial of Garmin's Emergency Autoland system, which flies a plane to a runway and lands it when the pilot cannot. It is part of Garmin's Autonomi automation on the G3000 avionics.",
+      "why": "HN points to it as a concrete demo of emergency autoland when threads discuss pilot incapacitation and aviation automation.",
+      "score": 1.0,
+      "tags": [
+        "garmin",
+        "autoland",
+        "avionics",
+        "general aviation",
+        "automation"
+      ],
+      "categories": [
+        "aviation"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1RE411t7R3",
+          "page": 1,
+          "cid": 127146138,
+          "title": "【航空掠影】佳明的自动紧急降落",
+          "up": "麦康明机长",
+          "duration": 895,
+          "kind": "original",
+          "views": 743,
+          "pic": "https://i0.hdslb.com/bfs/archive/1c99cfeb7a079dc53000222cf42a06f60f0f0f1c.jpg",
+          "checked_at": "2026-11-06T22:35:55.570686+00:00"
+        }
+      ]
+    },
+    {
+      "id": "d6Pcp944sRI",
+      "title": "Making purple gold",
+      "author": "NileRed",
+      "source_url": "https://www.youtube.com/watch?v=d6Pcp944sRI",
+      "summary": "NileRed tries to make a ring from pure purple gold, a gold-aluminium intermetallic that is brittle and hard to work with. The 53-minute video follows the chemistry and many failed attempts before he produces a finished ring.",
+      "why": "HN mentions it as a fascinating example of chemistry persistence and as something people learned from, such as discovering purple gold exists.",
+      "score": 1.0,
+      "tags": [
+        "purple gold",
+        "metallurgy",
+        "chemistry",
+        "nilered",
+        "jewelry"
+      ],
+      "categories": [
+        "chemistry",
+        "materials-science"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1arCTBSEZ9",
+          "page": 1,
+          "cid": 33997393138,
+          "title": "制作紫色金 - NileRed",
+          "up": "账号已注销",
+          "duration": 3200,
+          "kind": "original",
+          "views": 1796,
+          "pic": "https://i1.hdslb.com/bfs/archive/f28995323c65c1b6b3d978b238898c56c3897702.png",
+          "checked_at": "2026-11-06T22:36:06.876009+00:00"
+        },
+        {
+          "bvid": "BV1YjkRBEEyP",
+          "page": 1,
+          "cid": 33868744368,
+          "title": "制作紫色金 - NileRed",
+          "up": "ytv搬运工",
+          "duration": 3200,
+          "kind": "original",
+          "views": 80,
+          "pic": "https://i2.hdslb.com/bfs/archive/f68b38a71fbb49896dc395816350093c7c0561ae.png",
+          "checked_at": "2026-11-06T23:01:57.190482+00:00"
+        }
+      ]
+    },
+    {
       "id": "eNSN6qet1kE",
       "title": "HomeMade Electric Airplane",
       "author": "PeterSripol",
@@ -37361,6 +37545,41 @@
       ]
     },
     {
+      "id": "eR34r7HOU14",
+      "title": "2013 Keynote: Chandler Carruth: Optimizing the Emergent Structures of C++",
+      "author": "CppNow",
+      "source_url": "https://www.youtube.com/watch?v=eR34r7HOU14",
+      "summary": "Chandler Carruth's CppNow 2013 keynote on how C++ builds complex software from simple emergent structures, and how compilers optimize them through inlining and value semantics.",
+      "why": "HN lists it among C++ optimization talks and cites it for how much optimizer performance comes from inlining, from an experienced compiler engineer.",
+      "score": 1.0,
+      "tags": [
+        "c++",
+        "compilers",
+        "optimization",
+        "inlining",
+        "llvm"
+      ],
+      "categories": [
+        "systems-programming-languages",
+        "compilers-interpreters",
+        "software-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV12dWLzYE9M",
+          "page": 1,
+          "cid": 32498977206,
+          "title": "2013 Keynote: Chandler Carruth: Optimizing the Emergent Structures of C++",
+          "up": "Iammyself001",
+          "duration": 5582,
+          "kind": "original",
+          "views": 5,
+          "pic": "https://i2.hdslb.com/bfs/archive/d4ff7b8a6802760949269ff6565000fb5f6dc152.jpg",
+          "checked_at": "2026-11-06T22:44:33.254566+00:00"
+        }
+      ]
+    },
+    {
       "id": "er416Ad3R1g",
       "title": "† Carpenter Brut † TURBO KILLER † Directed by Seth Ickerman † Official Video †",
       "author": "Carpenter Brut",
@@ -37390,6 +37609,142 @@
           "views": 49403,
           "pic": "https://i0.hdslb.com/bfs/archive/616f6eb69252b41497489f3f5cbb4401cc55afdc.jpg",
           "checked_at": "2026-11-06T10:01:45.501153+00:00"
+        }
+      ]
+    },
+    {
+      "id": "f8DQSM-b2cc",
+      "title": "Flat Earth \"Science\" -- Wrong, but not Stupid",
+      "author": "Sabine Hossenfelder",
+      "source_url": "https://www.youtube.com/watch?v=f8DQSM-b2cc",
+      "summary": "Sabine Hossenfelder explains what flat earthers believe and why, arguing that their reasoning is wrong but not stupid. She suggests scientists should take such believers more seriously.",
+      "why": "Pointed to in discussions about engaging with fringe beliefs and distrust of institutions rather than dismissing people.",
+      "score": 1.0,
+      "tags": [
+        "flat earth",
+        "science communication",
+        "conspiracy theories",
+        "sabine hossenfelder"
+      ],
+      "categories": [
+        "science-method-communication",
+        "religion-belief"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1BM4m1y7PL",
+          "page": 1,
+          "cid": 1648621757,
+          "title": "【中配】扁平地球“科学”：错误但不愚蠢 - Sabine Hossenfelder",
+          "up": "黑纹白斑马",
+          "duration": 905,
+          "kind": "dub_zh",
+          "views": 3485,
+          "pic": "https://i2.hdslb.com/bfs/archive/f9f96e8640ec840a2d3e3f3105a2610bd105f828.png",
+          "checked_at": "2026-11-06T22:55:01.987197+00:00"
+        }
+      ]
+    },
+    {
+      "id": "fAxHlLK3Oyk",
+      "title": "Alvin Lucier - I Am Sitting In A Room",
+      "author": "TrilobiteJuice",
+      "source_url": "https://www.youtube.com/watch?v=fAxHlLK3Oyk",
+      "summary": "Alvin Lucier's 1969 minimalist piece in which a spoken text is repeatedly played back and re-recorded in a room until the room's resonances replace the words. This is the 1981 Lovely Music recording.",
+      "why": "HN cites it as the canonical work behind repeated re-recording experiments, and a pivotal piece of minimalist music worth listening to patiently.",
+      "score": 1.0,
+      "tags": [
+        "alvin lucier",
+        "minimalism",
+        "room acoustics",
+        "sound art",
+        "resonance"
+      ],
+      "categories": [
+        "music-performance",
+        "everyday-physics-demos"
+      ],
+      "versions": [
+        {
+          "bvid": "BV177411P7KV",
+          "page": 1,
+          "cid": 154361116,
+          "title": "Alvin Lucier - I Am Sitting In A Room (1980)",
+          "up": "建玺Sound",
+          "duration": 2725,
+          "kind": "original",
+          "views": 315,
+          "pic": "https://i0.hdslb.com/bfs/archive/6e1a02387baf9ab68e0c85243228fa938f327f51.jpg",
+          "checked_at": "2026-11-06T22:55:12.181207+00:00"
+        }
+      ]
+    },
+    {
+      "id": "fCd6B5HRaZ8",
+      "title": "Overview of Illumina Sequencing by Synthesis Workflow | Standard SBS chemistry",
+      "author": "Illumina",
+      "source_url": "https://www.youtube.com/watch?v=fCd6B5HRaZ8",
+      "summary": "Illumina's 3D animation of its sequencing-by-synthesis workflow, from sample preparation and cluster generation to sequencing on a flow cell and data analysis.",
+      "why": "Commenters call it the best visualization of how the most common DNA sequencers work, though it predates newer chemistry.",
+      "score": 1.0,
+      "tags": [
+        "illumina",
+        "sequencing by synthesis",
+        "genomics",
+        "flow cell",
+        "ngs"
+      ],
+      "categories": [
+        "biology-biotech",
+        "evolution-genetics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1jD421M7YB",
+          "page": 1,
+          "cid": 1579867286,
+          "title": "Overview of Illumina Sequencing by Synthesis Workflow",
+          "up": "steve2223",
+          "duration": 314,
+          "kind": "original",
+          "views": 173,
+          "pic": "https://i2.hdslb.com/bfs/archive/e52bbe59fbd0b269a7ce6872bb5a84d22dd5b2ba.jpg",
+          "checked_at": "2026-11-06T22:56:08.446563+00:00"
+        }
+      ]
+    },
+    {
+      "id": "fT4lDU-QLUY",
+      "title": "New York City in 1993 in HD -  DTheater DVHS Demo Tape",
+      "author": "Youtube Pedant",
+      "source_url": "https://www.youtube.com/watch?v=fT4lDU-QLUY",
+      "summary": "Six minutes of street scenes from New York City in 1993, captured from a D-Theater HD DVHS demo tape that reused footage shot for the Japanese HiVision market. It shows Times Square and other sights in high-definition video.",
+      "why": "Pointed to as striking proof of how good 1990s HD video could look, and as a window into early-90s New York.",
+      "score": 1.0,
+      "tags": [
+        "new york",
+        "1993",
+        "d-vhs",
+        "hd video",
+        "archival footage"
+      ],
+      "categories": [
+        "audio-video-engineering",
+        "world-history",
+        "internet-culture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ep411f7qq",
+          "page": 1,
+          "cid": 38517357,
+          "title": "1993年的纽约 in HD -  DTheater DVHS Demo Tape",
+          "up": "丧心病狂的神大人K",
+          "duration": 332,
+          "kind": "original",
+          "views": 2168,
+          "pic": "https://i1.hdslb.com/bfs/archive/192b0068d3ef4bcaa61bd3fc549abd1dec7ff54b.png",
+          "checked_at": "2026-11-06T23:00:41.549099+00:00"
         }
       ]
     },
@@ -40646,6 +41001,7 @@
     "BV1AE411P7Cb": "NmGaXEmfTIo",
     "BV1vN4y1P7QE": "ODSJsviD_SU",
     "BV1UGSWBKE8h": "ODSJsviD_SU",
+    "BV1P5411T7MB": "P76Vbsk_3J0",
     "BV1Q5KpeWEdt": "P_fHJIYENdI",
     "BV1Cy4y1r7zY": "QAr-uHd8h8o",
     "BV1Ca4y1H7SP": "QLUIExAnNcE",
@@ -40726,6 +41082,7 @@
     "BV18x411C7PH": "DKtVpvzUF1Y",
     "BV1UXYXzYEkZ": "EL7Au1tzNxE",
     "BV12u4y1t7Lx": "Eg_ToU7m1MI",
+    "BV1PbAczPEFX": "FlQYU3m1e80",
     "BV1sa4y1t7SX": "FquNpWdf9vg",
     "BV1Nttd6zESv": "H1KP4ztKK0A",
     "BV1E4411C7ao": "HA7GwKXfJB0",
@@ -40768,6 +41125,7 @@
     "BV1mo4y1K7eA": "aWvHrih-Juk",
     "BV1uf4y1H7iu": "alasBxZsb40",
     "BV1LL4y1n7e3": "b9_Vh9h3Ohw",
+    "BV1CunZeyErG": "dX9CGRZwD-w",
     "BV18osBe1E8G": "dX9CGRZwD-w",
     "BV1CgMWzGEYM": "dX9CGRZwD-w",
     "BV1Z7411k7Vb": "d_FEaFgJyfA",
@@ -40854,6 +41212,7 @@
     "BV1wb411b7KZ": "ycPr5-27vSI",
     "BV1St41147HX": "ycPr5-27vSI",
     "BV12Y4y1z7xs": "ycPr5-27vSI",
+    "BV1CF41157rA": "ycPr5-27vSI",
     "BV1sJ411C7qq": "-BeTq99LqUo",
     "BV1ya4y1L7VN": "-ZDZtBRTyeI",
     "BV1Mb411W7Gq": "0af00UcTO-c",
@@ -40938,12 +41297,21 @@
     "BV1xc411E7Gq": "agMrewRJTow",
     "BV1eW411D7NK": "awADEuv5vWY",
     "BV1Cb411M7fK": "bJ_seXo-Enc",
+    "BV1wk4y1z7fb": "bJ_seXo-Enc",
     "BV1zS4y137x7": "boB6qu5dcCw",
     "BV11hm6BgEYu": "c33AZBnRHks",
     "BV13s41197h2": "cCeeTfsm8bk",
     "BV1ot411d7Dj": "cNZPRsrwumQ",
+    "BV1RE411t7R3": "d-ruFmgTpqA",
+    "BV1arCTBSEZ9": "d6Pcp944sRI",
+    "BV1YjkRBEEyP": "d6Pcp944sRI",
     "BV1Vx411L7mW": "eNSN6qet1kE",
+    "BV12dWLzYE9M": "eR34r7HOU14",
     "BV144411L7dg": "er416Ad3R1g",
+    "BV1BM4m1y7PL": "f8DQSM-b2cc",
+    "BV177411P7KV": "fAxHlLK3Oyk",
+    "BV1jD421M7YB": "fCd6B5HRaZ8",
+    "BV1ep411f7qq": "fT4lDU-QLUY",
     "BV1MT4y1c7p7": "fnUc_W3xE1w",
     "BV17pmjBbEfQ": "h4T_LlK1VE4",
     "BV1kZ4y1g7MC": "h4T_LlK1VE4",
