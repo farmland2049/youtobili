@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-11-06T20:56:54.403Z",
+  "checks": [
+    {
+      "sample": "VoS7DsT1rdM",
+      "kind": "original",
+      "id": "VoS7DsT1rdM",
+      "bvid": "BV1354y1y7Kw",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.292321,
+        "duration": 3396,
+        "paused": false
+      },
+      "expected_duration": 3396,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "232955064"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Rob Pike. Hello Gophers! GopherCon 2014. Apr 24, 2014\n欧长坤\n关注\n1\n0\n分享\n更多\n00:05 / 56:36\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "VplMHWSZf5c",
+      "kind": "original",
+      "id": "VplMHWSZf5c",
+      "bvid": "BV1nk5RzVEwA",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.317474,
+        "duration": 4003,
+        "paused": false
+      },
+      "expected_duration": 4003,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "29559294615"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Scott Aaronson - 多少数学是可知的？\n筑桥者Hagi\n关注\n35\n1\n分享\n更多\n0:00:05 / 1:06:43\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "Vt4Dfa4fOEY",
+      "kind": "original",
+      "id": "Vt4Dfa4fOEY",
+      "bvid": "BV1Fx4y1h76V",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.308295,
+        "duration": 246,
+        "paused": false
+      },
+      "expected_duration": 246,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1508377153"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "How English sounds to non-English speakers\nTheAssBoy\n关注\n5\n4\n分享\n更多\n00:05 / 04:06\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

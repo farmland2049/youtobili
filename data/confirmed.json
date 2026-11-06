@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T20:33:23.639886+00:00",
+  "updated_at": "2026-11-06T20:56:05.726223+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -58435,6 +58435,246 @@
       "vid": "UTqZNujQOlA",
       "status": "review",
       "completed_at": "2026-11-06T20:31:31.176901+00:00",
+      "candidates": []
+    },
+    "UWacQrEcMHk": {
+      "vid": "UWacQrEcMHk",
+      "status": "review",
+      "completed_at": "2026-11-06T20:36:59.258732+00:00",
+      "candidates": []
+    },
+    "UXZGCwAJpbM": {
+      "vid": "UXZGCwAJpbM",
+      "status": "review",
+      "completed_at": "2026-11-06T20:37:57.695031+00:00",
+      "candidates": []
+    },
+    "UacbJ72dluU": {
+      "vid": "UacbJ72dluU",
+      "status": "review",
+      "completed_at": "2026-11-06T20:38:55.041520+00:00",
+      "candidates": []
+    },
+    "Ufp8weYYDE8": {
+      "vid": "Ufp8weYYDE8",
+      "status": "review",
+      "completed_at": "2026-11-06T20:39:44.907343+00:00",
+      "candidates": []
+    },
+    "Ug8NH67_EfE": {
+      "vid": "Ug8NH67_EfE",
+      "status": "review",
+      "completed_at": "2026-11-06T20:40:08.355288+00:00",
+      "candidates": []
+    },
+    "UlJku_CSyNg": {
+      "vid": "UlJku_CSyNg",
+      "status": "review",
+      "completed_at": "2026-11-06T20:41:46.769462+00:00",
+      "candidates": []
+    },
+    "UphN1_7nP8U": {
+      "vid": "UphN1_7nP8U",
+      "status": "review",
+      "completed_at": "2026-11-06T20:43:07.411493+00:00",
+      "candidates": []
+    },
+    "UwerBZG83YM": {
+      "vid": "UwerBZG83YM",
+      "status": "review",
+      "completed_at": "2026-11-06T20:43:58.453852+00:00",
+      "candidates": []
+    },
+    "V-1RhQ1uuQ4": {
+      "vid": "V-1RhQ1uuQ4",
+      "status": "review",
+      "completed_at": "2026-11-06T20:44:22.709461+00:00",
+      "candidates": []
+    },
+    "V-vFtiDYiIw": {
+      "vid": "V-vFtiDYiIw",
+      "status": "review",
+      "completed_at": "2026-11-06T20:44:43.762220+00:00",
+      "candidates": []
+    },
+    "V74AxCqOTvg": {
+      "vid": "V74AxCqOTvg",
+      "status": "review",
+      "completed_at": "2026-11-06T20:45:48.145433+00:00",
+      "candidates": []
+    },
+    "VAesMQ6VtK8": {
+      "vid": "VAesMQ6VtK8",
+      "status": "review",
+      "completed_at": "2026-11-06T20:46:39.919369+00:00",
+      "candidates": []
+    },
+    "VCH7BWGpl5s": {
+      "vid": "VCH7BWGpl5s",
+      "status": "review",
+      "completed_at": "2026-11-06T20:46:56.777952+00:00",
+      "candidates": []
+    },
+    "VJ-p9qOhBv4": {
+      "vid": "VJ-p9qOhBv4",
+      "status": "review",
+      "completed_at": "2026-11-06T20:48:09.472224+00:00",
+      "candidates": []
+    },
+    "VLHJUfgxEO4": {
+      "vid": "VLHJUfgxEO4",
+      "status": "review",
+      "completed_at": "2026-11-06T20:48:21.644453+00:00",
+      "candidates": []
+    },
+    "VOMWzjrRiBg": {
+      "vid": "VOMWzjrRiBg",
+      "status": "review",
+      "completed_at": "2026-11-06T20:48:36.357273+00:00",
+      "candidates": []
+    },
+    "VVvnTByzTmA": {
+      "vid": "VVvnTByzTmA",
+      "status": "review",
+      "completed_at": "2026-11-06T20:49:08.026762+00:00",
+      "candidates": []
+    },
+    "VaMjhwFE1Zw": {
+      "vid": "VaMjhwFE1Zw",
+      "status": "review",
+      "completed_at": "2026-11-06T20:49:37.346062+00:00",
+      "candidates": []
+    },
+    "VeSgaJt27PM": {
+      "vid": "VeSgaJt27PM",
+      "status": "review",
+      "completed_at": "2026-11-06T20:50:16.024803+00:00",
+      "candidates": []
+    },
+    "Vn2vdQZhs0w": {
+      "vid": "Vn2vdQZhs0w",
+      "status": "review",
+      "completed_at": "2026-11-06T20:50:53.548783+00:00",
+      "candidates": []
+    },
+    "VoS7DsT1rdM": {
+      "vid": "VoS7DsT1rdM",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T20:51:04.028547+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1354y1y7Kw",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Rob Pike. Hello Gophers! GopherCon 2014. Apr 24, 2014",
+          "up": "欧长坤",
+          "duration": 3396,
+          "original_duration": 3396,
+          "cid": 232955064,
+          "aid": 842120249,
+          "segment_title": "talk:rob2014a-Hello Gophers GopherCon 2014",
+          "page_count": 1,
+          "kind": "original",
+          "views": 47,
+          "pic": "https://i0.hdslb.com/bfs/archive/3dca0f1f6cd84a2bb214c08d8862ebcd70452ca9.jpg",
+          "checked_at": "2026-11-06T20:51:02.867762+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "VpiNDxssUL0": {
+      "vid": "VpiNDxssUL0",
+      "status": "review",
+      "completed_at": "2026-11-06T20:51:38.617555+00:00",
+      "candidates": []
+    },
+    "VplMHWSZf5c": {
+      "vid": "VplMHWSZf5c",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T20:51:52.513424+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1nk5RzVEwA",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Scott Aaronson - 多少数学是可知的？",
+          "up": "筑桥者Hagi",
+          "duration": 4003,
+          "original_duration": 4003,
+          "cid": 29559294615,
+          "aid": 114383367702948,
+          "segment_title": "Scott Aaronson - 多少数学是可知的？",
+          "page_count": 1,
+          "kind": "original",
+          "views": 904,
+          "pic": "https://i2.hdslb.com/bfs/archive/7f2a6e25dc6dec097f7503e024169760c966f4d3.jpg",
+          "checked_at": "2026-11-06T20:51:51.334460+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "VrKW58MS12g": {
+      "vid": "VrKW58MS12g",
+      "status": "review",
+      "completed_at": "2026-11-06T20:52:07.422329+00:00",
+      "candidates": []
+    },
+    "VsHc91IhzdI": {
+      "vid": "VsHc91IhzdI",
+      "status": "review",
+      "completed_at": "2026-11-06T20:53:40.817599+00:00",
+      "candidates": []
+    },
+    "Vt4Dfa4fOEY": {
+      "vid": "Vt4Dfa4fOEY",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T20:54:04.376439+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Fx4y1h76V",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "How English sounds to non-English speakers",
+          "up": "TheAssBoy",
+          "duration": 246,
+          "original_duration": 246,
+          "cid": 1508377153,
+          "aid": 1003384664,
+          "segment_title": "How English sounds to non-English speakers",
+          "page_count": 1,
+          "kind": "original",
+          "views": 255,
+          "pic": "https://i2.hdslb.com/bfs/archive/678a641701ae2cec444969ee480458096b575cb1.jpg",
+          "checked_at": "2026-11-06T20:54:03.050659+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "Vy5Ky50eGJs": {
+      "vid": "Vy5Ky50eGJs",
+      "status": "review",
+      "completed_at": "2026-11-06T20:55:29.282358+00:00",
+      "candidates": []
+    },
+    "W07ZpEv9Sog": {
+      "vid": "W07ZpEv9Sog",
+      "status": "review",
+      "completed_at": null,
       "candidates": []
     }
   }

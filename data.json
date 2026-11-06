@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T20:33:23.619163+00:00",
+  "built_at": "2026-11-06T20:56:05.704161+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 4289,
-    "confirmed": 988,
-    "coverage": 0.15308335915711188,
-    "processed_match_rate": 0.23035672650967592
+    "processed": 4316,
+    "confirmed": 991,
+    "coverage": 0.15354818717074684,
+    "processed_match_rate": 0.22961075069508805
   },
   "areas": [
     {
@@ -36557,6 +36557,108 @@
       ]
     },
     {
+      "id": "VoS7DsT1rdM",
+      "title": "GopherCon 2014 Opening Keynote by Rob Pike",
+      "author": "Confreaks",
+      "source_url": "https://www.youtube.com/watch?v=VoS7DsT1rdM",
+      "summary": "Rob Pike opens GopherCon 2014 with a keynote on the design and evolution of Go. He covers where its ideas came from, including the origin of hello world.",
+      "why": "Recommended as a walkthrough of how Go's design evolved and where its ideas originated.",
+      "score": 1.0,
+      "tags": [
+        "go",
+        "rob pike",
+        "language design",
+        "gophercon",
+        "keynote"
+      ],
+      "categories": [
+        "systems-programming-languages",
+        "programming-language-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1354y1y7Kw",
+          "page": 1,
+          "cid": 232955064,
+          "title": "Rob Pike. Hello Gophers! GopherCon 2014. Apr 24, 2014",
+          "up": "欧长坤",
+          "duration": 3396,
+          "kind": "original",
+          "views": 47,
+          "pic": "https://i0.hdslb.com/bfs/archive/3dca0f1f6cd84a2bb214c08d8862ebcd70452ca9.jpg",
+          "checked_at": "2026-11-06T20:51:02.867762+00:00"
+        }
+      ]
+    },
+    {
+      "id": "VplMHWSZf5c",
+      "title": "Scott Aaronson | How Much Math Is Knowable?",
+      "author": "Harvard CMSA",
+      "source_url": "https://www.youtube.com/watch?v=VplMHWSZf5c",
+      "summary": "Scott Aaronson's Harvard CMSA talk traces what mathematical truths are knowable, from Godel and Turing to the Busy Beaver function. He covers recent work on Busy Beaver values.",
+      "why": "Pointed to in Busy Beaver threads as an accessible expert talk on the topic.",
+      "score": 1.0,
+      "tags": [
+        "busy beaver",
+        "scott aaronson",
+        "incompleteness",
+        "uncomputability",
+        "theoretical computer science"
+      ],
+      "categories": [
+        "computational-theory",
+        "logic-formal-methods"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1nk5RzVEwA",
+          "page": 1,
+          "cid": 29559294615,
+          "title": "Scott Aaronson - 多少数学是可知的？",
+          "up": "筑桥者Hagi",
+          "duration": 4003,
+          "kind": "original",
+          "views": 904,
+          "pic": "https://i2.hdslb.com/bfs/archive/7f2a6e25dc6dec097f7503e024169760c966f4d3.jpg",
+          "checked_at": "2026-11-06T20:51:51.334460+00:00"
+        }
+      ]
+    },
+    {
+      "id": "Vt4Dfa4fOEY",
+      "title": "How English sounds to non-English speakers",
+      "author": "Brian and Karl",
+      "source_url": "https://www.youtube.com/watch?v=Vt4Dfa4fOEY",
+      "summary": "'Skwerl' is a short film by Brian and Karl made entirely in fake English, imitating how English sounds to people who don't speak it. It was made for Kino Sydney and shown on QI.",
+      "why": "HN cites it as the best-known example of gibberish that mimics the sound of a language, in threads about fake languages and nonsense imitations.",
+      "score": 1.0,
+      "tags": [
+        "fake language",
+        "short film",
+        "accents",
+        "linguistics",
+        "comedy"
+      ],
+      "categories": [
+        "language-linguistics",
+        "standup-sketch-comedy"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Fx4y1h76V",
+          "page": 1,
+          "cid": 1508377153,
+          "title": "How English sounds to non-English speakers",
+          "up": "TheAssBoy",
+          "duration": 246,
+          "kind": "original",
+          "views": 255,
+          "pic": "https://i2.hdslb.com/bfs/archive/678a641701ae2cec444969ee480458096b575cb1.jpg",
+          "checked_at": "2026-11-06T20:54:03.050659+00:00"
+        }
+      ]
+    },
+    {
       "id": "ZI198eFghJk",
       "title": "Modernizing Compiler Design for Carbon Toolchain - Chandler Carruth - CppNow 2023",
       "author": "CppNow",
@@ -40262,6 +40364,9 @@
     "BV1ys41167Nv": "U6xJfP7-HCc",
     "BV1yuHCeGEjb": "UBVV8pch1dM",
     "BV1xK411A71s": "VkR2hnXR0SM",
+    "BV1354y1y7Kw": "VoS7DsT1rdM",
+    "BV1nk5RzVEwA": "VplMHWSZf5c",
+    "BV1Fx4y1h76V": "Vt4Dfa4fOEY",
     "BV1EvR5YmEp5": "ZI198eFghJk",
     "BV1bM4y1b7C5": "_2NI6t2r_Hs",
     "BV1HV411m7Ui": "_2NI6t2r_Hs",
