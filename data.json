@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T12:47:38.525144+00:00",
+  "built_at": "2026-11-06T13:29:04.684353+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 3629,
-    "confirmed": 938,
-    "coverage": 0.14533622559652928,
-    "processed_match_rate": 0.25847340865252133
+    "processed": 3687,
+    "confirmed": 943,
+    "coverage": 0.14611093895258753,
+    "processed_match_rate": 0.2557634933550312
   },
   "areas": [
     {
@@ -33518,6 +33518,52 @@
           "views": 285,
           "pic": "https://i1.hdslb.com/bfs/archive/351359cda322252d0aa365ba015500231be33394.jpg",
           "checked_at": "2026-11-06T10:30:47.289827+00:00"
+        },
+        {
+          "bvid": "BV12a411Z7eH",
+          "page": 1,
+          "cid": 789732887,
+          "title": "CppCon 2014_ Herb Sutter _Back to the Basics! Essentials of Modern C   Style_",
+          "up": "HelloDan0409",
+          "duration": 6027,
+          "kind": "original",
+          "views": 55,
+          "pic": "https://i0.hdslb.com/bfs/archive/5fb58606a5fa3e9d19624d52750e0042353f6877.jpg",
+          "checked_at": "2026-11-06T13:04:31.785554+00:00"
+        }
+      ]
+    },
+    {
+      "id": "yY96hTb8WgI",
+      "title": "It's not you. Bad doors are everywhere.",
+      "author": "Vox",
+      "source_url": "https://www.youtube.com/watch?v=yY96hTb8WgI",
+      "summary": "Vox's Joe Posner, with help from 99% Invisible, explains why bad doors are everywhere. It covers Don Norman's long-running complaint about doors and the idea that good design should not need instructions.",
+      "why": "HN uses it as the short, canonical explainer of Norman doors and affordances, linked in design and UX discussions.",
+      "score": 2.0,
+      "tags": [
+        "design",
+        "affordances",
+        "don norman",
+        "ux",
+        "door design"
+      ],
+      "categories": [
+        "ux-ui-design",
+        "product-industrial-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Yz411z7aA",
+          "page": 1,
+          "cid": 188341258,
+          "title": "【短片】It's not you. Bad doors are everywhere.（Vox）",
+          "up": "老杰森吼猴",
+          "duration": 333,
+          "kind": "original",
+          "views": 54,
+          "pic": "https://i2.hdslb.com/bfs/archive/17fc48449bb35bac807a788642b0d6459297183f.jpg",
+          "checked_at": "2026-11-06T13:05:34.803163+00:00"
         }
       ]
     },
@@ -33553,6 +33599,40 @@
           "views": 14018,
           "pic": "https://i1.hdslb.com/bfs/archive/6f154a3dd97ba89587ec2518387aea07a8168cdc.jpg",
           "checked_at": "2026-11-05T01:09:04.363768+00:00"
+        }
+      ]
+    },
+    {
+      "id": "1VPfZ_XzisU",
+      "title": "The Bizarre Behavior of Rotating Bodies",
+      "author": "Veritasium",
+      "source_url": "https://www.youtube.com/watch?v=1VPfZ_XzisU",
+      "summary": "Veritasium explains the Dzhanibekov effect, also called the tennis racket theorem, where a spinning object flips unexpectedly about its intermediate axis. The video gives an intuitive account of the underlying rotational dynamics, drawing on Terry Tao's explanation and the original papers.",
+      "why": "HN people cite it as the clearest layperson-friendly explanation of rotational instability whenever spinning bodies, tumbling objects or axis shifts come up.",
+      "score": 1.5,
+      "tags": [
+        "dzhanibekov effect",
+        "tennis racket theorem",
+        "angular momentum",
+        "intermediate axis",
+        "physics"
+      ],
+      "categories": [
+        "fundamental-physics",
+        "everyday-physics-demos"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1UC4y187yA",
+          "page": 1,
+          "cid": 205425773,
+          "title": "知识-The Bizarre Behavior of Rotating Bodies Explained",
+          "up": "老衲有座庙",
+          "duration": 889,
+          "kind": "original",
+          "views": 17,
+          "pic": "https://i2.hdslb.com/bfs/archive/6c9328895b3f1944d889fe176e025d30fe154f37.jpg",
+          "checked_at": "2026-11-06T13:14:43.696197+00:00"
         }
       ]
     },
@@ -33627,6 +33707,38 @@
       ]
     },
     {
+      "id": "4Tr0otuiQuU",
+      "title": "Beethoven - Moonlight Sonata (FULL)",
+      "author": "andrea romano",
+      "source_url": "https://www.youtube.com/watch?v=4Tr0otuiQuU",
+      "summary": "A full piano performance of Beethoven's Piano Sonata No. 14, the Moonlight Sonata, with all three movements: Adagio sostenuto, Allegretto and Presto agitato.",
+      "why": "Mostly cited as an example piece in audio and AI-music discussions, with one commenter urging people to hear the whole sonata, especially the third movement.",
+      "score": 1.5,
+      "tags": [
+        "beethoven",
+        "moonlight sonata",
+        "piano",
+        "classical music"
+      ],
+      "categories": [
+        "music-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Z4411p7ov",
+          "page": 1,
+          "cid": 94153674,
+          "title": "Beethoven - Moonlight Sonata (FULL)",
+          "up": "醉花醉酒醉美人",
+          "duration": 901,
+          "kind": "original",
+          "views": 1185,
+          "pic": "https://i2.hdslb.com/bfs/archive/9c3422724b7f808f1e80c00afb55923bfdfb631a.jpg",
+          "checked_at": "2026-11-06T13:18:36.338651+00:00"
+        }
+      ]
+    },
+    {
       "id": "AxnotgLql0k",
       "title": "'Fastware' - Andrei Alexandrescu [ ACCU 2016 ]",
       "author": "ACCU Conference",
@@ -33658,6 +33770,76 @@
           "views": 13,
           "pic": "https://i1.hdslb.com/bfs/archive/b3f5b9e804322908ff545b317b750f6bd409afbf.jpg",
           "checked_at": "2026-11-04T23:03:59.206040+00:00"
+        }
+      ]
+    },
+    {
+      "id": "BE77h7dmoQU",
+      "title": "Kubernetes: The Documentary [PART 1]",
+      "author": "CultRepo ",
+      "source_url": "https://www.youtube.com/watch?v=BE77h7dmoQU",
+      "summary": "The official Kubernetes documentary, part 1, tells how a handful of Google engineers, inspired by Docker's success, built a container orchestrator. It covers the internal resistance to open source and the competition of the container orchestrator wars.",
+      "why": "Cited for the history of why containers and Kubernetes took off, though one thread critiqued the documentary itself.",
+      "score": 1.5,
+      "tags": [
+        "kubernetes",
+        "containers",
+        "google",
+        "open source",
+        "docker",
+        "cloud wars"
+      ],
+      "categories": [
+        "cloud-devops-sre",
+        "tech-company-stories",
+        "hacker-culture-free-software"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1VL411w7sV",
+          "page": 1,
+          "cid": 489918190,
+          "title": "Kubernetes The Documentary PART 1",
+          "up": "zhaixuepan",
+          "duration": 1495,
+          "kind": "original",
+          "views": 296,
+          "pic": "https://i2.hdslb.com/bfs/archive/9718f0889e7d4d1f2b7c60782e81c779d93b09f6.jpg",
+          "checked_at": "2026-11-06T13:23:09.303042+00:00"
+        }
+      ]
+    },
+    {
+      "id": "BN-34JfUrHY",
+      "title": "Primitive Technology: Stone Axe (celt)",
+      "author": "Primitive Technology",
+      "source_url": "https://www.youtube.com/watch?v=BN-34JfUrHY",
+      "summary": "The Primitive Technology channel shows the making of a stone axe (celt) using only primitive tools and materials, from shaping and polishing a basalt head to making the wooden handle and hafting it.",
+      "why": "HN people value its authenticity: no cuts, no cheating, and real tool use done entirely with materials found on site.",
+      "score": 1.5,
+      "tags": [
+        "stone axe",
+        "hafting",
+        "bushcraft",
+        "stone tools",
+        "making"
+      ],
+      "categories": [
+        "home-diy-repair",
+        "making-woodworking-metalwork"
+      ],
+      "versions": [
+        {
+          "bvid": "BV184411o7He",
+          "page": 1,
+          "cid": 111692436,
+          "title": "Primitive Technology_ Stone Axe (celt) 原始科技：石头斧子",
+          "up": "money最严厉的父亲",
+          "duration": 263,
+          "kind": "original",
+          "views": 169,
+          "pic": "https://i1.hdslb.com/bfs/archive/3b00e10a30ae10e8d2827f93adcf499a0865b6ea.jpg",
+          "checked_at": "2026-11-06T13:23:20.302772+00:00"
         }
       ]
     },
@@ -38296,10 +38478,16 @@
     "BV1pEf2YWEja": "wOlcB-JxkFw",
     "BV137411q78m": "xFFs9UgOAlE",
     "BV1iG411V79h": "xnqTKD8uD64",
+    "BV12a411Z7eH": "xnqTKD8uD64",
+    "BV1Yz411z7aA": "yY96hTb8WgI",
     "BV1Xx411L7cG": "0lvMgMrNDlg",
+    "BV1UC4y187yA": "1VPfZ_XzisU",
     "BV1NU4y1o7FQ": "2B-XwPjn9YY",
     "BV1PQ4y1q7uF": "2z5A-COlDPk",
+    "BV1Z4411p7ov": "4Tr0otuiQuU",
     "BV1LY411Y7Wb": "AxnotgLql0k",
+    "BV1VL411w7sV": "BE77h7dmoQU",
+    "BV184411o7He": "BN-34JfUrHY",
     "BV1ZE41157iN": "Kas0tIxDvrg",
     "BV1u6CGBdE3m": "Kas0tIxDvrg",
     "BV1Ax411x7rK": "MzRCDLre1b4",
