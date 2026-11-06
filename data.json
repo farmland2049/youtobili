@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T17:32:15.757964+00:00",
+  "built_at": "2026-11-06T18:00:44.781160+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 4041,
-    "confirmed": 970,
-    "coverage": 0.15029439107530213,
-    "processed_match_rate": 0.24003959415986142
+    "processed": 4091,
+    "confirmed": 973,
+    "coverage": 0.15075921908893708,
+    "processed_match_rate": 0.2378391591297971
   },
   "areas": [
     {
@@ -35410,6 +35410,110 @@
       ]
     },
     {
+      "id": "DfznnKUwywQ",
+      "title": "Computational Design of Mechanical Characters",
+      "author": "DisneyResearchHub",
+      "source_url": "https://www.youtube.com/watch?v=DfznnKUwywQ",
+      "summary": "A Disney Research SIGGRAPH 2013 demo of an interactive system that lets non-experts design animated mechanical characters. The user sketches motion curves and the system generates optimized mechanisms and gear trains for 3D printing.",
+      "why": "HN cites it as an example of computational mechanism design, especially in threads on gears, linkages and animatronics.",
+      "score": 1.0,
+      "tags": [
+        "disney research",
+        "mechanisms",
+        "gears",
+        "3d printing",
+        "siggraph"
+      ],
+      "categories": [
+        "mechanical-engineering",
+        "3d-printing-cnc",
+        "computer-graphics-rendering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1bb411x7vG",
+          "page": 1,
+          "cid": 83296567,
+          "title": "Computational Design of Mechanical Characters",
+          "up": "妖气盎然",
+          "duration": 310,
+          "kind": "original",
+          "views": 389,
+          "pic": "https://i1.hdslb.com/bfs/archive/a99471dfb7aad12e40bf87db659cf9027425420c.jpg",
+          "checked_at": "2026-11-06T17:34:54.086608+00:00"
+        }
+      ]
+    },
+    {
+      "id": "EESYomdoeCs",
+      "title": "How Boeing Lost Its Way",
+      "author": "Bloomberg Originals",
+      "source_url": "https://www.youtube.com/watch?v=EESYomdoeCs",
+      "summary": "A Bloomberg documentary on how Boeing's failures around the 737 Max crashes followed a shift in company culture and cost-cutting. It covers the grounding, the stock drop and questions about the company's future.",
+      "why": "Cited as a source for Boeing's post-merger cultural decline and the undermining of its engineers.",
+      "score": 1.0,
+      "tags": [
+        "boeing",
+        "737 max",
+        "corporate culture",
+        "aviation",
+        "bloomberg"
+      ],
+      "categories": [
+        "aviation",
+        "tech-company-stories",
+        "management-leadership"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1wc411h7PK",
+          "page": 1,
+          "cid": 171479127,
+          "title": "搬运 How Boeing Lost Its Way",
+          "up": "gyigiygjhi",
+          "duration": 1283,
+          "kind": "original",
+          "views": 140,
+          "pic": "https://i1.hdslb.com/bfs/archive/c9974749c7e587bf1e6edb2715c33fe2b5bffc2a.jpg",
+          "checked_at": "2026-11-06T17:40:05.888456+00:00"
+        }
+      ]
+    },
+    {
+      "id": "EUWVVTY63hc",
+      "title": "“Too Much Thermal Paste” – Benchmark of Thermal Paste Quantity",
+      "author": "Gamers Nexus",
+      "source_url": "https://www.youtube.com/watch?v=EUWVVTY63hc",
+      "summary": "Gamers Nexus benchmarks how the amount and application method of thermal paste affect CPU cooling. It compares pea-sized dots, thin spreads and large blobs with Thermal Grizzly Kryonaut.",
+      "why": "HN cites it as data that too much thermal paste is mostly a myth and that too little is the real risk.",
+      "score": 1.0,
+      "tags": [
+        "thermal paste",
+        "cpu cooling",
+        "benchmark",
+        "pc building",
+        "gamers nexus"
+      ],
+      "categories": [
+        "computer-architecture",
+        "consumer-devices"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1444y1K7a8",
+          "page": 1,
+          "cid": 545637236,
+          "title": "CPU硅脂涂法用量效果 涂太多硅脂后果 Too Much Thermal Paste  Benchmark of Thermal Paste Quantity",
+          "up": "CruX808",
+          "duration": 1258,
+          "kind": "original",
+          "views": 1712,
+          "pic": "https://i0.hdslb.com/bfs/archive/81023cf8047d730bc9b73569ef7d2142b8f4af44.jpg",
+          "checked_at": "2026-11-06T17:41:27.240137+00:00"
+        }
+      ]
+    },
+    {
       "id": "GwzN5YwMzv0",
       "title": "Does the Past Still Exist?",
       "author": "Sabine Hossenfelder",
@@ -39490,6 +39594,9 @@
     "BV1gq4y1U7xN": "CBrj4S24074",
     "BV1kx411u7tz": "CIjXUg1s5gc",
     "BV1PioWYdE57": "Clgl63CWOkM",
+    "BV1bb411x7vG": "DfznnKUwywQ",
+    "BV1wc411h7PK": "EESYomdoeCs",
+    "BV1444y1K7a8": "EUWVVTY63hc",
     "BV1Uw4m1r7Vd": "GwzN5YwMzv0",
     "BV15V4y1E7mu": "GwzN5YwMzv0",
     "BV1vryLB1E5H": "IJEaMtNN_dM",

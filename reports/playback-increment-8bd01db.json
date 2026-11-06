@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-11-06T18:01:21.821Z",
+  "checks": [
+    {
+      "sample": "DfznnKUwywQ",
+      "kind": "original",
+      "id": "DfznnKUwywQ",
+      "bvid": "BV1bb411x7vG",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.250214,
+        "duration": 310,
+        "paused": false
+      },
+      "expected_duration": 310,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "83296567"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Computational Design of Mechanical Characters\n妖气盎然\n关注\n12\n0\n分享\n更多\n00:05 / 05:10\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "EESYomdoeCs",
+      "kind": "original",
+      "id": "EESYomdoeCs",
+      "bvid": "BV1wc411h7PK",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.151907,
+        "duration": 1283,
+        "paused": false
+      },
+      "expected_duration": 1283,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "171479127"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "搬运 How Boeing Lost Its Way\ngyigiygjhi\n关注\n4\n0\n分享\n更多\n00:04 / 21:23\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "EUWVVTY63hc",
+      "kind": "original",
+      "id": "EUWVVTY63hc",
+      "bvid": "BV1444y1K7a8",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.939525,
+        "duration": 1258,
+        "paused": false
+      },
+      "expected_duration": 1258,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "545637236"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "CPU硅脂涂法用量效果 涂太多硅脂后果 Too Much Thermal Paste Benchmark of Thermal Paste Quantity\nCruX808\n关注\n14\n0\n分享\n更多\n00:04 / 20:58\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}
