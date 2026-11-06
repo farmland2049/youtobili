@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T19:05:54.992226+00:00",
+  "built_at": "2026-11-06T19:41:02.671101+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 4171,
-    "confirmed": 977,
-    "coverage": 0.1513789897737837,
-    "processed_match_rate": 0.2342363941500839
+    "processed": 4221,
+    "confirmed": 979,
+    "coverage": 0.15168887511620702,
+    "processed_match_rate": 0.23193556029376924
   },
   "areas": [
     {
@@ -32950,6 +32950,18 @@
       ],
       "versions": [
         {
+          "bvid": "BV1UK411J76h",
+          "page": 1,
+          "cid": 220118803,
+          "title": "【Jonathan Blow】Talk:Video Games and the Future of Education",
+          "up": "玖条和音",
+          "duration": 9871,
+          "kind": "original",
+          "views": 716,
+          "pic": "https://i2.hdslb.com/bfs/archive/27658a14697c06c40877363edef20e878559eed1.jpg",
+          "checked_at": "2026-11-06T19:39:56.284443+00:00"
+        },
+        {
           "bvid": "BV1Gv411q7ck",
           "page": 1,
           "cid": 214922429,
@@ -35739,6 +35751,30 @@
           "views": 86,
           "pic": "https://i2.hdslb.com/bfs/archive/627716297a4a897b64b8b6d5b58225c01d585f3e.jpg",
           "checked_at": "2026-11-04T23:03:55.372919+00:00"
+        },
+        {
+          "bvid": "BV1X9xC6LErK",
+          "page": 1,
+          "cid": 43201136470,
+          "title": "【双语字幕】Andrej Karpathy：软件正在再次改变（Software 3.0）｜YC AI Startup School 演讲",
+          "up": "wbconnie",
+          "duration": 2372,
+          "kind": "sub_zh",
+          "views": 9,
+          "pic": "https://i0.hdslb.com/bfs/archive/0324710ef4399ef6ac40f2a9e9b8bb482e979248.jpg",
+          "checked_at": "2026-11-06T19:39:57.512677+00:00"
+        },
+        {
+          "bvid": "BV1pTFszRE7x",
+          "page": 1,
+          "cid": 35887909474,
+          "title": "Andrej Karpathy在YC的主题演讲《Software in the era of AI》: Software Is Changing (Again)",
+          "up": "自行之",
+          "duration": 2369,
+          "kind": "original",
+          "views": 310,
+          "pic": "https://i0.hdslb.com/bfs/archive/e4e65fd283d44030298fcf622aa53a35321c69af.jpg",
+          "checked_at": "2026-11-06T19:39:55.210993+00:00"
         }
       ]
     },
@@ -35844,6 +35880,52 @@
       ]
     },
     {
+      "id": "NvDvESEXcgE",
+      "title": "Movie Accent Expert Breaks Down 32 Actors' Accents | WIRED",
+      "author": "WIRED",
+      "source_url": "https://www.youtube.com/watch?v=NvDvESEXcgE",
+      "summary": "Dialect coach Erik Singer analyzes how accurate the accents are of 32 well-known actors, including Brad Pitt and Will Smith, in WIRED's breakdown.",
+      "why": "HN finds Erik Singer's accent breakdowns informative and entertaining, and links them in discussions of accents and speech.",
+      "score": 1.0,
+      "tags": [
+        "accents",
+        "dialect coaching",
+        "erik singer",
+        "actors",
+        "linguistics"
+      ],
+      "categories": [
+        "language-linguistics",
+        "film-tv-clips"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1iW411N7Hi",
+          "page": 1,
+          "cid": 40799988,
+          "title": "口音教练分析32位演员的口音 Movie Accent Expert Breaks Down 32 Actors Accents",
+          "up": "燕子maishouji",
+          "duration": 1001,
+          "kind": "original",
+          "views": 610,
+          "pic": "https://i2.hdslb.com/bfs/archive/e7d246ebeddb7a03b8cf80a83926d4878169d838.jpg",
+          "checked_at": "2026-11-06T19:23:52.568803+00:00"
+        },
+        {
+          "bvid": "BV1TQ4y1P7Ch",
+          "page": 1,
+          "cid": 194980013,
+          "title": "Movie Accent Expert Breaks Down 32 Actors' Accents | WIRED",
+          "up": "迷途单程票",
+          "duration": 1001,
+          "kind": "original",
+          "views": 33,
+          "pic": "https://i2.hdslb.com/bfs/archive/d3b5445cf7377fb8aab5dcae2ed6ce2199b65cb2.jpg",
+          "checked_at": "2026-11-06T19:39:54.180024+00:00"
+        }
+      ]
+    },
+    {
       "id": "O9upVbGSBFo",
       "title": "Brian Kernighan: UNIX, C, AWK, AMPL, and Go Programming | Lex Fridman Podcast #109",
       "author": "Lex Fridman",
@@ -35875,6 +35957,40 @@
           "views": 744,
           "pic": "https://i1.hdslb.com/bfs/archive/c73587b60e50cc23788ee2719acf28bb6c4d584d.jpg",
           "checked_at": "2026-11-04T23:03:58.021239+00:00"
+        }
+      ]
+    },
+    {
+      "id": "Os7FE3J-U5Q",
+      "title": "Andy Keep - Writing a Nanopass Compiler",
+      "author": "ClojureTV",
+      "source_url": "https://www.youtube.com/watch?v=Os7FE3J-U5Q",
+      "summary": "Andy Keep's Clojure/Conj talk on writing a nanopass compiler, built from many single-task passes with formally defined intermediate languages. It covers the framework's origins in a compiler teaching course at Indiana University.",
+      "why": "Cited alongside compiler-construction resources as the go-to talk on the nanopass approach used in Chez Scheme.",
+      "score": 1.0,
+      "tags": [
+        "nanopass",
+        "compilers",
+        "intermediate languages",
+        "chez scheme",
+        "clojure conj"
+      ],
+      "categories": [
+        "compilers-interpreters",
+        "functional-programming"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1rT4y1c7WG",
+          "page": 1,
+          "cid": 241184325,
+          "title": "Andy Keep - Writing a Nanopass Compiler",
+          "up": "想的太多不想动",
+          "duration": 2448,
+          "kind": "original",
+          "views": 198,
+          "pic": "https://i1.hdslb.com/bfs/archive/8fc255f1ac9395ed219bb6ded2549b245945a809.jpg",
+          "checked_at": "2026-11-06T19:30:10.150048+00:00"
         }
       ]
     },
@@ -39674,6 +39790,7 @@
     "BV1SSQ5Y4EED": "pNlq-EVld70",
     "BV1NMXKBoE3s": "pNlq-EVld70",
     "BV135411N7q2": "pq1XqP4-qOo",
+    "BV1UK411J76h": "qWFScmtiC44",
     "BV1Gv411q7ck": "qWFScmtiC44",
     "BV1Rh411J7Kj": "qgG5Jhi_Els",
     "BV1Du4qe1Ef6": "qs2QcycggWU",
@@ -39764,10 +39881,15 @@
     "BV1wS411P75S": "JOiGEI9pQBs",
     "BV1V3hgzyEEf": "KZeIEiBrT_w",
     "BV1J6dvBME8Y": "LCEmiRjPEtQ",
+    "BV1X9xC6LErK": "LCEmiRjPEtQ",
+    "BV1pTFszRE7x": "LCEmiRjPEtQ",
     "BV1Nb411F7L3": "LikxFZZO2sk",
     "BV19P4y187xk": "MQufJBVvAtY",
     "BV1Jv411A79R": "NiTsduRreug",
+    "BV1iW411N7Hi": "NvDvESEXcgE",
+    "BV1TQ4y1P7Ch": "NvDvESEXcgE",
     "BV1Z54y1v753": "O9upVbGSBFo",
+    "BV1rT4y1c7WG": "Os7FE3J-U5Q",
     "BV1ME15BiEAo": "RcVA8Nj6HEo",
     "BV1vs411t7ga": "TnzcwTyr6cE",
     "BV1Uf4y127Nb": "U5kIdtMJGc8",

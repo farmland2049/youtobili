@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T19:05:55.013201+00:00",
+  "updated_at": "2026-11-06T19:41:02.691493+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -759,6 +759,54 @@
           "views": 86,
           "pic": "https://i2.hdslb.com/bfs/archive/627716297a4a897b64b8b6d5b58225c01d585f3e.jpg",
           "checked_at": "2026-11-04T23:03:55.372919+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1pTFszRE7x",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1pTFszRE7x",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Andrej Karpathy在YC的主题演讲《Software in the era of AI》: Software Is Changing (Again)",
+          "up": "自行之",
+          "duration": 2369,
+          "original_duration": 2372,
+          "cid": 35887909474,
+          "aid": 116028810010136,
+          "segment_title": "Andrej Karpathy在YC的主题演讲《Software in the era of AI》: Software Is Changing (Again)",
+          "page_count": 1,
+          "kind": "original",
+          "views": 310,
+          "pic": "https://i0.hdslb.com/bfs/archive/e4e65fd283d44030298fcf622aa53a35321c69af.jpg",
+          "checked_at": "2026-11-06T19:39:55.210993+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1X9xC6LErK",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1X9xC6LErK",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【双语字幕】Andrej Karpathy：软件正在再次改变（Software 3.0）｜YC AI Startup School 演讲",
+          "up": "wbconnie",
+          "duration": 2372,
+          "original_duration": 2372,
+          "cid": 43201136470,
+          "aid": 117534011426305,
+          "segment_title": "【双语字幕】Andrej Karpathy：软件正在再次改变（Software 3.0）｜YC AI Startup School 演讲",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 9,
+          "pic": "https://i0.hdslb.com/bfs/archive/0324710ef4399ef6ac40f2a9e9b8bb482e979248.jpg",
+          "checked_at": "2026-11-06T19:39:57.512677+00:00",
           "availability": "available"
         }
       ]
@@ -2408,6 +2456,30 @@
           "checked_at": "2026-11-04T23:03:55.465362+00:00",
           "availability": "available",
           "aid": 243903496
+        },
+        {
+          "bvid": "BV1UK411J76h",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1UK411J76h",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【Jonathan Blow】Talk:Video Games and the Future of Education",
+          "up": "玖条和音",
+          "duration": 9871,
+          "original_duration": 9868,
+          "cid": 220118803,
+          "aid": 499017267,
+          "segment_title": "Talk-Video Games and the Future of Education",
+          "page_count": 1,
+          "kind": "original",
+          "views": 716,
+          "pic": "https://i2.hdslb.com/bfs/archive/27658a14697c06c40877363edef20e878559eed1.jpg",
+          "checked_at": "2026-11-06T19:39:56.284443+00:00",
+          "availability": "available"
         }
       ]
     },
@@ -57270,6 +57342,377 @@
       "vid": "MYGJ9jrbpvg",
       "status": "review",
       "completed_at": "2026-11-06T19:04:10.023649+00:00",
+      "candidates": []
+    },
+    "Ma9FrN5COIo": {
+      "vid": "Ma9FrN5COIo",
+      "status": "review",
+      "completed_at": "2026-11-06T19:08:56.300880+00:00",
+      "candidates": []
+    },
+    "MeMPCSqQ-34": {
+      "vid": "MeMPCSqQ-34",
+      "status": "review",
+      "completed_at": "2026-11-06T19:09:14.209244+00:00",
+      "candidates": []
+    },
+    "MesrrYyuoa4": {
+      "vid": "MesrrYyuoa4",
+      "status": "review",
+      "completed_at": "2026-11-06T19:09:46.522673+00:00",
+      "candidates": []
+    },
+    "Mh5LY4Mz15o": {
+      "vid": "Mh5LY4Mz15o",
+      "status": "review",
+      "completed_at": "2026-11-06T19:10:39.726743+00:00",
+      "candidates": []
+    },
+    "MhQ70O1MiXc": {
+      "vid": "MhQ70O1MiXc",
+      "status": "review",
+      "completed_at": "2026-11-06T19:11:01.470206+00:00",
+      "candidates": []
+    },
+    "MkeS_0NQUZs": {
+      "vid": "MkeS_0NQUZs",
+      "status": "review",
+      "completed_at": "2026-11-06T19:11:55.322330+00:00",
+      "candidates": []
+    },
+    "Mq785nJ0FXQ": {
+      "vid": "Mq785nJ0FXQ",
+      "status": "review",
+      "completed_at": "2026-11-06T19:12:16.385129+00:00",
+      "candidates": []
+    },
+    "Mri66Uz6-8Y": {
+      "vid": "Mri66Uz6-8Y",
+      "status": "review",
+      "completed_at": "2026-11-06T19:12:32.971696+00:00",
+      "candidates": []
+    },
+    "MtSE4rglxbY": {
+      "vid": "MtSE4rglxbY",
+      "status": "review",
+      "completed_at": "2026-11-06T19:13:08.922564+00:00",
+      "candidates": []
+    },
+    "MvRTALJp8DM": {
+      "vid": "MvRTALJp8DM",
+      "status": "review",
+      "completed_at": "2026-11-06T19:14:22.109942+00:00",
+      "candidates": []
+    },
+    "MxT6IwUtLSU": {
+      "vid": "MxT6IwUtLSU",
+      "status": "review",
+      "completed_at": "2026-11-06T19:15:11.723769+00:00",
+      "candidates": []
+    },
+    "Myq_Hc_39aI": {
+      "vid": "Myq_Hc_39aI",
+      "status": "review",
+      "completed_at": "2026-11-06T19:15:19.917886+00:00",
+      "candidates": []
+    },
+    "NMq0vncHJvU": {
+      "vid": "NMq0vncHJvU",
+      "status": "review",
+      "completed_at": "2026-11-06T19:15:42.565084+00:00",
+      "candidates": []
+    },
+    "NSDTZQdo6H8": {
+      "vid": "NSDTZQdo6H8",
+      "status": "review",
+      "completed_at": "2026-11-06T19:16:36.234335+00:00",
+      "candidates": []
+    },
+    "NSaRb-iFwPA": {
+      "vid": "NSaRb-iFwPA",
+      "status": "review",
+      "completed_at": "2026-11-06T19:17:01.662414+00:00",
+      "candidates": []
+    },
+    "NURiiQatBXA": {
+      "vid": "NURiiQatBXA",
+      "status": "review",
+      "completed_at": "2026-11-06T19:17:17.191724+00:00",
+      "candidates": []
+    },
+    "NUqytjlHNIM": {
+      "vid": "NUqytjlHNIM",
+      "status": "review",
+      "completed_at": "2026-11-06T19:18:49.592741+00:00",
+      "candidates": []
+    },
+    "NV3sBlRgzTI": {
+      "vid": "NV3sBlRgzTI",
+      "status": "review",
+      "completed_at": "2026-11-06T19:20:17.311837+00:00",
+      "candidates": []
+    },
+    "NVVsdlHslfI": {
+      "vid": "NVVsdlHslfI",
+      "status": "review",
+      "completed_at": "2026-11-06T19:20:43.429300+00:00",
+      "candidates": []
+    },
+    "NWHfY_lvKIQ": {
+      "vid": "NWHfY_lvKIQ",
+      "status": "review",
+      "completed_at": "2026-11-06T19:21:03.272215+00:00",
+      "candidates": []
+    },
+    "Nbj1AR_aAcE": {
+      "vid": "Nbj1AR_aAcE",
+      "status": "review",
+      "completed_at": "2026-11-06T19:21:15.761327+00:00",
+      "candidates": []
+    },
+    "Ne1ApyqSvm0": {
+      "vid": "Ne1ApyqSvm0",
+      "status": "review",
+      "completed_at": "2026-11-06T19:21:39.236250+00:00",
+      "candidates": []
+    },
+    "NlBjNmXvqIM": {
+      "vid": "NlBjNmXvqIM",
+      "status": "review",
+      "completed_at": "2026-11-06T19:22:40.091246+00:00",
+      "candidates": []
+    },
+    "NqKyHEJe9_w": {
+      "vid": "NqKyHEJe9_w",
+      "status": "review",
+      "completed_at": "2026-11-06T19:23:04.444030+00:00",
+      "candidates": []
+    },
+    "Nu-nlQqFCKg": {
+      "vid": "Nu-nlQqFCKg",
+      "status": "review",
+      "completed_at": "2026-11-06T19:23:42.130477+00:00",
+      "candidates": []
+    },
+    "NvDvESEXcgE": {
+      "vid": "NvDvESEXcgE",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T19:23:53.632529+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1iW411N7Hi",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "口音教练分析32位演员的口音 Movie Accent Expert Breaks Down 32 Actors Accents",
+          "up": "燕子maishouji",
+          "duration": 1001,
+          "original_duration": 1001,
+          "cid": 40799988,
+          "aid": 24319442,
+          "segment_title": "Movie Accent Expert Breaks Down 32 Actors Accents",
+          "page_count": 1,
+          "kind": "original",
+          "views": 610,
+          "pic": "https://i2.hdslb.com/bfs/archive/e7d246ebeddb7a03b8cf80a83926d4878169d838.jpg",
+          "checked_at": "2026-11-06T19:23:52.568803+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1TQ4y1P7Ch",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "Movie Accent Expert Breaks Down 32 Actors' Accents | WIRED",
+          "up": "迷途单程票",
+          "duration": 1001,
+          "original_duration": 1001,
+          "cid": 194980013,
+          "aid": 710783589,
+          "segment_title": "Movie Accent Expert Breaks Down 32 Actors' Accents _ WIRED",
+          "page_count": 1,
+          "kind": "original",
+          "views": 33,
+          "pic": "https://i2.hdslb.com/bfs/archive/d3b5445cf7377fb8aab5dcae2ed6ce2199b65cb2.jpg",
+          "checked_at": "2026-11-06T19:39:54.180024+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "OA8dNFiVaF0": {
+      "vid": "OA8dNFiVaF0",
+      "status": "review",
+      "completed_at": "2026-11-06T19:25:06.353597+00:00",
+      "candidates": []
+    },
+    "OBfB2MJw3qg": {
+      "vid": "OBfB2MJw3qg",
+      "status": "review",
+      "completed_at": "2026-11-06T19:25:31.594942+00:00",
+      "candidates": []
+    },
+    "OFvXuyITwBI": {
+      "vid": "OFvXuyITwBI",
+      "status": "review",
+      "completed_at": "2026-11-06T19:25:48.988251+00:00",
+      "candidates": []
+    },
+    "OHKKcd3sx2c": {
+      "vid": "OHKKcd3sx2c",
+      "status": "review",
+      "completed_at": "2026-11-06T19:26:06.902877+00:00",
+      "candidates": []
+    },
+    "OX31kZbAXsA": {
+      "vid": "OX31kZbAXsA",
+      "status": "review",
+      "completed_at": "2026-11-06T19:26:17.360780+00:00",
+      "candidates": []
+    },
+    "OXS8ljif9b8": {
+      "vid": "OXS8ljif9b8",
+      "status": "review",
+      "completed_at": "2026-11-06T19:26:42.882760+00:00",
+      "candidates": []
+    },
+    "OXzfvYoFQFo": {
+      "vid": "OXzfvYoFQFo",
+      "status": "review",
+      "completed_at": "2026-11-06T19:27:01.124957+00:00",
+      "candidates": []
+    },
+    "O_TjBNjc9Bo": {
+      "vid": "O_TjBNjc9Bo",
+      "status": "review",
+      "completed_at": "2026-11-06T19:27:18.023823+00:00",
+      "candidates": []
+    },
+    "OhnjMdzGusc": {
+      "vid": "OhnjMdzGusc",
+      "status": "review",
+      "completed_at": "2026-11-06T19:28:02.679120+00:00",
+      "candidates": []
+    },
+    "OjkzfeJz66o": {
+      "vid": "OjkzfeJz66o",
+      "status": "review",
+      "completed_at": "2026-11-06T19:28:21.676774+00:00",
+      "candidates": []
+    },
+    "Olj8arvfYj4": {
+      "vid": "Olj8arvfYj4",
+      "status": "review",
+      "completed_at": "2026-11-06T19:29:04.585375+00:00",
+      "candidates": []
+    },
+    "OmZOZjHjT5E": {
+      "vid": "OmZOZjHjT5E",
+      "status": "review",
+      "completed_at": "2026-11-06T19:29:37.837870+00:00",
+      "candidates": []
+    },
+    "OrG7oG8Tvp8": {
+      "vid": "OrG7oG8Tvp8",
+      "status": "review",
+      "completed_at": "2026-11-06T19:29:58.900644+00:00",
+      "candidates": []
+    },
+    "Os7FE3J-U5Q": {
+      "vid": "Os7FE3J-U5Q",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T19:30:11.214084+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1rT4y1c7WG",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Andy Keep - Writing a Nanopass Compiler",
+          "up": "想的太多不想动",
+          "duration": 2448,
+          "original_duration": 2448,
+          "cid": 241184325,
+          "aid": 927328001,
+          "segment_title": "COMMON_VIDEO_20200826204509296435aae2c34bbfb12eb31d0f6b031e",
+          "page_count": 1,
+          "kind": "original",
+          "views": 198,
+          "pic": "https://i1.hdslb.com/bfs/archive/8fc255f1ac9395ed219bb6ded2549b245945a809.jpg",
+          "checked_at": "2026-11-06T19:30:10.150048+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "P0ukYf_xvgc": {
+      "vid": "P0ukYf_xvgc",
+      "status": "review",
+      "completed_at": "2026-11-06T19:31:12.890738+00:00",
+      "candidates": []
+    },
+    "P7GKK3liv8M": {
+      "vid": "P7GKK3liv8M",
+      "status": "review",
+      "completed_at": "2026-11-06T19:31:27.077647+00:00",
+      "candidates": []
+    },
+    "P8pjd1QEA0c": {
+      "vid": "P8pjd1QEA0c",
+      "status": "review",
+      "completed_at": "2026-11-06T19:31:47.645724+00:00",
+      "candidates": []
+    },
+    "PDBiLT3LASk": {
+      "vid": "PDBiLT3LASk",
+      "status": "review",
+      "completed_at": "2026-11-06T19:33:07.153892+00:00",
+      "candidates": []
+    },
+    "PM2RxWtF4Ds": {
+      "vid": "PM2RxWtF4Ds",
+      "status": "review",
+      "completed_at": "2026-11-06T19:33:49.257593+00:00",
+      "candidates": []
+    },
+    "PMotykw0SIk": {
+      "vid": "PMotykw0SIk",
+      "status": "review",
+      "completed_at": "2026-11-06T19:34:27.876971+00:00",
+      "candidates": []
+    },
+    "PRa6t_e7dgI": {
+      "vid": "PRa6t_e7dgI",
+      "status": "review",
+      "completed_at": "2026-11-06T19:35:58.740796+00:00",
+      "candidates": []
+    },
+    "PYmi0DLzBdQ": {
+      "vid": "PYmi0DLzBdQ",
+      "status": "review",
+      "completed_at": "2026-11-06T19:37:04.078498+00:00",
+      "candidates": []
+    },
+    "PhNUjg9X4g8": {
+      "vid": "PhNUjg9X4g8",
+      "status": "review",
+      "completed_at": "2026-11-06T19:38:17.506780+00:00",
+      "candidates": []
+    },
+    "PiGkzgfR_c0": {
+      "vid": "PiGkzgfR_c0",
+      "status": "review",
+      "completed_at": "2026-11-06T19:39:09.180585+00:00",
       "candidates": []
     }
   }

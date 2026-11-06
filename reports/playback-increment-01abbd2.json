@@ -1,0 +1,131 @@
+{
+  "checked_at": "2026-11-06T19:42:41.764Z",
+  "checks": [
+    {
+      "sample": "LCEmiRjPEtQ",
+      "kind": "original",
+      "id": "LCEmiRjPEtQ",
+      "bvid": "BV1pTFszRE7x",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.945548,
+        "duration": 2369,
+        "paused": false
+      },
+      "expected_duration": 2369,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "35887909474"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Andrej Karpathy在YC的主题演讲《Software in the era of AI》: Software Is Changing (Again)\n自行之\n关注\n9\n0\n分享\n更多\n00:04 / 39:29\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "LCEmiRjPEtQ",
+      "kind": "sub_zh",
+      "id": "LCEmiRjPEtQ",
+      "bvid": "BV1X9xC6LErK",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.955713,
+        "duration": 2372,
+        "paused": false
+      },
+      "expected_duration": 2372,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "43201136470"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【双语字幕】Andrej Karpathy：软件正在再次改变（Software 3.0）｜YC AI Startup School 演讲\nwbconnie\n关注\n0\n0\n分享\n更多\n00:04 / 39:32\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "qWFScmtiC44",
+      "kind": "original",
+      "id": "qWFScmtiC44",
+      "bvid": "BV1UK411J76h",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.954851,
+        "duration": 9869.699988888888,
+        "paused": false
+      },
+      "expected_duration": 9871,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "220118803"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【Jonathan Blow】Talk:Video Games and the Future of Education\n玖条和音\n关注\n29\n2\n分享\n更多\n0:00:04 / 2:44:30\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "NvDvESEXcgE",
+      "kind": "original",
+      "id": "NvDvESEXcgE",
+      "bvid": "BV1iW411N7Hi",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.976399,
+        "duration": 1001,
+        "paused": false
+      },
+      "expected_duration": 1001,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "40799988"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "口音教练分析32位演员的口音 Movie Accent Expert Breaks Down 32 Actors Accents\n燕子maishouji\n关注\n11\n1\n分享\n更多\n00:04 / 16:41\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "NvDvESEXcgE",
+      "kind": "original",
+      "id": "NvDvESEXcgE",
+      "bvid": "BV1TQ4y1P7Ch",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.956274,
+        "duration": 1001,
+        "paused": false
+      },
+      "expected_duration": 1001,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "194980013"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Movie Accent Expert Breaks Down 32 Actors' Accents | WIRED\n迷途单程票\n关注\n1\n1\n分享\n更多\n00:04 / 16:41\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "Os7FE3J-U5Q",
+      "kind": "original",
+      "id": "Os7FE3J-U5Q",
+      "bvid": "BV1rT4y1c7WG",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.943332,
+        "duration": 2448,
+        "paused": false
+      },
+      "expected_duration": 2448,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "241184325"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Andy Keep - Writing a Nanopass Compiler\n想的太多不想动\n关注\n8\n3\n分享\n更多\n00:04 / 40:48\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}
