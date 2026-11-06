@@ -1,70 +1,45 @@
 # 匹配进展
 
-更新时间：2026-11-06T02:45:38.771453+00:00
+更新时间：2026-11-06T03:09:08.480044+00:00
 
 - 原片库：6454
-- 完成处理：2606
-- 已确认原片：816
-- 全库覆盖率：12.64%
-- 已处理原片匹配率：31.31%
-- 状态：{'confirmed': 816, 'review': 1798}
+- 完成处理：2666
+- 已确认原片：827
+- 全库覆盖率：12.81%
+- 已处理原片匹配率：31.02%
+- 状态：{'confirmed': 827, 'review': 1848}
 
-- 待审中尚需扩大候选检查：168
-- 已扩大检查仍待审核：1630
+- 待审中尚需扩大候选检查：169
+- 已扩大检查仍待审核：1679
 
 ## 最近批次
 
 ```json
 {
-  "id": "20261106T023535Z",
+  "id": "20261106T030554Z",
   "selected": 50,
-  "completed": 34,
+  "completed": 8,
   "errors": [
     {
-      "vid": "AJgY9FtDLbs",
+      "vid": "NTJQTc-TqpU",
       "reason": "URLError"
     }
   ],
   "stopped": false,
   "originals": [
-    "4VrLQXR7mKU",
-    "4YTfxresvS8",
-    "4kLPyV8lBbs",
-    "4q1dgn_C0AU",
-    "5KiC03_wVjc",
-    "5RpPTRcz1no",
-    "5XDTQLa3NjE",
-    "5hUT8VZNvm8",
-    "5sVfTPaxRwk",
-    "5uhIiI9Ld5M",
-    "6gmP4nk0EOE",
-    "6ihrGNGesfI",
-    "6reLWfFNer0",
-    "77IdKFqXbUY",
-    "7Hlb8YX2-W8",
-    "7LqaotiGWjQ",
-    "7S-DGTBZU14",
-    "7VG_s2PCH_c",
-    "7Vc8sxhy2I4",
-    "7gtog_gOaGQ",
-    "7ne0GArfeMs",
-    "7oWip00iXbo",
-    "7xQQkzWhMOc",
-    "8QiPFmIMxFc",
-    "8XUutFBbUrg",
-    "8b7erU_DOfE",
-    "8dhp_20j0Ys",
-    "8gw0rXPMMPE",
-    "9Ikf1uZli4g",
-    "9NOncx2jU0Q",
-    "9WcHsT97suU",
-    "9qljpi5jiMQ",
-    "A9U5wK_boYM",
-    "AGUwcs9qJXY"
+    "McLq1hEq3UY",
+    "MnrJzXM7a6o",
+    "MzzD2F73iGU",
+    "N8SS-rUEZPg",
+    "N9c7_8Gp7gI",
+    "ND2TeNfcmKA",
+    "NIu_dJGyIQI",
+    "NK1zlz67MjU"
   ],
   "primary_first": true,
-  "deferred_candidates": 44,
+  "deferred_candidates": 20,
   "excluded_originals": [
+    "AJgY9FtDLbs",
     "HQKy1KJpSVc",
     "QVuU2YCwHjw",
     "SYeeTvitvFU",
@@ -73,13 +48,13 @@
     "st571DYYTR8",
     "vs41JrnGaxc"
   ],
-  "attempted": 35,
-  "unattempted": 15,
+  "attempted": 9,
+  "unattempted": 41,
   "statuses": {
-    "review": 33,
-    "confirmed": 2
+    "review": 8,
+    "confirmed": 1
   },
-  "candidate_count": 1311
+  "candidate_count": 341
 }
 ```
 
@@ -87,11 +62,11 @@
 
 ```json
 {
-  "id": "2026-11-06T02:35:08.562964+00:00",
-  "source": "serial-20261106T021610Z-leads-2.json",
-  "attempted": 5,
-  "completed": 5,
-  "confirmed": 4,
+  "id": "2026-11-06T03:05:21.531051+00:00",
+  "source": "serial-20261106T024925Z-leads-2.json",
+  "attempted": 7,
+  "completed": 7,
+  "confirmed": 6,
   "errors": [],
   "stopped": false
 }

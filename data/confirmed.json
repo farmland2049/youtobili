@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T02:45:38.803539+00:00",
+  "updated_at": "2026-11-06T03:09:08.509914+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -15483,6 +15483,30 @@
           "views": 457,
           "pic": "https://i2.hdslb.com/bfs/archive/77e9c2e0d1c087717eecec27cdd6dc2770508f93.jpg",
           "checked_at": "2026-11-04T23:03:58.561549+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1cJ411v7nq",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1cJ411v7nq",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【科普】【thunderf00t】为什么超级高铁 Hyperloop 是一派胡言",
+          "up": "无毒填充物",
+          "duration": 1719,
+          "original_duration": 1719,
+          "cid": 134269009,
+          "aid": 78475403,
+          "segment_title": "The Hyperloop - BUSTED!",
+          "page_count": 1,
+          "kind": "original",
+          "views": 517,
+          "pic": "https://i0.hdslb.com/bfs/archive/7bd9aa837da8fc322f24e7bce099fbe14ffd41e4.jpg",
+          "checked_at": "2026-11-06T03:05:21.535017+00:00",
           "availability": "available"
         }
       ]
@@ -35247,9 +35271,34 @@
     },
     "iw17c70uJes": {
       "vid": "iw17c70uJes",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-05T22:30:45.344391+00:00",
-      "candidates": []
+      "candidates": [
+        {
+          "bvid": "BV1BQTr6PECb",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1BQTr6PECb",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Future Crew -《Second Reality》（1993）[60fps]",
+          "up": "pcbcat",
+          "duration": 979,
+          "original_duration": 979,
+          "cid": 39580009809,
+          "aid": 116848343388431,
+          "segment_title": "Future Crew -《Second Reality》（1993）[60fps]",
+          "page_count": 1,
+          "kind": "original",
+          "views": 57,
+          "pic": "https://i0.hdslb.com/bfs/archive/37a32cac616954326003dd155f713d75d19f97da.jpg",
+          "checked_at": "2026-11-06T03:05:29.175122+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "j-kj2qwJa_E": {
       "vid": "j-kj2qwJa_E",
@@ -42780,6 +42829,29 @@
           "pic": "https://i0.hdslb.com/bfs/archive/dc1c984934d2ccb2f8f4140daa1e2f6b80a8aa04.jpg",
           "checked_at": "2026-11-06T02:43:01.767295+00:00",
           "availability": "available"
+        },
+        {
+          "bvid": "BV1Y4411e7Vx",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "The new Windows Terminal",
+          "up": "CSilentLove",
+          "duration": 46,
+          "original_duration": 45,
+          "cid": 90499515,
+          "aid": 51699592,
+          "segment_title": "The new Windows Terminal",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1127,
+          "pic": "https://i2.hdslb.com/bfs/archive/6666d39850b407eb02de6bf3238fc5c85ab32b0f.jpg",
+          "checked_at": "2026-11-06T02:49:48.729492+00:00",
+          "availability": "available"
         }
       ]
     },
@@ -42821,6 +42893,661 @@
     },
     "AJgY9FtDLbs": {
       "vid": "AJgY9FtDLbs",
+      "status": "review",
+      "completed_at": null,
+      "candidates": []
+    },
+    "AtPA6nIBs5g": {
+      "vid": "AtPA6nIBs5g",
+      "status": "review",
+      "completed_at": "2026-11-06T02:50:25.668816+00:00",
+      "candidates": []
+    },
+    "B5FxFfymI4g": {
+      "vid": "B5FxFfymI4g",
+      "status": "review",
+      "completed_at": "2026-11-06T02:50:42.254569+00:00",
+      "candidates": []
+    },
+    "B8ofWFx525s": {
+      "vid": "B8ofWFx525s",
+      "status": "review",
+      "completed_at": "2026-11-06T02:51:13.272673+00:00",
+      "candidates": []
+    },
+    "BBwepkVurCI": {
+      "vid": "BBwepkVurCI",
+      "status": "review",
+      "completed_at": "2026-11-06T02:51:36.695657+00:00",
+      "candidates": []
+    },
+    "BD6h-wDj7bw": {
+      "vid": "BD6h-wDj7bw",
+      "status": "review",
+      "completed_at": "2026-11-06T02:52:07.563369+00:00",
+      "candidates": []
+    },
+    "BHIo6qwJarI": {
+      "vid": "BHIo6qwJarI",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T02:52:18.854492+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1vg4y1x7Nr",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【MV】【Public Service Broadcasting】Go!",
+          "up": "破球",
+          "duration": 239,
+          "original_duration": 239,
+          "cid": 1061382372,
+          "aid": 823828257,
+          "segment_title": "【MV】【Public Service Broadcasting】Go!",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1065,
+          "pic": "https://i1.hdslb.com/bfs/archive/31d0b4a4ff0769117536afbb427d44fc8e55a14b.jpg",
+          "checked_at": "2026-11-06T02:52:18.289216+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "BdHK_r9RXTc": {
+      "vid": "BdHK_r9RXTc",
+      "status": "review",
+      "completed_at": "2026-11-06T02:52:43.979537+00:00",
+      "candidates": []
+    },
+    "C7JQ7Rpwn2k": {
+      "vid": "C7JQ7Rpwn2k",
+      "status": "review",
+      "completed_at": "2026-11-06T02:52:53.846760+00:00",
+      "candidates": []
+    },
+    "CB-SCA1reqE": {
+      "vid": "CB-SCA1reqE",
+      "status": "review",
+      "completed_at": "2026-11-06T02:53:33.858978+00:00",
+      "candidates": []
+    },
+    "D5in5EdjhD0": {
+      "vid": "D5in5EdjhD0",
+      "status": "review",
+      "completed_at": "2026-11-06T02:53:45.585996+00:00",
+      "candidates": []
+    },
+    "DBxdTkddHaE": {
+      "vid": "DBxdTkddHaE",
+      "status": "review",
+      "completed_at": "2026-11-06T02:53:56.879514+00:00",
+      "candidates": []
+    },
+    "DQEB3LJ5psk": {
+      "vid": "DQEB3LJ5psk",
+      "status": "review",
+      "completed_at": "2026-11-06T02:54:05.669029+00:00",
+      "candidates": []
+    },
+    "DXYje2B04xE": {
+      "vid": "DXYje2B04xE",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T02:54:15.687686+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1n54y127pi",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "130万美刀的Keysight UXR 110GHz BW, 256GS/s, 10位实时示波器拆解与实验",
+          "up": "xiadaogu",
+          "duration": 3275,
+          "original_duration": 3275,
+          "cid": 229452506,
+          "aid": 839390188,
+          "segment_title": "TSP #133 - Keysight UXR 110GHz BW, 256GS s, 10-bit Real-Time Oscilloscope Teardo",
+          "page_count": 1,
+          "kind": "original",
+          "views": 6863,
+          "pic": "https://i1.hdslb.com/bfs/archive/f83e2bfc3e641aba442e6dd33f9ddc63c9b11876.jpg",
+          "checked_at": "2026-11-06T02:54:15.101724+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "E8T_4zqWmq8": {
+      "vid": "E8T_4zqWmq8",
+      "status": "review",
+      "completed_at": "2026-11-06T02:54:36.164597+00:00",
+      "candidates": []
+    },
+    "EIezuL_doYw": {
+      "vid": "EIezuL_doYw",
+      "status": "review",
+      "completed_at": "2026-11-06T02:54:48.139419+00:00",
+      "candidates": []
+    },
+    "ENLWEfi0Tkg": {
+      "vid": "ENLWEfi0Tkg",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T02:54:59.937051+00:00",
+      "candidates": [
+        {
+          "bvid": "BV17Z4y1N7XU",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Rob Pike. Upspin. Gopherfest 2017. Jun 22, 2017.",
+          "up": "欧长坤",
+          "duration": 1878,
+          "original_duration": 1878,
+          "cid": 232958427,
+          "aid": 372097042,
+          "segment_title": "23-2017-Upspin Gopherfest 2017",
+          "page_count": 1,
+          "kind": "original",
+          "views": 70,
+          "pic": "https://i0.hdslb.com/bfs/archive/e261fd5543fe9f13f523c9817eb6908595ff172f.jpg",
+          "checked_at": "2026-11-06T02:54:59.339316+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "EQs5VxNPhzk": {
+      "vid": "EQs5VxNPhzk",
+      "status": "review",
+      "completed_at": "2026-11-06T02:55:43.920454+00:00",
+      "candidates": []
+    },
+    "E_F5GxCwizc": {
+      "vid": "E_F5GxCwizc",
+      "status": "review",
+      "completed_at": "2026-11-06T02:56:03.048922+00:00",
+      "candidates": []
+    },
+    "Ed3ioGO7g10": {
+      "vid": "Ed3ioGO7g10",
+      "status": "review",
+      "completed_at": "2026-11-06T02:56:14.382357+00:00",
+      "candidates": []
+    },
+    "EhqZ0RU95d4": {
+      "vid": "EhqZ0RU95d4",
+      "status": "review",
+      "completed_at": "2026-11-06T02:56:41.629472+00:00",
+      "candidates": []
+    },
+    "ExwqNreocpg": {
+      "vid": "ExwqNreocpg",
+      "status": "review",
+      "completed_at": "2026-11-06T02:56:51.066785+00:00",
+      "candidates": []
+    },
+    "F3Jd9GI6XqE": {
+      "vid": "F3Jd9GI6XqE",
+      "status": "review",
+      "completed_at": "2026-11-06T02:57:00.017983+00:00",
+      "candidates": []
+    },
+    "F_7S1eqKsFk": {
+      "vid": "F_7S1eqKsFk",
+      "status": "review",
+      "completed_at": "2026-11-06T02:57:13.936258+00:00",
+      "candidates": []
+    },
+    "FkKPsLxgpuY": {
+      "vid": "FkKPsLxgpuY",
+      "status": "review",
+      "completed_at": "2026-11-06T02:57:33.080495+00:00",
+      "candidates": []
+    },
+    "GZTr1-Gp74U": {
+      "vid": "GZTr1-Gp74U",
+      "status": "review",
+      "completed_at": "2026-11-06T02:57:52.274786+00:00",
+      "candidates": []
+    },
+    "GnO7D5UaDig": {
+      "vid": "GnO7D5UaDig",
+      "status": "review",
+      "completed_at": "2026-11-06T02:57:59.928819+00:00",
+      "candidates": []
+    },
+    "H-XfCl-HpRM": {
+      "vid": "H-XfCl-HpRM",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T02:58:09.453660+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1akND65E6y",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "How Your Brain Works & Changes",
+          "up": "Ruter龟",
+          "duration": 3751,
+          "original_duration": 3751,
+          "cid": 39923941740,
+          "aid": 116914378512550,
+          "segment_title": "How Your Brain Works & Changes",
+          "page_count": 1,
+          "kind": "original",
+          "views": 36,
+          "pic": "https://i0.hdslb.com/bfs/archive/87e22c0e8b6b2899df4395562aa5537157933c78.jpg",
+          "checked_at": "2026-11-06T02:58:08.911731+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "H2tuKiiznsY": {
+      "vid": "H2tuKiiznsY",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T02:58:20.732736+00:00",
+      "candidates": [
+        {
+          "bvid": "BV174411H7tA",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description",
+            "exact original YouTube ID explicitly associated with selected segment"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "波音公司新飞机坠毁两次的真正原因 The real reason Boeing's new plane crashed twice",
+          "up": "StevenHuangHC",
+          "duration": 360,
+          "original_duration": 360,
+          "cid": 94509212,
+          "aid": 54025142,
+          "segment_title": "The real reason Boeing's new plane crashed twice [H2tuKiiznsY]",
+          "page_count": 1,
+          "kind": "original",
+          "views": 428,
+          "pic": "https://i2.hdslb.com/bfs/archive/ba9f9173c6fe3211f584e0f639a07165ccede67b.jpg",
+          "checked_at": "2026-11-06T02:58:20.185448+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1P4411i7xX",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "老外总结的737 MAX连摔两架的根本原因  The real reason Boeing's new plane crashed twice",
+          "up": "灰机魔神",
+          "duration": 360,
+          "original_duration": 360,
+          "cid": 90086585,
+          "aid": 51467870,
+          "segment_title": "The real reason Boeing's new plane crashed twice",
+          "page_count": 1,
+          "kind": "original",
+          "views": 336,
+          "pic": "https://i2.hdslb.com/bfs/archive/ea5a3f45cc0f6f1fbf95e431af522ef1e38c2afc.jpg",
+          "checked_at": "2026-11-06T03:05:30.068984+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "HMYiktO0D64": {
+      "vid": "HMYiktO0D64",
+      "status": "review",
+      "completed_at": "2026-11-06T02:58:45.063850+00:00",
+      "candidates": []
+    },
+    "HNziOoXDBeg": {
+      "vid": "HNziOoXDBeg",
+      "status": "review",
+      "completed_at": "2026-11-06T02:58:57.752312+00:00",
+      "candidates": []
+    },
+    "HlAXp0-M6SY": {
+      "vid": "HlAXp0-M6SY",
+      "status": "review",
+      "completed_at": "2026-11-06T02:59:14.296255+00:00",
+      "candidates": []
+    },
+    "HrVtA-ue-x0": {
+      "vid": "HrVtA-ue-x0",
+      "status": "review",
+      "completed_at": "2026-11-06T02:59:34.666857+00:00",
+      "candidates": []
+    },
+    "I4flQ8XdvJM": {
+      "vid": "I4flQ8XdvJM",
+      "status": "review",
+      "completed_at": "2026-11-06T02:59:58.822719+00:00",
+      "candidates": []
+    },
+    "IHD8BDFYyGI": {
+      "vid": "IHD8BDFYyGI",
+      "status": "review",
+      "completed_at": "2026-11-06T03:00:14.464087+00:00",
+      "candidates": []
+    },
+    "IQZ_bQbxSXk": {
+      "vid": "IQZ_bQbxSXk",
+      "status": "review",
+      "completed_at": "2026-11-06T03:00:35.543218+00:00",
+      "candidates": []
+    },
+    "ISptt3CRAqc": {
+      "vid": "ISptt3CRAqc",
+      "status": "review",
+      "completed_at": "2026-11-06T03:00:48.328536+00:00",
+      "candidates": []
+    },
+    "Ii_pEXKKYUg": {
+      "vid": "Ii_pEXKKYUg",
+      "status": "review",
+      "completed_at": "2026-11-06T03:01:06.348558+00:00",
+      "candidates": []
+    },
+    "IsE_8j5RL3k": {
+      "vid": "IsE_8j5RL3k",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T03:01:15.012199+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1T4td6gEnh",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Accent Expert Gives a Tour of U.S. Accents - (Part 2)  WIRED",
+          "up": "IBAPEnglish",
+          "duration": 858,
+          "original_duration": 858,
+          "cid": 41544191434,
+          "aid": 117205815529737,
+          "segment_title": "Accent Expert Gives a Tour of U.S. Accents - (Part 2)  WIRED",
+          "page_count": 1,
+          "kind": "original",
+          "views": 3,
+          "pic": "https://i0.hdslb.com/bfs/archive/126f587790e14e155f640e13d6953bdd2a9225a4.jpg",
+          "checked_at": "2026-11-06T03:01:14.444676+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "JAczd3mt3X0": {
+      "vid": "JAczd3mt3X0",
+      "status": "review",
+      "completed_at": "2026-11-06T03:01:28.974246+00:00",
+      "candidates": []
+    },
+    "Jb4prVsXkZU": {
+      "vid": "Jb4prVsXkZU",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T03:01:38.926224+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Zs41187U8",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "How to Land the Space Shuttle... from Space",
+          "up": "Fengshidian888",
+          "duration": 1069,
+          "original_duration": 1069,
+          "cid": 13005932,
+          "aid": 7921520,
+          "segment_title": "How to Land the Space Shuttle... from Space",
+          "page_count": 1,
+          "kind": "original",
+          "views": 754,
+          "pic": "https://i0.hdslb.com/bfs/archive/823c1530976eb5768ac6d4d195d9d2f8749e5d13.jpg",
+          "checked_at": "2026-11-06T03:01:38.355482+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1GW411Q7CW",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "How to Land the Space Shuttle NASA",
+          "up": "我要自由自在啊_",
+          "duration": 1069,
+          "original_duration": 1069,
+          "cid": 52099765,
+          "aid": 29910096,
+          "segment_title": "How_to_Land_the_Space_Shuttle..._from_Space",
+          "page_count": 1,
+          "kind": "original",
+          "views": 96,
+          "pic": "https://i0.hdslb.com/bfs/archive/78b3b4d6249b6ce9682886e575ff7187cabe8774.jpg",
+          "checked_at": "2026-11-06T03:05:23.995318+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "KTjnt_WSJu8": {
+      "vid": "KTjnt_WSJu8",
+      "status": "review",
+      "completed_at": "2026-11-06T03:01:51.513838+00:00",
+      "candidates": []
+    },
+    "KVl5kMXz1vA": {
+      "vid": "KVl5kMXz1vA",
+      "status": "review",
+      "completed_at": "2026-11-06T03:02:03.901899+00:00",
+      "candidates": []
+    },
+    "LKJBND_IRdI": {
+      "vid": "LKJBND_IRdI",
+      "status": "review",
+      "completed_at": "2026-11-06T03:02:17.745774+00:00",
+      "candidates": []
+    },
+    "LS3GQk9ETRU": {
+      "vid": "LS3GQk9ETRU",
+      "status": "review",
+      "completed_at": "2026-11-06T03:02:34.211626+00:00",
+      "candidates": []
+    },
+    "LSX3qdy0dFg": {
+      "vid": "LSX3qdy0dFg",
+      "status": "review",
+      "completed_at": "2026-11-06T03:02:47.935658+00:00",
+      "candidates": []
+    },
+    "Le7Fqbsrrm8": {
+      "vid": "Le7Fqbsrrm8",
+      "status": "review",
+      "completed_at": "2026-11-06T03:02:56.667744+00:00",
+      "candidates": []
+    },
+    "LmpuerlbJu0": {
+      "vid": "LmpuerlbJu0",
+      "status": "review",
+      "completed_at": "2026-11-06T03:03:08.415086+00:00",
+      "candidates": []
+    },
+    "Ly6USRwTHe0": {
+      "vid": "Ly6USRwTHe0",
+      "status": "review",
+      "completed_at": "2026-11-06T03:03:53.444303+00:00",
+      "candidates": []
+    },
+    "M1ONXea0mXg": {
+      "vid": "M1ONXea0mXg",
+      "status": "review",
+      "completed_at": "2026-11-06T03:04:38.918355+00:00",
+      "candidates": []
+    },
+    "MVYrJJNdrEg": {
+      "vid": "MVYrJJNdrEg",
+      "status": "review",
+      "completed_at": "2026-11-06T03:04:57.175750+00:00",
+      "candidates": []
+    },
+    "uxPdPpi5W4o": {
+      "vid": "uxPdPpi5W4o",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T03:05:23.128017+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1c4411e7Pu",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1c4411e7Pu",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【英字】Why Are 96,000,000 Black Balls on This Reservoir?【Veritasium真理元素】",
+          "up": "Veritasium真理元素",
+          "duration": 727,
+          "original_duration": 727,
+          "cid": 91173365,
+          "aid": 52081926,
+          "segment_title": "ENGsub",
+          "page_count": 1,
+          "kind": "original",
+          "views": 3346,
+          "pic": "https://i2.hdslb.com/bfs/archive/e708f5afa1e2ea3c599d735064de8fb84127f4ca.jpg",
+          "checked_at": "2026-11-06T03:05:23.127944+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "H1KP4ztKK0A": {
+      "vid": "H1KP4ztKK0A",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T03:05:28.569907+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Nttd6zESv",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1Nttd6zESv",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Accent Expert Gives a Tour of U.S. Accents - (Part One)  WIRED",
+          "up": "IBAPEnglish",
+          "duration": 1293,
+          "original_duration": 1293,
+          "cid": 41543995027,
+          "aid": 117205798756237,
+          "segment_title": "Accent Expert Gives a Tour of U.S. Accents - (Part One)  WIRED",
+          "page_count": 1,
+          "kind": "original",
+          "views": 18,
+          "pic": "https://i0.hdslb.com/bfs/archive/85da1a8b8db988fa3c7386977464578e4842039a.jpg",
+          "checked_at": "2026-11-06T03:05:28.569860+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "McLq1hEq3UY": {
+      "vid": "McLq1hEq3UY",
+      "status": "review",
+      "completed_at": "2026-11-06T03:06:15.876375+00:00",
+      "candidates": []
+    },
+    "MnrJzXM7a6o": {
+      "vid": "MnrJzXM7a6o",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T03:06:24.736080+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1nP4iecEUu",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Steve Jobs introduces iPhone in 2007",
+          "up": "Dacui2018",
+          "duration": 620,
+          "original_duration": 620,
+          "cid": 25818629131,
+          "aid": 113116067139356,
+          "segment_title": "Steve Jobs introduces iPhone in 2007",
+          "page_count": 1,
+          "kind": "original",
+          "views": 54,
+          "pic": "https://i1.hdslb.com/bfs/archive/e8ef9c1ed1c1af10a38375d5c9082f0dbbe79732.jpg",
+          "checked_at": "2026-11-06T03:06:24.144439+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "MzzD2F73iGU": {
+      "vid": "MzzD2F73iGU",
+      "status": "review",
+      "completed_at": "2026-11-06T03:06:34.935154+00:00",
+      "candidates": []
+    },
+    "N8SS-rUEZPg": {
+      "vid": "N8SS-rUEZPg",
+      "status": "review",
+      "completed_at": "2026-11-06T03:06:45.835238+00:00",
+      "candidates": []
+    },
+    "N9c7_8Gp7gI": {
+      "vid": "N9c7_8Gp7gI",
+      "status": "review",
+      "completed_at": "2026-11-06T03:07:04.865744+00:00",
+      "candidates": []
+    },
+    "ND2TeNfcmKA": {
+      "vid": "ND2TeNfcmKA",
+      "status": "review",
+      "completed_at": "2026-11-06T03:07:21.431237+00:00",
+      "candidates": []
+    },
+    "NIu_dJGyIQI": {
+      "vid": "NIu_dJGyIQI",
+      "status": "review",
+      "completed_at": "2026-11-06T03:07:42.999853+00:00",
+      "candidates": []
+    },
+    "NK1zlz67MjU": {
+      "vid": "NK1zlz67MjU",
+      "status": "review",
+      "completed_at": "2026-11-06T03:07:56.216811+00:00",
+      "candidates": []
+    },
+    "NTJQTc-TqpU": {
+      "vid": "NTJQTc-TqpU",
       "status": "review",
       "completed_at": null,
       "candidates": []

@@ -1,0 +1,110 @@
+{
+  "checked_at": "2026-11-06T03:10:01.930Z",
+  "checks": [
+    {
+      "sample": "RNFesa01llk",
+      "kind": "dub_zh",
+      "id": "RNFesa01llk",
+      "bvid": "BV11H9EBbEk9",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.954428,
+        "duration": 1719,
+        "paused": false
+      },
+      "expected_duration": 1719,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "37154655562"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "[中配]超级高铁：被揭穿了！ - Thunderf00t\n香蕉配音君\n关注\n11\n5\n分享\n更多\n00:04 / 28:39\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "iw17c70uJes",
+      "kind": "original",
+      "id": "iw17c70uJes",
+      "bvid": "BV1BQTr6PECb",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.937433,
+        "duration": 979,
+        "paused": false
+      },
+      "expected_duration": 979,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "39580009809"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Future Crew -《Second Reality》（1993）[60fps]\npcbcat\n关注\n12\n0\n分享\n更多\n00:04 / 16:19\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "BHIo6qwJarI",
+      "kind": "original",
+      "id": "BHIo6qwJarI",
+      "bvid": "BV1vg4y1x7Nr",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.953512,
+        "duration": 239,
+        "paused": false
+      },
+      "expected_duration": 239,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1061382372"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【MV】【Public Service Broadcasting】Go!\n破球\n关注\n37\n6\n分享\n更多\n00:04 / 03:59\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "H2tuKiiznsY",
+      "kind": "original",
+      "id": "H2tuKiiznsY",
+      "bvid": "BV174411H7tA",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.188686,
+        "duration": 360,
+        "paused": false
+      },
+      "expected_duration": 360,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "94509212"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "波音公司新飞机坠毁两次的真正原因 The real reason Boeing's new plane crashed twice\nStevenHuangHC\n关注\n4\n0\n分享\n更多\n00:05 / 06:00\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "MnrJzXM7a6o",
+      "kind": "original",
+      "id": "MnrJzXM7a6o",
+      "bvid": "BV1nP4iecEUu",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.948143,
+        "duration": 620,
+        "paused": false
+      },
+      "expected_duration": 620,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "25818629131"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Steve Jobs introduces iPhone in 2007\nDacui2018\n关注\n2\n0\n分享\n更多\n00:04 / 10:20\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

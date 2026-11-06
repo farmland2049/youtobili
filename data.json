@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T02:45:38.788405+00:00",
+  "built_at": "2026-11-06T03:09:08.494781+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 2606,
-    "confirmed": 816,
-    "coverage": 0.12643321970870777,
-    "processed_match_rate": 0.31312356101304684
+    "processed": 2666,
+    "confirmed": 827,
+    "coverage": 0.12813758909203596,
+    "processed_match_rate": 0.3102025506376594
   },
   "areas": [
     {
@@ -8747,6 +8747,18 @@
           "views": 457,
           "pic": "https://i2.hdslb.com/bfs/archive/77e9c2e0d1c087717eecec27cdd6dc2770508f93.jpg",
           "checked_at": "2026-11-04T23:03:58.561549+00:00"
+        },
+        {
+          "bvid": "BV1cJ411v7nq",
+          "page": 1,
+          "cid": 134269009,
+          "title": "【科普】【thunderf00t】为什么超级高铁 Hyperloop 是一派胡言",
+          "up": "无毒填充物",
+          "duration": 1719,
+          "kind": "original",
+          "views": 517,
+          "pic": "https://i0.hdslb.com/bfs/archive/7bd9aa837da8fc322f24e7bce099fbe14ffd41e4.jpg",
+          "checked_at": "2026-11-06T03:05:21.535017+00:00"
         }
       ]
     },
@@ -21729,6 +21741,40 @@
       ]
     },
     {
+      "id": "iw17c70uJes",
+      "title": "Future Crew - Second Reality (1993) [60fps]",
+      "author": "DemosceneVids",
+      "source_url": "https://www.youtube.com/watch?v=iw17c70uJes",
+      "summary": "A 60fps capture of Future Crew's 1993 MS-DOS demo Second Reality, one of the best-known pieces of the demoscene. It runs about 16 minutes of real-time graphics and music effects on PC hardware of the era.",
+      "why": "HN commenters cite it as the landmark demo of the demoscene's golden era, and this capture lets people watch it without running it under DOS.",
+      "score": 3.5,
+      "tags": [
+        "demoscene",
+        "future crew",
+        "ms-dos",
+        "real-time graphics",
+        "retro computing"
+      ],
+      "categories": [
+        "demoscene-retrocomputing",
+        "computer-graphics-rendering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1BQTr6PECb",
+          "page": 1,
+          "cid": 39580009809,
+          "title": "Future Crew -《Second Reality》（1993）[60fps]",
+          "up": "pcbcat",
+          "duration": 979,
+          "kind": "original",
+          "views": 57,
+          "pic": "https://i0.hdslb.com/bfs/archive/37a32cac616954326003dd155f713d75d19f97da.jpg",
+          "checked_at": "2026-11-06T03:05:29.175122+00:00"
+        }
+      ]
+    },
+    {
       "id": "j6VlT_jUVPc",
       "title": "The Ultimate AeroPress Technique (Episode #3)",
       "author": "James Hoffmann",
@@ -27302,6 +27348,52 @@
           "views": 1325,
           "pic": "https://i0.hdslb.com/bfs/archive/dc1c984934d2ccb2f8f4140daa1e2f6b80a8aa04.jpg",
           "checked_at": "2026-11-06T02:43:01.767295+00:00"
+        },
+        {
+          "bvid": "BV1Y4411e7Vx",
+          "page": 1,
+          "cid": 90499515,
+          "title": "The new Windows Terminal",
+          "up": "CSilentLove",
+          "duration": 46,
+          "kind": "original",
+          "views": 1127,
+          "pic": "https://i2.hdslb.com/bfs/archive/6666d39850b407eb02de6bf3238fc5c85ab32b0f.jpg",
+          "checked_at": "2026-11-06T02:49:48.729492+00:00"
+        }
+      ]
+    },
+    {
+      "id": "BHIo6qwJarI",
+      "title": "Public Service Broadcasting - Go!",
+      "author": "PSBHQVEVO",
+      "source_url": "https://www.youtube.com/watch?v=BHIo6qwJarI",
+      "summary": "Music video for Public Service Broadcasting's \"Go!\" from the album The Race For Space, built from NASA audio and archival material of Apollo-era voices.",
+      "why": "HN recommends it as an energizing space-themed song, and references it when Apollo go/no-go calls come up.",
+      "score": 2.5,
+      "tags": [
+        "public service broadcasting",
+        "apollo",
+        "race for space",
+        "music video",
+        "nasa samples"
+      ],
+      "categories": [
+        "music-performance",
+        "space-exploration"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1vg4y1x7Nr",
+          "page": 1,
+          "cid": 1061382372,
+          "title": "【MV】【Public Service Broadcasting】Go!",
+          "up": "破球",
+          "duration": 239,
+          "kind": "original",
+          "views": 1065,
+          "pic": "https://i1.hdslb.com/bfs/archive/31d0b4a4ff0769117536afbb427d44fc8e55a14b.jpg",
+          "checked_at": "2026-11-06T02:52:18.289216+00:00"
         }
       ]
     },
@@ -27375,6 +27467,75 @@
       ]
     },
     {
+      "id": "DXYje2B04xE",
+      "title": "TSP #133 - Keysight UXR 110GHz BW, 256GS/s, 10-bit Real-Time Oscilloscope Teardown & Experiments",
+      "author": "The Signal Path",
+      "source_url": "https://www.youtube.com/watch?v=DXYje2B04xE",
+      "summary": "Shahriar of The Signal Path tears down and experiments with Keysight's UXR real-time oscilloscope, which offers 110GHz bandwidth and 256GS/s sampling, and compares architectures from Keysight, LeCroy and Tektronix.",
+      "why": "Recommended as part of a channel with deep teardowns of extreme test equipment, valuable for anyone interested in electronics or RF.",
+      "score": 2.5,
+      "tags": [
+        "oscilloscope",
+        "keysight",
+        "rf electronics",
+        "teardown",
+        "test equipment"
+      ],
+      "categories": [
+        "electronics-circuits",
+        "repair-teardown"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1n54y127pi",
+          "page": 1,
+          "cid": 229452506,
+          "title": "130万美刀的Keysight UXR 110GHz BW, 256GS/s, 10位实时示波器拆解与实验",
+          "up": "xiadaogu",
+          "duration": 3275,
+          "kind": "original",
+          "views": 6863,
+          "pic": "https://i1.hdslb.com/bfs/archive/f83e2bfc3e641aba442e6dd33f9ddc63c9b11876.jpg",
+          "checked_at": "2026-11-06T02:54:15.101724+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ENLWEfi0Tkg",
+      "title": "Gopherfest 2017 | Upspin with Rob Pike",
+      "author": "The Go Programming Language",
+      "source_url": "https://www.youtube.com/watch?v=ENLWEfi0Tkg",
+      "summary": "Rob Pike presents Upspin at Gopherfest 2017, an experimental framework for naming and sharing files and data securely and uniformly across a global namespace. It is a project written in Go rather than about Go.",
+      "why": "Cited as the talk that introduced Upspin, and called fascinating and really good by commenters.",
+      "score": 2.5,
+      "tags": [
+        "upspin",
+        "rob pike",
+        "golang",
+        "secure sharing",
+        "naming systems"
+      ],
+      "categories": [
+        "systems-programming-languages",
+        "cryptography",
+        "tech-figures-interviews"
+      ],
+      "versions": [
+        {
+          "bvid": "BV17Z4y1N7XU",
+          "page": 1,
+          "cid": 232958427,
+          "title": "Rob Pike. Upspin. Gopherfest 2017. Jun 22, 2017.",
+          "up": "欧长坤",
+          "duration": 1878,
+          "kind": "original",
+          "views": 70,
+          "pic": "https://i0.hdslb.com/bfs/archive/e261fd5543fe9f13f523c9817eb6908595ff172f.jpg",
+          "checked_at": "2026-11-06T02:54:59.339316+00:00"
+        }
+      ]
+    },
+    {
       "id": "Fgh2dFngFsg",
       "title": "F2C2012:  Aaron Swartz keynote - \"How we stopped SOPA\"",
       "author": "F2C2012",
@@ -27410,6 +27571,86 @@
       ]
     },
     {
+      "id": "H-XfCl-HpRM",
+      "title": "How Your Brain Works & Changes",
+      "author": "Andrew Huberman",
+      "source_url": "https://www.youtube.com/watch?v=H-XfCl-HpRM",
+      "summary": "Andrew Huberman introduces how the nervous system produces sensation, emotion and behavior, and how neuroplasticity lets us change it. It covers neurons, synapses, brain chemicals and the rhythms governing focus, learning and sleep.",
+      "why": "HN points to it as a foundational neuroscience primer, with some commenters crediting it for practical changes to learning and sleep.",
+      "score": 2.5,
+      "tags": [
+        "neuroplasticity",
+        "sleep",
+        "focus",
+        "huberman lab",
+        "brain"
+      ],
+      "categories": [
+        "neuroscience-brain",
+        "fitness-sleep-longevity"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1akND65E6y",
+          "page": 1,
+          "cid": 39923941740,
+          "title": "How Your Brain Works & Changes",
+          "up": "Ruter龟",
+          "duration": 3751,
+          "kind": "original",
+          "views": 36,
+          "pic": "https://i0.hdslb.com/bfs/archive/87e22c0e8b6b2899df4395562aa5537157933c78.jpg",
+          "checked_at": "2026-11-06T02:58:08.911731+00:00"
+        }
+      ]
+    },
+    {
+      "id": "H2tuKiiznsY",
+      "title": "The real reason Boeing's new plane crashed twice",
+      "author": "Vox",
+      "source_url": "https://www.youtube.com/watch?v=H2tuKiiznsY",
+      "summary": "Vox explainer arguing the two Boeing 737 Max crashes were not just a software bug but the result of a company's drive to beat its rival, with a flawed MCAS design.",
+      "why": "HN recommends it as a concise explanation of what caused the 737 Max crashes.",
+      "score": 2.5,
+      "tags": [
+        "boeing",
+        "737 max",
+        "mcas",
+        "aviation safety",
+        "corporate failure"
+      ],
+      "categories": [
+        "aviation",
+        "tech-company-stories"
+      ],
+      "versions": [
+        {
+          "bvid": "BV174411H7tA",
+          "page": 1,
+          "cid": 94509212,
+          "title": "波音公司新飞机坠毁两次的真正原因 The real reason Boeing's new plane crashed twice",
+          "up": "StevenHuangHC",
+          "duration": 360,
+          "kind": "original",
+          "views": 428,
+          "pic": "https://i2.hdslb.com/bfs/archive/ba9f9173c6fe3211f584e0f639a07165ccede67b.jpg",
+          "checked_at": "2026-11-06T02:58:20.185448+00:00"
+        },
+        {
+          "bvid": "BV1P4411i7xX",
+          "page": 1,
+          "cid": 90086585,
+          "title": "老外总结的737 MAX连摔两架的根本原因  The real reason Boeing's new plane crashed twice",
+          "up": "灰机魔神",
+          "duration": 360,
+          "kind": "original",
+          "views": 336,
+          "pic": "https://i2.hdslb.com/bfs/archive/ea5a3f45cc0f6f1fbf95e431af522ef1e38c2afc.jpg",
+          "checked_at": "2026-11-06T03:05:30.068984+00:00"
+        }
+      ]
+    },
+    {
       "id": "HZGCoVF3YvM",
       "title": "Bayes theorem, the geometry of changing beliefs",
       "author": "3Blue1Brown",
@@ -27440,6 +27681,121 @@
           "views": 649607,
           "pic": "https://i1.hdslb.com/bfs/archive/84119b1a13fba655cf491c13cd05475b58d9499f.jpg",
           "checked_at": "2026-11-04T23:03:55.581052+00:00"
+        }
+      ]
+    },
+    {
+      "id": "IsE_8j5RL3k",
+      "title": "Accent Expert Gives a Tour of U.S. Accents - (Part 2) | WIRED",
+      "author": "WIRED",
+      "source_url": "https://www.youtube.com/watch?v=IsE_8j5RL3k",
+      "summary": "Dialect coach Erik Singer tours a range of accents across North America with linguists in Part 2 of WIRED's accent series. It covers regional distinctions such as Southern Mississippi, Miami and Utah English.",
+      "why": "HN commenters recommend it as an enjoyable, accessible tour of US accents and cite it in threads on vowel shifts and dialects.",
+      "score": 2.5,
+      "tags": [
+        "accents",
+        "dialects",
+        "linguistics",
+        "erik singer",
+        "regional english"
+      ],
+      "categories": [
+        "language-linguistics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1T4td6gEnh",
+          "page": 1,
+          "cid": 41544191434,
+          "title": "Accent Expert Gives a Tour of U.S. Accents - (Part 2)  WIRED",
+          "up": "IBAPEnglish",
+          "duration": 858,
+          "kind": "original",
+          "views": 3,
+          "pic": "https://i0.hdslb.com/bfs/archive/126f587790e14e155f640e13d6953bdd2a9225a4.jpg",
+          "checked_at": "2026-11-06T03:01:14.444676+00:00"
+        }
+      ]
+    },
+    {
+      "id": "Jb4prVsXkZU",
+      "title": "How to Land the Space Shuttle... from Space",
+      "author": "Bret",
+      "source_url": "https://www.youtube.com/watch?v=Jb4prVsXkZU",
+      "summary": "Bret Copeland, in an astronaut costume, gives an energetic talk on how the Space Shuttle landed from orbit, including reentry and the unpowered glide. It includes real-time landing footage with HUD and audio.",
+      "why": "HN recommends it as an entertaining, technical illustration of how hard the Shuttle's one-shot dead-stick landing was.",
+      "score": 2.5,
+      "tags": [
+        "space shuttle",
+        "reentry",
+        "aviation",
+        "orbital mechanics",
+        "nasa"
+      ],
+      "categories": [
+        "space-exploration",
+        "aviation"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Zs41187U8",
+          "page": 1,
+          "cid": 13005932,
+          "title": "How to Land the Space Shuttle... from Space",
+          "up": "Fengshidian888",
+          "duration": 1069,
+          "kind": "original",
+          "views": 754,
+          "pic": "https://i0.hdslb.com/bfs/archive/823c1530976eb5768ac6d4d195d9d2f8749e5d13.jpg",
+          "checked_at": "2026-11-06T03:01:38.355482+00:00"
+        },
+        {
+          "bvid": "BV1GW411Q7CW",
+          "page": 1,
+          "cid": 52099765,
+          "title": "How to Land the Space Shuttle NASA",
+          "up": "我要自由自在啊_",
+          "duration": 1069,
+          "kind": "original",
+          "views": 96,
+          "pic": "https://i0.hdslb.com/bfs/archive/78b3b4d6249b6ce9682886e575ff7187cabe8774.jpg",
+          "checked_at": "2026-11-06T03:05:23.995318+00:00"
+        }
+      ]
+    },
+    {
+      "id": "MnrJzXM7a6o",
+      "title": "Steve Jobs introduces iPhone in 2007",
+      "author": "John Schroter",
+      "source_url": "https://www.youtube.com/watch?v=MnrJzXM7a6o",
+      "summary": "An excerpt from Steve Jobs's January 2007 Macworld keynote in which he introduces the original iPhone. It shows the pitch of a phone, music player and internet communicator, along with the live demo.",
+      "why": "HN treats it as the model product demo and MVP showcase, and as a reminder of how constrained the first iPhone hardware was.",
+      "score": 2.5,
+      "tags": [
+        "steve jobs",
+        "iphone",
+        "keynote",
+        "product demo",
+        "apple",
+        "mvp"
+      ],
+      "categories": [
+        "tech-figures-interviews",
+        "consumer-devices",
+        "tech-company-stories"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1nP4iecEUu",
+          "page": 1,
+          "cid": 25818629131,
+          "title": "Steve Jobs introduces iPhone in 2007",
+          "up": "Dacui2018",
+          "duration": 620,
+          "kind": "original",
+          "views": 54,
+          "pic": "https://i1.hdslb.com/bfs/archive/e8ef9c1ed1c1af10a38375d5c9082f0dbbe79732.jpg",
+          "checked_at": "2026-11-06T03:06:24.144439+00:00"
         }
       ]
     },
@@ -28441,6 +28797,39 @@
       ]
     },
     {
+      "id": "H1KP4ztKK0A",
+      "title": "Accent Expert Gives a Tour of U.S. Accents - (Part One) | WIRED",
+      "author": "WIRED",
+      "source_url": "https://www.youtube.com/watch?v=H1KP4ztKK0A",
+      "summary": "Dialect coach Erik Singer and several linguists tour distinct accents across English-speaking North America. It is the first part of a WIRED series on US accents.",
+      "why": "HN recommends it as an enjoyable overview of American accents and what accent signals socially.",
+      "score": 2.0,
+      "tags": [
+        "accents",
+        "dialects",
+        "linguistics",
+        "north america",
+        "wired"
+      ],
+      "categories": [
+        "language-linguistics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Nttd6zESv",
+          "page": 1,
+          "cid": 41543995027,
+          "title": "Accent Expert Gives a Tour of U.S. Accents - (Part One)  WIRED",
+          "up": "IBAPEnglish",
+          "duration": 1293,
+          "kind": "original",
+          "views": 18,
+          "pic": "https://i0.hdslb.com/bfs/archive/85da1a8b8db988fa3c7386977464578e4842039a.jpg",
+          "checked_at": "2026-11-06T03:05:28.569860+00:00"
+        }
+      ]
+    },
+    {
       "id": "LKiBlGDfRU8",
       "title": "My dream died, and now I'm here",
       "author": "Sabine Hossenfelder",
@@ -29203,6 +29592,40 @@
           "views": 3658,
           "pic": "https://i0.hdslb.com/bfs/archive/243a1d11b27c94a42164b7a223d35d0ab3332ff7.png",
           "checked_at": "2026-11-05T01:31:20.110559+00:00"
+        }
+      ]
+    },
+    {
+      "id": "uxPdPpi5W4o",
+      "title": "Why Are 96,000,000 Black Balls on This Reservoir?",
+      "author": "Veritasium",
+      "source_url": "https://www.youtube.com/watch?v=uxPdPpi5W4o",
+      "summary": "Veritasium rides a boat across the Los Angeles reservoir covered in 96 million black plastic balls. He explains why they were really introduced, which was not primarily to reduce evaporation.",
+      "why": "Referenced as the explanation of shade balls and used in discussions of evaporation and floating covers.",
+      "score": 2.0,
+      "tags": [
+        "shade balls",
+        "los angeles",
+        "water engineering",
+        "evaporation",
+        "veritasium"
+      ],
+      "categories": [
+        "environment-agriculture",
+        "civil-engineering-construction"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1c4411e7Pu",
+          "page": 1,
+          "cid": 91173365,
+          "title": "【英字】Why Are 96,000,000 Black Balls on This Reservoir?【Veritasium真理元素】",
+          "up": "Veritasium真理元素",
+          "duration": 727,
+          "kind": "original",
+          "views": 3346,
+          "pic": "https://i2.hdslb.com/bfs/archive/e708f5afa1e2ea3c599d735064de8fb84127f4ca.jpg",
+          "checked_at": "2026-11-06T03:05:23.127944+00:00"
         }
       ]
     },
@@ -32846,6 +33269,7 @@
     "BV1nx411W7Ds": "MBRqu0YOH14",
     "BV1f1UUBdEFS": "PFDu9oVAE-g",
     "BV11H9EBbEk9": "RNFesa01llk",
+    "BV1cJ411v7nq": "RNFesa01llk",
     "BV165411N7QE": "ZWQ0591PAxM",
     "BV1jx41137Lj": "bSkpMdDe4g4",
     "BV11D4y137Se": "bSkpMdDe4g4",
@@ -33306,6 +33730,7 @@
     "BV17Ym3BjE5w": "ig_qpNfXHIU",
     "BV1vZ421N7EA": "ig_qpNfXHIU",
     "BV1xb421E7BC": "ipVxxxqwBQw",
+    "BV1BQTr6PECb": "iw17c70uJes",
     "BV1sU4y1j7oM": "j6VlT_jUVPc",
     "BV1ss411h79q": "jOyfZex7B3E",
     "BV145411L78f": "jlX_pThh7z8",
@@ -33495,10 +33920,21 @@
     "BV1PB4y1H7dc": "45mMioJ5szc",
     "BV1KJ4m1b7Fm": "6reLWfFNer0",
     "BV1qz411q7X3": "8gw0rXPMMPE",
+    "BV1Y4411e7Vx": "8gw0rXPMMPE",
+    "BV1vg4y1x7Nr": "BHIo6qwJarI",
     "BV1rQ4y1S7iN": "BnSUk0je6oo",
     "BV1PH8RzQECB": "Cfe5UQ-1L9Q",
+    "BV1n54y127pi": "DXYje2B04xE",
+    "BV17Z4y1N7XU": "ENLWEfi0Tkg",
     "BV17f4y1B7pB": "Fgh2dFngFsg",
+    "BV1akND65E6y": "H-XfCl-HpRM",
+    "BV174411H7tA": "H2tuKiiznsY",
+    "BV1P4411i7xX": "H2tuKiiznsY",
     "BV1R7411a76r": "HZGCoVF3YvM",
+    "BV1T4td6gEnh": "IsE_8j5RL3k",
+    "BV1Zs41187U8": "Jb4prVsXkZU",
+    "BV1GW411Q7CW": "Jb4prVsXkZU",
+    "BV1nP4iecEUu": "MnrJzXM7a6o",
     "BV1AE411P7Cb": "NmGaXEmfTIo",
     "BV1UGSWBKE8h": "ODSJsviD_SU",
     "BV1Q5KpeWEdt": "P_fHJIYENdI",
@@ -33525,6 +33961,7 @@
     "BV1sF411w7AH": "AcS3NOQnsQM",
     "BV12u4y1t7Lx": "Eg_ToU7m1MI",
     "BV1sa4y1t7SX": "FquNpWdf9vg",
+    "BV1Nttd6zESv": "H1KP4ztKK0A",
     "BV1Ex421S7kn": "LKiBlGDfRU8",
     "BV18C41157za": "LKiBlGDfRU8",
     "BV1Bm411B7Mp": "OTVE5iPMKLg",
@@ -33549,6 +33986,7 @@
     "BV1uV41167Lq": "rzJqXd-1dEU",
     "BV16x411V7Qg": "tIeHLnjs5U8",
     "BV1dM4m1d7TD": "ulCdoCfw-bY",
+    "BV1c4411e7Pu": "uxPdPpi5W4o",
     "BV1zZ4y1k7Jw": "v68zYyaEmEA",
     "BV1aWsRzQEVc": "vQpUV--2Jao",
     "BV1pEf2YWEja": "wOlcB-JxkFw",
