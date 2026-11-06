@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T00:02:18.264952+00:00",
+  "built_at": "2026-11-06T00:37:55.184769+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 2225,
-    "confirmed": 741,
-    "coverage": 0.1148125193678339,
-    "processed_match_rate": 0.33303370786516856
+    "processed": 2296,
+    "confirmed": 764,
+    "coverage": 0.1183762008057019,
+    "processed_match_rate": 0.3327526132404181
   },
   "areas": [
     {
@@ -9328,6 +9328,18 @@
           "views": 40477,
           "pic": "https://i1.hdslb.com/bfs/archive/c8a91f8ec9058786035e17cedefcebffce5035cc.png",
           "checked_at": "2026-11-04T23:03:59.271497+00:00"
+        },
+        {
+          "bvid": "BV1AbJi6ZEqb",
+          "page": 1,
+          "cid": 42819653439,
+          "title": "观察电在每秒五亿帧下遇到岔路口 - AlphaPhoenix",
+          "up": "ubilier",
+          "duration": 1589,
+          "kind": "original",
+          "views": 328,
+          "pic": "https://i1.hdslb.com/bfs/archive/11ecdaad3a8bd69c1b31ca73a3027eea498ccd26.jpg",
+          "checked_at": "2026-11-06T00:29:16.384463+00:00"
         }
       ]
     },
@@ -14652,6 +14664,39 @@
           "views": 434,
           "pic": "https://i0.hdslb.com/bfs/archive/f9f20112d58fc4a376c94f632457aea5362e198f.jpg",
           "checked_at": "2026-11-05T23:29:15.443049+00:00"
+        }
+      ]
+    },
+    {
+      "id": "KTHOwgpMIiU",
+      "title": "Liberating Distributed Consensus - Heidi Howard",
+      "author": "Reactive Summit",
+      "source_url": "https://www.youtube.com/watch?v=KTHOwgpMIiU",
+      "summary": "Heidi Howard's Reactive Summit 2018 talk on generalizing Paxos by weakening its original requirements. She shows Paxos is one point on a broad spectrum of consensus approaches.",
+      "why": "HN recommends it as an illuminating, approachable explanation of distributed consensus.",
+      "score": 4.5,
+      "tags": [
+        "paxos",
+        "raft",
+        "heidi howard",
+        "distributed systems",
+        "flexible paxos"
+      ],
+      "categories": [
+        "distributed-systems"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1iz4y1X731",
+          "page": 1,
+          "cid": 210464381,
+          "title": "Liberating Distributed Consensus - Heidi Howard",
+          "up": "弱弱的Erik",
+          "duration": 2092,
+          "kind": "original",
+          "views": 21,
+          "pic": "https://i0.hdslb.com/bfs/archive/e759c7b909218427ac77843530c5593176bb3ed1.jpg",
+          "checked_at": "2026-11-06T00:29:40.782671+00:00"
         }
       ]
     },
@@ -21578,6 +21623,18 @@
       ],
       "versions": [
         {
+          "bvid": "BV17Ym3BjE5w",
+          "page": 1,
+          "cid": 34672611160,
+          "title": "【中配】死亡与王朝 - CGP Grey",
+          "up": "观察员阿星",
+          "duration": 323,
+          "kind": "dub_zh",
+          "views": 3013,
+          "pic": "https://i0.hdslb.com/bfs/archive/484b1f9bf91236568bde88b97b7c98c30c8e21dc.jpg",
+          "checked_at": "2026-11-06T00:29:27.092974+00:00"
+        },
+        {
           "bvid": "BV1vZ421N7EA",
           "page": 1,
           "cid": 1638565998,
@@ -22198,6 +22255,41 @@
           "views": 1600,
           "pic": "https://i2.hdslb.com/bfs/archive/e64e9ff61fcaca21145d190543217f49ad0cd241.jpg",
           "checked_at": "2026-11-05T22:44:17.620086+00:00"
+        }
+      ]
+    },
+    {
+      "id": "rbu7Zu5X1zI",
+      "title": "How I animate 3Blue1Brown | A Manim demo with Ben Sparks",
+      "author": "3Blue1Brown",
+      "source_url": "https://www.youtube.com/watch?v=rbu7Zu5X1zI",
+      "summary": "Grant Sanderson of 3Blue1Brown shows his workflow for animating math videos with Manim, with Ben Sparks. He codes scenes live, including a Lorenz attractor, and walks through example scenes.",
+      "why": "Recommended as a rare detailed look at how 3b1b videos are made, including live debugging of his rendering engine.",
+      "score": 3.5,
+      "tags": [
+        "manim",
+        "3blue1brown",
+        "animation",
+        "python",
+        "live coding"
+      ],
+      "categories": [
+        "recreational-math",
+        "creative-coding-generative-art",
+        "animation-vfx"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Mf2hYoENn",
+          "page": 1,
+          "cid": 26264144026,
+          "title": "我怎么用Manim给3Blue1Brown做动画，和Ben Sparks一起演示",
+          "up": "NulvraGr",
+          "duration": 3221,
+          "kind": "original",
+          "views": 59644,
+          "pic": "https://i1.hdslb.com/bfs/archive/9059d27f3e5c6d6850264f0d27c257d4dcfe1f7e.jpg",
+          "checked_at": "2026-11-06T00:29:28.309666+00:00"
         }
       ]
     },
@@ -23971,6 +24063,88 @@
       ]
     },
     {
+      "id": "Iq9DzN6mvYA",
+      "title": "Jake Vanderplas - Statistics for Hackers - PyCon 2016.mp4",
+      "author": "PyCon 2016",
+      "source_url": "https://www.youtube.com/watch?v=Iq9DzN6mvYA",
+      "summary": "Jake Vanderplas's PyCon 2016 talk shows how sampling-based methods such as simulation, shuffling and bootstrapping make statistics intuitive. His pitch is that if you can write a for-loop, you can do statistics.",
+      "why": "It is recommended to programmers who want to learn statistics through simulation rather than memorized formulas.",
+      "score": 3.0,
+      "tags": [
+        "bootstrapping",
+        "resampling",
+        "python",
+        "simulation",
+        "hypothesis testing"
+      ],
+      "categories": [
+        "data-science-statistics",
+        "scripting-languages"
+      ],
+      "versions": [
+        {
+          "bvid": "BV14x411q7vU",
+          "page": 1,
+          "cid": 19972512,
+          "title": "黑客统计学 by Jake Vanderplas (PyCon 2016)",
+          "up": "爱可可-爱生活",
+          "duration": 2446,
+          "kind": "original",
+          "views": 353,
+          "pic": "https://i2.hdslb.com/bfs/archive/c60a90e03e634851bad106060465cf6c59e1e55b.jpg",
+          "checked_at": "2026-11-06T00:13:13.946455+00:00"
+        },
+        {
+          "bvid": "BV1G24y1W7Tt",
+          "page": 1,
+          "cid": 1016253127,
+          "title": "Jake Vanderplas - Statistics for Hackers - PyCon 2016.mp4",
+          "up": "dailyrain",
+          "duration": 2446,
+          "kind": "original",
+          "views": 2,
+          "pic": "https://i1.hdslb.com/bfs/archive/a883129472126cb8f069db7c5509aea3999864d2.jpg",
+          "checked_at": "2026-11-06T00:29:39.462794+00:00"
+        }
+      ]
+    },
+    {
+      "id": "JFaOYYSxSEA",
+      "title": "Classic Game Postmortem - Another World",
+      "author": "GDC Festival of Gaming",
+      "source_url": "https://www.youtube.com/watch?v=JFaOYYSxSEA",
+      "summary": "Eric Chahi's GDC 2011 postmortem of Another World (Out of This World), describing how he built the game. He shows his polygon art approach, rotoscoping and animation tools.",
+      "why": "HN points to it whenever Another World comes up, as one of the better GDC talks by the game's creator.",
+      "score": 3.0,
+      "tags": [
+        "another world",
+        "eric chahi",
+        "gdc",
+        "rotoscoping",
+        "retro games",
+        "polygon graphics"
+      ],
+      "categories": [
+        "game-history-retro",
+        "game-design",
+        "animation-vfx"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1GE411G7mP",
+          "page": 1,
+          "cid": 164683971,
+          "title": "Classic Game Postmortem - Another World",
+          "up": "楚天阔tkchu2",
+          "duration": 3945,
+          "kind": "original",
+          "views": 14,
+          "pic": "https://i0.hdslb.com/bfs/archive/c85d01045ccf594e2e3ec73cd0c60f8d25723fa3.jpg",
+          "checked_at": "2026-11-06T00:13:54.713575+00:00"
+        }
+      ]
+    },
+    {
       "id": "Jkiij9dJfcw",
       "title": "Denmark's Forest Kindergartens",
       "author": "SBS Dateline",
@@ -24001,6 +24175,107 @@
           "views": 9807,
           "pic": "https://i1.hdslb.com/bfs/archive/9349ac89342eea5b86fda307b691584b65bcd78b.jpg",
           "checked_at": "2026-11-04T23:03:55.464678+00:00"
+        }
+      ]
+    },
+    {
+      "id": "JurplDfPi3U",
+      "title": "Former fusion scientist on why we won't have fusion power by 2040",
+      "author": "Improbable Matter",
+      "source_url": "https://www.youtube.com/watch?v=JurplDfPi3U",
+      "summary": "A former fusion scientist argues why fusion power by 2040 is unrealistic, covering the physics challenges, neutron issues and optimistic company claims, with a brief note of good news.",
+      "why": "Praised as the best crash course on fusion reactor design nuances from an insider, used to temper fusion hype.",
+      "score": 3.0,
+      "tags": [
+        "fusion power",
+        "tokamak",
+        "neutrons",
+        "energy",
+        "reactor design"
+      ],
+      "categories": [
+        "nuclear-energy"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1L8411c71a",
+          "page": 1,
+          "cid": 1040223166,
+          "title": "【中文字幕】前核聚变科学家：为什么到2040年我们不会拥有聚变能源｜Improbable Matter",
+          "up": "怕光的丘丘人",
+          "duration": 943,
+          "kind": "sub_zh",
+          "views": 13285,
+          "pic": "https://i1.hdslb.com/bfs/archive/40bf54148b19433d3c347db5ed4cff7f63a13a45.jpg",
+          "checked_at": "2026-11-06T00:15:36.154815+00:00"
+        }
+      ]
+    },
+    {
+      "id": "JxI3Eu5DPwE",
+      "title": "Bob Nystrom - Is There More to Game Architecture than ECS?",
+      "author": "Roguelike Celebration",
+      "source_url": "https://www.youtube.com/watch?v=JxI3Eu5DPwE",
+      "summary": "Bob Nystrom, author of Game Programming Patterns, gives a Roguelike Celebration 2018 talk questioning whether entity component systems are the only way to structure a game. He walks through alternative architectures drawn from roguelike development.",
+      "why": "HN commenters cite it as a level-headed counterpoint to ECS zealotry and a good intro to game architecture beyond ECS.",
+      "score": 3.0,
+      "tags": [
+        "ecs",
+        "roguelike",
+        "game programming patterns",
+        "software design",
+        "entity systems"
+      ],
+      "categories": [
+        "game-programming-engines",
+        "software-architecture-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Ch411A7vS",
+          "page": 1,
+          "cid": 1185939912,
+          "title": "除了 ECS，还有什么游戏架构 - Bob Nystrom",
+          "up": "EdwardKerman",
+          "duration": 1387,
+          "kind": "original",
+          "views": 37917,
+          "pic": "https://i1.hdslb.com/bfs/archive/5090b8115ad41c657310b0e7deceb532ee432777.jpg",
+          "checked_at": "2026-11-06T00:15:50.028906+00:00"
+        }
+      ]
+    },
+    {
+      "id": "KINIAgRpkDA",
+      "title": "GopherCon 2016: The Design of the Go Assembler - Rob Pike",
+      "author": "Gopher Academy",
+      "source_url": "https://www.youtube.com/watch?v=KINIAgRpkDA",
+      "summary": "Rob Pike's GopherCon 2016 talk on the design of the Go assembler, explaining why Go uses a common assembly language translated to each architecture.",
+      "why": "HN points to it for background on how the Go toolchain targets many architectures and why its assembler is designed that way.",
+      "score": 3.0,
+      "tags": [
+        "go",
+        "assembler",
+        "compilers",
+        "rob pike",
+        "toolchain portability"
+      ],
+      "categories": [
+        "systems-programming-languages",
+        "compilers-interpreters"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Px4y1w7S6",
+          "page": 1,
+          "cid": 1016105492,
+          "title": "GopherCon 2016: Rob Pike - The Design of the Go Assembler",
+          "up": "dailyrain",
+          "duration": 1437,
+          "kind": "original",
+          "views": 14,
+          "pic": "https://i0.hdslb.com/bfs/archive/4bae504290cbb016f04aa6a12dcca137ad14f9fc.jpg",
+          "checked_at": "2026-11-06T00:17:01.606047+00:00"
         }
       ]
     },
@@ -24051,6 +24326,183 @@
       ]
     },
     {
+      "id": "LNidsMesxSE",
+      "title": "Animation Bootcamp: An Indie Approach to Procedural Animation",
+      "author": "GDC Festival of Gaming",
+      "source_url": "https://www.youtube.com/watch?v=LNidsMesxSE",
+      "summary": "David Rosen of Wolfire Games explains how simple procedural techniques can produce fluid, interactive character animation from very few keyframes. Examples come from Overgrowth, Receiver and Black Shades, from his 2014 GDC session.",
+      "why": "HN points to it as a concrete case of procedural animation that keeps characters responsive, often in threads about Overgrowth and game feel.",
+      "score": 3.0,
+      "tags": [
+        "procedural animation",
+        "inverse kinematics",
+        "indie games",
+        "overgrowth",
+        "game feel"
+      ],
+      "categories": [
+        "game-programming-engines",
+        "indie-game-development",
+        "animation-vfx"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1EV411W7ub",
+          "page": 1,
+          "cid": 361890199,
+          "title": "Animation Bootcamp: An Indie Approach to Procedural Animation",
+          "up": "highMiao",
+          "duration": 1574,
+          "kind": "original",
+          "views": 294,
+          "pic": "https://i0.hdslb.com/bfs/archive/dbe6477d45dfd599ba53f1f88b0cb579c2a614f5.jpg",
+          "checked_at": "2026-11-06T00:20:00.465851+00:00"
+        }
+      ]
+    },
+    {
+      "id": "LsGZ_2RuJ2A",
+      "title": "Salad Mug - DYNAMO DREAM, Ep1",
+      "author": "IanHubert",
+      "source_url": "https://www.youtube.com/watch?v=LsGZ_2RuJ2A",
+      "summary": "The first episode of Ian Hubert's Dynamo Dream series, a one-person sci-fi short made in Blender with a gritty futuristic city setting. It was made with help from friends and Patreon supporters over about three years.",
+      "why": "HN holds it up as an impressive example of what a tiny team can achieve with Blender.",
+      "score": 3.0,
+      "tags": [
+        "blender",
+        "ian hubert",
+        "3d animation",
+        "indie film",
+        "vfx"
+      ],
+      "categories": [
+        "animation-vfx",
+        "film-video-production"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1pq4y1j7e4",
+          "page": 1,
+          "cid": 345592960,
+          "title": "【中英字幕】《戴娜摩的梦境》//Blender制作微电影//Ianhubert赛博朋克短片",
+          "up": "王也道长OS",
+          "duration": 1292,
+          "kind": "sub_zh",
+          "views": 28283,
+          "pic": "https://i2.hdslb.com/bfs/archive/672f0fe6af7864f36a437e1ffb71d0e465a1d495.jpg",
+          "checked_at": "2026-11-06T00:22:34.206996+00:00"
+        },
+        {
+          "bvid": "BV1464y1k7bY",
+          "page": 1,
+          "cid": 344500948,
+          "title": "[转载 中文翻译] Ian Hubert 独立短片新作——DYNAMO DREAM Episode 1：Salad Mug",
+          "up": "ystoubou",
+          "duration": 1292,
+          "kind": "sub_zh",
+          "views": 10371,
+          "pic": "https://i1.hdslb.com/bfs/archive/07eb4eff205e582524bd9b290b6ae912ec1bdc59.png",
+          "checked_at": "2026-11-06T00:29:18.481092+00:00"
+        },
+        {
+          "bvid": "BV1PQ4y1d7Gw",
+          "page": 1,
+          "cid": 345694690,
+          "title": "IanHubert独立特效短片《DYNAMO DREAM》EP1.SALAD MUG（中文字幕）",
+          "up": "BlenderForest",
+          "duration": 1292,
+          "kind": "sub_zh",
+          "views": 1329,
+          "pic": "https://i0.hdslb.com/bfs/archive/f2d83c66a86c79048a28008209d41220dd0b8f85.jpg",
+          "checked_at": "2026-11-06T00:29:21.085935+00:00"
+        },
+        {
+          "bvid": "BV1CV411j7J5",
+          "page": 1,
+          "cid": 345272006,
+          "title": "Blender大佬 IanHubert新作_Episode 1 - Salad Mug - DYNAMO DREAM（转载）",
+          "up": "羊羊羊的教室",
+          "duration": 1292,
+          "kind": "original",
+          "views": 10252,
+          "pic": "https://i0.hdslb.com/bfs/archive/24a77c193289fdcb4e808113e79faacfb26421c7.jpg",
+          "checked_at": "2026-11-06T00:29:22.404994+00:00"
+        },
+        {
+          "bvid": "BV1Ds4y117fE",
+          "page": 1,
+          "cid": 1095668471,
+          "title": "沙拉杯  Salad Mug DYNAMO DREAM 赛博朋克废土风  第1集 blender制作",
+          "up": "场景采集",
+          "duration": 1286,
+          "kind": "original",
+          "views": 825,
+          "pic": "https://i1.hdslb.com/bfs/archive/c5895aab3a61acc3bec5972c786c3462c021ab15.jpg",
+          "checked_at": "2026-11-06T00:29:23.709124+00:00"
+        },
+        {
+          "bvid": "BV1Q64y1L7tC",
+          "page": 1,
+          "cid": 1351913706,
+          "title": "科幻短片“沙拉杯” Salad Mug - DYNAMO_DREAM,_Episode 1",
+          "up": "字符序列",
+          "duration": 1292,
+          "kind": "original",
+          "views": 83,
+          "pic": "https://i2.hdslb.com/bfs/archive/8dc86400efd6c6665cb2859e611e5ff7ba687e66.jpg",
+          "checked_at": "2026-11-06T00:29:19.804249+00:00"
+        },
+        {
+          "bvid": "BV1XX4y1x7PB",
+          "page": 1,
+          "cid": 1236984042,
+          "title": "Salad Mug - DYNAMO DREAM, 第一集",
+          "up": "爱皮皮爱",
+          "duration": 1292,
+          "kind": "original",
+          "views": 79,
+          "pic": "https://i2.hdslb.com/bfs/archive/d5f5e26c7ef3d0549bfe9583702f5a24b8ad1fed.jpg",
+          "checked_at": "2026-11-06T00:29:17.183520+00:00"
+        }
+      ]
+    },
+    {
+      "id": "LwicN2u6Dro",
+      "title": "\"Liberating the Smalltalk lurking in C and Unix\" by Stephen Kell",
+      "author": "Strange Loop Conference",
+      "source_url": "https://www.youtube.com/watch?v=LwicN2u6Dro",
+      "summary": "Stephen Kell's Strange Loop talk argues that C and Unix already contain Smalltalk-like dynamism and introspection that can be exposed. He presents his liballocs research on bridging dynamic and compiled languages.",
+      "why": "HN commenters recommend it in Smalltalk and Unix threads as a demonstration of runtime dynamism hiding in native binaries and shared libraries.",
+      "score": 3.0,
+      "tags": [
+        "stephen kell",
+        "smalltalk",
+        "liballocs",
+        "c",
+        "unix",
+        "ffi"
+      ],
+      "categories": [
+        "programming-language-design",
+        "operating-systems",
+        "systems-programming-languages"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1aF411c7mK",
+          "page": 1,
+          "cid": 751271196,
+          "title": "Liberating the Smalltalk lurking in C and Unix by Stephen Kell| 解放了潜伏在C和Unix的Sma",
+          "up": "安常投资",
+          "duration": 2456,
+          "kind": "original",
+          "views": 4,
+          "pic": "https://i1.hdslb.com/bfs/archive/bfc6273cf3512f83c3dfe76663f0d47cabe94ae2.jpg",
+          "checked_at": "2026-11-06T00:22:46.777584+00:00"
+        }
+      ]
+    },
+    {
       "id": "MShbP3OpASA",
       "title": "Aalto Talk with Linus Torvalds [Full-length]",
       "author": "aaltouniversityace",
@@ -24081,6 +24533,294 @@
           "views": 115,
           "pic": "https://i2.hdslb.com/bfs/archive/b419f42e4d76fde7a29f6e47b587ac02be0cbe1c.jpg",
           "checked_at": "2026-11-04T23:03:56.849121+00:00"
+        }
+      ]
+    },
+    {
+      "id": "N8elxpSu9pw",
+      "title": "I wrote a Raytracer for DOS, 16 VGA colors",
+      "author": "Bisqwit",
+      "source_url": "https://www.youtube.com/watch?v=N8elxpSu9pw",
+      "summary": "Bisqwit writes a raytracer from scratch in C++ for DOS, rendering in the 16-color VGA palette at 640x480. The video also covers color quantization and ordered dithering.",
+      "why": "HN fans praise Bisqwit as a favorite programming YouTuber and this video as an excellent look at dithering.",
+      "score": 3.0,
+      "tags": [
+        "raytracer",
+        "dithering",
+        "c++",
+        "dos",
+        "vga"
+      ],
+      "categories": [
+        "computer-graphics-rendering",
+        "demoscene-retrocomputing",
+        "systems-programming-languages"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Ta4y1E7Xw",
+          "page": 1,
+          "cid": 229022753,
+          "title": "I wrote a Raytracer for DOS, 16 VGA colors",
+          "up": "账号已注销",
+          "duration": 901,
+          "kind": "original",
+          "views": 20,
+          "pic": "https://i0.hdslb.com/bfs/archive/eb6c2de455c0daa1a47b41f197084cf37dc85a00.jpg",
+          "checked_at": "2026-11-06T00:26:55.240208+00:00"
+        }
+      ]
+    },
+    {
+      "id": "N9RUqGYuGfw",
+      "title": "JSON Parser 100% From Scratch in Haskell (only 111 lines)",
+      "author": "Tsoding",
+      "source_url": "https://www.youtube.com/watch?v=N9RUqGYuGfw",
+      "summary": "Tsoding live-codes a JSON parser from scratch in Haskell in about 111 lines, using only the standard library. It is an edited Twitch stream that explains the intuition behind parser combinators, functors, applicatives and monads.",
+      "why": "HN recommends it as a hands-on way to understand Haskell and parser combinators by watching a parser get built live.",
+      "score": 3.0,
+      "tags": [
+        "haskell",
+        "json parser",
+        "functional programming",
+        "monads",
+        "live coding"
+      ],
+      "categories": [
+        "functional-programming",
+        "compilers-interpreters"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ihBBBFE2B",
+          "page": 1,
+          "cid": 25935024410,
+          "title": "JSON Parser 100% From Scratch in Haskell (only 111 lines)",
+          "up": "帆影",
+          "duration": 6607,
+          "kind": "original",
+          "views": 493,
+          "pic": "https://i1.hdslb.com/bfs/archive/783a36d1dad1b6754d8f9f0288fadb06e1305549.jpg",
+          "checked_at": "2026-11-06T00:27:05.192259+00:00"
+        },
+        {
+          "bvid": "BV15i4y1G7oH",
+          "page": 1,
+          "cid": 202368733,
+          "title": "JSON Parser 100% From Scratch in Haskell (only 111 lines)",
+          "up": "知识学砸了",
+          "duration": 6607,
+          "kind": "original",
+          "views": 155,
+          "pic": "https://i0.hdslb.com/bfs/archive/65d3f47706e2664d8ad4ccf45dff806563e34165.jpg",
+          "checked_at": "2026-11-06T00:29:42.069579+00:00"
+        }
+      ]
+    },
+    {
+      "id": "NAh9oLs67Cw",
+      "title": "07/27/1978",
+      "author": "lasagnacat",
+      "source_url": "https://www.youtube.com/watch?v=NAh9oLs67Cw",
+      "summary": "An hour-long absurdist Lasagna Cat video in which John Blyth Barrymore muses philosophically on a single Garfield strip. It is set to the full score of Philip Glass's Kundun.",
+      "why": "HN cites it as the prime example of going absurdly deep on a tiny subject, and as a favorite among long YouTube videos.",
+      "score": 3.0,
+      "tags": [
+        "lasagna cat",
+        "garfield",
+        "philip glass",
+        "absurdism",
+        "long videos"
+      ],
+      "categories": [
+        "arts-entertainment-other",
+        "satire-parody",
+        "philosophy-ethics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ff4y1d7YE",
+          "page": 1,
+          "cid": 771022234,
+          "title": "Lasagna Cat: 07/27/1978",
+          "up": "我中意食烧鹅髀",
+          "duration": 3684,
+          "kind": "original",
+          "views": 778,
+          "pic": "https://i2.hdslb.com/bfs/archive/d36d8e5603bc230c81ad0aa2c2f0be9eb84282c9.jpg",
+          "checked_at": "2026-11-06T00:27:17.815316+00:00"
+        }
+      ]
+    },
+    {
+      "id": "NbpZCSf4_Yk",
+      "title": "Exclusive: Metro Exodus Enhanced Edition Analysis - The First Triple-A Game Built Around Ray Tracing",
+      "author": "Digital Foundry",
+      "source_url": "https://www.youtube.com/watch?v=NbpZCSf4_Yk",
+      "summary": "Digital Foundry's Alex Battaglia analyzes Metro Exodus Enhanced Edition, the first AAA game built around ray tracing. It covers the new global illumination, emissive lighting, DLSS and performance on AMD and Nvidia hardware.",
+      "why": "HN recommends it as a good overview of what ray-traced lighting changes for developers and players.",
+      "score": 3.0,
+      "tags": [
+        "ray tracing",
+        "global illumination",
+        "dlss",
+        "game graphics",
+        "metro exodus"
+      ],
+      "categories": [
+        "computer-graphics-rendering",
+        "game-programming-engines",
+        "gaming-culture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV15K4y1N7rx",
+          "page": 1,
+          "cid": 332360742,
+          "title": "【中英双字】《地铁：离去》增强版技术分析 - 首款围绕光线追踪打造的3A游戏「Digital Foundry」「未来游戏研究所」",
+          "up": "m4k1s3",
+          "duration": 2445,
+          "kind": "sub_zh",
+          "views": 81593,
+          "pic": "https://i1.hdslb.com/bfs/archive/f69d610faae9e28eaa8f696f39486e86c69263d2.jpg",
+          "checked_at": "2026-11-06T00:27:26.413075+00:00"
+        }
+      ]
+    },
+    {
+      "id": "O45LaFsaqMA",
+      "title": "What if Current Foundations of Mathematics are Inconsistent? | Vladimir Voevodsky",
+      "author": "Institute for Advanced Study",
+      "source_url": "https://www.youtube.com/watch?v=O45LaFsaqMA",
+      "summary": "Vladimir Voevodsky's IAS lecture starts from Godel's second incompleteness theorem to explore whether first-order arithmetic could be inconsistent. It motivates his vision of univalent foundations and computer-checked proofs.",
+      "why": "Recommended as a thought-provoking lecture from a Fields medalist on the foundations of mathematics and formal proof verification.",
+      "score": 3.0,
+      "tags": [
+        "voevodsky",
+        "incompleteness",
+        "univalent foundations",
+        "proof assistants",
+        "logic"
+      ],
+      "categories": [
+        "logic-formal-methods",
+        "pure-mathematics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Wz4y1f7tK",
+          "page": 1,
+          "cid": 225594571,
+          "title": "[Vladimir Voevodsky]What if Current Foundations of Mathematics are Inconsistent?",
+          "up": "榴莲芒果菠萝披萨",
+          "duration": 3510,
+          "kind": "original",
+          "views": 68,
+          "pic": "https://i2.hdslb.com/bfs/archive/a6e91992bd075362beb904dcc91b1b68f4950bbb.jpg",
+          "checked_at": "2026-11-06T00:28:01.958825+00:00"
+        }
+      ]
+    },
+    {
+      "id": "OBPpRqxY8Uw",
+      "title": "Leonard Susskind | \"ER = EPR\" or \"What's Behind the Horizons of Black Holes?\" - 1 of 2",
+      "author": "Stanford Institute for Theoretical Physics",
+      "source_url": "https://www.youtube.com/watch?v=OBPpRqxY8Uw",
+      "summary": "Stanford physicist Leonard Susskind gives the first of two mini-lectures on \"ER = EPR\", the idea that quantum entanglement and wormholes are related. It covers what lies behind black hole horizons.",
+      "why": "HN people point to it as the more detailed follow-up when articles touch on entanglement, holography and black holes.",
+      "score": 3.0,
+      "tags": [
+        "er=epr",
+        "black holes",
+        "entanglement",
+        "holography",
+        "wormholes"
+      ],
+      "categories": [
+        "quantum-physics",
+        "cosmology-astrophysics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1V4411b7Gq",
+          "page": 1,
+          "cid": 88681659,
+          "title": "Leonard Susskind - \"ER = EPR\" or \"What's Behind the Horizons of Black Holes?\"",
+          "up": "etaprime",
+          "duration": 6474,
+          "kind": "original",
+          "views": 407,
+          "pic": "https://i0.hdslb.com/bfs/archive/a2facd22d7715dd9a44acc4c0cdaa1c4868ab560.jpg",
+          "checked_at": "2026-11-06T00:28:22.190332+00:00"
+        }
+      ]
+    },
+    {
+      "id": "OFgxAFdxYAQ",
+      "title": "A Crash Course in Modern Hardware by Cliff Click",
+      "author": "Devoxx",
+      "source_url": "https://www.youtube.com/watch?v=OFgxAFdxYAQ",
+      "summary": "Cliff Click walks through a small performance example on a modern out-of-order CPU. He covers pipelining, ILP, CISC vs RISC, multicore, and why cache misses and the memory subsystem dominate performance.",
+      "why": "Recommended as an accessible refresher on how modern hardware and caches affect software performance.",
+      "score": 3.0,
+      "tags": [
+        "cpu caches",
+        "out-of-order execution",
+        "memory performance",
+        "jvm",
+        "multicore"
+      ],
+      "categories": [
+        "computer-architecture",
+        "software-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1iY411Y749",
+          "page": 1,
+          "cid": 1016435950,
+          "title": "A Crash Course in Modern Hardware by Cliff Click",
+          "up": "dailyrain",
+          "duration": 3562,
+          "kind": "original",
+          "views": 8,
+          "pic": "https://i1.hdslb.com/bfs/archive/fa635235c1c495e35e1bd9c38059d4bad9a5122f.jpg",
+          "checked_at": "2026-11-06T00:28:37.577800+00:00"
+        }
+      ]
+    },
+    {
+      "id": "OHPkdMGI6D4",
+      "title": "VFX Artists React to DUNE Bad & Great CGi",
+      "author": "Corridor Crew",
+      "source_url": "https://www.youtube.com/watch?v=OHPkdMGI6D4",
+      "summary": "Corridor Crew VFX artists react to the visual effects of the 2021 Dune and compare them with David Lynch's 1984 version. They discuss which effects were practical and which were CGI.",
+      "why": "HN commenters cite it in debates about practical effects versus CGI, as a fun comparison of old and new Dune.",
+      "score": 3.0,
+      "tags": [
+        "dune",
+        "vfx",
+        "cgi",
+        "practical effects",
+        "film",
+        "corridor crew"
+      ],
+      "categories": [
+        "animation-vfx",
+        "film-criticism-analysis"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Jx421C7yE",
+          "page": 1,
+          "cid": 1468487884,
+          "title": "VFX Artists React to DUNE Bad & Great CGi",
+          "up": "LalaLlane",
+          "duration": 1301,
+          "kind": "original",
+          "views": 71,
+          "pic": "https://i0.hdslb.com/bfs/archive/22db60d51a51fa8e40c8a2e268b871592cb0f25a.jpg",
+          "checked_at": "2026-11-06T00:28:54.033686+00:00"
         }
       ]
     },
@@ -24198,6 +24938,42 @@
           "views": 148,
           "pic": "https://i2.hdslb.com/bfs/archive/bb3adb85c2e0313ce3abb65fe8a4fcafde2e9f7c.jpg",
           "checked_at": "2026-11-04T23:03:55.409855+00:00"
+        }
+      ]
+    },
+    {
+      "id": "QMiubC6LdTA",
+      "title": "Console Hacking 2016 (33c3)",
+      "author": "media.ccc.de",
+      "source_url": "https://www.youtube.com/watch?v=QMiubC6LdTA",
+      "summary": "A 33c3 talk by marcan on reverse engineering the PS4 hardware to run Linux with 3D acceleration. It covers how the console differs from a PC and includes a story about tunneling PCIe over RS-232.",
+      "why": "Recommended as an approachable, detailed look at console hardware architecture, FreeBSD in the PS4 and console hacking.",
+      "score": 3.0,
+      "tags": [
+        "ps4",
+        "reverse engineering",
+        "linux",
+        "freebsd",
+        "pcie",
+        "ccc"
+      ],
+      "categories": [
+        "security-hacking",
+        "speedrunning-glitches",
+        "linux-open-source-os"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1hW411B7ui",
+          "page": 1,
+          "cid": 29324710,
+          "title": "Console Hacking 2016 (33c3)(生肉)",
+          "up": "winktj",
+          "duration": 3224,
+          "kind": "original",
+          "views": 288,
+          "pic": "https://i0.hdslb.com/bfs/archive/db4c63fda414bd571397313f99090010acb2f550.jpg",
+          "checked_at": "2026-11-06T00:35:48.759891+00:00"
         }
       ]
     },
@@ -25380,6 +26156,41 @@
           "views": 432,
           "pic": "https://i0.hdslb.com/bfs/archive/533f40a77a31c2aff8eca3c6e0fb8f2eba81c791.jpg",
           "checked_at": "2026-11-05T08:09:47.651862+00:00"
+        }
+      ]
+    },
+    {
+      "id": "tfAnxaWiSeE",
+      "title": "Pitfall: A Classic Game Postmortem",
+      "author": "GDC Festival of Gaming",
+      "source_url": "https://www.youtube.com/watch?v=tfAnxaWiSeE",
+      "summary": "David Crane's 2011 GDC postmortem of Pitfall, the classic Atari 2600 game. He explains how he created the game under the severe hardware limits of the console.",
+      "why": "Recommended as an entertaining, technical look at squeezing a game into a tiny Atari 2600, told by the original developer.",
+      "score": 2.5,
+      "tags": [
+        "pitfall",
+        "gdc",
+        "retro games",
+        "postmortem",
+        "game programming"
+      ],
+      "categories": [
+        "game-history-retro",
+        "game-programming-engines",
+        "game-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1VE411G7f1",
+          "page": 1,
+          "cid": 164689021,
+          "title": "Pitfall - A Classic Game Postmortem",
+          "up": "楚天阔tkchu2",
+          "duration": 3634,
+          "kind": "original",
+          "views": 31,
+          "pic": "https://i0.hdslb.com/bfs/archive/182dc4003b7696f9c5f71cc1a515e1eed18b6092.jpg",
+          "checked_at": "2026-11-06T00:29:38.628714+00:00"
         }
       ]
     },
@@ -26700,6 +27511,40 @@
       ]
     },
     {
+      "id": "wOlcB-JxkFw",
+      "title": "Antichamber: An Overnight Success, Seven Years In The Making",
+      "author": "GDC Festival of Gaming",
+      "source_url": "https://www.youtube.com/watch?v=wOlcB-JxkFw",
+      "summary": "Alexander Bruce's GDC talk on making Antichamber, from working alone in a bedroom to winning acclaim at the IGF. It focuses on the psychological challenge of seven years of solo development.",
+      "why": "HN commenters recommend it as an honest account of the emotional toll and persistence of long indie game development.",
+      "score": 2.0,
+      "tags": [
+        "antichamber",
+        "gdc",
+        "solo development",
+        "game design",
+        "igf"
+      ],
+      "categories": [
+        "indie-game-development",
+        "game-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1pEf2YWEja",
+          "page": 1,
+          "cid": 28104001392,
+          "title": "【熟肉/GDC】台上一刻，台下七年：Antichamber(环绕回廊)作者的心路历程",
+          "up": "CrystFish晶鱼",
+          "duration": 3185,
+          "kind": "sub_zh",
+          "views": 1744,
+          "pic": "https://i1.hdslb.com/bfs/archive/30bd77ac462c8a71cecfc6a4cfa6adaaa2c9608a.jpg",
+          "checked_at": "2026-11-06T00:29:33.051171+00:00"
+        }
+      ]
+    },
+    {
       "id": "0lvMgMrNDlg",
       "title": "Steve Jobs rare footage conducting a presentation on 1980 (Insanely Great)",
       "author": "naji1234",
@@ -26948,6 +27793,51 @@
           "views": 385,
           "pic": "https://i2.hdslb.com/bfs/archive/560d56d094c597efe66e4c572570ea7e18632839.jpg",
           "checked_at": "2026-11-04T23:03:56.851982+00:00"
+        }
+      ]
+    },
+    {
+      "id": "l4w6808wJcU",
+      "title": "There's No Crying in Flag Design",
+      "author": "CGP Grey",
+      "source_url": "https://www.youtube.com/watch?v=l4w6808wJcU",
+      "summary": "CGP Grey discusses flag design principles and grades flags, following the Minnesota state flag redesign. It argues for simple, distinctive flags.",
+      "why": "Linked whenever flag redesigns come up, and credited as hugely influential on how people think about flag design.",
+      "score": 1.5,
+      "tags": [
+        "vexillology",
+        "flags",
+        "design principles",
+        "cgp grey",
+        "minnesota"
+      ],
+      "categories": [
+        "graphic-design-typography"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Es4y1R7t4",
+          "page": 1,
+          "cid": 1113949887,
+          "title": "【CGP Grey 】美国各州州旗评级（中文字幕）",
+          "up": "fc小朋友",
+          "duration": 1133,
+          "kind": "sub_zh",
+          "views": 39910,
+          "pic": "https://i0.hdslb.com/bfs/archive/d341a3721bf72998d4a3700e17c60f34b6b22e71.jpg",
+          "checked_at": "2026-11-06T00:29:26.226547+00:00"
+        },
+        {
+          "bvid": "BV17vTg6yEvo",
+          "page": 1,
+          "cid": 39480393967,
+          "title": "美国一半州旗都犯了错 - CGP Grey",
+          "up": "中文配音看世界",
+          "duration": 1133,
+          "kind": "original",
+          "views": 23285,
+          "pic": "https://i0.hdslb.com/bfs/archive/6903b9650d14e634ad0fc8b540ffc0682aed8beb.png",
+          "checked_at": "2026-11-06T00:29:25.715575+00:00"
         }
       ]
     },
@@ -28637,6 +29527,39 @@
       ]
     },
     {
+      "id": "7xH7eGFuSYI",
+      "title": "Adam Ruins Everything - Why You Should Tell Coworkers Your Salary",
+      "author": "truTV",
+      "source_url": "https://www.youtube.com/watch?v=7xH7eGFuSYI",
+      "summary": "A four-minute Adam Ruins Everything segment on why employers discourage workers from sharing salaries. It argues that discussing pay with coworkers is legal and helps workers.",
+      "why": "Linked in threads on pay and compensation as a quick explanation of why talking about salary helps employees.",
+      "score": 0.0,
+      "tags": [
+        "salary",
+        "workers rights",
+        "compensation",
+        "adam conover"
+      ],
+      "categories": [
+        "labor-work-wealth",
+        "management-leadership"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1UZ4y137Ps",
+          "page": 1,
+          "cid": 255287544,
+          "title": "【英语/生肉/Adam Ruins Everything】为什么你应该告诉你的同事你的工资是多少？",
+          "up": "Dustafra",
+          "duration": 253,
+          "kind": "original",
+          "views": 213,
+          "pic": "https://i2.hdslb.com/bfs/archive/01c4fe0bcb0f45b94132eaec838e53e1809ed68f.jpg",
+          "checked_at": "2026-11-06T00:29:35.817807+00:00"
+        }
+      ]
+    },
+    {
       "id": "8mxubNQC5O8",
       "title": "Let's prototype a JavaScript JIT compiler!",
       "author": "Andreas Kling",
@@ -29950,6 +30873,7 @@
     "BV1JU4y1L7pT": "0SARbwvhupQ",
     "BV1Ms411H7bU": "0SARbwvhupQ",
     "BV1gJykB1EJe": "2AXv49dDQJw",
+    "BV1AbJi6ZEqb": "2AXv49dDQJw",
     "BV1K2EQ6BEtL": "3Fx5Q8xGU8k",
     "BV1ZDiKBuEad": "3ZTGwcHQfLY",
     "BV1FRNd6rEiF": "3ZTGwcHQfLY",
@@ -30143,6 +31067,7 @@
     "BV1Fq4y1H7mN": "IS5ycm7VfXg",
     "BV1fS4wehEEN": "Jes3bD6P0To",
     "BV11P4y1V72f": "Jes3bD6P0To",
+    "BV1iz4y1X731": "KTHOwgpMIiU",
     "BV1NW411P7tc": "M3BM9TB-8yA",
     "BV1PAdHY2E9Y": "MtzCLd93SyU",
     "BV1yt4y1R7rB": "MtzCLd93SyU",
@@ -30381,6 +31306,7 @@
     "BV1TC4y1h78L": "iGbC5j4pG9w",
     "BV11u4m1w7nL": "iGbC5j4pG9w",
     "BV1KGUDYmEb6": "iSVHp6CAyQ8",
+    "BV17Ym3BjE5w": "ig_qpNfXHIU",
     "BV1vZ421N7EA": "ig_qpNfXHIU",
     "BV1xb421E7BC": "ipVxxxqwBQw",
     "BV1sU4y1j7oM": "j6VlT_jUVPc",
@@ -30405,6 +31331,7 @@
     "BV1hK411g7wC": "p8u_k2LIZyo",
     "BV1gu411U7Et": "qE7dYhpI_bI",
     "BV1ZV41177UK": "r6Rp-uo6HmI",
+    "BV1Mf2hYoENn": "rbu7Zu5X1zI",
     "BV1w4411R7Tk": "rrkrvAUbU9Y",
     "BV1Ws411U7Ct": "sI5Ftm1-jik",
     "BV1T5Tk6JEiy": "sPFmKu2S5XY",
@@ -30462,14 +31389,39 @@
     "BV1YK411p7WK": "Gj8IA6xOpSk",
     "BV1v44y1D77A": "I845O57ZSy4",
     "BV1pkymYdECZ": "IRG-YubP1rw",
+    "BV14x411q7vU": "Iq9DzN6mvYA",
+    "BV1G24y1W7Tt": "Iq9DzN6mvYA",
+    "BV1GE411G7mP": "JFaOYYSxSEA",
     "BV1R7411T7tZ": "Jkiij9dJfcw",
+    "BV1L8411c71a": "JurplDfPi3U",
+    "BV1Ch411A7vS": "JxI3Eu5DPwE",
+    "BV1Px4y1w7S6": "KINIAgRpkDA",
     "BV14L41117Up": "KeLBd2EJLOU",
     "BV17M4y117QU": "KeLBd2EJLOU",
+    "BV1EV411W7ub": "LNidsMesxSE",
+    "BV1pq4y1j7e4": "LsGZ_2RuJ2A",
+    "BV1464y1k7bY": "LsGZ_2RuJ2A",
+    "BV1PQ4y1d7Gw": "LsGZ_2RuJ2A",
+    "BV1CV411j7J5": "LsGZ_2RuJ2A",
+    "BV1Ds4y117fE": "LsGZ_2RuJ2A",
+    "BV1Q64y1L7tC": "LsGZ_2RuJ2A",
+    "BV1XX4y1x7PB": "LsGZ_2RuJ2A",
+    "BV1aF411c7mK": "LwicN2u6Dro",
     "BV1ag4y1w7qC": "MShbP3OpASA",
+    "BV1Ta4y1E7Xw": "N8elxpSu9pw",
+    "BV1ihBBBFE2B": "N9RUqGYuGfw",
+    "BV15i4y1G7oH": "N9RUqGYuGfw",
+    "BV1ff4y1d7YE": "NAh9oLs67Cw",
+    "BV15K4y1N7rx": "NbpZCSf4_Yk",
+    "BV1Wz4y1f7tK": "O45LaFsaqMA",
+    "BV1V4411b7Gq": "OBPpRqxY8Uw",
+    "BV1iY411Y749": "OFgxAFdxYAQ",
+    "BV1Jx421C7yE": "OHPkdMGI6D4",
     "BV16D4y1w7tg": "OyFJWRnt_AY",
     "BV1pG411Z7ub": "P1ww1IXRfTA",
     "BV1mgjp6QExy": "P1ww1IXRfTA",
     "BV1KqHszDECz": "PaCmpygFfXo",
+    "BV1hW411B7ui": "QMiubC6LdTA",
     "BV19t411q7Pa": "SzA2YODtgK4",
     "BV1Ws411e73w": "YMqgiXLjvRs",
     "BV183411x7g5": "aICaAEXDJQQ",
@@ -30503,6 +31455,7 @@
     "BV1Us411172N": "hIZxTQP1ifo",
     "BV1N5oiYbETY": "oFtjKbXKqbg",
     "BV16qNf6SEfE": "sTu3LwpF6XI",
+    "BV1VE411G7f1": "tfAnxaWiSeE",
     "BV1b4411q743": "udlMSe5-zP8",
     "BV1QmNX6UEZE": "y5UT04p5f7U",
     "BV1Lq4y187m1": "-t1_ffaFXao",
@@ -30541,6 +31494,7 @@
     "BV1dM4m1d7TD": "ulCdoCfw-bY",
     "BV1zZ4y1k7Jw": "v68zYyaEmEA",
     "BV1aWsRzQEVc": "vQpUV--2Jao",
+    "BV1pEf2YWEja": "wOlcB-JxkFw",
     "BV1Xx411L7cG": "0lvMgMrNDlg",
     "BV1LY411Y7Wb": "AxnotgLql0k",
     "BV1ZE41157iN": "Kas0tIxDvrg",
@@ -30549,6 +31503,8 @@
     "BV11W411n75x": "PAAkCSZUG1c",
     "BV1g4421D7bE": "UKxQTvqcpSg",
     "BV1Ji421v77F": "h_zgURwr6nA",
+    "BV1Es4y1R7t4": "l4w6808wJcU",
+    "BV17vTg6yEvo": "l4w6808wJcU",
     "BV1azSkBhEAB": "mfv0V1SxbNA",
     "BV1St41147HX": "ycPr5-27vSI",
     "BV12Y4y1z7xs": "ycPr5-27vSI",
@@ -30600,6 +31556,7 @@
     "BV14HGV6UEzZ": "zqmOSMAtadc",
     "BV1uwnfzUEXF": "21EYKqUsPfg",
     "BV1FmEw69E1T": "4U2eDJnwz_s",
+    "BV1UZ4y137Ps": "7xH7eGFuSYI",
     "BV1JoBvYKEVL": "8mxubNQC5O8",
     "BV18Ni6YbE8J": "9fa9lVwHHqg",
     "BV1yPRqB2EEE": "9sJUDx7iEJw",
