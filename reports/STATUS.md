@@ -1,32 +1,39 @@
 # 匹配进展
 
-更新时间：2026-11-06T09:11:42.405061+00:00
+更新时间：2026-11-06T09:20:56.427927+00:00
 
 - 原片库：6454
-- 完成处理：3444
+- 完成处理：3450
 - 已确认原片：923
 - 全库覆盖率：14.30%
-- 已处理原片匹配率：26.80%
-- 状态：{'confirmed': 923, 'review': 2548}
+- 已处理原片匹配率：26.75%
+- 状态：{'confirmed': 923, 'review': 2555}
 
-- 待审中尚需扩大候选检查：189
-- 已扩大检查仍待审核：2359
+- 待审中尚需扩大候选检查：190
+- 已扩大检查仍待审核：2365
 
 ## 最近批次
 
 ```json
 {
-  "id": "20261106T090848Z",
+  "id": "20261106T091806Z",
   "selected": 50,
-  "completed": 0,
+  "completed": 6,
   "errors": [
     {
-      "vid": "hMOwbNUpDQA",
+      "vid": "i5uSbp0YDhc",
       "reason": "URLError"
     }
   ],
   "stopped": false,
-  "originals": [],
+  "originals": [
+    "hSrGfElyfVE",
+    "hT8GZlBBv5k",
+    "hZ1OgQL9_Cw",
+    "hdt18p-VMmQ",
+    "hyry8mgXiTk",
+    "hzGaO4Kdz2Y"
+  ],
   "primary_first": true,
   "deferred_candidates": 0,
   "excluded_originals": [
@@ -51,18 +58,19 @@
     "cjuGCJJUGsg",
     "dX649lnKAU0",
     "doz1QJ7LwjA",
+    "hMOwbNUpDQA",
     "hhMAt3BluAU",
     "s9fByRmAHgU",
     "st571DYYTR8",
     "uTdyb-RWNKo",
     "vs41JrnGaxc"
   ],
-  "attempted": 1,
-  "unattempted": 49,
+  "attempted": 7,
+  "unattempted": 43,
   "statuses": {
-    "review": 1
+    "review": 7
   },
-  "candidate_count": 38
+  "candidate_count": 262
 }
 ```
 

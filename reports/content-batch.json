@@ -1,222 +1,48 @@
 {
-  "baseline_commit": "771edd1bb374bd269f32472549c83e829af8aa3f",
+  "baseline_commit": "e3932bb0a20c335be3d8db85d1403970187efd53",
   "phase_status": "stopped",
   "before": {
-    "corpus": 6454,
-    "processed": 3393,
-    "confirmed": 915,
-    "coverage": 0.1417725441586613,
-    "processed_match_rate": 0.2696728558797524
-  },
-  "after": {
     "corpus": 6454,
     "processed": 3444,
     "confirmed": 923,
     "coverage": 0.1430120855283545,
     "processed_match_rate": 0.2680023228803717
   },
-  "newly_processed": 51,
-  "newly_processed_confirmed": 7,
-  "newly_processed_match_rate": 0.13725490196078433,
-  "added_originals": [
-    "esUb7Zy5Oio",
-    "f8FAJXPBdOg",
-    "fHsa9DqmId8",
-    "fzBRYsiyxjI",
-    "goSEyGNfiPM",
-    "hBpetDxIEMU",
-    "o25I2fzFGoY",
-    "p6K4iIMlouI"
-  ],
+  "after": {
+    "corpus": 6454,
+    "processed": 3450,
+    "confirmed": 923,
+    "coverage": 0.1430120855283545,
+    "processed_match_rate": 0.26753623188405795
+  },
+  "newly_processed": 6,
+  "newly_processed_confirmed": 0,
+  "newly_processed_match_rate": 0,
+  "added_originals": [],
   "withdrawn_originals": [],
   "versions": 1256,
-  "added_versions": [
-    {
-      "id": "AJdEqssNZ-U",
-      "bvid": "BV1j3411R7Bm",
-      "page": 1
-    },
-    {
-      "id": "d_FEaFgJyfA",
-      "bvid": "BV1mW411t7i6",
-      "page": 1
-    },
-    {
-      "id": "esUb7Zy5Oio",
-      "bvid": "BV1sureBzEsW",
-      "page": 1
-    },
-    {
-      "id": "f8FAJXPBdOg",
-      "bvid": "BV147411v7u7",
-      "page": 1
-    },
-    {
-      "id": "f8FAJXPBdOg",
-      "bvid": "BV16p411d762",
-      "page": 1
-    },
-    {
-      "id": "f8FAJXPBdOg",
-      "bvid": "BV1ox411t74X",
-      "page": 1
-    },
-    {
-      "id": "f8FAJXPBdOg",
-      "bvid": "BV1yJ411U7qS",
-      "page": 1
-    },
-    {
-      "id": "fHsa9DqmId8",
-      "bvid": "BV124411j7Pf",
-      "page": 1
-    },
-    {
-      "id": "fzBRYsiyxjI",
-      "bvid": "BV1t54y1B71Y",
-      "page": 1
-    },
-    {
-      "id": "goSEyGNfiPM",
-      "bvid": "BV1y54y1p7Rd",
-      "page": 1
-    },
-    {
-      "id": "hBpetDxIEMU",
-      "bvid": "BV1wE411q7KV",
-      "page": 1
-    },
-    {
-      "id": "hWTFG3J1CP8",
-      "bvid": "BV1ZW411Y79M",
-      "page": 1
-    },
-    {
-      "id": "o25I2fzFGoY",
-      "bvid": "BV1si4y1K7At",
-      "page": 1
-    },
-    {
-      "id": "p6K4iIMlouI",
-      "bvid": "BV13U4y1j75T",
-      "page": 1
-    },
-    {
-      "id": "ycPr5-27vSI",
-      "bvid": "BV1jR4y1f74B",
-      "page": 1
-    }
-  ],
+  "added_versions": [],
   "withdrawn_versions": [],
   "search_batches": [
     {
-      "id": "20261106T085206Z",
+      "id": "20261106T091806Z",
       "selected": 50,
-      "completed": 50,
-      "errors": [],
-      "stopped": false,
-      "originals": [
-        "e0elNU0iOMY",
-        "e3GFG0sXIig",
-        "e4wbFdePb-k",
-        "eDJrQBwJpqk",
-        "eDNX65d-FBY",
-        "eGKFTUuJppU",
-        "eKtsY7hYTPg",
-        "eNC0mRYGWgc",
-        "eREuZEdMAVo",
-        "eRkgK4jfi6M",
-        "eUPJ9zFV5IE",
-        "eX9m3g5J-XA",
-        "eXR1olg_I0w",
-        "ed2FWNWwE3I",
-        "elqAh3GWRpA",
-        "enHF9lMseP8",
-        "esPRsT-lmw8",
-        "esUb7Zy5Oio",
-        "ett_8wLJ87U",
-        "etx0k1nLn78",
-        "euJgtLcWWyo",
-        "evQsOFQju08",
-        "f4U8YbXKwog",
-        "f8FAJXPBdOg",
-        "f9vRcSAneiw",
-        "fBt5NuNsoII",
-        "fHsa9DqmId8",
-        "fPKMmJpAGWc",
-        "ffngZOB1U2A",
-        "fg0_Vhldz-8",
-        "fifjjacjLBE",
-        "fjbWr3ODbAo",
-        "fjs2gPa5sD0",
-        "fmF7HpU_-9k",
-        "frnLiXclAMo",
-        "fwCz8Ris79g",
-        "fzBRYsiyxjI",
-        "gC295d3V9gE",
-        "gTmhS6hcY-A",
-        "gUnxzVOs3rk",
-        "gfh-VCTwMw8",
-        "ghDvyItIHTY",
-        "gmn7tjSNyAA",
-        "goSEyGNfiPM",
-        "gtLxZiiuaXs",
-        "h2cs8QLnxlU",
-        "h67k9eEw9AY",
-        "h7Sv_pS8MgQ",
-        "hBmhDf8cl0k",
-        "hBpetDxIEMU"
-      ],
-      "primary_first": true,
-      "deferred_candidates": 87,
-      "excluded_originals": [
-        "05WS0WN7zMQ",
-        "1bO8zEaSuWg",
-        "4_qJptwikRc",
-        "6JAgXz6xO0s",
-        "AJgY9FtDLbs",
-        "HQKy1KJpSVc",
-        "IvUU8joBb1Q",
-        "Ks-_Mh1QhMc",
-        "MNXypBxNGMo",
-        "MpfvhiqFw7A",
-        "NTJQTc-TqpU",
-        "OL6-x0modwY",
-        "OMcjxe8slYI",
-        "QVuU2YCwHjw",
-        "SYeeTvitvFU",
-        "TiXINuf5nbI",
-        "bwDrHqNZ9lo",
-        "cVaTc15plVs",
-        "cjuGCJJUGsg",
-        "dX649lnKAU0",
-        "doz1QJ7LwjA",
-        "hhMAt3BluAU",
-        "s9fByRmAHgU",
-        "st571DYYTR8",
-        "uTdyb-RWNKo",
-        "vs41JrnGaxc"
-      ],
-      "attempted": 50,
-      "unattempted": 0,
-      "statuses": {
-        "review": 43,
-        "confirmed": 7
-      },
-      "candidate_count": 1883
-    },
-    {
-      "id": "20261106T090848Z",
-      "selected": 50,
-      "completed": 0,
+      "completed": 6,
       "errors": [
         {
-          "vid": "hMOwbNUpDQA",
+          "vid": "i5uSbp0YDhc",
           "reason": "URLError"
         }
       ],
       "stopped": false,
-      "originals": [],
+      "originals": [
+        "hSrGfElyfVE",
+        "hT8GZlBBv5k",
+        "hZ1OgQL9_Cw",
+        "hdt18p-VMmQ",
+        "hyry8mgXiTk",
+        "hzGaO4Kdz2Y"
+      ],
       "primary_first": true,
       "deferred_candidates": 0,
       "excluded_originals": [
@@ -241,45 +67,25 @@
         "cjuGCJJUGsg",
         "dX649lnKAU0",
         "doz1QJ7LwjA",
+        "hMOwbNUpDQA",
         "hhMAt3BluAU",
         "s9fByRmAHgU",
         "st571DYYTR8",
         "uTdyb-RWNKo",
         "vs41JrnGaxc"
       ],
-      "attempted": 1,
-      "unattempted": 49,
+      "attempted": 7,
+      "unattempted": 43,
       "statuses": {
-        "review": 1
+        "review": 7
       },
-      "candidate_count": 38
+      "candidate_count": 262
     }
   ],
-  "completed_search_originals": 50,
-  "direct_search_attempts": 51,
-  "unattempted_after_error": 49,
-  "source_verification_batches": [
-    {
-      "id": "2026-11-06T08:51:35.113091+00:00",
-      "source": "serial-20261106T085105Z-leads-1.json",
-      "attempted": 2,
-      "completed": 2,
-      "confirmed": 2,
-      "errors": [],
-      "stopped": false
-    },
-    {
-      "id": "2026-11-06T09:08:09.959035+00:00",
-      "source": "serial-20261106T085105Z-leads-2.json",
-      "attempted": 8,
-      "completed": 8,
-      "confirmed": 8,
-      "errors": [],
-      "stopped": false
-    }
-  ],
-  "source_leads_completed": 10,
-  "source_confirmed_versions_at_automatic_verification": 10,
+  "completed_search_originals": 6,
+  "direct_search_attempts": 7,
+  "unattempted_after_error": 43,
+  "source_verification_batches": [],
   "blocked_originals": {
     "st571DYYTR8": "prior URLError; no retry or unavailable classification",
     "HQKy1KJpSVc": "prior URLError; no retry or unavailable classification",
@@ -307,128 +113,56 @@
     "OMcjxe8slYI": "URLError; no retry; availability unknown",
     "TiXINuf5nbI": "URLError; not retried; availability unknown",
     "doz1QJ7LwjA": "URLError; not retried; availability unknown",
-    "hMOwbNUpDQA": "URLError; not retried; availability unknown"
+    "hMOwbNUpDQA": "URLError; not retried; availability unknown",
+    "i5uSbp0YDhc": "URLError; not retried; availability unknown"
   },
-  "metadata_title_review": {
-    "baseline_commit": "771edd1bb374bd269f32472549c83e829af8aa3f",
-    "review_status": "metadata_consistency_review_completed_for_snapshot",
-    "reviewed_at": "2026-11-06T09:12:01.684698+00:00",
-    "scope": "Read original, Bilibili and segment titles for 15 versions; no frame comparison."
-  },
-  "metadata_rows_checked": 15,
-  "manual_downgrades": [
-    {
-      "id": "ett_8wLJ87U",
-      "bvid": "BV1Ys4y197Yy",
-      "reason": "Uploader states visual redactions; content consistency requires review"
-    },
+  "historical_manual_hold_backfill": [
     {
       "id": "f8FAJXPBdOg",
       "bvid": "BV1gvZvBbELr",
       "reason": "Title explicitly labels an MV recreation / Rhythm Doctor derivative"
+    },
+    {
+      "id": "ZQFzMfHIxng",
+      "bvid": "BV14E411q7np",
+      "reason": "different talk title: C++ atomics vs Read Copy Update"
+    },
+    {
+      "id": "3pvpNKUPbIY",
+      "bvid": "BV1hVreY4E5z",
+      "reason": "HackerTube episode 243; Bilibili title says episode 233"
+    },
+    {
+      "id": "3wMKoSRbGVs",
+      "bvid": "BV1RRrSYCEir",
+      "reason": "HackerTube episode 221; Bilibili title says episode 212"
+    },
+    {
+      "id": "-DVyjdw4t9I",
+      "bvid": "BV1towjedEH5",
+      "reason": "Bilibili title identifies episode 310; original is Lex Fridman Podcast episode 341"
+    },
+    {
+      "id": "vKA4w2O61Xo",
+      "bvid": "BV1rB4y1T74j",
+      "reason": "Previously reviewed title/segment mismatch: The Most Common Cognitive Bias vs Can You Solve This"
+    },
+    {
+      "id": "F3Jd9GI6XqE",
+      "bvid": "BV1FvfaYjEAV",
+      "reason": "Previously reviewed identity ambiguity: original #426 and Bilibili bracketed 381; numbering meaning unresolved"
     }
   ],
   "cached_new_version_audit": {
-    "at": "2026-11-06T09:11:42.966773+00:00",
+    "at": "2026-11-06T09:20:56.987318+00:00",
     "requests": 0,
-    "versions_checked": 15,
-    "versions": [
-      {
-        "id": "AJdEqssNZ-U",
-        "bvid": "BV1j3411R7Bm",
-        "page": 1,
-        "cid": 980109480
-      },
-      {
-        "id": "ycPr5-27vSI",
-        "bvid": "BV1jR4y1f74B",
-        "page": 1,
-        "cid": 894508544
-      },
-      {
-        "id": "p6K4iIMlouI",
-        "bvid": "BV13U4y1j75T",
-        "page": 1,
-        "cid": 349906160
-      },
-      {
-        "id": "hWTFG3J1CP8",
-        "bvid": "BV1ZW411Y79M",
-        "page": 1,
-        "cid": 30426380
-      },
-      {
-        "id": "d_FEaFgJyfA",
-        "bvid": "BV1mW411t7i6",
-        "page": 1,
-        "cid": 28792433
-      },
-      {
-        "id": "esUb7Zy5Oio",
-        "bvid": "BV1sureBzEsW",
-        "page": 1,
-        "cid": 25944594393
-      },
-      {
-        "id": "f8FAJXPBdOg",
-        "bvid": "BV1yJ411U7qS",
-        "page": 1,
-        "cid": 129857659
-      },
-      {
-        "id": "f8FAJXPBdOg",
-        "bvid": "BV1ox411t74X",
-        "page": 1,
-        "cid": 23052700
-      },
-      {
-        "id": "f8FAJXPBdOg",
-        "bvid": "BV147411v7u7",
-        "page": 1,
-        "cid": 144093015
-      },
-      {
-        "id": "f8FAJXPBdOg",
-        "bvid": "BV16p411d762",
-        "page": 1,
-        "cid": 39457183
-      },
-      {
-        "id": "fHsa9DqmId8",
-        "bvid": "BV124411j7Pf",
-        "page": 1,
-        "cid": 92966662
-      },
-      {
-        "id": "fzBRYsiyxjI",
-        "bvid": "BV1t54y1B71Y",
-        "page": 1,
-        "cid": 198691636
-      },
-      {
-        "id": "goSEyGNfiPM",
-        "bvid": "BV1y54y1p7Rd",
-        "page": 1,
-        "cid": 291055656
-      },
-      {
-        "id": "hBpetDxIEMU",
-        "bvid": "BV1wE411q7KV",
-        "page": 1,
-        "cid": 128113429
-      },
-      {
-        "id": "o25I2fzFGoY",
-        "bvid": "BV1si4y1K7At",
-        "page": 1,
-        "cid": 311230905
-      }
-    ],
+    "versions_checked": 0,
+    "versions": [],
     "segment_conflicts": [],
     "scope": "Read-only live-run snapshot; final audit still required for later results."
   },
   "browser_tests": {
-    "checked_at": "2026-11-06T09:12:03.068Z",
+    "checked_at": "2026-11-06T09:20:58.511Z",
     "status": "pass",
     "originals": 923,
     "scenarios": [
@@ -451,328 +185,12 @@
     "page_errors": []
   },
   "playback": {
-    "checked_at": "2026-11-06T09:13:30.099Z",
-    "checks": [
-      {
-        "sample": "AJdEqssNZ-U",
-        "kind": "original",
-        "id": "AJdEqssNZ-U",
-        "bvid": "BV1j3411R7Bm",
-        "page": 1,
-        "playing": true,
-        "media": {
-          "readyState": 4,
-          "currentTime": 3.95176,
-          "duration": 2650,
-          "paused": false
-        },
-        "expected_duration": 2650,
-        "duration_matches_segment": true,
-        "requested_cids": [
-          "980109480"
-        ],
-        "requested_cid_observed": true,
-        "visible_text": "The art of screenshake at INDIGO Classes 2013\nsamurai54\n关注\n18\n4\n分享\n更多\n00:04 / 44:10\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
-      },
-      {
-        "sample": "p6K4iIMlouI",
-        "kind": "original",
-        "id": "p6K4iIMlouI",
-        "bvid": "BV13U4y1j75T",
-        "page": 1,
-        "playing": true,
-        "media": {
-          "readyState": 4,
-          "currentTime": 3.941833,
-          "duration": 4828.557,
-          "paused": false
-        },
-        "expected_duration": 4830,
-        "duration_matches_segment": true,
-        "requested_cids": [
-          "349906160"
-        ],
-        "requested_cid_observed": true,
-        "visible_text": "7 Habits for Effective Text Editing 2.0\nIammyself001\n关注\n5\n4\n分享\n更多\n0:00:04 / 1:20:29\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
-      },
-      {
-        "sample": "d_FEaFgJyfA",
-        "kind": "original",
-        "id": "d_FEaFgJyfA",
-        "bvid": "BV1mW411t7i6",
-        "page": 1,
-        "playing": true,
-        "media": {
-          "readyState": 4,
-          "currentTime": 4.311865,
-          "duration": 254,
-          "paused": false
-        },
-        "expected_duration": 253,
-        "duration_matches_segment": true,
-        "requested_cids": [
-          "28792433"
-        ],
-        "requested_cid_observed": true,
-        "visible_text": "Experiment! How Does An Owl Fly So Silently - Super Powered Owls - BBC\n-老九-\n关注\n53\n49\n分享\n更多\n00:05 / 04:14\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
-      },
-      {
-        "sample": "esUb7Zy5Oio",
-        "kind": "dub_zh",
-        "id": "esUb7Zy5Oio",
-        "bvid": "BV1sureBzEsW",
-        "page": 1,
-        "playing": true,
-        "media": {
-          "readyState": 4,
-          "currentTime": 3.949858,
-          "duration": 728,
-          "paused": false
-        },
-        "expected_duration": 728,
-        "duration_matches_segment": true,
-        "requested_cids": [
-          "25944594393"
-        ],
-        "requested_cid_observed": true,
-        "visible_text": "[中配]解析特斯拉Model 3电动机的创新工程 - Sabin Civil Engineering\n小何带你看世界-\n关注\n3\n0\n分享\n更多\n00:04 / 12:08\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
-      },
-      {
-        "sample": "f8FAJXPBdOg",
-        "kind": "sub_zh",
-        "id": "f8FAJXPBdOg",
-        "bvid": "BV1yJ411U7qS",
-        "page": 1,
-        "playing": true,
-        "media": {
-          "readyState": 4,
-          "currentTime": 3.94477,
-          "duration": 285,
-          "paused": false
-        },
-        "expected_duration": 286,
-        "duration_matches_segment": true,
-        "requested_cids": [
-          "129857659"
-        ],
-        "requested_cid_observed": true,
-        "visible_text": "分子组成的shape of you（熟肉）\n石墨堆芯\n关注\n125\n16\n分享\n更多\n00:04 / 04:45\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
-      },
-      {
-        "sample": "f8FAJXPBdOg",
-        "kind": "original",
-        "id": "f8FAJXPBdOg",
-        "bvid": "BV1ox411t74X",
-        "page": 1,
-        "playing": true,
-        "media": {
-          "readyState": 4,
-          "currentTime": 3.954692,
-          "duration": 284.851,
-          "paused": false
-        },
-        "expected_duration": 285,
-        "duration_matches_segment": true,
-        "requested_cids": [
-          "23052700"
-        ],
-        "requested_cid_observed": true,
-        "visible_text": "【KeyI】【acapellascience】《你的分子形状 The Molecular Shape of You》英文字幕\n可意KeyI\n关注\n63\n29\n分享\n更多\n00:04 / 04:45\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
-      },
-      {
-        "sample": "f8FAJXPBdOg",
-        "kind": "original",
-        "id": "f8FAJXPBdOg",
-        "bvid": "BV147411v7u7",
-        "page": 1,
-        "playing": true,
-        "media": {
-          "readyState": 4,
-          "currentTime": 3.954431,
-          "duration": 245,
-          "paused": false
-        },
-        "expected_duration": 246,
-        "duration_matches_segment": true,
-        "requested_cids": [
-          "144093015"
-        ],
-        "requested_cid_observed": true,
-        "visible_text": "Shape of You风靡全球，但你肯定没听过这个化学知识科普版！\nChemWhat\n关注\n90\n8\n分享\n更多\n00:04 / 04:05\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
-      },
-      {
-        "sample": "f8FAJXPBdOg",
-        "kind": "original",
-        "id": "f8FAJXPBdOg",
-        "bvid": "BV16p411d762",
-        "page": 1,
-        "playing": true,
-        "media": {
-          "readyState": 4,
-          "currentTime": 3.950064,
-          "duration": 285,
-          "paused": false
-        },
-        "expected_duration": 285,
-        "duration_matches_segment": true,
-        "requested_cids": [
-          "39457183"
-        ],
-        "requested_cid_observed": true,
-        "visible_text": "【搞笑科学】The Molecular Shape of You (Ed Sheeran Parody) _ A Capella Science\nCGOfficial\n关注\n26\n1\n分享\n更多\n00:04 / 04:45\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
-      },
-      {
-        "sample": "fHsa9DqmId8",
-        "kind": "original",
-        "id": "fHsa9DqmId8",
-        "bvid": "BV124411j7Pf",
-        "page": 1,
-        "playing": true,
-        "media": {
-          "readyState": 4,
-          "currentTime": 3.940461,
-          "duration": 1423,
-          "paused": false
-        },
-        "expected_duration": 1423,
-        "duration_matches_segment": true,
-        "requested_cids": [
-          "92966662"
-        ],
-        "requested_cid_observed": true,
-        "visible_text": "【英字】My Video Went Viral. Here's Why【Veritasium真理元素】\nVeritasium真理元素\n关注\n86\n17\n分享\n更多\n00:04 / 23:43\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
-      },
-      {
-        "sample": "fzBRYsiyxjI",
-        "kind": "original",
-        "id": "fzBRYsiyxjI",
-        "bvid": "BV1t54y1B71Y",
-        "page": 1,
-        "playing": true,
-        "media": {
-          "readyState": 4,
-          "currentTime": 4.237876,
-          "duration": 900,
-          "paused": false
-        },
-        "expected_duration": 900,
-        "duration_matches_segment": true,
-        "requested_cids": [
-          "198691636"
-        ],
-        "requested_cid_observed": true,
-        "visible_text": "The Material Science of Metal 3D Printing\nMrlxhh\n关注\n9\n3\n分享\n更多\n00:05 / 15:00\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
-      },
-      {
-        "sample": "goSEyGNfiPM",
-        "kind": "original",
-        "id": "goSEyGNfiPM",
-        "bvid": "BV1y54y1p7Rd",
-        "page": 1,
-        "playing": true,
-        "media": {
-          "readyState": 4,
-          "currentTime": 4.264013,
-          "duration": 665,
-          "paused": false
-        },
-        "expected_duration": 665,
-        "duration_matches_segment": true,
-        "requested_cids": [
-          "291055656"
-        ],
-        "requested_cid_observed": true,
-        "visible_text": "【CSB】BP德克萨斯炼油厂爆炸事故\n安全员小王\n关注\n95\n3\n分享\n更多\n00:05 / 11:05\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
-      },
-      {
-        "sample": "hBpetDxIEMU",
-        "kind": "original",
-        "id": "hBpetDxIEMU",
-        "bvid": "BV1wE411q7KV",
-        "page": 1,
-        "playing": true,
-        "media": {
-          "readyState": 4,
-          "currentTime": 3.954576,
-          "duration": 4505,
-          "paused": false
-        },
-        "expected_duration": 4505,
-        "duration_matches_segment": true,
-        "requested_cids": [
-          "128113429"
-        ],
-        "requested_cid_observed": true,
-        "visible_text": "Steven Pinker: \"The Stuff of Thought\" | Talks at Google\n柠檬露露-雅思IELTS\n关注\n10\n0\n分享\n更多\n0:00:04 / 1:15:05\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
-      },
-      {
-        "sample": "o25I2fzFGoY",
-        "kind": "original",
-        "id": "o25I2fzFGoY",
-        "bvid": "BV1si4y1K7At",
-        "page": 1,
-        "playing": true,
-        "media": {
-          "readyState": 4,
-          "currentTime": 4.595386,
-          "duration": 566,
-          "paused": false
-        },
-        "expected_duration": 566,
-        "duration_matches_segment": true,
-        "requested_cids": [
-          "311230905"
-        ],
-        "requested_cid_observed": true,
-        "visible_text": "George Carlin on soft language\nReasonableDoubt\n关注\n6\n1\n分享\n更多\n00:05 / 09:26\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
-      },
-      {
-        "sample": "ycPr5-27vSI",
-        "kind": "sub_zh",
-        "id": "ycPr5-27vSI",
-        "bvid": "BV1jR4y1f74B",
-        "page": 1,
-        "playing": true,
-        "media": {
-          "readyState": 4,
-          "currentTime": 3.940277,
-          "duration": 9423,
-          "paused": false
-        },
-        "expected_duration": 9423,
-        "duration_matches_segment": true,
-        "requested_cids": [
-          "894508544"
-        ],
-        "requested_cid_observed": true,
-        "visible_text": "【原画中字】埃隆·马斯克Elon Musk - 特斯拉、SpaceX、太阳能、生活、大麻 | Joe Rogan访谈录 #1169 2018/09/07\n铁马实验室\n关注\n246\n14\n分享\n更多\n0:00:04 / 2:37:03\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
-      },
-      {
-        "sample": "hWTFG3J1CP8",
-        "kind": "original",
-        "id": "hWTFG3J1CP8",
-        "bvid": "BV1ZW411Y79M",
-        "page": 1,
-        "playing": true,
-        "media": {
-          "readyState": 4,
-          "currentTime": 4.300854,
-          "duration": 408,
-          "paused": false
-        },
-        "expected_duration": 408,
-        "duration_matches_segment": true,
-        "requested_cids": [
-          "30426380"
-        ],
-        "requested_cid_observed": true,
-        "visible_text": "The man who arranges the blocks\nNL____\n关注\n243\n14\n分享\n更多\n00:05 / 06:48\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
-      }
-    ]
+    "checked": 0,
+    "reason": "No added or changed public versions; no new playback claim"
   },
   "unit_tests": {
     "passed": 65
   },
-  "remaining_unprocessed": 3010,
-  "remaining_processed_unconfirmed": 2521
+  "remaining_unprocessed": 3004,
+  "remaining_processed_unconfirmed": 2527
 }
