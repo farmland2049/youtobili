@@ -1,0 +1,110 @@
+{
+  "checked_at": "2026-11-06T05:43:35.740Z",
+  "checks": [
+    {
+      "sample": "4anAwXYqLG8",
+      "kind": "original",
+      "id": "4anAwXYqLG8",
+      "bvid": "BV1S3411z7Xf",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.936214,
+        "duration": 1468,
+        "paused": false
+      },
+      "expected_duration": 1468,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "388801543"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Sebastian Markbage - Minimal API Surface Area | JSConf EU 2014\n夕舞八弦\n关注\n2\n2\n分享\n更多\n00:04 / 24:28\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "4jEz03Z8azc",
+      "kind": "original",
+      "id": "4jEz03Z8azc",
+      "bvid": "BV1nW421A7gZ",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.947571,
+        "duration": 31,
+        "paused": false
+      },
+      "expected_duration": 31,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1457395981"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "First-stage landing _ Onboard camera-4jEz03Z8azc\ncloudflare-fan\n关注\n0\n0\n分享\n更多\n00:04 / 00:31\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "5tu32CCA_Ig",
+      "kind": "sub_zh",
+      "id": "5tu32CCA_Ig",
+      "bvid": "BV1ix411U7Ei",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.297589,
+        "duration": 351,
+        "paused": false
+      },
+      "expected_duration": 351,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "16671974"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "『人文科普』Corruption Is Legal In America (Youtube搬运)(内嵌双语字幕)\n狐说拔稻\n关注\n5\n1\n分享\n更多\n00:05 / 05:51\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "63vqob-MljQ",
+      "kind": "original",
+      "id": "63vqob-MljQ",
+      "bvid": "BV1Zs411R7vo",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.940207,
+        "duration": 253,
+        "paused": false
+      },
+      "expected_duration": 252,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "4983456"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "看了十遍都想不出来怎么拍出来的無限循環 MV Kylie Minogue - Come Into My World\nBearBearBear或熊熊熊\n关注\n44\n9\n分享\n更多\n00:04 / 04:13\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "6Af6b_wyiwI",
+      "kind": "original",
+      "id": "6Af6b_wyiwI",
+      "bvid": "BV17e411x7Ru",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.240661,
+        "duration": 517,
+        "paused": false
+      },
+      "expected_duration": 517,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "169945145"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【英文字幕】Bill Gates TED Talk The next outbreak－We’re not ready\n最爱布朗尼味的本杰瑞\n关注\n137\n26\n分享\n更多\n00:05 / 08:37\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

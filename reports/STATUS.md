@@ -1,74 +1,65 @@
 # 匹配进展
 
-更新时间：2026-11-06T05:28:27.989272+00:00
+更新时间：2026-11-06T05:42:46.076299+00:00
 
 - 原片库：6454
-- 完成处理：2944
-- 已确认原片：859
-- 全库覆盖率：13.31%
-- 已处理原片匹配率：29.18%
-- 状态：{'confirmed': 859, 'review': 2103}
+- 完成处理：2970
+- 已确认原片：864
+- 全库覆盖率：13.39%
+- 已处理原片匹配率：29.09%
+- 状态：{'confirmed': 864, 'review': 2125}
 
-- 待审中尚需扩大候选检查：179
-- 已扩大检查仍待审核：1924
+- 待审中尚需扩大候选检查：180
+- 已扩大检查仍待审核：1945
 
 ## 最近批次
 
 ```json
 {
-  "id": "20261106T051643Z",
+  "id": "20261106T053322Z",
   "selected": 50,
-  "completed": 36,
+  "completed": 26,
   "errors": [
     {
-      "vid": "4_qJptwikRc",
+      "vid": "6JAgXz6xO0s",
       "reason": "URLError"
     }
   ],
   "stopped": false,
   "originals": [
-    "1faaOrtHJ-A",
-    "1rCrfQUcXDI",
-    "2-oBNh0UkQc",
-    "21EiKfQYZXc",
-    "23X14HS4gLk",
-    "29RkHH-psrY",
-    "2BdBfsXbST8",
-    "2Ex8EEv-WPs",
-    "2Q26XIKtwXQ",
-    "2SdGkkp1aq8",
-    "2U9WMftV40c",
-    "2lisQQmWQkY",
-    "2qsmF8HHskg",
-    "2vuMzGhc1cg",
-    "2wq9x2QcZN0",
-    "34rdxDgpaaA",
-    "36qZYL5RlgY",
-    "37NaHRE0Sqw",
-    "3BJU2drrtCM",
-    "3HROqnw-nf4",
-    "3IryIOyPfTE",
-    "3QnD2c4Xovk",
-    "3R3-YwDZrzg",
-    "3TYT1QfdfsM",
-    "3byNNUReyvE",
-    "3jQoAYRKqhg",
-    "3pvpNKUPbIY",
-    "3qHkcs3kG44",
-    "3wMKoSRbGVs",
-    "45X4VP8CGtk",
-    "49kBWM3RQQ8",
-    "4KtotxNAwME",
-    "4KuVvb9DTaU",
-    "4PHT-zBxKQQ",
-    "4Vw6uF2LdZw",
-    "4WwAQqWUkpI"
+    "4aUODXeAM-k",
+    "4anAwXYqLG8",
+    "4jEz03Z8azc",
+    "4j_UjIshzMc",
+    "4jh94gowim0",
+    "4moyKUHApq4",
+    "4zG0uecYSMA",
+    "586Zn1ct-QA",
+    "5BIP_N9qQm4",
+    "5ODzO7Lz_pw",
+    "5P5Mk_IggE0",
+    "5V1ynVyud4M",
+    "5ZjhNTM8XU8",
+    "5_-Ac68FKG4",
+    "5d6SEQQbwtU",
+    "5eBT6OSr1TI",
+    "5fbvquHSPJU",
+    "5pidokakU4I",
+    "5q-BH-tvxEg",
+    "5tu32CCA_Ig",
+    "5uiroWBkdFY",
+    "62jZENi1ed8",
+    "63vqob-MljQ",
+    "64cEmjtwRgw",
+    "6Af6b_wyiwI",
+    "6Cf7IL_eZ38"
   ],
   "primary_first": true,
-  "deferred_candidates": 25,
+  "deferred_candidates": 74,
   "excluded_originals": [
     "05WS0WN7zMQ",
     "1bO8zEaSuWg",
+    "4_qJptwikRc",
     "AJgY9FtDLbs",
     "HQKy1KJpSVc",
     "NTJQTc-TqpU",
@@ -85,13 +76,13 @@
     "uTdyb-RWNKo",
     "vs41JrnGaxc"
   ],
-  "attempted": 37,
-  "unattempted": 13,
+  "attempted": 27,
+  "unattempted": 23,
   "statuses": {
-    "review": 35,
-    "confirmed": 2
+    "review": 22,
+    "confirmed": 5
   },
-  "candidate_count": 1342
+  "candidate_count": 959
 }
 ```
 

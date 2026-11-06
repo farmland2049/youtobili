@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T05:28:28.034641+00:00",
+  "updated_at": "2026-11-06T05:42:46.121892+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -46234,6 +46234,289 @@
     },
     "4_qJptwikRc": {
       "vid": "4_qJptwikRc",
+      "status": "review",
+      "completed_at": null,
+      "candidates": []
+    },
+    "4aUODXeAM-k": {
+      "vid": "4aUODXeAM-k",
+      "status": "review",
+      "completed_at": "2026-11-06T05:33:40.061042+00:00",
+      "candidates": []
+    },
+    "4anAwXYqLG8": {
+      "vid": "4anAwXYqLG8",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T05:33:50.348736+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1S3411z7Xf",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description",
+            "exact original YouTube ID explicitly associated with selected segment"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Sebastian Markbage - Minimal API Surface Area | JSConf EU 2014",
+          "up": "夕舞八弦",
+          "duration": 1468,
+          "original_duration": 1468,
+          "cid": 388801543,
+          "aid": 419848700,
+          "segment_title": "Sebastian Markbage - Minimal API Surface Area _ JSConf EU 2014-4anAwXYqLG8",
+          "page_count": 1,
+          "kind": "original",
+          "views": 79,
+          "pic": "https://i1.hdslb.com/bfs/archive/c51d55052f7a87f184b25f5d73bb0c6727ecf80a.jpg",
+          "checked_at": "2026-11-06T05:33:49.628305+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "4jEz03Z8azc": {
+      "vid": "4jEz03Z8azc",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T05:34:46.155829+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1nW421A7gZ",
+          "status": "confirmed",
+          "evidence": [
+            "exact original YouTube ID explicitly associated with selected segment"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "First-stage landing _ Onboard camera-4jEz03Z8azc",
+          "up": "cloudflare-fan",
+          "duration": 31,
+          "original_duration": 31,
+          "cid": 1457395981,
+          "aid": 1851497999,
+          "segment_title": "First-stage landing _ Onboard camera-4jEz03Z8azc",
+          "page_count": 1,
+          "kind": "original",
+          "views": 6,
+          "pic": "https://i1.hdslb.com/bfs/archive/1c8299d96e6d4f9f5456d7bcc9ce40d53314ad65.jpg",
+          "checked_at": "2026-11-06T05:34:45.426836+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "4j_UjIshzMc": {
+      "vid": "4j_UjIshzMc",
+      "status": "review",
+      "completed_at": "2026-11-06T05:35:02.710336+00:00",
+      "candidates": []
+    },
+    "4jh94gowim0": {
+      "vid": "4jh94gowim0",
+      "status": "review",
+      "completed_at": "2026-11-06T05:35:14.853327+00:00",
+      "candidates": []
+    },
+    "4moyKUHApq4": {
+      "vid": "4moyKUHApq4",
+      "status": "review",
+      "completed_at": "2026-11-06T05:35:22.331233+00:00",
+      "candidates": []
+    },
+    "4zG0uecYSMA": {
+      "vid": "4zG0uecYSMA",
+      "status": "review",
+      "completed_at": "2026-11-06T05:35:37.472038+00:00",
+      "candidates": []
+    },
+    "586Zn1ct-QA": {
+      "vid": "586Zn1ct-QA",
+      "status": "review",
+      "completed_at": "2026-11-06T05:36:03.894330+00:00",
+      "candidates": []
+    },
+    "5BIP_N9qQm4": {
+      "vid": "5BIP_N9qQm4",
+      "status": "review",
+      "completed_at": "2026-11-06T05:36:14.372396+00:00",
+      "candidates": []
+    },
+    "5ODzO7Lz_pw": {
+      "vid": "5ODzO7Lz_pw",
+      "status": "review",
+      "completed_at": "2026-11-06T05:36:44.096925+00:00",
+      "candidates": []
+    },
+    "5P5Mk_IggE0": {
+      "vid": "5P5Mk_IggE0",
+      "status": "review",
+      "completed_at": "2026-11-06T05:36:55.412817+00:00",
+      "candidates": []
+    },
+    "5V1ynVyud4M": {
+      "vid": "5V1ynVyud4M",
+      "status": "review",
+      "completed_at": "2026-11-06T05:37:06.023612+00:00",
+      "candidates": []
+    },
+    "5ZjhNTM8XU8": {
+      "vid": "5ZjhNTM8XU8",
+      "status": "review",
+      "completed_at": "2026-11-06T05:37:20.747800+00:00",
+      "candidates": []
+    },
+    "5_-Ac68FKG4": {
+      "vid": "5_-Ac68FKG4",
+      "status": "review",
+      "completed_at": "2026-11-06T05:37:35.011191+00:00",
+      "candidates": []
+    },
+    "5d6SEQQbwtU": {
+      "vid": "5d6SEQQbwtU",
+      "status": "review",
+      "completed_at": "2026-11-06T05:37:49.390568+00:00",
+      "candidates": []
+    },
+    "5eBT6OSr1TI": {
+      "vid": "5eBT6OSr1TI",
+      "status": "review",
+      "completed_at": "2026-11-06T05:38:37.701818+00:00",
+      "candidates": []
+    },
+    "5fbvquHSPJU": {
+      "vid": "5fbvquHSPJU",
+      "status": "review",
+      "completed_at": "2026-11-06T05:38:48.202525+00:00",
+      "candidates": []
+    },
+    "5pidokakU4I": {
+      "vid": "5pidokakU4I",
+      "status": "review",
+      "completed_at": "2026-11-06T05:39:17.265670+00:00",
+      "candidates": []
+    },
+    "5q-BH-tvxEg": {
+      "vid": "5q-BH-tvxEg",
+      "status": "review",
+      "completed_at": "2026-11-06T05:40:08.381941+00:00",
+      "candidates": []
+    },
+    "5tu32CCA_Ig": {
+      "vid": "5tu32CCA_Ig",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T05:40:17.431472+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1ix411U7Ei",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "『人文科普』Corruption Is Legal In America (Youtube搬运)(内嵌双语字幕)",
+          "up": "狐说拔稻",
+          "duration": 351,
+          "original_duration": 351,
+          "cid": 16671974,
+          "aid": 10088912,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 410,
+          "pic": "https://i0.hdslb.com/bfs/archive/09cb313700804d4795f76adbb4ce0611ca4d0be9.jpg",
+          "checked_at": "2026-11-06T05:40:16.688623+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "5uiroWBkdFY": {
+      "vid": "5uiroWBkdFY",
+      "status": "review",
+      "completed_at": "2026-11-06T05:41:08.773676+00:00",
+      "candidates": []
+    },
+    "62jZENi1ed8": {
+      "vid": "62jZENi1ed8",
+      "status": "review",
+      "completed_at": "2026-11-06T05:41:24.800265+00:00",
+      "candidates": []
+    },
+    "63vqob-MljQ": {
+      "vid": "63vqob-MljQ",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T05:41:35.292688+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Zs411R7vo",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "看了十遍都想不出来怎么拍出来的無限循環 MV Kylie Minogue - Come Into My World",
+          "up": "BearBearBear或熊熊熊",
+          "duration": 252,
+          "original_duration": 255,
+          "cid": 4983456,
+          "aid": 3164232,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "original",
+          "views": 3563,
+          "pic": "https://i0.hdslb.com/bfs/archive/53ea05dabd24bcf6b10deaf639f4e49b19c760f4.png",
+          "checked_at": "2026-11-06T05:41:34.566127+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "64cEmjtwRgw": {
+      "vid": "64cEmjtwRgw",
+      "status": "review",
+      "completed_at": "2026-11-06T05:41:49.654103+00:00",
+      "candidates": []
+    },
+    "6Af6b_wyiwI": {
+      "vid": "6Af6b_wyiwI",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T05:41:58.774586+00:00",
+      "candidates": [
+        {
+          "bvid": "BV17e411x7Ru",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【英文字幕】Bill Gates TED Talk The next outbreak－We’re not ready",
+          "up": "最爱布朗尼味的本杰瑞",
+          "duration": 517,
+          "original_duration": 517,
+          "cid": 169945145,
+          "aid": 242519484,
+          "segment_title": "he next outbreak_ We’re not ready _ Bill Gates",
+          "page_count": 1,
+          "kind": "original",
+          "views": 9993,
+          "pic": "https://i2.hdslb.com/bfs/archive/b02c936c81d4cfd0ff24cb6c3ae53132c26f5d4e.jpg",
+          "checked_at": "2026-11-06T05:41:58.040057+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "6Cf7IL_eZ38": {
+      "vid": "6Cf7IL_eZ38",
+      "status": "review",
+      "completed_at": "2026-11-06T05:42:27.719079+00:00",
+      "candidates": []
+    },
+    "6JAgXz6xO0s": {
+      "vid": "6JAgXz6xO0s",
       "status": "review",
       "completed_at": null,
       "candidates": []

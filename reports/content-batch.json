@@ -1,103 +1,107 @@
 {
-  "baseline_commit": "004236e3ca1bc2541dd3007886d553af67c593d9",
+  "baseline_commit": "666ccd6f34a6098aaee0d0c6446ef69079d89d5f",
   "phase_status": "stopped_after_request_error",
   "before": {
-    "corpus": 6454,
-    "processed": 2907,
-    "confirmed": 857,
-    "coverage": 0.1327858692283855,
-    "processed_match_rate": 0.29480564155486755
-  },
-  "after": {
     "corpus": 6454,
     "processed": 2944,
     "confirmed": 859,
     "coverage": 0.1330957545708088,
     "processed_match_rate": 0.29177989130434784
   },
-  "newly_processed": 37,
-  "newly_processed_confirmed": 2,
+  "after": {
+    "corpus": 6454,
+    "processed": 2970,
+    "confirmed": 864,
+    "coverage": 0.13387046792686705,
+    "processed_match_rate": 0.2909090909090909
+  },
+  "newly_processed": 26,
+  "newly_processed_confirmed": 5,
   "added_originals": [
-    "29RkHH-psrY",
-    "3BJU2drrtCM"
+    "4anAwXYqLG8",
+    "4jEz03Z8azc",
+    "5tu32CCA_Ig",
+    "63vqob-MljQ",
+    "6Af6b_wyiwI"
   ],
   "withdrawn_originals": [],
-  "net_confirmed_change": 2,
-  "versions": 1174,
+  "net_confirmed_change": 5,
+  "versions": 1179,
   "added_versions": [
     {
-      "id": "aFwVf5a3pZM",
-      "bvid": "BV1d4411n7AH",
+      "id": "4anAwXYqLG8",
+      "bvid": "BV1S3411z7Xf",
       "page": 1
     },
     {
-      "id": "29RkHH-psrY",
-      "bvid": "BV1bg411j7Ki",
+      "id": "4jEz03Z8azc",
+      "bvid": "BV1nW421A7gZ",
       "page": 1
     },
     {
-      "id": "3BJU2drrtCM",
-      "bvid": "BV1VW411i7kz",
+      "id": "5tu32CCA_Ig",
+      "bvid": "BV1ix411U7Ei",
+      "page": 1
+    },
+    {
+      "id": "63vqob-MljQ",
+      "bvid": "BV1Zs411R7vo",
+      "page": 1
+    },
+    {
+      "id": "6Af6b_wyiwI",
+      "bvid": "BV17e411x7Ru",
       "page": 1
     }
   ],
   "withdrawn_versions": [],
-  "net_versions_change": 3,
+  "net_versions_change": 5,
   "search_batches": [
     {
-      "id": "20261106T051643Z",
+      "id": "20261106T053322Z",
       "selected": 50,
-      "completed": 36,
+      "completed": 26,
       "errors": [
         {
-          "vid": "4_qJptwikRc",
+          "vid": "6JAgXz6xO0s",
           "reason": "URLError"
         }
       ],
       "stopped": false,
       "originals": [
-        "1faaOrtHJ-A",
-        "1rCrfQUcXDI",
-        "2-oBNh0UkQc",
-        "21EiKfQYZXc",
-        "23X14HS4gLk",
-        "29RkHH-psrY",
-        "2BdBfsXbST8",
-        "2Ex8EEv-WPs",
-        "2Q26XIKtwXQ",
-        "2SdGkkp1aq8",
-        "2U9WMftV40c",
-        "2lisQQmWQkY",
-        "2qsmF8HHskg",
-        "2vuMzGhc1cg",
-        "2wq9x2QcZN0",
-        "34rdxDgpaaA",
-        "36qZYL5RlgY",
-        "37NaHRE0Sqw",
-        "3BJU2drrtCM",
-        "3HROqnw-nf4",
-        "3IryIOyPfTE",
-        "3QnD2c4Xovk",
-        "3R3-YwDZrzg",
-        "3TYT1QfdfsM",
-        "3byNNUReyvE",
-        "3jQoAYRKqhg",
-        "3pvpNKUPbIY",
-        "3qHkcs3kG44",
-        "3wMKoSRbGVs",
-        "45X4VP8CGtk",
-        "49kBWM3RQQ8",
-        "4KtotxNAwME",
-        "4KuVvb9DTaU",
-        "4PHT-zBxKQQ",
-        "4Vw6uF2LdZw",
-        "4WwAQqWUkpI"
+        "4aUODXeAM-k",
+        "4anAwXYqLG8",
+        "4jEz03Z8azc",
+        "4j_UjIshzMc",
+        "4jh94gowim0",
+        "4moyKUHApq4",
+        "4zG0uecYSMA",
+        "586Zn1ct-QA",
+        "5BIP_N9qQm4",
+        "5ODzO7Lz_pw",
+        "5P5Mk_IggE0",
+        "5V1ynVyud4M",
+        "5ZjhNTM8XU8",
+        "5_-Ac68FKG4",
+        "5d6SEQQbwtU",
+        "5eBT6OSr1TI",
+        "5fbvquHSPJU",
+        "5pidokakU4I",
+        "5q-BH-tvxEg",
+        "5tu32CCA_Ig",
+        "5uiroWBkdFY",
+        "62jZENi1ed8",
+        "63vqob-MljQ",
+        "64cEmjtwRgw",
+        "6Af6b_wyiwI",
+        "6Cf7IL_eZ38"
       ],
       "primary_first": true,
-      "deferred_candidates": 25,
+      "deferred_candidates": 74,
       "excluded_originals": [
         "05WS0WN7zMQ",
         "1bO8zEaSuWg",
+        "4_qJptwikRc",
         "AJgY9FtDLbs",
         "HQKy1KJpSVc",
         "NTJQTc-TqpU",
@@ -114,37 +118,27 @@
         "uTdyb-RWNKo",
         "vs41JrnGaxc"
       ],
-      "attempted": 37,
-      "unattempted": 13,
+      "attempted": 27,
+      "unattempted": 23,
       "statuses": {
-        "review": 33,
-        "confirmed": 4
+        "confirmed": 5,
+        "review": 22
       },
-      "candidate_count": 1342
+      "candidate_count": 959
     }
   ],
-  "completed_search_originals": 36,
-  "direct_search_attempts": 37,
+  "completed_search_originals": 26,
+  "direct_search_attempts": 27,
   "direct_search_errors": [
     {
-      "vid": "4_qJptwikRc",
+      "vid": "6JAgXz6xO0s",
       "reason": "URLError"
     }
   ],
-  "unattempted_after_error": 13,
-  "source_verification_batches": [
-    {
-      "id": "2026-11-06T05:16:12.724642+00:00",
-      "source": "serial-20261106T051547Z-leads-1.json",
-      "attempted": 2,
-      "completed": 2,
-      "confirmed": 1,
-      "errors": [],
-      "stopped": false
-    }
-  ],
-  "source_leads_completed": 2,
-  "source_confirmed_versions": 1,
+  "unattempted_after_error": 23,
+  "source_verification_batches": [],
+  "source_leads_completed": 0,
+  "source_confirmed_versions": 0,
   "blocked_originals": {
     "st571DYYTR8": "prior URLError; no retry or unavailable classification",
     "HQKy1KJpSVc": "prior URLError; no retry or unavailable classification",
@@ -163,39 +157,29 @@
     "uTdyb-RWNKo": "URLError in current phase; failed search left unprocessed; do not classify unavailable",
     "05WS0WN7zMQ": "URLError in current phase; failed search left unprocessed; do not classify unavailable",
     "1bO8zEaSuWg": "URLError in current phase; failed search left unprocessed; do not classify unavailable",
-    "4_qJptwikRc": "URLError in current phase; failed search left unprocessed; do not classify unavailable"
+    "4_qJptwikRc": "URLError in current phase; failed search left unprocessed; do not classify unavailable",
+    "6JAgXz6xO0s": "URLError in current phase; failed search left unprocessed; do not classify unavailable"
   },
   "automatic_retry": false,
-  "remaining_unprocessed": 3510,
-  "remaining_review": 2085,
+  "remaining_unprocessed": 3484,
+  "remaining_review": 2106,
   "metadata_title_review": {
-    "baseline_commit": "004236e3ca1bc2541dd3007886d553af67c593d9",
+    "baseline_commit": "666ccd6f34a6098aaee0d0c6446ef69079d89d5f",
     "review_status": "metadata_consistency_review_completed_for_snapshot",
     "rows": 5,
     "scope": "Read original, Bilibili and segment titles for 5 versions; no frame comparison.",
-    "manual_downgrades": [
-      {
-        "id": "3pvpNKUPbIY",
-        "bvid": "BV1hVreY4E5z",
-        "reason": "HackerTube episode 243; Bilibili title says episode 233"
-      },
-      {
-        "id": "3wMKoSRbGVs",
-        "bvid": "BV1RRrSYCEir",
-        "reason": "HackerTube episode 221; Bilibili title says episode 212"
-      }
-    ]
+    "manual_downgrades": []
   },
   "cached_new_version_audit": {
-    "checked": 3,
+    "checked": 5,
     "requests": 0,
     "segment_conflicts": [],
     "all_passed": true
   },
   "browser_tests": {
-    "checked_at": "2026-11-06T05:28:36.817Z",
+    "checked_at": "2026-11-06T05:42:58.501Z",
     "status": "pass",
-    "originals": 859,
+    "originals": 864,
     "scenarios": [
       "desktop rendering",
       "mobile rendering/no horizontal overflow",
@@ -216,11 +200,11 @@
     "page_errors": []
   },
   "playback": {
-    "checked": 3,
+    "checked": 5,
     "all_playing": true,
     "all_durations_match": true,
     "all_cids_observed": true,
-    "report": "playback-increment-004236e.json"
+    "report": "playback-increment-666ccd6.json"
   },
-  "code_tests": "not rerun; code unchanged since tested baseline 004236e"
+  "code_tests": "not rerun; code unchanged since tested baseline 666ccd6"
 }
