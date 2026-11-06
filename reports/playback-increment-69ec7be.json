@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-11-06T13:56:29.803Z",
+  "checks": [
+    {
+      "sample": "HUngLgGRJpo",
+      "kind": "original",
+      "id": "HUngLgGRJpo",
+      "bvid": "BV1fx411P7cL",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.284203,
+        "duration": 306,
+        "paused": false
+      },
+      "expected_duration": 305,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "2672222"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【短片】Nuggets金块「珍爱生命 远离毒品」\n板栗江时\n关注\n5.6万\n1428\n分享\n更多\n00:05 / 05:06\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

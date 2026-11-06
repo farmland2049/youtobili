@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T13:29:04.684353+00:00",
+  "built_at": "2026-11-06T13:55:36.456360+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 3687,
-    "confirmed": 943,
-    "coverage": 0.14611093895258753,
-    "processed_match_rate": 0.2557634933550312
+    "processed": 3708,
+    "confirmed": 944,
+    "coverage": 0.1462658816237992,
+    "processed_match_rate": 0.2545846817691478
   },
   "areas": [
     {
@@ -33844,6 +33844,41 @@
       ]
     },
     {
+      "id": "HUngLgGRJpo",
+      "title": "Nuggets",
+      "author": "Filmbilder & Friends",
+      "source_url": "https://www.youtube.com/watch?v=HUngLgGRJpo",
+      "summary": "\"Nuggets\" is a five-minute animated short by Andreas Hykade in which a kiwi bird tastes a golden nugget and keeps chasing the high. It works as a parable about addiction, habituation and withdrawal.",
+      "why": "HN commenters use it as a wordless illustration of addiction, shared in threads about children and screens, drugs and habit-forming products.",
+      "score": 1.5,
+      "tags": [
+        "animation",
+        "addiction",
+        "habituation",
+        "short film",
+        "withdrawal"
+      ],
+      "categories": [
+        "animation-vfx",
+        "mental-health-neurodiversity",
+        "documentaries-storytelling"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1fx411P7cL",
+          "page": 1,
+          "cid": 2672222,
+          "title": "【短片】Nuggets金块「珍爱生命 远离毒品」",
+          "up": "板栗江时",
+          "duration": 305,
+          "kind": "original",
+          "views": 1285818,
+          "pic": "https://i0.hdslb.com/bfs/archive/dab25da474098e35311e514fbc36f227892a36ce.jpg",
+          "checked_at": "2026-11-06T13:48:54.598458+00:00"
+        }
+      ]
+    },
+    {
       "id": "Kas0tIxDvrg",
       "title": "Exponential growth and epidemics",
       "author": "3Blue1Brown",
@@ -38488,6 +38523,7 @@
     "BV1LY411Y7Wb": "AxnotgLql0k",
     "BV1VL411w7sV": "BE77h7dmoQU",
     "BV184411o7He": "BN-34JfUrHY",
+    "BV1fx411P7cL": "HUngLgGRJpo",
     "BV1ZE41157iN": "Kas0tIxDvrg",
     "BV1u6CGBdE3m": "Kas0tIxDvrg",
     "BV1Ax411x7rK": "MzRCDLre1b4",
