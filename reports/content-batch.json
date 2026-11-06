@@ -1,223 +1,47 @@
 {
-  "baseline_commit": "047d04b6f42c7d1d3846aa6ae3295b4c878ec456",
+  "baseline_commit": "e2cbc58009e6c8caa6a87879ba174064c4458cdf",
   "phase_status": "stopped_after_request_error",
   "before": {
-    "corpus": 6454,
-    "processed": 2606,
-    "confirmed": 816,
-    "coverage": 0.12643321970870777,
-    "processed_match_rate": 0.31312356101304684
-  },
-  "after": {
     "corpus": 6454,
     "processed": 2666,
     "confirmed": 827,
     "coverage": 0.12813758909203596,
     "processed_match_rate": 0.3102025506376594
   },
-  "newly_processed": 60,
-  "newly_processed_confirmed": 10,
-  "newly_processed_match_rate": 0.16666666666666666,
-  "added_originals": [
-    "BHIo6qwJarI",
-    "DXYje2B04xE",
-    "ENLWEfi0Tkg",
-    "H-XfCl-HpRM",
-    "H1KP4ztKK0A",
-    "H2tuKiiznsY",
-    "IsE_8j5RL3k",
-    "Jb4prVsXkZU",
-    "MnrJzXM7a6o",
-    "iw17c70uJes",
-    "uxPdPpi5W4o"
-  ],
-  "withdrawn_originals": [],
-  "net_confirmed_change": 11,
-  "versions": 1134,
-  "added_versions": [
-    {
-      "id": "8gw0rXPMMPE",
-      "bvid": "BV1Y4411e7Vx",
-      "page": 1
-    },
-    {
-      "id": "BHIo6qwJarI",
-      "bvid": "BV1vg4y1x7Nr",
-      "page": 1
-    },
-    {
-      "id": "DXYje2B04xE",
-      "bvid": "BV1n54y127pi",
-      "page": 1
-    },
-    {
-      "id": "ENLWEfi0Tkg",
-      "bvid": "BV17Z4y1N7XU",
-      "page": 1
-    },
-    {
-      "id": "H-XfCl-HpRM",
-      "bvid": "BV1akND65E6y",
-      "page": 1
-    },
-    {
-      "id": "H1KP4ztKK0A",
-      "bvid": "BV1Nttd6zESv",
-      "page": 1
-    },
-    {
-      "id": "H2tuKiiznsY",
-      "bvid": "BV174411H7tA",
-      "page": 1
-    },
-    {
-      "id": "H2tuKiiznsY",
-      "bvid": "BV1P4411i7xX",
-      "page": 1
-    },
-    {
-      "id": "IsE_8j5RL3k",
-      "bvid": "BV1T4td6gEnh",
-      "page": 1
-    },
-    {
-      "id": "Jb4prVsXkZU",
-      "bvid": "BV1GW411Q7CW",
-      "page": 1
-    },
-    {
-      "id": "Jb4prVsXkZU",
-      "bvid": "BV1Zs41187U8",
-      "page": 1
-    },
-    {
-      "id": "MnrJzXM7a6o",
-      "bvid": "BV1nP4iecEUu",
-      "page": 1
-    },
-    {
-      "id": "RNFesa01llk",
-      "bvid": "BV1cJ411v7nq",
-      "page": 1
-    },
-    {
-      "id": "iw17c70uJes",
-      "bvid": "BV1BQTr6PECb",
-      "page": 1
-    },
-    {
-      "id": "uxPdPpi5W4o",
-      "bvid": "BV1c4411e7Pu",
-      "page": 1
-    }
-  ],
-  "withdrawn_versions": [],
-  "net_versions_change": 15,
+  "after": {
+    "corpus": 6454,
+    "processed": 2667,
+    "confirmed": 827,
+    "coverage": 0.12813758909203596,
+    "processed_match_rate": 0.3100862392200975
+  },
+  "newly_processed": 1,
+  "newly_processed_confirmed": 0,
+  "added_originals": [],
+  "added_versions": [],
+  "net_confirmed_change": 0,
+  "net_versions_change": 0,
   "search_batches": [
     {
-      "id": "20261106T025012Z",
+      "id": "20261106T031250Z",
       "selected": 50,
-      "completed": 50,
-      "errors": [],
-      "stopped": false,
-      "originals": [
-        "AtPA6nIBs5g",
-        "B5FxFfymI4g",
-        "B8ofWFx525s",
-        "BBwepkVurCI",
-        "BD6h-wDj7bw",
-        "BHIo6qwJarI",
-        "BdHK_r9RXTc",
-        "C7JQ7Rpwn2k",
-        "CB-SCA1reqE",
-        "D5in5EdjhD0",
-        "DBxdTkddHaE",
-        "DQEB3LJ5psk",
-        "DXYje2B04xE",
-        "E8T_4zqWmq8",
-        "EIezuL_doYw",
-        "ENLWEfi0Tkg",
-        "EQs5VxNPhzk",
-        "E_F5GxCwizc",
-        "Ed3ioGO7g10",
-        "EhqZ0RU95d4",
-        "ExwqNreocpg",
-        "F3Jd9GI6XqE",
-        "F_7S1eqKsFk",
-        "FkKPsLxgpuY",
-        "GZTr1-Gp74U",
-        "GnO7D5UaDig",
-        "H-XfCl-HpRM",
-        "H2tuKiiznsY",
-        "HMYiktO0D64",
-        "HNziOoXDBeg",
-        "HlAXp0-M6SY",
-        "HrVtA-ue-x0",
-        "I4flQ8XdvJM",
-        "IHD8BDFYyGI",
-        "IQZ_bQbxSXk",
-        "ISptt3CRAqc",
-        "Ii_pEXKKYUg",
-        "IsE_8j5RL3k",
-        "JAczd3mt3X0",
-        "Jb4prVsXkZU",
-        "KTjnt_WSJu8",
-        "KVl5kMXz1vA",
-        "LKJBND_IRdI",
-        "LS3GQk9ETRU",
-        "LSX3qdy0dFg",
-        "Le7Fqbsrrm8",
-        "LmpuerlbJu0",
-        "Ly6USRwTHe0",
-        "M1ONXea0mXg",
-        "MVYrJJNdrEg"
-      ],
-      "primary_first": true,
-      "deferred_candidates": 100,
-      "excluded_originals": [
-        "AJgY9FtDLbs",
-        "HQKy1KJpSVc",
-        "QVuU2YCwHjw",
-        "SYeeTvitvFU",
-        "cjuGCJJUGsg",
-        "s9fByRmAHgU",
-        "st571DYYTR8",
-        "vs41JrnGaxc"
-      ],
-      "attempted": 50,
-      "unattempted": 0,
-      "statuses": {
-        "review": 42,
-        "confirmed": 8
-      },
-      "candidate_count": 1860
-    },
-    {
-      "id": "20261106T030554Z",
-      "selected": 50,
-      "completed": 8,
+      "completed": 1,
       "errors": [
         {
-          "vid": "NTJQTc-TqpU",
+          "vid": "OL6-x0modwY",
           "reason": "URLError"
         }
       ],
       "stopped": false,
       "originals": [
-        "McLq1hEq3UY",
-        "MnrJzXM7a6o",
-        "MzzD2F73iGU",
-        "N8SS-rUEZPg",
-        "N9c7_8Gp7gI",
-        "ND2TeNfcmKA",
-        "NIu_dJGyIQI",
-        "NK1zlz67MjU"
+        "Nsjsiz2A9mg"
       ],
       "primary_first": true,
-      "deferred_candidates": 20,
+      "deferred_candidates": 0,
       "excluded_originals": [
         "AJgY9FtDLbs",
         "HQKy1KJpSVc",
+        "NTJQTc-TqpU",
         "QVuU2YCwHjw",
         "SYeeTvitvFU",
         "cjuGCJJUGsg",
@@ -225,46 +49,26 @@
         "st571DYYTR8",
         "vs41JrnGaxc"
       ],
-      "attempted": 9,
-      "unattempted": 41,
+      "attempted": 2,
+      "unattempted": 48,
       "statuses": {
-        "review": 8,
-        "confirmed": 1
+        "review": 2
       },
-      "candidate_count": 341
+      "candidate_count": 72
     }
   ],
-  "completed_search_originals": 58,
-  "direct_search_attempts": 59,
+  "completed_search_originals": 1,
+  "direct_search_attempts": 2,
   "direct_search_errors": [
     {
-      "vid": "NTJQTc-TqpU",
+      "vid": "OL6-x0modwY",
       "reason": "URLError"
     }
   ],
-  "unattempted_after_error": 41,
-  "source_verification_batches": [
-    {
-      "id": "2026-11-06T02:49:48.521129+00:00",
-      "source": "serial-20261106T024925Z-leads-1.json",
-      "attempted": 1,
-      "completed": 1,
-      "confirmed": 1,
-      "errors": [],
-      "stopped": false
-    },
-    {
-      "id": "2026-11-06T03:05:21.531051+00:00",
-      "source": "serial-20261106T024925Z-leads-2.json",
-      "attempted": 7,
-      "completed": 7,
-      "confirmed": 6,
-      "errors": [],
-      "stopped": false
-    }
-  ],
-  "source_leads_completed": 12,
-  "source_confirmed_versions": 10,
+  "unattempted_after_error": 48,
+  "source_verification_batches": [],
+  "source_leads_completed": 0,
+  "source_confirmed_versions": 0,
   "blocked_originals": {
     "st571DYYTR8": "prior URLError; no retry or unavailable classification",
     "HQKy1KJpSVc": "prior URLError; no retry or unavailable classification",
@@ -274,62 +78,25 @@
     "s9fByRmAHgU": "prior URLError; no retry or unavailable classification",
     "vs41JrnGaxc": "prior URLError; no retry or unavailable classification",
     "AJgY9FtDLbs": "prior URLError; no retry or unavailable classification",
-    "NTJQTc-TqpU": "URLError in current phase; failed search left unprocessed; do not classify unavailable"
+    "NTJQTc-TqpU": "prior URLError; no retry or unavailable classification",
+    "OL6-x0modwY": "URLError in current phase; failed search left unprocessed; do not classify unavailable"
   },
   "automatic_retry": false,
-  "remaining_unprocessed": 3788,
-  "remaining_review": 1848,
-  "metadata_title_review": {
-    "baseline_commit": "047d04b6f42c7d1d3846aa6ae3295b4c878ec456",
-    "review_status": "metadata_consistency_review_completed_for_snapshot",
-    "reviewed_at": "2026-11-06T03:09:16.423025+00:00",
-    "scope": "Read original, Bilibili and segment titles for 15 versions; no frame comparison."
-  },
+  "remaining_unprocessed": 3787,
+  "remaining_review": 1850,
+  "metadata_review": "not applicable; no public confirmations",
   "cached_new_version_audit": {
-    "checked": 15,
+    "checked": 0,
     "requests": 0,
     "segment_conflicts": [],
     "all_passed": true
   },
-  "manual_review_downgrades": [
-    {
-      "id": "F3Jd9GI6XqE",
-      "bvid": "BV1FvfaYjEAV",
-      "reason": "Original identifies Lex Fridman Podcast episode 426; candidate title identifies episode 381."
-    }
-  ],
-  "code_tests": "not rerun; code unchanged since tested commit 047d04b",
-  "browser_tests": {
-    "status": "pass",
-    "scenarios": [
-      "desktop rendering",
-      "mobile rendering/no horizontal overflow",
-      "real cover HTTP load",
-      "Chinese taxonomy",
-      "search/empty result",
-      "legacy BV deep link",
-      "legacy localStorage migration",
-      "like/unlike",
-      "watch later",
-      "history",
-      "version switch",
-      "escape closes and removes iframe",
-      "theme",
-      "short duration fixture",
-      "shared BV different pages fixture"
-    ],
-    "page_errors": []
-  },
-  "playback": {
-    "checked": 5,
-    "all_playing": true,
-    "all_durations_match": true,
-    "all_cids_observed": true,
-    "report": "playback-increment-047d04b.json"
-  },
+  "browser_tests": "not rerun; public video data unchanged",
+  "playback": "not rerun; no added version",
+  "code_tests": "not rerun; code unchanged since tested commit e2cbc58",
   "runtime": "Python 3.12.14 / OpenSSL 3.5.7",
   "baseline_hashes": {
-    "library": "e260ea999bc9862aaaa2449197647b8cc733c1295ba3b6d8249ae3893626135f",
-    "public": "cf35fac54e5f6cc90e3021a622a0372627105cc179a73b7ff7a271e56c7850f5"
+    "library": "2ab5670f6cc65eb04b76709d1f5144ce1fd3b8c056d5444fbb8299594cc419a3",
+    "public": "8335d25b566ae2184f1bd6bcc7751a8f2af92662cd7d9b91b69127fc819f4f48"
   }
 }
