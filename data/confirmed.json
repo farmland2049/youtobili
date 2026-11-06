@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T02:12:45.731865+00:00",
+  "updated_at": "2026-11-06T02:45:38.803539+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -1550,6 +1550,30 @@
           "checked_at": "2026-11-04T23:03:55.412526+00:00",
           "availability": "available",
           "aid": 115598189140693
+        },
+        {
+          "bvid": "BV1tChwzSEXq",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1tChwzSEXq",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "But how do AI images/videos actually work? | Guest video by ‪@WelchLabsVideo‬",
+          "up": "Sa神带你学AI",
+          "duration": 2244,
+          "original_duration": 2240,
+          "cid": 31380016734,
+          "aid": 114941864447621,
+          "segment_title": "But how do AI images/videos actually work? | Guest video by ‪@WelchLabsVideo‬",
+          "page_count": 1,
+          "kind": "original",
+          "views": 478,
+          "pic": "https://i1.hdslb.com/bfs/archive/3c013d1724d8e769a6806266eb6ea10a27a15198.jpg",
+          "checked_at": "2026-11-06T02:16:34.824663+00:00",
+          "availability": "available"
         }
       ]
     },
@@ -12498,9 +12522,34 @@
     },
     "CBYhVcO4WgI": {
       "vid": "CBYhVcO4WgI",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-04T15:01:33.061519+00:00",
-      "candidates": []
+      "candidates": [
+        {
+          "bvid": "BV1uU4y1t7jP",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1uU4y1t7jP",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Lecture 1 - How to Start a Startup (Sam Altman, Dustin Moskovitz)",
+          "up": "心理学Rae酱",
+          "duration": 2633,
+          "original_duration": 2633,
+          "cid": 333508952,
+          "aid": 672975275,
+          "segment_title": "Lecture 1 - How to Start a Startup (Sam Altman, Dustin Moskovitz)",
+          "page_count": 1,
+          "kind": "original",
+          "views": 5075,
+          "pic": "https://i0.hdslb.com/bfs/archive/5c2a98d7e60c9d290703f55cc9ed4795d18d8222.jpg",
+          "checked_at": "2026-11-06T02:35:10.391725+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "AKGrmY8OSHM": {
       "vid": "AKGrmY8OSHM",
@@ -41746,6 +41795,29 @@
           "pic": "https://i2.hdslb.com/bfs/archive/48f874def5efc15856502332a66c3dd85f791c63.jpg",
           "checked_at": "2026-11-06T02:05:41.263755+00:00",
           "availability": "available"
+        },
+        {
+          "bvid": "BV1pW411W73K",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "Noam Chomsky - Manufacturing Consent",
+          "up": "馬楽頂大",
+          "duration": 544,
+          "original_duration": 544,
+          "cid": 33433076,
+          "aid": 20450943,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "original",
+          "views": 367,
+          "pic": "https://i0.hdslb.com/bfs/archive/f354d5513414879917325ac214db5a531f81aa8e.jpg",
+          "checked_at": "2026-11-06T02:16:32.940790+00:00",
+          "availability": "available"
         }
       ]
     },
@@ -41836,6 +41908,29 @@
           "pic": "https://i0.hdslb.com/bfs/archive/b9993177c394247d913e757c973624735fbef654.png",
           "checked_at": "2026-11-06T02:07:31.896346+00:00",
           "availability": "available"
+        },
+        {
+          "bvid": "BV1eBqwBREXg",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "【中配】动画12原则完整系列教程 - AlanBeckerTutorials",
+          "up": "黑纹白斑马",
+          "duration": 1375,
+          "original_duration": 1443,
+          "cid": 35225011321,
+          "aid": 115847750222159,
+          "segment_title": "【中配】动画12原则完整系列教程 - AlanBeckerTutorials",
+          "page_count": 1,
+          "kind": "dub_zh",
+          "views": 10002,
+          "pic": "https://i0.hdslb.com/bfs/archive/3923e3a019ffc7b57ee44cb003e4e43d44dfe1cd.png",
+          "checked_at": "2026-11-06T02:16:35.639857+00:00",
+          "availability": "available"
         }
       ]
     },
@@ -41901,6 +41996,831 @@
     },
     "vs41JrnGaxc": {
       "vid": "vs41JrnGaxc",
+      "status": "review",
+      "completed_at": null,
+      "candidates": []
+    },
+    "vtWp45Eewtw": {
+      "vid": "vtWp45Eewtw",
+      "status": "review",
+      "completed_at": "2026-11-06T02:17:26.377333+00:00",
+      "candidates": []
+    },
+    "w70Xc9CStoE": {
+      "vid": "w70Xc9CStoE",
+      "status": "review",
+      "completed_at": "2026-11-06T02:17:39.054633+00:00",
+      "candidates": []
+    },
+    "wOmjnioNulo": {
+      "vid": "wOmjnioNulo",
+      "status": "review",
+      "completed_at": "2026-11-06T02:17:52.963468+00:00",
+      "candidates": []
+    },
+    "wTPGW1PNy_Y": {
+      "vid": "wTPGW1PNy_Y",
+      "status": "review",
+      "completed_at": "2026-11-06T02:18:05.557857+00:00",
+      "candidates": []
+    },
+    "wUwZZaI5u0c": {
+      "vid": "wUwZZaI5u0c",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T02:18:14.347684+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1kW411K76P",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Hacking at Quantum Speed with Shor's Algorithm _ Infinite Series",
+          "up": "becomequantum",
+          "duration": 996,
+          "original_duration": 996,
+          "cid": 36254929,
+          "aid": 21948709,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "original",
+          "views": 213,
+          "pic": "https://i0.hdslb.com/bfs/archive/4364dbdf9ca6bde751eb6422b487c39d7e11d941.jpg",
+          "checked_at": "2026-11-06T02:18:13.765847+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "w_znRopGtbE": {
+      "vid": "w_znRopGtbE",
+      "status": "review",
+      "completed_at": "2026-11-06T02:18:43.853685+00:00",
+      "candidates": []
+    },
+    "wlvKAT7SZIQ": {
+      "vid": "wlvKAT7SZIQ",
+      "status": "review",
+      "completed_at": "2026-11-06T02:18:52.047179+00:00",
+      "candidates": []
+    },
+    "wtIhVwPruwY": {
+      "vid": "wtIhVwPruwY",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T02:19:00.796992+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1aJ411M7d9",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【Numberphile_中字】雷诺数能告诉你什么？ 流体力学中神奇的无量纲数 Reynolds Number - Numberphile",
+          "up": "丰饶之月",
+          "duration": 1018,
+          "original_duration": 1018,
+          "cid": 119163093,
+          "aid": 68758247,
+          "segment_title": "Reynolds Number - Numberphile",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 4589,
+          "pic": "https://i2.hdslb.com/bfs/archive/81cb6283a8a5b89c04429d8bed4443940522d194.jpg",
+          "checked_at": "2026-11-06T02:19:00.267774+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "wvJaKQ94lBY": {
+      "vid": "wvJaKQ94lBY",
+      "status": "review",
+      "completed_at": "2026-11-06T02:19:30.297983+00:00",
+      "candidates": []
+    },
+    "x2-rSnhpw0g": {
+      "vid": "x2-rSnhpw0g",
+      "status": "review",
+      "completed_at": "2026-11-06T02:19:44.136817+00:00",
+      "candidates": []
+    },
+    "x94PGgYKHQ0": {
+      "vid": "x94PGgYKHQ0",
+      "status": "review",
+      "completed_at": "2026-11-06T02:20:12.902800+00:00",
+      "candidates": []
+    },
+    "xLYYh4aPXAM": {
+      "vid": "xLYYh4aPXAM",
+      "status": "review",
+      "completed_at": "2026-11-06T02:20:56.186652+00:00",
+      "candidates": []
+    },
+    "xbBdIG--b58": {
+      "vid": "xbBdIG--b58",
+      "status": "review",
+      "completed_at": "2026-11-06T02:21:20.465995+00:00",
+      "candidates": []
+    },
+    "xnWKz7Cthkk": {
+      "vid": "xnWKz7Cthkk",
+      "status": "review",
+      "completed_at": "2026-11-06T02:21:33.024603+00:00",
+      "candidates": []
+    },
+    "xsLJZyih3Ac": {
+      "vid": "xsLJZyih3Ac",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T02:21:44.336144+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1xXMzzfEdQ",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Pranks Destroy Scam Callers- GlitterBomb Payback [Mark Rober]",
+          "up": "vector090_",
+          "duration": 1601,
+          "original_duration": 1601,
+          "cid": 30482960186,
+          "aid": 114677673690641,
+          "segment_title": "xsLJZyih3Ac.mp4",
+          "page_count": 1,
+          "kind": "original",
+          "views": 405,
+          "pic": "https://i0.hdslb.com/bfs/archive/cf8b0ee80c4919fb9146e17e0f9bd03ba04ad11b.jpg",
+          "checked_at": "2026-11-06T02:21:43.805985+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "xtvT2XYlcOY": {
+      "vid": "xtvT2XYlcOY",
+      "status": "review",
+      "completed_at": "2026-11-06T02:22:26.916104+00:00",
+      "candidates": []
+    },
+    "xuCn8ux2gbs": {
+      "vid": "xuCn8ux2gbs",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T02:22:37.230787+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Zx411e7gZ",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【英文不佳者请慎入】19分钟看完全世界的历史（吧）【bill wurtz】",
+          "up": "废材一支",
+          "duration": 1167,
+          "original_duration": 1166,
+          "cid": 17472844,
+          "aid": 10579407,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "original",
+          "views": 9869,
+          "pic": "https://i2.hdslb.com/bfs/archive/47b8f75dc104cf1327dc08fbb9455b57c709d84c.jpg",
+          "checked_at": "2026-11-06T02:22:36.697092+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "y-uuk4Pr2i8": {
+      "vid": "y-uuk4Pr2i8",
+      "status": "review",
+      "completed_at": "2026-11-06T02:23:28.526083+00:00",
+      "candidates": []
+    },
+    "yXbJe-rUNP8": {
+      "vid": "yXbJe-rUNP8",
+      "status": "review",
+      "completed_at": "2026-11-06T02:23:43.637749+00:00",
+      "candidates": []
+    },
+    "yvFKh_3evC8": {
+      "vid": "yvFKh_3evC8",
+      "status": "review",
+      "completed_at": "2026-11-06T02:24:01.969057+00:00",
+      "candidates": []
+    },
+    "yy8jQgmhbAU": {
+      "vid": "yy8jQgmhbAU",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T02:24:11.133501+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1MY411Y7tX",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "CppCon 2018: Stoyan Nikolov “OOP Is Dead, Long Live Data-oriented Design”",
+          "up": "dailyrain",
+          "duration": 3647,
+          "original_duration": 3646,
+          "cid": 1016600590,
+          "aid": 267133866,
+          "segment_title": "CppCon 2018： Stoyan Nikolov “OOP Is Dead, Long Live Data-oriented Design”",
+          "page_count": 1,
+          "kind": "original",
+          "views": 37,
+          "pic": "https://i1.hdslb.com/bfs/archive/b2aeb18867cccb2f9b4ada08fcee2e2905a1f5a4.jpg",
+          "checked_at": "2026-11-06T02:24:10.582202+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "zFhYJRqz_xk": {
+      "vid": "zFhYJRqz_xk",
+      "status": "review",
+      "completed_at": "2026-11-06T02:24:33.770942+00:00",
+      "candidates": []
+    },
+    "zU7Lww-sBPg": {
+      "vid": "zU7Lww-sBPg",
+      "status": "review",
+      "completed_at": "2026-11-06T02:24:58.424438+00:00",
+      "candidates": []
+    },
+    "za56H2BGamQ": {
+      "vid": "za56H2BGamQ",
+      "status": "review",
+      "completed_at": "2026-11-06T02:25:18.834072+00:00",
+      "candidates": []
+    },
+    "-Im4YAMWK74": {
+      "vid": "-Im4YAMWK74",
+      "status": "review",
+      "completed_at": "2026-11-06T02:25:31.502425+00:00",
+      "candidates": []
+    },
+    "-J8YyfrSwTk": {
+      "vid": "-J8YyfrSwTk",
+      "status": "review",
+      "completed_at": "2026-11-06T02:25:40.677799+00:00",
+      "candidates": []
+    },
+    "-Qph8BNrnLY": {
+      "vid": "-Qph8BNrnLY",
+      "status": "review",
+      "completed_at": "2026-11-06T02:26:22.795570+00:00",
+      "candidates": []
+    },
+    "-bpX8YvNg6Y": {
+      "vid": "-bpX8YvNg6Y",
+      "status": "review",
+      "completed_at": "2026-11-06T02:26:34.459018+00:00",
+      "candidates": []
+    },
+    "03ccxwNssmo": {
+      "vid": "03ccxwNssmo",
+      "status": "review",
+      "completed_at": "2026-11-06T02:27:34.089104+00:00",
+      "candidates": []
+    },
+    "0GzzFeS5cMc": {
+      "vid": "0GzzFeS5cMc",
+      "status": "review",
+      "completed_at": "2026-11-06T02:27:46.593723+00:00",
+      "candidates": []
+    },
+    "0M7IINwTFVw": {
+      "vid": "0M7IINwTFVw",
+      "status": "review",
+      "completed_at": "2026-11-06T02:28:11.005154+00:00",
+      "candidates": []
+    },
+    "0fKYVl12VTA": {
+      "vid": "0fKYVl12VTA",
+      "status": "review",
+      "completed_at": "2026-11-06T02:28:25.016335+00:00",
+      "candidates": []
+    },
+    "0fpDlAEQio4": {
+      "vid": "0fpDlAEQio4",
+      "status": "review",
+      "completed_at": "2026-11-06T02:28:39.033267+00:00",
+      "candidates": []
+    },
+    "0jI-AlWEwYI": {
+      "vid": "0jI-AlWEwYI",
+      "status": "review",
+      "completed_at": "2026-11-06T02:28:46.733826+00:00",
+      "candidates": []
+    },
+    "0lJKucu6HJc": {
+      "vid": "0lJKucu6HJc",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T02:28:55.478617+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1VGHE6YEDZ",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Sam Altman：创业成功的关键｜YC完整演讲【中文字幕】",
+          "up": "bocchiie",
+          "duration": 967,
+          "original_duration": 967,
+          "cid": 42458483720,
+          "aid": 117382580275005,
+          "segment_title": "Sam Altman：创业成功的关键｜YC完整演讲【中文字幕】",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 43,
+          "pic": "https://i1.hdslb.com/bfs/archive/9128bb0606ffb7510fc42d8c006d06fb3b2ec381.jpg",
+          "checked_at": "2026-11-06T02:28:54.936871+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1XM4y1d72B",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "阿尔特曼谈创业 Sam Altman - How to Succeed with a Startup",
+          "up": "琥珀评测",
+          "duration": 967,
+          "original_duration": 967,
+          "cid": 1028515077,
+          "aid": 907605000,
+          "segment_title": "阿尔特曼谈创业 Sam Altman - How to Succeed with a Startup",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1893,
+          "pic": "https://i2.hdslb.com/bfs/archive/b5c5cbc99a5d60126766d05282a5e55ee7b241a5.jpg",
+          "checked_at": "2026-11-06T02:35:14.331948+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV14x42197SJ",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "Sam Altman - How to Succeed with a Startup",
+          "up": "来自斯黄的大肥鱼",
+          "duration": 967,
+          "original_duration": 967,
+          "cid": 1425718412,
+          "aid": 1750018352,
+          "segment_title": "Sam Altman - How to Succeed with a Startup",
+          "page_count": 1,
+          "kind": "original",
+          "views": 167,
+          "pic": "https://i2.hdslb.com/bfs/archive/cd3b57499a17b79bf0937eea756852e480bf2dae.jpg",
+          "checked_at": "2026-11-06T02:35:11.740679+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1ETXrB5ET3",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "Sam Altman - How to Succeed with a Startup",
+          "up": "一个小电子",
+          "duration": 967,
+          "original_duration": 967,
+          "cid": 37126605436,
+          "aid": 116323787014866,
+          "segment_title": "Sam Altman - How to Succeed with a Startup",
+          "page_count": 1,
+          "kind": "original",
+          "views": 6,
+          "pic": "https://i1.hdslb.com/bfs/archive/24ed2ba3344b37c622f36fcf8a567508302ab57f.jpg",
+          "checked_at": "2026-11-06T02:35:13.012675+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "0rb9CfOvojk": {
+      "vid": "0rb9CfOvojk",
+      "status": "review",
+      "completed_at": "2026-11-06T02:29:02.539132+00:00",
+      "candidates": []
+    },
+    "0w_xEUoK79o": {
+      "vid": "0w_xEUoK79o",
+      "status": "review",
+      "completed_at": "2026-11-06T02:29:45.435265+00:00",
+      "candidates": []
+    },
+    "13eiDhuvM6Y": {
+      "vid": "13eiDhuvM6Y",
+      "status": "review",
+      "completed_at": "2026-11-06T02:29:56.824547+00:00",
+      "candidates": []
+    },
+    "1PGm8LslEb4": {
+      "vid": "1PGm8LslEb4",
+      "status": "review",
+      "completed_at": "2026-11-06T02:30:15.836133+00:00",
+      "candidates": []
+    },
+    "1Y1kJpHBn50": {
+      "vid": "1Y1kJpHBn50",
+      "status": "review",
+      "completed_at": "2026-11-06T02:30:45.423440+00:00",
+      "candidates": []
+    },
+    "1b-bijO3uEw": {
+      "vid": "1b-bijO3uEw",
+      "status": "review",
+      "completed_at": "2026-11-06T02:31:41.372222+00:00",
+      "candidates": []
+    },
+    "1f6YyH62jFE": {
+      "vid": "1f6YyH62jFE",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T02:31:51.295932+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1TqswzAEtY",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "37C3 - Operation Triangulation: What You Get When Attack iPhones of Researchers",
+          "up": "有恨无人省",
+          "duration": 3486,
+          "original_duration": 3486,
+          "cid": 33209257723,
+          "aid": 115399865665001,
+          "segment_title": "37C3 - Operation Triangulation: What You Get When Attack iPhones of Researchers",
+          "page_count": 1,
+          "kind": "original",
+          "views": 34,
+          "pic": "https://i2.hdslb.com/bfs/archive/fa3f568ba92623f95d7092efc14143b69132ca54.jpg",
+          "checked_at": "2026-11-06T02:31:50.774200+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "29u_FejNuks": {
+      "vid": "29u_FejNuks",
+      "status": "review",
+      "completed_at": "2026-11-06T02:32:17.135068+00:00",
+      "candidates": []
+    },
+    "31CcclqEiZw": {
+      "vid": "31CcclqEiZw",
+      "status": "review",
+      "completed_at": "2026-11-06T02:32:24.166053+00:00",
+      "candidates": []
+    },
+    "37iHSwA1SwE": {
+      "vid": "37iHSwA1SwE",
+      "status": "review",
+      "completed_at": "2026-11-06T02:33:13.357255+00:00",
+      "candidates": []
+    },
+    "3CWCqJl0BEs": {
+      "vid": "3CWCqJl0BEs",
+      "status": "review",
+      "completed_at": "2026-11-06T02:33:20.618839+00:00",
+      "candidates": []
+    },
+    "3Hdn0MuCK_0": {
+      "vid": "3Hdn0MuCK_0",
+      "status": "review",
+      "completed_at": "2026-11-06T02:33:29.411712+00:00",
+      "candidates": []
+    },
+    "3MghYhf-GhU": {
+      "vid": "3MghYhf-GhU",
+      "status": "review",
+      "completed_at": "2026-11-06T02:33:38.655433+00:00",
+      "candidates": []
+    },
+    "45mMioJ5szc": {
+      "vid": "45mMioJ5szc",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T02:33:52.555818+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1PB4y1H7dc",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Michael Jordan Failure Nike Commercial",
+          "up": "小小雨777",
+          "duration": 31,
+          "original_duration": 31,
+          "cid": 838384725,
+          "aid": 603185182,
+          "segment_title": "Michael Jordan Failure Nike Commercial",
+          "page_count": 1,
+          "kind": "original",
+          "views": 132,
+          "pic": "https://i2.hdslb.com/bfs/archive/94b8c9adcb59ef89ac92fb472eeb2452fbc8973a.jpg",
+          "checked_at": "2026-11-06T02:33:52.011951+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "4JWwOzEDGss": {
+      "vid": "4JWwOzEDGss",
+      "status": "review",
+      "completed_at": "2026-11-06T02:34:44.946609+00:00",
+      "candidates": []
+    },
+    "JtUAAXe_0VI": {
+      "vid": "JtUAAXe_0VI",
+      "status": "review",
+      "completed_at": "2026-11-06T02:35:09.543673+00:00",
+      "candidates": []
+    },
+    "4VrLQXR7mKU": {
+      "vid": "4VrLQXR7mKU",
+      "status": "review",
+      "completed_at": "2026-11-06T02:35:50.834857+00:00",
+      "candidates": []
+    },
+    "4YTfxresvS8": {
+      "vid": "4YTfxresvS8",
+      "status": "review",
+      "completed_at": "2026-11-06T02:36:06.996752+00:00",
+      "candidates": []
+    },
+    "4kLPyV8lBbs": {
+      "vid": "4kLPyV8lBbs",
+      "status": "review",
+      "completed_at": "2026-11-06T02:36:21.547264+00:00",
+      "candidates": []
+    },
+    "4q1dgn_C0AU": {
+      "vid": "4q1dgn_C0AU",
+      "status": "review",
+      "completed_at": "2026-11-06T02:36:42.576810+00:00",
+      "candidates": []
+    },
+    "5KiC03_wVjc": {
+      "vid": "5KiC03_wVjc",
+      "status": "review",
+      "completed_at": "2026-11-06T02:37:12.156910+00:00",
+      "candidates": []
+    },
+    "5RpPTRcz1no": {
+      "vid": "5RpPTRcz1no",
+      "status": "review",
+      "completed_at": "2026-11-06T02:37:23.442318+00:00",
+      "candidates": []
+    },
+    "5XDTQLa3NjE": {
+      "vid": "5XDTQLa3NjE",
+      "status": "review",
+      "completed_at": "2026-11-06T02:37:33.301845+00:00",
+      "candidates": []
+    },
+    "5hUT8VZNvm8": {
+      "vid": "5hUT8VZNvm8",
+      "status": "review",
+      "completed_at": "2026-11-06T02:37:43.319540+00:00",
+      "candidates": []
+    },
+    "5sVfTPaxRwk": {
+      "vid": "5sVfTPaxRwk",
+      "status": "review",
+      "completed_at": "2026-11-06T02:37:54.583933+00:00",
+      "candidates": []
+    },
+    "5uhIiI9Ld5M": {
+      "vid": "5uhIiI9Ld5M",
+      "status": "review",
+      "completed_at": "2026-11-06T02:38:07.629605+00:00",
+      "candidates": []
+    },
+    "6gmP4nk0EOE": {
+      "vid": "6gmP4nk0EOE",
+      "status": "review",
+      "completed_at": "2026-11-06T02:38:46.240852+00:00",
+      "candidates": []
+    },
+    "6ihrGNGesfI": {
+      "vid": "6ihrGNGesfI",
+      "status": "review",
+      "completed_at": "2026-11-06T02:38:53.383535+00:00",
+      "candidates": []
+    },
+    "6reLWfFNer0": {
+      "vid": "6reLWfFNer0",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T02:39:02.238030+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1KJ4m1b7Fm",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "How to Build a Startup Without Funding by Pieter Levels",
+          "up": "来自斯黄的大肥鱼",
+          "duration": 3601,
+          "original_duration": 3600,
+          "cid": 1425711254,
+          "aid": 1250052877,
+          "segment_title": "How to Build a Startup Without Funding by Pieter Levels",
+          "page_count": 1,
+          "kind": "original",
+          "views": 240,
+          "pic": "https://i2.hdslb.com/bfs/archive/899fe1eb2db56195af48c3dbe25d9ab39987e37b.jpg",
+          "checked_at": "2026-11-06T02:39:01.691634+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "77IdKFqXbUY": {
+      "vid": "77IdKFqXbUY",
+      "status": "review",
+      "completed_at": "2026-11-06T02:39:46.163958+00:00",
+      "candidates": []
+    },
+    "7Hlb8YX2-W8": {
+      "vid": "7Hlb8YX2-W8",
+      "status": "review",
+      "completed_at": "2026-11-06T02:39:56.242519+00:00",
+      "candidates": []
+    },
+    "7LqaotiGWjQ": {
+      "vid": "7LqaotiGWjQ",
+      "status": "review",
+      "completed_at": "2026-11-06T02:40:05.468517+00:00",
+      "candidates": []
+    },
+    "7S-DGTBZU14": {
+      "vid": "7S-DGTBZU14",
+      "status": "review",
+      "completed_at": "2026-11-06T02:40:16.865086+00:00",
+      "candidates": []
+    },
+    "7VG_s2PCH_c": {
+      "vid": "7VG_s2PCH_c",
+      "status": "review",
+      "completed_at": "2026-11-06T02:40:26.113025+00:00",
+      "candidates": []
+    },
+    "7Vc8sxhy2I4": {
+      "vid": "7Vc8sxhy2I4",
+      "status": "review",
+      "completed_at": "2026-11-06T02:40:38.767242+00:00",
+      "candidates": []
+    },
+    "7gtog_gOaGQ": {
+      "vid": "7gtog_gOaGQ",
+      "status": "review",
+      "completed_at": "2026-11-06T02:40:52.705394+00:00",
+      "candidates": []
+    },
+    "7ne0GArfeMs": {
+      "vid": "7ne0GArfeMs",
+      "status": "review",
+      "completed_at": "2026-11-06T02:41:04.528511+00:00",
+      "candidates": []
+    },
+    "7oWip00iXbo": {
+      "vid": "7oWip00iXbo",
+      "status": "review",
+      "completed_at": "2026-11-06T02:41:12.888764+00:00",
+      "candidates": []
+    },
+    "7xQQkzWhMOc": {
+      "vid": "7xQQkzWhMOc",
+      "status": "review",
+      "completed_at": "2026-11-06T02:41:23.237497+00:00",
+      "candidates": []
+    },
+    "8QiPFmIMxFc": {
+      "vid": "8QiPFmIMxFc",
+      "status": "review",
+      "completed_at": "2026-11-06T02:41:36.097420+00:00",
+      "candidates": []
+    },
+    "8XUutFBbUrg": {
+      "vid": "8XUutFBbUrg",
+      "status": "review",
+      "completed_at": "2026-11-06T02:41:54.212815+00:00",
+      "candidates": []
+    },
+    "8b7erU_DOfE": {
+      "vid": "8b7erU_DOfE",
+      "status": "review",
+      "completed_at": "2026-11-06T02:42:05.509188+00:00",
+      "candidates": []
+    },
+    "8dhp_20j0Ys": {
+      "vid": "8dhp_20j0Ys",
+      "status": "review",
+      "completed_at": "2026-11-06T02:42:53.520497+00:00",
+      "candidates": []
+    },
+    "8gw0rXPMMPE": {
+      "vid": "8gw0rXPMMPE",
+      "status": "confirmed",
+      "completed_at": "2026-11-06T02:43:02.369177+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1qz411q7X3",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "The new Windows Terminal",
+          "up": "悠VS尚",
+          "duration": 46,
+          "original_duration": 45,
+          "cid": 193037913,
+          "aid": 200644466,
+          "segment_title": "The new Windows Terminal",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1325,
+          "pic": "https://i0.hdslb.com/bfs/archive/dc1c984934d2ccb2f8f4140daa1e2f6b80a8aa04.jpg",
+          "checked_at": "2026-11-06T02:43:01.767295+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "9Ikf1uZli4g": {
+      "vid": "9Ikf1uZli4g",
+      "status": "review",
+      "completed_at": "2026-11-06T02:43:19.276131+00:00",
+      "candidates": []
+    },
+    "9NOncx2jU0Q": {
+      "vid": "9NOncx2jU0Q",
+      "status": "review",
+      "completed_at": "2026-11-06T02:43:56.488891+00:00",
+      "candidates": []
+    },
+    "9WcHsT97suU": {
+      "vid": "9WcHsT97suU",
+      "status": "review",
+      "completed_at": "2026-11-06T02:44:20.360982+00:00",
+      "candidates": []
+    },
+    "9qljpi5jiMQ": {
+      "vid": "9qljpi5jiMQ",
+      "status": "review",
+      "completed_at": "2026-11-06T02:44:32.984074+00:00",
+      "candidates": []
+    },
+    "A9U5wK_boYM": {
+      "vid": "A9U5wK_boYM",
+      "status": "review",
+      "completed_at": "2026-11-06T02:44:53.474841+00:00",
+      "candidates": []
+    },
+    "AGUwcs9qJXY": {
+      "vid": "AGUwcs9qJXY",
+      "status": "review",
+      "completed_at": "2026-11-06T02:45:09.426317+00:00",
+      "candidates": []
+    },
+    "AJgY9FtDLbs": {
+      "vid": "AJgY9FtDLbs",
       "status": "review",
       "completed_at": null,
       "candidates": []

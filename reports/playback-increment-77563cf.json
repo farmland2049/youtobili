@@ -1,0 +1,110 @@
+{
+  "checked_at": "2026-11-06T02:46:33.497Z",
+  "checks": [
+    {
+      "sample": "iv-5mZ_9CPY",
+      "kind": "original",
+      "id": "iv-5mZ_9CPY",
+      "bvid": "BV1tChwzSEXq",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.93805,
+        "duration": 2244,
+        "paused": false
+      },
+      "expected_duration": 2244,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "31380016734"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "But how do AI images/videos actually work? | Guest video by ‪@WelchLabsVideo‬\nSa神带你学AI\n关注\n15\n2\n分享\n更多\n00:04 / 37:24\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "0lJKucu6HJc",
+      "kind": "sub_zh",
+      "id": "0lJKucu6HJc",
+      "bvid": "BV1VGHE6YEDZ",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.957225,
+        "duration": 967,
+        "paused": false
+      },
+      "expected_duration": 967,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "42458483720"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Sam Altman：创业成功的关键｜YC完整演讲【中文字幕】\nbocchiie\n关注\n5\n0\n分享\n更多\n00:04 / 16:07\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "0lJKucu6HJc",
+      "kind": "original",
+      "id": "0lJKucu6HJc",
+      "bvid": "BV1XM4y1d72B",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.257814,
+        "duration": 967,
+        "paused": false
+      },
+      "expected_duration": 967,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1028515077"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "阿尔特曼谈创业 Sam Altman - How to Succeed with a Startup\n琥珀评测\n关注\n57\n2\n分享\n更多\n00:05 / 16:07\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "wtIhVwPruwY",
+      "kind": "sub_zh",
+      "id": "wtIhVwPruwY",
+      "bvid": "BV1aJ411M7d9",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.95987,
+        "duration": 1018,
+        "paused": false
+      },
+      "expected_duration": 1018,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "119163093"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【Numberphile_中字】雷诺数能告诉你什么？ 流体力学中神奇的无量纲数 Reynolds Number - Numberphile\n丰饶之月\n关注\n166\n21\n分享\n更多\n00:04 / 16:58\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "45mMioJ5szc",
+      "kind": "original",
+      "id": "45mMioJ5szc",
+      "bvid": "BV1PB4y1H7dc",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.952507,
+        "duration": 31,
+        "paused": false
+      },
+      "expected_duration": 31,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "838384725"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Michael Jordan Failure Nike Commercial\n小小雨777\n关注\n0\n0\n分享\n更多\n00:04 / 00:31\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}
