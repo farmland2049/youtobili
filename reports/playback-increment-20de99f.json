@@ -1,0 +1,47 @@
+{
+  "checked_at": "2026-11-06T06:58:15.245Z",
+  "checks": [
+    {
+      "sample": "K1xnYFCZ9Yg",
+      "kind": "original",
+      "id": "K1xnYFCZ9Yg",
+      "bvid": "BV1uJ411A7gd",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.16986,
+        "duration": 429,
+        "paused": false
+      },
+      "expected_duration": 429,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "117365986"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "What Is the RNA World Hypothesis-\nlichunxinbio\n关注\n15\n1\n分享\n更多\n00:05 / 07:09\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "KdfHVcU8U7U",
+      "kind": "original",
+      "id": "KdfHVcU8U7U",
+      "bvid": "BV1wf4y1X75w",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.952931,
+        "duration": 1368,
+        "paused": false
+      },
+      "expected_duration": 1368,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "230967963"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "[搬] Applied Science [x光] 拆台X光老机器\nwdygggh\n关注\n64\n10\n分享\n更多\n00:04 / 22:48\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

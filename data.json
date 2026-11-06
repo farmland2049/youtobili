@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T06:45:36.048595+00:00",
+  "built_at": "2026-11-06T06:57:33.411030+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 3127,
-    "confirmed": 887,
-    "coverage": 0.13743414936473505,
-    "processed_match_rate": 0.2836584585865046
+    "processed": 3145,
+    "confirmed": 889,
+    "coverage": 0.13774403470715835,
+    "processed_match_rate": 0.282670906200318
   },
   "areas": [
     {
@@ -30840,6 +30840,75 @@
       ]
     },
     {
+      "id": "K1xnYFCZ9Yg",
+      "title": "What Is the RNA World Hypothesis?",
+      "author": "Stated Clearly",
+      "source_url": "https://www.youtube.com/watch?v=K1xnYFCZ9Yg",
+      "summary": "Stated Clearly explains the RNA world hypothesis, which resolves the chicken-or-egg problem of genes versus enzymes by proposing that RNA once did both jobs. It outlines how evolution could begin with RNA chains alone.",
+      "why": "HN recommends it as an engaging, brief overview of the RNA world idea.",
+      "score": 2.0,
+      "tags": [
+        "rna world",
+        "abiogenesis",
+        "ribozymes",
+        "evolution",
+        "molecular biology"
+      ],
+      "categories": [
+        "biology-biotech",
+        "evolution-genetics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1uJ411A7gd",
+          "page": 1,
+          "cid": 117365986,
+          "title": "What Is the RNA World Hypothesis-",
+          "up": "lichunxinbio",
+          "duration": 429,
+          "kind": "original",
+          "views": 776,
+          "pic": "https://i1.hdslb.com/bfs/archive/e5ff1c01b4588e83161e0a48b8b0193c8d08d9ee.jpg",
+          "checked_at": "2026-11-06T06:54:49.087185+00:00"
+        }
+      ]
+    },
+    {
+      "id": "KdfHVcU8U7U",
+      "title": "Demo and teardown of an X-ray fluorescence gun (measures chemical composition)",
+      "author": "Applied Science",
+      "source_url": "https://www.youtube.com/watch?v=KdfHVcU8U7U",
+      "summary": "Ben Krasnow of Applied Science demonstrates an X-ray fluorescence gun that measures chemical composition, tears it down, analyzes its failure, and discusses a new XRF technology appearing on eBay.",
+      "why": "HN recommends it as a hands-on introduction to XRF and a fascinating teardown showing the x-ray tube and beryllium windows.",
+      "score": 2.0,
+      "tags": [
+        "xrf",
+        "teardown",
+        "materials analysis",
+        "metal alloys",
+        "applied science"
+      ],
+      "categories": [
+        "materials-science",
+        "repair-teardown",
+        "chemistry"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1wf4y1X75w",
+          "page": 1,
+          "cid": 230967963,
+          "title": "[搬] Applied Science [x光] 拆台X光老机器",
+          "up": "wdygggh",
+          "duration": 1368,
+          "kind": "original",
+          "views": 1655,
+          "pic": "https://i2.hdslb.com/bfs/archive/3ea9e273b663b247ed0582a550856be846a6e182.jpg",
+          "checked_at": "2026-11-06T06:56:16.446158+00:00"
+        }
+      ]
+    },
+    {
       "id": "LKiBlGDfRU8",
       "title": "My dream died, and now I'm here",
       "author": "Sabine Hossenfelder",
@@ -36222,6 +36291,8 @@
     "BV1FW411h7vD": "HipTO_7mUOw",
     "BV1ss411V7s9": "I6IQ_FOCE6I",
     "BV1fTM6zEERn": "IQJL3htsDyQ",
+    "BV1uJ411A7gd": "K1xnYFCZ9Yg",
+    "BV1wf4y1X75w": "KdfHVcU8U7U",
     "BV1Ex421S7kn": "LKiBlGDfRU8",
     "BV18C41157za": "LKiBlGDfRU8",
     "BV1Bm411B7Mp": "OTVE5iPMKLg",
