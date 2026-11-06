@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T05:42:46.101074+00:00",
+  "built_at": "2026-11-06T06:45:36.048595+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 2970,
-    "confirmed": 864,
-    "coverage": 0.13387046792686705,
-    "processed_match_rate": 0.2909090909090909
+    "processed": 3127,
+    "confirmed": 887,
+    "coverage": 0.13743414936473505,
+    "processed_match_rate": 0.2836584585865046
   },
   "areas": [
     {
@@ -29776,6 +29776,51 @@
           "views": 9993,
           "pic": "https://i2.hdslb.com/bfs/archive/b02c936c81d4cfd0ff24cb6c3ae53132c26f5d4e.jpg",
           "checked_at": "2026-11-06T05:41:58.040057+00:00"
+        },
+        {
+          "bvid": "BV1B741157N3",
+          "page": 1,
+          "cid": 150742324,
+          "title": "Bill Gates TED Talk The next outbreak－We’re not ready",
+          "up": "最爱布朗尼味的本杰瑞",
+          "duration": 517,
+          "kind": "original",
+          "views": 3023,
+          "pic": "https://i2.hdslb.com/bfs/archive/903559c626fecb096216312ee2c5377c0c0ba96a.jpg",
+          "checked_at": "2026-11-06T05:46:28.523169+00:00"
+        }
+      ]
+    },
+    {
+      "id": "6b4ZZQkcNEo",
+      "title": "Sand Flea Jumping Robot",
+      "author": "Boston Dynamics",
+      "source_url": "https://www.youtube.com/watch?v=6b4ZZQkcNEo",
+      "summary": "A short Boston Dynamics clip of the Sand Flea, an 11-pound RC-car-style robot that can jump about 30 feet into the air. An onboard stabilization system keeps it oriented in flight and for landings.",
+      "why": "Brought up as a favorite and as an inspiration for small, cheap jumping robots for obstacle crossing and planetary exploration.",
+      "score": 2.0,
+      "tags": [
+        "boston dynamics",
+        "robotics",
+        "jumping robot",
+        "stabilization",
+        "military robots"
+      ],
+      "categories": [
+        "robotics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Cb411278y",
+          "page": 1,
+          "cid": 76520049,
+          "title": "[中文字幕-波士顿动力第14弹]沙蚤跳跃机器人Sand Flea[20012.03.27][Sand Flea Jumping Robot]",
+          "up": "Rrypo搬运机器人视频",
+          "duration": 97,
+          "kind": "sub_zh",
+          "views": 6460,
+          "pic": "https://i2.hdslb.com/bfs/archive/d50c632a26cfee5614e1cf2ab14424e270e0b85d.jpg",
+          "checked_at": "2026-11-06T05:48:56.751103+00:00"
         }
       ]
     },
@@ -29814,6 +29859,41 @@
       ]
     },
     {
+      "id": "8T6ClX-y2AE",
+      "title": "BlueHat IL 2023 - David Weston - Default Security",
+      "author": "Microsoft Israel R&D Center",
+      "source_url": "https://www.youtube.com/watch?v=8T6ClX-y2AE",
+      "summary": "David Weston's BlueHat IL 2023 talk traces the evolution of Windows security and previews Windows 11 and hardware advances. It ends with upcoming changes such as Rust in the kernel and fonts, signed binaries and adminless Windows.",
+      "why": "HN uses it as the primary source for Microsoft's Rust adoption and its reasoning on TPM and security requirements.",
+      "score": 2.0,
+      "tags": [
+        "windows 11",
+        "rust",
+        "tpm",
+        "memory safety",
+        "microsoft"
+      ],
+      "categories": [
+        "security-hacking",
+        "operating-systems",
+        "systems-programming-languages"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Bm4y117QG",
+          "page": 1,
+          "cid": 1112552712,
+          "title": "Windows内核将迁移到Rust！BlueHat IL 2023 - David Weston - Default Security",
+          "up": "高质量bug制造机",
+          "duration": 3275,
+          "kind": "original",
+          "views": 356,
+          "pic": "https://i1.hdslb.com/bfs/archive/537e34f00c8ed841a358716159bfc2012a3fa6ed.jpg",
+          "checked_at": "2026-11-06T05:55:48.817844+00:00"
+        }
+      ]
+    },
+    {
       "id": "8kUQWuK1L4w",
       "title": "The Origins of APL - 1974",
       "author": "Catherine Lathwell",
@@ -29844,6 +29924,154 @@
           "views": 956,
           "pic": "https://i1.hdslb.com/bfs/archive/6be08a48faa655efbf2259c30b8dfa95cc99e55b.png",
           "checked_at": "2026-11-05T08:59:42.763716+00:00"
+        }
+      ]
+    },
+    {
+      "id": "8xFLjUt2leM",
+      "title": "Freeman Dyson: Heretical Thoughts About Science and Society",
+      "author": "Boston University",
+      "source_url": "https://www.youtube.com/watch?v=8xFLjUt2leM",
+      "summary": "Freeman Dyson's 2005 Boston University talk on heretical views about science and society. He questions prevailing dogmas, including his argument that climate and CO2 are a land management issue.",
+      "why": "HN cites it for Dyson's contrarian take on global warming and soil carbon.",
+      "score": 2.0,
+      "tags": [
+        "freeman dyson",
+        "climate change",
+        "land management",
+        "contrarian science",
+        "soil carbon"
+      ],
+      "categories": [
+        "climate-debate-policy",
+        "science-method-communication",
+        "environment-agriculture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Tz4y1U73L",
+          "page": 1,
+          "cid": 292466482,
+          "title": "弗里曼·戴森（Freeman Dyson）：关于科学和社会的异端思想（Heretical Thoughts About Science and Society）",
+          "up": "范德彪7161",
+          "duration": 3697,
+          "kind": "original",
+          "views": 468,
+          "pic": "https://i1.hdslb.com/bfs/archive/f55968f672bfbd94845050af57064d20ef0be70c.jpg",
+          "checked_at": "2026-11-06T06:00:29.092498+00:00"
+        }
+      ]
+    },
+    {
+      "id": "9-jIplX6Wjw",
+      "title": "I Think Faster Than Light Travel is Possible. Here's Why.",
+      "author": "Sabine Hossenfelder",
+      "source_url": "https://www.youtube.com/watch?v=9-jIplX6Wjw",
+      "summary": "Sabine Hossenfelder explains why she thinks faster-than-light travel may not be ruled out. She argues that the standard objections from special relativity are inconclusive.",
+      "why": "Commenters recommend it for a compelling, accessible case against treating the speed of light as a hard limit.",
+      "score": 2.0,
+      "tags": [
+        "special relativity",
+        "speed of light",
+        "physics",
+        "space travel"
+      ],
+      "categories": [
+        "fundamental-physics",
+        "cosmology-astrophysics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Cm4y1B7s3",
+          "page": 1,
+          "cid": 1088556203,
+          "title": "【六种语言字幕】超光速旅行是可能的！法兰克福研究所FIAS的理论物理学家Sabine Hossenfelder如是说。",
+          "up": "骗流量的频道",
+          "duration": 1427,
+          "kind": "original",
+          "views": 262,
+          "pic": "https://i1.hdslb.com/bfs/archive/4eae4e695f32f22bab490e42b7389411f91c0c5d.jpg",
+          "checked_at": "2026-11-06T06:00:38.221441+00:00"
+        }
+      ]
+    },
+    {
+      "id": "9U0XVdvQwAI",
+      "title": "Marble Marcher - A Fractal Physics Game",
+      "author": "CodeParade",
+      "source_url": "https://www.youtube.com/watch?v=9U0XVdvQwAI",
+      "summary": "A demo of Marble Marcher, a game using a fractal physics engine and fully procedural ray-marched rendering. The player rolls a marble through shifting fractal levels.",
+      "why": "HN recommends it as a striking example of rendering with distance-estimated fractals and non-standard graphics approaches.",
+      "score": 2.0,
+      "tags": [
+        "fractals",
+        "ray marching",
+        "procedural rendering",
+        "physics engine",
+        "game demo"
+      ],
+      "categories": [
+        "computer-graphics-rendering",
+        "game-programming-engines",
+        "creative-coding-generative-art"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ov2DBWESM",
+          "page": 1,
+          "cid": 34616576866,
+          "title": "【中配】Marble Marcher - 一款分形物理游戏 - CodeParade",
+          "up": "黑纹白斑马",
+          "duration": 207,
+          "kind": "dub_zh",
+          "views": 1398,
+          "pic": "https://i2.hdslb.com/bfs/archive/6d415c5d441f996e7ab809367481d67e053dd293.png",
+          "checked_at": "2026-11-06T06:01:05.287474+00:00"
+        },
+        {
+          "bvid": "BV157411275m",
+          "page": 1,
+          "cid": 168815171,
+          "title": "[转载]分形物理游戏：Marble Marcher  无字幕",
+          "up": "today不下雨",
+          "duration": 238,
+          "kind": "original",
+          "views": 207,
+          "pic": "https://i1.hdslb.com/bfs/archive/580f74b7343716489d5ef5f9a4e3284de1ef1086.jpg",
+          "checked_at": "2026-11-06T06:06:46.287869+00:00"
+        }
+      ]
+    },
+    {
+      "id": "9ZX_XCYokQo",
+      "title": "Glenn Gould and Leonard Bernstein: Bach's Keyboard Concerto No. 1 (I) in D minor (BWV 1052)",
+      "author": "AntPDC",
+      "source_url": "https://www.youtube.com/watch?v=9ZX_XCYokQo",
+      "summary": "A 1960 CBS clip in which Leonard Bernstein introduces and conducts Bach's Keyboard Concerto No. 1 in D minor with a 28-year-old Glenn Gould at the piano. Gould's performance starts around 5:08.",
+      "why": "Recommended as a definitive Gould interpretation whose playing makes Bach's counterpoint clear.",
+      "score": 2.0,
+      "tags": [
+        "bach",
+        "glenn gould",
+        "bernstein",
+        "piano",
+        "counterpoint"
+      ],
+      "categories": [
+        "music-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1eE411B7wY",
+          "page": 1,
+          "cid": 127715650,
+          "title": "Glenn Gould and Leonard Bernstein_ Bach's Keyboard Concerto No. 1 (I) in D minor",
+          "up": "slower_poke",
+          "duration": 854,
+          "kind": "original",
+          "views": 139,
+          "pic": "https://i1.hdslb.com/bfs/archive/e0e2b25e1467fc2d8f944045de016b7a0437c03e.jpg",
+          "checked_at": "2026-11-06T06:02:33.095972+00:00"
         }
       ]
     },
@@ -29883,6 +30111,40 @@
       ]
     },
     {
+      "id": "A-fxij3zM7g",
+      "title": "The Braitenberg Vehicles",
+      "author": "Brian Douglas",
+      "source_url": "https://www.youtube.com/watch?v=A-fxij3zM7g",
+      "summary": "Brian Douglas introduces Braitenberg vehicles, simple robots whose sensors are wired directly to motors yet show surprisingly lifelike behavior. He draws on Valentino Braitenberg's book Vehicles.",
+      "why": "Recommended as a short, fascinating introduction to how simple sensor-actuator machines can appear intelligent.",
+      "score": 2.0,
+      "tags": [
+        "braitenberg",
+        "robotics",
+        "emergent behavior",
+        "control systems",
+        "synthetic psychology"
+      ],
+      "categories": [
+        "robotics",
+        "consciousness-mind"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1PS4y1L7fH",
+          "page": 1,
+          "cid": 488982536,
+          "title": "The Braitenberg Vehicles",
+          "up": "Anderson_Yan",
+          "duration": 928,
+          "kind": "original",
+          "views": 195,
+          "pic": "https://i0.hdslb.com/bfs/archive/8c16a07ddf18a169917ba8bef2a903f7e3263590.jpg",
+          "checked_at": "2026-11-06T06:06:05.800643+00:00"
+        }
+      ]
+    },
+    {
       "id": "A0FZIwabctw",
       "title": "Falcon Heavy & Starman",
       "author": "SpaceX",
@@ -29912,6 +30174,118 @@
           "views": 536,
           "pic": "https://i2.hdslb.com/bfs/archive/583f4e0f0c36e3e3fd70a0f92f9039a3d47d9e41.png",
           "checked_at": "2026-11-04T23:03:57.593087+00:00"
+        }
+      ]
+    },
+    {
+      "id": "A2zKARkpDW4",
+      "title": "Boards of Canada - Dayvan Cowboy",
+      "author": "Warp Records",
+      "source_url": "https://www.youtube.com/watch?v=A2zKARkpDW4",
+      "summary": "The official video for Boards of Canada's Dayvan Cowboy, built from reassembled documentary footage. It forms a dreamlike journey from space to the sea and shore, including Kittinger's 1960 high-altitude jump and surfing footage.",
+      "why": "HN mentions it as a favorite ambient track and as a nicely edited tribute to Kittinger's jump.",
+      "score": 2.0,
+      "tags": [
+        "boards of canada",
+        "dayvan cowboy",
+        "ambient",
+        "music video",
+        "joe kittinger"
+      ],
+      "categories": [
+        "music-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1T7411z7cw",
+          "page": 1,
+          "cid": 147298330,
+          "title": "Boards of Canada - Dayvan Cowboy",
+          "up": "Clique_Skywalker",
+          "duration": 277,
+          "kind": "original",
+          "views": 597,
+          "pic": "https://i0.hdslb.com/bfs/archive/bf4552d3db5f12fb460ecfc2da0a2f4eccbd20f1.jpg",
+          "checked_at": "2026-11-06T06:06:16.635860+00:00"
+        }
+      ]
+    },
+    {
+      "id": "A3oIiH7BLmg",
+      "title": "RSA ANIMATE: The Secret Powers of Time",
+      "author": "Royal Society of Arts",
+      "source_url": "https://www.youtube.com/watch?v=A3oIiH7BLmg",
+      "summary": "An RSA Animate illustrating a lecture by psychologist Philip Zimbardo on how people's perspectives on time (past, present, future) shape work, health and well-being.",
+      "why": "Recommended in threads about culture and time orientation as an accessible presentation of Zimbardo's framework.",
+      "score": 2.0,
+      "tags": [
+        "zimbardo",
+        "time perception",
+        "rsa animate",
+        "psychology",
+        "well-being"
+      ],
+      "categories": [
+        "psychology-behavior",
+        "productivity-self-improvement"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1X4411n7RB",
+          "page": 1,
+          "cid": 95217475,
+          "title": "The Secret Powers of Time",
+          "up": "SatyrFrost",
+          "duration": 609,
+          "kind": "original",
+          "views": 307,
+          "pic": "https://i1.hdslb.com/bfs/archive/9f3eb7d60ba629df2b43d793421a049abd52c6b0.jpg",
+          "checked_at": "2026-11-06T06:07:27.855196+00:00"
+        }
+      ]
+    },
+    {
+      "id": "AI4ynXzkSQo",
+      "title": "The Ultimate V60 Technique",
+      "author": "James Hoffmann",
+      "source_url": "https://www.youtube.com/watch?v=AI4ynXzkSQo",
+      "summary": "James Hoffmann demonstrates his recommended technique for brewing coffee with a Hario V60 or other cone-shaped dripper, with notes on water and filter papers.",
+      "why": "HN coffee fans recommend it as the reliable, simple recipe for much better pour-over coffee.",
+      "score": 2.0,
+      "tags": [
+        "coffee",
+        "v60",
+        "pour over",
+        "brewing",
+        "james hoffmann"
+      ],
+      "categories": [
+        "cooking-food"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1tN411f7ha",
+          "page": 1,
+          "cid": 335201633,
+          "title": "【熟肉】V60的终极技巧 The Ultimate V60 Technique by Hoffmann",
+          "up": "ghostmale",
+          "duration": 731,
+          "kind": "sub_zh",
+          "views": 384,
+          "pic": "https://i0.hdslb.com/bfs/archive/bb3d4a86b5825d89eb8b4c407b53ce2297db4340.jpg",
+          "checked_at": "2026-11-06T06:08:43.666363+00:00"
+        },
+        {
+          "bvid": "BV13t411N7mk",
+          "page": 1,
+          "cid": 108914996,
+          "title": "【咖啡搬运】James Hoffmann 发布的 V60 终极冲煮技巧 The Ultimate V60 Technique~~",
+          "up": "眉毛轩有猫",
+          "duration": 730,
+          "kind": "original",
+          "views": 2417,
+          "pic": "https://i1.hdslb.com/bfs/archive/dbf5e202b9fb4d11dd99450d7340b1ba45824493.jpg",
+          "checked_at": "2026-11-06T06:24:14.613690+00:00"
         }
       ]
     },
@@ -29946,6 +30320,41 @@
           "views": 5161,
           "pic": "https://i0.hdslb.com/bfs/archive/1322786a6c43d7bb0b9e87e37c097ee538990cef.jpg",
           "checked_at": "2026-11-05T23:29:12.056589+00:00"
+        }
+      ]
+    },
+    {
+      "id": "AcQifPHcMLE",
+      "title": "This 1970s tank simulator drives through a tiny world",
+      "author": "Tom Scott",
+      "source_url": "https://www.youtube.com/watch?v=AcQifPHcMLE",
+      "summary": "Tom Scott visits the Swiss Military Museum to see the last surviving 1970s tank-driving simulator. It uses a real camera moving over a miniature model landscape rather than any computer graphics.",
+      "why": "Recommended as a great example of early VR and pre-computer simulation.",
+      "score": 2.0,
+      "tags": [
+        "tank simulator",
+        "early vr",
+        "simulation",
+        "tom scott",
+        "computer history"
+      ],
+      "categories": [
+        "history-of-computing",
+        "vr-ar-spatial",
+        "military-warfare"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1b14y1j7jM",
+          "page": 1,
+          "cid": 866958138,
+          "title": "[Tom Scott] 70年代的坦克模拟器",
+          "up": "wdygggh",
+          "duration": 280,
+          "kind": "original",
+          "views": 314,
+          "pic": "https://i0.hdslb.com/bfs/archive/d4e20231987f17282c7e9653befed0ba04db8ba8.jpg",
+          "checked_at": "2026-11-06T06:08:52.734792+00:00"
         }
       ]
     },
@@ -29985,6 +30394,141 @@
       ]
     },
     {
+      "id": "CPLdltN7wgE",
+      "title": "15 Lazygit Features In Under 15 Minutes",
+      "author": "Jesse Duffield",
+      "source_url": "https://www.youtube.com/watch?v=CPLdltN7wgE",
+      "summary": "The author of lazygit demos 15 features of his terminal UI for git, such as staging individual lines and easier rebasing, aimed at making common git tasks simpler.",
+      "why": "Recommended as the author's own quick intro to lazygit, a TUI that makes git workflows more natural.",
+      "score": 2.0,
+      "tags": [
+        "lazygit",
+        "git",
+        "tui",
+        "version control",
+        "developer tools"
+      ],
+      "categories": [
+        "testing-debugging-tools"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1GjpTeREB9",
+          "page": 1,
+          "cid": 25744050321,
+          "title": "y2mate.com - 15 Lazygit Features In Under 15 Minutes_1080pFHR",
+          "up": "地府打更人",
+          "duration": 732,
+          "kind": "original",
+          "views": 120,
+          "pic": "https://i0.hdslb.com/bfs/archive/98ee7b37d6b26b84134037e691370ade715bdef4.jpg",
+          "checked_at": "2026-11-06T06:14:48.687019+00:00"
+        }
+      ]
+    },
+    {
+      "id": "Cwas_7H5KUs",
+      "title": "J.S.Bach \"The Goldberg Variations\" [ Glenn Gould ] (1955)",
+      "author": "BATACHAN DESU",
+      "source_url": "https://www.youtube.com/watch?v=Cwas_7H5KUs",
+      "summary": "Glenn Gould's 1955 recording of Bach's Goldberg Variations, uploaded as a continuous performance of about 39 minutes.",
+      "why": "Recommended as the best-known and most famous recording of the Goldberg Variations.",
+      "score": 2.0,
+      "tags": [
+        "bach",
+        "glenn gould",
+        "goldberg variations",
+        "classical piano",
+        "1955 recording"
+      ],
+      "categories": [
+        "music-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Jb41187rv",
+          "page": 1,
+          "cid": 78143351,
+          "title": "J.S.Bach （巴赫）\"The Goldberg Variations\"哥德堡变奏曲 [ Glenn Gould ] (1955)",
+          "up": "雨声强于古典",
+          "duration": 2351,
+          "kind": "original",
+          "views": 3467,
+          "pic": "https://i2.hdslb.com/bfs/archive/37c8bef30fd3be578bda12b71495a80ee1018ba8.jpg",
+          "checked_at": "2026-11-06T06:18:21.545826+00:00"
+        }
+      ]
+    },
+    {
+      "id": "CxHa5KaMBcM",
+      "title": "5 Hours of The Shipping Forecast on BBC Radio 4!",
+      "author": "icannotgetafreename",
+      "source_url": "https://www.youtube.com/watch?v=CxHa5KaMBcM",
+      "summary": "Five hours of the late-night BBC Radio 4 Shipping Forecast, uploaded to mark its 150th anniversary. It can be used as sleep audio or to learn the sea areas named in the broadcast.",
+      "why": "Offered as a calming, dry, familiar broadcast, fitting for a crowd that enjoys ambient and lofi radio.",
+      "score": 2.0,
+      "tags": [
+        "bbc radio 4",
+        "ambient",
+        "sleep audio",
+        "weather",
+        "british culture"
+      ],
+      "categories": [
+        "ships-ocean",
+        "arts-entertainment-other",
+        "geology-earth-science"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1z4411A7PJ",
+          "page": 1,
+          "cid": 101073075,
+          "title": "5 Hours of The Shipping Forecast on BBC Radio 4!",
+          "up": "北极鲶鱼我老婆",
+          "duration": 17861,
+          "kind": "original",
+          "views": 2646,
+          "pic": "https://i0.hdslb.com/bfs/archive/afe36fc3fa404119146bfa01bf163e23d84450b0.jpg",
+          "checked_at": "2026-11-06T06:18:30.764897+00:00"
+        }
+      ]
+    },
+    {
+      "id": "DKtVpvzUF1Y",
+      "title": "Apollo 11 Saturn V Launch Camera E-8",
+      "author": "Mark Gray",
+      "source_url": "https://www.youtube.com/watch?v=DKtVpvzUF1Y",
+      "summary": "Raw 500 fps footage from Camera E-8 on the launch tower for the Apollo 11 Saturn V liftoff, transferred in HD from the 16mm original. More than eight minutes of film covers about 30 seconds of real time.",
+      "why": "HN commenters recommend it for its slow-motion view of the first seconds of liftoff and cite it when comparing launch pads and engine behavior.",
+      "score": 2.0,
+      "tags": [
+        "apollo 11",
+        "saturn v",
+        "high speed film",
+        "rocket launch",
+        "f-1 engines"
+      ],
+      "categories": [
+        "space-exploration",
+        "film-video-production"
+      ],
+      "versions": [
+        {
+          "bvid": "BV18x411C7PH",
+          "page": 1,
+          "cid": 15024197,
+          "title": "Apollo 11 Saturn V Launch Camera E-8",
+          "up": "GYskyfall",
+          "duration": 523,
+          "kind": "original",
+          "views": 250,
+          "pic": "https://i2.hdslb.com/bfs/archive/a661fd5b4499389caef9fe468b8b9789e185037d.jpg",
+          "checked_at": "2026-11-06T06:18:56.067594+00:00"
+        }
+      ]
+    },
+    {
       "id": "EACkiMRT0pc",
       "title": "The 100 Year Flood Is Not What You Think It Is (Maybe)",
       "author": "Practical Engineering",
@@ -30016,6 +30560,41 @@
           "views": 5748,
           "pic": "https://i0.hdslb.com/bfs/archive/9fae7be5d98682f5e9e33205ecf7e37e184c5a4b.jpg",
           "checked_at": "2026-11-04T23:03:59.797431+00:00"
+        }
+      ]
+    },
+    {
+      "id": "EL7Au1tzNxE",
+      "title": "Vibe coding complex changes in Rust",
+      "author": "Jon Gjengset",
+      "source_url": "https://www.youtube.com/watch?v=EL7Au1tzNxE",
+      "summary": "Jon Gjengset spends about three hours livecoding complex changes in a Rust codebase with agentic AI tools, testing his hypothesis that AI is weak at non-pattern work. He documents where Claude Code helps and where it struggles.",
+      "why": "Pointed to as a non-promotional, realistic long session of an experienced engineer working with AI on non-trivial code.",
+      "score": 2.0,
+      "tags": [
+        "vibe coding",
+        "claude code",
+        "rust",
+        "agentic ai",
+        "livecoding"
+      ],
+      "categories": [
+        "llms-generative-ai",
+        "systems-programming-languages",
+        "software-practice-careers"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1UXYXzYEkZ",
+          "page": 1,
+          "cid": 31853907383,
+          "title": "【中字】使用 Vibe Coding 完成 Rust 代码库中的复杂需求",
+          "up": "_7sDream_",
+          "duration": 10748,
+          "kind": "sub_zh",
+          "views": 1931,
+          "pic": "https://i2.hdslb.com/bfs/archive/038f136f4ffb0559c85c6632f206b0bf2fd583f6.jpg",
+          "checked_at": "2026-11-06T06:21:19.214642+00:00"
         }
       ]
     },
@@ -30119,6 +30698,144 @@
           "views": 18,
           "pic": "https://i0.hdslb.com/bfs/archive/85da1a8b8db988fa3c7386977464578e4842039a.jpg",
           "checked_at": "2026-11-06T03:05:28.569860+00:00"
+        }
+      ]
+    },
+    {
+      "id": "HA7GwKXfJB0",
+      "title": "Sebastian Seung: I am my connectome",
+      "author": "TED",
+      "source_url": "https://www.youtube.com/watch?v=HA7GwKXfJB0",
+      "summary": "Sebastian Seung's TED talk introduces the connectome, the map of neural connections he argues defines each person. He explains how mapping it could change how we understand brains and minds.",
+      "why": "HN links it as an accessible visual explanation of the problem of mapping brain connectivity.",
+      "score": 2.0,
+      "tags": [
+        "neuroscience",
+        "brain mapping",
+        "ted",
+        "neurons",
+        "sebastian seung"
+      ],
+      "categories": [
+        "neuroscience-brain",
+        "consciousness-mind"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1E4411C7ao",
+          "page": 1,
+          "cid": 116243417,
+          "title": "【ted】我是我的连接体",
+          "up": "toknow",
+          "duration": 1355,
+          "kind": "original",
+          "views": 1824,
+          "pic": "https://i0.hdslb.com/bfs/archive/6e63c36bb668e76762cb7093102be196f067081f.jpg",
+          "checked_at": "2026-11-06T06:36:27.914068+00:00"
+        }
+      ]
+    },
+    {
+      "id": "HipTO_7mUOw",
+      "title": "Slaughterbots",
+      "author": "Future of Life Institute",
+      "source_url": "https://www.youtube.com/watch?v=HipTO_7mUOw",
+      "summary": "An 8-minute fictional short film, made by campaigners for a ban on autonomous weapons, depicting swarms of cheap AI-guided micro-drones used to kill targeted people. It ends with a call to action against autonomous weapons.",
+      "why": "HN cites it whenever drone swarms or autonomous weapons come up, as a dramatized warning that now feels increasingly plausible.",
+      "score": 2.0,
+      "tags": [
+        "slaughterbots",
+        "killer drones",
+        "ai safety",
+        "drone swarms",
+        "short film"
+      ],
+      "categories": [
+        "ai-safety-impact",
+        "robotics",
+        "military-warfare"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1FW411h7vD",
+          "page": 1,
+          "cid": 28645556,
+          "title": "Slaughterbots",
+          "up": "Suwei186",
+          "duration": 468,
+          "kind": "original",
+          "views": 788,
+          "pic": "https://i0.hdslb.com/bfs/archive/d3849c5767c0431553d0de41ac918185e49c400c.jpg",
+          "checked_at": "2026-11-06T06:39:01.291395+00:00"
+        }
+      ]
+    },
+    {
+      "id": "I6IQ_FOCE6I",
+      "title": "Here Comes Another Bubble v1.1 - The Richter Scales",
+      "author": "TheRichterScales",
+      "source_url": "https://www.youtube.com/watch?v=I6IQ_FOCE6I",
+      "summary": "A cappella parody song by The Richter Scales, set to Billy Joel's 'We Didn't Start the Fire', lampooning the Web 2.0 startup bubble. It won a Webby for viral video in 2007.",
+      "why": "Resurfaces in threads on startups, valuations and hype cycles as a funny, prescient bubble satire.",
+      "score": 2.0,
+      "tags": [
+        "web 2.0",
+        "parody song",
+        "tech bubble",
+        "startups",
+        "facebook valuation"
+      ],
+      "categories": [
+        "satire-parody",
+        "music-performance",
+        "tech-industry-business"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ss411V7s9",
+          "page": 1,
+          "cid": 44867005,
+          "title": "Here Comes Another Bubble v1.1 另一个网络泡沫-中字版",
+          "up": "Wubalubadubdub-",
+          "duration": 166,
+          "kind": "sub_zh",
+          "views": 239,
+          "pic": "https://i1.hdslb.com/bfs/archive/62cdee1cedcb1ad753716fcf50f4f433138a9b7e.jpg",
+          "checked_at": "2026-11-06T06:40:41.750706+00:00"
+        }
+      ]
+    },
+    {
+      "id": "IQJL3htsDyQ",
+      "title": "Can You Fool A Self Driving Car?",
+      "author": "Mark Rober",
+      "source_url": "https://www.youtube.com/watch?v=IQJL3htsDyQ",
+      "summary": "Mark Rober tests whether self-driving cars can be fooled, comparing a lidar-equipped car with a camera-only Tesla in scenarios including a painted Wile E. Coyote wall and smoke.",
+      "why": "HN uses it as the reference demonstration in lidar versus camera debates, though some critics fault its methodology and style.",
+      "score": 2.0,
+      "tags": [
+        "lidar",
+        "tesla autopilot",
+        "self-driving",
+        "sensor testing",
+        "mark rober"
+      ],
+      "categories": [
+        "self-driving-cars",
+        "everyday-physics-demos"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1fTM6zEERn",
+          "page": 1,
+          "cid": 30482694374,
+          "title": "Can You Fool A Self Driving Car? [Mark Rober]",
+          "up": "vector090_",
+          "duration": 1134,
+          "kind": "original",
+          "views": 1371,
+          "pic": "https://i0.hdslb.com/bfs/archive/32551f17b236578f5c45cccfda9c2e8ee5a29746.jpg",
+          "checked_at": "2026-11-06T06:42:14.682446+00:00"
         }
       ]
     },
@@ -31097,6 +31814,41 @@
       ]
     },
     {
+      "id": "2z5A-COlDPk",
+      "title": "Why it's not possible to synchronize turn signals (but also absolutely is)",
+      "author": "Technology Connections",
+      "source_url": "https://www.youtube.com/watch?v=2z5A-COlDPk",
+      "summary": "Technology Connections explains why car turn signals appear to drift out of sync at stoplights and how thermal and other flasher designs work. It also covers how synchronization could be achieved.",
+      "why": "Referenced as a typical example of the channel's hacker-eye view of everyday technology, and for its flasher explanation.",
+      "score": 1.5,
+      "tags": [
+        "turn signals",
+        "flasher relays",
+        "automotive",
+        "electronics",
+        "technology connections"
+      ],
+      "categories": [
+        "automotive-ev",
+        "electronics-circuits",
+        "mechanical-engineering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1PQ4y1q7uF",
+          "page": 1,
+          "cid": 426442954,
+          "title": "【熟肉】【Technology Connections】为啥转向灯压根就没法同步",
+          "up": "墨枫梧桐_BA7MQN",
+          "duration": 2236,
+          "kind": "sub_zh",
+          "views": 1489,
+          "pic": "https://i1.hdslb.com/bfs/archive/076479957854e43fbf7bd437f6284c89924ce4aa.jpg",
+          "checked_at": "2026-11-06T06:43:40.275770+00:00"
+        }
+      ]
+    },
+    {
       "id": "AxnotgLql0k",
       "title": "'Fastware' - Andrei Alexandrescu [ ACCU 2016 ]",
       "author": "ACCU Conference",
@@ -31460,6 +32212,18 @@
           "views": 33535,
           "pic": "https://i2.hdslb.com/bfs/archive/106b72a4e6611fc396e4c2317e68d708cd6d55fb.jpg",
           "checked_at": "2026-11-06T01:25:57.699500+00:00"
+        },
+        {
+          "bvid": "BV1wb411b7KZ",
+          "page": 1,
+          "cid": 78567395,
+          "title": "Joe Rogan Experience #1169 - Elon Musk马斯克采访",
+          "up": "dhshhsu",
+          "duration": 9423,
+          "kind": "original",
+          "views": 4521,
+          "pic": "https://i1.hdslb.com/bfs/archive/6a734cb2453410abde720f93c5b1a285b34e5a65.jpg",
+          "checked_at": "2026-11-06T06:06:47.092678+00:00"
         },
         {
           "bvid": "BV1St41147HX",
@@ -31836,6 +32600,40 @@
           "views": 456,
           "pic": "https://i0.hdslb.com/bfs/archive/dc5311166223ba5f26703bb2f60795b26122fab5.jpg",
           "checked_at": "2026-11-05T01:46:29.422938+00:00"
+        }
+      ]
+    },
+    {
+      "id": "IJEaMtNN_dM",
+      "title": "The Hidden Rules of Conversation",
+      "author": "Tom Scott",
+      "source_url": "https://www.youtube.com/watch?v=IJEaMtNN_dM",
+      "summary": "Tom Scott explains Gricean maxims, the unwritten guidelines that shape how we understand each other. He uses examples such as why 'asbestos-free cereal' sounds suspicious.",
+      "why": "HN uses it as a short, clear explanation of implied meaning in conversation and the cooperative principle.",
+      "score": 1.0,
+      "tags": [
+        "gricean maxims",
+        "linguistics",
+        "implicature",
+        "communication",
+        "cooperative principle"
+      ],
+      "categories": [
+        "language-linguistics",
+        "psychology-behavior"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1vryLB1E5H",
+          "page": 1,
+          "cid": 34097989479,
+          "title": "【中配】对话的隐藏规则：格莱斯准则解析 - Tom Scott",
+          "up": "黑纹白斑马",
+          "duration": 311,
+          "kind": "dub_zh",
+          "views": 421,
+          "pic": "https://i0.hdslb.com/bfs/archive/3d8298d07a4da34bf4733d01b2629268f5955e77.png",
+          "checked_at": "2026-11-06T06:43:33.655057+00:00"
         }
       ]
     },
@@ -32469,6 +33267,41 @@
           "views": 159,
           "pic": "https://i0.hdslb.com/bfs/archive/bc36b1de3637e2ef3e69512c6776d313890d2c9a.jpg",
           "checked_at": "2026-11-04T23:03:56.323351+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hWTFG3J1CP8",
+      "title": "Complete History Of The Soviet Union, Arranged To The Melody Of Tetris",
+      "author": "pigwiththefaceofaboy",
+      "source_url": "https://www.youtube.com/watch?v=hWTFG3J1CP8",
+      "summary": "A song by Pig With The Face Of A Boy that narrates the history of the Soviet Union from a worker's view, set to the Tetris melody.",
+      "why": "HN posts it as a clever, catchy musical joke whenever Tetris or Soviet history comes up.",
+      "score": 1.0,
+      "tags": [
+        "tetris",
+        "soviet union",
+        "korobeiniki",
+        "novelty song",
+        "history"
+      ],
+      "categories": [
+        "satire-parody",
+        "music-performance",
+        "world-history"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1jW411q7xd",
+          "page": 1,
+          "cid": 29838345,
+          "title": "用俄罗斯方块唱出苏联历史【简中字幕】",
+          "up": "扎姆",
+          "duration": 408,
+          "kind": "sub_zh",
+          "views": 38966,
+          "pic": "https://i0.hdslb.com/bfs/archive/0f67fabc05e599bc3d8a8743f9422dc7232c15b3.jpg",
+          "checked_at": "2026-11-06T06:43:43.684322+00:00"
         }
       ]
     },
@@ -35357,15 +36190,38 @@
     "BV1ix411U7Ei": "5tu32CCA_Ig",
     "BV1Zs411R7vo": "63vqob-MljQ",
     "BV17e411x7Ru": "6Af6b_wyiwI",
+    "BV1B741157N3": "6Af6b_wyiwI",
+    "BV1Cb411278y": "6b4ZZQkcNEo",
     "BV1f7411v75L": "7W33HRc1A6c",
+    "BV1Bm4y117QG": "8T6ClX-y2AE",
     "BV1Ts411g7Fj": "8kUQWuK1L4w",
+    "BV1Tz4y1U73L": "8xFLjUt2leM",
+    "BV1Cm4y1B7s3": "9-jIplX6Wjw",
+    "BV1ov2DBWESM": "9U0XVdvQwAI",
+    "BV157411275m": "9U0XVdvQwAI",
+    "BV1eE411B7wY": "9ZX_XCYokQo",
     "BV1954y1D7jk": "9qi03QawZEk",
+    "BV1PS4y1L7fH": "A-fxij3zM7g",
     "BV1es411p7qb": "A0FZIwabctw",
+    "BV1T7411z7cw": "A2zKARkpDW4",
+    "BV1X4411n7RB": "A3oIiH7BLmg",
+    "BV1tN411f7ha": "AI4ynXzkSQo",
+    "BV13t411N7mk": "AI4ynXzkSQo",
     "BV1QW411G74H": "AUaJ8pDlxi8",
+    "BV1b14y1j7jM": "AcQifPHcMLE",
     "BV1sF411w7AH": "AcS3NOQnsQM",
+    "BV1GjpTeREB9": "CPLdltN7wgE",
+    "BV1Jb41187rv": "Cwas_7H5KUs",
+    "BV1z4411A7PJ": "CxHa5KaMBcM",
+    "BV18x411C7PH": "DKtVpvzUF1Y",
+    "BV1UXYXzYEkZ": "EL7Au1tzNxE",
     "BV12u4y1t7Lx": "Eg_ToU7m1MI",
     "BV1sa4y1t7SX": "FquNpWdf9vg",
     "BV1Nttd6zESv": "H1KP4ztKK0A",
+    "BV1E4411C7ao": "HA7GwKXfJB0",
+    "BV1FW411h7vD": "HipTO_7mUOw",
+    "BV1ss411V7s9": "I6IQ_FOCE6I",
+    "BV1fTM6zEERn": "IQJL3htsDyQ",
     "BV1Ex421S7kn": "LKiBlGDfRU8",
     "BV18C41157za": "LKiBlGDfRU8",
     "BV1Bm411B7Mp": "OTVE5iPMKLg",
@@ -35396,6 +36252,7 @@
     "BV1pEf2YWEja": "wOlcB-JxkFw",
     "BV1Xx411L7cG": "0lvMgMrNDlg",
     "BV1NU4y1o7FQ": "2B-XwPjn9YY",
+    "BV1PQ4y1q7uF": "2z5A-COlDPk",
     "BV1LY411Y7Wb": "AxnotgLql0k",
     "BV1ZE41157iN": "Kas0tIxDvrg",
     "BV1u6CGBdE3m": "Kas0tIxDvrg",
@@ -35408,6 +36265,7 @@
     "BV17vTg6yEvo": "l4w6808wJcU",
     "BV1azSkBhEAB": "mfv0V1SxbNA",
     "BV1yM4y1F7MT": "ycPr5-27vSI",
+    "BV1wb411b7KZ": "ycPr5-27vSI",
     "BV1St41147HX": "ycPr5-27vSI",
     "BV12Y4y1z7xs": "ycPr5-27vSI",
     "BV1ya4y1L7VN": "-ZDZtBRTyeI",
@@ -35421,6 +36279,7 @@
     "BV1gq4y1U7xN": "CBrj4S24074",
     "BV1Uw4m1r7Vd": "GwzN5YwMzv0",
     "BV15V4y1E7mu": "GwzN5YwMzv0",
+    "BV1vryLB1E5H": "IJEaMtNN_dM",
     "BV1wS411P75S": "JOiGEI9pQBs",
     "BV1J6dvBME8Y": "LCEmiRjPEtQ",
     "BV1Jv411A79R": "NiTsduRreug",
@@ -35441,6 +36300,7 @@
     "BV1kZ4y1g7MC": "h4T_LlK1VE4",
     "BV1Tz4y1r763": "h4T_LlK1VE4",
     "BV1feMt6wEvk": "hBMoPUAeLnY",
+    "BV1jW411q7xd": "hWTFG3J1CP8",
     "BV1bU79zcEZ7": "ipRvjS7q1DI",
     "BV1tChwzSEXq": "iv-5mZ_9CPY",
     "BV1iqUKBwEKd": "iv-5mZ_9CPY",
