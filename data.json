@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-07T15:12:05.431166+00:00",
+  "built_at": "2026-11-07T16:08:31.848496+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5117,
-    "confirmed": 1076,
-    "coverage": 0.16671831422373723,
-    "processed_match_rate": 0.2102794606214579
+    "processed": 5163,
+    "confirmed": 1080,
+    "coverage": 0.16733808490858382,
+    "processed_match_rate": 0.20918070889018012
   },
   "areas": [
     {
@@ -41158,6 +41158,75 @@
       ]
     },
     {
+      "id": "CMdHDHEuOUE",
+      "title": "Google and NASA's Quantum Artificial Intelligence Lab",
+      "author": "Google",
+      "source_url": "https://www.youtube.com/watch?v=CMdHDHEuOUE",
+      "summary": "A short Google video introducing the Quantum AI Lab, a partnership between Google, NASA, USRA and a 512-qubit D-Wave Two quantum computer. It covers the lab's early goals and some potential applications of quantum computing.",
+      "why": "HN mostly cites it as a reference for the Google/NASA/D-Wave partnership and as a basic intro to quantum computing's potential.",
+      "score": 0.0,
+      "tags": [
+        "quantum ai lab",
+        "d-wave",
+        "google",
+        "nasa",
+        "quantum computing"
+      ],
+      "categories": [
+        "quantum-computing",
+        "tech-company-stories"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Yx411k7un",
+          "page": 1,
+          "cid": 15593161,
+          "title": "【中英字幕】Google and NASA's Quantum Artificial Intelligence Lab",
+          "up": "Asasahi",
+          "duration": 389,
+          "kind": "sub_zh",
+          "views": 379,
+          "pic": "https://i2.hdslb.com/bfs/archive/0a192e9d1c5505fb5ab7e044af13196458a8574e.jpg",
+          "checked_at": "2026-11-07T15:30:53.594380+00:00"
+        }
+      ]
+    },
+    {
+      "id": "CZ3wIuvmHeM",
+      "title": "Mastering Chaos - A Netflix Guide to Microservices",
+      "author": "InfoQ",
+      "source_url": "https://www.youtube.com/watch?v=CZ3wIuvmHeM",
+      "summary": "A QCon talk from Netflix on running a large microservices architecture and building resilience into it. It touches on tooling such as Hystrix and circuit breakers.",
+      "why": "Mentioned as a real-world example that microservices can work at scale, though commenters are lukewarm and unsure it matches what they remember.",
+      "score": 0.0,
+      "tags": [
+        "netflix",
+        "microservices",
+        "resilience",
+        "qcon",
+        "distributed systems"
+      ],
+      "categories": [
+        "software-architecture-design",
+        "distributed-systems",
+        "cloud-devops-sre"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1DM4y1f7xF",
+          "page": 1,
+          "cid": 1016665365,
+          "title": "Mastering Chaos - A Netflix Guide to Microservices",
+          "up": "dailyrain",
+          "duration": 3194,
+          "kind": "original",
+          "views": 18,
+          "pic": "https://i2.hdslb.com/bfs/archive/f8f2a3044ce98496776dfa7cab3767ad2d4f3c4a.jpg",
+          "checked_at": "2026-11-07T15:39:20.221764+00:00"
+        }
+      ]
+    },
+    {
       "id": "C_78DM8fG6E",
       "title": "The Inside Story of ChatGPT’s Astonishing Potential | Greg Brockman | TED",
       "author": "TED",
@@ -41188,6 +41257,74 @@
           "views": 291,
           "pic": "https://i1.hdslb.com/bfs/archive/b48106369f71870836be9a86bb953b60ace2e702.jpg",
           "checked_at": "2026-11-07T05:27:34.219629+00:00"
+        }
+      ]
+    },
+    {
+      "id": "CzwtCBj5jEs",
+      "title": "LGR Oddware - MiniDisc Data Storage: Sony MDH-10",
+      "author": "LGR",
+      "source_url": "https://www.youtube.com/watch?v=CzwtCBj5jEs",
+      "summary": "An LGR Oddware episode looking at Sony's MDH-10 MD Data drive from 1995, which used MiniDisc for computer storage years before Hi-MD. The host tries out the drive with its original drivers and software.",
+      "why": "HN cites it as the go-to video on the little-known MD Data format, mostly in MiniDisc and obsolete-media threads.",
+      "score": 0.0,
+      "tags": [
+        "minidisc",
+        "md data",
+        "sony",
+        "retro hardware",
+        "lgr oddware"
+      ],
+      "categories": [
+        "hardware-other",
+        "history-of-computing",
+        "audio-video-engineering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1bbaT6EETt",
+          "page": 1,
+          "cid": 42171304827,
+          "title": "[LGR] LGR Oddware - MiniDisc数据存储: 索尼MDH-10",
+          "up": "明月_sxdxud",
+          "duration": 975,
+          "kind": "original",
+          "views": 694,
+          "pic": "https://i0.hdslb.com/bfs/archive/65113b0f8cbb2bafdb49c0a88d5aae44d6bd17c9.jpg",
+          "checked_at": "2026-11-07T15:43:52.981520+00:00"
+        }
+      ]
+    },
+    {
+      "id": "D2SoGHFM18I",
+      "title": "Fox Dives Headfirst Into Snow | North America",
+      "author": "Discovery",
+      "source_url": "https://www.youtube.com/watch?v=D2SoGHFM18I",
+      "summary": "A short Discovery nature clip from North America showing a red fox listening for field mice under the snow and then diving headfirst to catch them. The narration says the fox uses its hearing and the Earth's magnetic field to aim its jump.",
+      "why": "HN commenters cite the footage as anecdotal evidence in threads about animals sensing the Earth's magnetic field, and for the head-tilt listening behavior.",
+      "score": 0.0,
+      "tags": [
+        "red fox",
+        "magnetic field",
+        "hunting",
+        "animal behavior",
+        "nature footage"
+      ],
+      "categories": [
+        "animals-nature"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Dx411V7Ut",
+          "page": 1,
+          "cid": 27049473,
+          "title": "Fox Dives Headfirst Into Snow - North America",
+          "up": "夜腾NONO",
+          "duration": 168,
+          "kind": "original",
+          "views": 160,
+          "pic": "https://i1.hdslb.com/bfs/archive/8d191922664f9fcb3ff29604a52ce4f76cbb3d5d.jpg",
+          "checked_at": "2026-11-07T15:45:58.558157+00:00"
         }
       ]
     },
@@ -43648,7 +43785,11 @@
     "BV1sdypBJEyC": "BYVZh5kqaFg",
     "BV11w2bBqE7m": "C2vgICfQawE",
     "BV183411k7eb": "C2vgICfQawE",
+    "BV1Yx411k7un": "CMdHDHEuOUE",
+    "BV1DM4y1f7xF": "CZ3wIuvmHeM",
     "BV1uc411H7aT": "C_78DM8fG6E",
+    "BV1bbaT6EETt": "CzwtCBj5jEs",
+    "BV1Dx411V7Ut": "D2SoGHFM18I",
     "BV15WHf67Ebf": "DxREm3s1scA",
     "BV1CwEi6pErc": "EIyixC9NsLI",
     "BV1Eq4y1w7u5": "HKTSaezB4p8",

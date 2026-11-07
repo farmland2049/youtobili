@@ -1,0 +1,89 @@
+{
+  "checked_at": "2026-11-07T16:09:01.284Z",
+  "checks": [
+    {
+      "sample": "CMdHDHEuOUE",
+      "kind": "sub_zh",
+      "id": "CMdHDHEuOUE",
+      "bvid": "BV1Yx411k7un",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.675972,
+        "duration": 389,
+        "paused": false
+      },
+      "expected_duration": 389,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "15593161"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【中英字幕】Google and NASA's Quantum Artificial Intelligence Lab\nAsasahi\n关注\n5\n3\n分享\n更多\n00:04 / 06:29\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "CZ3wIuvmHeM",
+      "kind": "original",
+      "id": "CZ3wIuvmHeM",
+      "bvid": "BV1DM4y1f7xF",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.254241,
+        "duration": 3194,
+        "paused": false
+      },
+      "expected_duration": 3194,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1016665365"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Mastering Chaos - A Netflix Guide to Microservices\ndailyrain\n关注\n0\n0\n分享\n更多\n00:05 / 53:14\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "CzwtCBj5jEs",
+      "kind": "original",
+      "id": "CzwtCBj5jEs",
+      "bvid": "BV1bbaT6EETt",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.944181,
+        "duration": 975,
+        "paused": false
+      },
+      "expected_duration": 975,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "42171304827"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "[LGR] LGR Oddware - MiniDisc数据存储: 索尼MDH-10\n明月_sxdxud\n关注\n27\n1\n分享\n更多\n00:04 / 16:15\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "D2SoGHFM18I",
+      "kind": "original",
+      "id": "D2SoGHFM18I",
+      "bvid": "BV1Dx411V7Ut",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.279757,
+        "duration": 169,
+        "paused": false
+      },
+      "expected_duration": 168,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "27049473"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Fox Dives Headfirst Into Snow - North America\n夜腾NONO\n关注\n2\n2\n分享\n更多\n00:05 / 02:49\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}
