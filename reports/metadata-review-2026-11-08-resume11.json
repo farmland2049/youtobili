@@ -1,0 +1,31 @@
+{
+  "reviewed_at": "2026-11-08",
+  "batch_id": "20261107T194346Z",
+  "review_count": 1,
+  "content_level_frame_comparison": false,
+  "items": [
+    {
+      "youtube_id": "KnIAAkSNtqo",
+      "youtube_title": "2017/05/17: Senate hearing on Bill C16",
+      "youtube_duration": 3609,
+      "source_api_snapshot_sha256": "4cb5f5fc05289940e43c052fd9a41a6c6a070f0a39634739f56126b70ba5ca51",
+      "bvid": "BV1Lp4y1j7BZ",
+      "page": 1,
+      "bilibili_title": "2017/05/17: Senate hearing on Bill C16",
+      "segment_title": "2017/05/17: Senate hearing on Bill C16",
+      "page_count": 1,
+      "identity_evidence": "description_contains_exact_youtube_url",
+      "description_contains_original_id": true,
+      "description_sha256": "63d619fe4039c980eec489e3fa2dd23d0be44970797f3fc4beb3c99e91e9b24a",
+      "detail_snapshot_sha256": "ceb4486f1730e647f7b98b39fa91761042e07e3059c8845a82fe27e5b80ab45d",
+      "duration": 3609,
+      "duration_difference_seconds": 0,
+      "cid": 1262877700,
+      "kind": "original",
+      "playback_passed": true,
+      "cid_observed": true,
+      "player_duration_matches": true,
+      "player_duration_seconds": 3609
+    }
+  ]
+}

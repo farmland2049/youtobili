@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T19:41:33.340423+00:00",
+  "updated_at": "2026-11-07T19:48:04.094451+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -67451,6 +67451,54 @@
     },
     "Km5XQxRrQvw": {
       "vid": "Km5XQxRrQvw",
+      "status": "review",
+      "completed_at": null,
+      "candidates": []
+    },
+    "KnIAAkSNtqo": {
+      "vid": "KnIAAkSNtqo",
+      "status": "confirmed",
+      "completed_at": "2026-11-07T19:44:06.625407+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Lp4y1j7BZ",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "2017/05/17: Senate hearing on Bill C16",
+          "up": "JordanBPeterson",
+          "duration": 3609,
+          "original_duration": 3609,
+          "cid": 1262877700,
+          "aid": 958365229,
+          "segment_title": "2017/05/17: Senate hearing on Bill C16",
+          "page_count": 1,
+          "kind": "original",
+          "views": 205,
+          "pic": "https://i1.hdslb.com/bfs/archive/a96461fc06f8db7d12cd5aeeabd12b1fae6a27a2.jpg",
+          "checked_at": "2026-11-07T19:44:05.340094+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "KodqIPMbyUg": {
+      "vid": "KodqIPMbyUg",
+      "status": "review",
+      "completed_at": "2026-11-07T19:45:44.378608+00:00",
+      "candidates": []
+    },
+    "KpPE85Jogjw": {
+      "vid": "KpPE85Jogjw",
+      "status": "review",
+      "completed_at": "2026-11-07T19:47:02.465196+00:00",
+      "candidates": []
+    },
+    "Kr7AONv3FSg": {
+      "vid": "Kr7AONv3FSg",
       "status": "review",
       "completed_at": null,
       "candidates": []

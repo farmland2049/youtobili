@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-07T19:41:33.316555+00:00",
+  "built_at": "2026-11-07T19:48:04.063942+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5339,
-    "confirmed": 1090,
-    "coverage": 0.16888751162070034,
-    "processed_match_rate": 0.2041580820378348
+    "processed": 5342,
+    "confirmed": 1091,
+    "coverage": 0.169042454291912,
+    "processed_match_rate": 0.20423062523399477
   },
   "areas": [
     {
@@ -41806,6 +41806,40 @@
       ]
     },
     {
+      "id": "KnIAAkSNtqo",
+      "title": "2017/05/17: Senate hearing on Bill C16",
+      "author": "Jordan B Peterson",
+      "source_url": "https://www.youtube.com/watch?v=KnIAAkSNtqo",
+      "summary": "Jordan Peterson's testimony at the Canadian Senate hearing on Bill C16, which added gender identity and expression to protected grounds. He argues against compelled speech.",
+      "why": "Referenced as the hearing that propelled Peterson to public visibility and as a source on the compelled speech debate.",
+      "score": 0.0,
+      "tags": [
+        "jordan peterson",
+        "canada",
+        "senate",
+        "compelled speech",
+        "gender identity"
+      ],
+      "categories": [
+        "free-speech-censorship",
+        "law-policing-justice"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Lp4y1j7BZ",
+          "page": 1,
+          "cid": 1262877700,
+          "title": "2017/05/17: Senate hearing on Bill C16",
+          "up": "JordanBPeterson",
+          "duration": 3609,
+          "kind": "original",
+          "views": 205,
+          "pic": "https://i1.hdslb.com/bfs/archive/a96461fc06f8db7d12cd5aeeabd12b1fae6a27a2.jpg",
+          "checked_at": "2026-11-07T19:44:05.340094+00:00"
+        }
+      ]
+    },
+    {
       "id": "L1UgdoP2aeg",
       "title": "Inside the Lab Where Robots Run Their Own Experiments",
       "author": "Seeker",
@@ -44143,6 +44177,7 @@
     "BV1Yi4y1f7Nc": "ISznqY3kESI",
     "BV17D4y1D7ym": "KEkrWRHCDQU",
     "BV1g4411U72J": "KYbM-3E11Qo",
+    "BV1Lp4y1j7BZ": "KnIAAkSNtqo",
     "BV1kT4y177EA": "L1UgdoP2aeg",
     "BV16s4y1S7To": "L_Guz73e6fw",
     "BV1ct411N7eR": "Lp7E973zozc",
