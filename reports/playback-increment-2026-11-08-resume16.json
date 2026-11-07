@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-11-07T22:35:44.701Z",
+  "checks": [
+    {
+      "sample": "kJQP7kiw5Fk",
+      "kind": "original",
+      "id": "kJQP7kiw5Fk",
+      "bvid": "BV1XbfHYzEqD",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.299054,
+        "duration": 282,
+        "paused": false
+      },
+      "expected_duration": 282,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "28051442231"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Luis Fonsi - Despacito ft. Daddy Yankee\n极光海外音乐\n关注\n2\n0\n分享\n更多\n00:05 / 04:42\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "lUQ_0MubbcM",
+      "kind": "original",
+      "id": "lUQ_0MubbcM",
+      "bvid": "BV1rw411C7Va",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.950202,
+        "duration": 461,
+        "paused": false
+      },
+      "expected_duration": 461,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1304309417"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "乔姆斯基：为什么美国支持以色列？Noam Chomsky - Why Does the U.S. Support Israel\n骗流量的频道\n关注\n55\n16\n分享\n更多\n00:04 / 07:41\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "N5xfBtD6rLY",
+      "kind": "sub_zh",
+      "id": "N5xfBtD6rLY",
+      "bvid": "BV1Fd4y1c7Ti",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.290076,
+        "duration": 923,
+        "paused": false
+      },
+      "expected_duration": 923,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "890404134"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【中英双字】美国如何利用流行文化征兵（Pop Culture Detective）\nxiachenqiudong\n关注\n17\n1\n分享\n更多\n00:05 / 15:23\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

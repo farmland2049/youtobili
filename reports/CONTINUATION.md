@@ -133,4 +133,8 @@
 
 ## 2026-11-08 恢复后增量十六
 
-批次 `20261107T220820Z` 串行处理20条后，在第21次尝试 `NMQv0j29WHA` 时遇到 `URLError` 并停止；此前完成20条，3条确认、18条待审，另29条未处理，0条自动重试。该ID已加入本机阻塞清单，累计73条；请求错误不表示视频失效。`--primary-first` 暂缓12个较低优先级版本，仍需后续补查。当前工作库进度5415/6454，确认1114。批次回执保存在本机 `data/work/batches/20261107T220820Z.json`；下一批须先重新运行搜索健康检查并继续排除该ID。
+批次 `20261107T220820Z` 串行处理20条后，在第21次尝试 `NMQv0j29WHA` 时遇到 `URLError` 并停止；此前完成20条，3条确认、18条待审，另29条未处理，0条自动重试。该ID已加入本机阻塞清单，累计73条；请求错误不表示视频失效。`--primary-first` 暂缓12个较低优先级版本，仍需后续补查。当前工作库进度5415/6454，确认1114。批次回执保存在本机 `data/work/batches/20261107T220820Z.json`。
+
+本轮新增确认版本：`kJQP7kiw5Fk` → `BV1XbfHYzEqD`（Despacito，282秒）、`lUQ_0MubbcM` → `BV1rw411C7Va`（Why Does the U.S. Support Israel，461秒）、`N5xfBtD6rLY` → `BV1Fd4y1c7Ti`（Military Recruitment and Hollywood，923秒）。三条均为单P，完整简介含精确原片链接，元数据时长一致；实播均成功并观察到对应CID与一致时长。快照和简介哈希见 `reports/metadata-review-2026-11-08-resume16.json`，播放器结果见 `reports/playback-increment-2026-11-08-resume16.json`；未做逐帧比较。
+
+构建后共1114张原片卡、1489个确认分P、0个冲突，`data.json` SHA-256 为 `bdfe251e4a937cadebf4de895f0f2d1f569aa93343c5d82d192db420247946d8`。数据校验通过；65项单元测试、Node语法检查、桌面/手机15个浏览器场景及三条实播检查通过。内容推送与Pages线上哈希核验待完成。下一批须先重新运行搜索健康检查并继续排除 `NMQv0j29WHA`。

@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-07T22:04:54.512171+00:00",
+  "built_at": "2026-11-07T22:36:38.909666+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5395,
-    "confirmed": 1111,
-    "coverage": 0.17214130771614503,
-    "processed_match_rate": 0.20593141797961076
+    "processed": 5415,
+    "confirmed": 1114,
+    "coverage": 0.17260613572977998,
+    "processed_match_rate": 0.20572483841181902
   },
   "areas": [
     {
@@ -42655,6 +42655,40 @@
       ]
     },
     {
+      "id": "N5xfBtD6rLY",
+      "title": "Military Recruitment and Hollywood",
+      "author": "Pop Culture Detective",
+      "source_url": "https://www.youtube.com/watch?v=N5xfBtD6rLY",
+      "summary": "Pop Culture Detective examines how the US military works with Hollywood, using the Independence Day sequel's Army recruitment tie-in as the starting point. It looks at the joint marketing between 20th Century Fox and the military.",
+      "why": "Cited in threads about military influence on movies and American cultural exports.",
+      "score": 0.0,
+      "tags": [
+        "military recruitment",
+        "hollywood",
+        "propaganda",
+        "film marketing"
+      ],
+      "categories": [
+        "media-journalism",
+        "film-criticism-analysis",
+        "military-warfare"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Fd4y1c7Ti",
+          "page": 1,
+          "cid": 890404134,
+          "title": "【中英双字】美国如何利用流行文化征兵（Pop Culture Detective）",
+          "up": "xiachenqiudong",
+          "duration": 923,
+          "kind": "sub_zh",
+          "views": 363,
+          "pic": "https://i2.hdslb.com/bfs/archive/0a6ff5f8f10601cf99e3439c2d10521b155a6329.png",
+          "checked_at": "2026-11-07T22:21:47.832154+00:00"
+        }
+      ]
+    },
+    {
       "id": "N9qYF9DZPdw",
       "title": "\"Weird Al\" Yankovic - White & Nerdy (Official 4K Video)",
       "author": "alyankovicVEVO",
@@ -43184,6 +43218,73 @@
           "views": 49,
           "pic": "https://i2.hdslb.com/bfs/archive/59a01ebfe76158c180fbea5a0f975e308eee37e1.jpg",
           "checked_at": "2026-11-07T05:28:16.875252+00:00"
+        }
+      ]
+    },
+    {
+      "id": "kJQP7kiw5Fk",
+      "title": "Luis Fonsi - Despacito ft. Daddy Yankee",
+      "author": "LuisFonsiVEVO",
+      "source_url": "https://www.youtube.com/watch?v=kJQP7kiw5Fk",
+      "summary": "The official music video for Despacito by Luis Fonsi featuring Daddy Yankee, a Latin pop hit that became the most viewed video in YouTube history.",
+      "why": "Mentioned as a view-count record holder and as a sample of protected media for downloader and encoder discussions.",
+      "score": 0.0,
+      "tags": [
+        "despacito",
+        "latin pop",
+        "music video",
+        "youtube views"
+      ],
+      "categories": [
+        "music-performance",
+        "internet-culture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1XbfHYzEqD",
+          "page": 1,
+          "cid": 28051442231,
+          "title": "Luis Fonsi - Despacito ft. Daddy Yankee",
+          "up": "极光海外音乐",
+          "duration": 282,
+          "kind": "original",
+          "views": 437,
+          "pic": "https://i0.hdslb.com/bfs/archive/f4a772a964addacbff23e98f050fe3c47820d657.jpg",
+          "checked_at": "2026-11-07T22:10:30.991478+00:00"
+        }
+      ]
+    },
+    {
+      "id": "lUQ_0MubbcM",
+      "title": "Noam Chomsky - Why Does the U.S. Support Israel?",
+      "author": "Chomsky's Philosophy",
+      "source_url": "https://www.youtube.com/watch?v=lUQ_0MubbcM",
+      "summary": "A short clip of Noam Chomsky explaining why the United States supports Israel, framing it in terms of strategic interests and foreign policy. It is posted by a channel that collects his talks.",
+      "why": "Used as a source for the argument that US support for Israel is systematic and strategic, and for Chomsky's view of Palestine as resistance to colonialism.",
+      "score": 0.0,
+      "tags": [
+        "noam chomsky",
+        "israel",
+        "palestine",
+        "foreign policy",
+        "geopolitics"
+      ],
+      "categories": [
+        "geopolitics-foreign-policy",
+        "us-politics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1rw411C7Va",
+          "page": 1,
+          "cid": 1304309417,
+          "title": "乔姆斯基：为什么美国支持以色列？Noam Chomsky - Why Does the U.S. Support Israel",
+          "up": "骗流量的频道",
+          "duration": 461,
+          "kind": "original",
+          "views": 3760,
+          "pic": "https://i2.hdslb.com/bfs/archive/4fb944f8aae04158b94035f14bb34b844f6c0b20.jpg",
+          "checked_at": "2026-11-07T22:11:21.413250+00:00"
         }
       ]
     },
@@ -44950,6 +45051,7 @@
     "BV1zDvYe6EQ4": "LXb3EKWsInQ",
     "BV16s4y1S7To": "L_Guz73e6fw",
     "BV1ct411N7eR": "Lp7E973zozc",
+    "BV1Fd4y1c7Ti": "N5xfBtD6rLY",
     "BV1bh41117j6": "N9qYF9DZPdw",
     "BV15t411w7rX": "PF7EpEnglgk",
     "BV1SjxYehEhC": "PdFB7q89_3U",
@@ -44967,6 +45069,8 @@
     "BV1gb411V7v1": "iGLzWdT7vGc",
     "BV1ot4y127mw": "iKcWu0tsiZM",
     "BV1MDMzzcEkb": "iWeu2dxHRDg",
+    "BV1XbfHYzEqD": "kJQP7kiw5Fk",
+    "BV1rw411C7Va": "lUQ_0MubbcM",
     "BV1JVWtzDEPJ": "lXUZvyajciY",
     "BV1Xz411B7qQ": "ntIczNQKfjQ",
     "BV1dx41187sz": "o8NPllzkFhE",
