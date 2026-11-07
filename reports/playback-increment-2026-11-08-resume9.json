@@ -1,0 +1,47 @@
+{
+  "checked_at": "2026-11-07T18:48:56.320Z",
+  "checks": [
+    {
+      "sample": "Hrbq66XqtCo",
+      "kind": "original",
+      "id": "Hrbq66XqtCo",
+      "bvid": "BV1XSoDBgEVg",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.738097,
+        "duration": 6193,
+        "paused": false
+      },
+      "expected_duration": 6193,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "37807260392"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "黄仁勋-英伟达的竞争优势能否延续？ Jensen Huang – Will Nvidia’s moat persist\ndtpr\n关注\n8\n0\n分享\n更多\n0:00:04 / 1:43:13\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "ISznqY3kESI",
+      "kind": "original",
+      "id": "ISznqY3kESI",
+      "bvid": "BV1Yi4y1f7Nc",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.255588,
+        "duration": 105,
+        "paused": false
+      },
+      "expected_duration": 105,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "505254418"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "RHex 崎岖地形机器人！！！\n机甲中心\n关注\n2984\n228\n分享\n更多\n00:05 / 01:45\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

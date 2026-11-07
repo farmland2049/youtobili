@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-07T18:03:08.350958+00:00",
+  "built_at": "2026-11-07T18:48:32.299606+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5261,
-    "confirmed": 1086,
-    "coverage": 0.16826774093585373,
-    "processed_match_rate": 0.206424634099981
+    "processed": 5297,
+    "confirmed": 1088,
+    "coverage": 0.16857762627827705,
+    "processed_match_rate": 0.2053992826127997
   },
   "areas": [
     {
@@ -41638,6 +41638,41 @@
       ]
     },
     {
+      "id": "Hrbq66XqtCo",
+      "title": "Jensen Huang – Will Nvidia’s moat persist?",
+      "author": "Dwarkesh Patel",
+      "source_url": "https://www.youtube.com/watch?v=Hrbq66XqtCo",
+      "summary": "Dwarkesh Patel interviews Nvidia CEO Jensen Huang about whether Nvidia's moat will last. Topics include TPU competition, supply chain bottlenecks, selling AI chips to China and Nvidia's investments.",
+      "why": "HN cites it for Huang's own words on TPUs and on opposing export restrictions to China.",
+      "score": 0.0,
+      "tags": [
+        "jensen huang",
+        "nvidia",
+        "tpu",
+        "export controls",
+        "ai chips"
+      ],
+      "categories": [
+        "tech-industry-business",
+        "computer-architecture",
+        "geopolitics-foreign-policy"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1XSoDBgEVg",
+          "page": 1,
+          "cid": 37807260392,
+          "title": "黄仁勋-英伟达的竞争优势能否延续？ Jensen Huang – Will Nvidia’s moat persist",
+          "up": "dtpr",
+          "duration": 6193,
+          "kind": "original",
+          "views": 61,
+          "pic": "https://i1.hdslb.com/bfs/archive/0969752e376c77d1a7d566ecff6f7eede58252d5.jpg",
+          "checked_at": "2026-11-07T18:15:45.919066+00:00"
+        }
+      ]
+    },
+    {
       "id": "IACHfKmZMr8",
       "title": "Vibe Coding Is The Future",
       "author": "Y Combinator",
@@ -41669,6 +41704,38 @@
           "views": 160,
           "pic": "https://i2.hdslb.com/bfs/archive/6f1ec4757dad7b7efe09b4dcbf3a7743cb3cf0cd.jpg",
           "checked_at": "2026-11-07T05:27:34.230381+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ISznqY3kESI",
+      "title": "RHex Rough-Terrain Robot",
+      "author": "Boston Dynamics",
+      "source_url": "https://www.youtube.com/watch?v=ISznqY3kESI",
+      "summary": "A short Boston Dynamics demo of RHex, a 30-lb six-legged robot built for rough terrain, remotely operated with a video uplink and about four hours of battery life. It can run right-side-up or upside-down.",
+      "why": "Mentioned in passing as an example of practical legged robots and as a comparison point for hexapod projects.",
+      "score": 0.0,
+      "tags": [
+        "boston dynamics",
+        "hexapod",
+        "rough terrain",
+        "robotics"
+      ],
+      "categories": [
+        "robotics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Yi4y1f7Nc",
+          "page": 1,
+          "cid": 505254418,
+          "title": "RHex 崎岖地形机器人！！！",
+          "up": "机甲中心",
+          "duration": 105,
+          "kind": "original",
+          "views": 116090,
+          "pic": "https://i0.hdslb.com/bfs/archive/9976a8b0a5fb8775dca3a65bb072d8123031c626.jpg",
+          "checked_at": "2026-11-07T18:31:14.285974+00:00"
         }
       ]
     },
@@ -44005,7 +44072,9 @@
     "BV1DRoQYjE49": "GeCP-0nuziE",
     "BV13a411Y7SN": "H8eP99neOVs",
     "BV1Eq4y1w7u5": "HKTSaezB4p8",
+    "BV1XSoDBgEVg": "Hrbq66XqtCo",
     "BV16CXhYbEhR": "IACHfKmZMr8",
+    "BV1Yi4y1f7Nc": "ISznqY3kESI",
     "BV1kT4y177EA": "L1UgdoP2aeg",
     "BV16s4y1S7To": "L_Guz73e6fw",
     "BV1ct411N7eR": "Lp7E973zozc",
