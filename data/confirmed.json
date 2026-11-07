@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T09:54:24.421147+00:00",
+  "updated_at": "2026-11-07T12:45:18.630783+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -64762,7 +64762,55 @@
     },
     "6yN2H3--1aw": {
       "vid": "6yN2H3--1aw",
-      "status": "unmatched",
+      "status": "review",
+      "completed_at": "2026-11-07T12:42:22.801453+00:00",
+      "candidates": []
+    },
+    "70vYj1KPyT4": {
+      "vid": "70vYj1KPyT4",
+      "status": "review",
+      "completed_at": "2026-11-07T12:43:26.179210+00:00",
+      "candidates": []
+    },
+    "74Ig_QKndvE": {
+      "vid": "74Ig_QKndvE",
+      "status": "confirmed",
+      "completed_at": "2026-11-07T12:43:38.106587+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1VZ4y1i7rb",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Alain Colmerauer，Prolog的探索",
+          "up": "端点市",
+          "duration": 1860,
+          "original_duration": 1860,
+          "cid": 755296842,
+          "aid": 385280643,
+          "segment_title": "Alain Colmerauer，Prolog的探索",
+          "page_count": 1,
+          "kind": "original",
+          "views": 152,
+          "pic": "https://i1.hdslb.com/bfs/archive/eda689b2a0e5906861e7ca9be1977e9b5aa94f66.jpg",
+          "checked_at": "2026-11-07T12:43:36.843599+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "7DTlWPgX6zs": {
+      "vid": "7DTlWPgX6zs",
+      "status": "review",
+      "completed_at": "2026-11-07T12:44:22.140871+00:00",
+      "candidates": []
+    },
+    "7GhAuZH6phs": {
+      "vid": "7GhAuZH6phs",
+      "status": "review",
       "completed_at": null,
       "candidates": []
     }

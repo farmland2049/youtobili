@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-11-07T12:45:38.629Z",
+  "checks": [
+    {
+      "sample": "74Ig_QKndvE",
+      "kind": "original",
+      "id": "74Ig_QKndvE",
+      "bvid": "BV1VZ4y1i7rb",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.744072,
+        "duration": 1860,
+        "paused": false
+      },
+      "expected_duration": 1860,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "755296842"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Alain Colmerauer，Prolog的探索\n端点市\n关注\n4\n0\n分享\n更多\n00:04 / 31:00\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

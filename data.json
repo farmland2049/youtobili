@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-07T09:54:24.397261+00:00",
+  "built_at": "2026-11-07T12:45:18.607650+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5007,
-    "confirmed": 1063,
-    "coverage": 0.16470405949798575,
-    "processed_match_rate": 0.21230277611344117
+    "processed": 5011,
+    "confirmed": 1064,
+    "coverage": 0.1648590021691974,
+    "processed_match_rate": 0.21233286769107962
   },
   "areas": [
     {
@@ -40458,6 +40458,41 @@
       ]
     },
     {
+      "id": "74Ig_QKndvE",
+      "title": "ALAIN COLMERAUER L'AVENTURE PROLOG",
+      "author": "Prolog Heritage",
+      "source_url": "https://www.youtube.com/watch?v=74Ig_QKndvE",
+      "summary": "A French-language documentary on the history of Prolog, created in Marseille by Alain Colmerauer in the early 1970s, with interviews of many people involved. It traces the origins of logic programming and later developments of the language.",
+      "why": "Cited in Prolog threads as a rare documentary on the language's origins, with proper subtitles despite being in French.",
+      "score": 0.0,
+      "tags": [
+        "prolog",
+        "alain colmerauer",
+        "logic programming",
+        "programming history",
+        "constraint programming"
+      ],
+      "categories": [
+        "history-of-computing",
+        "programming-language-design",
+        "logic-formal-methods"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1VZ4y1i7rb",
+          "page": 1,
+          "cid": 755296842,
+          "title": "Alain Colmerauer，Prolog的探索",
+          "up": "端点市",
+          "duration": 1860,
+          "kind": "original",
+          "views": 152,
+          "pic": "https://i1.hdslb.com/bfs/archive/eda689b2a0e5906861e7ca9be1977e9b5aa94f66.jpg",
+          "checked_at": "2026-11-07T12:43:36.843599+00:00"
+        }
+      ]
+    },
+    {
       "id": "7xH7eGFuSYI",
       "title": "Adam Ruins Everything - Why You Should Tell Coworkers Your Salary",
       "author": "truTV",
@@ -43180,6 +43215,7 @@
     "BV1cUaozfEfP": "5YGc4zOqozo",
     "BV13b411p7s7": "5iV_hB08Uns",
     "BV1s5411V7J9": "6WGKz2sUa0w",
+    "BV1VZ4y1i7rb": "74Ig_QKndvE",
     "BV1UZ4y137Ps": "7xH7eGFuSYI",
     "BV1JoBvYKEVL": "8mxubNQC5O8",
     "BV18Ni6YbE8J": "9fa9lVwHHqg",

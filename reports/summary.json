@@ -1,16 +1,15 @@
 {
-  "updated_at": "2026-11-07T09:54:24.369252+00:00",
+  "updated_at": "2026-11-07T12:45:18.579075+00:00",
   "corpus": 6454,
-  "processed": 5007,
-  "confirmed": 1063,
-  "coverage": 0.16470405949798575,
-  "processed_match_rate": 0.21230277611344117,
+  "processed": 5011,
+  "confirmed": 1064,
+  "coverage": 0.1648590021691974,
+  "processed_match_rate": 0.21233286769107962,
   "statuses": {
-    "confirmed": 1063,
-    "review": 3957,
-    "unmatched": 1
+    "confirmed": 1064,
+    "review": 3961
   },
-  "not_processed": 1447,
+  "not_processed": 1443,
   "verification_batch": {
     "id": "2026-11-07T06:47:30.394425+00:00",
     "source": "cached-identity-leads-unseen.json",
@@ -72,27 +71,34 @@
     {
       "vid": "6epzmRZk6UU",
       "reason": "URLError"
+    },
+    {
+      "vid": "7GhAuZH6phs",
+      "reason": "URLError"
     }
   ],
-  "candidates": 170873,
-  "review_expansion_pending": 176,
-  "expanded_reviews": 3781,
+  "candidates": 170987,
+  "review_expansion_pending": 177,
+  "expanded_reviews": 3784,
   "batch": {
-    "id": "20261107T094313Z",
+    "id": "20261107T124214Z",
     "selected": 50,
-    "completed": 6,
-    "errors": [],
+    "completed": 4,
+    "errors": [
+      {
+        "vid": "7GhAuZH6phs",
+        "reason": "URLError"
+      }
+    ],
     "stopped": false,
     "originals": [
-      "6iCPIUGnHQ8",
-      "6kg4vVYKc90",
-      "6lZMr-ZfoE4",
-      "6rbJu10Telc",
-      "6uSVVCmOH5w",
-      "6uvQTTPr9Rw"
+      "6yN2H3--1aw",
+      "70vYj1KPyT4",
+      "74Ig_QKndvE",
+      "7DTlWPgX6zs"
     ],
     "primary_first": true,
-    "deferred_candidates": 0,
+    "deferred_candidates": 6,
     "excluded_originals": [
       "-e1_QhJ1EhQ",
       "05WS0WN7zMQ",
@@ -155,37 +161,39 @@
       "y4sOfO8Ei1g",
       "yg-UqIIvang"
     ],
-    "attempted": 6,
-    "unattempted": 44,
+    "attempted": 5,
+    "unattempted": 45,
     "statuses": {
-      "review": 6
-    }
+      "confirmed": 1,
+      "review": 4
+    },
+    "candidate_count": 145
   },
   "candidate_statuses": {
-    "review": 169432,
-    "confirmed": 1433,
+    "review": 169545,
+    "confirmed": 1434,
     "unmatched": 7,
     "invalid": 1
   },
   "review_reasons": {
     "duration outside tolerance": 86,
-    "no explicit original URL; manual identity review required; conflicting years": 163,
-    "no explicit original URL; manual identity review required": 9547,
+    "no explicit original URL; manual identity review required; conflicting years": 165,
+    "no explicit original URL; manual identity review required": 9551,
     "collection segment identity requires review": 152,
     "no explicit original URL; manual identity review required; collection segment identity requires review": 1538,
     "no explicit original URL; manual identity review required; derivative content requires review": 84,
-    "no explicit original URL; manual identity review required; duration outside tolerance; collection segment identity requires review": 16149,
-    "no explicit original URL; manual identity review required; duration outside tolerance": 26660,
+    "no explicit original URL; manual identity review required; duration outside tolerance; collection segment identity requires review": 16165,
+    "no explicit original URL; manual identity review required; duration outside tolerance": 26667,
     "duration outside tolerance; collection segment identity requires review": 22,
-    "search duration shorter than original beyond tolerance; detail review deferred": 105324,
+    "search duration shorter than original beyond tolerance; detail review deferred": 105396,
     "description links multiple originals": 17,
     "no explicit original URL; manual identity review required; conflicting episode": 11,
-    "no explicit original URL; manual identity review required; conflicting years; duration outside tolerance": 728,
+    "no explicit original URL; manual identity review required; conflicting years; duration outside tolerance": 733,
     "no explicit original URL; manual identity review required; conflicting years; duration outside tolerance; collection segment identity requires review": 547,
     "no explicit original URL; manual identity review required; possibly abridged; collection segment identity requires review": 7,
     "no explicit original URL; manual identity review required; conflicting episode; duration outside tolerance": 46,
     "duration outside tolerance; description links multiple originals": 9,
-    "no explicit original URL; manual identity review required; conflicting years; collection segment identity requires review": 42,
+    "no explicit original URL; manual identity review required; conflicting years; collection segment identity requires review": 45,
     "no explicit original URL; manual identity review required; conflicting years; possibly abridged; duration outside tolerance; collection segment identity requires review": 2,
     "no explicit original URL; manual identity review required; description links multiple originals": 13,
     "no explicit original URL; manual identity review required; derivative content requires review; duration outside tolerance": 94,
@@ -195,11 +203,11 @@
     "no explicit original URL; manual identity review required; possibly abridged": 24,
     "different talk title: C++ atomics vs Read Copy Update": 1,
     "no explicit original URL; manual identity review required; possibly abridged; duration outside tolerance": 55,
-    "no explicit original URL; manual identity review required; possibly abridged; duration outside tolerance; collection segment identity requires review": 73,
+    "no explicit original URL; manual identity review required; possibly abridged; duration outside tolerance; collection segment identity requires review": 74,
     "no explicit original URL; manual identity review required; derivative content requires review; collection segment identity requires review": 5,
     "conflicting episode; duration outside tolerance": 1,
     "no explicit original URL; manual identity review required; derivative content requires review; duration outside tolerance; collection segment identity requires review": 34,
-    "detail review deferred after primary identity confirmed": 7710,
+    "detail review deferred after primary identity confirmed": 7716,
     "no explicit original URL; manual identity review required; conflicting years; possibly abridged; duration outside tolerance": 10,
     "no explicit original URL; manual identity review required; conflicting episode; collection segment identity requires review": 7,
     "possibly abridged": 2,
@@ -217,7 +225,7 @@
     "no explicit original URL; manual identity review required; original duration unavailable; collection segment identity requires review": 5,
     "no explicit original URL; manual identity review required; derivative content requires review; description links multiple originals": 1,
     "request failed; availability unknown": 6,
-    "": 94,
+    "": 91,
     "no explicit original URL; manual identity review required; conflicting years; possibly abridged": 5,
     "no explicit original URL; manual identity review required; conflicting years; conflicting episode; collection segment identity requires review": 2,
     "no explicit original URL; manual identity review required; conflicting years; derivative content requires review": 1

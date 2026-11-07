@@ -1,36 +1,39 @@
 # 匹配进展
 
-更新时间：2026-11-07T09:54:24.369252+00:00
+更新时间：2026-11-07T12:45:18.579075+00:00
 
 - 原片库：6454
-- 完成处理：5007
-- 已确认原片：1063
-- 全库覆盖率：16.47%
+- 完成处理：5011
+- 已确认原片：1064
+- 全库覆盖率：16.49%
 - 已处理原片匹配率：21.23%
-- 状态：{'confirmed': 1063, 'review': 3957, 'unmatched': 1}
+- 状态：{'confirmed': 1064, 'review': 3961}
 
-- 待审中尚需扩大候选检查：176
-- 已扩大检查仍待审核：3781
+- 待审中尚需扩大候选检查：177
+- 已扩大检查仍待审核：3784
 
 ## 最近批次
 
 ```json
 {
-  "id": "20261107T094313Z",
+  "id": "20261107T124214Z",
   "selected": 50,
-  "completed": 6,
-  "errors": [],
+  "completed": 4,
+  "errors": [
+    {
+      "vid": "7GhAuZH6phs",
+      "reason": "URLError"
+    }
+  ],
   "stopped": false,
   "originals": [
-    "6iCPIUGnHQ8",
-    "6kg4vVYKc90",
-    "6lZMr-ZfoE4",
-    "6rbJu10Telc",
-    "6uSVVCmOH5w",
-    "6uvQTTPr9Rw"
+    "6yN2H3--1aw",
+    "70vYj1KPyT4",
+    "74Ig_QKndvE",
+    "7DTlWPgX6zs"
   ],
   "primary_first": true,
-  "deferred_candidates": 0,
+  "deferred_candidates": 6,
   "excluded_originals": [
     "-e1_QhJ1EhQ",
     "05WS0WN7zMQ",
@@ -93,11 +96,13 @@
     "y4sOfO8Ei1g",
     "yg-UqIIvang"
   ],
-  "attempted": 6,
-  "unattempted": 44,
+  "attempted": 5,
+  "unattempted": 45,
   "statuses": {
-    "review": 6
-  }
+    "confirmed": 1,
+    "review": 4
+  },
+  "candidate_count": 145
 }
 ```
 
