@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T13:40:21.907889+00:00",
+  "updated_at": "2026-11-07T14:07:14.192862+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -65086,6 +65086,175 @@
     },
     "9IEFD_JVYd0": {
       "vid": "9IEFD_JVYd0",
+      "status": "review",
+      "completed_at": null,
+      "candidates": []
+    },
+    "9IvnptQJ__U": {
+      "vid": "9IvnptQJ__U",
+      "status": "review",
+      "completed_at": "2026-11-07T13:47:22.703705+00:00",
+      "candidates": []
+    },
+    "9KhZwsYtNDE": {
+      "vid": "9KhZwsYtNDE",
+      "status": "review",
+      "completed_at": "2026-11-07T13:48:05.717806+00:00",
+      "candidates": []
+    },
+    "9KivesLMncs": {
+      "vid": "9KivesLMncs",
+      "status": "confirmed",
+      "completed_at": "2026-11-07T13:48:17.514653+00:00",
+      "candidates": [
+        {
+          "bvid": "BV18a4y1S7pt",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description",
+            "exact original YouTube ID explicitly associated with selected segment"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Alan Kay on Dijkstra",
+          "up": "MathInvoker",
+          "duration": 159,
+          "original_duration": 159,
+          "cid": 1330298511,
+          "aid": 663293216,
+          "segment_title": "Alan Kay on Dijkstra [9KivesLMncs]",
+          "page_count": 1,
+          "kind": "original",
+          "views": 20,
+          "pic": "https://i1.hdslb.com/bfs/archive/c1f2a8b6595c65cec55f3b06dcf9dffb8016c294.jpg",
+          "checked_at": "2026-11-07T13:48:16.279126+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "9LLZBVTid4I": {
+      "vid": "9LLZBVTid4I",
+      "status": "review",
+      "completed_at": "2026-11-07T13:49:31.147458+00:00",
+      "candidates": []
+    },
+    "9T1vfsHYiKY": {
+      "vid": "9T1vfsHYiKY",
+      "status": "confirmed",
+      "completed_at": "2026-11-07T13:49:54.642852+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Lz4y1d7mZ",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【PartyParrot原型】Shagged by a rare parrot",
+          "up": "DrKaja",
+          "duration": 152,
+          "original_duration": 152,
+          "cid": 192580245,
+          "aid": 583232299,
+          "segment_title": "Shagged by a rare parrot _ Last Chance To See - BBC",
+          "page_count": 1,
+          "kind": "original",
+          "views": 2312,
+          "pic": "https://i1.hdslb.com/bfs/archive/3b8edc3e4861ce36f319f7eb4db8d4121abf39cb.jpg",
+          "checked_at": "2026-11-07T13:49:53.362730+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "9TIBeso4abU": {
+      "vid": "9TIBeso4abU",
+      "status": "review",
+      "completed_at": "2026-11-07T13:51:32.054666+00:00",
+      "candidates": []
+    },
+    "9X2A2f6E5DI": {
+      "vid": "9X2A2f6E5DI",
+      "status": "review",
+      "completed_at": "2026-11-07T13:52:03.634336+00:00",
+      "candidates": []
+    },
+    "9abrZwnPThE": {
+      "vid": "9abrZwnPThE",
+      "status": "review",
+      "completed_at": "2026-11-07T13:52:41.100052+00:00",
+      "candidates": []
+    },
+    "9bZkp7q19f0": {
+      "vid": "9bZkp7q19f0",
+      "status": "review",
+      "completed_at": "2026-11-07T13:53:58.641478+00:00",
+      "candidates": []
+    },
+    "9c6W4CCU9M4": {
+      "vid": "9c6W4CCU9M4",
+      "status": "review",
+      "completed_at": "2026-11-07T13:55:36.925027+00:00",
+      "candidates": []
+    },
+    "9eYLtPSf7PY": {
+      "vid": "9eYLtPSf7PY",
+      "status": "review",
+      "completed_at": "2026-11-07T13:55:49.945993+00:00",
+      "candidates": []
+    },
+    "9fbD753xE-U": {
+      "vid": "9fbD753xE-U",
+      "status": "review",
+      "completed_at": "2026-11-07T13:57:12.608186+00:00",
+      "candidates": []
+    },
+    "9jh4Mpgbi4A": {
+      "vid": "9jh4Mpgbi4A",
+      "status": "review",
+      "completed_at": "2026-11-07T13:58:32.250749+00:00",
+      "candidates": []
+    },
+    "9kKp0oguzr8": {
+      "vid": "9kKp0oguzr8",
+      "status": "review",
+      "completed_at": "2026-11-07T14:00:25.391749+00:00",
+      "candidates": []
+    },
+    "9mzPj_IaMzY": {
+      "vid": "9mzPj_IaMzY",
+      "status": "review",
+      "completed_at": "2026-11-07T14:01:54.006918+00:00",
+      "candidates": []
+    },
+    "9n1dtmzqnCU": {
+      "vid": "9n1dtmzqnCU",
+      "status": "review",
+      "completed_at": "2026-11-07T14:02:59.698631+00:00",
+      "candidates": []
+    },
+    "9npebeVFbFw": {
+      "vid": "9npebeVFbFw",
+      "status": "review",
+      "completed_at": "2026-11-07T14:03:25.039816+00:00",
+      "candidates": []
+    },
+    "9ntPxdWAWq8": {
+      "vid": "9ntPxdWAWq8",
+      "status": "review",
+      "completed_at": "2026-11-07T14:05:10.840434+00:00",
+      "candidates": []
+    },
+    "9s3EbSKDA3o": {
+      "vid": "9s3EbSKDA3o",
+      "status": "review",
+      "completed_at": "2026-11-07T14:05:44.623457+00:00",
+      "candidates": []
+    },
+    "9x4_dozWkq0": {
+      "vid": "9x4_dozWkq0",
       "status": "review",
       "completed_at": null,
       "candidates": []

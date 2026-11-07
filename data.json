@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-07T13:40:21.795891+00:00",
+  "built_at": "2026-11-07T14:07:14.077533+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5048,
-    "confirmed": 1066,
-    "coverage": 0.1651688875116207,
-    "processed_match_rate": 0.2111727416798732
+    "processed": 5067,
+    "confirmed": 1068,
+    "coverage": 0.165478772854044,
+    "processed_match_rate": 0.2107756068679692
   },
   "areas": [
     {
@@ -40630,6 +40630,73 @@
       ]
     },
     {
+      "id": "9KivesLMncs",
+      "title": "Alan Kay on Dijkstra",
+      "author": "vermilyer",
+      "source_url": "https://www.youtube.com/watch?v=9KivesLMncs",
+      "summary": "A short clip of Alan Kay commenting on Edsger Dijkstra in a humorous, pointed way.",
+      "why": "HN links it as a joke in threads about Dijkstra's writings, not as a recommendation.",
+      "score": 0.0,
+      "tags": [
+        "alan kay",
+        "dijkstra",
+        "computer science",
+        "humor"
+      ],
+      "categories": [
+        "tech-figures-interviews",
+        "software-other"
+      ],
+      "versions": [
+        {
+          "bvid": "BV18a4y1S7pt",
+          "page": 1,
+          "cid": 1330298511,
+          "title": "Alan Kay on Dijkstra",
+          "up": "MathInvoker",
+          "duration": 159,
+          "kind": "original",
+          "views": 20,
+          "pic": "https://i1.hdslb.com/bfs/archive/c1f2a8b6595c65cec55f3b06dcf9dffb8016c294.jpg",
+          "checked_at": "2026-11-07T13:48:16.279126+00:00"
+        }
+      ]
+    },
+    {
+      "id": "9T1vfsHYiKY",
+      "title": "Shagged by a rare parrot | Last Chance To See - BBC",
+      "author": "BBC",
+      "source_url": "https://www.youtube.com/watch?v=9T1vfsHYiKY",
+      "summary": "A clip from BBC's Last Chance to See in which Stephen Fry and Mark Carwardine meet Sirocco, a kakapo, who famously tries to mate with Carwardine's head. The kakapo is a critically endangered flightless New Zealand parrot.",
+      "why": "HN points to it as the origin of the Party Parrot emote and as the famous viral kakapo clip whenever kakapo come up.",
+      "score": 0.0,
+      "tags": [
+        "kakapo",
+        "stephen fry",
+        "endangered species",
+        "party parrot",
+        "bbc"
+      ],
+      "categories": [
+        "animals-nature",
+        "documentaries-storytelling"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Lz4y1d7mZ",
+          "page": 1,
+          "cid": 192580245,
+          "title": "【PartyParrot原型】Shagged by a rare parrot",
+          "up": "DrKaja",
+          "duration": 152,
+          "kind": "original",
+          "views": 2312,
+          "pic": "https://i1.hdslb.com/bfs/archive/3b8edc3e4861ce36f319f7eb4db8d4121abf39cb.jpg",
+          "checked_at": "2026-11-07T13:49:53.362730+00:00"
+        }
+      ]
+    },
+    {
       "id": "9fa9lVwHHqg",
       "title": "Horror Short Film “Slaughterbots” | ALTER",
       "author": "ALTER",
@@ -43289,6 +43356,8 @@
     "BV1UZ4y137Ps": "7xH7eGFuSYI",
     "BV1JoBvYKEVL": "8mxubNQC5O8",
     "BV1Lx411g7gq": "8ucCxtgN6sc",
+    "BV18a4y1S7pt": "9KivesLMncs",
+    "BV1Lz4y1d7mZ": "9T1vfsHYiKY",
     "BV18Ni6YbE8J": "9fa9lVwHHqg",
     "BV1yPRqB2EEE": "9sJUDx7iEJw",
     "BV1yH2QYkEkM": "AKMuA_TVz3A",

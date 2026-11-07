@@ -1,0 +1,42 @@
+{
+  "reviewed_at": "2026-11-07",
+  "baseline_commit": "b9b6775",
+  "review_count": 2,
+  "content_level_frame_comparison": false,
+  "items": [
+    {
+      "youtube_id": "9KivesLMncs",
+      "bvid": "BV18a4y1S7pt",
+      "page": 1,
+      "bilibili_title": "Alan Kay on Dijkstra",
+      "segment_title": "Alan Kay on Dijkstra [9KivesLMncs]",
+      "page_count": 1,
+      "description_contains_original_id": true,
+      "description_sha256": "cccf318de267c388bfa55ddad1d7023769ff36139d7f852428278ae21e9bad6e",
+      "detail_snapshot_sha256": "a118707d8f08a92eb3a4bb88414db4458ec43775e2ecff4b0e4beb964bb348be",
+      "duration": 159,
+      "original_duration": 159,
+      "cid": 1330298511,
+      "playback_passed": true,
+      "cid_observed": true,
+      "player_duration_matches": true
+    },
+    {
+      "youtube_id": "9T1vfsHYiKY",
+      "bvid": "BV1Lz4y1d7mZ",
+      "page": 1,
+      "bilibili_title": "【PartyParrot原型】Shagged by a rare parrot",
+      "segment_title": "Shagged by a rare parrot _ Last Chance To See - BBC",
+      "page_count": 1,
+      "description_contains_original_id": true,
+      "description_sha256": "d61594bad450b126af13a6717a07be77350e200dad6477a59563dbd5c150e3d8",
+      "detail_snapshot_sha256": "756e1e20b63df0f7e1008d2efe5ff3cf39b3c501b7bf2067aa4f333119b7bb43",
+      "duration": 152,
+      "original_duration": 152,
+      "cid": 192580245,
+      "playback_passed": true,
+      "cid_observed": true,
+      "player_duration_matches": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "checked_at": "2026-11-07T14:07:30.865Z",
+  "checks": [
+    {
+      "sample": "9KivesLMncs",
+      "kind": "original",
+      "id": "9KivesLMncs",
+      "bvid": "BV18a4y1S7pt",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.944664,
+        "duration": 159,
+        "paused": false
+      },
+      "expected_duration": 159,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1330298511"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Alan Kay on Dijkstra\nMathInvoker\n关注\n0\n0\n分享\n更多\n00:04 / 02:39\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "9T1vfsHYiKY",
+      "kind": "original",
+      "id": "9T1vfsHYiKY",
+      "bvid": "BV1Lz4y1d7mZ",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.19428,
+        "duration": 152,
+        "paused": false
+      },
+      "expected_duration": 152,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "192580245"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【PartyParrot原型】Shagged by a rare parrot\nDrKaja\n关注\n60\n8\n分享\n更多\n00:05 / 02:32\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

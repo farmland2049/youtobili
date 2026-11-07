@@ -24,3 +24,12 @@
 新增确认：`7qZl_5xHoBw` → `BV1qKDtYgEPa`（Joe Rogan Experience #2223 - Elon Musk，9521秒）；`8ucCxtgN6sc` → `BV1Lx411g7gq`（TEENS REACT TO WINDOWS 95，507秒）。两条B站简介均有明确原片URL，均为单P且时长完全一致。真实播放检查通过，播放器实际请求CID分别为 `26620398704`、`25041042`。复核证据见 `reports/metadata-review-2026-11-07-resume2.json` 与 `reports/playback-increment-2026-11-07-resume2.json`；未做逐帧比较。
 
 当前工作库进度5048/6454，确认1066。本增量已由提交 `624dbe5fc200687604b2f7ecfdfd4b65dfdd5976` 推送；Pages `data.json` 返回HTTP 200，SHA-256 `9a935e01bc7b135d4340a8d2f8315cec28dcfe872145d1ebeefe0fe2b16ae1ae` 与本地一致。
+
+
+## 2026-11-07 恢复后增量三
+
+批次 `20261107T134536Z` 在第20次尝试处理 `9x4_dozWkq0` 时遇到 `URLError`，此前完成19条（17条待审、2条确认），剩余30条未处理。失败ID已加入本机阻塞清单，累计63条，未判失效、未自动重试。
+
+新增确认：`9KivesLMncs` → `BV18a4y1S7pt`（Alan Kay on Dijkstra，159秒）；`9T1vfsHYiKY` → `BV1Lz4y1d7mZ`（Shagged by a rare parrot，152秒）。两者简介均指向对应原片，单P、分P身份和时长已从公开详情核对；元数据快照证据见 `reports/metadata-review-2026-11-07-resume3.json`。两条均通过真实播放检查，播放器时长分别为159秒与152秒，实际请求CID分别为 `1330298511`、`192580245`；本批发布前检查待完成。
+
+当前工作库进度5067/6454，确认1068；本增量尚未发布。

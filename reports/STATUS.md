@@ -1,72 +1,54 @@
 # 匹配进展
 
-更新时间：2026-11-07T13:40:21.752587+00:00
+更新时间：2026-11-07T14:07:14.031476+00:00
 
 - 原片库：6454
-- 完成处理：5048
-- 已确认原片：1066
-- 全库覆盖率：16.52%
-- 已处理原片匹配率：21.12%
-- 状态：{'confirmed': 1066, 'review': 3997}
+- 完成处理：5067
+- 已确认原片：1068
+- 全库覆盖率：16.55%
+- 已处理原片匹配率：21.08%
+- 状态：{'confirmed': 1068, 'review': 4015}
 
-- 待审中尚需扩大候选检查：178
-- 已扩大检查仍待审核：3819
+- 待审中尚需扩大候选检查：179
+- 已扩大检查仍待审核：3836
 
 ## 最近批次
 
 ```json
 {
-  "id": "20261107T124800Z",
+  "id": "20261107T134536Z",
   "selected": 50,
-  "completed": 37,
+  "completed": 19,
   "errors": [
     {
-      "vid": "9IEFD_JVYd0",
+      "vid": "9x4_dozWkq0",
       "reason": "URLError"
     }
   ],
   "stopped": false,
   "originals": [
-    "7MFtl2XXnUc",
-    "7O4V7JfeTSU",
-    "7Ooa7wOKHhg",
-    "7Xad5Rl0N2E",
-    "7Ys_yKGNFRQ",
-    "7bXJ_obaiYQ",
-    "7cNg_ifibCQ",
-    "7d59O6cfaM0",
-    "7gRsgkdfYJ8",
-    "7qZl_5xHoBw",
-    "7s664NsLeFM",
-    "7tAYXQPWdC0",
-    "8-pJa11YvCs",
-    "85OysZ_4lp0",
-    "89fYOo1V2pA",
-    "8AyVh1_vWYQ",
-    "8CwoluNRSSc",
-    "8GBAsFwPglw",
-    "8ISil7IHzxc",
-    "8JUepj7wIl0",
-    "8P8UKBAOfGo",
-    "8SUkrR7ZfTA",
-    "8Ux3DKxxFoM",
-    "8VB3uQHa14g",
-    "8Vq993Td6ys",
-    "8WP7AkJo3OE",
-    "8ucCxtgN6sc",
-    "8vQmTZTq7nw",
-    "8xRqXYsksFg",
-    "8y06NSBBRtY",
-    "93eyhO8VTdg",
-    "95-yZ-31j9A",
-    "988jPjs1gao",
-    "9EEY87HAHzk",
-    "9FnO3igOkOk",
-    "9GQoHIBDogU",
-    "9IBPeRa7U8E"
+    "9IvnptQJ__U",
+    "9KhZwsYtNDE",
+    "9KivesLMncs",
+    "9LLZBVTid4I",
+    "9T1vfsHYiKY",
+    "9TIBeso4abU",
+    "9X2A2f6E5DI",
+    "9abrZwnPThE",
+    "9bZkp7q19f0",
+    "9c6W4CCU9M4",
+    "9eYLtPSf7PY",
+    "9fbD753xE-U",
+    "9jh4Mpgbi4A",
+    "9kKp0oguzr8",
+    "9mzPj_IaMzY",
+    "9n1dtmzqnCU",
+    "9npebeVFbFw",
+    "9ntPxdWAWq8",
+    "9s3EbSKDA3o"
   ],
   "primary_first": true,
-  "deferred_candidates": 35,
+  "deferred_candidates": 57,
   "excluded_originals": [
     "-e1_QhJ1EhQ",
     "05WS0WN7zMQ",
@@ -85,6 +67,7 @@
     "6epzmRZk6UU",
     "7GhAuZH6phs",
     "8s7NmMl_-yg",
+    "9IEFD_JVYd0",
     "A1vyB-O5i6E",
     "AIZgw09CG9E",
     "AJgY9FtDLbs",
@@ -130,13 +113,13 @@
     "y4sOfO8Ei1g",
     "yg-UqIIvang"
   ],
-  "attempted": 38,
-  "unattempted": 12,
+  "attempted": 20,
+  "unattempted": 30,
   "statuses": {
-    "review": 36,
+    "review": 18,
     "confirmed": 2
   },
-  "candidate_count": 1416
+  "candidate_count": 691
 }
 ```
 
