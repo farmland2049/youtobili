@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-07T16:08:31.848496+00:00",
+  "built_at": "2026-11-07T17:07:27.432637+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5163,
-    "confirmed": 1080,
-    "coverage": 0.16733808490858382,
-    "processed_match_rate": 0.20918070889018012
+    "processed": 5213,
+    "confirmed": 1082,
+    "coverage": 0.16764797025100714,
+    "processed_match_rate": 0.20755802800690581
   },
   "areas": [
     {
@@ -41399,6 +41399,75 @@
       ]
     },
     {
+      "id": "FZ6lZJWL_Xk",
+      "title": "Tesla Unveils Dual Motor and Autopilot",
+      "author": "Tesla",
+      "source_url": "https://www.youtube.com/watch?v=FZ6lZJWL_Xk",
+      "summary": "Tesla's 2014 event where Elon Musk unveiled the dual motor all-wheel-drive Model S and the first Autopilot features.",
+      "why": "Mostly cited as a primary source for what Tesla and Musk said about Autopilot and automatic charging at the time.",
+      "score": 0.0,
+      "tags": [
+        "tesla",
+        "autopilot",
+        "model s",
+        "elon musk",
+        "product launch"
+      ],
+      "categories": [
+        "automotive-ev",
+        "self-driving-cars"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1jg411A7gQ",
+          "page": 1,
+          "cid": 464618595,
+          "title": "Tesla Unveils Dual Motor and Autopilot",
+          "up": "武贺拔奥8w",
+          "duration": 828,
+          "kind": "original",
+          "views": 67,
+          "pic": "https://i2.hdslb.com/bfs/archive/037e197f7b8393f75dd82564623b220feed54d17.jpg",
+          "checked_at": "2026-11-07T17:01:26.082787+00:00"
+        }
+      ]
+    },
+    {
+      "id": "FaOSCASqLsE",
+      "title": "Star Wars Undercover Boss: Starkiller Base - SNL",
+      "author": "Saturday Night Live",
+      "source_url": "https://www.youtube.com/watch?v=FaOSCASqLsE",
+      "summary": "An SNL sketch in which Kylo Ren goes undercover as a radar technician named Matt at Starkiller Base, parodying the show Undercover Boss.",
+      "why": "HN commenters mostly invoke it as a joke when discussing meetings, management and workplace absurdity.",
+      "score": 0.0,
+      "tags": [
+        "snl",
+        "kylo ren",
+        "undercover boss",
+        "starkiller base",
+        "sketch comedy"
+      ],
+      "categories": [
+        "satire-parody",
+        "standup-sketch-comedy",
+        "film-tv-clips"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1FW411i7mF",
+          "page": 1,
+          "cid": 30228166,
+          "title": "Star Wars Undercover Boss Starkiller Base- SNL",
+          "up": "Jeffhhhhsessions",
+          "duration": 291,
+          "kind": "original",
+          "views": 557,
+          "pic": "https://i2.hdslb.com/bfs/archive/0c0a2c39d5e1fcaa30c34461ff330909ee592994.jpg",
+          "checked_at": "2026-11-07T17:03:46.281828+00:00"
+        }
+      ]
+    },
+    {
       "id": "HKTSaezB4p8",
       "title": "Richard Feynman playing bongos",
       "author": "sdfhsfh",
@@ -43792,6 +43861,8 @@
     "BV1Dx411V7Ut": "D2SoGHFM18I",
     "BV15WHf67Ebf": "DxREm3s1scA",
     "BV1CwEi6pErc": "EIyixC9NsLI",
+    "BV1jg411A7gQ": "FZ6lZJWL_Xk",
+    "BV1FW411i7mF": "FaOSCASqLsE",
     "BV1Eq4y1w7u5": "HKTSaezB4p8",
     "BV16CXhYbEhR": "IACHfKmZMr8",
     "BV1kT4y177EA": "L1UgdoP2aeg",

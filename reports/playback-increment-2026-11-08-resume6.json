@@ -1,0 +1,47 @@
+{
+  "checked_at": "2026-11-07T17:08:04.225Z",
+  "checks": [
+    {
+      "sample": "FZ6lZJWL_Xk",
+      "kind": "original",
+      "id": "FZ6lZJWL_Xk",
+      "bvid": "BV1jg411A7gQ",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.771631,
+        "duration": 828,
+        "paused": false
+      },
+      "expected_duration": 828,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "464618595"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Tesla Unveils Dual Motor and Autopilot\n武贺拔奥8w\n关注\n0\n0\n分享\n更多\n00:04 / 13:48\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "FaOSCASqLsE",
+      "kind": "original",
+      "id": "FaOSCASqLsE",
+      "bvid": "BV1FW411i7mF",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.31715,
+        "duration": 291,
+        "paused": false
+      },
+      "expected_duration": 291,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "30228166"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Star Wars Undercover Boss Starkiller Base- SNL\nJeffhhhhsessions\n关注\n1\n0\n分享\n更多\n00:05 / 04:51\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}
