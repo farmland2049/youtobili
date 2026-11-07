@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-06T23:09:57.191810+00:00",
+  "built_at": "2026-11-07T04:22:20.830260+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 4486,
-    "confirmed": 1014,
-    "coverage": 0.1571118686086148,
-    "processed_match_rate": 0.22603655818100757
+    "processed": 4738,
+    "confirmed": 1041,
+    "coverage": 0.1612953207313294,
+    "processed_match_rate": 0.21971295905445334
   },
   "areas": [
     {
@@ -31050,6 +31050,41 @@
       ]
     },
     {
+      "id": "IvUU8joBb1Q",
+      "title": "Wintergatan - Marble Machine (music instrument using 2000 marbles)",
+      "author": "Wintergatan",
+      "source_url": "https://www.youtube.com/watch?v=IvUU8joBb1Q",
+      "summary": "Wintergatan's video of the Marble Machine, a hand-built music instrument that plays a song using about 2000 marbles on a mechanical clockwork-style mechanism.",
+      "why": "HN treats it as the canonical example of a Rube Goldberg style musical instrument and a work of love, and references it in threads on unconventional instruments and machines.",
+      "score": 2.0,
+      "tags": [
+        "marble machine",
+        "wintergatan",
+        "rube goldberg",
+        "diy instrument",
+        "mechanical engineering"
+      ],
+      "categories": [
+        "magic-performance-oddities",
+        "mechanical-engineering",
+        "music-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1PE411J7Xh",
+          "page": 1,
+          "cid": 158036080,
+          "title": "浪漫的Martin Molin和他的巨型Marble Machine钢珠音乐世界",
+          "up": "世界那么大我想都看看",
+          "duration": 275,
+          "kind": "original",
+          "views": 575,
+          "pic": "https://i1.hdslb.com/bfs/archive/bb016de5de184cd0cb0a9bc423137487b509cc0a.png",
+          "checked_at": "2026-11-07T01:43:19.393949+00:00"
+        }
+      ]
+    },
+    {
       "id": "K1xnYFCZ9Yg",
       "title": "What Is the RNA World Hypothesis?",
       "author": "Stated Clearly",
@@ -35220,6 +35255,40 @@
       ]
     },
     {
+      "id": "8s7NmMl_-yg",
+      "title": "iPhone 13 A Repair Nightmare - Teardown and Repair Assessment",
+      "author": "Hugh Jeffreys",
+      "source_url": "https://www.youtube.com/watch?v=8s7NmMl_-yg",
+      "summary": "Hugh Jeffreys tears down the iPhone 13 and assesses its repairability, showing how Apple ties parts like the display and Face ID hardware to specific devices. He demonstrates that swapping parts, even genuine ones, can disable features.",
+      "why": "HN cites it as evidence of Apple's serialized parts and repair restrictions in threads about right to repair and Face ID disabling.",
+      "score": 1.0,
+      "tags": [
+        "right to repair",
+        "iphone 13",
+        "face id",
+        "parts pairing",
+        "teardown"
+      ],
+      "categories": [
+        "repair-teardown",
+        "consumer-devices"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1234y1U7q6",
+          "page": 1,
+          "cid": 419737960,
+          "title": "【生肉搬运】IPhone 13 拆解演示",
+          "up": "名侦探の熊吉",
+          "duration": 1040,
+          "kind": "original",
+          "views": 5476,
+          "pic": "https://i2.hdslb.com/bfs/archive/01100d50e7dac09a5d59f6617efacd7661877776.jpg",
+          "checked_at": "2026-11-07T01:38:20.987614+00:00"
+        }
+      ]
+    },
+    {
       "id": "9KR2N_Q8ep8",
       "title": "Tesla Crash Lab | Data-Driven Safety",
       "author": "Tesla",
@@ -37749,6 +37818,40 @@
       ]
     },
     {
+      "id": "fkUwXenBokU",
+      "title": "Future Shock Documentary (1972)",
+      "author": "Jamie Clay",
+      "source_url": "https://www.youtube.com/watch?v=fkUwXenBokU",
+      "summary": "The 1972 documentary based on Alvin Toffler's book Future Shock, narrated by Orson Welles. It is a dystopian look at the accelerating pace of technological change and its psychological toll.",
+      "why": "Recommended as a period piece whose worries about rapid change still feel relevant to current tech anxieties.",
+      "score": 1.0,
+      "tags": [
+        "alvin toffler",
+        "orson welles",
+        "futurism",
+        "1970s",
+        "technology anxiety"
+      ],
+      "categories": [
+        "futurism-technology-society",
+        "documentaries-storytelling"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1pq4y1c7zs",
+          "page": 1,
+          "cid": 490204340,
+          "title": "纪录片：未来的冲击（Future Shock, 1972）",
+          "up": "范德彪7161",
+          "duration": 2569,
+          "kind": "original",
+          "views": 562,
+          "pic": "https://i1.hdslb.com/bfs/archive/d71e58396687ce646b62f53c90fce19239333e06.jpg",
+          "checked_at": "2026-11-07T01:48:20.838192+00:00"
+        }
+      ]
+    },
+    {
       "id": "fnUc_W3xE1w",
       "title": "Stephen Krashen: Language Acquisition and Comprehensible Input",
       "author": "Tarek Hamza",
@@ -37778,6 +37881,76 @@
           "views": 1224,
           "pic": "https://i0.hdslb.com/bfs/archive/3a22de11cd7abaf348403612ac2dc7f9f9ea8f77.jpg",
           "checked_at": "2026-11-04T23:03:55.464953+00:00"
+        }
+      ]
+    },
+    {
+      "id": "fu3ETgAvQrw",
+      "title": "Redesign Your Logo (2010 live backing video)",
+      "author": "NeilCicieregaMusic",
+      "source_url": "https://www.youtube.com/watch?v=fu3ETgAvQrw",
+      "summary": "Neil Cicierega's parody song 'Redesign Your Logo', played over a live backing video with corporate PowerPoint visuals. It mocks the infamous Pepsi design strategy presentation.",
+      "why": "Shared as a funny companion to logo-redesign and branding stories.",
+      "score": 1.0,
+      "tags": [
+        "neil cicierega",
+        "pepsi",
+        "branding",
+        "parody song",
+        "design"
+      ],
+      "categories": [
+        "satire-parody",
+        "graphic-design-typography",
+        "music-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ZUGQz9EJB",
+          "page": 1,
+          "cid": 29709894395,
+          "title": "Redesign Your Logo (2010 live backing video)",
+          "up": "专业修理烤面包机",
+          "duration": 265,
+          "kind": "original",
+          "views": 213,
+          "pic": "https://i2.hdslb.com/bfs/archive/033a67df0a0a2dc67f7d9962bee392cac2d18618.jpg",
+          "checked_at": "2026-11-07T01:53:27.194378+00:00"
+        }
+      ]
+    },
+    {
+      "id": "gzgyksS5pX8",
+      "title": "Change w/ Jim Keller",
+      "author": "Tenstorrent",
+      "source_url": "https://www.youtube.com/watch?v=gzgyksS5pX8",
+      "summary": "Jim Keller, CTO of Tenstorrent, gives a keynote at Stanford's System X conference on change, understanding and the future of computing. He touches on Moore's Law, how far transistors are from physical limits, and ideas like DNA origami.",
+      "why": "HN commenters cite it as a thoughtful talk from a legendary chip architect, both for the s-curves view of progress and for concrete technical details on semiconductor scaling.",
+      "score": 1.0,
+      "tags": [
+        "jim keller",
+        "moore's law",
+        "semiconductors",
+        "s-curves",
+        "ai hardware"
+      ],
+      "categories": [
+        "computer-architecture",
+        "tech-figures-interviews",
+        "semiconductors-manufacturing"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1BD4y1W7ha",
+          "page": 1,
+          "cid": 964268568,
+          "title": "Change w- Jim Keller",
+          "up": "搬运大仙",
+          "duration": 3414,
+          "kind": "original",
+          "views": 126,
+          "pic": "https://i2.hdslb.com/bfs/archive/ff6b0aef96cce151a951124630b7113668418cb5.jpg",
+          "checked_at": "2026-11-07T02:04:02.757930+00:00"
         }
       ]
     },
@@ -37883,6 +38056,75 @@
           "views": 159,
           "pic": "https://i0.hdslb.com/bfs/archive/bc36b1de3637e2ef3e69512c6776d313890d2c9a.jpg",
           "checked_at": "2026-11-04T23:03:56.323351+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hKcOkWzj0_s",
+      "title": "Caml Trading",
+      "author": "Yaron Minsky",
+      "source_url": "https://www.youtube.com/watch?v=hKcOkWzj0_s",
+      "summary": "Yaron Minsky explains how Jane Street moved from mainstream languages to developing almost entirely in OCaml. He covers trading systems, research infrastructure, tooling and hiring.",
+      "why": "Cited as evidence for OCaml's readability benefits and for hiring in less popular languages.",
+      "score": 1.0,
+      "tags": [
+        "ocaml",
+        "jane street",
+        "functional programming",
+        "trading systems",
+        "hiring"
+      ],
+      "categories": [
+        "functional-programming",
+        "tech-industry-business"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1bA411N7xj",
+          "page": 1,
+          "cid": 311184962,
+          "title": "Caml Trading",
+          "up": "Gennadi",
+          "duration": 4362,
+          "kind": "original",
+          "views": 111,
+          "pic": "https://i2.hdslb.com/bfs/archive/5b325f9b789512a9d075e5f19b2a15e1160e4dae.jpg",
+          "checked_at": "2026-11-07T02:05:48.069564+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hLrFyjGZ9NU",
+      "title": "Inside Hong Kong’s cage homes",
+      "author": "Vox",
+      "source_url": "https://www.youtube.com/watch?v=hLrFyjGZ9NU",
+      "summary": "A Vox Borders explainer on Hong Kong's housing crisis, the least affordable market in the world, and the tiny cage homes and subdivided flats people squeeze into. It looks at why prices keep climbing and how land policy contributes.",
+      "why": "Cited in housing and real estate threads as a vivid illustration of extreme scarcity and Hong Kong's land-price dynamics.",
+      "score": 1.0,
+      "tags": [
+        "housing affordability",
+        "cage homes",
+        "real estate",
+        "land policy",
+        "hong kong"
+      ],
+      "categories": [
+        "transit-urbanism",
+        "labor-work-wealth",
+        "media-journalism"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1nb411r79e",
+          "page": 1,
+          "cid": 74778000,
+          "title": "Inside Hong Kong’s cage homes",
+          "up": "愛爾蘭泰德",
+          "duration": 594,
+          "kind": "original",
+          "views": 100,
+          "pic": "https://i1.hdslb.com/bfs/archive/576fd234db1a8140f85e3862ecbe9f98528d2f25.jpg",
+          "checked_at": "2026-11-07T02:06:27.177956+00:00"
         }
       ]
     },
@@ -38015,6 +38257,144 @@
       ]
     },
     {
+      "id": "j800SVeiS5I",
+      "title": "IN-SHADOW - A Modern Odyssey - Animated Short Film",
+      "author": "SPELLBREAKER Studio",
+      "source_url": "https://www.youtube.com/watch?v=j800SVeiS5I",
+      "summary": "A 13-minute hand-animated short film that takes a symbolic journey through the unconscious, built around Carl Jung's idea of confronting the Shadow. It mixes 2D animation with spiritual and apocalyptic imagery.",
+      "why": "Cited as a visual illustration of the Jungian shadow, including in arguments about national or collective shadows and conformity.",
+      "score": 1.0,
+      "tags": [
+        "animation",
+        "carl jung",
+        "short film",
+        "psychology",
+        "symbolism"
+      ],
+      "categories": [
+        "animation-vfx",
+        "psychology-behavior"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1qa411t7XT",
+          "page": 1,
+          "cid": 555118960,
+          "title": "背景视频分享 IN-SHADOW - A Modern Odyssey（阴影中的现代奥德赛）",
+          "up": "擦屁股只用报纸",
+          "duration": 781,
+          "kind": "original",
+          "views": 46588,
+          "pic": "https://i1.hdslb.com/bfs/archive/8ee294514dae89a1dcbcf9ad2afb8cd8efee5846.jpg",
+          "checked_at": "2026-11-07T02:35:44.061597+00:00"
+        }
+      ]
+    },
+    {
+      "id": "jcvd5JZkUXY",
+      "title": "All Creative Work Is Derivative",
+      "author": "Question Copyright",
+      "source_url": "https://www.youtube.com/watch?v=jcvd5JZkUXY",
+      "summary": "A two-minute animated minute meme by Nina Paley, photographed at the Metropolitan Museum, showing how all creative work builds on what came before. It is set to music from the Sita Sings the Blues soundtrack.",
+      "why": "Used in copyright and AI-code debates to argue that creativity is inherently derivative.",
+      "score": 1.0,
+      "tags": [
+        "copyright",
+        "remix culture",
+        "nina paley",
+        "public domain",
+        "animation"
+      ],
+      "categories": [
+        "law-policing-justice",
+        "free-speech-censorship",
+        "visual-arts"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1SA411i73S",
+          "page": 1,
+          "cid": 206690172,
+          "title": "All Creative Work Is Derivative",
+          "up": "11老温",
+          "duration": 141,
+          "kind": "original",
+          "views": 172,
+          "pic": "https://i1.hdslb.com/bfs/archive/304d6378afacbd004d89393cb78a494a311f083e.jpg",
+          "checked_at": "2026-11-07T02:41:49.437303+00:00"
+        }
+      ]
+    },
+    {
+      "id": "jeghGhVdt9s",
+      "title": "[593] Gallium vs. Titalium - Abus Padlock Meets a Gruesome End",
+      "author": "LockPickingLawyer",
+      "source_url": "https://www.youtube.com/watch?v=jeghGhVdt9s",
+      "summary": "LockPickingLawyer shows what happens when liquid gallium is applied to an aluminum Abus padlock, which weakens and breaks the metal. It is a short demonstration of gallium's effect on aluminum.",
+      "why": "HN points to it whenever gallium or liquid metal comes up, as a vivid demonstration of gallium destroying aluminum.",
+      "score": 1.0,
+      "tags": [
+        "gallium",
+        "aluminum embrittlement",
+        "padlock",
+        "liquid metal",
+        "lockpicking"
+      ],
+      "categories": [
+        "materials-science",
+        "chemistry",
+        "everyday-physics-demos"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1EW411G7kb",
+          "page": 1,
+          "cid": 38257271,
+          "title": "【生肉】【LockPickingLawyer】 Gallium vs. Titalium - Abus Padlock 镓破坏铝合金锁",
+          "up": "liustoy",
+          "duration": 822,
+          "kind": "original",
+          "views": 581,
+          "pic": "https://i2.hdslb.com/bfs/archive/b0605b5cf556f4aec6eb536fdd61976bbb1df3d9.jpg",
+          "checked_at": "2026-11-07T02:42:34.203915+00:00"
+        }
+      ]
+    },
+    {
+      "id": "jpNU72dny2s",
+      "title": "Prof. Robert Lustig - 'Sugar, metabolic syndrome, and cancer'",
+      "author": "Low Carb Down Under",
+      "source_url": "https://www.youtube.com/watch?v=jpNU72dny2s",
+      "summary": "Pediatric endocrinologist Robert Lustig talks at Low Carb Denver 2020 about sugar, metabolic syndrome and cancer. He lays out the case that metabolic dysfunction drives disease.",
+      "why": "HN commenters recommend it as a Lustig lecture on sugar and metabolic disease, and as a source for claims about metabolic causes of weight gain.",
+      "score": 1.0,
+      "tags": [
+        "robert lustig",
+        "sugar",
+        "metabolic syndrome",
+        "cancer",
+        "nutrition"
+      ],
+      "categories": [
+        "nutrition-diet",
+        "medicine-disease"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1tr4y1r7wu",
+          "page": 1,
+          "cid": 513646338,
+          "title": "Prof. Robert Lustig  Sugar, metabolic syndrome, and cancer 糖、代谢问题与癌症",
+          "up": "妮妮的兔子玩偶",
+          "duration": 3463,
+          "kind": "original",
+          "views": 153,
+          "pic": "https://i2.hdslb.com/bfs/archive/7f531bfdf926f6f75a87fa5be65dd92a7f35d5c4.jpg",
+          "checked_at": "2026-11-07T02:46:18.021428+00:00"
+        }
+      ]
+    },
+    {
       "id": "juWaO5TJS00",
       "title": "Lego-style apartment transforms into infinite spaces",
       "author": "Kirsten Dirksen",
@@ -38050,6 +38430,40 @@
       ]
     },
     {
+      "id": "jziQBWQxvok",
+      "title": "Kefrens - Desert Dream - Amiga Demo (HD 50fps)",
+      "author": "RetroDemoScene",
+      "source_url": "https://www.youtube.com/watch?v=jziQBWQxvok",
+      "summary": "Kefrens' Desert Dream, an Amiga demoscene production released at The Gathering in 1993, recaptured in HD at 50fps. It features code, music and graphics by a team of scene members.",
+      "why": "Brought up in Amiga threads as a classic example of what the demoscene achieved on old hardware.",
+      "score": 1.0,
+      "tags": [
+        "amiga",
+        "demoscene",
+        "kefrens",
+        "retro computing",
+        "tracker music"
+      ],
+      "categories": [
+        "demoscene-retrocomputing",
+        "music-theory-production"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Cm4119752",
+          "page": 1,
+          "cid": 1429946176,
+          "title": "Kefrens - Desert Dream - Amiga Demo (HD 50fps)",
+          "up": "X10-Cookiez",
+          "duration": 799,
+          "kind": "original",
+          "views": 450,
+          "pic": "https://i2.hdslb.com/bfs/archive/8a60684ba28478347f310a774f6e6ad16f22ea77.jpg",
+          "checked_at": "2026-11-07T02:48:02.006417+00:00"
+        }
+      ]
+    },
+    {
       "id": "kFT54hO1X8M",
       "title": "David Patterson - A New Golden Age for Computer Architecture: History, Challenges and Opportunities",
       "author": "UBC Computer Science",
@@ -38080,6 +38494,74 @@
           "views": 225,
           "pic": "https://i2.hdslb.com/bfs/archive/d446154849c65b200da967350844505020d21f5e.jpg",
           "checked_at": "2026-11-04T23:26:05.989899+00:00"
+        }
+      ]
+    },
+    {
+      "id": "kJXRyWQgOY4",
+      "title": "Testing LCBs (Lithium Ceramic Batteries) || The Future of Battery Technology?",
+      "author": "GreatScott!",
+      "source_url": "https://www.youtube.com/watch?v=kJXRyWQgOY4",
+      "summary": "GreatScott! tests ProLogium lithium ceramic batteries, a solid-state design. He measures their volumetric and gravimetric energy density, compares them to Li-ion and LiPo, and runs durability tests at the end.",
+      "why": "HN commenters cite it as hands-on testing of a solid-state battery claim, though some remain skeptical until products ship.",
+      "score": 1.0,
+      "tags": [
+        "lithium ceramic battery",
+        "prologium",
+        "energy density",
+        "li-ion",
+        "battery testing"
+      ],
+      "categories": [
+        "renewables-storage",
+        "embedded-diy-electronics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV13b411M7Jv",
+          "page": 1,
+          "cid": 85633307,
+          "title": "Testing LCBs (Lithium Ceramic Batteries) -- The Future of Battery Technology",
+          "up": "HistoryGrape",
+          "duration": 444,
+          "kind": "original",
+          "views": 154,
+          "pic": "https://i0.hdslb.com/bfs/archive/c89902731e7b075d46bf46adbbd22bc1ff6add52.jpg",
+          "checked_at": "2026-11-07T02:50:37.231214+00:00"
+        }
+      ]
+    },
+    {
+      "id": "kRlhlCWplqk",
+      "title": "New Supercomputer Simulation Sheds Light on Moon’s Origin",
+      "author": "NASA's Ames Research Center",
+      "source_url": "https://www.youtube.com/watch?v=kRlhlCWplqk",
+      "summary": "A NASA and Durham University supercomputer simulation suggesting the Moon may have formed within hours of a giant impact between Earth and a Mars-sized body. It is one of the highest-resolution giant-impact simulations run.",
+      "why": "HN commenters link it as a cool visualization whenever Theia and Moon formation come up.",
+      "score": 1.0,
+      "tags": [
+        "giant impact",
+        "theia",
+        "nasa",
+        "simulation",
+        "moon origin"
+      ],
+      "categories": [
+        "cosmology-astrophysics",
+        "space-exploration"
+      ],
+      "versions": [
+        {
+          "bvid": "BV19tej6oEXk",
+          "page": 1,
+          "cid": 41905947580,
+          "title": "【熟肉】新超算模拟揭示月球起源-NASA's Ames Research Center",
+          "up": "LVideoRoll",
+          "duration": 111,
+          "kind": "sub_zh",
+          "views": 460,
+          "pic": "https://i0.hdslb.com/bfs/archive/3525857f27967a3014b45231a6b8dda00bd50132.jpg",
+          "checked_at": "2026-11-07T02:51:10.317801+00:00"
         }
       ]
     },
@@ -38126,6 +38608,41 @@
           "views": 300,
           "pic": "https://i2.hdslb.com/bfs/archive/c3d68c38331988df2bdb0fc18153d178aaeafbf2.jpg",
           "checked_at": "2026-11-06T07:13:54.910254+00:00"
+        }
+      ]
+    },
+    {
+      "id": "kz165f1g8-E",
+      "title": "The Genius of 3D Printed Rockets",
+      "author": "Veritasium",
+      "source_url": "https://www.youtube.com/watch?v=kz165f1g8-E",
+      "summary": "A Veritasium video touring Relativity Space and explaining why 3D printing whole rockets cuts tooling costs, allows rapid iteration, reduces part count and enables new designs. It includes an interview with Scott Manley on aerospace engineering.",
+      "why": "Pointed to as a clear explainer of Relativity Space's fully 3D printed rocket approach when rocket manufacturing or additive manufacturing comes up.",
+      "score": 1.0,
+      "tags": [
+        "relativity space",
+        "additive manufacturing",
+        "rocketry",
+        "veritasium",
+        "aerospace"
+      ],
+      "categories": [
+        "space-exploration",
+        "3d-printing-cnc",
+        "manufacturing-industry"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ig411j7Qw",
+          "page": 1,
+          "cid": 388109465,
+          "title": "【油管搬运】探访3D打印火箭公司（The Surprising Genius of 3D Printed Rockets）",
+          "up": "沧海浮生笑残阳",
+          "duration": 1260,
+          "kind": "original",
+          "views": 379,
+          "pic": "https://i2.hdslb.com/bfs/archive/153b0343ab9eeb1a7c9a99b7d1cf74cac3db1851.jpg",
+          "checked_at": "2026-11-07T02:54:35.694037+00:00"
         }
       ]
     },
@@ -38227,6 +38744,145 @@
           "views": 648,
           "pic": "https://i2.hdslb.com/bfs/archive/cb32fa44977c792129a0f5ad9eef9481b3b3b51b.jpg",
           "checked_at": "2026-11-05T08:59:48.041555+00:00"
+        }
+      ]
+    },
+    {
+      "id": "makaJpLvbow",
+      "title": "How life emerges from a simple particle motion law: Introducing the Primordial Particle System",
+      "author": "Artificial Life Lab Graz",
+      "source_url": "https://www.youtube.com/watch?v=makaJpLvbow",
+      "summary": "Researchers from the Artificial Life Lab Graz introduce the Primordial Particle System, where a simple motion law for self-propelled particles produces cell-like structures that self-reproduce and show life cycles.",
+      "why": "Shared as an example of simple rules yielding complex emergent, life-like behavior, alongside Game of Life and particle simulators.",
+      "score": 1.0,
+      "tags": [
+        "primordial particle system",
+        "emergence",
+        "self-replication",
+        "artificial life",
+        "simulation"
+      ],
+      "categories": [
+        "biology-biotech",
+        "creative-coding-generative-art",
+        "computer-graphics-rendering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1fJ4m1L7wH",
+          "page": 1,
+          "cid": 1482998201,
+          "title": "How life emerges from a simple particle motion law",
+          "up": "灵魂的易经犀牛参数化",
+          "duration": 961,
+          "kind": "original",
+          "views": 64,
+          "pic": "https://i0.hdslb.com/bfs/archive/101923d309f1586e9dfa636b06e26737238ec07e.png",
+          "checked_at": "2026-11-07T03:06:50.113810+00:00"
+        }
+      ]
+    },
+    {
+      "id": "n-BZ5-Q48lE",
+      "title": "New NES Tetris Technique: Faster Than Hypertapping!",
+      "author": "aGameScout",
+      "source_url": "https://www.youtube.com/watch?v=n-BZ5-Q48lE",
+      "summary": "aGameScout explains rolling, the third major NES Tetris playstyle, in which players tap the back of the controller to move pieces faster than hypertapping. It covers how the technique works and where it comes from.",
+      "why": "HN points to it as the concise explanation of the latest competitive NES Tetris technique.",
+      "score": 1.0,
+      "tags": [
+        "nes tetris",
+        "rolling",
+        "hypertapping",
+        "competitive tetris",
+        "controller technique"
+      ],
+      "categories": [
+        "speedrunning-glitches",
+        "game-history-retro",
+        "gaming-culture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Bv41157nP",
+          "page": 1,
+          "cid": 339914925,
+          "title": "New NES Tetris Technique: Faster Than Hypertapping!",
+          "up": "玩笑与正经",
+          "duration": 574,
+          "kind": "original",
+          "views": 361,
+          "pic": "https://i1.hdslb.com/bfs/archive/1f50fd6ef1d8b74adb04d30a828e839cbac0beb0.jpg",
+          "checked_at": "2026-11-07T03:13:59.558005+00:00"
+        }
+      ]
+    },
+    {
+      "id": "nCgQDjiotG0",
+      "title": "Google Chrome Speed Tests",
+      "author": "Google Chrome",
+      "source_url": "https://www.youtube.com/watch?v=nCgQDjiotG0",
+      "summary": "Google's 2010 Chrome ad filmed web page rendering with a high-speed camera, comparing it with a potato gun, a pirate ship and lightning. It presented browser speed as Chrome's key selling point.",
+      "why": "HN cites it as an example of Chrome's speed-focused marketing and of how fast Chrome seemed at launch compared with other browsers.",
+      "score": 1.0,
+      "tags": [
+        "google chrome",
+        "browser speed",
+        "advertising",
+        "high-speed camera",
+        "browser wars"
+      ],
+      "categories": [
+        "web-development",
+        "tech-company-stories",
+        "product-growth-marketing"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1NE411q71v",
+          "page": 1,
+          "cid": 128136071,
+          "title": "Google Chrome Speed Tests",
+          "up": "kennywae",
+          "duration": 130,
+          "kind": "original",
+          "views": 78,
+          "pic": "https://i2.hdslb.com/bfs/archive/0816b64ff02f27585ad44c07e58b2b8413f884db.jpg",
+          "checked_at": "2026-11-07T03:19:00.060337+00:00"
+        }
+      ]
+    },
+    {
+      "id": "nnsSUqgkDwU",
+      "title": "Parisian Love",
+      "author": "Google",
+      "source_url": "https://www.youtube.com/watch?v=nnsSUqgkDwU",
+      "summary": "Google's 2009 'Search Stories' ad, shown in the Super Bowl, tells the story of an American who falls in love in Paris entirely through search queries.",
+      "why": "HN cites it as a model of emotional product storytelling and as inspiration for visualizing one's own search history as a narrative.",
+      "score": 1.0,
+      "tags": [
+        "google",
+        "advertising",
+        "search stories",
+        "storytelling",
+        "super bowl"
+      ],
+      "categories": [
+        "arts-entertainment-other",
+        "product-growth-marketing"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1tA411s7z7",
+          "page": 1,
+          "cid": 269423399,
+          "title": "谷歌经典宣传片《巴黎之恋》",
+          "up": "威廉咩羊",
+          "duration": 53,
+          "kind": "original",
+          "views": 4441,
+          "pic": "https://i2.hdslb.com/bfs/archive/fe0ea4c48a0a3b22e5795ce99cfa714d84d2cb4f.jpg",
+          "checked_at": "2026-11-07T03:27:08.473019+00:00"
         }
       ]
     },
@@ -38333,6 +38989,244 @@
       ]
     },
     {
+      "id": "obS6TUVSZds",
+      "title": "EEVblog #632 - Solar Roadways Are RUBBISH!",
+      "author": "EEVblog",
+      "source_url": "https://www.youtube.com/watch?v=obS6TUVSZds",
+      "summary": "Dave Jones of EEVblog debunks the Solar Roadways project, which raised millions through Indiegogo and government funding. He works through the solar generation and LED power calculations to show the idea isn't viable.",
+      "why": "HN cites it as the go-to debunking whenever solar roads come up, because it does the math.",
+      "score": 1.0,
+      "tags": [
+        "solar power",
+        "debunking",
+        "engineering calculations",
+        "crowdfunding",
+        "energy"
+      ],
+      "categories": [
+        "renewables-storage",
+        "electronics-circuits"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Kx411v7ap",
+          "page": 1,
+          "cid": 17499659,
+          "title": "EEVblog #632 - Solar Roadways Are BULLSHIT!",
+          "up": "剪蘑菇的小姑娘",
+          "duration": 1921,
+          "kind": "original",
+          "views": 46,
+          "pic": "https://i1.hdslb.com/bfs/archive/b99636a603f7aedbbe7be2cc0430cf7d8e473bea.jpg",
+          "checked_at": "2026-11-07T03:39:37.271517+00:00"
+        }
+      ]
+    },
+    {
+      "id": "orQKfIXMiA8",
+      "title": "You Need to Be Bored. Here's Why.",
+      "author": "Harvard Business Review",
+      "source_url": "https://www.youtube.com/watch?v=orQKfIXMiA8",
+      "summary": "Harvard professor Arthur Brooks explains why boredom is useful rather than something to avoid. He describes how a wandering mind engages the brain's default mode network, which supports creativity and curiosity, and suggests it may protect against depression.",
+      "why": "Commenters cite it when arguing for less phone time and more idle, undistracted thinking.",
+      "score": 1.0,
+      "tags": [
+        "boredom",
+        "default mode network",
+        "creativity",
+        "phone use",
+        "wellbeing"
+      ],
+      "categories": [
+        "neuroscience-brain",
+        "productivity-self-improvement",
+        "psychology-behavior"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1A3hRzpEqj",
+          "page": 1,
+          "cid": 32022073327,
+          "title": "【YouTube搬运】你需要感到无聊。原因如下You Need to Be Bored. Here's Why",
+          "up": "小溪_YouTube搬运笔记本",
+          "duration": 350,
+          "kind": "original",
+          "views": 344,
+          "pic": "https://i2.hdslb.com/bfs/archive/23fe001c6ed0bbb4de7a9287f5252b397d7495e0.jpg",
+          "checked_at": "2026-11-07T03:41:53.399283+00:00"
+        }
+      ]
+    },
+    {
+      "id": "outcGtbnMuQ",
+      "title": "GPT-4 Developer Livestream",
+      "author": "OpenAI",
+      "source_url": "https://www.youtube.com/watch?v=outcGtbnMuQ",
+      "summary": "OpenAI's livestream demo of GPT-4 with Greg Brockman, showing its capabilities and limitations. Highlights include writing code, turning a hand-drawn sketch into a website, and a tax-question example.",
+      "why": "HN refers back to it as the primary source for what GPT-4 could do at launch, especially the sketch-to-website and multimodal demos.",
+      "score": 1.0,
+      "tags": [
+        "gpt-4",
+        "openai",
+        "multimodal",
+        "code generation",
+        "greg brockman"
+      ],
+      "categories": [
+        "llms-generative-ai"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1mx4y1N7b9",
+          "page": 1,
+          "cid": 1053512665,
+          "title": "GPT-4 Developer Livestream",
+          "up": "双葉杏Sakura",
+          "duration": 1491,
+          "kind": "original",
+          "views": 79,
+          "pic": "https://i0.hdslb.com/bfs/archive/9a99d84b7b2bed8c328d3ffadf9a83e2e9d6178f.jpg",
+          "checked_at": "2026-11-07T03:42:17.347306+00:00"
+        }
+      ]
+    },
+    {
+      "id": "pVI_smLgTY0",
+      "title": "I installed Linux (so should you)",
+      "author": "PewDiePie",
+      "source_url": "https://www.youtube.com/watch?v=pVI_smLgTY0",
+      "summary": "PewDiePie describes switching to Linux and encourages viewers to do the same. It is a casual, enthusiastic video aimed at a mainstream audience.",
+      "why": "HN mentions it as a sign of Linux reaching millions of non-technical viewers, with some finding it funny and others fascinating.",
+      "score": 1.0,
+      "tags": [
+        "pewdiepie",
+        "linux",
+        "hyprland",
+        "desktop freedom",
+        "youtube creator"
+      ],
+      "categories": [
+        "linux-open-source-os",
+        "internet-culture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1gxL6zQE6q",
+          "page": 1,
+          "cid": 29645933892,
+          "title": "【pewdiepie生肉】I installed Linux (so should you)",
+          "up": "瑶锅不是锅",
+          "duration": 1373,
+          "kind": "original",
+          "views": 1072,
+          "pic": "https://i0.hdslb.com/bfs/archive/583003cac3805c3ac08b69e3e5468f77dbcfc474.jpg",
+          "checked_at": "2026-11-07T03:47:27.699854+00:00"
+        }
+      ]
+    },
+    {
+      "id": "pWI5aVKvkCg",
+      "title": "Ryuichi Sakamoto - Blu (Tokyo Philharmonic Orchestra)",
+      "author": "forsythe",
+      "source_url": "https://www.youtube.com/watch?v=pWI5aVKvkCg",
+      "summary": "Ryuichi Sakamoto's piece Blu, performed by the Tokyo Philharmonic Orchestra. It was written to commemorate the 50th anniversary of the Aoyama clothing company.",
+      "why": "Offered as calm piano-led music for programming and shared as a personal favorite and memorial to Sakamoto.",
+      "score": 1.0,
+      "tags": [
+        "ryuichi sakamoto",
+        "piano",
+        "orchestra",
+        "ambient",
+        "japanese music"
+      ],
+      "categories": [
+        "music-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1gDV6zmEVk",
+          "page": 1,
+          "cid": 29810887957,
+          "title": "Blu - 坂本龍一",
+          "up": "00后打工人更不动了",
+          "duration": 318,
+          "kind": "original",
+          "views": 3859,
+          "pic": "https://i2.hdslb.com/bfs/archive/8796e038a10ccd75597098a3c07b841285598922.jpg",
+          "checked_at": "2026-11-07T03:47:40.184309+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ptjedOZEXPM",
+      "title": "Google I/O 2008 - Dalvik Virtual Machine Internals",
+      "author": "Google for Developers",
+      "source_url": "https://www.youtube.com/watch?v=ptjedOZEXPM",
+      "summary": "Dan Bornstein's Google I/O 2008 talk on the internals of Dalvik, the virtual machine that runs Android code. It covers the motivation for its design, the dex format and its register-based interpreter, plus tips for writing code that suits the platform.",
+      "why": "HN points to it as the primary source on Dalvik's dex bytecode, register-based design and memory-saving choices.",
+      "score": 1.0,
+      "tags": [
+        "dalvik",
+        "android",
+        "dex bytecode",
+        "register-based vm",
+        "google io"
+      ],
+      "categories": [
+        "compilers-interpreters",
+        "operating-systems"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Ps411K7AM",
+          "page": 1,
+          "cid": 47142840,
+          "title": "Google I_O 2008 - Dalvik Virtual Machine Internals",
+          "up": "外太空木鱼",
+          "duration": 3694,
+          "kind": "original",
+          "views": 140,
+          "pic": "https://i0.hdslb.com/bfs/archive/8dbe22212cf8b24bb82b198e3a4079a004ae93be.jpg",
+          "checked_at": "2026-11-07T03:50:54.083293+00:00"
+        }
+      ]
+    },
+    {
+      "id": "q5xvwPa3r7M",
+      "title": "How many PCIe Extensions is TOO MANY??",
+      "author": "Linus Tech Tips",
+      "source_url": "https://www.youtube.com/watch?v=q5xvwPa3r7M",
+      "summary": "Linus Tech Tips tests whether chaining many PCIe riser extensions causes loss of GPU performance. They keep adding extensions to see how far the signal will go.",
+      "why": "HN cites it as empirical evidence that PCIe cables can be chained to roughly three meters before failing.",
+      "score": 1.0,
+      "tags": [
+        "pcie",
+        "riser cables",
+        "gpu",
+        "hardware testing",
+        "linus tech tips"
+      ],
+      "categories": [
+        "computer-architecture",
+        "electronics-circuits",
+        "consumer-devices"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1vx411t7Xw",
+          "page": 1,
+          "cid": 22943196,
+          "title": "How many PCIe Extensions is TOO MANY??(英文字幕)",
+          "up": "空管不会飞",
+          "duration": 581,
+          "kind": "original",
+          "views": 89,
+          "pic": "https://i1.hdslb.com/bfs/archive/cdee2a8e8e7ad08b835035158eac19633c445612.jpg",
+          "checked_at": "2026-11-07T03:51:45.196118+00:00"
+        }
+      ]
+    },
+    {
       "id": "qS4H6PEcCCA",
       "title": "Epicycles, complex Fourier series and Homer Simpson's orbit",
       "author": "Mathologer",
@@ -38363,6 +39257,40 @@
           "views": 186,
           "pic": "https://i0.hdslb.com/bfs/archive/6ae86ad9ff017f36b9b6c967da29fc7d453ef202.jpg",
           "checked_at": "2026-11-06T00:46:16.926587+00:00"
+        }
+      ]
+    },
+    {
+      "id": "qWKUFK7MWvg",
+      "title": "CVPR 2018: Learning to See in the Dark",
+      "author": "Chen Chen",
+      "source_url": "https://www.youtube.com/watch?v=qWKUFK7MWvg",
+      "summary": "A short video accompanying the CVPR 2018 paper Learning to See in the Dark. It shows a neural network producing sharp images from very low-light raw sensor data, compared against denoising approaches.",
+      "why": "HN commenters flag it as a remarkable machine-learning result, notably for showing that training on raw images beats JPEG.",
+      "score": 1.0,
+      "tags": [
+        "computer vision",
+        "raw images",
+        "denoising",
+        "cvpr",
+        "neural networks"
+      ],
+      "categories": [
+        "computer-vision-speech",
+        "machine-learning"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1zp411f7j3",
+          "page": 1,
+          "cid": 38612659,
+          "title": "Learning to See in the Dark - CVPR 2018",
+          "up": "ZRS",
+          "duration": 211,
+          "kind": "original",
+          "views": 1699,
+          "pic": "https://i0.hdslb.com/bfs/archive/028fa8f60a063450970279d48318670aee11b978.jpg",
+          "checked_at": "2026-11-07T03:53:40.550534+00:00"
         }
       ]
     },
@@ -41089,6 +42017,7 @@
     "BV1FW411h7vD": "HipTO_7mUOw",
     "BV1ss411V7s9": "I6IQ_FOCE6I",
     "BV1fTM6zEERn": "IQJL3htsDyQ",
+    "BV1PE411J7Xh": "IvUU8joBb1Q",
     "BV1uJ411A7gd": "K1xnYFCZ9Yg",
     "BV148WPeGEh9": "K1xnYFCZ9Yg",
     "BV1wf4y1X75w": "KdfHVcU8U7U",
@@ -41228,6 +42157,7 @@
     "BV18v7p6bETX": "7aXbh9VUB3U",
     "BV1ds411L7jE": "7d9juPsv1QU",
     "BV1ue4y1o7JK": "8dT6CR9_6l4",
+    "BV1234y1U7q6": "8s7NmMl_-yg",
     "BV1Zq4y1d7xr": "9KR2N_Q8ep8",
     "BV1Pb4y1S7Fc": "ALaTm6VzTBw",
     "BV1WW411c7XM": "AYshVbcEmUc",
@@ -41312,27 +42242,52 @@
     "BV177411P7KV": "fAxHlLK3Oyk",
     "BV1jD421M7YB": "fCd6B5HRaZ8",
     "BV1ep411f7qq": "fT4lDU-QLUY",
+    "BV1pq4y1c7zs": "fkUwXenBokU",
     "BV1MT4y1c7p7": "fnUc_W3xE1w",
+    "BV1ZUGQz9EJB": "fu3ETgAvQrw",
+    "BV1BD4y1W7ha": "gzgyksS5pX8",
     "BV17pmjBbEfQ": "h4T_LlK1VE4",
     "BV1kZ4y1g7MC": "h4T_LlK1VE4",
     "BV1Tz4y1r763": "h4T_LlK1VE4",
     "BV1EeMCztE4J": "h4T_LlK1VE4",
     "BV1feMt6wEvk": "hBMoPUAeLnY",
+    "BV1bA411N7xj": "hKcOkWzj0_s",
+    "BV1nb411r79e": "hLrFyjGZ9NU",
     "BV1jW411q7xd": "hWTFG3J1CP8",
     "BV1ZW411Y79M": "hWTFG3J1CP8",
     "BV1bU79zcEZ7": "ipRvjS7q1DI",
     "BV1tChwzSEXq": "iv-5mZ_9CPY",
     "BV1iqUKBwEKd": "iv-5mZ_9CPY",
+    "BV1qa411t7XT": "j800SVeiS5I",
+    "BV1SA411i73S": "jcvd5JZkUXY",
+    "BV1EW411G7kb": "jeghGhVdt9s",
+    "BV1tr4y1r7wu": "jpNU72dny2s",
+    "BV1Cm4119752": "jziQBWQxvok",
     "BV1Br4y1J7W4": "kFT54hO1X8M",
+    "BV13b411M7Jv": "kJXRyWQgOY4",
+    "BV19tej6oEXk": "kRlhlCWplqk",
     "BV1gi4y1G71g": "kopoLzvh5jY",
     "BV1ni4y1B7Mr": "kopoLzvh5jY",
+    "BV1ig411j7Qw": "kz165f1g8-E",
     "BV13a4y1J7oy": "l4UgZBs7ZGo",
     "BV1o54y1p7GH": "mGQLXRTl3Z0",
     "BV18M4y1F7GP": "mZBwsm6B280",
+    "BV1fJ4m1L7wH": "makaJpLvbow",
+    "BV1Bv41157nP": "n-BZ5-Q48lE",
+    "BV1NE411q71v": "nCgQDjiotG0",
+    "BV1tA411s7z7": "nnsSUqgkDwU",
     "BV1TN4y1H7bY": "nzCaZQqAs9I",
     "BV1ZMffYUEPP": "o0Bi-q89j5Y",
     "BV1k54y127E9": "oRLON3ddZIw",
+    "BV1Kx411v7ap": "obS6TUVSZds",
+    "BV1A3hRzpEqj": "orQKfIXMiA8",
+    "BV1mx4y1N7b9": "outcGtbnMuQ",
+    "BV1gxL6zQE6q": "pVI_smLgTY0",
+    "BV1gDV6zmEVk": "pWI5aVKvkCg",
+    "BV1Ps411K7AM": "ptjedOZEXPM",
+    "BV1vx411t7Xw": "q5xvwPa3r7M",
     "BV1es411c7mE": "qS4H6PEcCCA",
+    "BV1zp411f7j3": "qWKUFK7MWvg",
     "BV1csdzYxEAN": "sCr_gb8rdEI",
     "BV12z4y117aj": "tCRPUv8V22o",
     "BV14Y41147Au": "thnXzUFJnfQ",
