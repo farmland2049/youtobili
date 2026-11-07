@@ -1,50 +1,74 @@
 {
-  "updated_at": "2026-11-07T04:22:20.802769+00:00",
+  "updated_at": "2026-11-07T05:32:10.725875+00:00",
   "corpus": 6454,
-  "processed": 4738,
-  "confirmed": 1041,
-  "coverage": 0.1612953207313294,
-  "processed_match_rate": 0.21971295905445334,
+  "processed": 4802,
+  "confirmed": 1047,
+  "coverage": 0.16222497675859932,
+  "processed_match_rate": 0.2180341524364848,
   "statuses": {
-    "confirmed": 1041,
-    "review": 3698
+    "confirmed": 1047,
+    "review": 3759
   },
-  "not_processed": 1716,
+  "not_processed": 1652,
   "verification_batch": {
-    "id": "2026-11-06T23:01:54.753568+00:00",
-    "source": "serial-20261106T222929Z-leads-2.json",
-    "attempted": 3,
-    "completed": 3,
-    "confirmed": 3,
-    "errors": [],
-    "stopped": false
+    "id": "2026-11-07T05:30:40.632221+00:00",
+    "source": "cached-identity-leads.json",
+    "attempted": 11,
+    "completed": 10,
+    "confirmed": 9,
+    "errors": [
+      {
+        "bvid": "BV1DLCqYzEyH",
+        "reason": "URLError"
+      }
+    ],
+    "stopped": false,
+    "request_failed": true
   },
   "blocked_searches": [
     {
       "vid": "sWFFiubtC3c",
       "reason": "URLError"
+    },
+    {
+      "vid": "sXwDrcd1t-E",
+      "reason": "TimeoutError"
+    },
+    {
+      "vid": "wrHXA2cSpNU",
+      "reason": "URLError"
     }
   ],
-  "candidates": 160526,
-  "review_expansion_pending": 164,
-  "expanded_reviews": 3534,
+  "candidates": 162910,
+  "review_expansion_pending": 167,
+  "expanded_reviews": 3592,
   "batch": {
-    "id": "20261107T041732Z",
+    "id": "20261107T051322Z",
     "selected": 50,
-    "completed": 2,
+    "completed": 12,
     "errors": [
       {
-        "vid": "sWFFiubtC3c",
+        "vid": "wrHXA2cSpNU",
         "reason": "URLError"
       }
     ],
     "stopped": false,
     "originals": [
-      "sQ56ve39l2I",
-      "sR8M4zARBXY"
+      "vzGPq9LSjEw",
+      "vzZy1Aqleno",
+      "w-WMn_zHCVo",
+      "w-tFdreZB94",
+      "w5ebcowAJD8",
+      "w8J5BWL8oJY",
+      "w8c_m6U1f9o",
+      "wKISPePFrIs",
+      "wTjMqda19wk",
+      "wW5vJyI_HcU",
+      "wgSZA3NPpBs",
+      "wi-b9k-0KfE"
     ],
     "primary_first": true,
-    "deferred_candidates": 0,
+    "deferred_candidates": 3,
     "excluded_originals": [
       "05WS0WN7zMQ",
       "1bO8zEaSuWg",
@@ -89,71 +113,76 @@
       "i5uSbp0YDhc",
       "iY57ErBkFFE",
       "s9fByRmAHgU",
+      "sWFFiubtC3c",
+      "sXwDrcd1t-E",
       "st571DYYTR8",
       "uTdyb-RWNKo",
       "vs41JrnGaxc",
       "y4sOfO8Ei1g"
     ],
-    "attempted": 3,
-    "unattempted": 47,
+    "attempted": 13,
+    "unattempted": 37,
     "statuses": {
-      "review": 3
+      "review": 12,
+      "confirmed": 1
     },
-    "candidate_count": 79
+    "candidate_count": 454
   },
   "candidate_statuses": {
-    "review": 159115,
-    "confirmed": 1403,
+    "review": 161486,
+    "confirmed": 1416,
     "unmatched": 7,
     "invalid": 1
   },
   "review_reasons": {
-    "duration outside tolerance": 85,
-    "no explicit original URL; manual identity review required; conflicting years": 139,
-    "no explicit original URL; manual identity review required": 8540,
+    "duration outside tolerance": 86,
+    "no explicit original URL; manual identity review required; conflicting years": 148,
+    "no explicit original URL; manual identity review required": 8684,
     "collection segment identity requires review": 151,
-    "no explicit original URL; manual identity review required; collection segment identity requires review": 1427,
-    "no explicit original URL; manual identity review required; duration outside tolerance; collection segment identity requires review": 15134,
-    "no explicit original URL; manual identity review required; duration outside tolerance": 23682,
+    "no explicit original URL; manual identity review required; collection segment identity requires review": 1451,
+    "no explicit original URL; manual identity review required; derivative content requires review": 72,
+    "no explicit original URL; manual identity review required; duration outside tolerance; collection segment identity requires review": 15365,
+    "no explicit original URL; manual identity review required; duration outside tolerance": 24201,
     "duration outside tolerance; collection segment identity requires review": 22,
-    "search duration shorter than original beyond tolerance; detail review deferred": 100933,
+    "search duration shorter than original beyond tolerance; detail review deferred": 102195,
     "description links multiple originals": 17,
     "no explicit original URL; manual identity review required; conflicting episode": 11,
-    "no explicit original URL; manual identity review required; conflicting years; duration outside tolerance": 624,
-    "no explicit original URL; manual identity review required; conflicting years; duration outside tolerance; collection segment identity requires review": 451,
+    "no explicit original URL; manual identity review required; conflicting years; duration outside tolerance": 667,
+    "no explicit original URL; manual identity review required; conflicting years; duration outside tolerance; collection segment identity requires review": 511,
     "no explicit original URL; manual identity review required; possibly abridged; collection segment identity requires review": 6,
-    "no explicit original URL; manual identity review required; conflicting episode; duration outside tolerance": 43,
+    "no explicit original URL; manual identity review required; conflicting episode; duration outside tolerance": 45,
     "duration outside tolerance; description links multiple originals": 9,
-    "no explicit original URL; manual identity review required; conflicting years; collection segment identity requires review": 36,
-    "no explicit original URL; manual identity review required; conflicting years; possibly abridged; duration outside tolerance; collection segment identity requires review": 1,
+    "no explicit original URL; manual identity review required; conflicting years; collection segment identity requires review": 39,
+    "no explicit original URL; manual identity review required; conflicting years; possibly abridged; duration outside tolerance; collection segment identity requires review": 2,
     "no explicit original URL; manual identity review required; description links multiple originals": 12,
+    "no explicit original URL; manual identity review required; derivative content requires review; duration outside tolerance": 75,
     "no explicit original URL; manual identity review required; duration outside tolerance; description links multiple originals": 44,
     "no explicit original URL; manual identity review required; conflicting years; conflicting episode; duration outside tolerance; collection segment identity requires review": 3,
     "no explicit original URL; manual identity review required; conflicting episode; duration outside tolerance; collection segment identity requires review": 49,
     "no explicit original URL; manual identity review required; possibly abridged": 22,
-    "The HackerTube original is C++ atomics from basic to advanced, but this Bilibili segment title identifies a different Fedor Pikus talk about Read Copy Update; conflicting talk titles require manual review despite the source-ID evidence.": 1,
-    "no explicit original URL; manual identity review required; possibly abridged; duration outside tolerance": 55,
-    "no explicit original URL; manual identity review required; possibly abridged; duration outside tolerance; collection segment identity requires review": 71,
+    "different talk title: C++ atomics vs Read Copy Update": 1,
+    "no explicit original URL; manual identity review required; possibly abridged; duration outside tolerance": 50,
+    "no explicit original URL; manual identity review required; possibly abridged; duration outside tolerance; collection segment identity requires review": 70,
+    "no explicit original URL; manual identity review required; derivative content requires review; collection segment identity requires review": 5,
     "conflicting episode; duration outside tolerance": 1,
-    "detail review deferred after primary identity confirmed": 7339,
+    "no explicit original URL; manual identity review required; derivative content requires review; duration outside tolerance; collection segment identity requires review": 27,
+    "detail review deferred after primary identity confirmed": 7381,
+    "no explicit original URL; manual identity review required; conflicting years; possibly abridged; duration outside tolerance": 8,
     "no explicit original URL; manual identity review required; conflicting episode; collection segment identity requires review": 5,
     "possibly abridged": 2,
-    "derivative content requires review": 2,
-    "no explicit original URL; manual identity review required; derivative content requires review; duration outside tolerance": 61,
-    "no explicit original URL; manual identity review required; derivative content requires review; collection segment identity requires review": 4,
-    "no explicit original URL; manual identity review required; derivative content requires review; duration outside tolerance; collection segment identity requires review": 24,
-    "no explicit original URL; manual identity review required; derivative content requires review": 62,
+    "derivative content requires review": 1,
+    "no explicit original URL; manual identity review required; conflicting years; description links multiple originals": 2,
     "no explicit original URL; manual identity review required; possibly abridged; duration outside tolerance; description links multiple originals": 1,
-    "conflicting Bilibili part title; manual identity review required": 1,
-    "conflicting episode number in Bilibili title; manual identity review required": 1,
-    "The Bilibili segment title says episode 310 while the HackerTube original is Lex Fridman Podcast episode 341; conflicting episode number requires manual review despite the source-ID evidence.": 1,
-    "Bilibili title labels this as episode 233, while the HackerTube original is episode 243; conflicting episode number requires manual review despite source-ID evidence.": 1,
-    "Bilibili title labels this as episode 212, while the HackerTube original is episode 221; conflicting episode number requires manual review despite source-ID evidence.": 1,
-    "no explicit original URL; manual identity review required; conflicting years; possibly abridged; duration outside tolerance": 2,
+    "Previously reviewed title/segment mismatch: The Most Common Cognitive Bias vs Can You Solve This": 1,
+    "Previously reviewed identity ambiguity: original #426 and Bilibili bracketed 381; numbering meaning unresolved": 1,
+    "Bilibili title identifies episode 310; original is Lex Fridman Podcast episode 341": 1,
+    "HackerTube episode 243; Bilibili title says episode 233": 1,
+    "HackerTube episode 221; Bilibili title says episode 212": 1,
     "Uploader explicitly states visual redactions in description; content consistency requires manual review.": 1,
+    "Title explicitly labels an MV recreation / Rhythm Doctor derivative": 1,
     "no explicit original URL; manual identity review required; original duration unavailable": 31,
     "no explicit original URL; manual identity review required; original duration unavailable; collection segment identity requires review": 5,
-    "no explicit original URL; manual identity review required; conflicting years; description links multiple originals": 1,
-    "no explicit original URL; manual identity review required; derivative content requires review; description links multiple originals": 1
+    "no explicit original URL; manual identity review required; derivative content requires review; description links multiple originals": 1,
+    "": 1
   }
 }

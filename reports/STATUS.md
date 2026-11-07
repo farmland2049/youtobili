@@ -1,37 +1,47 @@
 # 匹配进展
 
-更新时间：2026-11-07T04:22:20.802769+00:00
+更新时间：2026-11-07T05:32:10.725875+00:00
 
 - 原片库：6454
-- 完成处理：4738
-- 已确认原片：1041
-- 全库覆盖率：16.13%
-- 已处理原片匹配率：21.97%
-- 状态：{'confirmed': 1041, 'review': 3698}
+- 完成处理：4802
+- 已确认原片：1047
+- 全库覆盖率：16.22%
+- 已处理原片匹配率：21.80%
+- 状态：{'confirmed': 1047, 'review': 3759}
 
-- 待审中尚需扩大候选检查：164
-- 已扩大检查仍待审核：3534
+- 待审中尚需扩大候选检查：167
+- 已扩大检查仍待审核：3592
 
 ## 最近批次
 
 ```json
 {
-  "id": "20261107T041732Z",
+  "id": "20261107T051322Z",
   "selected": 50,
-  "completed": 2,
+  "completed": 12,
   "errors": [
     {
-      "vid": "sWFFiubtC3c",
+      "vid": "wrHXA2cSpNU",
       "reason": "URLError"
     }
   ],
   "stopped": false,
   "originals": [
-    "sQ56ve39l2I",
-    "sR8M4zARBXY"
+    "vzGPq9LSjEw",
+    "vzZy1Aqleno",
+    "w-WMn_zHCVo",
+    "w-tFdreZB94",
+    "w5ebcowAJD8",
+    "w8J5BWL8oJY",
+    "w8c_m6U1f9o",
+    "wKISPePFrIs",
+    "wTjMqda19wk",
+    "wW5vJyI_HcU",
+    "wgSZA3NPpBs",
+    "wi-b9k-0KfE"
   ],
   "primary_first": true,
-  "deferred_candidates": 0,
+  "deferred_candidates": 3,
   "excluded_originals": [
     "05WS0WN7zMQ",
     "1bO8zEaSuWg",
@@ -76,17 +86,20 @@
     "i5uSbp0YDhc",
     "iY57ErBkFFE",
     "s9fByRmAHgU",
+    "sWFFiubtC3c",
+    "sXwDrcd1t-E",
     "st571DYYTR8",
     "uTdyb-RWNKo",
     "vs41JrnGaxc",
     "y4sOfO8Ei1g"
   ],
-  "attempted": 3,
-  "unattempted": 47,
+  "attempted": 13,
+  "unattempted": 37,
   "statuses": {
-    "review": 3
+    "review": 12,
+    "confirmed": 1
   },
-  "candidate_count": 79
+  "candidate_count": 454
 }
 ```
 
@@ -94,13 +107,19 @@
 
 ```json
 {
-  "id": "2026-11-06T23:01:54.753568+00:00",
-  "source": "serial-20261106T222929Z-leads-2.json",
-  "attempted": 3,
-  "completed": 3,
-  "confirmed": 3,
-  "errors": [],
-  "stopped": false
+  "id": "2026-11-07T05:30:40.632221+00:00",
+  "source": "cached-identity-leads.json",
+  "attempted": 11,
+  "completed": 10,
+  "confirmed": 9,
+  "errors": [
+    {
+      "bvid": "BV1DLCqYzEyH",
+      "reason": "URLError"
+    }
+  ],
+  "stopped": false,
+  "request_failed": true
 }
 ```
 
