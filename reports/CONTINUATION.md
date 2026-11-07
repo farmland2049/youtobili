@@ -96,4 +96,4 @@
 
 新增确认：`KnIAAkSNtqo` → `BV1Lp4y1j7BZ`（2017/05/17: Senate hearing on Bill C16，3609秒）。B站完整简介含对应YouTube原片URL，单P，原片与分P时长完全一致。实播通过，播放器请求CID `1262877700`，实测时长3609秒。证据见 `reports/metadata-review-2026-11-08-resume11.json`、`reports/playback-increment-2026-11-08-resume11.json`；未做逐帧内容比较。
 
-当前工作库进度5342/6454，确认1091；本增量发布前数据校验、65项单元测试、桌面/手机浏览器检查和实播核验均通过，线上发布与Pages哈希核验待完成。
+当前工作库进度5342/6454，确认1091；本增量发布前数据校验、65项单元测试、桌面/手机浏览器检查和实播核验均通过。内容提交 `b23356fc8b8380b101ad3ac8f0bf317e44dd32ef` 已推送，Pages 部署运行 `42408010297` 完成后，线上 `data.json` 返回HTTP 200，SHA-256 `ba1ef46ac5e22f87af06492483ec3267e34150520172d5f569d556e798dd7218` 与本地一致，新增版本已在线核验，详情见 `reports/pages-check-2026-11-08-resume11.json`。
