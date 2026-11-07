@@ -97,3 +97,12 @@
 新增确认：`KnIAAkSNtqo` → `BV1Lp4y1j7BZ`（2017/05/17: Senate hearing on Bill C16，3609秒）。B站完整简介含对应YouTube原片URL，单P，原片与分P时长完全一致。实播通过，播放器请求CID `1262877700`，实测时长3609秒。证据见 `reports/metadata-review-2026-11-08-resume11.json`、`reports/playback-increment-2026-11-08-resume11.json`；未做逐帧内容比较。
 
 当前工作库进度5342/6454，确认1091；本增量发布前数据校验、65项单元测试、桌面/手机浏览器检查和实播核验均通过。内容提交 `b23356fc8b8380b101ad3ac8f0bf317e44dd32ef` 已推送，Pages 部署运行 `42408010297` 完成后，线上 `data.json` 返回HTTP 200，SHA-256 `ba1ef46ac5e22f87af06492483ec3267e34150520172d5f569d556e798dd7218` 与本地一致，新增版本已在线核验，详情见 `reports/pages-check-2026-11-08-resume11.json`。
+
+
+## 2026-11-08 恢复后增量十二
+
+批次 `20261107T195823Z` 选择50条，49条完成（47条待审、2条确认），第50条 `MoaWlKC3wIM` 遇到 `URLError`，进程退出；未自动重试，该ID已加入本机阻塞清单，累计71条。错误不表示视频失效。
+
+新增确认并经元数据与实播复核：`LSHZ_b05W7o` → `BV12s411t77E`（Sony CSL 的 Daddy's Car，181秒）；`LXb3EKWsInQ` → `BV1zDvYe6EQ4`（COSTA RICA IN 4K 60fps HDR，原片314秒、分P315秒）。两条完整B站简介都含对应YouTube原片链接，均为单P；实播均通过并观察到记录CID（`10474111`、`500001634779260`），播放器时长分别为181秒、约313.699秒。元数据快照与简介哈希见 `reports/metadata-review-2026-11-08-resume12.json`，播放器结果见 `reports/playback-increment-2026-11-08-resume12.json`；未做逐帧比较。
+
+当前工作库进度5391/6454，确认1093。本次构建数据校验、65项单元测试、桌面/手机浏览器检查及新增两条真实播放核验均通过；本增量线上发布与Pages哈希核验待完成。

@@ -1,0 +1,47 @@
+{
+  "checked_at": "2026-11-07T21:01:35.518Z",
+  "checks": [
+    {
+      "sample": "LSHZ_b05W7o",
+      "kind": "original",
+      "id": "LSHZ_b05W7o",
+      "bvid": "BV12s411t77E",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.716158,
+        "duration": 181,
+        "paused": false
+      },
+      "expected_duration": 181,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "10474111"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "史上第一次：索尼人工智能创作了一首歌——Daddy's Car\n风雪漫千原\n关注\n70\n27\n分享\n更多\n00:04 / 03:01\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "LXb3EKWsInQ",
+      "kind": "original",
+      "id": "LXb3EKWsInQ",
+      "bvid": "BV1zDvYe6EQ4",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.953423,
+        "duration": 313.69899999999996,
+        "paused": false
+      },
+      "expected_duration": 315,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "500001634779260"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "COSTA RICA IN 4K 60fps HDR (ULTRA HD)|哥斯达黎加4K 60fps HDR(超高清)\n我的世界石蒂芬\n关注\n3\n0\n分享\n更多\n00:04 / 05:14\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}
