@@ -1,80 +1,55 @@
 # 匹配进展
 
-更新时间：2026-11-07T22:04:54.483432+00:00
+更新时间：2026-11-07T22:31:23.382276+00:00
 
 - 原片库：6454
-- 完成处理：5395
-- 已确认原片：1111
-- 全库覆盖率：17.21%
-- 已处理原片匹配率：20.59%
-- 状态：{'confirmed': 1111, 'review': 4313}
+- 完成处理：5415
+- 已确认原片：1114
+- 全库覆盖率：17.26%
+- 已处理原片匹配率：20.57%
+- 状态：{'confirmed': 1114, 'review': 4327}
 
-- 待审中尚需扩大候选检查：181
-- 已扩大检查仍待审核：4132
+- 待审中尚需扩大候选检查：178
+- 已扩大检查仍待审核：4149
 
 ## 最近批次
 
 ```json
 {
-  "id": "20261107T215233Z",
+  "id": "20261107T220820Z",
   "selected": 50,
-  "completed": 50,
-  "errors": [],
+  "completed": 20,
+  "errors": [
+    {
+      "vid": "NMQv0j29WHA",
+      "reason": "URLError"
+    }
+  ],
   "stopped": false,
   "originals": [
-    "S-Xm7s9eGxU",
-    "lXfEK8G8CUI",
-    "1sd26pWhfmg",
-    "H-XfCl-HpRM",
-    "PaypcVFPs48",
-    "_zfN9wnPvU0",
-    "xUezfuy8Qpc",
-    "-MTRxRO5SRA",
-    "6JwEYamjXpA",
-    "9XkHBmE-N34",
-    "EH6vE97qIP4",
-    "EL7Au1tzNxE",
-    "MtxA20Q-Uss",
-    "SA8ZBJWo73E",
-    "ThjvMReOXYM",
-    "WU0gvPcc3jQ",
-    "Zklo4Z1SqkE",
-    "koTf7u0v41o",
-    "rGgG-0lOJjk",
-    "tIeHLnjs5U8",
-    "ulCdoCfw-bY",
-    "uzkD5SeuwzM",
-    "4rTv9wvvat8",
-    "AxnotgLql0k",
-    "E2MIpi8pIvY",
-    "GL77oOnrPzY",
-    "i4pxw4tYeCU",
-    "469chceiiUQ",
-    "5BXtgq0Nhsc",
-    "JOiGEI9pQBs",
-    "KZeIEiBrT_w",
-    "LCEmiRjPEtQ",
-    "LEENEFaVUzU",
-    "OA8dNFiVaF0",
-    "QK8mJJJvaes",
-    "ZW8gWgpptI8",
-    "dqwpQarrDwk",
-    "hM_h0UA7upI",
-    "lsWndfzuOc4",
-    "orQKfIXMiA8",
-    "sCr_gb8rdEI",
-    "t-_VPRCtiUg",
-    "3mbBbFH9fAg",
-    "8mxubNQC5O8",
-    "JtUAAXe_0VI",
-    "L_Guz73e6fw",
-    "Q1YqgPAtzho",
-    "VtvjbmoDx-I",
-    "YR5ApYxkU-U",
-    "dtjb2OhEQcU"
+    "kJQP7kiw5Fk",
+    "lUQ_0MubbcM",
+    "q4DF3j4saCE",
+    "xAUJYP8tnRE",
+    "Mr0rWJhv9jU",
+    "MvEXkd3O2ow",
+    "My2FRPA3Gf8",
+    "Mz14Ul-r63w",
+    "MzJ0CytAsec",
+    "N1KvgtEnABY",
+    "N3zU7sV4bJE",
+    "N5xfBtD6rLY",
+    "N6K9dS9wl7U",
+    "N9wsjroVlu8",
+    "NCmTJkZy0rM",
+    "NCvKXgp-Awo",
+    "NDH3FDfVQl0",
+    "NH0aEp1oDOI",
+    "NIhCuzxNvv0",
+    "NK0Y9j_CGgM"
   ],
   "primary_first": true,
-  "deferred_candidates": 310,
+  "deferred_candidates": 12,
   "excluded_originals": [
     "-e1_QhJ1EhQ",
     "05WS0WN7zMQ",
@@ -149,13 +124,13 @@
     "y4sOfO8Ei1g",
     "yg-UqIIvang"
   ],
-  "attempted": 50,
-  "unattempted": 0,
+  "attempted": 21,
+  "unattempted": 29,
   "statuses": {
-    "review": 21,
-    "confirmed": 29
+    "review": 18,
+    "confirmed": 3
   },
-  "candidate_count": 1938
+  "candidate_count": 792
 }
 ```
 
