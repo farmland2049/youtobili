@@ -116,4 +116,4 @@
 
 新增确认版本：`MShbP3OpASA` → `BV1bE411E7Gm`、`2B-XwPjn9YY` → `BV14t411h776`、`ErwS24cBZPc` → `BV15LpMzREhR`、`nM9f0W2KD5s` → `BV1YK4y1W7VA`、`H1KP4ztKK0A` → `BV15X4y1T7wA`。五条均有B站完整简介中的精确原片链接，选定单P、时长一致，真实播放及CID检查均通过。三条为既有原片新增可切换版本，另两条新增原片。元数据详情及快照哈希见 `reports/metadata-review-2026-11-08-resume13.json`，播放器结果见 `reports/playback-increment-2026-11-08-resume13.json`；未做逐帧比较。
 
-本地构建当前进度5295/6454，确认1095；新增版本已通过数据校验、65项单元测试、桌面/手机浏览器场景、Node语法和实播核验，线上发布与Pages核验待完成。
+构建进度5295/6454，确认1095；新增版本已通过数据校验、65项单元测试、桌面/手机浏览器场景、Node语法和实播核验。提交 `3060c188bfbae6be1febf40d1cb2b87f38a49855` 已推送；Pages `data.json` 返回HTTP 200，SHA-256 `f29567234791fcc71be5625fc78311fb06336c968137016306483381ccc41f36` 与本地一致，详情见 `reports/pages-check-2026-11-08-resume13.json`。
