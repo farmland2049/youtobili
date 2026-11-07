@@ -72,4 +72,4 @@
 
 新增确认：`GYkq9Rgoj8E` → `BV1EM4y1v7eK`（WWDC 2023 — June 5，7571秒）；`GeCP-0nuziE` → `BV1DRoQYjE49`（The TRUTH About How LTT Makes Money，991秒）；`H8eP99neOVs` → `BV13a411Y7SN`（Focusing is about saying no，184秒，对比原片186秒）。三条B站完整简介均含对应YouTube原片URL，均为单P且在时长容差内。实播全部通过，播放器实际请求CID依次为 `1154298918`、`29105328091`、`718087353`，实测时长与分P一致。元数据和播放器证据见 `reports/metadata-review-2026-11-08-resume8.json`、`reports/playback-increment-2026-11-08-resume8.json`；未做逐帧内容比较。
 
-当前工作库进度5261/6454，确认1086；本增量发布前数据校验、65项单元测试、桌面/手机浏览器检查和实播核验均通过，线上发布与Pages哈希核验待完成。
+当前工作库进度5261/6454，确认1086；本增量发布前数据校验、65项单元测试、桌面/手机浏览器检查和实播核验均通过。提交 `3f391420f8650a0f565a55e88c0ea5b82e9000ad` 已推送；Pages `data.json` 返回HTTP 200，SHA-256 `d0cf80fd3def66b83cfbb32225b3da4c4b78cc8708c566f543fc05450957f20a` 与本地一致，3条新增版本均在线核验，详情见 `reports/pages-check-2026-11-08-resume8.json`。
