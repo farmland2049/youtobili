@@ -1,0 +1,35 @@
+{
+  "checked_at": "2026-11-07T22:39:40Z",
+  "url": "https://qinqiang316.github.io/youtobili/data.json",
+  "http_status": 200,
+  "data_sha256": "bdfe251e4a937cadebf4de895f0f2d1f569aa93343c5d82d192db420247946d8",
+  "stats": {
+    "corpus": 6454,
+    "processed": 5415,
+    "confirmed": 1114
+  },
+  "published_commit": "30a91c24bf3df2a4a4e5e92ef8e9aa1c1fc26590",
+  "workflow_run_id": 42421562637,
+  "new_originals": [
+    "kJQP7kiw5Fk",
+    "lUQ_0MubbcM",
+    "N5xfBtD6rLY"
+  ],
+  "published_versions": [
+    {
+      "youtube_id": "kJQP7kiw5Fk",
+      "bvid": "BV1XbfHYzEqD",
+      "page": 1
+    },
+    {
+      "youtube_id": "lUQ_0MubbcM",
+      "bvid": "BV1rw411C7Va",
+      "page": 1
+    },
+    {
+      "youtube_id": "N5xfBtD6rLY",
+      "bvid": "BV1Fd4y1c7Ti",
+      "page": 1
+    }
+  ]
+}

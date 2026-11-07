@@ -137,4 +137,4 @@
 
 本轮新增确认版本：`kJQP7kiw5Fk` → `BV1XbfHYzEqD`（Despacito，282秒）、`lUQ_0MubbcM` → `BV1rw411C7Va`（Why Does the U.S. Support Israel，461秒）、`N5xfBtD6rLY` → `BV1Fd4y1c7Ti`（Military Recruitment and Hollywood，923秒）。三条均为单P，完整简介含精确原片链接，元数据时长一致；实播均成功并观察到对应CID与一致时长。快照和简介哈希见 `reports/metadata-review-2026-11-08-resume16.json`，播放器结果见 `reports/playback-increment-2026-11-08-resume16.json`；未做逐帧比较。
 
-构建后共1114张原片卡、1489个确认分P、0个冲突，`data.json` SHA-256 为 `bdfe251e4a937cadebf4de895f0f2d1f569aa93343c5d82d192db420247946d8`。数据校验通过；65项单元测试、Node语法检查、桌面/手机15个浏览器场景及三条实播检查通过。内容推送与Pages线上哈希核验待完成。下一批须先重新运行搜索健康检查并继续排除 `NMQv0j29WHA`。
+构建后共1114张原片卡、1489个确认分P、0个冲突，`data.json` SHA-256 为 `bdfe251e4a937cadebf4de895f0f2d1f569aa93343c5d82d192db420247946d8`。数据校验通过；65项单元测试、Node语法检查、桌面/手机15个浏览器场景及三条实播检查通过。内容提交 `30a91c24bf3df2a4a4e5e92ef8e9aa1c1fc26590` 已推送至 `main`；Pages 部署运行 `42421562637` 成功，线上 `data.json` 返回HTTP 200，SHA-256 `bdfe251e4a937cadebf4de895f0f2d1f569aa93343c5d82d192db420247946d8` 与本地一致，3条新增卡片已在线核验，详情见 `reports/pages-check-2026-11-08-resume16.json`。按用户要求，本轮暂停于页面推送完成；恢复匹配时先重新运行搜索健康检查并继续排除 `NMQv0j29WHA`。
