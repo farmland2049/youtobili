@@ -1,48 +1,46 @@
 # 匹配进展
 
-更新时间：2026-11-07T05:32:10.725875+00:00
+更新时间：2026-11-07T06:47:55.580726+00:00
 
 - 原片库：6454
-- 完成处理：4802
-- 已确认原片：1047
-- 全库覆盖率：16.22%
-- 已处理原片匹配率：21.80%
-- 状态：{'confirmed': 1047, 'review': 3759}
+- 完成处理：4871
+- 已确认原片：1054
+- 全库覆盖率：16.33%
+- 已处理原片匹配率：21.64%
+- 状态：{'confirmed': 1054, 'review': 3823}
 
-- 待审中尚需扩大候选检查：167
-- 已扩大检查仍待审核：3592
+- 待审中尚需扩大候选检查：169
+- 已扩大检查仍待审核：3654
 
 ## 最近批次
 
 ```json
 {
-  "id": "20261107T051322Z",
+  "id": "20261107T063514Z",
   "selected": 50,
-  "completed": 12,
+  "completed": 9,
   "errors": [
     {
-      "vid": "wrHXA2cSpNU",
+      "vid": "08K_aEajzNA",
       "reason": "URLError"
     }
   ],
   "stopped": false,
   "originals": [
-    "vzGPq9LSjEw",
-    "vzZy1Aqleno",
-    "w-WMn_zHCVo",
-    "w-tFdreZB94",
-    "w5ebcowAJD8",
-    "w8J5BWL8oJY",
-    "w8c_m6U1f9o",
-    "wKISPePFrIs",
-    "wTjMqda19wk",
-    "wW5vJyI_HcU",
-    "wgSZA3NPpBs",
-    "wi-b9k-0KfE"
+    "-i0hat7pdpk",
+    "-lErGZZgUbY",
+    "-yUafzOXHPE",
+    "-zVgWpVXb64",
+    "00gAbgBu8R4",
+    "02Or-Hx3yqc",
+    "03iwAY4KlIU",
+    "0506yDSgU7M",
+    "07jq-5VbBVQ"
   ],
   "primary_first": true,
-  "deferred_candidates": 3,
+  "deferred_candidates": 14,
   "excluded_originals": [
+    "-e1_QhJ1EhQ",
     "05WS0WN7zMQ",
     "1bO8zEaSuWg",
     "1wVho3I0NtU",
@@ -91,15 +89,17 @@
     "st571DYYTR8",
     "uTdyb-RWNKo",
     "vs41JrnGaxc",
-    "y4sOfO8Ei1g"
+    "wrHXA2cSpNU",
+    "y4sOfO8Ei1g",
+    "yg-UqIIvang"
   ],
-  "attempted": 13,
-  "unattempted": 37,
+  "attempted": 10,
+  "unattempted": 40,
   "statuses": {
-    "review": 12,
+    "review": 9,
     "confirmed": 1
   },
-  "candidate_count": 454
+  "candidate_count": 389
 }
 ```
 
@@ -107,19 +107,13 @@
 
 ```json
 {
-  "id": "2026-11-07T05:30:40.632221+00:00",
-  "source": "cached-identity-leads.json",
-  "attempted": 11,
-  "completed": 10,
-  "confirmed": 9,
-  "errors": [
-    {
-      "bvid": "BV1DLCqYzEyH",
-      "reason": "URLError"
-    }
-  ],
-  "stopped": false,
-  "request_failed": true
+  "id": "2026-11-07T06:47:30.394425+00:00",
+  "source": "cached-identity-leads-unseen.json",
+  "attempted": 1,
+  "completed": 1,
+  "confirmed": 1,
+  "errors": [],
+  "stopped": false
 }
 ```
 

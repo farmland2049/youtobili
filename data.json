@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-07T05:32:10.754775+00:00",
+  "built_at": "2026-11-07T06:47:55.606533+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 4802,
-    "confirmed": 1047,
-    "coverage": 0.16222497675859932,
-    "processed_match_rate": 0.2180341524364848
+    "processed": 4871,
+    "confirmed": 1054,
+    "coverage": 0.16330957545708089,
+    "processed_match_rate": 0.21638267296243072
   },
   "areas": [
     {
@@ -907,6 +907,18 @@
         "education-learning"
       ],
       "versions": [
+        {
+          "bvid": "BV1JS4y1T7Qg",
+          "page": 1,
+          "cid": 477124879,
+          "title": "【公开课】【中文字幕】如何优雅的说话 麻省理工学院 Patrick Winston教授",
+          "up": "Loyalty_Royalty",
+          "duration": 3823,
+          "kind": "sub_zh",
+          "views": 6256,
+          "pic": "https://i2.hdslb.com/bfs/archive/9ea6b81166307e6b4be64cca8dcaef297c34b909.jpg",
+          "checked_at": "2026-11-07T06:47:30.655985+00:00"
+        },
         {
           "bvid": "BV1EvPjzME7B",
           "page": 1,
@@ -39793,6 +39805,39 @@
       ]
     },
     {
+      "id": "yYUuWWnfRsk",
+      "title": "Introducing Stretch | Boston Dynamics",
+      "author": "Boston Dynamics",
+      "source_url": "https://www.youtube.com/watch?v=yYUuWWnfRsk",
+      "summary": "Boston Dynamics introduces Stretch, a prototype robot that moves boxes in warehouses and distribution centers. Its mobile base lets it unload trucks, build pallets and assemble orders.",
+      "why": "HN links it as the official demo showing what Stretch actually does, though some commenters point out its limits, such as picking boxes from one side.",
+      "score": 1.0,
+      "tags": [
+        "boston dynamics",
+        "stretch",
+        "automation",
+        "logistics"
+      ],
+      "categories": [
+        "robotics",
+        "manufacturing-industry"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1av41187Y9",
+          "page": 1,
+          "cid": 316926702,
+          "title": "Introducing Stretch",
+          "up": "陈宥工主",
+          "duration": 121,
+          "kind": "original",
+          "views": 251,
+          "pic": "https://i1.hdslb.com/bfs/archive/f51262fd720715bfaaeef481b3126901fca80167.jpg",
+          "checked_at": "2026-11-07T05:56:49.199121+00:00"
+        }
+      ]
+    },
+    {
       "id": "z-q8ehzHeQQ",
       "title": "LCCS: The LCD / CRT Hybrid from JVC",
       "author": "Technology Connections",
@@ -39823,6 +39868,146 @@
           "views": 2867,
           "pic": "https://i1.hdslb.com/bfs/archive/0b1863265954e0e4aeaa03fb873279565cf1aa84.jpg",
           "checked_at": "2026-11-07T05:27:36.137355+00:00"
+        }
+      ]
+    },
+    {
+      "id": "z8VhNF_0I5c",
+      "title": "IBM Computing Cheese Cutter [Restoration]",
+      "author": "Hand Tool Rescue",
+      "source_url": "https://www.youtube.com/watch?v=z8VhNF_0I5c",
+      "summary": "A 47-minute restoration of a 1920s IBM computing cheese cutter, a machine with parts patented between 1901 and 1907. The video covers the restoration work and explains why it is a computing cheese cutter.",
+      "why": "HN shares it as a fun curiosity about early IBM history, with time stamps for the nameplate and the explanation.",
+      "score": 1.0,
+      "tags": [
+        "restoration",
+        "ibm history",
+        "cheese cutter",
+        "antique tools",
+        "patents"
+      ],
+      "categories": [
+        "history-of-computing",
+        "making-woodworking-metalwork",
+        "repair-teardown"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Mv411g7zE",
+          "page": 1,
+          "cid": 417808099,
+          "title": "[搬] Hand Tool Rescue IBM Computing Cheese Cutter 恢复",
+          "up": "wdygggh",
+          "duration": 2817,
+          "kind": "original",
+          "views": 916,
+          "pic": "https://i0.hdslb.com/bfs/archive/a7b4bdc911fafa5041691c314561d4502701a9b7.jpg",
+          "checked_at": "2026-11-07T06:04:21.411721+00:00"
+        }
+      ]
+    },
+    {
+      "id": "zJOS0sV2a24",
+      "title": "xkcd | Randall Munroe | Talks at Google",
+      "author": "Talks at Google",
+      "source_url": "https://www.youtube.com/watch?v=zJOS0sV2a24",
+      "summary": "Randall Munroe, creator of xkcd, gives an Authors@Google talk in 2007 about the webcomic and his background, followed by audience Q&A. Donald Knuth and Guido van Rossum ask questions during the session.",
+      "why": "HN refers to it for the moment where Knuth asks a question and addresses the Steve Jobs anecdote, a favorite geek moment.",
+      "score": 1.0,
+      "tags": [
+        "xkcd",
+        "randall munroe",
+        "donald knuth",
+        "talks at google",
+        "webcomics"
+      ],
+      "categories": [
+        "literature-writing",
+        "internet-culture",
+        "tech-figures-interviews"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1my4y1C7w3",
+          "page": 1,
+          "cid": 231987934,
+          "title": "xkcd _ Randall Munroe _ Talks at Google讲座",
+          "up": "56780201266_bili",
+          "duration": 3514,
+          "kind": "original",
+          "views": 82,
+          "pic": "https://i0.hdslb.com/bfs/archive/7c797d8ae0e2d05177baf3ff7cc1bf39b2fcec42.jpg",
+          "checked_at": "2026-11-07T06:06:09.301806+00:00"
+        }
+      ]
+    },
+    {
+      "id": "zR3Igc3Rhfg",
+      "title": "To Scale: THE SOLAR SYSTEM",
+      "author": "To Scale:",
+      "source_url": "https://www.youtube.com/watch?v=zR3Igc3Rhfg",
+      "summary": "A short film in which friends build the first true-to-scale model of the solar system, with full planetary orbits, on a Nevada dry lakebed. It conveys the real distances and sizes involved.",
+      "why": "Shared as the best visceral demonstration of solar system scale.",
+      "score": 1.0,
+      "tags": [
+        "scale model",
+        "solar system",
+        "astronomy",
+        "black rock desert",
+        "short film"
+      ],
+      "categories": [
+        "cosmology-astrophysics",
+        "space-exploration",
+        "data-visualization"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Qs41117ij",
+          "page": 1,
+          "cid": 4578480,
+          "title": "To Scale- The Solar System【生肉】【youtube搬运】",
+          "up": "helium6072",
+          "duration": 426,
+          "kind": "original",
+          "views": 355,
+          "pic": "https://i1.hdslb.com/bfs/archive/6ed7586ead1775d43a440a64c88c390d5ff0c02d.jpg",
+          "checked_at": "2026-11-07T06:09:58.875493+00:00"
+        }
+      ]
+    },
+    {
+      "id": "zRjTyRly5WA",
+      "title": "800+ days of Minecraft in 8 minutes",
+      "author": "Minecraft",
+      "source_url": "https://www.youtube.com/watch?v=zRjTyRly5WA",
+      "summary": "A Gource visualization of 826 days of Minecraft development, from alpha 1.2 to release 1.5, condensed into eight minutes. Each dot is a file, folders are links, and developers fly around zapping files as they work on them.",
+      "why": "Shared as the canonical example of visualizing a real project's version control history with Gource.",
+      "score": 1.0,
+      "tags": [
+        "gource",
+        "minecraft",
+        "git history",
+        "visualization",
+        "game development"
+      ],
+      "categories": [
+        "data-visualization",
+        "game-programming-engines",
+        "testing-debugging-tools"
+      ],
+      "versions": [
+        {
+          "bvid": "BV14x41157ws",
+          "page": 1,
+          "cid": 27340777,
+          "title": "8分钟看完Minecraft 826天开发进程（至1.5） 800+ days of Minecraft in 8 minutes - TeamMojang",
+          "up": "账号已注销",
+          "duration": 485,
+          "kind": "original",
+          "views": 365,
+          "pic": "https://i0.hdslb.com/bfs/archive/8086007074f596fb664f083be1ca612bf4658c66.jpg",
+          "checked_at": "2026-11-07T06:10:16.431275+00:00"
         }
       ]
     },
@@ -39858,6 +40043,40 @@
           "views": 4,
           "pic": "https://i2.hdslb.com/bfs/archive/33d06bb64ce9fe2df8b35d8c96c4ade1e661d9d7.jpg",
           "checked_at": "2026-11-07T05:27:34.135511+00:00"
+        }
+      ]
+    },
+    {
+      "id": "0506yDSgU7M",
+      "title": "Linux HATES Me – Daily Driver Challenge Pt.1",
+      "author": "Linus Tech Tips",
+      "source_url": "https://www.youtube.com/watch?v=0506yDSgU7M",
+      "summary": "Linus Tech Tips starts a series in which Linus and Luke move their home workstations to Linux. This episode has each pick a distro and try to get a game running on it, and Linus ends up breaking his Pop!_OS install.",
+      "why": "HN mostly cites it as evidence of Linux's rough edges for ordinary users, including the Steam install that removed the desktop environment, and it prompted an apt fix.",
+      "score": 0.0,
+      "tags": [
+        "linux",
+        "pop os",
+        "steam",
+        "gaming",
+        "desktop adoption"
+      ],
+      "categories": [
+        "linux-open-source-os",
+        "consumer-devices"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1mh411t7NC",
+          "page": 1,
+          "cid": 439603122,
+          "title": "[Linus Tech Tips]Linux HATES Me – Daily Driver CHALLENGE Pt.1",
+          "up": "詹豆包额",
+          "duration": 1262,
+          "kind": "original",
+          "views": 100,
+          "pic": "https://i0.hdslb.com/bfs/archive/e69c45ed73f95f634a8741c2c9b82958a16615eb.png",
+          "checked_at": "2026-11-07T06:43:52.247328+00:00"
         }
       ]
     },
@@ -41201,6 +41420,41 @@
       ]
     },
     {
+      "id": "ugvHCXCOmm4",
+      "title": "Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452",
+      "author": "Lex Fridman",
+      "source_url": "https://www.youtube.com/watch?v=ugvHCXCOmm4",
+      "summary": "A roughly five-hour Lex Fridman podcast episode with Anthropic CEO Dario Amodei, plus Amanda Askell on Claude's character and Chris Olah on mechanistic interpretability. It covers Claude, AGI and the future of AI.",
+      "why": "Mostly cited as a source for statements by Anthropic leaders, such as views on AI progress and on sycophancy.",
+      "score": 0.0,
+      "tags": [
+        "dario amodei",
+        "anthropic",
+        "claude",
+        "interpretability",
+        "agi"
+      ],
+      "categories": [
+        "ai-safety-impact",
+        "llms-generative-ai",
+        "tech-figures-interviews"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1JNSwB8EvF",
+          "page": 1,
+          "cid": 34369047535,
+          "title": "Lex Fridman Podcast #452《Anthropic 首席执行官 Dario Amodei：论 Claude、AGI 与人类／AI 的未来》",
+          "up": "GPT中英字幕课程资源",
+          "duration": 18901,
+          "kind": "original",
+          "views": 2140,
+          "pic": "https://i2.hdslb.com/bfs/archive/33f364b9f1a1d81eb7b78ed150e2bfe08aada25c.jpg",
+          "checked_at": "2026-11-07T05:38:03.388901+00:00"
+        }
+      ]
+    },
+    {
       "id": "wCDIYvFmgW8",
       "title": "Fatboy Slim ft. Bootsy Collins - Weapon Of Choice [Official 4k Video]",
       "author": "Fatboy Slim",
@@ -41239,6 +41493,7 @@
     "BV1Ys411k7yQ": "fNk_zzaMoSs",
     "BV1XcUSB1EXT": "fNk_zzaMoSs",
     "BV1mmno6FEqF": "fNk_zzaMoSs",
+    "BV1JS4y1T7Qg": "Unzc731iCUY",
     "BV1EvPjzME7B": "Unzc731iCUY",
     "BV1CbpC6QEnt": "Unzc731iCUY",
     "BV1R9hd6aEWi": "Unzc731iCUY",
@@ -42599,8 +42854,14 @@
     "BV1NdHcznE6r": "vElZc6zSIXM",
     "BV1ah41197fQ": "wgSZA3NPpBs",
     "BV1oA411K7jt": "y57wwucbXR8",
+    "BV1av41187Y9": "yYUuWWnfRsk",
     "BV1L5411W7MB": "z-q8ehzHeQQ",
+    "BV1Mv411g7zE": "z8VhNF_0I5c",
+    "BV1my4y1C7w3": "zJOS0sV2a24",
+    "BV1Qs41117ij": "zR3Igc3Rhfg",
+    "BV14x41157ws": "zRjTyRly5WA",
     "BV14HGV6UEzZ": "zqmOSMAtadc",
+    "BV1mh411t7NC": "0506yDSgU7M",
     "BV1uwnfzUEXF": "21EYKqUsPfg",
     "BV1FmEw69E1T": "4U2eDJnwz_s",
     "BV1UZ4y137Ps": "7xH7eGFuSYI",
@@ -42642,6 +42903,7 @@
     "BV1a4421U7ff": "ovYbgbrQ-v8",
     "BV1pu4jzvEck": "pZwvrxVavnQ",
     "BV1xW411L75Y": "stXgn2iZAAY",
+    "BV1JNSwB8EvF": "ugvHCXCOmm4",
     "BV1sp4y1b7Qy": "wCDIYvFmgW8"
   }
 }
