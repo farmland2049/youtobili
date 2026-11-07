@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-11-07T07:31:46.674Z",
+  "checks": [
+    {
+      "sample": "0nTDFLMLX9k",
+      "kind": "original",
+      "id": "0nTDFLMLX9k",
+      "bvid": "BV16S4y1f79p",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.878119,
+        "duration": 3996.833,
+        "paused": false
+      },
+      "expected_duration": 3998,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "475310246"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Destiny's Multithreaded Rendering Architecture\n画卦伏羲\n关注\n5\n2\n分享\n更多\n0:00:04 / 1:06:37\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "1IOL4q5tDDQ",
+      "kind": "original",
+      "id": "1IOL4q5tDDQ",
+      "bvid": "BV1Zx41187L3",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.946382,
+        "duration": 74,
+        "paused": false
+      },
+      "expected_duration": 74,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "18798237"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "The Secret of Monkey Island (Intro) (PC Speaker theme)\nDrQuest\n关注\n20\n5\n分享\n更多\n00:04 / 01:14\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "1La4QzGeaaQ",
+      "kind": "original",
+      "id": "1La4QzGeaaQ",
+      "bvid": "BV1vW411g7Ln",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.288539,
+        "duration": 338,
+        "paused": false
+      },
+      "expected_duration": 338,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "34678043"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "秘鲁8k，Peru 8K HDR 60FPS 测试cpu。\n假装高压锅的电饭煲\n关注\n4\n6\n分享\n更多\n00:05 / 05:38\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

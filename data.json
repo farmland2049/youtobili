@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-07T06:47:55.606533+00:00",
+  "built_at": "2026-11-07T07:31:06.089789+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 4871,
-    "confirmed": 1054,
-    "coverage": 0.16330957545708089,
-    "processed_match_rate": 0.21638267296243072
+    "processed": 4897,
+    "confirmed": 1057,
+    "coverage": 0.16377440347071584,
+    "processed_match_rate": 0.21584643659383296
   },
   "areas": [
     {
@@ -40081,6 +40081,109 @@
       ]
     },
     {
+      "id": "0nTDFLMLX9k",
+      "title": "Destiny's Multithreaded Rendering Architecture",
+      "author": "GDC Festival of Gaming",
+      "source_url": "https://www.youtube.com/watch?v=0nTDFLMLX9k",
+      "summary": "A GDC 2015 talk in which Natalya Tatarchuk describes the multithreaded renderer Bungie built for Destiny. It covers the low-latency architecture across platforms, its successes and its challenges.",
+      "why": "HN commenters cite it as the go-to talk on a job-system-based multithreaded game engine architecture.",
+      "score": 0.0,
+      "tags": [
+        "destiny",
+        "bungie",
+        "gdc",
+        "job system",
+        "renderer architecture"
+      ],
+      "categories": [
+        "game-programming-engines",
+        "computer-graphics-rendering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV16S4y1f79p",
+          "page": 1,
+          "cid": 475310246,
+          "title": "Destiny's Multithreaded Rendering Architecture",
+          "up": "画卦伏羲",
+          "duration": 3998,
+          "kind": "original",
+          "views": 118,
+          "pic": "https://i0.hdslb.com/bfs/archive/566a71ac8c404ffb2d0fdc6420c7deedf3e78102.jpg",
+          "checked_at": "2026-11-07T07:09:50.369061+00:00"
+        }
+      ]
+    },
+    {
+      "id": "1IOL4q5tDDQ",
+      "title": "The Secret of Monkey Island (Intro) (PC Speaker theme)",
+      "author": "Stan's Previously Owned Soundtracks",
+      "source_url": "https://www.youtube.com/watch?v=1IOL4q5tDDQ",
+      "summary": "The Secret of Monkey Island intro theme played through the internal PC speaker. It is a tribute to LucasArts.",
+      "why": "HN shares it for nostalgia about the tinny PC speaker sound of early adventure games.",
+      "score": 0.0,
+      "tags": [
+        "monkey island",
+        "pc speaker",
+        "lucasarts",
+        "retro gaming",
+        "chiptune"
+      ],
+      "categories": [
+        "demoscene-retrocomputing",
+        "game-history-retro",
+        "music-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Zx41187L3",
+          "page": 1,
+          "cid": 18798237,
+          "title": "The Secret of Monkey Island (Intro) (PC Speaker theme)",
+          "up": "DrQuest",
+          "duration": 74,
+          "kind": "original",
+          "views": 1709,
+          "pic": "https://i2.hdslb.com/bfs/archive/aa6e3c740922b7d12f07fcc72ad5cc2cd645562c.jpg",
+          "checked_at": "2026-11-07T07:20:30.220650+00:00"
+        }
+      ]
+    },
+    {
+      "id": "1La4QzGeaaQ",
+      "title": "Peru 8K HDR 60FPS (FUHD)",
+      "author": "Jacob + Katie Schwarz",
+      "source_url": "https://www.youtube.com/watch?v=1La4QzGeaaQ",
+      "summary": "A travel video of Peru shot natively in 8K HDR at 60fps on a Red Helium sensor. It covers Lima, the Amazon, Cusco and other places.",
+      "why": "HN doesn't recommend it for its content but uses it as a handy example of file size and bitrate for high-resolution video.",
+      "score": 0.0,
+      "tags": [
+        "8k",
+        "hdr",
+        "video encoding",
+        "peru",
+        "bandwidth"
+      ],
+      "categories": [
+        "audio-video-engineering",
+        "visual-arts"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1vW411g7Ln",
+          "page": 1,
+          "cid": 34678043,
+          "title": "秘鲁8k，Peru 8K HDR 60FPS 测试cpu。",
+          "up": "假装高压锅的电饭煲",
+          "duration": 338,
+          "kind": "original",
+          "views": 1042,
+          "pic": "https://i1.hdslb.com/bfs/archive/7dc0c1b3435f8a2f12b0d63c6ac6661e33eea828.png",
+          "checked_at": "2026-11-07T07:22:22.804444+00:00"
+        }
+      ]
+    },
+    {
       "id": "21EYKqUsPfg",
       "title": "Richard Sutton – Father of RL thinks LLMs are a dead end",
       "author": "Dwarkesh Patel",
@@ -42862,6 +42965,9 @@
     "BV14x41157ws": "zRjTyRly5WA",
     "BV14HGV6UEzZ": "zqmOSMAtadc",
     "BV1mh411t7NC": "0506yDSgU7M",
+    "BV16S4y1f79p": "0nTDFLMLX9k",
+    "BV1Zx41187L3": "1IOL4q5tDDQ",
+    "BV1vW411g7Ln": "1La4QzGeaaQ",
     "BV1uwnfzUEXF": "21EYKqUsPfg",
     "BV1FmEw69E1T": "4U2eDJnwz_s",
     "BV1UZ4y137Ps": "7xH7eGFuSYI",
