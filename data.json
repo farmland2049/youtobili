@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-07T09:02:23.712297+00:00",
+  "built_at": "2026-11-07T09:41:39.078645+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 4966,
-    "confirmed": 1060,
-    "coverage": 0.1642392314843508,
-    "processed_match_rate": 0.21345146999597261
+    "processed": 5001,
+    "confirmed": 1063,
+    "coverage": 0.16470405949798575,
+    "processed_match_rate": 0.21255748850229955
   },
   "areas": [
     {
@@ -40356,6 +40356,108 @@
       ]
     },
     {
+      "id": "5YGc4zOqozo",
+      "title": "United Breaks Guitars",
+      "author": "sonsofmaxwell",
+      "source_url": "https://www.youtube.com/watch?v=5YGc4zOqozo",
+      "summary": "Dave Carroll's song and music video about United Airlines baggage handlers breaking his Taylor guitar and the airline's refusal to compensate him. It became a viral example of a customer fighting a company.",
+      "why": "Used as the classic example of terrible airline customer service, and of how a viral video can force a company to respond.",
+      "score": 0.0,
+      "tags": [
+        "united airlines",
+        "viral video",
+        "customer complaints",
+        "dave carroll",
+        "airlines"
+      ],
+      "categories": [
+        "music-performance",
+        "internet-culture",
+        "product-growth-marketing"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1cUaozfEfP",
+          "page": 1,
+          "cid": 32253608887,
+          "title": "United Breaks Guitars-song 1",
+          "up": "大营销",
+          "duration": 277,
+          "kind": "original",
+          "views": 67,
+          "pic": "https://i0.hdslb.com/bfs/archive/e4d1da8887e4670e15d0eeeabfe1240bfe884a22.jpg",
+          "checked_at": "2026-11-07T09:14:27.110955+00:00"
+        }
+      ]
+    },
+    {
+      "id": "5iV_hB08Uns",
+      "title": "Handle Robot Reimagined for Logistics",
+      "author": "Boston Dynamics",
+      "source_url": "https://www.youtube.com/watch?v=5iV_hB08Uns",
+      "summary": "A short Boston Dynamics demo of Handle, a wheeled mobile manipulation robot that builds and unloads mixed-box pallets in a warehouse. It uses vision to find boxes and force control to place them against neighbors.",
+      "why": "Mostly cited as an example of robots doing warehouse and logistics work in automation discussions.",
+      "score": 0.0,
+      "tags": [
+        "boston dynamics",
+        "handle",
+        "logistics",
+        "palletizing",
+        "mobile manipulation"
+      ],
+      "categories": [
+        "robotics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV13b411p7s7",
+          "page": 1,
+          "cid": 84069252,
+          "title": "波士顿最新handle机器人演示",
+          "up": "Airport33",
+          "duration": 98,
+          "kind": "original",
+          "views": 770,
+          "pic": "https://i1.hdslb.com/bfs/archive/800639188ada07e60541db17fa6de0ea14b1748b.jpg",
+          "checked_at": "2026-11-07T09:17:05.928803+00:00"
+        }
+      ]
+    },
+    {
+      "id": "6WGKz2sUa0w",
+      "title": "Why all solar panels are secretly LEDs (and all LEDs are secretly solar panels)",
+      "author": "Steve Mould",
+      "source_url": "https://www.youtube.com/watch?v=6WGKz2sUa0w",
+      "summary": "Steve Mould shows that LEDs and solar panels are both diodes made from semiconductors, so a solar panel can emit light and an LED can generate electricity. He demonstrates a small solar panel lighting up.",
+      "why": "Cited as a neat demonstration that diodes work in both directions in semiconductor and LED discussions.",
+      "score": 0.0,
+      "tags": [
+        "led",
+        "solar panel",
+        "diode",
+        "semiconductors",
+        "steve mould"
+      ],
+      "categories": [
+        "semiconductors-manufacturing",
+        "everyday-physics-demos"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1s5411V7J9",
+          "page": 1,
+          "cid": 256028894,
+          "title": "Why all solar panels are secretly LEDs (and all LEDs are secretly solar panels)",
+          "up": "becomequantum",
+          "duration": 336,
+          "kind": "original",
+          "views": 43,
+          "pic": "https://i0.hdslb.com/bfs/archive/8e32fcfb9f62526b213acece24ea5cc49c1bf7f9.jpg",
+          "checked_at": "2026-11-07T09:35:42.742372+00:00"
+        }
+      ]
+    },
+    {
       "id": "7xH7eGFuSYI",
       "title": "Adam Ruins Everything - Why You Should Tell Coworkers Your Salary",
       "author": "truTV",
@@ -43075,6 +43177,9 @@
     "BV1XTxuzfENh": "3m5qxZm_JqM",
     "BV1m4411D7fk": "4QokOwvPxrE",
     "BV1FmEw69E1T": "4U2eDJnwz_s",
+    "BV1cUaozfEfP": "5YGc4zOqozo",
+    "BV13b411p7s7": "5iV_hB08Uns",
+    "BV1s5411V7J9": "6WGKz2sUa0w",
     "BV1UZ4y137Ps": "7xH7eGFuSYI",
     "BV1JoBvYKEVL": "8mxubNQC5O8",
     "BV18Ni6YbE8J": "9fa9lVwHHqg",

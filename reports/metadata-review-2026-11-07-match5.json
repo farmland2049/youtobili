@@ -1,0 +1,59 @@
+{
+  "reviewed_at": "2026-11-07",
+  "baseline_commit": "03e5367fd1acf0880b9cf2ab704b04b24107a2a8",
+  "review_count": 3,
+  "content_level_frame_comparison": false,
+  "items": [
+    {
+      "youtube_id": "5YGc4zOqozo",
+      "youtube_title": "United Breaks Guitars",
+      "bvid": "BV1cUaozfEfP",
+      "page": 1,
+      "bilibili_title": "United Breaks Guitars-song 1",
+      "segment_title": "United Breaks Guitars-song 1",
+      "page_count": 1,
+      "description_contains_original_id": true,
+      "description_sha256": "614d1e4b4b64a989a527ec2572f20d9c696e821226ae55e280e5c5bbf7213bba",
+      "detail_snapshot_sha256": "4d8d43e3753ba6c21861956ea5f2dbeaf955ce83df8adb15bb6adb385b239d7d",
+      "duration": 277,
+      "original_duration": 277,
+      "playback_passed": true,
+      "cid_observed": true,
+      "player_duration_matches": true
+    },
+    {
+      "youtube_id": "5iV_hB08Uns",
+      "youtube_title": "Handle Robot Reimagined for Logistics",
+      "bvid": "BV13b411p7s7",
+      "page": 1,
+      "bilibili_title": "波士顿最新handle机器人演示",
+      "segment_title": "Handle_Robot_Reimagined_for_Logistics_720p",
+      "page_count": 1,
+      "description_contains_original_id": true,
+      "description_sha256": "45575d92a77cf5864b093db55396bce3646cd44a0f99769391e70b944c6916aa",
+      "detail_snapshot_sha256": "a171503e27d707590a9fb0dcced099954813241ddfc437efea80c585498192bb",
+      "duration": 98,
+      "original_duration": 98,
+      "playback_passed": true,
+      "cid_observed": true,
+      "player_duration_matches": true
+    },
+    {
+      "youtube_id": "6WGKz2sUa0w",
+      "youtube_title": "Why all solar panels are secretly LEDs (and all LEDs are secretly solar panels)",
+      "bvid": "BV1s5411V7J9",
+      "page": 1,
+      "bilibili_title": "Why all solar panels are secretly LEDs (and all LEDs are secretly solar panels)",
+      "segment_title": "Why all solar panels are secretly LEDs (and all LEDs are secretly solar panels)",
+      "page_count": 1,
+      "description_contains_original_id": true,
+      "description_sha256": "57baf50021e41970f386ffa1fe514503f3dc8b3984505675bfcf14332592948e",
+      "detail_snapshot_sha256": "45d7beec981e2b9d090a7cfcbfb433cef4fb735232b7cdd4e570507cd5b48faf",
+      "duration": 336,
+      "original_duration": 336,
+      "playback_passed": true,
+      "cid_observed": true,
+      "player_duration_matches": true
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-11-07T09:41:56.403Z",
+  "checks": [
+    {
+      "sample": "5YGc4zOqozo",
+      "kind": "original",
+      "id": "5YGc4zOqozo",
+      "bvid": "BV1cUaozfEfP",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.678913,
+        "duration": 277,
+        "paused": false
+      },
+      "expected_duration": 277,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "32253608887"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "United Breaks Guitars-song 1\n大营销\n关注\n0\n0\n分享\n更多\n00:04 / 04:37\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "5iV_hB08Uns",
+      "kind": "original",
+      "id": "5iV_hB08Uns",
+      "bvid": "BV13b411p7s7",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.223306,
+        "duration": 98,
+        "paused": false
+      },
+      "expected_duration": 98,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "84069252"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "波士顿最新handle机器人演示\nAirport33\n关注\n4\n4\n分享\n更多\n00:05 / 01:38\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "6WGKz2sUa0w",
+      "kind": "original",
+      "id": "6WGKz2sUa0w",
+      "bvid": "BV1s5411V7J9",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.949026,
+        "duration": 336,
+        "paused": false
+      },
+      "expected_duration": 336,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "256028894"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Why all solar panels are secretly LEDs (and all LEDs are secretly solar panels)\nbecomequantum\n关注\n2\n0\n分享\n更多\n00:04 / 05:36\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}
