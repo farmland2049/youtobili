@@ -88,4 +88,4 @@
 
 新增确认：`KEkrWRHCDQU` → `BV17D4y1D7ym`（HACKERMAN'S HACKING TUTORIALS - How To Hack Time，225秒）；`KYbM-3E11Qo` → `BV1g4411U72J`（Boeing Vietnam Airlines 787-9 Dreamliner Vertical Takeoff & Steep Turns，188秒，对比原片187秒）。B站完整简介均含对应YouTube原片URL，均为单P且时长差在容差内。实播均通过，实际请求CID `216909597`、`110750966`，播放器时长与分P一致。证据见 `reports/metadata-review-2026-11-08-resume10.json`、`reports/playback-increment-2026-11-08-resume10.json`；未做逐帧内容比较。
 
-当前工作库进度5339/6454，确认1090；本增量发布前数据校验、65项单元测试、桌面/手机浏览器检查和实播核验均通过，线上发布与Pages哈希核验待完成。
+当前工作库进度5339/6454，确认1090；本增量发布前数据校验、65项单元测试、桌面/手机浏览器检查和实播核验均通过。提交 `13ec8789fdbabb01431c716ff2b6fa63b45ebf0c` 已推送；Pages `data.json` 返回HTTP 200，SHA-256 `2a0b0748a672eeac80bdab785a2dbf0a3a3d7042cc9d7bc6f2a7781625cf01a9` 与本地一致，两条新增版本均在线核验，详情见 `reports/pages-check-2026-11-08-resume10.json`。
