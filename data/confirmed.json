@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T21:41:13.828925+00:00",
+  "updated_at": "2026-11-07T22:04:54.535843+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -500,7 +500,7 @@
     "L_Guz73e6fw": {
       "vid": "L_Guz73e6fw",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:58:28.675729+00:00",
       "candidates": [
         {
           "bvid": "BV16s4y1S7To",
@@ -735,7 +735,7 @@
     "LCEmiRjPEtQ": {
       "vid": "LCEmiRjPEtQ",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:56:09.527713+00:00",
       "candidates": [
         {
           "bvid": "BV1J6dvBME8Y",
@@ -762,30 +762,6 @@
           "availability": "available"
         },
         {
-          "bvid": "BV1pTFszRE7x",
-          "status": "confirmed",
-          "lead_url": "https://www.bilibili.com/video/BV1pTFszRE7x",
-          "evidence": [
-            "explicit original URL or labeled YouTube ID in Bilibili description"
-          ],
-          "flags": [],
-          "reason": "explicit source URL, segment and duration verified",
-          "page": 1,
-          "title": "Andrej Karpathy在YC的主题演讲《Software in the era of AI》: Software Is Changing (Again)",
-          "up": "自行之",
-          "duration": 2369,
-          "original_duration": 2372,
-          "cid": 35887909474,
-          "aid": 116028810010136,
-          "segment_title": "Andrej Karpathy在YC的主题演讲《Software in the era of AI》: Software Is Changing (Again)",
-          "page_count": 1,
-          "kind": "original",
-          "views": 310,
-          "pic": "https://i0.hdslb.com/bfs/archive/e4e65fd283d44030298fcf622aa53a35321c69af.jpg",
-          "checked_at": "2026-11-07T05:27:34.175706+00:00",
-          "availability": "available"
-        },
-        {
           "bvid": "BV1X9xC6LErK",
           "status": "confirmed",
           "lead_url": "https://www.bilibili.com/video/BV1X9xC6LErK",
@@ -807,6 +783,30 @@
           "views": 9,
           "pic": "https://i0.hdslb.com/bfs/archive/0324710ef4399ef6ac40f2a9e9b8bb482e979248.jpg",
           "checked_at": "2026-11-07T05:27:34.176119+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1pTFszRE7x",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1pTFszRE7x",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Andrej Karpathy在YC的主题演讲《Software in the era of AI》: Software Is Changing (Again)",
+          "up": "自行之",
+          "duration": 2369,
+          "original_duration": 2372,
+          "cid": 35887909474,
+          "aid": 116028810010136,
+          "segment_title": "Andrej Karpathy在YC的主题演讲《Software in the era of AI》: Software Is Changing (Again)",
+          "page_count": 1,
+          "kind": "original",
+          "views": 310,
+          "pic": "https://i0.hdslb.com/bfs/archive/e4e65fd283d44030298fcf622aa53a35321c69af.jpg",
+          "checked_at": "2026-11-07T05:27:34.175706+00:00",
           "availability": "available"
         }
       ]
@@ -946,8 +946,31 @@
     "1sd26pWhfmg": {
       "vid": "1sd26pWhfmg",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:52:55.773939+00:00",
       "candidates": [
+        {
+          "bvid": "BV1fYXdBQEBE",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "[中配]尼古拉斯·卡利尼：黑帽大语言模型 | [un]prompted 2026 - unprompted",
+          "up": "声译看世界",
+          "duration": 1588,
+          "original_duration": 1588,
+          "cid": 37087675801,
+          "aid": 116316119766163,
+          "segment_title": "video",
+          "page_count": 1,
+          "kind": "dub_zh",
+          "views": 106,
+          "pic": "https://i1.hdslb.com/bfs/archive/b1c1641eed00e764f95a4e4b243678ae35260af7.jpg",
+          "checked_at": "2026-11-07T21:52:54.439193+00:00",
+          "availability": "available"
+        },
         {
           "bvid": "BV1TMXQBWE2x",
           "status": "confirmed",
@@ -1880,7 +1903,7 @@
     "tIeHLnjs5U8": {
       "vid": "tIeHLnjs5U8",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:55:14.858451+00:00",
       "candidates": [
         {
           "bvid": "BV16x411V7Qg",
@@ -2401,9 +2424,33 @@
     },
     "-MTRxRO5SRA": {
       "vid": "-MTRxRO5SRA",
-      "status": "review",
-      "completed_at": null,
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-07T21:53:36.920573+00:00",
+      "candidates": [
+        {
+          "bvid": "BV16441127ME",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【TED】教育应是为了掌握精通知识，而不是分数Let's teach for mastery -- not test scores Sal Khan",
+          "up": "STRONG-脱口秀",
+          "duration": 651,
+          "original_duration": 650,
+          "cid": 114688021,
+          "aid": 66118877,
+          "segment_title": "Let's teach for mastery -- not test scores Sal Khan",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1004,
+          "pic": "https://i2.hdslb.com/bfs/archive/89deca55975cd6d27b53666b0a0b1ed8a366e47c.jpg",
+          "checked_at": "2026-11-07T21:53:35.541808+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "fnUc_W3xE1w": {
       "vid": "fnUc_W3xE1w",
@@ -2704,7 +2751,7 @@
     "EH6vE97qIP4": {
       "vid": "EH6vE97qIP4",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:54:34.751069+00:00",
       "candidates": []
     },
     "UBVV8pch1dM": {
@@ -3051,7 +3098,7 @@
     "8mxubNQC5O8": {
       "vid": "8mxubNQC5O8",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:57:41.078669+00:00",
       "candidates": [
         {
           "bvid": "BV1JoBvYKEVL",
@@ -7709,9 +7756,33 @@
     },
     "ZW8gWgpptI8": {
       "vid": "ZW8gWgpptI8",
-      "status": "review",
-      "completed_at": null,
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-07T21:56:34.403221+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1X54y1Q7aa",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "GDC Crafting A Tiny Open World- A Short Hike Postmortem 中文字幕",
+          "up": "墨大喵o",
+          "duration": 1867,
+          "original_duration": 1867,
+          "cid": 183185352,
+          "aid": 840472506,
+          "segment_title": "Crafting A Tiny Open World- A Short Hike Postmortem_bilibili",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 793,
+          "pic": "https://i0.hdslb.com/bfs/archive/1e7550c7da9c86529d0956d5c8d351c0d3e1af18.jpg",
+          "checked_at": "2026-11-07T21:56:33.110704+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "pW-SOdj4Kkk": {
       "vid": "pW-SOdj4Kkk",
@@ -10333,7 +10404,7 @@
     "sCr_gb8rdEI": {
       "vid": "sCr_gb8rdEI",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:57:28.928980+00:00",
       "candidates": [
         {
           "bvid": "BV1csdzYxEAN",
@@ -16609,7 +16680,7 @@
     "AxnotgLql0k": {
       "vid": "AxnotgLql0k",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:55:35.583279+00:00",
       "candidates": [
         {
           "bvid": "BV1LY411Y7Wb",
@@ -17015,7 +17086,7 @@
     "lXfEK8G8CUI": {
       "vid": "lXfEK8G8CUI",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:52:43.585054+00:00",
       "candidates": [
         {
           "bvid": "BV1c8411Y765",
@@ -17046,7 +17117,7 @@
     "_zfN9wnPvU0": {
       "vid": "_zfN9wnPvU0",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:53:18.468846+00:00",
       "candidates": [
         {
           "bvid": "BV1gXsd6rEhi",
@@ -23817,7 +23888,7 @@
     "ulCdoCfw-bY": {
       "vid": "ulCdoCfw-bY",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:55:24.351956+00:00",
       "candidates": [
         {
           "bvid": "BV1dM4m1d7TD",
@@ -24567,9 +24638,33 @@
     },
     "LEENEFaVUzU": {
       "vid": "LEENEFaVUzU",
-      "status": "review",
-      "completed_at": null,
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-07T21:56:19.852000+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1hT41137mK",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "[Kurzgesagt ]最后的人类The Last Human – A Glimpse Into The Far Future",
+          "up": "fxnmblbl",
+          "duration": 752,
+          "original_duration": 751,
+          "cid": 759286888,
+          "aid": 470443017,
+          "segment_title": "[Kurzgesagt ]最后的人类The Last Human – A Glimpse Into The Far Future",
+          "page_count": 1,
+          "kind": "original",
+          "views": 347,
+          "pic": "https://i2.hdslb.com/bfs/archive/acd91cf0f91b5777ba61ee134fe446cef0b65c35.jpg",
+          "checked_at": "2026-11-07T21:56:18.549619+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "aICaAEXDJQQ": {
       "vid": "aICaAEXDJQQ",
@@ -24715,7 +24810,7 @@
     "JOiGEI9pQBs": {
       "vid": "JOiGEI9pQBs",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:56:02.648975+00:00",
       "candidates": [
         {
           "bvid": "BV1wS411P75S",
@@ -31924,7 +32019,7 @@
     "dqwpQarrDwk": {
       "vid": "dqwpQarrDwk",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:57:12.007036+00:00",
       "candidates": []
     },
     "3EPTfOTC4Jw": {
@@ -40426,7 +40521,7 @@
     "S-Xm7s9eGxU": {
       "vid": "S-Xm7s9eGxU",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:52:35.611007+00:00",
       "candidates": []
     },
     "S2Hp_1jqpY8": {
@@ -43504,7 +43599,7 @@
     "JtUAAXe_0VI": {
       "vid": "JtUAAXe_0VI",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:58:17.896400+00:00",
       "candidates": []
     },
     "4VrLQXR7mKU": {
@@ -44019,7 +44114,7 @@
     "H-XfCl-HpRM": {
       "vid": "H-XfCl-HpRM",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:52:57.289822+00:00",
       "candidates": [
         {
           "bvid": "BV1akND65E6y",
@@ -44561,9 +44656,35 @@
     },
     "PaypcVFPs48": {
       "vid": "PaypcVFPs48",
-      "status": "review",
-      "completed_at": null,
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-07T21:53:00.621947+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1W34y187Sz",
+          "status": "confirmed",
+          "lead_title": "Building Prototypes Dan Gelbart  part 10 of 18  Flexures",
+          "source_bvid": "BV1MF411t7CC",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "Building Prototypes Dan Gelbart  part 10 of 18  Flexures",
+          "up": "AlwaysLv",
+          "duration": 775,
+          "original_duration": 775,
+          "cid": 547764837,
+          "aid": 809676289,
+          "segment_title": "Building Prototypes Dan Gelbart  part 10 of 18  Flexures",
+          "page_count": 1,
+          "kind": "original",
+          "views": 33,
+          "pic": "https://i0.hdslb.com/bfs/archive/39c255f21a886b2f0cf0d26cb49537e8b8488cfa.jpg",
+          "checked_at": "2026-11-07T21:52:59.249522+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "PlJkgQZb0VU": {
       "vid": "PlJkgQZb0VU",
@@ -46382,7 +46503,7 @@
     "xUezfuy8Qpc": {
       "vid": "xUezfuy8Qpc",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:53:22.887246+00:00",
       "candidates": []
     },
     "xY45YE7ggng": {
@@ -47367,7 +47488,7 @@
     "6JwEYamjXpA": {
       "vid": "6JwEYamjXpA",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:53:40.077438+00:00",
       "candidates": []
     },
     "6K8NkJpUei4": {
@@ -47738,7 +47859,7 @@
     "9XkHBmE-N34": {
       "vid": "9XkHBmE-N34",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:53:44.214943+00:00",
       "candidates": []
     },
     "9ZX_XCYokQo": {
@@ -48325,7 +48446,7 @@
     "EL7Au1tzNxE": {
       "vid": "EL7Au1tzNxE",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:54:36.119819+00:00",
       "candidates": [
         {
           "bvid": "BV1UXYXzYEkZ",
@@ -49504,9 +49625,35 @@
     },
     "MtxA20Q-Uss": {
       "vid": "MtxA20Q-Uss",
-      "status": "review",
-      "completed_at": null,
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-07T21:54:39.256867+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1hb4y1s7BA",
+          "status": "confirmed",
+          "lead_title": "Building Prototypes Dan Gelbart  part 18 of 18  Design",
+          "source_bvid": "BV1MF411t7CC",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "Building Prototypes Dan Gelbart  part 18 of 18  Design",
+          "up": "AlwaysLv",
+          "duration": 1403,
+          "original_duration": 1403,
+          "cid": 547765298,
+          "aid": 637246374,
+          "segment_title": "Building Prototypes Dan Gelbart  part 18 of 18  Design",
+          "page_count": 1,
+          "kind": "original",
+          "views": 36,
+          "pic": "https://i2.hdslb.com/bfs/archive/1d2c3d7b09c4d72c3c96183cb40d1c6fa7ecef57.jpg",
+          "checked_at": "2026-11-07T21:54:37.838883+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "Mx-AllVZ1VY": {
       "vid": "Mx-AllVZ1VY",
@@ -50003,7 +50150,7 @@
     "SA8ZBJWo73E": {
       "vid": "SA8ZBJWo73E",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:54:40.571906+00:00",
       "candidates": [
         {
           "bvid": "BV1wpr4BmE9w",
@@ -50291,7 +50438,7 @@
     "ThjvMReOXYM": {
       "vid": "ThjvMReOXYM",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:54:41.975286+00:00",
       "candidates": [
         {
           "bvid": "BV1V3411A74K",
@@ -50573,7 +50720,7 @@
     "WU0gvPcc3jQ": {
       "vid": "WU0gvPcc3jQ",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:54:46.567550+00:00",
       "candidates": []
     },
     "WijoL3Hy_Bw": {
@@ -50946,7 +51093,7 @@
     "Zklo4Z1SqkE": {
       "vid": "Zklo4Z1SqkE",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:54:49.705382+00:00",
       "candidates": []
     },
     "ZmWREtcDVBE": {
@@ -52237,9 +52384,35 @@
     },
     "koTf7u0v41o": {
       "vid": "koTf7u0v41o",
-      "status": "review",
-      "completed_at": null,
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-07T21:54:52.388204+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1qGpQz1E5M",
+          "status": "confirmed",
+          "lead_title": "Plenary: Performance Matters - Emery Berger - CppCon 2020",
+          "source_bvid": "BV15opQz1EmQ",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "Plenary: Performance Matters - Emery Berger - CppCon 2020",
+          "up": "Iammyself001",
+          "duration": 3669,
+          "original_duration": 3669,
+          "cid": 32500615227,
+          "aid": 115234308167551,
+          "segment_title": "Plenary: Performance Matters - Emery Berger - CppCon 2020",
+          "page_count": 1,
+          "kind": "original",
+          "views": 13,
+          "pic": "https://i0.hdslb.com/bfs/archive/fced05db1245bf862e22b16bb6a47310191beee3.jpg",
+          "checked_at": "2026-11-07T21:54:51.025884+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "ky1nGQhHTso": {
       "vid": "ky1nGQhHTso",
@@ -52789,7 +52962,7 @@
     "rGgG-0lOJjk": {
       "vid": "rGgG-0lOJjk",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:55:08.852675+00:00",
       "candidates": []
     },
     "rGqiswuJuQI": {
@@ -53282,7 +53455,7 @@
     "uzkD5SeuwzM": {
       "vid": "uzkD5SeuwzM",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:55:27.508265+00:00",
       "candidates": []
     },
     "v19cu2hj2Ms": {
@@ -53898,9 +54071,35 @@
     },
     "4rTv9wvvat8": {
       "vid": "4rTv9wvvat8",
-      "status": "review",
-      "completed_at": null,
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-07T21:55:30.496999+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1jU4y1A7AU",
+          "status": "confirmed",
+          "lead_title": "【ScienceClic】如果我们坠入黑洞会看到什么 What would we see if we fell into a Black Hole【中英字幕】",
+          "source_bvid": "BV1Ld4y1r7uW",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "【ScienceClic】如果我们坠入黑洞会看到什么 What would we see if we fell into a Black Hole【中英字幕】",
+          "up": "Cartmanny",
+          "duration": 894,
+          "original_duration": 893,
+          "cid": 409353713,
+          "aid": 675620414,
+          "segment_title": "What would we see if we fell into a Black Hole",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 3858,
+          "pic": "https://i1.hdslb.com/bfs/archive/0a4e9ad2ac4d412f7914056b1a66fc7a6f00b2b9.jpg",
+          "checked_at": "2026-11-07T21:55:29.206285+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "5FWWe2U41N8": {
       "vid": "5FWWe2U41N8",
@@ -54042,9 +54241,35 @@
     },
     "E2MIpi8pIvY": {
       "vid": "E2MIpi8pIvY",
-      "status": "review",
-      "completed_at": null,
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-07T21:55:39.805808+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1dtPCe7Eqx",
+          "status": "confirmed",
+          "lead_title": "ID Software 早期岁月 The Early Days of id Software",
+          "source_bvid": "BV1FEPCesE9H",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "【GDC 编程讲座合集】【双语字幕】 ID Software 早期岁月 The Early Days of id Software",
+          "up": "游戏开发中文教程",
+          "duration": 3363,
+          "original_duration": 3363,
+          "cid": 25752574667,
+          "aid": 113948921696298,
+          "segment_title": "【GDC 编程讲座合集】【双语字幕】 ID Software 早期岁月 The Early Days of id Software",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 132,
+          "pic": "https://i2.hdslb.com/bfs/archive/f6dfc52add3f4b9144447541dca6758257038946.jpg",
+          "checked_at": "2026-11-07T21:55:38.525625+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "E3URhJx0NSw": {
       "vid": "E3URhJx0NSw",
@@ -54115,7 +54340,7 @@
     "GL77oOnrPzY": {
       "vid": "GL77oOnrPzY",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:55:43.394714+00:00",
       "candidates": []
     },
     "GaRurhiK-Lk": {
@@ -54711,7 +54936,7 @@
     "i4pxw4tYeCU": {
       "vid": "i4pxw4tYeCU",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:55:46.512302+00:00",
       "candidates": []
     },
     "i7kh8pNRWOo": {
@@ -55679,7 +55904,7 @@
     "469chceiiUQ": {
       "vid": "469chceiiUQ",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:55:50.822230+00:00",
       "candidates": []
     },
     "480xteW2wq4": {
@@ -55781,7 +56006,7 @@
     "5BXtgq0Nhsc": {
       "vid": "5BXtgq0Nhsc",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:55:52.347186+00:00",
       "candidates": [
         {
           "bvid": "BV1PK4y1e7sK",
@@ -57600,7 +57825,7 @@
     "KZeIEiBrT_w": {
       "vid": "KZeIEiBrT_w",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:56:04.119346+00:00",
       "candidates": [
         {
           "bvid": "BV1V3hgzyEEf",
@@ -58079,7 +58304,7 @@
     "OA8dNFiVaF0": {
       "vid": "OA8dNFiVaF0",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:56:24.238765+00:00",
       "candidates": []
     },
     "OBfB2MJw3qg": {
@@ -58394,7 +58619,7 @@
     "QK8mJJJvaes": {
       "vid": "QK8mJJJvaes",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:56:25.605616+00:00",
       "candidates": [
         {
           "bvid": "BV1rF411b7B3",
@@ -61208,7 +61433,7 @@
     "hM_h0UA7upI": {
       "vid": "hM_h0UA7upI",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:57:15.091049+00:00",
       "candidates": []
     },
     "hNDgcjVGHIw": {
@@ -61878,9 +62103,35 @@
     },
     "lsWndfzuOc4": {
       "vid": "lsWndfzuOc4",
-      "status": "review",
-      "completed_at": null,
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-07T21:57:20.819812+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Ps4y1N7fy",
+          "status": "confirmed",
+          "lead_title": "【双语】龙虾和鼻炎关于马克思主义的讨论。2019.4.19 Marxism Zizek Peterson  Official Video",
+          "source_bvid": "BV1ow411D7hr",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "【双语】龙虾和鼻炎关于马克思主义的讨论。2019.4.19 Marxism Zizek Peterson  Official Video",
+          "up": "骗流量的频道",
+          "duration": 9934,
+          "original_duration": 9933,
+          "cid": 1097285094,
+          "aid": 952569238,
+          "segment_title": "【双语】龙虾和鼻炎关于马克思主义的讨论。2019.4.19 Marxism Zizek Peterson  Official Video",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 208,
+          "pic": "https://i2.hdslb.com/bfs/archive/88d23355d09db47cf156445ae3e6b724c13e949f.jpg",
+          "checked_at": "2026-11-07T21:57:19.378108+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "m1kHsd3Ocxc": {
       "vid": "m1kHsd3Ocxc",
@@ -62350,7 +62601,7 @@
     "orQKfIXMiA8": {
       "vid": "orQKfIXMiA8",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:57:22.229257+00:00",
       "candidates": [
         {
           "bvid": "BV1A3hRzpEqj",
@@ -62913,7 +63164,7 @@
     "t-_VPRCtiUg": {
       "vid": "t-_VPRCtiUg",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:57:31.993174+00:00",
       "candidates": []
     },
     "t52LB2fYhoY": {
@@ -64575,7 +64826,7 @@
     "3mbBbFH9fAg": {
       "vid": "3mbBbFH9fAg",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:57:36.100883+00:00",
       "candidates": []
     },
     "3mnG_Gbxf_w": {
@@ -68159,7 +68410,7 @@
     "Q1YqgPAtzho": {
       "vid": "Q1YqgPAtzho",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:59:27.455738+00:00",
       "candidates": []
     },
     "kJQP7kiw5Fk": {
@@ -68171,20 +68422,46 @@
     "YR5ApYxkU-U": {
       "vid": "YR5ApYxkU-U",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T22:02:35.788870+00:00",
       "candidates": []
     },
     "VtvjbmoDx-I": {
       "vid": "VtvjbmoDx-I",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T22:01:04.959275+00:00",
       "candidates": []
     },
     "dtjb2OhEQcU": {
       "vid": "dtjb2OhEQcU",
-      "status": "review",
-      "completed_at": null,
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-07T22:03:04.778201+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1NVbYzREMr",
+          "status": "confirmed",
+          "lead_title": "【YouTube搬运】双钟摆是混沌的 Double Pendulums are Chaoticn't",
+          "source_bvid": "BV1V3hgzyEEf",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "【YouTube搬运】双钟摆是混沌的 Double Pendulums are Chaoticn't",
+          "up": "小溪_YouTube搬运笔记本",
+          "duration": 539,
+          "original_duration": 538,
+          "cid": 31674008311,
+          "aid": 115021992564511,
+          "segment_title": "【YouTube搬运】双钟摆是混沌的 Double Pendulums are Chaoticn't",
+          "page_count": 1,
+          "kind": "original",
+          "views": 28,
+          "pic": "https://i2.hdslb.com/bfs/archive/0260e518f7d00d4631a973dad8527ee8553ce289.jpg",
+          "checked_at": "2026-11-07T22:03:03.503258+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "q4DF3j4saCE": {
       "vid": "q4DF3j4saCE",

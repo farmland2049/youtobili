@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-07T21:41:13.805209+00:00",
+  "built_at": "2026-11-07T22:04:54.512171+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5345,
-    "confirmed": 1101,
-    "coverage": 0.1705918810040285,
-    "processed_match_rate": 0.20243217960710944
+    "processed": 5395,
+    "confirmed": 1111,
+    "coverage": 0.17214130771614503,
+    "processed_match_rate": 0.20593141797961076
   },
   "areas": [
     {
@@ -27780,6 +27780,18 @@
       ],
       "versions": [
         {
+          "bvid": "BV1fYXdBQEBE",
+          "page": 1,
+          "cid": 37087675801,
+          "title": "[中配]尼古拉斯·卡利尼：黑帽大语言模型 | [un]prompted 2026 - unprompted",
+          "up": "声译看世界",
+          "duration": 1588,
+          "kind": "dub_zh",
+          "views": 106,
+          "pic": "https://i1.hdslb.com/bfs/archive/b1c1641eed00e764f95a4e4b243678ae35260af7.jpg",
+          "checked_at": "2026-11-07T21:52:54.439193+00:00"
+        },
+        {
           "bvid": "BV1TMXQBWE2x",
           "page": 1,
           "cid": 25989094544,
@@ -28526,6 +28538,40 @@
           "views": 45,
           "pic": "https://i0.hdslb.com/bfs/archive/6bcd23f53439b037e0a9e557a2ac48e2f77d42ff.jpg",
           "checked_at": "2026-11-07T05:27:34.239153+00:00"
+        }
+      ]
+    },
+    {
+      "id": "PaypcVFPs48",
+      "title": "Building Prototypes Dan Gelbart  part 10 of 18  Flexures",
+      "author": "Dan Gelbart",
+      "source_url": "https://www.youtube.com/watch?v=PaypcVFPs48",
+      "summary": "Part 10 of Dan Gelbart's prototype-building lecture series, covering flexures: flexible joints that give precise, frictionless motion. It shows how a cheap piece of aluminum can become a nanometer-accurate mechanism.",
+      "why": "HN recommends the series as a fascinating, practical course in precision prototyping, with the flexure episode singled out as especially impressive.",
+      "score": 2.5,
+      "tags": [
+        "flexures",
+        "precision engineering",
+        "prototyping",
+        "mechanical design",
+        "machining"
+      ],
+      "categories": [
+        "mechanical-engineering",
+        "3d-printing-cnc"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1W34y187Sz",
+          "page": 1,
+          "cid": 547764837,
+          "title": "Building Prototypes Dan Gelbart  part 10 of 18  Flexures",
+          "up": "AlwaysLv",
+          "duration": 775,
+          "kind": "original",
+          "views": 33,
+          "pic": "https://i0.hdslb.com/bfs/archive/39c255f21a886b2f0cf0d26cb49537e8b8488cfa.jpg",
+          "checked_at": "2026-11-07T21:52:59.249522+00:00"
         }
       ]
     },
@@ -29831,6 +29877,39 @@
           "views": 15,
           "pic": "https://i2.hdslb.com/bfs/archive/908111742f8dbae85b999a4249ecc9189e9b37c4.jpg",
           "checked_at": "2026-11-07T05:27:59.971846+00:00"
+        }
+      ]
+    },
+    {
+      "id": "-MTRxRO5SRA",
+      "title": "Let's teach for mastery -- not test scores | Sal Khan",
+      "author": "TED",
+      "source_url": "https://www.youtube.com/watch?v=-MTRxRO5SRA",
+      "summary": "Sal Khan of Khan Academy argues that schools push students forward with gaps in their foundations, and that students should instead master concepts at their own pace. He compares it to building a house on an unfinished foundation.",
+      "why": "HN commenters cite it when discussing how gaps in basic knowledge pile up and how mastery learning could fix that.",
+      "score": 2.0,
+      "tags": [
+        "education",
+        "khan academy",
+        "self-paced learning",
+        "teaching",
+        "ted talk"
+      ],
+      "categories": [
+        "education-learning"
+      ],
+      "versions": [
+        {
+          "bvid": "BV16441127ME",
+          "page": 1,
+          "cid": 114688021,
+          "title": "【TED】教育应是为了掌握精通知识，而不是分数Let's teach for mastery -- not test scores Sal Khan",
+          "up": "STRONG-脱口秀",
+          "duration": 651,
+          "kind": "original",
+          "views": 1004,
+          "pic": "https://i2.hdslb.com/bfs/archive/89deca55975cd6d27b53666b0a0b1ed8a366e47c.jpg",
+          "checked_at": "2026-11-07T21:53:35.541808+00:00"
         }
       ]
     },
@@ -31693,6 +31772,40 @@
       ]
     },
     {
+      "id": "MtxA20Q-Uss",
+      "title": "Building Prototypes Dan Gelbart  part 18 of 18  Design",
+      "author": "Dan Gelbart",
+      "source_url": "https://www.youtube.com/watch?v=MtxA20Q-Uss",
+      "summary": "The final part of Dan Gelbart's 18-part Building Prototypes series, focused on mechanical design. It opens with a demonstration of stiffness and covers practical design principles for prototype machines.",
+      "why": "HN recommends it, and the whole series, for practical mechanical design insight such as how structures achieve stiffness.",
+      "score": 2.0,
+      "tags": [
+        "prototyping",
+        "stiffness",
+        "machine design",
+        "engineering",
+        "gelbart"
+      ],
+      "categories": [
+        "mechanical-engineering",
+        "3d-printing-cnc"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1hb4y1s7BA",
+          "page": 1,
+          "cid": 547765298,
+          "title": "Building Prototypes Dan Gelbart  part 18 of 18  Design",
+          "up": "AlwaysLv",
+          "duration": 1403,
+          "kind": "original",
+          "views": 36,
+          "pic": "https://i2.hdslb.com/bfs/archive/1d2c3d7b09c4d72c3c96183cb40d1c6fa7ecef57.jpg",
+          "checked_at": "2026-11-07T21:54:37.838883+00:00"
+        }
+      ]
+    },
+    {
       "id": "OINa46HeWg8",
       "title": "I Forgot My Phone",
       "author": "charstarleneTV",
@@ -33139,6 +33252,40 @@
       ]
     },
     {
+      "id": "koTf7u0v41o",
+      "title": "Plenary: Performance Matters - Emery Berger - CppCon 2020",
+      "author": "CppCon",
+      "source_url": "https://www.youtube.com/watch?v=koTf7u0v41o",
+      "summary": "Emery Berger's CppCon 2020 plenary on why performance is hard on modern hardware after the end of Dennard scaling. It covers benchmarking pitfalls and introduces new profiling tools for finding real bottlenecks.",
+      "why": "Recommended for treating benchmarking and profiling scientifically rather than by myth, with innovative tools.",
+      "score": 2.0,
+      "tags": [
+        "benchmarking",
+        "profiling",
+        "c++",
+        "performance",
+        "causal profiling"
+      ],
+      "categories": [
+        "software-performance",
+        "systems-programming-languages"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1qGpQz1E5M",
+          "page": 1,
+          "cid": 32500615227,
+          "title": "Plenary: Performance Matters - Emery Berger - CppCon 2020",
+          "up": "Iammyself001",
+          "duration": 3669,
+          "kind": "original",
+          "views": 13,
+          "pic": "https://i0.hdslb.com/bfs/archive/fced05db1245bf862e22b16bb6a47310191beee3.jpg",
+          "checked_at": "2026-11-07T21:54:51.025884+00:00"
+        }
+      ]
+    },
+    {
       "id": "ky1nGQhHTso",
       "title": "Why is Japan So Weak in Software?",
       "author": "Asianometry",
@@ -34330,6 +34477,40 @@
       ]
     },
     {
+      "id": "4rTv9wvvat8",
+      "title": "What would we see if we fell into a Black Hole?",
+      "author": "ScienceClic English",
+      "source_url": "https://www.youtube.com/watch?v=4rTv9wvvat8",
+      "summary": "ScienceClic visualizes what you would see falling into a black hole, from the approach and the accretion disc to crossing the horizon, in 15 minutes.",
+      "why": "Recommended as a great visual explanation of the infall experience, including when spaghettification happens.",
+      "score": 1.5,
+      "tags": [
+        "event horizon",
+        "general relativity",
+        "visualization",
+        "spaghettification",
+        "accretion disc"
+      ],
+      "categories": [
+        "cosmology-astrophysics",
+        "computer-graphics-rendering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1jU4y1A7AU",
+          "page": 1,
+          "cid": 409353713,
+          "title": "【ScienceClic】如果我们坠入黑洞会看到什么 What would we see if we fell into a Black Hole【中英字幕】",
+          "up": "Cartmanny",
+          "duration": 894,
+          "kind": "sub_zh",
+          "views": 3858,
+          "pic": "https://i1.hdslb.com/bfs/archive/0a4e9ad2ac4d412f7914056b1a66fc7a6f00b2b9.jpg",
+          "checked_at": "2026-11-07T21:55:29.206285+00:00"
+        }
+      ]
+    },
+    {
       "id": "AxnotgLql0k",
       "title": "'Fastware' - Andrei Alexandrescu [ ACCU 2016 ]",
       "author": "ACCU Conference",
@@ -34431,6 +34612,41 @@
           "views": 169,
           "pic": "https://i1.hdslb.com/bfs/archive/3b00e10a30ae10e8d2827f93adcf499a0865b6ea.jpg",
           "checked_at": "2026-11-07T05:28:08.066323+00:00"
+        }
+      ]
+    },
+    {
+      "id": "E2MIpi8pIvY",
+      "title": "The Early Days of id Software",
+      "author": "GDC Festival of Gaming",
+      "source_url": "https://www.youtube.com/watch?v=E2MIpi8pIvY",
+      "summary": "John Romero's 2016 GDC Europe talk recounts the early days of id Software and the programming principles behind Doom and Quake, including fast iteration and keeping the game bootable.",
+      "why": "Strongly recommended as an inspiring hour on how id worked, often linked in programming-practice threads.",
+      "score": 1.5,
+      "tags": [
+        "john romero",
+        "id software",
+        "doom",
+        "programming principles",
+        "gdc"
+      ],
+      "categories": [
+        "game-history-retro",
+        "game-programming-engines",
+        "software-practice-careers"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1dtPCe7Eqx",
+          "page": 1,
+          "cid": 25752574667,
+          "title": "【GDC 编程讲座合集】【双语字幕】 ID Software 早期岁月 The Early Days of id Software",
+          "up": "游戏开发中文教程",
+          "duration": 3363,
+          "kind": "sub_zh",
+          "views": 132,
+          "pic": "https://i2.hdslb.com/bfs/archive/f6dfc52add3f4b9144447541dca6758257038946.jpg",
+          "checked_at": "2026-11-07T21:55:38.525625+00:00"
         }
       ]
     },
@@ -36333,6 +36549,41 @@
       ]
     },
     {
+      "id": "LEENEFaVUzU",
+      "title": "The Last Human – A Glimpse Into The Far Future",
+      "author": "Kurzgesagt – In a Nutshell",
+      "source_url": "https://www.youtube.com/watch?v=LEENEFaVUzU",
+      "summary": "A Kurzgesagt animation on longtermism, arguing that because the future could hold trillions of people, our actions' effect on future generations may be what matters most.",
+      "why": "HN uses it as a reference for the scale of future human population and long-term thinking.",
+      "score": 1.0,
+      "tags": [
+        "future of humanity",
+        "population",
+        "existential risk",
+        "kurzgesagt",
+        "ethics"
+      ],
+      "categories": [
+        "futurism-technology-society",
+        "ai-safety-impact",
+        "philosophy-ethics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1hT41137mK",
+          "page": 1,
+          "cid": 759286888,
+          "title": "[Kurzgesagt ]最后的人类The Last Human – A Glimpse Into The Far Future",
+          "up": "fxnmblbl",
+          "duration": 752,
+          "kind": "original",
+          "views": 347,
+          "pic": "https://i2.hdslb.com/bfs/archive/acd91cf0f91b5777ba61ee134fe446cef0b65c35.jpg",
+          "checked_at": "2026-11-07T21:56:18.549619+00:00"
+        }
+      ]
+    },
+    {
       "id": "LikxFZZO2sk",
       "title": "Parkour Atlas",
       "author": "Boston Dynamics",
@@ -37453,6 +37704,41 @@
           "views": 293,
           "pic": "https://i2.hdslb.com/bfs/archive/1c7fc8f529497b49ee80bf3a6fbda5769e486ea9.jpg",
           "checked_at": "2026-11-07T05:28:17.467949+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ZW8gWgpptI8",
+      "title": "Crafting A Tiny Open World: A Short Hike Postmortem",
+      "author": "GDC Festival of Gaming",
+      "source_url": "https://www.youtube.com/watch?v=ZW8gWgpptI8",
+      "summary": "Adam Robinson-Yu's GDC 2020 talk on how he shelved a big project to prototype what became A Short Hike. He covers the solo development process and technical choices like a pixel shader over low-poly models.",
+      "why": "HN people cite it for solo-dev inspiration and for the rendering technique behind the game's look.",
+      "score": 1.0,
+      "tags": [
+        "a short hike",
+        "gdc",
+        "solo development",
+        "pixel shader",
+        "game design"
+      ],
+      "categories": [
+        "indie-game-development",
+        "game-design",
+        "computer-graphics-rendering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1X54y1Q7aa",
+          "page": 1,
+          "cid": 183185352,
+          "title": "GDC Crafting A Tiny Open World- A Short Hike Postmortem 中文字幕",
+          "up": "墨大喵o",
+          "duration": 1867,
+          "kind": "sub_zh",
+          "views": 793,
+          "pic": "https://i0.hdslb.com/bfs/archive/1e7550c7da9c86529d0956d5c8d351c0d3e1af18.jpg",
+          "checked_at": "2026-11-07T21:56:33.110704+00:00"
         }
       ]
     },
@@ -39081,6 +39367,41 @@
           "views": 1967,
           "pic": "https://i0.hdslb.com/bfs/archive/da53d023d77b916749310307cfb53488888a7163.jpg",
           "checked_at": "2026-11-07T05:27:36.137647+00:00"
+        }
+      ]
+    },
+    {
+      "id": "lsWndfzuOc4",
+      "title": "Marxism: Zizek/Peterson:  Official Video",
+      "author": "Jordan B Peterson",
+      "source_url": "https://www.youtube.com/watch?v=lsWndfzuOc4",
+      "summary": "A roughly 2.5-hour Toronto debate between Jordan Peterson and Slavoj Zizek on happiness under Marxism versus capitalism. This is the official upload from April 2019.",
+      "why": "HN uses it as a reference for Zizek's views and as an exercise in critical thinking, not as a strong recommendation.",
+      "score": 1.0,
+      "tags": [
+        "jordan peterson",
+        "slavoj zizek",
+        "marxism",
+        "capitalism",
+        "happiness"
+      ],
+      "categories": [
+        "philosophy-ethics",
+        "macroeconomics",
+        "social-issues-culture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Ps4y1N7fy",
+          "page": 1,
+          "cid": 1097285094,
+          "title": "【双语】龙虾和鼻炎关于马克思主义的讨论。2019.4.19 Marxism Zizek Peterson  Official Video",
+          "up": "骗流量的频道",
+          "duration": 9934,
+          "kind": "sub_zh",
+          "views": 208,
+          "pic": "https://i2.hdslb.com/bfs/archive/88d23355d09db47cf156445ae3e6b724c13e949f.jpg",
+          "checked_at": "2026-11-07T21:57:19.378108+00:00"
         }
       ]
     },
@@ -42686,6 +43007,40 @@
       ]
     },
     {
+      "id": "dtjb2OhEQcU",
+      "title": "Double Pendulums are Chaoticn't",
+      "author": "2swap",
+      "source_url": "https://www.youtube.com/watch?v=dtjb2OhEQcU",
+      "summary": "A short explainer from 2swap on the chaotic behavior of double pendulums. It examines how predictable the system is for some starting conditions and whether closed-form solutions exist.",
+      "why": "Cited as a related video when threads touch on chaos, predictability and fractals from pendulum state spaces.",
+      "score": 0.0,
+      "tags": [
+        "double pendulum",
+        "chaos",
+        "physics",
+        "fractals",
+        "dynamical systems"
+      ],
+      "categories": [
+        "fundamental-physics",
+        "recreational-math"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1NVbYzREMr",
+          "page": 1,
+          "cid": 31674008311,
+          "title": "【YouTube搬运】双钟摆是混沌的 Double Pendulums are Chaoticn't",
+          "up": "小溪_YouTube搬运笔记本",
+          "duration": 539,
+          "kind": "original",
+          "views": 28,
+          "pic": "https://i2.hdslb.com/bfs/archive/0260e518f7d00d4631a973dad8527ee8553ce289.jpg",
+          "checked_at": "2026-11-07T22:03:03.503258+00:00"
+        }
+      ]
+    },
+    {
       "id": "fn3KWM1kuAw",
       "title": "Do You Love Me?",
       "author": "Boston Dynamics",
@@ -44120,6 +44475,7 @@
     "BV14x42197SJ": "0lJKucu6HJc",
     "BV1ETXrB5ET3": "0lJKucu6HJc",
     "BV1TqswzAEtY": "1f6YyH62jFE",
+    "BV1fYXdBQEBE": "1sd26pWhfmg",
     "BV1TMXQBWE2x": "1sd26pWhfmg",
     "BV1mgMN6JE9T": "2WoDQBhJCVQ",
     "BV1PB4y1H7dc": "45mMioJ5szc",
@@ -44145,6 +44501,7 @@
     "BV1UGSWBKE8h": "ODSJsviD_SU",
     "BV1P5411T7MB": "P76Vbsk_3J0",
     "BV1Q5KpeWEdt": "P_fHJIYENdI",
+    "BV1W34y187Sz": "PaypcVFPs48",
     "BV1Cy4y1r7zY": "QAr-uHd8h8o",
     "BV1Ca4y1H7SP": "QLUIExAnNcE",
     "BV1sS9yBKE1d": "QspuCt1FM9M",
@@ -44184,6 +44541,7 @@
     "BV1wV7s6pE26": "wO2lWmgEK1Y",
     "BV1QmNX6UEZE": "y5UT04p5f7U",
     "BV1vstAehERr": "-C-JoyNuQJs",
+    "BV16441127ME": "-MTRxRO5SRA",
     "BV1v77E6sEtj": "-hxX_Q5CnaA",
     "BV1Lq4y187m1": "-t1_ffaFXao",
     "BV1jx4y147EJ": "069y1MpOkQY",
@@ -44241,6 +44599,7 @@
     "BV1Lb411k76o": "LtlrITxB5qg",
     "BV1Az4y1C74y": "Lu56xVlZ40M",
     "BV1at411Q7y2": "Mjx3S3UjmnA",
+    "BV1hb4y1s7BA": "MtxA20Q-Uss",
     "BV12x411h7im": "OINa46HeWg8",
     "BV1Bm411B7Mp": "OTVE5iPMKLg",
     "BV1QaHXe7EMw": "OWJCfOvochA",
@@ -44290,6 +44649,7 @@
     "BV1SByTB1Em6": "jfOUVYQnuhw",
     "BV1Dx411R7Va": "kBLkX2VaQs4",
     "BV192421M7AK": "kLiwvnr4L80",
+    "BV1qGpQz1E5M": "koTf7u0v41o",
     "BV1jeWUeEEGE": "ky1nGQhHTso",
     "BV1ab411S7tg": "leFuF-zoVzA",
     "BV1TT4y1k7Yn": "macM_MtS_w4",
@@ -44330,9 +44690,11 @@
     "BV1NU4y1o7FQ": "2B-XwPjn9YY",
     "BV1PQ4y1q7uF": "2z5A-COlDPk",
     "BV1Z4411p7ov": "4Tr0otuiQuU",
+    "BV1jU4y1A7AU": "4rTv9wvvat8",
     "BV1LY411Y7Wb": "AxnotgLql0k",
     "BV1VL411w7sV": "BE77h7dmoQU",
     "BV184411o7He": "BN-34JfUrHY",
+    "BV1dtPCe7Eqx": "E2MIpi8pIvY",
     "BV1fx411P7cL": "HUngLgGRJpo",
     "BV1ZE41157iN": "Kas0tIxDvrg",
     "BV1u6CGBdE3m": "Kas0tIxDvrg",
@@ -44395,6 +44757,7 @@
     "BV1J6dvBME8Y": "LCEmiRjPEtQ",
     "BV1X9xC6LErK": "LCEmiRjPEtQ",
     "BV1pTFszRE7x": "LCEmiRjPEtQ",
+    "BV1hT41137mK": "LEENEFaVUzU",
     "BV1Nb411F7L3": "LikxFZZO2sk",
     "BV19P4y187xk": "MQufJBVvAtY",
     "BV1Jv411A79R": "NiTsduRreug",
@@ -44432,6 +44795,7 @@
     "BV1n3411H7DF": "ZRkm6-bBk4U",
     "BV1Jy4y1y7CK": "ZTidn2dBYbY",
     "BV1Ki4y1p7z7": "ZTidn2dBYbY",
+    "BV1X54y1Q7aa": "ZW8gWgpptI8",
     "BV1z64y1M7m7": "ZYqG31V4qtA",
     "BV1754y1d7PB": "ZYqG31V4qtA",
     "BV1tA41127m5": "ZzsK8Am6dKU",
@@ -44487,6 +44851,7 @@
     "BV1ni4y1B7Mr": "kopoLzvh5jY",
     "BV1ig411j7Qw": "kz165f1g8-E",
     "BV13a4y1J7oy": "l4UgZBs7ZGo",
+    "BV1Ps4y1N7fy": "lsWndfzuOc4",
     "BV1o54y1p7GH": "mGQLXRTl3Z0",
     "BV18M4y1F7GP": "mZBwsm6B280",
     "BV1fJ4m1L7wH": "makaJpLvbow",
@@ -44596,6 +44961,7 @@
     "BV1WJ411u71d": "_sBBaNYex3E",
     "BV1VJ411u7Hk": "_sBBaNYex3E",
     "BV1Mb4y1U7Zz": "dk3oc1Hr62g",
+    "BV1NVbYzREMr": "dtjb2OhEQcU",
     "BV1Ko4y1Z7ee": "fn3KWM1kuAw",
     "BV1kh411o7eS": "iGLzWdT7vGc",
     "BV1gb411V7v1": "iGLzWdT7vGc",
