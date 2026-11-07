@@ -1,0 +1,47 @@
+{
+  "checked_at": "2026-11-07T19:41:58.919Z",
+  "checks": [
+    {
+      "sample": "KEkrWRHCDQU",
+      "kind": "original",
+      "id": "KEkrWRHCDQU",
+      "bvid": "BV17D4y1D7ym",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.945869,
+        "duration": 225,
+        "paused": false
+      },
+      "expected_duration": 225,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "216909597"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "HACKERMAN'S HACKING TUTORIALS - How To Hack Time\n島嶼先生\n关注\n11\n1\n分享\n更多\n00:04 / 03:45\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "KYbM-3E11Qo",
+      "kind": "original",
+      "id": "KYbM-3E11Qo",
+      "bvid": "BV1g4411U72J",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.184563,
+        "duration": 187,
+        "paused": false
+      },
+      "expected_duration": 188,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "110750966"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "波音越南航空公司787-9梦幻客机垂直起飞和急转弯2015巴黎航空展筹备\nYouTube机械搬运工\n关注\n26\n2\n分享\n更多\n00:05 / 03:07\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}
