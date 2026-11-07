@@ -48,4 +48,4 @@
 
 新增确认：`CMdHDHEuOUE` → `BV1Yx411k7un`、`CZ3wIuvmHeM` → `BV1DM4y1f7xF`、`CzwtCBj5jEs` → `BV1bbaT6EETt`、`D2SoGHFM18I` → `BV1Dx411V7Ut`。四条B站简介均含对应原片ID，均为单P且时长差在容差内；实播全部通过，实际CID与记录一致。元数据和播放器证据见 `reports/metadata-review-2026-11-08-resume5.json`、`reports/playback-increment-2026-11-08-resume5.json`；未做逐帧内容比较。
 
-当前工作库进度5163/6454，确认1080；发布前检查和线上核验待完成。
+当前工作库进度5163/6454，确认1080。本增量已由提交 `1afdb8afbb5d3dd07807a41c7ba97486148ad2ec` 推送；Pages `data.json` 返回HTTP 200，SHA-256 `067b6ad5dce9f2790c5d895f3811a2850eaf94402885658a7f380d31dbdde43f` 与本地一致，4条新增版本均已在线核验，详情见 `reports/pages-check-2026-11-08-resume5.json`。
