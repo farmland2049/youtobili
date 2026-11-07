@@ -33,3 +33,10 @@
 新增确认：`9KivesLMncs` → `BV18a4y1S7pt`（Alan Kay on Dijkstra，159秒）；`9T1vfsHYiKY` → `BV1Lz4y1d7mZ`（Shagged by a rare parrot，152秒）。两者简介均指向对应原片，单P、分P身份和时长已从公开详情核对；元数据快照证据见 `reports/metadata-review-2026-11-07-resume3.json`。两条均通过真实播放检查，播放器时长分别为159秒与152秒，实际请求CID分别为 `1330298511`、`192580245`；本批发布前检查待完成。
 
 当前工作库进度5067/6454，确认1068。本增量已由提交 `a24c700e258e00d112db573420a577dc39b09da9` 推送；Pages `data.json` 返回HTTP 200，SHA-256 `db3980b27ccd6e0f4bd3b5a2c2325133290320075adc409a175121b299675c61` 与本地一致，详情见 `reports/pages-check-2026-11-07-resume3.json`。
+
+
+## 2026-11-07 恢复后增量四
+
+批次 `20261107T141047Z` 完整处理50条：42条待审、8条确认，0请求错误、0未处理。新增确认依次为 `9yW--eQaA2I` → `BV1cGSbBrEJ9`、`A8dqzVlhFkA` → `BV1Mx411672f`、`ADqLBc1vFwI` → `BV13A411H7iz`、`AEtbFm_CjE0` → `BV1k7421N78B`、`Aaxw4zbULMs` → `BV1Bs411C74k`、`B8R148hFxPw` → `BV1ZE411u7w5`、`BKorP55Aqvg` → `BV18t411y7Ge`、`BYVZh5kqaFg` → `BV1sdypBJEyC`。每条均有匹配原片ID的公开B站简介和单P详情，时长差在规则阈值内；8条实播均通过，实际CID可见。中文AI配音说明已记录，符合项目对完整中文配音的规则。元数据快照与播放器结果见 `reports/metadata-review-2026-11-07-resume4.json`、`reports/playback-increment-2026-11-07-resume4.json`；未做逐帧内容比较。
+
+当前工作库进度5117/6454，确认1076；发布前检查与Pages更新待完成。

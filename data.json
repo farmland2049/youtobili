@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-07T14:07:14.077533+00:00",
+  "built_at": "2026-11-07T15:12:05.431166+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5067,
-    "confirmed": 1068,
-    "coverage": 0.165478772854044,
-    "processed_match_rate": 0.2107756068679692
+    "processed": 5117,
+    "confirmed": 1076,
+    "coverage": 0.16671831422373723,
+    "processed_match_rate": 0.2102794606214579
   },
   "areas": [
     {
@@ -40766,6 +40766,144 @@
       ]
     },
     {
+      "id": "9yW--eQaA2I",
+      "title": "How to walk through walls using the 4th Dimension [Miegakure: a 4D game]",
+      "author": "[mtbdesignworks {Miegakure, 4D Toys}]",
+      "source_url": "https://www.youtube.com/watch?v=9yW--eQaA2I",
+      "summary": "A short explainer showing what walking through walls would look like with movement in a fourth spatial dimension, using the 4D puzzle game Miegakure.",
+      "why": "HN links it in discussions of 4D visualization and Miegakure as an intuitive demonstration of the fourth dimension.",
+      "score": 0.0,
+      "tags": [
+        "miegakure",
+        "4d",
+        "game design",
+        "geometry",
+        "visualization"
+      ],
+      "categories": [
+        "game-design",
+        "recreational-math",
+        "indie-game-development"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1cGSbBrEJ9",
+          "page": 1,
+          "cid": 34457259920,
+          "title": "【中配】如何利用第四维度穿墙而过：Miegakure（一款4D游戏）解析 - [mtbdesignworks {Miegakure, 4D Toys}]",
+          "up": "黑纹白斑马",
+          "duration": 202,
+          "kind": "dub_zh",
+          "views": 1379,
+          "pic": "https://i1.hdslb.com/bfs/archive/95c4276bf509b01f6a305b3242bd52a91348e9ce.png",
+          "checked_at": "2026-11-07T14:11:02.713028+00:00"
+        }
+      ]
+    },
+    {
+      "id": "A8dqzVlhFkA",
+      "title": "EEVblog #1001 - uBeam Ultrasonic Wireless Charging DEBUNKED!",
+      "author": "EEVblog",
+      "source_url": "https://www.youtube.com/watch?v=A8dqzVlhFkA",
+      "summary": "Dave Jones of EEVblog debunks the uBeam ultrasonic wireless phone charging technology and explains why it is not practical. He covers efficiency, coupling loss and safety, and responds to the founder's remarks about engineers.",
+      "why": "Cited as the definitive engineering takedown of uBeam and as a cautionary example of hype-driven startups.",
+      "score": 0.0,
+      "tags": [
+        "ubeam",
+        "wireless charging",
+        "debunking",
+        "ultrasound",
+        "startup hype"
+      ],
+      "categories": [
+        "electronics-circuits",
+        "consumer-devices",
+        "startups-entrepreneurship"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Mx411672f",
+          "page": 1,
+          "cid": 19144543,
+          "title": "EEVblog #1001 - uBeam Ultrasonic Wireless Charging DEBUNKED!",
+          "up": "剪蘑菇的小姑娘",
+          "duration": 925,
+          "kind": "original",
+          "views": 115,
+          "pic": "https://i2.hdslb.com/bfs/archive/34536915d7b13dedf9bdbb1fab48020fd8cbb2d3.jpg",
+          "checked_at": "2026-11-07T14:14:55.793182+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ADqLBc1vFwI",
+      "title": "Hitler reacts to functional programming",
+      "author": "Rymdkraftverk",
+      "source_url": "https://www.youtube.com/watch?v=ADqLBc1vFwI",
+      "summary": "A Downfall-style parody in which Hitler rages about functional programming concepts such as monads and Haskell. It runs about four minutes.",
+      "why": "Shared purely for laughs in functional programming and Haskell threads, as a well-loved programmer meme.",
+      "score": 0.0,
+      "tags": [
+        "downfall parody",
+        "haskell",
+        "monads",
+        "programmer humor",
+        "meme"
+      ],
+      "categories": [
+        "satire-parody",
+        "functional-programming"
+      ],
+      "versions": [
+        {
+          "bvid": "BV13A411H7iz",
+          "page": 1,
+          "cid": 277945341,
+          "title": "Hitler reacts to functional programming",
+          "up": "战斗民族老大鸽",
+          "duration": 241,
+          "kind": "original",
+          "views": 169,
+          "pic": "https://i0.hdslb.com/bfs/archive/0b5f16bf56245913877fad42e7968d8264026ac3.jpg",
+          "checked_at": "2026-11-07T14:20:20.141925+00:00"
+        }
+      ]
+    },
+    {
+      "id": "AEtbFm_CjE0",
+      "title": "Delta P",
+      "author": "Sean Roos",
+      "source_url": "https://www.youtube.com/watch?v=AEtbFm_CjE0",
+      "summary": "A short video illustrating the hazard of pressure differentials (delta P) in commercial diving, where a pressure difference creates enormous force on a diver. It is a safety-oriented look at diving accidents.",
+      "why": "Shared as nightmare fuel in threads on diving and underwater work to show how deadly pressure differentials are.",
+      "score": 0.0,
+      "tags": [
+        "delta p",
+        "commercial diving",
+        "pressure differential",
+        "diving safety"
+      ],
+      "categories": [
+        "ships-ocean",
+        "everyday-physics-demos",
+        "engineering-making-other"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1k7421N78B",
+          "page": 1,
+          "cid": 1434249238,
+          "title": "Delta P",
+          "up": "WtfWasThat",
+          "duration": 689,
+          "kind": "original",
+          "views": 459,
+          "pic": "https://i1.hdslb.com/bfs/archive/2dcc01108d10a47ef39f6362234ca0420cd141ca.jpg",
+          "checked_at": "2026-11-07T14:20:32.195798+00:00"
+        }
+      ]
+    },
+    {
       "id": "AKMuA_TVz3A",
       "title": "An Observation on Generalization",
       "author": "Simons Institute for the Theory of Computing",
@@ -40801,6 +40939,40 @@
       ]
     },
     {
+      "id": "Aaxw4zbULMs",
+      "title": "Synchronization of Metronomes",
+      "author": "Harvard Natural Sciences Lecture Demonstrations",
+      "source_url": "https://www.youtube.com/watch?v=Aaxw4zbULMs",
+      "summary": "A Harvard lecture demonstration in which five metronomes on a movable board gradually fall into synchronization through coupling. Removing the coupling lets them drift out of step.",
+      "why": "Cited as the canonical visual demonstration of coupled oscillators synchronizing, applied to analogies from brain waves to LLM populations.",
+      "score": 0.0,
+      "tags": [
+        "metronomes",
+        "synchronization",
+        "coupled oscillators",
+        "physics demo",
+        "resonance"
+      ],
+      "categories": [
+        "everyday-physics-demos",
+        "fundamental-physics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Bs411C74k",
+          "page": 1,
+          "cid": 9176960,
+          "title": "节拍器同步实验(Synchronization of Metronomes)",
+          "up": "一剑定星辰",
+          "duration": 108,
+          "kind": "original",
+          "views": 3858,
+          "pic": "https://i0.hdslb.com/bfs/archive/964f1c37f6ddc9240debce7848a457ce67a9ef73.jpg",
+          "checked_at": "2026-11-07T14:38:53.423722+00:00"
+        }
+      ]
+    },
+    {
       "id": "B6rKUf9DWRI",
       "title": "1968 “Mother of All Demos” by SRI’s Doug Engelbart and Team",
       "author": "SRI",
@@ -40831,6 +41003,110 @@
           "views": 892,
           "pic": "https://i1.hdslb.com/bfs/archive/ac0b4fa7979b6ff041173aa035918adf8b5243f0.jpg",
           "checked_at": "2026-11-07T05:27:36.128961+00:00"
+        }
+      ]
+    },
+    {
+      "id": "B8R148hFxPw",
+      "title": "Waymo 360° Experience: A Fully Autonomous Driving Journey",
+      "author": "Waymo",
+      "source_url": "https://www.youtube.com/watch?v=B8R148hFxPw",
+      "summary": "Waymo's 2018 360-degree video lets viewers look around inside a fully driverless ride. It is built from footage and real-time data of an actual trip on city streets.",
+      "why": "Cited as a reference in self-driving threads for what the car senses, such as sensor range, LIDAR and planning, although some commenters were critical of it.",
+      "score": 0.0,
+      "tags": [
+        "waymo",
+        "autonomous driving",
+        "lidar",
+        "360 video",
+        "sensors"
+      ],
+      "categories": [
+        "self-driving-cars",
+        "vr-ar-spatial"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ZE411u7w5",
+          "page": 1,
+          "cid": 161180124,
+          "title": "Waymo 360° Experience A Fully Self-Driving Journey",
+          "up": "Sky-Dream-2020",
+          "duration": 212,
+          "kind": "original",
+          "views": 274,
+          "pic": "https://i0.hdslb.com/bfs/archive/a0395371010603f5f3814d9baa03905f2b2177f2.jpg",
+          "checked_at": "2026-11-07T14:53:54.891952+00:00"
+        }
+      ]
+    },
+    {
+      "id": "BKorP55Aqvg",
+      "title": "The Expert (Short Comedy Sketch)",
+      "author": "Lauris Beinerts",
+      "source_url": "https://www.youtube.com/watch?v=BKorP55Aqvg",
+      "summary": "A comedy sketch of a business meeting in which an engineer, the expert, is asked to do impossible things like draw red lines with blue ink.",
+      "why": "Shared constantly as a painfully accurate depiction of absurd requirements, clueless management and estimation pressure.",
+      "score": 0.0,
+      "tags": [
+        "corporate satire",
+        "requirements",
+        "engineering",
+        "management",
+        "sketch comedy"
+      ],
+      "categories": [
+        "standup-sketch-comedy",
+        "satire-parody",
+        "management-leadership"
+      ],
+      "versions": [
+        {
+          "bvid": "BV18t411y7Ge",
+          "page": 1,
+          "cid": 64282293,
+          "title": "The Expert (Short Comedy Sketch)",
+          "up": "口袋阅览室",
+          "duration": 455,
+          "kind": "original",
+          "views": 744,
+          "pic": "https://i2.hdslb.com/bfs/archive/e3d07b690b4f359e778c150d218b9a82199bd8bf.jpg",
+          "checked_at": "2026-11-07T15:06:16.749996+00:00"
+        }
+      ]
+    },
+    {
+      "id": "BYVZh5kqaFg",
+      "title": "Egg Drop From Space",
+      "author": "Mark Rober",
+      "source_url": "https://www.youtube.com/watch?v=BYVZh5kqaFg",
+      "summary": "Mark Rober and Joe Barnard drop an egg from a high-altitude balloon, using a camera-guided glider to steer it to a safe landing.",
+      "why": "Used as an example of how easy homing and guidance have become, resembling precision-guided munitions.",
+      "score": 0.0,
+      "tags": [
+        "mark rober",
+        "high-altitude balloon",
+        "guidance",
+        "engineering",
+        "glider"
+      ],
+      "categories": [
+        "aviation",
+        "mechanical-engineering",
+        "magic-performance-oddities"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1sdypBJEyC",
+          "page": 1,
+          "cid": 33506526199,
+          "title": "【中配】太空坠蛋实验 - Mark Rober",
+          "up": "AI译片君",
+          "duration": 1617,
+          "kind": "dub_zh",
+          "views": 1408,
+          "pic": "https://i2.hdslb.com/bfs/archive/534b98962c25391e0eb23bc2637380925a9afe87.png",
+          "checked_at": "2026-11-07T15:08:54.053664+00:00"
         }
       ]
     },
@@ -43360,8 +43636,16 @@
     "BV1Lz4y1d7mZ": "9T1vfsHYiKY",
     "BV18Ni6YbE8J": "9fa9lVwHHqg",
     "BV1yPRqB2EEE": "9sJUDx7iEJw",
+    "BV1cGSbBrEJ9": "9yW--eQaA2I",
+    "BV1Mx411672f": "A8dqzVlhFkA",
+    "BV13A411H7iz": "ADqLBc1vFwI",
+    "BV1k7421N78B": "AEtbFm_CjE0",
     "BV1yH2QYkEkM": "AKMuA_TVz3A",
+    "BV1Bs411C74k": "Aaxw4zbULMs",
     "BV1CB4y1A7Za": "B6rKUf9DWRI",
+    "BV1ZE411u7w5": "B8R148hFxPw",
+    "BV18t411y7Ge": "BKorP55Aqvg",
+    "BV1sdypBJEyC": "BYVZh5kqaFg",
     "BV11w2bBqE7m": "C2vgICfQawE",
     "BV183411k7eb": "C2vgICfQawE",
     "BV1uc411H7aT": "C_78DM8fG6E",
