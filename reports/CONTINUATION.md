@@ -105,4 +105,4 @@
 
 新增确认并经元数据与实播复核：`LSHZ_b05W7o` → `BV12s411t77E`（Sony CSL 的 Daddy's Car，181秒）；`LXb3EKWsInQ` → `BV1zDvYe6EQ4`（COSTA RICA IN 4K 60fps HDR，原片314秒、分P315秒）。两条完整B站简介都含对应YouTube原片链接，均为单P；实播均通过并观察到记录CID（`10474111`、`500001634779260`），播放器时长分别为181秒、约313.699秒。元数据快照与简介哈希见 `reports/metadata-review-2026-11-08-resume12.json`，播放器结果见 `reports/playback-increment-2026-11-08-resume12.json`；未做逐帧比较。
 
-当前工作库进度5391/6454，确认1093。本次构建数据校验、65项单元测试、桌面/手机浏览器检查及新增两条真实播放核验均通过；本增量线上发布与Pages哈希核验待完成。
+当前工作库进度5391/6454，确认1093。本次构建数据校验、65项单元测试、桌面/手机浏览器检查及新增两条真实播放核验均通过；内容提交 `2c14a9b727123b182e8cf91feeacf6040a0436e6` 已推送；Pages 部署运行 `42414051486` 成功，线上 `data.json` 返回HTTP 200，SHA-256 `8b93f770f62bdfc5ed6207c7a512884bb4d5a54a50ecfc4b155861e2a42ab726` 与本地一致，两条新增视频已在线核验，详情见 `reports/pages-check-2026-11-08-resume12.json`。
