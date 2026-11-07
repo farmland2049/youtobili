@@ -39,4 +39,4 @@
 
 批次 `20261107T141047Z` 完整处理50条：42条待审、8条确认，0请求错误、0未处理。新增确认依次为 `9yW--eQaA2I` → `BV1cGSbBrEJ9`、`A8dqzVlhFkA` → `BV1Mx411672f`、`ADqLBc1vFwI` → `BV13A411H7iz`、`AEtbFm_CjE0` → `BV1k7421N78B`、`Aaxw4zbULMs` → `BV1Bs411C74k`、`B8R148hFxPw` → `BV1ZE411u7w5`、`BKorP55Aqvg` → `BV18t411y7Ge`、`BYVZh5kqaFg` → `BV1sdypBJEyC`。每条均有匹配原片ID的公开B站简介和单P详情，时长差在规则阈值内；8条实播均通过，实际CID可见。中文AI配音说明已记录，符合项目对完整中文配音的规则。元数据快照与播放器结果见 `reports/metadata-review-2026-11-07-resume4.json`、`reports/playback-increment-2026-11-07-resume4.json`；未做逐帧内容比较。
 
-当前工作库进度5117/6454，确认1076；发布前检查与Pages更新待完成。
+当前工作库进度5117/6454，确认1076。本增量已由提交 `addc2b6a13e0c46b951cdf5ec3684031e74f662d` 推送；Pages `data.json` 返回HTTP 200，SHA-256 `d17994e9a834091da52f4e1ae6c4c628d278f58cc50760cd52c0bcb1b76986b0` 与本地一致，8条新增版本均已在线核验，详情见 `reports/pages-check-2026-11-07-resume4.json`。
