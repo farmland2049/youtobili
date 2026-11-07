@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-11-07T18:03:41.367Z",
+  "checks": [
+    {
+      "sample": "GYkq9Rgoj8E",
+      "kind": "sub_zh",
+      "id": "GYkq9Rgoj8E",
+      "bvid": "BV1EM4y1v7eK",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.111669,
+        "duration": 7571,
+        "paused": false
+      },
+      "expected_duration": 7571,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1154298918"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【中字·WWDC23全程】WWDC 2023 — June 5 _ Apple\nZenith_Lens\n关注\n5\n0\n分享\n更多\n0:00:04 / 2:06:11\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "GeCP-0nuziE",
+      "kind": "original",
+      "id": "GeCP-0nuziE",
+      "bvid": "BV1DRoQYjE49",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.234267,
+        "duration": 991,
+        "paused": false
+      },
+      "expected_duration": 991,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "29105328091"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【YouTube搬运】关于 LTT 如何赚钱的真相The TRUTH About How LTT Makes Money\n小溪_YouTube搬运笔记本\n关注\n1\n0\n分享\n更多\n00:05 / 16:31\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "H8eP99neOVs",
+      "kind": "original",
+      "id": "H8eP99neOVs",
+      "bvid": "BV13a411Y7SN",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.951712,
+        "duration": 184,
+        "paused": false
+      },
+      "expected_duration": 184,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "718087353"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Focusing is about saying no\nneoddish\n关注\n3\n1\n分享\n更多\n00:04 / 03:04\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

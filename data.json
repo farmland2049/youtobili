@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-07T17:28:44.036404+00:00",
+  "built_at": "2026-11-07T18:03:08.350958+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5231,
-    "confirmed": 1083,
-    "coverage": 0.16780291292221877,
-    "processed_match_rate": 0.20703498375071688
+    "processed": 5261,
+    "confirmed": 1086,
+    "coverage": 0.16826774093585373,
+    "processed_match_rate": 0.206424634099981
   },
   "areas": [
     {
@@ -41500,6 +41500,111 @@
       ]
     },
     {
+      "id": "GYkq9Rgoj8E",
+      "title": "WWDC 2023 — June 5 | Apple",
+      "author": "Apple",
+      "source_url": "https://www.youtube.com/watch?v=GYkq9Rgoj8E",
+      "summary": "Apple's full WWDC 2023 keynote, covering the 15-inch MacBook Air, new Mac hardware, iOS, iPadOS, macOS, watchOS and the unveiling of Apple Vision Pro. It runs about two hours.",
+      "why": "HN mostly links to it as the primary source, citing keynote timestamps to settle what Apple actually claimed or showed, while some criticize the Vision Pro segment.",
+      "score": 0.0,
+      "tags": [
+        "wwdc 2023",
+        "apple vision pro",
+        "macos",
+        "ios",
+        "keynote"
+      ],
+      "categories": [
+        "tech-company-stories",
+        "consumer-devices",
+        "vr-ar-spatial"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1EM4y1v7eK",
+          "page": 1,
+          "cid": 1154298918,
+          "title": "【中字·WWDC23全程】WWDC 2023 — June 5 _ Apple",
+          "up": "Zenith_Lens",
+          "duration": 7571,
+          "kind": "sub_zh",
+          "views": 151,
+          "pic": "https://i2.hdslb.com/bfs/archive/08d26b97423ad322ce3bfa783efa44d6c51a6fdf.jpg",
+          "checked_at": "2026-11-07T17:37:31.165512+00:00"
+        }
+      ]
+    },
+    {
+      "id": "GeCP-0nuziE",
+      "title": "The TRUTH About How LTT Makes Money",
+      "author": "Linus Tech Tips",
+      "source_url": "https://www.youtube.com/watch?v=GeCP-0nuziE",
+      "summary": "Linus Tech Tips breaks down the company's income streams, including sponsors, YouTube Premium, merch and other products. It gives percentages for each revenue source.",
+      "why": "Used as a data source on how creators earn money, especially the share from YouTube Premium and sponsors in ad-blocking and advertising threads.",
+      "score": 0.0,
+      "tags": [
+        "linus tech tips",
+        "creator economy",
+        "youtube premium",
+        "sponsorships",
+        "business model"
+      ],
+      "categories": [
+        "product-growth-marketing",
+        "tech-industry-business",
+        "internet-culture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1DRoQYjE49",
+          "page": 1,
+          "cid": 29105328091,
+          "title": "【YouTube搬运】关于 LTT 如何赚钱的真相The TRUTH About How LTT Makes Money",
+          "up": "小溪_YouTube搬运笔记本",
+          "duration": 991,
+          "kind": "original",
+          "views": 35,
+          "pic": "https://i1.hdslb.com/bfs/archive/21a254ddb55973ef03d359743b98db93ce61e8b7.jpg",
+          "checked_at": "2026-11-07T17:42:57.610682+00:00"
+        }
+      ]
+    },
+    {
+      "id": "H8eP99neOVs",
+      "title": "\"Focusing is about saying no\" - Steve Jobs (WWDC'97)",
+      "author": "Erin Casali",
+      "source_url": "https://www.youtube.com/watch?v=H8eP99neOVs",
+      "summary": "A three-minute clip of Steve Jobs at WWDC 1997 explaining that focus means saying no to many good ideas. It is a short answer about product strategy and its effect on people.",
+      "why": "HN uses it as the canonical source for the 'focus is saying no' quote, cited in threads on product decisions such as dropping old hardware support.",
+      "score": 0.0,
+      "tags": [
+        "steve jobs",
+        "wwdc 1997",
+        "focus",
+        "product strategy",
+        "apple"
+      ],
+      "categories": [
+        "tech-figures-interviews",
+        "product-industrial-design",
+        "tech-company-stories"
+      ],
+      "versions": [
+        {
+          "bvid": "BV13a411Y7SN",
+          "page": 1,
+          "cid": 718087353,
+          "title": "Focusing is about saying no",
+          "up": "neoddish",
+          "duration": 184,
+          "kind": "original",
+          "views": 401,
+          "pic": "https://i0.hdslb.com/bfs/archive/a581666607de2c938c858e99345ff9451ffed434.jpg",
+          "checked_at": "2026-11-07T17:58:14.234295+00:00"
+        }
+      ]
+    },
+    {
       "id": "HKTSaezB4p8",
       "title": "Richard Feynman playing bongos",
       "author": "sdfhsfh",
@@ -43896,6 +44001,9 @@
     "BV1jg411A7gQ": "FZ6lZJWL_Xk",
     "BV1FW411i7mF": "FaOSCASqLsE",
     "BV1884y1V7m9": "Fpu5a0Bl8eY",
+    "BV1EM4y1v7eK": "GYkq9Rgoj8E",
+    "BV1DRoQYjE49": "GeCP-0nuziE",
+    "BV13a411Y7SN": "H8eP99neOVs",
     "BV1Eq4y1w7u5": "HKTSaezB4p8",
     "BV16CXhYbEhR": "IACHfKmZMr8",
     "BV1kT4y177EA": "L1UgdoP2aeg",
