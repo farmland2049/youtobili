@@ -1,34 +1,80 @@
 # 匹配进展
 
-更新时间：2026-11-07T21:24:59.773623+00:00
+更新时间：2026-11-07T21:41:13.776778+00:00
 
 - 原片库：6454
-- 完成处理：5295
-- 已确认原片：1095
-- 全库覆盖率：16.97%
-- 已处理原片匹配率：19.75%
-- 状态：{'confirmed': 1095, 'review': 4329}
+- 完成处理：5345
+- 已确认原片：1101
+- 全库覆盖率：17.06%
+- 已处理原片匹配率：20.24%
+- 状态：{'confirmed': 1101, 'review': 4323}
 
-- 待审中尚需扩大候选检查：196
-- 已扩大检查仍待审核：4133
+- 待审中尚需扩大候选检查：191
+- 已扩大检查仍待审核：4132
 
 ## 最近批次
 
 ```json
 {
-  "id": "20261107T210557Z",
+  "id": "20261107T213310Z",
   "selected": 50,
-  "completed": 0,
-  "errors": [
-    {
-      "vid": "MpmGXeAtWUw",
-      "reason": "Guest initialization TimeoutError"
-    }
-  ],
+  "completed": 50,
+  "errors": [],
   "stopped": false,
-  "originals": [],
+  "originals": [
+    "aMcJ1Jvtef0",
+    "aircAruvnKk",
+    "W3aieHjyNvw",
+    "wjZofJX0v4M",
+    "r-TLSBdHe1A",
+    "2Op3QLzMgSY",
+    "QmOF0crdyRU",
+    "KkpqA8yG9T4",
+    "7xTGNNLPyMI",
+    "rX0ItVEVjHc",
+    "kCc8FmEb1nY",
+    "UF8uR6Z6KLc",
+    "stxVBJem3Rs",
+    "yiw6_JakZFc",
+    "nm1TxQj9IsQ",
+    "VscdPA6sUkc",
+    "t705r8ICkRw",
+    "Sm5xF-UYgdg",
+    "zjkBMFhNj_g",
+    "-6rWqJhDv7M",
+    "Eq3bUFgEcb4",
+    "X-iSQQgOd1A",
+    "LxgMdjyw8uw",
+    "-4Yp3j_jk8Q",
+    "rQmqVVmMB3k",
+    "zduSFxRajkE",
+    "7J7X7aZvMXQ",
+    "8fHi36dvTdE",
+    "eMlx5fFNoYc",
+    "sqEyWLGvvdw",
+    "v3y8AIEX_dU",
+    "yS1ibDImAYU",
+    "zVhQOhxb1Mc",
+    "DxL2HoqLbyA",
+    "j5v8D-alAKE",
+    "xMP_AfiNlX4",
+    "Ilg3gGewQ5U",
+    "LWGJA9i18Co",
+    "YI3tsmFsrOg",
+    "ZCuYPiUIONs",
+    "jILgxeNBK_8",
+    "BDqvzFY72mg",
+    "IHZwWFHWa-w",
+    "OQQ-W_63UgQ",
+    "eC7xzavzEKY",
+    "lcjdwSY2AzM",
+    "oI_X2cMHNe0",
+    "2JAOTJxYqh8",
+    "PaCmpygFfXo",
+    "RxabLA7UQ9k"
+  ],
   "primary_first": true,
-  "deferred_candidates": 0,
+  "deferred_candidates": 390,
   "excluded_originals": [
     "-e1_QhJ1EhQ",
     "05WS0WN7zMQ",
@@ -70,6 +116,7 @@
     "MNXypBxNGMo",
     "MoaWlKC3wIM",
     "MpfvhiqFw7A",
+    "MpmGXeAtWUw",
     "NHWjlCaIrQo",
     "NTJQTc-TqpU",
     "OL6-x0modwY",
@@ -102,12 +149,13 @@
     "y4sOfO8Ei1g",
     "yg-UqIIvang"
   ],
-  "attempted": 1,
-  "unattempted": 49,
+  "attempted": 50,
+  "unattempted": 0,
   "statuses": {
-    "review": 1
+    "confirmed": 36,
+    "review": 14
   },
-  "candidate_count": 0
+  "candidate_count": 2033
 }
 ```
 

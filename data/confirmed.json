@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T21:24:59.825609+00:00",
+  "updated_at": "2026-11-07T21:41:13.828925+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -148,7 +148,7 @@
     "aircAruvnKk": {
       "vid": "aircAruvnKk",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:33:19.991770+00:00",
       "candidates": [
         {
           "bvid": "BV1bx411M7Zx",
@@ -197,29 +197,6 @@
           "aid": 90397879
         },
         {
-          "bvid": "BV18itveVErY",
-          "status": "confirmed",
-          "reason": "explicit source URL, segment and duration verified",
-          "evidence": [
-            "explicit original URL or labeled YouTube ID in Bilibili description"
-          ],
-          "flags": [],
-          "page": 1,
-          "title": "But what is a neural network  Chapter 1, Deep learning",
-          "up": "cniclsh",
-          "duration": 1120,
-          "original_duration": 1120,
-          "cid": 25664036792,
-          "segment_title": "But what is a neural network  Chapter 1, Deep learning",
-          "page_count": 1,
-          "kind": "original",
-          "views": 67,
-          "pic": "https://i1.hdslb.com/bfs/archive/e09941cfd736774296362650fb3758648128955b.jpg",
-          "checked_at": "2026-11-07T05:27:34.146740+00:00",
-          "availability": "available",
-          "aid": 113153396448039
-        },
-        {
           "bvid": "BV16ssYzrECx",
           "status": "confirmed",
           "lead_url": "https://www.bilibili.com/video/BV16ssYzrECx",
@@ -241,6 +218,31 @@
           "views": 18837,
           "pic": "https://i0.hdslb.com/bfs/archive/7e60a803225c189458de1899ba416dcd1b1d94f1.png",
           "checked_at": "2026-11-07T05:27:34.147936+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV11t411A7vt",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV11t411A7vt",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description",
+            "exact original YouTube ID explicitly associated with selected segment"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "[3blue1brown]加字幕搬运 What is a Neural Network _ Deep learning, chapter 1",
+          "up": "账号已注销",
+          "duration": 1154,
+          "original_duration": 1120,
+          "cid": 105931992,
+          "aid": 60874492,
+          "segment_title": "But what is a Neural Network _ Deep learning, chapter 1-aircAruvnKk",
+          "page_count": 1,
+          "kind": "original",
+          "views": 760,
+          "pic": "https://i0.hdslb.com/bfs/archive/4538d7ef85edf0885aa63f2a8f67343de2b52a3e.jpg",
+          "checked_at": "2026-11-07T05:27:34.148719+00:00",
           "availability": "available"
         },
         {
@@ -268,36 +270,34 @@
           "availability": "available"
         },
         {
-          "bvid": "BV11t411A7vt",
+          "bvid": "BV18itveVErY",
           "status": "confirmed",
-          "lead_url": "https://www.bilibili.com/video/BV11t411A7vt",
+          "reason": "explicit source URL, segment and duration verified",
           "evidence": [
-            "explicit original URL or labeled YouTube ID in Bilibili description",
-            "exact original YouTube ID explicitly associated with selected segment"
+            "explicit original URL or labeled YouTube ID in Bilibili description"
           ],
           "flags": [],
-          "reason": "explicit source URL, segment and duration verified",
           "page": 1,
-          "title": "[3blue1brown]加字幕搬运 What is a Neural Network _ Deep learning, chapter 1",
-          "up": "账号已注销",
-          "duration": 1154,
+          "title": "But what is a neural network  Chapter 1, Deep learning",
+          "up": "cniclsh",
+          "duration": 1120,
           "original_duration": 1120,
-          "cid": 105931992,
-          "aid": 60874492,
-          "segment_title": "But what is a Neural Network _ Deep learning, chapter 1-aircAruvnKk",
+          "cid": 25664036792,
+          "segment_title": "But what is a neural network  Chapter 1, Deep learning",
           "page_count": 1,
           "kind": "original",
-          "views": 760,
-          "pic": "https://i0.hdslb.com/bfs/archive/4538d7ef85edf0885aa63f2a8f67343de2b52a3e.jpg",
-          "checked_at": "2026-11-07T05:27:34.148719+00:00",
-          "availability": "available"
+          "views": 67,
+          "pic": "https://i1.hdslb.com/bfs/archive/e09941cfd736774296362650fb3758648128955b.jpg",
+          "checked_at": "2026-11-07T05:27:34.146740+00:00",
+          "availability": "available",
+          "aid": 113153396448039
         }
       ]
     },
     "eMlx5fFNoYc": {
       "vid": "eMlx5fFNoYc",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:35:45.196785+00:00",
       "candidates": [
         {
           "bvid": "BV1TZ421j7Ke",
@@ -327,7 +327,7 @@
     "wjZofJX0v4M": {
       "vid": "wjZofJX0v4M",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:33:27.408070+00:00",
       "candidates": [
         {
           "bvid": "BV13z421U7cs",
@@ -423,7 +423,7 @@
     "7xTGNNLPyMI": {
       "vid": "7xTGNNLPyMI",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:34:14.587418+00:00",
       "candidates": [
         {
           "bvid": "BV19ZN8eVEsS",
@@ -548,7 +548,7 @@
     "kCc8FmEb1nY": {
       "vid": "kCc8FmEb1nY",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:34:21.147554+00:00",
       "candidates": [
         {
           "bvid": "BV1ZvgQ6iEtN",
@@ -602,7 +602,7 @@
     "zjkBMFhNj_g": {
       "vid": "zjkBMFhNj_g",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:34:42.643181+00:00",
       "candidates": [
         {
           "bvid": "BV1AU421o7ob",
@@ -703,7 +703,7 @@
     "zduSFxRajkE": {
       "vid": "zduSFxRajkE",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:35:34.000760+00:00",
       "candidates": [
         {
           "bvid": "BV1DXL3z6Efu",
@@ -1350,8 +1350,31 @@
     "PaCmpygFfXo": {
       "vid": "PaCmpygFfXo",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:37:32.258917+00:00",
       "candidates": [
+        {
+          "bvid": "BV1juKH6MEVU",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "[双语]| The spelled-out intro to language modeling： building makemore",
+          "up": "FROSTBITEN",
+          "duration": 7065,
+          "original_duration": 7065,
+          "cid": 40030308007,
+          "aid": 116933705867146,
+          "segment_title": "[双语]| The spelled-out intro to language modeling： building makemore",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 57,
+          "pic": "https://i1.hdslb.com/bfs/archive/082d160681a093ae3fa9440bf1dde33286adb5f5.jpg",
+          "checked_at": "2026-11-07T21:37:30.737028+00:00",
+          "availability": "available"
+        },
         {
           "bvid": "BV1KqHszDECz",
           "status": "confirmed",
@@ -1441,7 +1464,7 @@
     "IHZwWFHWa-w": {
       "vid": "IHZwWFHWa-w",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:36:39.147197+00:00",
       "candidates": [
         {
           "bvid": "BV1Ux411j7ri",
@@ -1532,7 +1555,7 @@
     "Ilg3gGewQ5U": {
       "vid": "Ilg3gGewQ5U",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:36:14.488055+00:00",
       "candidates": [
         {
           "bvid": "BV18itveVE3L",
@@ -4276,9 +4299,35 @@
     },
     "aMcJ1Jvtef0": {
       "vid": "aMcJ1Jvtef0",
-      "status": "review",
-      "completed_at": null,
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-07T21:33:12.050411+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1LaZ6Y4EQB",
+          "status": "confirmed",
+          "lead_title": "GDC16|8位与\"8位风格\"图形：突破常规——8 Bit & '8 Bitish' Graphics-Outside the Box",
+          "source_bvid": "BV1mXEjzdED8",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "GDC16|中配|8位与“8位风格”图形：突破常规——8 Bit & '8 Bitish' Graphics-Outside the Box",
+          "up": "庸才的朽木",
+          "duration": 5180,
+          "original_duration": 5134,
+          "cid": 29153692561,
+          "aid": 114252069278766,
+          "segment_title": "GDC16|中配|8位与“8位风格”图形：突破常规——8 Bit & '8 Bitish' Graphics-Outside the Box",
+          "page_count": 1,
+          "kind": "dub_zh",
+          "views": 790,
+          "pic": "https://i2.hdslb.com/bfs/archive/6ce8fa9d93052e8b2f95579355db06b8a321b4ab.jpg",
+          "checked_at": "2026-11-07T21:33:10.785847+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "qCGofLIzX6g": {
       "vid": "qCGofLIzX6g",
@@ -5727,7 +5776,7 @@
     "W3aieHjyNvw": {
       "vid": "W3aieHjyNvw",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:33:21.400728+00:00",
       "candidates": [
         {
           "bvid": "BV1p4411k7N8",
@@ -6141,7 +6190,7 @@
     "r-TLSBdHe1A": {
       "vid": "r-TLSBdHe1A",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:33:30.955715+00:00",
       "candidates": []
     },
     "t1MqJPHxy6g": {
@@ -6235,7 +6284,7 @@
     "2Op3QLzMgSY": {
       "vid": "2Op3QLzMgSY",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:34:01.067121+00:00",
       "candidates": []
     },
     "4Z2uzEM0ugY": {
@@ -6289,32 +6338,8 @@
     "QmOF0crdyRU": {
       "vid": "QmOF0crdyRU",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:34:03.762921+00:00",
       "candidates": [
-        {
-          "bvid": "BV17A4y1Z7yw",
-          "status": "confirmed",
-          "lead_url": "https://www.bilibili.com/video/BV17A4y1Z7yw",
-          "evidence": [
-            "explicit original URL or labeled YouTube ID in Bilibili description"
-          ],
-          "flags": [],
-          "reason": "explicit source URL, segment and duration verified",
-          "page": 1,
-          "title": "Controlling Your Dopamine For Motivation, Focus & Satisfaction  Huberman Lab Pod",
-          "up": "tiantaowoo",
-          "duration": 8192,
-          "original_duration": 8192,
-          "cid": 731759900,
-          "aid": 896909487,
-          "segment_title": "Controlling Your Dopamine For Motivation, Focus & Satisfaction  Huberman Lab Pod",
-          "page_count": 1,
-          "kind": "original",
-          "views": 1393,
-          "pic": "https://i1.hdslb.com/bfs/archive/106524128aa74f8a1ff9f77a5c61865fb6061a69.jpg",
-          "checked_at": "2026-11-07T05:27:35.254075+00:00",
-          "availability": "available"
-        },
         {
           "bvid": "BV1nB4y1Y7jW",
           "status": "confirmed",
@@ -6337,6 +6362,30 @@
           "views": 212819,
           "pic": "https://i0.hdslb.com/bfs/archive/4a0c46c760eaeda7b76bc5a5be99c5fb8f0e3cdd.jpg",
           "checked_at": "2026-11-07T05:27:35.254936+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV17A4y1Z7yw",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV17A4y1Z7yw",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Controlling Your Dopamine For Motivation, Focus & Satisfaction  Huberman Lab Pod",
+          "up": "tiantaowoo",
+          "duration": 8192,
+          "original_duration": 8192,
+          "cid": 731759900,
+          "aid": 896909487,
+          "segment_title": "Controlling Your Dopamine For Motivation, Focus & Satisfaction  Huberman Lab Pod",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1393,
+          "pic": "https://i1.hdslb.com/bfs/archive/106524128aa74f8a1ff9f77a5c61865fb6061a69.jpg",
+          "checked_at": "2026-11-07T05:27:35.254075+00:00",
           "availability": "available"
         }
       ]
@@ -6657,7 +6706,7 @@
     "KkpqA8yG9T4": {
       "vid": "KkpqA8yG9T4",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:34:09.166172+00:00",
       "candidates": []
     },
     "NQFqDKRAROI": {
@@ -8259,31 +8308,8 @@
     "rX0ItVEVjHc": {
       "vid": "rX0ItVEVjHc",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:34:16.105549+00:00",
       "candidates": [
-        {
-          "bvid": "BV1VR4y1v7Z9",
-          "status": "confirmed",
-          "evidence": [
-            "explicit original URL or labeled YouTube ID in Bilibili description"
-          ],
-          "flags": [],
-          "reason": "explicit source URL, segment and duration verified",
-          "page": 1,
-          "title": "CppCon 2014: Mike Acton \"Data-Oriented Design and C++\"",
-          "up": "dailyrain",
-          "duration": 5266,
-          "original_duration": 5266,
-          "cid": 1017934966,
-          "aid": 352183395,
-          "segment_title": "CppCon 2014： Mike Acton ＂Data-Oriented Design and C++＂",
-          "page_count": 1,
-          "kind": "original",
-          "views": 388,
-          "pic": "https://i2.hdslb.com/bfs/archive/caf18f5c35cfc15bd889d006ddca1d69fd14ab14.jpg",
-          "checked_at": "2026-11-07T05:27:35.590117+00:00",
-          "availability": "available"
-        },
         {
           "bvid": "BV1cbmsB4Eby",
           "status": "confirmed",
@@ -8305,6 +8331,29 @@
           "views": 155,
           "pic": "https://i2.hdslb.com/bfs/archive/8e30b49e1a5376094029da81cc7d6c6be3cc1a2f.jpg",
           "checked_at": "2026-11-07T05:27:35.590448+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1VR4y1v7Z9",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "CppCon 2014: Mike Acton \"Data-Oriented Design and C++\"",
+          "up": "dailyrain",
+          "duration": 5266,
+          "original_duration": 5266,
+          "cid": 1017934966,
+          "aid": 352183395,
+          "segment_title": "CppCon 2014： Mike Acton ＂Data-Oriented Design and C++＂",
+          "page_count": 1,
+          "kind": "original",
+          "views": 388,
+          "pic": "https://i2.hdslb.com/bfs/archive/caf18f5c35cfc15bd889d006ddca1d69fd14ab14.jpg",
+          "checked_at": "2026-11-07T05:27:35.590117+00:00",
           "availability": "available"
         },
         {
@@ -9847,7 +9896,7 @@
     "ZCuYPiUIONs": {
       "vid": "ZCuYPiUIONs",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:36:28.664756+00:00",
       "candidates": [
         {
           "bvid": "BV1it411p7v6",
@@ -10849,7 +10898,7 @@
     "UF8uR6Z6KLc": {
       "vid": "UF8uR6Z6KLc",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:34:22.712509+00:00",
       "candidates": [
         {
           "bvid": "BV1V64y1d7pr",
@@ -11099,7 +11148,7 @@
     "stxVBJem3Rs": {
       "vid": "stxVBJem3Rs",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:34:26.007997+00:00",
       "candidates": []
     },
     "tc4ROCJYbm0": {
@@ -11274,7 +11323,7 @@
     "yiw6_JakZFc": {
       "vid": "yiw6_JakZFc",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:34:29.118901+00:00",
       "candidates": []
     },
     "0fKBhvDjuy0": {
@@ -11707,7 +11756,7 @@
     "LxgMdjyw8uw": {
       "vid": "LxgMdjyw8uw",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:35:20.914943+00:00",
       "candidates": []
     },
     "PF7EpEnglgk": {
@@ -11757,31 +11806,8 @@
     "nm1TxQj9IsQ": {
       "vid": "nm1TxQj9IsQ",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:34:30.493943+00:00",
       "candidates": [
-        {
-          "bvid": "BV1Gu411479S",
-          "status": "confirmed",
-          "evidence": [
-            "explicit original URL or labeled YouTube ID in Bilibili description"
-          ],
-          "flags": [],
-          "reason": "explicit source URL, segment and duration verified",
-          "page": 1,
-          "title": "Master Your Sleep & Be More Alert When Awake _ Huberman Lab Podcast #2",
-          "up": "竟然爱上草莓了",
-          "duration": 4925,
-          "original_duration": 4925,
-          "cid": 1137529330,
-          "aid": 528944275,
-          "segment_title": "Master Your Sleep & Be More Alert When Awake _ Huberman Lab Podcast #2",
-          "page_count": 1,
-          "kind": "original",
-          "views": 72,
-          "pic": "https://i2.hdslb.com/bfs/archive/864999dc4bc51722a0cff375396d750edbc17d1f.jpg",
-          "checked_at": "2026-11-07T05:27:36.646514+00:00",
-          "availability": "available"
-        },
         {
           "bvid": "BV1Hf4y1r7NT",
           "status": "confirmed",
@@ -11803,6 +11829,29 @@
           "views": 59531,
           "pic": "https://i1.hdslb.com/bfs/archive/2577c784c72364dc0c80b9b51194671051911d80.jpg",
           "checked_at": "2026-11-07T05:27:36.648129+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1Gu411479S",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Master Your Sleep & Be More Alert When Awake _ Huberman Lab Podcast #2",
+          "up": "竟然爱上草莓了",
+          "duration": 4925,
+          "original_duration": 4925,
+          "cid": 1137529330,
+          "aid": 528944275,
+          "segment_title": "Master Your Sleep & Be More Alert When Awake _ Huberman Lab Podcast #2",
+          "page_count": 1,
+          "kind": "original",
+          "views": 72,
+          "pic": "https://i2.hdslb.com/bfs/archive/864999dc4bc51722a0cff375396d750edbc17d1f.jpg",
+          "checked_at": "2026-11-07T05:27:36.646514+00:00",
           "availability": "available"
         }
       ]
@@ -13342,7 +13391,7 @@
     "VscdPA6sUkc": {
       "vid": "VscdPA6sUkc",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:34:32.074266+00:00",
       "candidates": [
         {
           "bvid": "BV1GE411G7vy",
@@ -13594,7 +13643,7 @@
     "t705r8ICkRw": {
       "vid": "t705r8ICkRw",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:34:33.426967+00:00",
       "candidates": [
         {
           "bvid": "BV1w64y147Ym",
@@ -14463,7 +14512,7 @@
     "Sm5xF-UYgdg": {
       "vid": "Sm5xF-UYgdg",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:34:36.384478+00:00",
       "candidates": []
     },
     "T71ibcZAX3I": {
@@ -15092,31 +15141,8 @@
     "-6rWqJhDv7M": {
       "vid": "-6rWqJhDv7M",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:34:44.159264+00:00",
       "candidates": [
-        {
-          "bvid": "BV1MN411v7fp",
-          "status": "confirmed",
-          "evidence": [
-            "explicit original URL or labeled YouTube ID in Bilibili description"
-          ],
-          "flags": [],
-          "reason": "explicit source URL, segment and duration verified",
-          "page": 1,
-          "title": "理论物理学家 卡洛·罗威利 时间的物理学与哲学 The Physics and Philosophy of Time - with Carlo Rovelli",
-          "up": "行相像不像你",
-          "duration": 3294,
-          "original_duration": 3294,
-          "cid": 1253651407,
-          "aid": 490497307,
-          "segment_title": "理论物理学家 卡洛·罗威利 时间的物理学与哲学 The Physics and Philosophy of Time - with Carlo Rovelli",
-          "page_count": 1,
-          "kind": "original",
-          "views": 218,
-          "pic": "https://i2.hdslb.com/bfs/archive/b2da3ef6d14d22c8305c7a6ea0ec4b890c212b28.jpg",
-          "checked_at": "2026-11-07T05:27:38.203730+00:00",
-          "availability": "available"
-        },
         {
           "bvid": "BV1hz4y167ub",
           "status": "confirmed",
@@ -15138,6 +15164,29 @@
           "views": 4751,
           "pic": "https://i1.hdslb.com/bfs/archive/7f8452ae8f5fa7c85d1b820c2ec15f2177bed6bb.jpg",
           "checked_at": "2026-11-07T05:27:38.207769+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1MN411v7fp",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "理论物理学家 卡洛·罗威利 时间的物理学与哲学 The Physics and Philosophy of Time - with Carlo Rovelli",
+          "up": "行相像不像你",
+          "duration": 3294,
+          "original_duration": 3294,
+          "cid": 1253651407,
+          "aid": 490497307,
+          "segment_title": "理论物理学家 卡洛·罗威利 时间的物理学与哲学 The Physics and Philosophy of Time - with Carlo Rovelli",
+          "page_count": 1,
+          "kind": "original",
+          "views": 218,
+          "pic": "https://i2.hdslb.com/bfs/archive/b2da3ef6d14d22c8305c7a6ea0ec4b890c212b28.jpg",
+          "checked_at": "2026-11-07T05:27:38.203730+00:00",
           "availability": "available"
         }
       ]
@@ -16590,9 +16639,33 @@
     },
     "lcjdwSY2AzM": {
       "vid": "lcjdwSY2AzM",
-      "status": "review",
-      "completed_at": null,
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-07T21:37:13.952438+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1ZzaqzAEa2",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【YouTube搬运】物理学中最大的误解The Biggest Misconception in Physics",
+          "up": "小溪_YouTube搬运笔记本",
+          "duration": 1660,
+          "original_duration": 1660,
+          "cid": 32198690781,
+          "aid": 115156143054832,
+          "segment_title": "【YouTube搬运】物理学中最大的误解The Biggest Misconception in Physics",
+          "page_count": 1,
+          "kind": "original",
+          "views": 8,
+          "pic": "https://i0.hdslb.com/bfs/archive/db439dec59ae70c95b0d684f43b0f9186c0944c9.jpg",
+          "checked_at": "2026-11-07T21:37:12.574528+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "4YYvBLAF4T8": {
       "vid": "4YYvBLAF4T8",
@@ -16665,7 +16738,7 @@
     "oI_X2cMHNe0": {
       "vid": "oI_X2cMHNe0",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:37:19.289321+00:00",
       "candidates": [
         {
           "bvid": "BV1T5411X7sK",
@@ -17605,7 +17678,7 @@
     "Eq3bUFgEcb4": {
       "vid": "Eq3bUFgEcb4",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:34:45.543611+00:00",
       "candidates": [
         {
           "bvid": "BV1Fw411s71V",
@@ -18069,7 +18142,7 @@
     "X-iSQQgOd1A": {
       "vid": "X-iSQQgOd1A",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:34:46.940144+00:00",
       "candidates": [
         {
           "bvid": "BV1S64y1U7LK",
@@ -20262,7 +20335,7 @@
     "-4Yp3j_jk8Q": {
       "vid": "-4Yp3j_jk8Q",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:35:22.399905+00:00",
       "candidates": [
         {
           "bvid": "BV14WViegEBw",
@@ -21891,9 +21964,35 @@
     },
     "rQmqVVmMB3k": {
       "vid": "rQmqVVmMB3k",
-      "status": "review",
-      "completed_at": null,
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-07T21:35:26.705748+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Mv411A7FC",
+          "status": "confirmed",
+          "lead_title": "价值 1000 亿美元有毒性的食物成分The $100 Billion Dollar Ingredient making your Food Toxic",
+          "source_bvid": "BV1eKkKYHETv",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "价值 1000 亿美元有毒性的食物成分The $100 Billion Dollar Ingredient making your Food Toxic",
+          "up": "科学健康治愈george",
+          "duration": 1701,
+          "original_duration": 1701,
+          "cid": 411980756,
+          "aid": 250552377,
+          "segment_title": "The $100 Billion Dollar Ingredient making your Food Toxic ( 720 X 1280 )",
+          "page_count": 1,
+          "kind": "original",
+          "views": 191,
+          "pic": "https://i0.hdslb.com/bfs/archive/6e9108d3b100921cd4443a8c86e4f560831696ed.jpg",
+          "checked_at": "2026-11-07T21:35:25.351601+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "re96UgMk6GQ": {
       "vid": "re96UgMk6GQ",
@@ -22447,7 +22546,7 @@
     "7J7X7aZvMXQ": {
       "vid": "7J7X7aZvMXQ",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:35:35.385109+00:00",
       "candidates": [
         {
           "bvid": "BV1keUGBtEti",
@@ -22530,7 +22629,7 @@
     "8fHi36dvTdE": {
       "vid": "8fHi36dvTdE",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:35:38.894201+00:00",
       "candidates": []
     },
     "9zinZmE3Ogk": {
@@ -23804,7 +23903,7 @@
     "eC7xzavzEKY": {
       "vid": "eC7xzavzEKY",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:36:51.993520+00:00",
       "candidates": [
         {
           "bvid": "BV1v54y12774",
@@ -24174,7 +24273,7 @@
     "sqEyWLGvvdw": {
       "vid": "sqEyWLGvvdw",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:35:48.544592+00:00",
       "candidates": []
     },
     "sw0VfmXKq54": {
@@ -24210,7 +24309,7 @@
     "v3y8AIEX_dU": {
       "vid": "v3y8AIEX_dU",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:35:49.949433+00:00",
       "candidates": [
         {
           "bvid": "BV14u4y137Cf",
@@ -24324,13 +24423,13 @@
     "yS1ibDImAYU": {
       "vid": "yS1ibDImAYU",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:35:52.994151+00:00",
       "candidates": []
     },
     "zVhQOhxb1Mc": {
       "vid": "zVhQOhxb1Mc",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:36:01.366758+00:00",
       "candidates": []
     },
     "zcqZHYo7ONs": {
@@ -25140,7 +25239,7 @@
     "DxL2HoqLbyA": {
       "vid": "DxL2HoqLbyA",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:36:02.705120+00:00",
       "candidates": [
         {
           "bvid": "BV11H4y1d7rp",
@@ -26967,7 +27066,7 @@
     "j5v8D-alAKE": {
       "vid": "j5v8D-alAKE",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:36:05.703731+00:00",
       "candidates": []
     },
     "jA1C9VFqJKo": {
@@ -27597,7 +27696,7 @@
     "xMP_AfiNlX4": {
       "vid": "xMP_AfiNlX4",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:36:07.265512+00:00",
       "candidates": [
         {
           "bvid": "BV1MF411t7CC",
@@ -28820,9 +28919,35 @@
     },
     "LWGJA9i18Co": {
       "vid": "LWGJA9i18Co",
-      "status": "review",
-      "completed_at": null,
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-07T21:36:20.752020+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1eXkTBEEZp",
+          "status": "confirmed",
+          "lead_title": "OK-Go-Upside-Down-&-Inside-Out",
+          "source_bvid": "BV1SnkTBgEXm",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "OK-Go-Upside-Down-&-Inside-Out",
+          "up": "fotoimage",
+          "duration": 202,
+          "original_duration": 202,
+          "cid": 25946757535,
+          "aid": 115903148593489,
+          "segment_title": "OK-Go-Upside-Down-&-Inside-Out",
+          "page_count": 1,
+          "kind": "original",
+          "views": 27,
+          "pic": "https://i2.hdslb.com/bfs/archive/0640ecd5647fcd4ce4e557fd3a01747f05fc9c0e.jpg",
+          "checked_at": "2026-11-07T21:36:19.359993+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "M4AhABManTw": {
       "vid": "M4AhABManTw",
@@ -29332,7 +29457,7 @@
     "YI3tsmFsrOg": {
       "vid": "YI3tsmFsrOg",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:36:22.305069+00:00",
       "candidates": [
         {
           "bvid": "BV1JK411U78q",
@@ -29843,9 +29968,35 @@
     },
     "jILgxeNBK_8": {
       "vid": "jILgxeNBK_8",
-      "status": "review",
-      "completed_at": null,
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-07T21:36:31.812704+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Vspk6iEHd",
+          "status": "confirmed",
+          "lead_title": "Why do competitors open their stores next to one another? - Jac de Haan",
+          "source_bvid": "BV1sspC6sEPM",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "Why do competitors open their stores next to one another? - Jac de Haan",
+          "up": "Twig语言学习",
+          "duration": 247,
+          "original_duration": 247,
+          "cid": 42724950819,
+          "aid": 117436921742527,
+          "segment_title": "Why do competitors open their stores next to one another? - Jac de Haan",
+          "page_count": 1,
+          "kind": "original",
+          "views": 15,
+          "pic": "https://i1.hdslb.com/bfs/archive/45aec1c90e7d2d2d4ea8b76adadba79c2be89c5c.png",
+          "checked_at": "2026-11-07T21:36:30.380834+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "jmTwlEh8L7g": {
       "vid": "jmTwlEh8L7g",
@@ -32722,7 +32873,7 @@
     "BDqvzFY72mg": {
       "vid": "BDqvzFY72mg",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:36:33.187331+00:00",
       "candidates": [
         {
           "bvid": "BV1kXWHenErn",
@@ -33734,7 +33885,7 @@
     "OQQ-W_63UgQ": {
       "vid": "OQQ-W_63UgQ",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:36:42.599769+00:00",
       "candidates": []
     },
     "OWXoRSIxyIU": {
@@ -37684,9 +37835,35 @@
     },
     "2JAOTJxYqh8": {
       "vid": "2JAOTJxYqh8",
-      "status": "review",
-      "completed_at": null,
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-07T21:37:23.025805+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1rM411K7qb",
+          "status": "confirmed",
+          "lead_title": "臭虫的重要科普。比你想象的更严重。家里有臭虫问题的点进来看。Bed Bugs- What You've Been Told is Totally False",
+          "source_bvid": "BV1Cm4y1B7s3",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "臭虫的重要科普。比你想象的更严重。家里有臭虫问题的点进来看。Bed Bugs- What You've Been Told is Totally False",
+          "up": "骗流量的频道",
+          "duration": 1427,
+          "original_duration": 1427,
+          "cid": 1297555678,
+          "aid": 526923919,
+          "segment_title": "臭虫的重要科普。比你想象的更严重。家里有臭虫问题的点进来看。Bed Bugs- What You've Been Told is Totally False",
+          "page_count": 1,
+          "kind": "original",
+          "views": 8417,
+          "pic": "https://i2.hdslb.com/bfs/archive/0fb6ba7c6d54cb02fa6a93eb3bdfa511e9a748e3.jpg",
+          "checked_at": "2026-11-07T21:37:21.663512+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "2xcZS7arcgk": {
       "vid": "2xcZS7arcgk",
@@ -40237,7 +40414,7 @@
     "RxabLA7UQ9k": {
       "vid": "RxabLA7UQ9k",
       "status": "review",
-      "completed_at": null,
+      "completed_at": "2026-11-07T21:37:35.563863+00:00",
       "candidates": []
     },
     "RzWB5jL5RX0": {

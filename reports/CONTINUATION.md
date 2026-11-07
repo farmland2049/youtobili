@@ -117,3 +117,11 @@
 新增确认版本：`MShbP3OpASA` → `BV1bE411E7Gm`、`2B-XwPjn9YY` → `BV14t411h776`、`ErwS24cBZPc` → `BV15LpMzREhR`、`nM9f0W2KD5s` → `BV1YK4y1W7VA`、`H1KP4ztKK0A` → `BV15X4y1T7wA`。五条均有B站完整简介中的精确原片链接，选定单P、时长一致，真实播放及CID检查均通过。三条为既有原片新增可切换版本，另两条新增原片。元数据详情及快照哈希见 `reports/metadata-review-2026-11-08-resume13.json`，播放器结果见 `reports/playback-increment-2026-11-08-resume13.json`；未做逐帧比较。
 
 构建进度5295/6454，确认1095；新增版本已通过数据校验、65项单元测试、桌面/手机浏览器场景、Node语法和实播核验。提交 `3060c188bfbae6be1febf40d1cb2b87f38a49855` 已推送；Pages `data.json` 返回HTTP 200，SHA-256 `f29567234791fcc71be5625fc78311fb06336c968137016306483381ccc41f36` 与本地一致，详情见 `reports/pages-check-2026-11-08-resume13.json`。
+
+## 2026-11-08 恢复后增量十四
+
+批次 `20261107T213310Z` 串行完成50/50，36条候选确认、14条待审，0请求错误、0未处理；`--primary-first` 共暂缓390个较低优先级候选版本，仍需后续补查，不代表已穷尽。72条此前网络错误原片继续排除。该批处理后工作库进度5345/6454，确认1101。
+
+本批新增可发布版本共7条：`aMcJ1Jvtef0` → `BV1LaZ6Y4EQB`、`rQmqVVmMB3k` → `BV1Mv411A7FC`、`LWGJA9i18Co` → `BV1eXkTBEEZp`、`jILgxeNBK_8` → `BV1Vspk6iEHd`、`lcjdwSY2AzM` → `BV1ZzaqzAEa2`、`2JAOTJxYqh8` → `BV1rM411K7qb`、`PaCmpygFfXo` → `BV1juKH6MEVU`。7条均为单P，完整B站简介含对应原片YouTube ID/链接，标题、分P名称与原片相符；原片和分P时长均在容差内。前6条新增原片卡，最后1条为已发布原片的附加版本。缓存快照哈希、简介核验和逐条播放证据见 `reports/metadata-review-2026-11-08-resume14.json`、`reports/playback-increment-2026-11-08-resume14.json`。播放检查全部观察到实际播放、对应CID及匹配的播放器时长；未做逐帧音画比较。
+
+构建当前包含1101张原片卡、1475个确认分P、0个分P冲突；相对增量十三只新增上述6张卡和1个版本，没有删除或改动既有版本。数据校验、65项单元测试、Node语法检查和桌面/手机15个浏览器场景均通过。当前 `data.json` SHA-256 为 `037ca1f1a21c2994a8160878bfc46a4265c5ec65f320f4eac84cfdbb2b90ab05`；本增量内容提交与Pages核验待完成。

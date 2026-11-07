@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-07T21:24:59.802093+00:00",
+  "built_at": "2026-11-07T21:41:13.805209+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5295,
-    "confirmed": 1095,
-    "coverage": 0.1696622249767586,
-    "processed_match_rate": 0.1975448536355052
+    "processed": 5345,
+    "confirmed": 1101,
+    "coverage": 0.1705918810040285,
+    "processed_match_rate": 0.20243217960710944
   },
   "areas": [
     {
@@ -1001,6 +1001,42 @@
           "views": 716,
           "pic": "https://i0.hdslb.com/bfs/archive/da66322a9838478788bec56751a0da618708f40b.jpg",
           "checked_at": "2026-11-07T05:27:34.171106+00:00"
+        }
+      ]
+    },
+    {
+      "id": "aMcJ1Jvtef0",
+      "title": "8 Bit & '8 Bitish' Graphics-Outside the Box",
+      "author": "GDC Festival of Gaming",
+      "source_url": "https://www.youtube.com/watch?v=aMcJ1Jvtef0",
+      "summary": "Mark Ferrari, the LucasArts background artist, explains in a GDC 2016 talk how he draws 8-bit graphics. He covers color cycling and palette shifting to create complex animated scenery without frame animation.",
+      "why": "HN repeatedly recommends it as a master class in limited-palette pixel art and palette cycling, from an artist behind Loom and Monkey Island.",
+      "score": 20.0,
+      "tags": [
+        "palette cycling",
+        "pixel art",
+        "mark ferrari",
+        "lucasarts",
+        "deluxe paint",
+        "gdc"
+      ],
+      "categories": [
+        "game-history-retro",
+        "visual-arts",
+        "creative-coding-generative-art"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1LaZ6Y4EQB",
+          "page": 1,
+          "cid": 29153692561,
+          "title": "GDC16|中配|8位与“8位风格”图形：突破常规——8 Bit & '8 Bitish' Graphics-Outside the Box",
+          "up": "庸才的朽木",
+          "duration": 5180,
+          "kind": "dub_zh",
+          "views": 790,
+          "pic": "https://i2.hdslb.com/bfs/archive/6ce8fa9d93052e8b2f95579355db06b8a321b4ab.jpg",
+          "checked_at": "2026-11-07T21:33:10.785847+00:00"
         }
       ]
     },
@@ -12515,6 +12551,39 @@
       ]
     },
     {
+      "id": "rQmqVVmMB3k",
+      "title": "The $100 Billion Dollar Ingredient making your Food Toxic",
+      "author": "Joseph Everett - WIL",
+      "source_url": "https://www.youtube.com/watch?v=rQmqVVmMB3k",
+      "summary": "A What I've Learned video arguing that industrial seed and vegetable oils have displaced saturated fats and harmed health. It covers the history of vegetable oils, the American Heart Association's role, and rising consumption.",
+      "why": "HN commenters recommend it as an accessible summary of the case against seed oils, and some say it changed what fats they cook with.",
+      "score": 5.5,
+      "tags": [
+        "seed oils",
+        "vegetable oils",
+        "omega-6",
+        "nutrition",
+        "heart association"
+      ],
+      "categories": [
+        "nutrition-diet"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Mv411A7FC",
+          "page": 1,
+          "cid": 411980756,
+          "title": "价值 1000 亿美元有毒性的食物成分The $100 Billion Dollar Ingredient making your Food Toxic",
+          "up": "科学健康治愈george",
+          "duration": 1701,
+          "kind": "original",
+          "views": 191,
+          "pic": "https://i0.hdslb.com/bfs/archive/6e9108d3b100921cd4443a8c86e4f560831696ed.jpg",
+          "checked_at": "2026-11-07T21:35:25.351601+00:00"
+        }
+      ]
+    },
+    {
       "id": "rvskMHn0sqQ",
       "title": "A Selfish Argument for Making the World a Better Place – Egoistic Altruism",
       "author": "Kurzgesagt – In a Nutshell",
@@ -17105,6 +17174,39 @@
       ]
     },
     {
+      "id": "LWGJA9i18Co",
+      "title": "OK Go - Upside Down & Inside Out",
+      "author": "OKGoVEVO",
+      "source_url": "https://www.youtube.com/watch?v=LWGJA9i18Co",
+      "summary": "OK Go's music video for Upside Down & Inside Out, filmed during parabolic flights so the band and performers are weightless in the plane.",
+      "why": "Commenters recommend it as a creative music video shot entirely in zero gravity, citing it in threads about parabolic flights and space.",
+      "score": 4.0,
+      "tags": [
+        "ok go",
+        "parabolic flight",
+        "zero gravity",
+        "music video"
+      ],
+      "categories": [
+        "music-performance",
+        "everyday-physics-demos"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1eXkTBEEZp",
+          "page": 1,
+          "cid": 25946757535,
+          "title": "OK-Go-Upside-Down-&-Inside-Out",
+          "up": "fotoimage",
+          "duration": 202,
+          "kind": "original",
+          "views": 27,
+          "pic": "https://i2.hdslb.com/bfs/archive/0640ecd5647fcd4ce4e557fd3a01747f05fc9c0e.jpg",
+          "checked_at": "2026-11-07T21:36:19.359993+00:00"
+        }
+      ]
+    },
+    {
       "id": "MFzDaBzBlL0",
       "title": "The Backwards Brain Bicycle - Smarter Every Day 133",
       "author": "SmarterEveryDay",
@@ -17931,6 +18033,40 @@
           "views": 55,
           "pic": "https://i0.hdslb.com/bfs/archive/56c3892e17b04043daf5707b2525de360b3fdf6a.jpg",
           "checked_at": "2026-11-07T05:27:46.875359+00:00"
+        }
+      ]
+    },
+    {
+      "id": "jILgxeNBK_8",
+      "title": "Why do competitors open their stores next to one another? - Jac de Haan",
+      "author": "TED-Ed",
+      "source_url": "https://www.youtube.com/watch?v=jILgxeNBK_8",
+      "summary": "A short animated TED-Ed lesson in which two competing ice cream vendors on a beach illustrate why rival shops cluster together. It introduces game theory and the Nash equilibrium through the Hotelling model.",
+      "why": "HN people use it as a clear, quick explanation of Nash equilibrium and why competitors cluster.",
+      "score": 4.0,
+      "tags": [
+        "nash equilibrium",
+        "hotelling model",
+        "competition",
+        "economics",
+        "animation"
+      ],
+      "categories": [
+        "probability-game-theory",
+        "microeconomics-behavioral"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Vspk6iEHd",
+          "page": 1,
+          "cid": 42724950819,
+          "title": "Why do competitors open their stores next to one another? - Jac de Haan",
+          "up": "Twig语言学习",
+          "duration": 247,
+          "kind": "original",
+          "views": 15,
+          "pic": "https://i1.hdslb.com/bfs/archive/45aec1c90e7d2d2d4ea8b76adadba79c2be89c5c.png",
+          "checked_at": "2026-11-07T21:36:30.380834+00:00"
         }
       ]
     },
@@ -22216,6 +22352,40 @@
       ]
     },
     {
+      "id": "lcjdwSY2AzM",
+      "title": "The Biggest Misconception in Physics",
+      "author": "Veritasium",
+      "source_url": "https://www.youtube.com/watch?v=lcjdwSY2AzM",
+      "summary": "Veritasium explores why energy is not conserved in general relativity, using Emmy Noether's theorem linking symmetries to conservation laws. Physicists interviewed explain energy loss in an expanding universe.",
+      "why": "Recommended as high-quality physics communication and as an introduction to Noether and energy non-conservation in cosmology.",
+      "score": 3.5,
+      "tags": [
+        "emmy noether",
+        "general relativity",
+        "conservation of energy",
+        "symmetry",
+        "veritasium"
+      ],
+      "categories": [
+        "fundamental-physics",
+        "science-method-communication"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ZzaqzAEa2",
+          "page": 1,
+          "cid": 32198690781,
+          "title": "【YouTube搬运】物理学中最大的误解The Biggest Misconception in Physics",
+          "up": "小溪_YouTube搬运笔记本",
+          "duration": 1660,
+          "kind": "original",
+          "views": 8,
+          "pic": "https://i0.hdslb.com/bfs/archive/db439dec59ae70c95b0d684f43b0f9186c0944c9.jpg",
+          "checked_at": "2026-11-07T21:37:12.574528+00:00"
+        }
+      ]
+    },
+    {
       "id": "mvmuCPvRoWQ",
       "title": "Euler's formula with introductory group theory",
       "author": "3Blue1Brown",
@@ -23431,6 +23601,40 @@
           "views": 664,
           "pic": "https://i0.hdslb.com/bfs/archive/1e062753d765e0ba84896ef8f0d2e0ebd47a334a.jpg",
           "checked_at": "2026-11-07T05:27:52.738174+00:00"
+        }
+      ]
+    },
+    {
+      "id": "2JAOTJxYqh8",
+      "title": "Bed Bugs- What You've Been Told is Totally False",
+      "author": "Mark Rober",
+      "source_url": "https://www.youtube.com/watch?v=2JAOTJxYqh8",
+      "summary": "Mark Rober digs into bed bugs, testing popular beliefs about where they come from and how to get rid of them. It mixes entertaining experiments with research-based advice on what works and what does not.",
+      "why": "HN commenters point to it as a fun, research-grounded explainer whenever bed bug threads come up.",
+      "score": 3.0,
+      "tags": [
+        "bed bugs",
+        "pest control",
+        "experiments",
+        "myths"
+      ],
+      "categories": [
+        "animals-nature",
+        "everyday-physics-demos",
+        "home-diy-repair"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1rM411K7qb",
+          "page": 1,
+          "cid": 1297555678,
+          "title": "臭虫的重要科普。比你想象的更严重。家里有臭虫问题的点进来看。Bed Bugs- What You've Been Told is Totally False",
+          "up": "骗流量的频道",
+          "duration": 1427,
+          "kind": "original",
+          "views": 8417,
+          "pic": "https://i2.hdslb.com/bfs/archive/0fb6ba7c6d54cb02fa6a93eb3bdfa511e9a748e3.jpg",
+          "checked_at": "2026-11-07T21:37:21.663512+00:00"
         }
       ]
     },
@@ -25382,6 +25586,18 @@
         "llms-generative-ai"
       ],
       "versions": [
+        {
+          "bvid": "BV1juKH6MEVU",
+          "page": 1,
+          "cid": 40030308007,
+          "title": "[双语]| The spelled-out intro to language modeling： building makemore",
+          "up": "FROSTBITEN",
+          "duration": 7065,
+          "kind": "sub_zh",
+          "views": 57,
+          "pic": "https://i1.hdslb.com/bfs/archive/082d160681a093ae3fa9440bf1dde33286adb5f5.jpg",
+          "checked_at": "2026-11-07T21:37:30.737028+00:00"
+        },
         {
           "bvid": "BV1KqHszDECz",
           "page": 1,
@@ -42937,6 +43153,7 @@
     "BV1R9hd6aEWi": "Unzc731iCUY",
     "BV1aB4y13761": "VMj-3S1tku0",
     "BV11qHszSE6u": "VMj-3S1tku0",
+    "BV1LaZ6Y4EQB": "aMcJ1Jvtef0",
     "BV19q4y127wt": "DovunOxlY1k",
     "BV1RNrhByEVc": "JTfhYyTuT44",
     "BV1ASxK6sE3f": "NNnIGh9g6fA",
@@ -43375,6 +43592,7 @@
     "BV1Na411t7u6": "qsEjV8DdSbs",
     "BV1aZ5CzYEQE": "qybUFnY7Y8w",
     "BV1FQ4y1M7be": "qybUFnY7Y8w",
+    "BV1Mv411A7FC": "rQmqVVmMB3k",
     "BV1uZXUBpEU5": "rvskMHn0sqQ",
     "BV1j4421S7pH": "t7tA3NNKF0Q",
     "BV1da411D7vy": "t7tA3NNKF0Q",
@@ -43536,6 +43754,7 @@
     "BV1cm4y1d7am": "JrMiSQAGOS4",
     "BV1VgeB6SEXM": "K_q-xnYRugQ",
     "BV1XgeB6UEco": "K_q-xnYRugQ",
+    "BV1eXkTBEEZp": "LWGJA9i18Co",
     "BV1by411h7bw": "MFzDaBzBlL0",
     "BV1uJtW6REBN": "MjdpR-TY6QU",
     "BV1h5oTBLEYV": "Mw9qiV7XlFs",
@@ -43563,6 +43782,7 @@
     "BV1Nx4y1B7ei": "gMqZR3pqMjg",
     "BV1FoFBzfE7N": "gSKzgpt4HBU",
     "BV1uESMYqEFm": "ghUs-84NAAU",
+    "BV1Vspk6iEHd": "jILgxeNBK_8",
     "BV1Y54y127Zu": "jMmUoZh3Hq4",
     "BV11f4y1b7cM": "k1BneeJTDcU",
     "BV1uKxv6jEox": "k1BneeJTDcU",
@@ -43714,6 +43934,7 @@
     "BV145411L78f": "jlX_pThh7z8",
     "BV1Up411o7Bo": "jlX_pThh7z8",
     "BV1Jf4y1z7sd": "kYYJlNbV1OM",
+    "BV1ZzaqzAEa2": "lcjdwSY2AzM",
     "BV1fx41187tZ": "mvmuCPvRoWQ",
     "BV13x411g7Cf": "n1QEj09Pe6k",
     "BV12W411N7RF": "n1QEj09Pe6k",
@@ -43755,6 +43976,7 @@
     "BV1Ps411R7Ty": "1Evwgu369Jw",
     "BV1Z7UXBhEco": "1sl5KJ69qiA",
     "BV1Jx411v7fr": "21j_OCNLuYg",
+    "BV1rM411K7qb": "2JAOTJxYqh8",
     "BV1zr4y1Z7RN": "46ehrFk-gLk",
     "BV1Ex411V7ps": "4AfRAVcThyA",
     "BV1mi4y1A7ji": "4HgShra-KnY",
@@ -43824,6 +44046,7 @@
     "BV16D4y1w7tg": "OyFJWRnt_AY",
     "BV1pG411Z7ub": "P1ww1IXRfTA",
     "BV1mgjp6QExy": "P1ww1IXRfTA",
+    "BV1juKH6MEVU": "PaCmpygFfXo",
     "BV1KqHszDECz": "PaCmpygFfXo",
     "BV1hW411B7ui": "QMiubC6LdTA",
     "BV1xn1GB4EjC": "SDtAh9IwG-I",
