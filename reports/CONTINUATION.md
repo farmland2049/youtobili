@@ -80,4 +80,4 @@
 
 新增确认：`Hrbq66XqtCo` → `BV1XSoDBgEVg`（Jensen Huang – Will Nvidia’s moat persist?，6193秒）；`ISznqY3kESI` → `BV1Yi4y1f7Nc`（RHex Rough-Terrain Robot，105秒，对比原片113秒）。B站完整简介均含对应YouTube原片URL，均为单P且时长差在容差内。实播均通过，播放器实际请求CID `37807260392`、`505254418`，实测时长与分P一致。证据见 `reports/metadata-review-2026-11-08-resume9.json`、`reports/playback-increment-2026-11-08-resume9.json`；未做逐帧内容比较。
 
-当前工作库进度5297/6454，确认1088；本增量发布前数据校验、65项单元测试、桌面/手机浏览器检查和实播核验均通过，线上发布与Pages哈希核验待完成。
+当前工作库进度5297/6454，确认1088；本增量发布前数据校验、65项单元测试、桌面/手机浏览器检查和实播核验均通过。提交 `65f7ddac452635256ee21ff14115b4e279f3ead9` 已推送；Pages `data.json` 返回HTTP 200，SHA-256 `e28f22435637390c3c0196ddbac0c1c460645a3ac611abd81d9d722db0cee471` 与本地一致，两条新增版本均在线核验，详情见 `reports/pages-check-2026-11-08-resume9.json`。
