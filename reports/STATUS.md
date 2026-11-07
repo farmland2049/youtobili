@@ -1,80 +1,80 @@
 # 匹配进展
 
-更新时间：2026-11-07T21:41:13.776778+00:00
+更新时间：2026-11-07T22:03:06.149686+00:00
 
 - 原片库：6454
-- 完成处理：5345
-- 已确认原片：1101
-- 全库覆盖率：17.06%
-- 已处理原片匹配率：20.24%
-- 状态：{'confirmed': 1101, 'review': 4323}
+- 完成处理：5395
+- 已确认原片：1111
+- 全库覆盖率：17.21%
+- 已处理原片匹配率：20.59%
+- 状态：{'confirmed': 1111, 'review': 4313}
 
-- 待审中尚需扩大候选检查：191
+- 待审中尚需扩大候选检查：181
 - 已扩大检查仍待审核：4132
 
 ## 最近批次
 
 ```json
 {
-  "id": "20261107T213310Z",
+  "id": "20261107T215233Z",
   "selected": 50,
   "completed": 50,
   "errors": [],
   "stopped": false,
   "originals": [
-    "aMcJ1Jvtef0",
-    "aircAruvnKk",
-    "W3aieHjyNvw",
-    "wjZofJX0v4M",
-    "r-TLSBdHe1A",
-    "2Op3QLzMgSY",
-    "QmOF0crdyRU",
-    "KkpqA8yG9T4",
-    "7xTGNNLPyMI",
-    "rX0ItVEVjHc",
-    "kCc8FmEb1nY",
-    "UF8uR6Z6KLc",
-    "stxVBJem3Rs",
-    "yiw6_JakZFc",
-    "nm1TxQj9IsQ",
-    "VscdPA6sUkc",
-    "t705r8ICkRw",
-    "Sm5xF-UYgdg",
-    "zjkBMFhNj_g",
-    "-6rWqJhDv7M",
-    "Eq3bUFgEcb4",
-    "X-iSQQgOd1A",
-    "LxgMdjyw8uw",
-    "-4Yp3j_jk8Q",
-    "rQmqVVmMB3k",
-    "zduSFxRajkE",
-    "7J7X7aZvMXQ",
-    "8fHi36dvTdE",
-    "eMlx5fFNoYc",
-    "sqEyWLGvvdw",
-    "v3y8AIEX_dU",
-    "yS1ibDImAYU",
-    "zVhQOhxb1Mc",
-    "DxL2HoqLbyA",
-    "j5v8D-alAKE",
-    "xMP_AfiNlX4",
-    "Ilg3gGewQ5U",
-    "LWGJA9i18Co",
-    "YI3tsmFsrOg",
-    "ZCuYPiUIONs",
-    "jILgxeNBK_8",
-    "BDqvzFY72mg",
-    "IHZwWFHWa-w",
-    "OQQ-W_63UgQ",
-    "eC7xzavzEKY",
-    "lcjdwSY2AzM",
-    "oI_X2cMHNe0",
-    "2JAOTJxYqh8",
-    "PaCmpygFfXo",
-    "RxabLA7UQ9k"
+    "S-Xm7s9eGxU",
+    "lXfEK8G8CUI",
+    "1sd26pWhfmg",
+    "H-XfCl-HpRM",
+    "PaypcVFPs48",
+    "_zfN9wnPvU0",
+    "xUezfuy8Qpc",
+    "-MTRxRO5SRA",
+    "6JwEYamjXpA",
+    "9XkHBmE-N34",
+    "EH6vE97qIP4",
+    "EL7Au1tzNxE",
+    "MtxA20Q-Uss",
+    "SA8ZBJWo73E",
+    "ThjvMReOXYM",
+    "WU0gvPcc3jQ",
+    "Zklo4Z1SqkE",
+    "koTf7u0v41o",
+    "rGgG-0lOJjk",
+    "tIeHLnjs5U8",
+    "ulCdoCfw-bY",
+    "uzkD5SeuwzM",
+    "4rTv9wvvat8",
+    "AxnotgLql0k",
+    "E2MIpi8pIvY",
+    "GL77oOnrPzY",
+    "i4pxw4tYeCU",
+    "469chceiiUQ",
+    "5BXtgq0Nhsc",
+    "JOiGEI9pQBs",
+    "KZeIEiBrT_w",
+    "LCEmiRjPEtQ",
+    "LEENEFaVUzU",
+    "OA8dNFiVaF0",
+    "QK8mJJJvaes",
+    "ZW8gWgpptI8",
+    "dqwpQarrDwk",
+    "hM_h0UA7upI",
+    "lsWndfzuOc4",
+    "orQKfIXMiA8",
+    "sCr_gb8rdEI",
+    "t-_VPRCtiUg",
+    "3mbBbFH9fAg",
+    "8mxubNQC5O8",
+    "JtUAAXe_0VI",
+    "L_Guz73e6fw",
+    "Q1YqgPAtzho",
+    "VtvjbmoDx-I",
+    "YR5ApYxkU-U",
+    "dtjb2OhEQcU"
   ],
   "primary_first": true,
-  "deferred_candidates": 390,
+  "deferred_candidates": 310,
   "excluded_originals": [
     "-e1_QhJ1EhQ",
     "05WS0WN7zMQ",
@@ -152,10 +152,10 @@
   "attempted": 50,
   "unattempted": 0,
   "statuses": {
-    "confirmed": 36,
-    "review": 14
+    "confirmed": 29,
+    "review": 21
   },
-  "candidate_count": 2033
+  "candidate_count": 1938
 }
 ```
 

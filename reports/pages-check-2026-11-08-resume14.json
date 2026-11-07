@@ -1,0 +1,58 @@
+{
+  "checked_at": "2026-11-07T21:54:24Z",
+  "url": "https://qinqiang316.github.io/youtobili/data.json",
+  "http_status": 200,
+  "data_sha256": "037ca1f1a21c2994a8160878bfc46a4265c5ec65f320f4eac84cfdbb2b90ab05",
+  "stats": {
+    "corpus": 6454,
+    "processed": 5345,
+    "confirmed": 1101
+  },
+  "published_commit": "13589462e9ec87c7ec8a9b987b88120ed36c607f",
+  "workflow_run_id": 42417352631,
+  "new_originals": [
+    "aMcJ1Jvtef0",
+    "rQmqVVmMB3k",
+    "LWGJA9i18Co",
+    "jILgxeNBK_8",
+    "lcjdwSY2AzM",
+    "2JAOTJxYqh8"
+  ],
+  "published_versions": [
+    {
+      "youtube_id": "aMcJ1Jvtef0",
+      "bvid": "BV1LaZ6Y4EQB",
+      "page": 1
+    },
+    {
+      "youtube_id": "rQmqVVmMB3k",
+      "bvid": "BV1Mv411A7FC",
+      "page": 1
+    },
+    {
+      "youtube_id": "LWGJA9i18Co",
+      "bvid": "BV1eXkTBEEZp",
+      "page": 1
+    },
+    {
+      "youtube_id": "jILgxeNBK_8",
+      "bvid": "BV1Vspk6iEHd",
+      "page": 1
+    },
+    {
+      "youtube_id": "lcjdwSY2AzM",
+      "bvid": "BV1ZzaqzAEa2",
+      "page": 1
+    },
+    {
+      "youtube_id": "2JAOTJxYqh8",
+      "bvid": "BV1rM411K7qb",
+      "page": 1
+    },
+    {
+      "youtube_id": "PaCmpygFfXo",
+      "bvid": "BV1juKH6MEVU",
+      "page": 1
+    }
+  ]
+}
