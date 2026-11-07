@@ -1,0 +1,42 @@
+{
+  "reviewed_at": "2026-11-07",
+  "baseline_commit": "d4b8093e3cf2ab05da95b27e483ad6757d07f7fe",
+  "review_count": 2,
+  "content_level_frame_comparison": false,
+  "items": [
+    {
+      "youtube_id": "7qZl_5xHoBw",
+      "bvid": "BV1qKDtYgEPa",
+      "page": 1,
+      "bilibili_title": "Joe Rogan Experience #2223 - Elon Musk",
+      "segment_title": "Joe Rogan Experience #2223 - Elon Musk",
+      "page_count": 1,
+      "description_contains_original_id": true,
+      "description_sha256": "59514592a75a853efc6f89e27a31eeb7686a503c1d15a956142e8ac6ee0aa519",
+      "detail_snapshot_sha256": "8443d7a0504251572eaab7aa3f2ddb4a271f6fa39167794ce032a32307c86f2c",
+      "duration": 9521,
+      "original_duration": 9521,
+      "cid": 26620398704,
+      "playback_passed": true,
+      "cid_observed": true,
+      "player_duration_matches": true
+    },
+    {
+      "youtube_id": "8ucCxtgN6sc",
+      "bvid": "BV1Lx411g7gq",
+      "page": 1,
+      "bilibili_title": "青少年看windows 95 TEENS REACT TO WINDOWS 95",
+      "segment_title": "青少年看windows 95 TEENS REACT TO WINDOWS 95",
+      "page_count": 1,
+      "description_contains_original_id": true,
+      "description_sha256": "eeec9a645940a48d5b13ee9e67921c362d89085d235dd77ece2fef6aacbd90d1",
+      "detail_snapshot_sha256": "0ac17000bba82e08464856592a497eec59effdb141d5c1cce1a29bbd44944d3d",
+      "duration": 507,
+      "original_duration": 507,
+      "cid": 25041042,
+      "playback_passed": true,
+      "cid_observed": true,
+      "player_duration_matches": true
+    }
+  ]
+}

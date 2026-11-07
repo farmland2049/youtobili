@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-07T12:45:18.607650+00:00",
+  "built_at": "2026-11-07T13:40:21.795891+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5011,
-    "confirmed": 1064,
-    "coverage": 0.1648590021691974,
-    "processed_match_rate": 0.21233286769107962
+    "processed": 5048,
+    "confirmed": 1066,
+    "coverage": 0.1651688875116207,
+    "processed_match_rate": 0.2111727416798732
   },
   "areas": [
     {
@@ -40493,6 +40493,40 @@
       ]
     },
     {
+      "id": "7qZl_5xHoBw",
+      "title": "Joe Rogan Experience #2223 - Elon Musk",
+      "author": "PowerfulJRE",
+      "source_url": "https://www.youtube.com/watch?v=7qZl_5xHoBw",
+      "summary": "A long Joe Rogan Experience podcast episode with Elon Musk covering his businesses and views on a range of topics. It includes discussion of tariffs and a talk about video games.",
+      "why": "HN mostly cites it as a source for what Musk said, such as on tariffs or gaming, and for context on Rogan's political endorsement rather than recommending it.",
+      "score": 0.0,
+      "tags": [
+        "joe rogan",
+        "elon musk",
+        "tariffs",
+        "2024 election",
+        "podcast"
+      ],
+      "categories": [
+        "tech-figures-interviews",
+        "automotive-ev"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1qKDtYgEPa",
+          "page": 1,
+          "cid": 26620398704,
+          "title": "Joe Rogan Experience #2223 - Elon Musk",
+          "up": "Jizanthapus",
+          "duration": 9521,
+          "kind": "original",
+          "views": 368,
+          "pic": "https://i0.hdslb.com/bfs/archive/ba9ace1e8d211afde8b6ac29cf8ff2b669664bc4.jpg",
+          "checked_at": "2026-11-07T13:01:15.260870+00:00"
+        }
+      ]
+    },
+    {
       "id": "7xH7eGFuSYI",
       "title": "Adam Ruins Everything - Why You Should Tell Coworkers Your Salary",
       "author": "truTV",
@@ -40557,6 +40591,41 @@
           "views": 476,
           "pic": "https://i0.hdslb.com/bfs/archive/5ab15a9156ed0228f067ca99138ccc39d638632f.jpg",
           "checked_at": "2026-11-07T05:27:34.374697+00:00"
+        }
+      ]
+    },
+    {
+      "id": "8ucCxtgN6sc",
+      "title": "TEENS REACT TO WINDOWS 95",
+      "author": "REACT",
+      "source_url": "https://www.youtube.com/watch?v=8ucCxtgN6sc",
+      "summary": "A REACT episode where teenagers try Windows 95 for the first time and react to the retro interface and technology.",
+      "why": "HN uses it as a light reference for how old software looks to a new generation, often as a half-joke.",
+      "score": 0.0,
+      "tags": [
+        "windows 95",
+        "reaction video",
+        "nostalgia",
+        "user interfaces",
+        "teens"
+      ],
+      "categories": [
+        "internet-culture",
+        "gui-hci-history",
+        "demoscene-retrocomputing"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Lx411g7gq",
+          "page": 1,
+          "cid": 25041042,
+          "title": "青少年看windows 95 TEENS REACT TO WINDOWS 95",
+          "up": "Bachmozaninoff",
+          "duration": 507,
+          "kind": "original",
+          "views": 136,
+          "pic": "https://i0.hdslb.com/bfs/archive/5ba065b3a1d3f1e13c565fec479d2f2a2341195f.jpg",
+          "checked_at": "2026-11-07T13:20:11.815606+00:00"
         }
       ]
     },
@@ -43216,8 +43285,10 @@
     "BV13b411p7s7": "5iV_hB08Uns",
     "BV1s5411V7J9": "6WGKz2sUa0w",
     "BV1VZ4y1i7rb": "74Ig_QKndvE",
+    "BV1qKDtYgEPa": "7qZl_5xHoBw",
     "BV1UZ4y137Ps": "7xH7eGFuSYI",
     "BV1JoBvYKEVL": "8mxubNQC5O8",
+    "BV1Lx411g7gq": "8ucCxtgN6sc",
     "BV18Ni6YbE8J": "9fa9lVwHHqg",
     "BV1yPRqB2EEE": "9sJUDx7iEJw",
     "BV1yH2QYkEkM": "AKMuA_TVz3A",

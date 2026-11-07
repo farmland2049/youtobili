@@ -1,39 +1,72 @@
 # 匹配进展
 
-更新时间：2026-11-07T12:45:18.579075+00:00
+更新时间：2026-11-07T13:40:21.752587+00:00
 
 - 原片库：6454
-- 完成处理：5011
-- 已确认原片：1064
-- 全库覆盖率：16.49%
-- 已处理原片匹配率：21.23%
-- 状态：{'confirmed': 1064, 'review': 3961}
+- 完成处理：5048
+- 已确认原片：1066
+- 全库覆盖率：16.52%
+- 已处理原片匹配率：21.12%
+- 状态：{'confirmed': 1066, 'review': 3997}
 
-- 待审中尚需扩大候选检查：177
-- 已扩大检查仍待审核：3784
+- 待审中尚需扩大候选检查：178
+- 已扩大检查仍待审核：3819
 
 ## 最近批次
 
 ```json
 {
-  "id": "20261107T124214Z",
+  "id": "20261107T124800Z",
   "selected": 50,
-  "completed": 4,
+  "completed": 37,
   "errors": [
     {
-      "vid": "7GhAuZH6phs",
+      "vid": "9IEFD_JVYd0",
       "reason": "URLError"
     }
   ],
   "stopped": false,
   "originals": [
-    "6yN2H3--1aw",
-    "70vYj1KPyT4",
-    "74Ig_QKndvE",
-    "7DTlWPgX6zs"
+    "7MFtl2XXnUc",
+    "7O4V7JfeTSU",
+    "7Ooa7wOKHhg",
+    "7Xad5Rl0N2E",
+    "7Ys_yKGNFRQ",
+    "7bXJ_obaiYQ",
+    "7cNg_ifibCQ",
+    "7d59O6cfaM0",
+    "7gRsgkdfYJ8",
+    "7qZl_5xHoBw",
+    "7s664NsLeFM",
+    "7tAYXQPWdC0",
+    "8-pJa11YvCs",
+    "85OysZ_4lp0",
+    "89fYOo1V2pA",
+    "8AyVh1_vWYQ",
+    "8CwoluNRSSc",
+    "8GBAsFwPglw",
+    "8ISil7IHzxc",
+    "8JUepj7wIl0",
+    "8P8UKBAOfGo",
+    "8SUkrR7ZfTA",
+    "8Ux3DKxxFoM",
+    "8VB3uQHa14g",
+    "8Vq993Td6ys",
+    "8WP7AkJo3OE",
+    "8ucCxtgN6sc",
+    "8vQmTZTq7nw",
+    "8xRqXYsksFg",
+    "8y06NSBBRtY",
+    "93eyhO8VTdg",
+    "95-yZ-31j9A",
+    "988jPjs1gao",
+    "9EEY87HAHzk",
+    "9FnO3igOkOk",
+    "9GQoHIBDogU",
+    "9IBPeRa7U8E"
   ],
   "primary_first": true,
-  "deferred_candidates": 6,
+  "deferred_candidates": 35,
   "excluded_originals": [
     "-e1_QhJ1EhQ",
     "05WS0WN7zMQ",
@@ -50,6 +83,7 @@
     "4_qJptwikRc",
     "6JAgXz6xO0s",
     "6epzmRZk6UU",
+    "7GhAuZH6phs",
     "8s7NmMl_-yg",
     "A1vyB-O5i6E",
     "AIZgw09CG9E",
@@ -96,13 +130,13 @@
     "y4sOfO8Ei1g",
     "yg-UqIIvang"
   ],
-  "attempted": 5,
-  "unattempted": 45,
+  "attempted": 38,
+  "unattempted": 12,
   "statuses": {
-    "confirmed": 1,
-    "review": 4
+    "review": 36,
+    "confirmed": 2
   },
-  "candidate_count": 145
+  "candidate_count": 1416
 }
 ```
 
