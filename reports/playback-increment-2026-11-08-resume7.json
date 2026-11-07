@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-11-07T17:29:03.084Z",
+  "checks": [
+    {
+      "sample": "Fpu5a0Bl8eY",
+      "kind": "sub_zh",
+      "id": "Fpu5a0Bl8eY",
+      "bvid": "BV1884y1V7m9",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.115866,
+        "duration": 235,
+        "paused": false
+      },
+      "expected_duration": 235,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1004042987"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "99个气球（德语版，中文字幕）\n天下大利\n关注\n204\n4\n分享\n更多\n00:05 / 03:55\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

@@ -57,3 +57,11 @@
 新增确认：`FZ6lZJWL_Xk` → `BV1jg411A7gQ`（Tesla Unveils Dual Motor and Autopilot，828秒）；`FaOSCASqLsE` → `BV1FW411i7mF`（Star Wars Undercover Boss: Starkiller Base - SNL，291秒）。前者为单P，分P名称含精确原片ID；后者为单P，完整简介含精确YouTube原片URL。原片时长和分P时长均一致。实播均通过，播放器请求CID分别为 `464618595`、`30228166`，播放器时长均与分P一致。元数据、简介和播放器证据见 `reports/metadata-review-2026-11-08-resume6.json`、`reports/playback-increment-2026-11-08-resume6.json`；未做逐帧内容比较。
 
 当前工作库进度5213/6454，确认1082；本增量发布前校验、65项单元测试、桌面/手机浏览器检查和实播核验均通过。提交 `7744f3186c4858af89173872cce0253569543a3f` 已推送；Pages `data.json` 返回HTTP 200，SHA-256 `2cfd654e4339fb5c85bd89721ae30823ef4dd36e4a6526039a635cbfd64a23c2` 与本地一致，两条新增版本均在线核验，详情见 `reports/pages-check-2026-11-08-resume6.json`。
+
+## 2026-11-08 恢复后增量七
+
+批次 `20261107T171059Z` 在第19次尝试处理 `G6D1YI-41ao` 时遇到 `URLError` 后停止。此前完成18条（17条待审、1条确认），另有31条未处理。失败ID已加入本机阻塞清单，累计65条；不判失效、不自动重试。
+
+新增确认：`Fpu5a0Bl8eY` → `BV1884y1V7m9`（NENA | 99 Luftballons [1983]，235秒）。B站完整简介含对应 `youtu.be` 原片链接，单P，原片与分P时长一致，标注德语版中文字幕。实播通过，播放器实际请求CID `1004042987`，实测时长235秒。元数据和播放器证据见 `reports/metadata-review-2026-11-08-resume7.json`、`reports/playback-increment-2026-11-08-resume7.json`；未做逐帧内容比较。
+
+当前工作库进度5231/6454，确认1083；本增量发布前数据校验、65项单元测试、桌面/手机浏览器检查和实播核验均通过，线上发布与Pages哈希核验待完成。

@@ -1,0 +1,31 @@
+{
+  "reviewed_at": "2026-11-08",
+  "batch_id": "20261107T171059Z",
+  "review_count": 1,
+  "content_level_frame_comparison": false,
+  "items": [
+    {
+      "youtube_id": "Fpu5a0Bl8eY",
+      "youtube_title": "NENA | 99 Luftballons [1983] [Offizielles HD Musikvideo]",
+      "youtube_duration": 235,
+      "source_api_snapshot_sha256": "cd6d04d84b2f2c66650de1a1f1bbc26dd5af394aca5b409175c0e9ffc256596c",
+      "bvid": "BV1884y1V7m9",
+      "page": 1,
+      "bilibili_title": "99个气球（德语版，中文字幕）",
+      "segment_title": "99个气球（德语版，中文字幕）",
+      "page_count": 1,
+      "identity_evidence": "description_contains_exact_youtu_be_original_url",
+      "description_contains_original_id": true,
+      "description_sha256": "df3b1baf75e1f22b24b21cfd04ce4f2825877640227a6b4d32b72210b5e68fbb",
+      "detail_snapshot_sha256": "6548aa7096beb67cd1cdc1cd4c13766e8035d070d5a7a508af0f73f734fed8fc",
+      "duration": 235,
+      "duration_difference_seconds": 0,
+      "cid": 1004042987,
+      "kind": "sub_zh",
+      "playback_passed": true,
+      "cid_observed": true,
+      "player_duration_matches": true,
+      "player_duration_seconds": 235
+    }
+  ]
+}

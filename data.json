@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-07T17:07:27.432637+00:00",
+  "built_at": "2026-11-07T17:28:44.036404+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5213,
-    "confirmed": 1082,
-    "coverage": 0.16764797025100714,
-    "processed_match_rate": 0.20755802800690581
+    "processed": 5231,
+    "confirmed": 1083,
+    "coverage": 0.16780291292221877,
+    "processed_match_rate": 0.20703498375071688
   },
   "areas": [
     {
@@ -41468,6 +41468,38 @@
       ]
     },
     {
+      "id": "Fpu5a0Bl8eY",
+      "title": "NENA | 99 Luftballons [1983] [Offizielles HD Musikvideo]",
+      "author": "NENA",
+      "source_url": "https://www.youtube.com/watch?v=Fpu5a0Bl8eY",
+      "summary": "The official HD music video for NENA's 1983 hit 99 Luftballons, a Cold War song about balloons triggering a war.",
+      "why": "Linked as the original video in threads about balloons and military incidents.",
+      "score": 0.0,
+      "tags": [
+        "nena",
+        "99 luftballons",
+        "music video",
+        "cold war"
+      ],
+      "categories": [
+        "music-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1884y1V7m9",
+          "page": 1,
+          "cid": 1004042987,
+          "title": "99个气球（德语版，中文字幕）",
+          "up": "天下大利",
+          "duration": 235,
+          "kind": "sub_zh",
+          "views": 10481,
+          "pic": "https://i2.hdslb.com/bfs/archive/eaa4531903d1181bcc103c73fabfe2c2aa22abbd.jpg",
+          "checked_at": "2026-11-07T17:22:45.015944+00:00"
+        }
+      ]
+    },
+    {
       "id": "HKTSaezB4p8",
       "title": "Richard Feynman playing bongos",
       "author": "sdfhsfh",
@@ -43863,6 +43895,7 @@
     "BV1CwEi6pErc": "EIyixC9NsLI",
     "BV1jg411A7gQ": "FZ6lZJWL_Xk",
     "BV1FW411i7mF": "FaOSCASqLsE",
+    "BV1884y1V7m9": "Fpu5a0Bl8eY",
     "BV1Eq4y1w7u5": "HKTSaezB4p8",
     "BV16CXhYbEhR": "IACHfKmZMr8",
     "BV1kT4y177EA": "L1UgdoP2aeg",
