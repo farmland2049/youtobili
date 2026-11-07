@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-11-07T09:02:41.961Z",
+  "checks": [
+    {
+      "sample": "34CZjsEI1yU",
+      "kind": "original",
+      "id": "34CZjsEI1yU",
+      "bvid": "BV1Wt411V7im",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.750498,
+        "duration": 342,
+        "paused": false
+      },
+      "expected_duration": 342,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "102926945"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "WIND ROSE - Diggy Diggy Hole (Official Video)\n魚深住民\n关注\n17\n1\n分享\n更多\n00:04 / 05:42\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "3m5qxZm_JqM",
+      "kind": "sub_zh",
+      "id": "3m5qxZm_JqM",
+      "bvid": "BV1XTxuzfENh",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.952615,
+        "duration": 129,
+        "paused": false
+      },
+      "expected_duration": 129,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "32856277931"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Clarke and Dawe - The Front Fell Off （中字）\nmalteserssssss\n关注\n2\n0\n分享\n更多\n00:04 / 02:09\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "4QokOwvPxrE",
+      "kind": "original",
+      "id": "4QokOwvPxrE",
+      "bvid": "BV1m4411D7fk",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.184521,
+        "duration": 161,
+        "paused": false
+      },
+      "expected_duration": 162,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "109804252"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "我的电脑会跳舞～～Ubuntu 3D桌面特效展示\nseifer08ms\n关注\n29\n4\n分享\n更多\n00:05 / 02:41\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

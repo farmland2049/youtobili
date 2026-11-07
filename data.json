@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-07T07:31:06.089789+00:00",
+  "built_at": "2026-11-07T09:02:23.712297+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 4897,
-    "confirmed": 1057,
-    "coverage": 0.16377440347071584,
-    "processed_match_rate": 0.21584643659383296
+    "processed": 4966,
+    "confirmed": 1060,
+    "coverage": 0.1642392314843508,
+    "processed_match_rate": 0.21345146999597261
   },
   "areas": [
     {
@@ -40219,6 +40219,108 @@
       ]
     },
     {
+      "id": "34CZjsEI1yU",
+      "title": "WIND ROSE - Diggy Diggy Hole (Official Video) | Napalm Records",
+      "author": "Napalm Records",
+      "source_url": "https://www.youtube.com/watch?v=34CZjsEI1yU",
+      "summary": "Official music video for Wind Rose's power metal cover of Diggy Diggy Hole, the dwarven mining song originally written by Yogscast.",
+      "why": "HN mostly drops it as a joke whenever digging, tunnels or Dwarf Fortress come up.",
+      "score": 0.0,
+      "tags": [
+        "wind rose",
+        "diggy diggy hole",
+        "yogscast",
+        "power metal",
+        "dwarf fortress"
+      ],
+      "categories": [
+        "music-performance",
+        "gaming-culture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Wt411V7im",
+          "page": 1,
+          "cid": 102926945,
+          "title": "WIND ROSE - Diggy Diggy Hole (Official Video)",
+          "up": "魚深住民",
+          "duration": 342,
+          "kind": "original",
+          "views": 923,
+          "pic": "https://i0.hdslb.com/bfs/archive/3f9d40aa82429480979811b6a74eab3d0e9c77ec.jpg",
+          "checked_at": "2026-11-07T08:19:33.700045+00:00"
+        }
+      ]
+    },
+    {
+      "id": "3m5qxZm_JqM",
+      "title": "Clarke and Dawe - The Front Fell Off",
+      "author": "ClarkeAndDawe",
+      "source_url": "https://www.youtube.com/watch?v=3m5qxZm_JqM",
+      "summary": "A classic Clarke and Dawe sketch from 1991 in which an Australian senator evasively discusses an oil spill, famously saying the front fell off.",
+      "why": "Used almost entirely as a joke reference when HN threads involve accidents, failures or evasive official statements.",
+      "score": 0.0,
+      "tags": [
+        "clarke and dawe",
+        "satire",
+        "australian comedy",
+        "corporate evasion",
+        "accidents"
+      ],
+      "categories": [
+        "satire-parody",
+        "standup-sketch-comedy"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1XTxuzfENh",
+          "page": 1,
+          "cid": 32856277931,
+          "title": "Clarke and Dawe - The Front Fell Off （中字）",
+          "up": "malteserssssss",
+          "duration": 129,
+          "kind": "sub_zh",
+          "views": 69,
+          "pic": "https://i2.hdslb.com/bfs/archive/add68b99f96fbca5937c71ede45d49abecc72596.jpg",
+          "checked_at": "2026-11-07T08:37:53.127124+00:00"
+        }
+      ]
+    },
+    {
+      "id": "4QokOwvPxrE",
+      "title": "ubuntu 3D Desktop (Cube) (KDE & Compiz Fusion & CairoDock) fullHD 1080p",
+      "author": "Philip J. Bugsington",
+      "source_url": "https://www.youtube.com/watch?v=4QokOwvPxrE",
+      "summary": "A short screen recording of an Ubuntu Karmic Koala desktop running KDE4 with Compiz Fusion 3D cube effects and CairoDock.",
+      "why": "HN cites it as an example of 3D desktop eye candy that was famous and popular, and of how effects can be overdone.",
+      "score": 0.0,
+      "tags": [
+        "compiz",
+        "desktop cube",
+        "kde4",
+        "linux desktop",
+        "eye candy"
+      ],
+      "categories": [
+        "linux-open-source-os",
+        "gui-hci-history"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1m4411D7fk",
+          "page": 1,
+          "cid": 109804252,
+          "title": "我的电脑会跳舞～～Ubuntu 3D桌面特效展示",
+          "up": "seifer08ms",
+          "duration": 162,
+          "kind": "original",
+          "views": 2655,
+          "pic": "https://i1.hdslb.com/bfs/archive/971cba564d74fa99ca66a4be4a4129f9813dd3d6.jpg",
+          "checked_at": "2026-11-07T08:49:36.103585+00:00"
+        }
+      ]
+    },
+    {
       "id": "4U2eDJnwz_s",
       "title": "Auto Lending: Last Week Tonight with John Oliver (HBO)",
       "author": "LastWeekTonight",
@@ -42969,6 +43071,9 @@
     "BV1Zx41187L3": "1IOL4q5tDDQ",
     "BV1vW411g7Ln": "1La4QzGeaaQ",
     "BV1uwnfzUEXF": "21EYKqUsPfg",
+    "BV1Wt411V7im": "34CZjsEI1yU",
+    "BV1XTxuzfENh": "3m5qxZm_JqM",
+    "BV1m4411D7fk": "4QokOwvPxrE",
     "BV1FmEw69E1T": "4U2eDJnwz_s",
     "BV1UZ4y137Ps": "7xH7eGFuSYI",
     "BV1JoBvYKEVL": "8mxubNQC5O8",
