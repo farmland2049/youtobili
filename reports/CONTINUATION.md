@@ -106,3 +106,14 @@
 新增确认并经元数据与实播复核：`LSHZ_b05W7o` → `BV12s411t77E`（Sony CSL 的 Daddy's Car，181秒）；`LXb3EKWsInQ` → `BV1zDvYe6EQ4`（COSTA RICA IN 4K 60fps HDR，原片314秒、分P315秒）。两条完整B站简介都含对应YouTube原片链接，均为单P；实播均通过并观察到记录CID（`10474111`、`500001634779260`），播放器时长分别为181秒、约313.699秒。元数据快照与简介哈希见 `reports/metadata-review-2026-11-08-resume12.json`，播放器结果见 `reports/playback-increment-2026-11-08-resume12.json`；未做逐帧比较。
 
 当前工作库进度5391/6454，确认1093。本次构建数据校验、65项单元测试、桌面/手机浏览器检查及新增两条真实播放核验均通过；内容提交 `2c14a9b727123b182e8cf91feeacf6040a0436e6` 已推送；Pages 部署运行 `42414051486` 成功，线上 `data.json` 返回HTTP 200，SHA-256 `8b93f770f62bdfc5ed6207c7a512884bb4d5a54a50ecfc4b155861e2a42ab726` 与本地一致，两条新增视频已在线核验，详情见 `reports/pages-check-2026-11-08-resume12.json`。
+
+
+## 2026-11-08 恢复后增量十三
+
+新搜索批次 `20261107T210557Z` 在第1条 `MpmGXeAtWUw` 的匿名会话初始化时遇到 `TimeoutError`，没有完成原片处理；该ID已加入本机阻塞清单，累计72条。没有重试。
+
+随后对有效期内的本地缓存做离线处理：`reassess-cached` 未发现确认状态变化；`seed-identities` 从公开视频缓存整理出38条明确原片身份线索；`seed-related` 从824,219条缓存合集分P中整理出163条待核验候选。候选线索不等于确认。其后筛出6组原片与B站详情均有未过期缓存的明确身份线索，离线核验器完成6条，其中5条确认、1条因合集分P身份待审；没有触发外部请求。
+
+新增确认版本：`MShbP3OpASA` → `BV1bE411E7Gm`、`2B-XwPjn9YY` → `BV14t411h776`、`ErwS24cBZPc` → `BV15LpMzREhR`、`nM9f0W2KD5s` → `BV1YK4y1W7VA`、`H1KP4ztKK0A` → `BV15X4y1T7wA`。五条均有B站完整简介中的精确原片链接，选定单P、时长一致，真实播放及CID检查均通过。三条为既有原片新增可切换版本，另两条新增原片。元数据详情及快照哈希见 `reports/metadata-review-2026-11-08-resume13.json`，播放器结果见 `reports/playback-increment-2026-11-08-resume13.json`；未做逐帧比较。
+
+本地构建当前进度5295/6454，确认1095；新增版本已通过数据校验、65项单元测试、桌面/手机浏览器场景、Node语法和实播核验，线上发布与Pages核验待完成。
