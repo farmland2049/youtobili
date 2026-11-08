@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-08T16:17:49.875306+00:00",
+  "built_at": "2026-11-08T17:03:36.267400+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5579,
-    "confirmed": 1130,
-    "coverage": 0.17508521846916641,
-    "processed_match_rate": 0.2025452590069905
+    "processed": 5617,
+    "confirmed": 1131,
+    "coverage": 0.17524016114037805,
+    "processed_match_rate": 0.2013530354281645
   },
   "areas": [
     {
@@ -44089,6 +44089,41 @@
       ]
     },
     {
+      "id": "VfjjiHGuHoc",
+      "title": "Danny MacAskill Tests Santa Cruz Reserve Carbon Wheels",
+      "author": "Santa Cruz Bicycles",
+      "source_url": "https://www.youtube.com/watch?v=VfjjiHGuHoc",
+      "summary": "Danny MacAskill tries to destroy carbon fiber bike wheels by riding trials tricks through downtown Glasgow, including on bare rims on concrete.",
+      "why": "Used as evidence that carbon wheels and rims are far tougher than their fragile reputation suggests.",
+      "score": 0.0,
+      "tags": [
+        "danny macaskill",
+        "carbon fiber",
+        "bicycle wheels",
+        "destructive testing",
+        "trials riding"
+      ],
+      "categories": [
+        "sports-athletics",
+        "materials-science",
+        "mechanical-engineering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1jW411B7Sf",
+          "page": 1,
+          "cid": 29305359,
+          "title": "【中字】丹尼大神测试三条裤子碳轮组  裸轮下台阶 Danny Macaskill Santa Cruz Reserve",
+          "up": "账号已注销",
+          "duration": 265,
+          "kind": "sub_zh",
+          "views": 4837,
+          "pic": "https://i1.hdslb.com/bfs/archive/b7c1b9711e75af2b0e94b64b58d52dbd0964f0fe.png",
+          "checked_at": "2026-11-08T17:00:36.993908+00:00"
+        }
+      ]
+    },
+    {
       "id": "YIWV5fSaUB8",
       "title": "My channel was deleted... HOW?",
       "author": "Jim Browning",
@@ -46382,6 +46417,7 @@
     "BV1bv62BjEBr": "TDkH3EbWTYc",
     "BV1qm421K7bP": "TGfQu0bQTKc",
     "BV1q54y147ZJ": "U_o8gerare0",
+    "BV1jW411B7Sf": "VfjjiHGuHoc",
     "BV1Vq4y1H7Ro": "YIWV5fSaUB8",
     "BV1hv41117Th": "_K-L9uhsBLM",
     "BV1WJ411u71d": "_sBBaNYex3E",

@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-11-08T17:03:52.893Z",
+  "checks": [
+    {
+      "sample": "VfjjiHGuHoc",
+      "kind": "sub_zh",
+      "id": "VfjjiHGuHoc",
+      "bvid": "BV1jW411B7Sf",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.254027,
+        "duration": 266,
+        "paused": false
+      },
+      "expected_duration": 265,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "29305359"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【中字】丹尼大神测试三条裤子碳轮组 裸轮下台阶 Danny Macaskill Santa Cruz Reserve\n账号已注销\n关注\n48\n11\n分享\n更多\n00:05 / 04:26\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}
