@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-11-08T21:57:51.319Z",
+  "checks": [
+    {
+      "sample": "cpraXaw7dyc",
+      "kind": "original",
+      "id": "cpraXaw7dyc",
+      "bvid": "BV1oc411U7E4",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.677746,
+        "duration": 104,
+        "paused": false
+      },
+      "expected_duration": 104,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1366175510"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【4K】特斯拉 Optimus Gen 2 机器人实机演示宣传片 | 来源：Tesla\nKG-Area21\n关注\n205\n16\n分享\n更多\n00:04 / 01:44\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "cyN-CRNrb3E",
+      "kind": "original",
+      "id": "cyN-CRNrb3E",
+      "bvid": "BV1Ji4y1j7SQ",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.947449,
+        "duration": 57,
+        "paused": false
+      },
+      "expected_duration": 57,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "244713193"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "三级倒立摆控制 Triple Pendulum on a Cart\n犭王占戈士杰西\n关注\n1222\n127\n分享\n更多\n00:04 / 00:57\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "djV11Xbc914",
+      "kind": "original",
+      "id": "djV11Xbc914",
+      "bvid": "BV1H8Yr6zEZt",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.944192,
+        "duration": 245,
+        "paused": false
+      },
+      "expected_duration": 245,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "41876129726"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Take On Me - a-ha\nLeah大大缳\n关注\n2\n0\n分享\n更多\n00:04 / 04:05\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

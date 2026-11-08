@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-08T21:28:54.981985+00:00",
+  "built_at": "2026-11-08T21:57:09.828168+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5821,
-    "confirmed": 1152,
-    "coverage": 0.17849395723582276,
-    "processed_match_rate": 0.1979041401820993
+    "processed": 5842,
+    "confirmed": 1155,
+    "coverage": 0.1789587852494577,
+    "processed_match_rate": 0.19770626497774735
   },
   "areas": [
     {
@@ -44954,6 +44954,107 @@
       ]
     },
     {
+      "id": "cpraXaw7dyc",
+      "title": "Optimus - Gen 2 | Tesla",
+      "author": "Tesla",
+      "source_url": "https://www.youtube.com/watch?v=cpraXaw7dyc",
+      "summary": "Tesla's short promotional video of Optimus Gen 2, its humanoid robot, with new actuators and sensors, faster hands, faster walking and lower weight.",
+      "why": "Cited only as an example of humanoid robots in development, not as something to learn from.",
+      "score": 0.0,
+      "tags": [
+        "tesla",
+        "optimus",
+        "humanoid robot",
+        "robotics",
+        "product demo"
+      ],
+      "categories": [
+        "robotics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1oc411U7E4",
+          "page": 1,
+          "cid": 1366175510,
+          "title": "【4K】特斯拉 Optimus Gen 2 机器人实机演示宣传片 | 来源：Tesla",
+          "up": "KG-Area21",
+          "duration": 104,
+          "kind": "original",
+          "views": 18763,
+          "pic": "https://i2.hdslb.com/bfs/archive/61beb94ecd973492e937e08c2765fe1a17683ca0.jpg",
+          "checked_at": "2026-11-08T21:37:29.892749+00:00"
+        }
+      ]
+    },
+    {
+      "id": "cyN-CRNrb3E",
+      "title": "Triple Pendulum on a Cart",
+      "author": "Tobias Glück",
+      "source_url": "https://www.youtube.com/watch?v=cyN-CRNrb3E",
+      "summary": "A TU Wien control-systems demo in which a triple pendulum on a cart is swung up and stabilized using constrained feedforward plus optimal feedback control. It accompanies a 2013 Automatica paper.",
+      "why": "HN commenters cite it as an example of a hard, chaotic control problem that fast feedback and good control design can solve.",
+      "score": 0.0,
+      "tags": [
+        "inverted pendulum",
+        "feedback control",
+        "feedforward",
+        "robotics",
+        "swing-up"
+      ],
+      "categories": [
+        "robotics",
+        "mechanical-engineering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Ji4y1j7SQ",
+          "page": 1,
+          "cid": 244713193,
+          "title": "三级倒立摆控制 Triple Pendulum on a Cart",
+          "up": "犭王占戈士杰西",
+          "duration": 57,
+          "kind": "original",
+          "views": 104865,
+          "pic": "https://i1.hdslb.com/bfs/archive/86d4f0c3718815ccaa6ecd23d086d5fcb3c8bacd.jpg",
+          "checked_at": "2026-11-08T21:37:57.479235+00:00"
+        }
+      ]
+    },
+    {
+      "id": "djV11Xbc914",
+      "title": "a-ha - Take On Me (Official Video) [4K]",
+      "author": "a-ha",
+      "source_url": "https://www.youtube.com/watch?v=djV11Xbc914",
+      "summary": "The official remastered 4K video for a-ha's 1985 hit, famous for its rotoscoped pencil-sketch animation blending live action and comic-book drawings. It won six MTV Video Music Awards in 1986.",
+      "why": "It is mostly a cultural touchstone on HN, cited for its sketch animation style or the song itself rather than recommended as something to learn from.",
+      "score": 0.0,
+      "tags": [
+        "a-ha",
+        "rotoscoping",
+        "80s pop",
+        "music video",
+        "animation style"
+      ],
+      "categories": [
+        "music-performance",
+        "animation-vfx"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1H8Yr6zEZt",
+          "page": 1,
+          "cid": 41876129726,
+          "title": "Take On Me - a-ha",
+          "up": "Leah大大缳",
+          "duration": 245,
+          "kind": "original",
+          "views": 69,
+          "pic": "https://i1.hdslb.com/bfs/archive/5c813790cc11f4fd35d23d81f24f3411797a124b.jpg",
+          "checked_at": "2026-11-08T21:53:35.865297+00:00"
+        }
+      ]
+    },
+    {
       "id": "dk3oc1Hr62g",
       "title": "Google Self-Driving Car on City Streets",
       "author": "Google",
@@ -47233,6 +47334,9 @@
     "BV1Us411z791": "bzE-IMaegzQ",
     "BV1tpcWeuEu6": "bzE-IMaegzQ",
     "BV1bQ4y1D7fb": "bzE-IMaegzQ",
+    "BV1oc411U7E4": "cpraXaw7dyc",
+    "BV1Ji4y1j7SQ": "cyN-CRNrb3E",
+    "BV1H8Yr6zEZt": "djV11Xbc914",
     "BV1Mb4y1U7Zz": "dk3oc1Hr62g",
     "BV1NVbYzREMr": "dtjb2OhEQcU",
     "BV1Ko4y1Z7ee": "fn3KWM1kuAw",
