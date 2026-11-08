@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-11-08T18:51:15.020Z",
+  "checks": [
+    {
+      "sample": "sforhbLiwLA",
+      "kind": "original",
+      "id": "sforhbLiwLA",
+      "bvid": "BV1Vs41167e2",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.933901,
+        "duration": 63,
+        "paused": false
+      },
+      "expected_duration": 62,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "9832711"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【巨硬广告】【生肉】鲍尔默卖windows1.0 Steve Ballmer Sells Windows 1.0\n我的节操空空的\n关注\n13\n5\n分享\n更多\n00:04 / 01:03\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "YbYWhdLO43Q",
+      "kind": "original",
+      "id": "YbYWhdLO43Q",
+      "bvid": "BV1zU4y1v7Mo",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.957351,
+        "duration": 174,
+        "paused": false
+      },
+      "expected_duration": 174,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "786574184"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "This Unicorn Changed the Way I Poop - #SquattyPotty\nprvmcd\n关注\n35\n1\n分享\n更多\n00:04 / 02:54\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "XfonhlM6I7w",
+      "kind": "original",
+      "id": "XfonhlM6I7w",
+      "bvid": "BV1ph4y1c7tw",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.957467,
+        "duration": 808,
+        "paused": false
+      },
+      "expected_duration": 808,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1216453674"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "我相信美丽和人类尊严是相辅相成的 I The Aesthetic City I This Town Did The Impossible（转载）\n红豚9527\n关注\n4\n0\n分享\n更多\n00:04 / 13:28\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

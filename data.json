@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-08T18:38:00.402745+00:00",
+  "built_at": "2026-11-08T18:50:46.052925+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5688,
-    "confirmed": 1138,
-    "coverage": 0.17632475983885962,
-    "processed_match_rate": 0.20007032348804502
+    "processed": 5695,
+    "confirmed": 1140,
+    "coverage": 0.1766346451812829,
+    "processed_match_rate": 0.20017559262510976
   },
   "areas": [
     {
@@ -44257,6 +44257,18 @@
           "views": 502,
           "pic": "https://i1.hdslb.com/bfs/archive/77a8c3eaa467c7b398a5c1154c80960725c05718.jpg",
           "checked_at": "2026-11-08T18:17:46.767422+00:00"
+        },
+        {
+          "bvid": "BV1ph4y1c7tw",
+          "page": 1,
+          "cid": 1216453674,
+          "title": "我相信美丽和人类尊严是相辅相成的 I The Aesthetic City I This Town Did The Impossible（转载）",
+          "up": "红豚9527",
+          "duration": 808,
+          "kind": "original",
+          "views": 139,
+          "pic": "https://i2.hdslb.com/bfs/archive/67e2deb727adfd5b5787583c454fa291e1222bfa.jpg",
+          "checked_at": "2026-11-08T18:40:18.053872+00:00"
         }
       ]
     },
@@ -44392,6 +44404,39 @@
           "views": 70,
           "pic": "https://i0.hdslb.com/bfs/archive/dbc0a96e001d75d3c5307324a5f71f303ed200bb.jpg",
           "checked_at": "2026-11-08T18:31:32.795780+00:00"
+        }
+      ]
+    },
+    {
+      "id": "YbYWhdLO43Q",
+      "title": "This Unicorn Changed the Way I Poop - #SquattyPotty",
+      "author": "Squatty Potty",
+      "source_url": "https://www.youtube.com/watch?v=YbYWhdLO43Q",
+      "summary": "A viral Squatty Potty ad in which a unicorn demonstrates the supposed benefits of squatting to poop. It is a humorous product pitch about toilet posture.",
+      "why": "HN mostly shares it as a joke and as an example of surprisingly good marketing.",
+      "score": 0.0,
+      "tags": [
+        "squatty potty",
+        "advertising",
+        "humor",
+        "toilet posture"
+      ],
+      "categories": [
+        "product-growth-marketing",
+        "arts-entertainment-other"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1zU4y1v7Mo",
+          "page": 1,
+          "cid": 786574184,
+          "title": "This Unicorn Changed the Way I Poop - #SquattyPotty",
+          "up": "prvmcd",
+          "duration": 174,
+          "kind": "original",
+          "views": 1213,
+          "pic": "https://i1.hdslb.com/bfs/archive/ee16e94a933b5e9a42dfe45cc68fda77d024590e.jpg",
+          "checked_at": "2026-11-08T18:41:32.703887+00:00"
         }
       ]
     },
@@ -44970,6 +45015,41 @@
           "views": 2216,
           "pic": "https://i1.hdslb.com/bfs/archive/cc898d502059ddfea72a127d0ba02619badfe854.png",
           "checked_at": "2026-11-07T05:27:56.458852+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sforhbLiwLA",
+      "title": "Microsoft Windows 1.0 with Steve Ballmer (1986)",
+      "author": "Rezende",
+      "source_url": "https://www.youtube.com/watch?v=sforhbLiwLA",
+      "summary": "A one-minute 1986 promo of Microsoft Windows 1.0 presented by Steve Ballmer, with a hyperbolic price pitch ending in the tag line about Nebraska.",
+      "why": "Mostly quoted as a joke or a snapshot of Microsoft's dated marketing style rather than recommended.",
+      "score": 0.0,
+      "tags": [
+        "windows 1.0",
+        "steve ballmer",
+        "microsoft",
+        "retro advertising",
+        "1986"
+      ],
+      "categories": [
+        "tech-company-stories",
+        "history-of-computing",
+        "gui-hci-history"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Vs41167e2",
+          "page": 1,
+          "cid": 9832711,
+          "title": "【巨硬广告】【生肉】鲍尔默卖windows1.0 Steve Ballmer Sells Windows 1.0",
+          "up": "我的节操空空的",
+          "duration": 62,
+          "kind": "original",
+          "views": 2225,
+          "pic": "https://i1.hdslb.com/bfs/archive/dee5ab4f1a83b4da3174238c810d76936b48bf59.png",
+          "checked_at": "2026-11-08T18:40:16.306680+00:00"
         }
       ]
     },
@@ -46660,10 +46740,12 @@
     "BV1gZ421T7AG": "WiPp9YEBV0Q",
     "BV1zP4y1r73e": "X3-hOigoxHs",
     "BV1PCy5BxEsn": "XfonhlM6I7w",
+    "BV1ph4y1c7tw": "XfonhlM6I7w",
     "BV1WwLyz9Ehz": "XpunFFS-n8I",
     "BV1W5411H7Ra": "XqZsoesa55w",
     "BV1Vq4y1H7Ro": "YIWV5fSaUB8",
     "BV1Ga4y1J7EM": "YScIPA8RbVE",
+    "BV1zU4y1v7Mo": "YbYWhdLO43Q",
     "BV1hv41117Th": "_K-L9uhsBLM",
     "BV1WJ411u71d": "_sBBaNYex3E",
     "BV1VJ411u7Hk": "_sBBaNYex3E",
@@ -46683,6 +46765,7 @@
     "BV13W411F7eV": "ogfYd705cRs",
     "BV1a4421U7ff": "ovYbgbrQ-v8",
     "BV1pu4jzvEck": "pZwvrxVavnQ",
+    "BV1Vs41167e2": "sforhbLiwLA",
     "BV1xW411L75Y": "stXgn2iZAAY",
     "BV1JNSwB8EvF": "ugvHCXCOmm4",
     "BV13Em8YFEjg": "ugvHCXCOmm4",

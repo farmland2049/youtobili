@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T18:38:00.428374+00:00",
+  "updated_at": "2026-11-08T18:50:46.078503+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -72144,6 +72144,29 @@
           "pic": "https://i1.hdslb.com/bfs/archive/77a8c3eaa467c7b398a5c1154c80960725c05718.jpg",
           "checked_at": "2026-11-08T18:17:46.767422+00:00",
           "availability": "available"
+        },
+        {
+          "bvid": "BV1ph4y1c7tw",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "我相信美丽和人类尊严是相辅相成的 I The Aesthetic City I This Town Did The Impossible（转载）",
+          "up": "红豚9527",
+          "duration": 808,
+          "original_duration": 808,
+          "cid": 1216453674,
+          "aid": 616562811,
+          "segment_title": "我相信美丽和人类尊严是相辅相成的 I The Aesthetic City I This Town Did The Impossible（转载）",
+          "page_count": 1,
+          "kind": "original",
+          "views": 139,
+          "pic": "https://i2.hdslb.com/bfs/archive/67e2deb727adfd5b5787583c454fa291e1222bfa.jpg",
+          "checked_at": "2026-11-08T18:40:18.053872+00:00",
+          "availability": "available"
         }
       ]
     },
@@ -72323,6 +72346,103 @@
     },
     "YZZV464z9g8": {
       "vid": "YZZV464z9g8",
+      "status": "review",
+      "completed_at": null,
+      "candidates": []
+    },
+    "sforhbLiwLA": {
+      "vid": "sforhbLiwLA",
+      "status": "confirmed",
+      "completed_at": "2026-11-08T18:40:16.306733+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Vs41167e2",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1Vs41167e2",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【巨硬广告】【生肉】鲍尔默卖windows1.0 Steve Ballmer Sells Windows 1.0",
+          "up": "我的节操空空的",
+          "duration": 62,
+          "original_duration": 63,
+          "cid": 9832711,
+          "aid": 6057416,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "original",
+          "views": 2225,
+          "pic": "https://i1.hdslb.com/bfs/archive/dee5ab4f1a83b4da3174238c810d76936b48bf59.png",
+          "checked_at": "2026-11-08T18:40:16.306680+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "YbYWhdLO43Q": {
+      "vid": "YbYWhdLO43Q",
+      "status": "confirmed",
+      "completed_at": "2026-11-08T18:41:34.300151+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1zU4y1v7Mo",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "This Unicorn Changed the Way I Poop - #SquattyPotty",
+          "up": "prvmcd",
+          "duration": 174,
+          "original_duration": 174,
+          "cid": 786574184,
+          "aid": 686463780,
+          "segment_title": "This Unicorn Changed the Way I Poop - #SquattyPotty",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1213,
+          "pic": "https://i1.hdslb.com/bfs/archive/ee16e94a933b5e9a42dfe45cc68fda77d024590e.jpg",
+          "checked_at": "2026-11-08T18:41:32.703887+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "YcjlhFVTY50": {
+      "vid": "YcjlhFVTY50",
+      "status": "review",
+      "completed_at": "2026-11-08T18:42:56.394940+00:00",
+      "candidates": []
+    },
+    "YfJ3QxJYsw8": {
+      "vid": "YfJ3QxJYsw8",
+      "status": "review",
+      "completed_at": "2026-11-08T18:43:55.443511+00:00",
+      "candidates": []
+    },
+    "YlGklt4BSQ8": {
+      "vid": "YlGklt4BSQ8",
+      "status": "review",
+      "completed_at": "2026-11-08T18:45:47.519504+00:00",
+      "candidates": []
+    },
+    "YlVDGmjz7eM": {
+      "vid": "YlVDGmjz7eM",
+      "status": "review",
+      "completed_at": "2026-11-08T18:47:21.404808+00:00",
+      "candidates": []
+    },
+    "YmcK6GvgVPs": {
+      "vid": "YmcK6GvgVPs",
+      "status": "review",
+      "completed_at": "2026-11-08T18:48:19.319590+00:00",
+      "candidates": []
+    },
+    "YpNuh-J5IgE": {
+      "vid": "YpNuh-J5IgE",
       "status": "review",
       "completed_at": null,
       "candidates": []
