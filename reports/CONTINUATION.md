@@ -141,4 +141,4 @@
 
 ## GitHub 用户名变更
 
-2026-11-08，GitHub 账户用户名从 `qinqiang316` 改为 `farmland2049`。GitHub 明确提示旧个人主页与旧 Pages 地址不会自动重定向，仓库网页和 Git 访问会重定向。新的仓库地址为 `https://github.com/farmland2049/youtobili`，新的 Pages 地址为 `https://farmland2049.github.io/youtobili/`。更新前新 Pages 的 `data.json` 已返回HTTP 200，SHA-256 与本地一致；历史 `pages-check-*.json` 保留变更前实际核验的网址，不改写历史证据。本节后的仓库链接、README和页面页脚更新后，仍需推送并重新核验新网址。
+2026-11-08，GitHub 账户用户名从 `qinqiang316` 改为 `farmland2049`。GitHub 明确提示旧个人主页与旧 Pages 地址不会自动重定向，仓库网页和 Git 访问会重定向。新的仓库地址为 `https://github.com/farmland2049/youtobili`，新的 Pages 地址为 `https://farmland2049.github.io/youtobili/`。更新前新 Pages 的 `data.json` 已返回HTTP 200，SHA-256 与本地一致；历史 `pages-check-*.json` 保留变更前实际核验的网址，不改写历史证据。仓库远端已改为 `https://github.com/farmland2049/youtobili.git`；README、AGENTS.md和页面页脚已更新并推送于 `335e3a9c403e2c88c99090d08ee4e0cba48d350d`。Pages 部署运行 `42481999585` 成功；新首页与 `app.js` 返回HTTP 200，页脚GitHub链接指向新仓库。新 Pages `data.json` 返回HTTP 200，SHA-256 `6b7b323ba9d650bd4520858b42c750a32a0261e70716b24cca0c1ee96c33a7b3` 与本地一致，核验详情见 `reports/pages-check-2026-11-08-username-rename.json`。65项单元测试、Node语法检查、桌面/手机15个浏览器场景均通过。GitHub 不为旧 Pages 地址或个人主页设置重定向，已经分享的旧 Pages URL 需要手动更新；历史核验收据保留旧地址原貌。

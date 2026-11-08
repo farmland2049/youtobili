@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-11-08T12:50:01Z",
+  "url": "https://farmland2049.github.io/youtobili/data.json",
+  "http_status": 200,
+  "data_sha256": "6b7b323ba9d650bd4520858b42c750a32a0261e70716b24cca0c1ee96c33a7b3",
+  "stats": {
+    "corpus": 6454,
+    "processed": 5415,
+    "confirmed": 1114
+  },
+  "published_commit": "335e3a9c403e2c88c99090d08ee4e0cba48d350d",
+  "workflow_run_id": 42481999585,
+  "repository_url": "https://github.com/farmland2049/youtobili",
+  "verified_endpoints": [
+    {
+      "url": "https://farmland2049.github.io/youtobili/",
+      "http_status": 200
+    },
+    {
+      "url": "https://farmland2049.github.io/youtobili/app.js",
+      "http_status": 200,
+      "new_github_link": "https://github.com/farmland2049/youtobili"
+    }
+  ],
+  "old_pages_url_redirects": false
+}
