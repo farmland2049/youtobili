@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-08T14:32:30.691179+00:00",
+  "built_at": "2026-11-08T14:44:13.725971+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5498,
-    "confirmed": 1125,
-    "coverage": 0.17431050511310814,
-    "processed_match_rate": 0.2046198617679156
+    "processed": 5505,
+    "confirmed": 1127,
+    "coverage": 0.17462039045553146,
+    "processed_match_rate": 0.2047229791099001
   },
   "areas": [
     {
@@ -37827,6 +37827,41 @@
       ]
     },
     {
+      "id": "V-vFtiDYiIw",
+      "title": "Converting devices to USB Type-C",
+      "author": "DIY Perks",
+      "source_url": "https://www.youtube.com/watch?v=V-vFtiDYiIw",
+      "summary": "DIY Perks shows how to modify devices that use older USB connectors so they charge and connect over USB Type-C. He solders in a USB-C connector board and works through cases such as dongle-dependent gadgets and a mouse receiver.",
+      "why": "Commenters cite it as a well-made, practical example of USB-C conversion when they discuss hacking USB-C into devices.",
+      "score": 1.0,
+      "tags": [
+        "usb-c",
+        "soldering",
+        "diy electronics",
+        "hardware hacking",
+        "adapters"
+      ],
+      "categories": [
+        "embedded-diy-electronics",
+        "repair-teardown",
+        "3d-printing-cnc"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Mf4y1U7zB",
+          "page": 1,
+          "cid": 190303571,
+          "title": "DIY | 自己动手转换现有设备到USB type C接口",
+          "up": "_问天_",
+          "duration": 985,
+          "kind": "original",
+          "views": 18634,
+          "pic": "https://i2.hdslb.com/bfs/archive/3331048da5b9e961fb784a8a8fa1addb786970eb.jpg",
+          "checked_at": "2026-11-08T14:35:01.928943+00:00"
+        }
+      ]
+    },
+    {
       "id": "VkR2hnXR0SM",
       "title": "Blindsight Sci-fi Short Film",
       "author": "Danil Krivoruchko",
@@ -43661,6 +43696,18 @@
           "views": 107,
           "pic": "https://i0.hdslb.com/bfs/archive/f99264ddf2d86f607328ac1571fb61f139927a63.jpg",
           "checked_at": "2026-11-08T14:01:10.297787+00:00"
+        },
+        {
+          "bvid": "BV1du4y147Sa",
+          "page": 1,
+          "cid": 1283647166,
+          "title": "Hitler uses Docker ( 元首吐槽 Docker )",
+          "up": "享阝黑犬",
+          "duration": 230,
+          "kind": "original",
+          "views": 61,
+          "pic": "https://i0.hdslb.com/bfs/archive/c22bc2d2fd24ea59bce3d843e122dd8217e793ff.jpg",
+          "checked_at": "2026-11-08T14:35:00.432390+00:00"
         }
       ]
     },
@@ -43765,6 +43812,40 @@
           "views": 13677,
           "pic": "https://i1.hdslb.com/bfs/archive/7469a8b5dbead7f5944e454572462664b286eab8.jpg",
           "checked_at": "2026-11-08T14:31:13.099189+00:00"
+        }
+      ]
+    },
+    {
+      "id": "RAGcDi0DRtU",
+      "title": "Ismo: Ass Is The Most Complicated Word In The English Language | CONAN on TBS",
+      "author": "Team Coco",
+      "source_url": "https://www.youtube.com/watch?v=RAGcDi0DRtU",
+      "summary": "Finnish comedian Ismo does a stand-up routine on Conan about the many meanings of the English word 'ass'. He riffs on the confusing quirks of English as a second language.",
+      "why": "Mostly posted as a joke or amusing aside in threads about English, language learning, and swearing.",
+      "score": 0.0,
+      "tags": [
+        "stand-up",
+        "english",
+        "esl",
+        "ismo",
+        "wordplay"
+      ],
+      "categories": [
+        "standup-sketch-comedy",
+        "language-linguistics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Yn42zzEiu",
+          "page": 1,
+          "cid": 33042858072,
+          "title": "【Ismo】 Ass Is The Most Complicated Word In The English Language ｜ Ass 是英语中最复杂的单词",
+          "up": "SPEECH演讲译站",
+          "duration": 363,
+          "kind": "original",
+          "views": 312,
+          "pic": "https://i0.hdslb.com/bfs/archive/70fde3f13cd8e1175a19ff7646e5360917f78ecd.jpg",
+          "checked_at": "2026-11-08T14:39:47.343397+00:00"
         }
       ]
     },
@@ -45992,6 +46073,7 @@
     "BV1Uf4y127Nb": "U5kIdtMJGc8",
     "BV1ys41167Nv": "U6xJfP7-HCc",
     "BV1yuHCeGEjb": "UBVV8pch1dM",
+    "BV1Mf4y1U7zB": "V-vFtiDYiIw",
     "BV1xK411A71s": "VkR2hnXR0SM",
     "BV1354y1y7Kw": "VoS7DsT1rdM",
     "BV1nk5RzVEwA": "VplMHWSZf5c",
@@ -46187,9 +46269,11 @@
     "BV1t44y1L7bg": "PI_Jl5WFQkA",
     "BV1SjxYehEhC": "PdFB7q89_3U",
     "BV17v411c7ih": "PivpCKEiQOQ",
+    "BV1du4y147Sa": "PivpCKEiQOQ",
     "BV1Q3411t7BE": "QFgcqB8-AxE",
     "BV1xJ411k7aj": "QRt7LjqJ45k",
     "BV1tx411i7FD": "QrGrOK8oZG8",
+    "BV1Yn42zzEiu": "RAGcDi0DRtU",
     "BV1bcxg6CEGA": "RXeOiIDNNek",
     "BV15ZGQ6BECR": "RZtZia4ZkX8",
     "BV1qm421K7bP": "TGfQu0bQTKc",

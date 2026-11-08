@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T14:32:30.716991+00:00",
+  "updated_at": "2026-11-08T14:44:13.752940+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -60216,9 +60216,34 @@
     },
     "V-vFtiDYiIw": {
       "vid": "V-vFtiDYiIw",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-06T20:44:43.762220+00:00",
-      "candidates": []
+      "candidates": [
+        {
+          "bvid": "BV1Mf4y1U7zB",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1Mf4y1U7zB",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "DIY | 自己动手转换现有设备到USB type C接口",
+          "up": "_问天_",
+          "duration": 985,
+          "original_duration": 985,
+          "cid": 190303571,
+          "aid": 285640690,
+          "segment_title": "Converting devices to USB Type-C",
+          "page_count": 1,
+          "kind": "original",
+          "views": 18634,
+          "pic": "https://i2.hdslb.com/bfs/archive/3331048da5b9e961fb784a8a8fa1addb786970eb.jpg",
+          "checked_at": "2026-11-08T14:35:01.928943+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "V74AxCqOTvg": {
       "vid": "V74AxCqOTvg",
@@ -70523,6 +70548,29 @@
           "pic": "https://i0.hdslb.com/bfs/archive/f99264ddf2d86f607328ac1571fb61f139927a63.jpg",
           "checked_at": "2026-11-08T14:01:10.297787+00:00",
           "availability": "available"
+        },
+        {
+          "bvid": "BV1du4y147Sa",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "Hitler uses Docker ( 元首吐槽 Docker )",
+          "up": "享阝黑犬",
+          "duration": 230,
+          "original_duration": 230,
+          "cid": 1283647166,
+          "aid": 916618572,
+          "segment_title": "Hitler uses Docker ( 元首吐槽 Docker )",
+          "page_count": 1,
+          "kind": "original",
+          "views": 61,
+          "pic": "https://i0.hdslb.com/bfs/archive/c22bc2d2fd24ea59bce3d843e122dd8217e793ff.jpg",
+          "checked_at": "2026-11-08T14:35:00.432390+00:00",
+          "availability": "available"
         }
       ]
     },
@@ -70798,6 +70846,78 @@
     },
     "QtgVxGkrX1Y": {
       "vid": "QtgVxGkrX1Y",
+      "status": "review",
+      "completed_at": null,
+      "candidates": []
+    },
+    "QxtkvG1JnPk": {
+      "vid": "QxtkvG1JnPk",
+      "status": "review",
+      "completed_at": "2026-11-08T14:37:08.566771+00:00",
+      "candidates": []
+    },
+    "QyMsF31NdNc": {
+      "vid": "QyMsF31NdNc",
+      "status": "review",
+      "completed_at": "2026-11-08T14:37:25.730007+00:00",
+      "candidates": []
+    },
+    "R2idkNdKqpQ": {
+      "vid": "R2idkNdKqpQ",
+      "status": "review",
+      "completed_at": "2026-11-08T14:38:06.673763+00:00",
+      "candidates": []
+    },
+    "R706isyDrqI": {
+      "vid": "R706isyDrqI",
+      "status": "review",
+      "completed_at": "2026-11-08T14:39:28.580320+00:00",
+      "candidates": []
+    },
+    "RAGcDi0DRtU": {
+      "vid": "RAGcDi0DRtU",
+      "status": "confirmed",
+      "completed_at": "2026-11-08T14:39:48.908930+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Yn42zzEiu",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【Ismo】 Ass Is The Most Complicated Word In The English Language ｜ Ass 是英语中最复杂的单词",
+          "up": "SPEECH演讲译站",
+          "duration": 363,
+          "original_duration": 363,
+          "cid": 33042858072,
+          "aid": 115366613289116,
+          "segment_title": "【Ismo】 Ass Is The Most Complicated Word In The English Language ｜ Ass 是英语中最复杂的单词",
+          "page_count": 1,
+          "kind": "original",
+          "views": 312,
+          "pic": "https://i0.hdslb.com/bfs/archive/70fde3f13cd8e1175a19ff7646e5360917f78ecd.jpg",
+          "checked_at": "2026-11-08T14:39:47.343397+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "REWeBzGuzCc": {
+      "vid": "REWeBzGuzCc",
+      "status": "review",
+      "completed_at": "2026-11-08T14:41:24.702355+00:00",
+      "candidates": []
+    },
+    "RFO6ZhUW38w": {
+      "vid": "RFO6ZhUW38w",
+      "status": "review",
+      "completed_at": "2026-11-08T14:43:08.366013+00:00",
+      "candidates": []
+    },
+    "RM0uvgHKZe8": {
+      "vid": "RM0uvgHKZe8",
       "status": "review",
       "completed_at": null,
       "candidates": []

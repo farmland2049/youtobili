@@ -163,5 +163,14 @@
 
 构建后共1125张原片卡、1558个确认分P、0个冲突，`data.json` 数据校验、65项单元测试、Node语法检查及桌面/手机15个浏览器场景均通过。
 
+## 2026-11-08 恢复后增量二十
+
+继续执行批次 `serial-20261108T143404Z`。会话启动前由 `drain_identities` 完成2条来源身份线索核验并确认（`PivpCKEiQOQ` 增加版本 `BV1du4y147Sa`，`V-vFtiDYiIw` 确认 `BV1Mf4y1U7zB`）。随后搜索批次串行处理7条（6条待审、1条确认），在第8次尝试 `RM0uvgHKZe8` 时遇到 `RemoteDisconnected` 停止，错误不表示视频失效，该ID已加入本地阻塞清单，累计77条，不自动重试。工作库进度推进至5505/6454，确认增至1127，剩余待处理原片降至948部。
+
+本轮新增确认原片2部：`V-vFtiDYiIw` → `BV1Mf4y1U7zB`（Converting devices to USB Type-C，985秒）、`RAGcDi0DRtU` → `BV1Yn42zzEiu`（Ismo: Ass Is The Most Complicated Word In The English Language，363秒）；并为 `PivpCKEiQOQ` 新增版本 `BV1du4y147Sa`（Hitler uses Docker，230秒）。3条版本均为单P且完整简介含对应原片链接，时长与原片一致。标题元数据复核完成，无集数或衍生冲突；冲突审计0冲突。3个新增版本实播烟测均通过并捕获实际CID与匹配时长，快照哈希与实播结果见 `reports/metadata-review-2026-11-08-resume20.json` 和 `reports/playback-increment-2026-11-08-resume20.json`；未做逐帧比较。
+
+构建后共1127张原片卡、1561个确认分P、0个冲突，`data.json` 数据校验、65项单元测试、Node语法检查及桌面/手机15个浏览器场景均通过。
+
+
 
 

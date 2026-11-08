@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-11-08T14:44:50.815Z",
+  "checks": [
+    {
+      "sample": "V-vFtiDYiIw",
+      "kind": "original",
+      "id": "V-vFtiDYiIw",
+      "bvid": "BV1Mf4y1U7zB",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.95843,
+        "duration": 985,
+        "paused": false
+      },
+      "expected_duration": 985,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "190303571"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "DIY | 自己动手转换现有设备到USB type C接口\n_问天_\n关注\n176\n7\n分享\n更多\n00:04 / 16:25\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "RAGcDi0DRtU",
+      "kind": "original",
+      "id": "RAGcDi0DRtU",
+      "bvid": "BV1Yn42zzEiu",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.967669,
+        "duration": 363,
+        "paused": false
+      },
+      "expected_duration": 363,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "33042858072"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【Ismo】 Ass Is The Most Complicated Word In The English Language ｜ Ass 是英语中最复杂的单词\nSPEECH演讲译站\n关注\n4\n0\n分享\n更多\n00:04 / 06:03\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "PivpCKEiQOQ",
+      "kind": "original",
+      "id": "PivpCKEiQOQ",
+      "bvid": "BV1du4y147Sa",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.95485,
+        "duration": 230,
+        "paused": false
+      },
+      "expected_duration": 230,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1283647166"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Hitler uses Docker ( 元首吐槽 Docker )\n享阝黑犬\n关注\n1\n0\n分享\n更多\n00:04 / 03:50\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}
