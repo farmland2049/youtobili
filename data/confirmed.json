@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T18:02:50.402664+00:00",
+  "updated_at": "2026-11-08T18:06:55.105905+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -67921,9 +67921,34 @@
     },
     "DJklHwoYgBQ": {
       "vid": "DJklHwoYgBQ",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-07T15:52:54.612950+00:00",
-      "candidates": []
+      "candidates": [
+        {
+          "bvid": "BV1GL4y1K7ZS",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1GL4y1K7ZS",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【熟肉制作中】Adult Swim Infomercial - SmartPipe智能下水道",
+          "up": "ZapkinWen",
+          "duration": 662,
+          "original_duration": 662,
+          "cid": 736240093,
+          "aid": 854639115,
+          "segment_title": "格式工厂混流 SMARTPIP",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 120,
+          "pic": "https://i0.hdslb.com/bfs/archive/0ba75bdc16263ac8fcd8310985a17303f5b943e6.jpg",
+          "checked_at": "2026-11-08T18:04:33.390345+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "DNCZHAQnfGU": {
       "vid": "DNCZHAQnfGU",
@@ -72034,6 +72059,12 @@
     },
     "XZmGGAbHqa0": {
       "vid": "XZmGGAbHqa0",
+      "status": "review",
+      "completed_at": null,
+      "candidates": []
+    },
+    "X_8E3ENrKrQ": {
+      "vid": "X_8E3ENrKrQ",
       "status": "review",
       "completed_at": null,
       "candidates": []

@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-11-08T18:07:11.169Z",
+  "checks": [
+    {
+      "sample": "DJklHwoYgBQ",
+      "kind": "sub_zh",
+      "id": "DJklHwoYgBQ",
+      "bvid": "BV1GL4y1K7ZS",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.958155,
+        "duration": 662,
+        "paused": false
+      },
+      "expected_duration": 662,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "736240093"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【熟肉制作中】Adult Swim Infomercial - SmartPipe智能下水道\nZapkinWen\n关注\n6\n1\n分享\n更多\n00:04 / 11:02\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-08T18:02:50.377075+00:00",
+  "built_at": "2026-11-08T18:06:55.080035+00:00",
   "stats": {
     "corpus": 6454,
     "processed": 5663,
-    "confirmed": 1133,
-    "coverage": 0.17555004648280137,
-    "processed_match_rate": 0.20007063393960797
+    "confirmed": 1134,
+    "coverage": 0.175704989154013,
+    "processed_match_rate": 0.20024721878862795
   },
   "areas": [
     {
@@ -42674,6 +42674,40 @@
       ]
     },
     {
+      "id": "DJklHwoYgBQ",
+      "title": "Smart Pipe | Infomercials | Adult Swim",
+      "author": "Adult Swim",
+      "source_url": "https://www.youtube.com/watch?v=DJklHwoYgBQ",
+      "summary": "An Adult Swim infomercial parody for Smart Pipe, a fictional startup that turns toilet waste into data and social connectivity. It satirizes everything-connected tech culture.",
+      "why": "HN posts it as a joke whenever a real smart toilet, IoT gadget or silly startup idea appears, because reality keeps matching the parody.",
+      "score": 0.0,
+      "tags": [
+        "parody",
+        "iot",
+        "smart toilet",
+        "adult swim",
+        "startup culture"
+      ],
+      "categories": [
+        "satire-parody",
+        "startups-entrepreneurship"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1GL4y1K7ZS",
+          "page": 1,
+          "cid": 736240093,
+          "title": "【熟肉制作中】Adult Swim Infomercial - SmartPipe智能下水道",
+          "up": "ZapkinWen",
+          "duration": 662,
+          "kind": "sub_zh",
+          "views": 120,
+          "pic": "https://i0.hdslb.com/bfs/archive/0ba75bdc16263ac8fcd8310985a17303f5b943e6.jpg",
+          "checked_at": "2026-11-08T18:04:33.390345+00:00"
+        }
+      ]
+    },
+    {
       "id": "DxREm3s1scA",
       "title": "Elon Musk: SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI | Lex Fridman Podcast #252",
       "author": "Lex Fridman",
@@ -46440,6 +46474,7 @@
     "BV1uc411H7aT": "C_78DM8fG6E",
     "BV1bbaT6EETt": "CzwtCBj5jEs",
     "BV1Dx411V7Ut": "D2SoGHFM18I",
+    "BV1GL4y1K7ZS": "DJklHwoYgBQ",
     "BV15WHf67Ebf": "DxREm3s1scA",
     "BV1CwEi6pErc": "EIyixC9NsLI",
     "BV15LpMzREhR": "ErwS24cBZPc",
