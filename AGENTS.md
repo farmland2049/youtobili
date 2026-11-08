@@ -13,8 +13,8 @@
 
 ## 入口与当前状态
 
-- 仓库：https://github.com/qinqiang316/youtobili ，默认分支 `main`。
-- 网站：https://qinqiang316.github.io/youtobili/ ，GitHub Pages 静态托管。
+- 仓库：https://github.com/farmland2049/youtobili ，默认分支 `main`。
+- 网站：https://farmland2049.github.io/youtobili/ ，GitHub Pages 静态托管。
 - 操作入口：`README.md` → `docs/WORKFLOW.md`。
 - 最新统计：`reports/STATUS.md`、`reports/publication.json`；搜索当前状态：`reports/SEARCH-RECOVERY.md`；最新内容验证边界：`reports/CONTINUATION.md`；首版历史验收：`reports/ACCEPTANCE.md`。
 - 初始线上版本基线：`65dfbd6e285e8f793f369b4107281cdc11ef6a03`。

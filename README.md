@@ -2,7 +2,7 @@
 
 从 HackerTube 发现好视频，在 B 站接着看。面向国内用户，只展示经过对应关系核验的 B 站版本；未匹配、存疑和失效条目隐藏。
 
-**[访问网站](https://qinqiang316.github.io/youtobili/)** · [批次与覆盖率](reports/STATUS.md) · [最新增量验收](reports/CONTINUATION.md) · [操作说明](docs/WORKFLOW.md)
+**[访问网站](https://farmland2049.github.io/youtobili/)** · [批次与覆盖率](reports/STATUS.md) · [最新增量验收](reports/CONTINUATION.md) · [操作说明](docs/WORKFLOW.md)
 
 ## 本地预览
 
