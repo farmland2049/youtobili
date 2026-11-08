@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-08T14:44:13.725971+00:00",
+  "built_at": "2026-11-08T15:49:08.013903+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5505,
-    "confirmed": 1127,
-    "coverage": 0.17462039045553146,
-    "processed_match_rate": 0.2047229791099001
+    "processed": 5555,
+    "confirmed": 1130,
+    "coverage": 0.17508521846916641,
+    "processed_match_rate": 0.20342034203420342
   },
   "areas": [
     {
@@ -43920,6 +43920,107 @@
       ]
     },
     {
+      "id": "Sq1QZB5baNw",
+      "title": "Figure Status Update - OpenAI Speech-to-Speech Reasoning",
+      "author": "Figure",
+      "source_url": "https://www.youtube.com/watch?v=Sq1QZB5baNw",
+      "summary": "A short status-update demo from Figure showing its humanoid robot using OpenAI-powered speech-to-speech reasoning to converse and perform tasks.",
+      "why": "Mostly cited as an example of the state of LLM-controlled robots, with some skepticism that it is a polished demo video.",
+      "score": 0.0,
+      "tags": [
+        "figure",
+        "openai",
+        "humanoid robot",
+        "speech-to-speech",
+        "robotics demo"
+      ],
+      "categories": [
+        "robotics",
+        "llms-generative-ai"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Hx421C7wj",
+          "page": 1,
+          "cid": 1469203427,
+          "title": "Figure Status Update - OpenAI Speech-to-Speech Reasoning",
+          "up": "悠VS尚",
+          "duration": 155,
+          "kind": "original",
+          "views": 1009,
+          "pic": "https://i0.hdslb.com/bfs/archive/f8566231ccaa87a953fdaea97b2a760b7b50aa85.jpg",
+          "checked_at": "2026-11-08T15:36:55.921420+00:00"
+        }
+      ]
+    },
+    {
+      "id": "SyD4p8_y8Kw",
+      "title": "Hitler Learns Topology",
+      "author": "Benjatastic",
+      "source_url": "https://www.youtube.com/watch?v=SyD4p8_y8Kw",
+      "summary": "A parody in the Downfall meme format where Hitler rages over confusing topology terminology about open, closed and clopen sets. It was made for a math summer program.",
+      "why": "Used as a joke reference to illustrate frustration with confusing mathematical jargon.",
+      "score": 0.0,
+      "tags": [
+        "topology",
+        "open and closed sets",
+        "math jargon",
+        "parody"
+      ],
+      "categories": [
+        "satire-parody",
+        "pure-mathematics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1vB4y197MB",
+          "page": 1,
+          "cid": 724316809,
+          "title": "Hitler Learns Topology",
+          "up": "Jacksbairok",
+          "duration": 230,
+          "kind": "original",
+          "views": 75,
+          "pic": "https://i2.hdslb.com/bfs/archive/c88c5ff8dc7519e27fbba36e86473e6041cc62a4.jpg",
+          "checked_at": "2026-11-08T15:37:43.699893+00:00"
+        }
+      ]
+    },
+    {
+      "id": "TDkH3EbWTYc",
+      "title": "Perfectly Replicating Coca Cola (It Took Me A Year)",
+      "author": "LabCoatz",
+      "source_url": "https://www.youtube.com/watch?v=TDkH3EbWTYc",
+      "summary": "LabCoatz uses mass spectrometry, with help from other science YouTubers, to reverse engineer the Coca-Cola flavor and builds a chemically-identical replica. The video walks through a year of work on the formula.",
+      "why": "HN mostly cites it as a notable example of reverse engineering a famously secret formula, not as a recommendation.",
+      "score": 0.0,
+      "tags": [
+        "coca-cola",
+        "mass spectrometry",
+        "chemistry",
+        "reverse engineering",
+        "soft drinks"
+      ],
+      "categories": [
+        "chemistry",
+        "cooking-food"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1bv62BjEBr",
+          "page": 1,
+          "cid": 35302277799,
+          "title": "Perfectly Replicating Coca Cola (It Took Me A Year) [生肉]",
+          "up": "ABouncyMi",
+          "duration": 1556,
+          "kind": "original",
+          "views": 10,
+          "pic": "https://i0.hdslb.com/bfs/archive/8de509536c05f055ebcafdd01989b769038befa9.jpg",
+          "checked_at": "2026-11-08T15:40:37.365413+00:00"
+        }
+      ]
+    },
+    {
       "id": "TGfQu0bQTKc",
       "title": "Interview with Senior Rust Developer",
       "author": "Kai Lentit",
@@ -46276,6 +46377,9 @@
     "BV1Yn42zzEiu": "RAGcDi0DRtU",
     "BV1bcxg6CEGA": "RXeOiIDNNek",
     "BV15ZGQ6BECR": "RZtZia4ZkX8",
+    "BV1Hx421C7wj": "Sq1QZB5baNw",
+    "BV1vB4y197MB": "SyD4p8_y8Kw",
+    "BV1bv62BjEBr": "TDkH3EbWTYc",
     "BV1qm421K7bP": "TGfQu0bQTKc",
     "BV1q54y147ZJ": "U_o8gerare0",
     "BV1Vq4y1H7Ro": "YIWV5fSaUB8",

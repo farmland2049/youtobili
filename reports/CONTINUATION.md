@@ -171,6 +171,15 @@
 
 构建后共1127张原片卡、1561个确认分P、0个冲突，`data.json` 数据校验、65项单元测试、Node语法检查及桌面/手机15个浏览器场景均通过。
 
+## 2026-11-08 恢复后增量二十一
+
+继续执行批次 `serial-20261108T144536Z`。启动前由 `drain_identities` 完成3条合集与时长线索核验（3条均待审）。随后搜索批次完整串行处理50条（47条待审、3条确认），0请求错误、0网络中断。工作库进度推进至5555/6454，确认增至1130，剩余待处理原片降至899部。
+
+本轮新增确认原片3部：`Sq1QZB5baNw` → `BV1Hx421C7wj`（Figure Status Update - OpenAI Speech-to-Speech Reasoning，155秒）、`SyD4p8_y8Kw` → `BV1vB4y197MB`（Hitler Learns Topology，230秒）、`TDkH3EbWTYc` → `BV1bv62BjEBr`（Perfectly Replicating Coca Cola (It Took Me A Year)，1556秒）。3条版本均为单P且完整简介含对应原片链接，时长与原片一致。标题元数据复核完成，无集数或衍生冲突；冲突审计0冲突。3个新增版本实播烟测均通过并捕获实际CID与匹配时长，快照哈希与实播结果见 `reports/metadata-review-2026-11-08-resume21.json` 和 `reports/playback-increment-2026-11-08-resume21.json`；未做逐帧比较。
+
+构建后共1130张原片卡、1564个确认分P、0个冲突，`data.json` 数据校验、65项单元测试、Node语法检查及桌面/手机15个浏览器场景均通过。
+
+
 
 
 

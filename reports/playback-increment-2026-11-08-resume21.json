@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-11-08T15:49:37.833Z",
+  "checks": [
+    {
+      "sample": "Sq1QZB5baNw",
+      "kind": "original",
+      "id": "Sq1QZB5baNw",
+      "bvid": "BV1Hx421C7wj",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.886545,
+        "duration": 155,
+        "paused": false
+      },
+      "expected_duration": 155,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1469203427"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Figure Status Update - OpenAI Speech-to-Speech Reasoning\n悠VS尚\n关注\n15\n7\n分享\n更多\n00:04 / 02:35\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "SyD4p8_y8Kw",
+      "kind": "original",
+      "id": "SyD4p8_y8Kw",
+      "bvid": "BV1vB4y197MB",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.950823,
+        "duration": 230,
+        "paused": false
+      },
+      "expected_duration": 230,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "724316809"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Hitler Learns Topology\nJacksbairok\n关注\n2\n0\n分享\n更多\n00:04 / 03:50\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "TDkH3EbWTYc",
+      "kind": "original",
+      "id": "TDkH3EbWTYc",
+      "bvid": "BV1bv62BjEBr",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.166546,
+        "duration": 1556,
+        "paused": false
+      },
+      "expected_duration": 1556,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "35302277799"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Perfectly Replicating Coca Cola (It Took Me A Year) [生肉]\nABouncyMi\n关注\n0\n0\n分享\n更多\n00:05 / 25:56\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}
