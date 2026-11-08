@@ -227,6 +227,20 @@
 
 构建后共1140张原片卡、1575个确认分P、0个冲突，`data.json` 数据校验、65项单元测试、Node语法检查及桌面/手机15个浏览器场景均通过。
 
+## 2026-11-08 恢复后增量三十
+
+继续执行批次 `serial-20261108T185204Z`。搜索批次串行完整处理50条（47条待审、3条确认），0错误。工作库进度推进至5746/6454，确认增至1143，剩余待处理原片降至708部。
+
+本轮新增确认原片3部（共4个确认分P）：
+- `ZXsQAXx_ao0` → `BV1QW411g7r1`（Shia LaBeouf "Just Do It" Motivational Speech，65秒 vs 64秒）
+- `ZzCegQVljdY` → `BV1ME411P7wY`（Inequality: Why are the rich getting richer?，181秒 vs 182秒）
+- `bZe5J8SVCYQ` → `BV1os4y1K7i7`、`BV1P5411878N`（The Missile Knows Where It Is...，100秒 vs 101秒）
+
+4条版本均为单P且完整简介含对应原片链接，时长与原片一致。标题元数据复核完成，无集数或衍生冲突；冲突审计0冲突。3部新增原片实播烟测均通过并捕获实际CID与匹配时长，快照哈希与实播结果见 `reports/metadata-review-2026-11-08-resume30.json` 和 `reports/playback-increment-2026-11-08-resume30.json`；未做逐帧比较。
+
+构建后共1143张原片卡、1579个确认分P、0个冲突，`data.json` 数据校验、65项单元测试、Node语法检查及桌面/手机15个浏览器场景均通过。
+
+
 
 
 ## 2026-11-08 恢复后增量二十七

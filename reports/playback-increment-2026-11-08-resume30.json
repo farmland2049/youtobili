@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-11-08T19:52:26.854Z",
+  "checks": [
+    {
+      "sample": "ZXsQAXx_ao0",
+      "kind": "original",
+      "id": "ZXsQAXx_ao0",
+      "bvid": "BV1QW411g7r1",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.774393,
+        "duration": 65,
+        "paused": false
+      },
+      "expected_duration": 64,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "34790167"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Shia LaBeouf _Just Do It_ Motivational Speech\n香蕉牛奶罐\n关注\n27\n6\n分享\n更多\n00:04 / 01:05\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "ZzCegQVljdY",
+      "kind": "sub_zh",
+      "id": "ZzCegQVljdY",
+      "bvid": "BV1ME411P7wY",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.209685,
+        "duration": 180.847,
+        "paused": false
+      },
+      "expected_duration": 182,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "167341209"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Ep5【双语】-- 为何富者更富-Inequality Why are the rich getting richer\nfortyWon\n关注\n1\n0\n分享\n更多\n00:05 / 03:01\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "bZe5J8SVCYQ",
+      "kind": "original",
+      "id": "bZe5J8SVCYQ",
+      "bvid": "BV1os4y1K7i7",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.951842,
+        "duration": 99.799,
+        "paused": false
+      },
+      "expected_duration": 101,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1137266896"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "The missile knows where it is……\n姬川岗坂\n关注\n4661\n316\n分享\n更多\n00:04 / 01:40\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

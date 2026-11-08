@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-08T18:50:46.052925+00:00",
+  "built_at": "2026-11-08T19:51:21.637058+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5695,
-    "confirmed": 1140,
-    "coverage": 0.1766346451812829,
-    "processed_match_rate": 0.20017559262510976
+    "processed": 5746,
+    "confirmed": 1143,
+    "coverage": 0.17709947319491787,
+    "processed_match_rate": 0.1989209885137487
   },
   "areas": [
     {
@@ -44441,6 +44441,74 @@
       ]
     },
     {
+      "id": "ZXsQAXx_ao0",
+      "title": "Shia LaBeouf \"Just Do It\" Motivational Speech (Original Video by LaBeouf, Rönkkö & Turner)",
+      "author": "MotivaShian",
+      "source_url": "https://www.youtube.com/watch?v=ZXsQAXx_ao0",
+      "summary": "A one-minute motivational clip from the art piece #INTRODUCTIONS in which Shia LaBeouf shouts \"Just Do It\" in front of a green screen. It spawned many remixes.",
+      "why": "HN mostly uses it as a joke or meme reply to questions about motivation and procrastination, and as the source of a widely remixed clip.",
+      "score": 0.0,
+      "tags": [
+        "shia labeouf",
+        "just do it",
+        "meme",
+        "motivation",
+        "green screen"
+      ],
+      "categories": [
+        "internet-culture",
+        "productivity-self-improvement"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1QW411g7r1",
+          "page": 1,
+          "cid": 34790167,
+          "title": "Shia LaBeouf _Just Do It_ Motivational Speech",
+          "up": "香蕉牛奶罐",
+          "duration": 64,
+          "kind": "original",
+          "views": 1670,
+          "pic": "https://i0.hdslb.com/bfs/archive/dc1fc9aad3fe9eb10a59549272563abdd2a89b5a.jpg",
+          "checked_at": "2026-11-08T19:11:38.996157+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ZzCegQVljdY",
+      "title": "Inequality: Why are the rich getting richer?",
+      "author": "Positive Money UK",
+      "source_url": "https://www.youtube.com/watch?v=ZzCegQVljdY",
+      "summary": "A three-minute Positive Money UK explainer arguing that the commercial banking system, where banks create most money as debt, redistributes income from the bottom 90 percent to the top 10 percent through interest.",
+      "why": "HN commenters mostly drop it as a reference on money creation and public banking, in threads about banks, rentier economics and monetary reform.",
+      "score": 0.0,
+      "tags": [
+        "positive money",
+        "banking",
+        "money creation",
+        "inequality",
+        "monetary reform"
+      ],
+      "categories": [
+        "labor-work-wealth",
+        "macroeconomics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ME411P7wY",
+          "page": 1,
+          "cid": 167341209,
+          "title": "Ep5【双语】-- 为何富者更富-Inequality Why are the rich getting richer",
+          "up": "fortyWon",
+          "duration": 182,
+          "kind": "sub_zh",
+          "views": 94,
+          "pic": "https://i0.hdslb.com/bfs/archive/432787d46754952e82f3df2194c1b2cb36141cc9.jpg",
+          "checked_at": "2026-11-08T19:22:02.198951+00:00"
+        }
+      ]
+    },
+    {
       "id": "_K-L9uhsBLM",
       "title": "Kevin's Small Talk - The Office US",
       "author": "The Office",
@@ -44516,6 +44584,52 @@
           "views": 2331,
           "pic": "https://i2.hdslb.com/bfs/archive/1dd22f54387ab07cefa717802f83df091e5556da.jpg",
           "checked_at": "2026-11-07T05:27:50.813578+00:00"
+        }
+      ]
+    },
+    {
+      "id": "bZe5J8SVCYQ",
+      "title": "The Missile Knows Where It Is...",
+      "author": "Jeff7181",
+      "source_url": "https://www.youtube.com/watch?v=bZe5J8SVCYQ",
+      "summary": "A short clip of the famous Hitchhiker-style circular narration of a missile guidance system explaining how it knows where it is by knowing where it isn't. It is a deadpan bit of technical-sounding absurdity about subtraction and navigation.",
+      "why": "HN commenters post it as an obligatory joke reply whenever threads touch on missiles, GPS, or circular reasoning.",
+      "score": 0.0,
+      "tags": [
+        "missile guidance",
+        "gps",
+        "navigation",
+        "technical humor",
+        "meme"
+      ],
+      "categories": [
+        "satire-parody",
+        "standup-sketch-comedy"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1os4y1K7i7",
+          "page": 1,
+          "cid": 1137266896,
+          "title": "The missile knows where it is……",
+          "up": "姬川岗坂",
+          "duration": 101,
+          "kind": "original",
+          "views": 157936,
+          "pic": "https://i1.hdslb.com/bfs/archive/9b840e993a4672e9ce9242a46849258082727e2e.jpg",
+          "checked_at": "2026-11-08T19:49:38.844149+00:00"
+        },
+        {
+          "bvid": "BV1P5411878N",
+          "page": 1,
+          "cid": 237487675,
+          "title": "The Missile Knows Where It Is...",
+          "up": "散装咸魚",
+          "duration": 101,
+          "kind": "original",
+          "views": 5703,
+          "pic": "https://i2.hdslb.com/bfs/archive/3ca589b4550c0d5f179618c2fe3eead6f86f4b7c.jpg",
+          "checked_at": "2026-11-08T19:49:40.509898+00:00"
         }
       ]
     },
@@ -46746,9 +46860,13 @@
     "BV1Vq4y1H7Ro": "YIWV5fSaUB8",
     "BV1Ga4y1J7EM": "YScIPA8RbVE",
     "BV1zU4y1v7Mo": "YbYWhdLO43Q",
+    "BV1QW411g7r1": "ZXsQAXx_ao0",
+    "BV1ME411P7wY": "ZzCegQVljdY",
     "BV1hv41117Th": "_K-L9uhsBLM",
     "BV1WJ411u71d": "_sBBaNYex3E",
     "BV1VJ411u7Hk": "_sBBaNYex3E",
+    "BV1os4y1K7i7": "bZe5J8SVCYQ",
+    "BV1P5411878N": "bZe5J8SVCYQ",
     "BV1Mb4y1U7Zz": "dk3oc1Hr62g",
     "BV1NVbYzREMr": "dtjb2OhEQcU",
     "BV1Ko4y1Z7ee": "fn3KWM1kuAw",
