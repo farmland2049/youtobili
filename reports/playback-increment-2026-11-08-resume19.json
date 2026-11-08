@@ -1,0 +1,110 @@
+{
+  "checked_at": "2026-11-08T14:33:10.228Z",
+  "checks": [
+    {
+      "sample": "PI_Jl5WFQkA",
+      "kind": "original",
+      "id": "PI_Jl5WFQkA",
+      "bvid": "BV1t44y1L7bg",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.764378,
+        "duration": 88,
+        "paused": false
+      },
+      "expected_duration": 88,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "490316002"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【洗脑广告】The Simpsons - Canyonero\n44363543538_bili\n关注\n9\n0\n分享\n更多\n00:04 / 01:28\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "PivpCKEiQOQ",
+      "kind": "original",
+      "id": "PivpCKEiQOQ",
+      "bvid": "BV17v411c7ih",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.331683,
+        "duration": 230,
+        "paused": false
+      },
+      "expected_duration": 230,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1336499904"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "元首用Docker - Hitler uses Docker\nDoorWayy\n关注\n2\n2\n分享\n更多\n00:05 / 03:50\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "QFgcqB8-AxE",
+      "kind": "original",
+      "id": "QFgcqB8-AxE",
+      "bvid": "BV1Q3411t7BE",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.940202,
+        "duration": 32,
+        "paused": false
+      },
+      "expected_duration": 32,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "448872103"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "but the people are retarded\nJed_Toastie\n关注\n126\n21\n分享\n更多\n00:04 / 00:32\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "QRt7LjqJ45k",
+      "kind": "original",
+      "id": "QRt7LjqJ45k",
+      "bvid": "BV1xJ411k7aj",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.949395,
+        "duration": 1270,
+        "paused": false
+      },
+      "expected_duration": 1270,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "135829922"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Veritasium: How to Slow Aging (and even reverse it) 怎样减缓衰老(甚至反转衰老)\nrbecq\n关注\n4\n2\n分享\n更多\n00:04 / 21:10\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "QrGrOK8oZG8",
+      "kind": "original",
+      "id": "QrGrOK8oZG8",
+      "bvid": "BV1tx411i7FD",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.94683,
+        "duration": 672,
+        "paused": false
+      },
+      "expected_duration": 672,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "20504421"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【神作?/超有病系列】欢乐满屋~温馨家庭喜剧，噢不......我到底看了什么！【打码版】【翻译By B.C.】\n绝对欢乐\n关注\n150\n41\n分享\n更多\n00:04 / 11:12\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

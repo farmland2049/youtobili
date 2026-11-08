@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-08T13:43:14.243526+00:00",
+  "built_at": "2026-11-08T14:32:30.691179+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5450,
-    "confirmed": 1120,
-    "coverage": 0.1735357917570499,
-    "processed_match_rate": 0.20550458715596331
+    "processed": 5498,
+    "confirmed": 1125,
+    "coverage": 0.17431050511310814,
+    "processed_match_rate": 0.2046198617679156
   },
   "areas": [
     {
@@ -43564,6 +43564,40 @@
       ]
     },
     {
+      "id": "PI_Jl5WFQkA",
+      "title": "The Simpsons - Canyonero",
+      "author": "Waluigi",
+      "source_url": "https://www.youtube.com/watch?v=PI_Jl5WFQkA",
+      "summary": "The Canyonero song from The Simpsons episode The Last Temptation of Krust, a jingle parodying oversized SUV marketing.",
+      "why": "HN invokes it as a joke whenever large SUVs, trucks or the Cybertruck come up.",
+      "score": 0.0,
+      "tags": [
+        "the simpsons",
+        "canyonero",
+        "suv",
+        "satire",
+        "jingle"
+      ],
+      "categories": [
+        "satire-parody",
+        "film-tv-clips"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1t44y1L7bg",
+          "page": 1,
+          "cid": 490316002,
+          "title": "【洗脑广告】The Simpsons - Canyonero",
+          "up": "44363543538_bili",
+          "duration": 88,
+          "kind": "original",
+          "views": 337,
+          "pic": "https://i0.hdslb.com/bfs/archive/3c22b875e06c644d72a38efc28625f0b33cf0640.jpg",
+          "checked_at": "2026-11-08T13:53:14.648166+00:00"
+        }
+      ]
+    },
+    {
       "id": "PdFB7q89_3U",
       "title": "Louis CK Everything is amazing & Nobody is happy",
       "author": "Marjo Duiveman",
@@ -43594,6 +43628,143 @@
           "views": 193,
           "pic": "https://i2.hdslb.com/bfs/archive/0a27c95819dd89f568c9bbb6932c84edeaf2f9bb.jpg",
           "checked_at": "2026-11-07T05:27:47.755869+00:00"
+        }
+      ]
+    },
+    {
+      "id": "PivpCKEiQOQ",
+      "title": "Hitler uses Docker",
+      "author": "nukemtube",
+      "source_url": "https://www.youtube.com/watch?v=PivpCKEiQOQ",
+      "summary": "A Downfall parody in which Hitler rages about Docker problems. It is a short comedy sketch aimed at developers.",
+      "why": "Posted as a running joke whenever Docker, containers or frustrating software come up, not as something to learn from.",
+      "score": 0.0,
+      "tags": [
+        "downfall parody",
+        "docker",
+        "devops humor",
+        "meme"
+      ],
+      "categories": [
+        "satire-parody",
+        "cloud-devops-sre"
+      ],
+      "versions": [
+        {
+          "bvid": "BV17v411c7ih",
+          "page": 1,
+          "cid": 1336499904,
+          "title": "元首用Docker - Hitler uses Docker",
+          "up": "DoorWayy",
+          "duration": 230,
+          "kind": "original",
+          "views": 107,
+          "pic": "https://i0.hdslb.com/bfs/archive/f99264ddf2d86f607328ac1571fb61f139927a63.jpg",
+          "checked_at": "2026-11-08T14:01:10.297787+00:00"
+        }
+      ]
+    },
+    {
+      "id": "QFgcqB8-AxE",
+      "title": "…but the people are retarded",
+      "author": "Kazwire",
+      "source_url": "https://www.youtube.com/watch?v=QFgcqB8-AxE",
+      "summary": "A one-minute clip of Osho making a remark about people, posted with a long description explaining who he is. It is mostly a meme clip.",
+      "why": "Linked by commenters as a reaction or meme reference in unrelated threads, with little explanation.",
+      "score": 0.0,
+      "tags": [
+        "osho",
+        "meme",
+        "spirituality",
+        "viral clip"
+      ],
+      "categories": [
+        "internet-culture",
+        "religion-belief"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Q3411t7BE",
+          "page": 1,
+          "cid": 448872103,
+          "title": "but the people are retarded",
+          "up": "Jed_Toastie",
+          "duration": 32,
+          "kind": "original",
+          "views": 7444,
+          "pic": "https://i1.hdslb.com/bfs/archive/628ed595ca3b3bfd6c947095531f2326dd824889.jpg",
+          "checked_at": "2026-11-08T14:17:05.204071+00:00"
+        }
+      ]
+    },
+    {
+      "id": "QRt7LjqJ45k",
+      "title": "How to Slow Aging (and even reverse it)",
+      "author": "Veritasium",
+      "source_url": "https://www.youtube.com/watch?v=QRt7LjqJ45k",
+      "summary": "Veritasium presents David Sinclair's information theory of aging, which says aging is a loss of epigenetic information, and the evidence that aging can be slowed or reversed. It touches on stressors like fasting, exercise and cold exposure.",
+      "why": "HN references it as the source of ideas like cold exposure and body stress for longevity, though some commenters criticize its claims as overreaching.",
+      "score": 0.0,
+      "tags": [
+        "aging",
+        "david sinclair",
+        "epigenetics",
+        "longevity",
+        "cold exposure",
+        "veritasium"
+      ],
+      "categories": [
+        "fitness-sleep-longevity",
+        "medicine-disease",
+        "evolution-genetics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1xJ411k7aj",
+          "page": 1,
+          "cid": 135829922,
+          "title": "Veritasium: How to Slow Aging (and even reverse it) 怎样减缓衰老(甚至反转衰老)",
+          "up": "rbecq",
+          "duration": 1270,
+          "kind": "original",
+          "views": 292,
+          "pic": "https://i1.hdslb.com/bfs/archive/11399f10c272d85451557acef0edf485c1fa5c9b.jpg",
+          "checked_at": "2026-11-08T14:20:53.256130+00:00"
+        }
+      ]
+    },
+    {
+      "id": "QrGrOK8oZG8",
+      "title": "Too Many Cooks | Adult Swim",
+      "author": "Adult Swim",
+      "source_url": "https://www.youtube.com/watch?v=QrGrOK8oZG8",
+      "summary": "Too Many Cooks is an Adult Swim absurdist parody of sitcom opening credits that spirals into a surreal horror comedy. It runs about eleven minutes.",
+      "why": "HN mentions it mostly as a joke or pop-culture reference, and as a famous YouTube oddity with its own CSS selector.",
+      "score": 0.0,
+      "tags": [
+        "adult swim",
+        "parody",
+        "sitcom",
+        "surreal comedy",
+        "viral video"
+      ],
+      "categories": [
+        "satire-parody",
+        "standup-sketch-comedy",
+        "internet-culture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1tx411i7FD",
+          "page": 1,
+          "cid": 20504421,
+          "title": "【神作?/超有病系列】欢乐满屋~温馨家庭喜剧，噢不......我到底看了什么！【打码版】【翻译By B.C.】",
+          "up": "绝对欢乐",
+          "duration": 672,
+          "kind": "original",
+          "views": 13677,
+          "pic": "https://i1.hdslb.com/bfs/archive/7469a8b5dbead7f5944e454572462664b286eab8.jpg",
+          "checked_at": "2026-11-08T14:31:13.099189+00:00"
         }
       ]
     },
@@ -46013,7 +46184,12 @@
     "BV1Fd4y1c7Ti": "N5xfBtD6rLY",
     "BV1bh41117j6": "N9qYF9DZPdw",
     "BV15t411w7rX": "PF7EpEnglgk",
+    "BV1t44y1L7bg": "PI_Jl5WFQkA",
     "BV1SjxYehEhC": "PdFB7q89_3U",
+    "BV17v411c7ih": "PivpCKEiQOQ",
+    "BV1Q3411t7BE": "QFgcqB8-AxE",
+    "BV1xJ411k7aj": "QRt7LjqJ45k",
+    "BV1tx411i7FD": "QrGrOK8oZG8",
     "BV1bcxg6CEGA": "RXeOiIDNNek",
     "BV15ZGQ6BECR": "RZtZia4ZkX8",
     "BV1qm421K7bP": "TGfQu0bQTKc",

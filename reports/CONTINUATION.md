@@ -155,4 +155,13 @@
 
 继续执行批次 `serial-20261108T132559Z`。搜索批次串行处理15条（全部待审），在第16次尝试 `OobLb1McxnI` 时遇到 `URLError` 停止；错误不表示视频失效，该ID已加入本地阻塞清单，累计75条，不自动重试。工作库进度推进至5450/6454，确认保持1120，剩余待处理原片降至1004部。数据校验、65项单元测试、桌面/手机15个浏览器场景均通过。
 
+## 2026-11-08 恢复后增量十九
+
+继续执行批次 `serial-20261108T134502Z`。搜索批次串行处理48条，其中43条待审、5条确认；在第49次尝试 `QtgVxGkrX1Y` 时遇到 `URLError` 停止，错误不表示视频失效，该ID已加入本地阻塞清单，累计76条，不自动重试。工作库进度推进至5498/6454，确认增至1125，剩余待处理原片降至956部。
+
+新增确认原片5部：`PI_Jl5WFQkA` → `BV1t44y1L7bg`（The Simpsons - Canyonero，88秒）、`PivpCKEiQOQ` → `BV17v411c7ih`（Hitler uses Docker，230秒）、`QFgcqB8-AxE` → `BV1Q3411t7BE`（…but the people are retarded，32秒）、`QRt7LjqJ45k` → `BV1xJ411k7aj`（How to Slow Aging (and even reverse it)，1270秒）、`QrGrOK8oZG8` → `BV1tx411i7FD`（Too Many Cooks | Adult Swim，672秒）。5条均为单P且完整简介含对应原片链接，时长与原片一致。标题元数据复核完成，无集数或衍生冲突；冲突审计0冲突。5部新增原片实播烟测均通过并捕获实际CID与匹配时长，快照哈希与实播结果见 `reports/metadata-review-2026-11-08-resume19.json` 和 `reports/playback-increment-2026-11-08-resume19.json`；未做逐帧比较。
+
+构建后共1125张原片卡、1558个确认分P、0个冲突，`data.json` 数据校验、65项单元测试、Node语法检查及桌面/手机15个浏览器场景均通过。
+
+
 
