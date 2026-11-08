@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-08T21:00:08.183763+00:00",
+  "built_at": "2026-11-08T21:16:40.320993+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5800,
-    "confirmed": 1149,
-    "coverage": 0.1780291292221878,
-    "processed_match_rate": 0.19810344827586207
+    "processed": 5813,
+    "confirmed": 1152,
+    "coverage": 0.17849395723582276,
+    "processed_match_rate": 0.19817650094615516
   },
   "areas": [
     {
@@ -44828,6 +44828,108 @@
       ]
     },
     {
+      "id": "buqtdpuZxvk",
+      "title": "Galaxy Song - Monty Python's The Meaning of Life",
+      "author": "Monty Python",
+      "source_url": "https://www.youtube.com/watch?v=buqtdpuZxvk",
+      "summary": "The Galaxy Song from Monty Python's The Meaning of Life, a comic musical tour of the size and motion of the galaxy and our place in it.",
+      "why": "HN people drop it as a joke in threads about stars, galaxies, and cosmic scale.",
+      "score": 0.0,
+      "tags": [
+        "monty python",
+        "galaxy",
+        "song",
+        "british comedy",
+        "astronomy"
+      ],
+      "categories": [
+        "music-performance",
+        "standup-sketch-comedy",
+        "film-tv-clips"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Qx411R7NW",
+          "page": 1,
+          "cid": 99365721,
+          "title": "Galaxy Song - Monty Python 's The Meaning of Life",
+          "up": "通风道",
+          "duration": 164,
+          "kind": "original",
+          "views": 753,
+          "pic": "https://i1.hdslb.com/bfs/archive/2742c36ab8a01284678973ea212192f119f58baf.jpg",
+          "checked_at": "2026-11-08T21:10:46.517450+00:00"
+        }
+      ]
+    },
+    {
+      "id": "bx_LGilOuE4",
+      "title": "Jujutsu: A Git-Compatible VCS - Git Merge 2022",
+      "author": "GitHub",
+      "source_url": "https://www.youtube.com/watch?v=bx_LGilOuE4",
+      "summary": "Martin von Zweigbergk presents Jujutsu (jj), a Git-compatible VCS with undo, anonymous branches, first-class conflicts, automatic rebasing, and the working copy as a commit. He also covers plans at Google.",
+      "why": "HN links it as the canonical talk on Jujutsu's design, especially conflict handling.",
+      "score": 0.0,
+      "tags": [
+        "jujutsu",
+        "git",
+        "first-class conflicts",
+        "dvcs",
+        "git merge"
+      ],
+      "categories": [
+        "testing-debugging-tools"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1vaYBe3E8X",
+          "page": 1,
+          "cid": 500001647454655,
+          "title": "Jujutsu: A Git-Compatible VCS - Git Merge 2022",
+          "up": "nekolabs",
+          "duration": 2006,
+          "kind": "original",
+          "views": 338,
+          "pic": "https://i0.hdslb.com/bfs/archive/9c874215b054b59da23a8d138f697b24ec06e1b0.jpg",
+          "checked_at": "2026-11-08T21:10:57.595278+00:00"
+        }
+      ]
+    },
+    {
+      "id": "bzE-IMaegzQ",
+      "title": "Bike Lanes by Casey Neistat",
+      "author": "CaseyNeistat",
+      "source_url": "https://www.youtube.com/watch?v=bzE-IMaegzQ",
+      "summary": "Casey Neistat's early viral short in which he gets ticketed for not using a bike lane in New York, then shows how often the lanes are blocked by cars and other obstacles. It runs about three minutes.",
+      "why": "Referenced in bike-lane threads as the classic example of how NYC bike lanes get blocked and how cyclists get ticketed.",
+      "score": 0.0,
+      "tags": [
+        "bike lanes",
+        "new york city",
+        "casey neistat",
+        "cycling",
+        "traffic enforcement"
+      ],
+      "categories": [
+        "transit-urbanism",
+        "documentaries-storytelling"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Us411z791",
+          "page": 1,
+          "cid": 7071530,
+          "title": "自行车道被占 骑车人反被罚钱？ Bike Lanes by Casey Neistat",
+          "up": "KaneYGe",
+          "duration": 183,
+          "kind": "original",
+          "views": 4378,
+          "pic": "https://i0.hdslb.com/bfs/archive/dac91823ef1bd42fbcf9a4044f9cdae829ac58aa.jpg",
+          "checked_at": "2026-11-08T21:11:16.067802+00:00"
+        }
+      ]
+    },
+    {
       "id": "dk3oc1Hr62g",
       "title": "Google Self-Driving Car on City Streets",
       "author": "Google",
@@ -47102,6 +47204,9 @@
     "BV1eq4y1176K": "b2F-DItXtZs",
     "BV1os4y1K7i7": "bZe5J8SVCYQ",
     "BV1P5411878N": "bZe5J8SVCYQ",
+    "BV1Qx411R7NW": "buqtdpuZxvk",
+    "BV1vaYBe3E8X": "bx_LGilOuE4",
+    "BV1Us411z791": "bzE-IMaegzQ",
     "BV1Mb4y1U7Zz": "dk3oc1Hr62g",
     "BV1NVbYzREMr": "dtjb2OhEQcU",
     "BV1Ko4y1Z7ee": "fn3KWM1kuAw",

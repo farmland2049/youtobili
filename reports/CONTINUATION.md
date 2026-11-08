@@ -268,6 +268,20 @@
 
 构建后共1149张原片卡、1587个确认分P、0个冲突，`data.json` 数据校验、65项单元测试、Node语法检查及桌面/手机15个浏览器场景均通过。
 
+## 2026-11-08 恢复后增量三十三
+
+继续执行批次 `serial-20261108T210311Z`。搜索批次串行处理13条（10条待审、3条确认），在第14次尝试 `cQ54GDm1eL0` 时遇到 `URLError` 停止，错误不表示视频失效，该ID已加入本地阻塞清单，累计88条，不自动重试。工作库进度推进至5813/6454，确认增至1152，剩余待处理原片降至641部。
+
+本轮新增确认原片3部：
+- `buqtdpuZxvk` → `BV1Qx411R7NW`（Galaxy Song - Monty Python's The Meaning of Life，164秒 vs 164秒）
+- `bx_LGilOuE4` → `BV1vaYBe3E8X`（Jujutsu: A Git-Compatible VCS - Git Merge 2022，2006秒 vs 2006秒）
+- `bzE-IMaegzQ` → `BV1Us411z791`（Bike Lanes by Casey Neistat，183秒 vs 183秒）
+
+3条版本均为单P且完整简介含对应原片链接，时长与原片一致。标题元数据复核完成，无集数或衍生冲突；冲突审计0冲突。3部新增原片实播烟测均通过并捕获实际CID与匹配时长，快照哈希与实播结果见 `reports/metadata-review-2026-11-08-resume33.json` 和 `reports/playback-increment-2026-11-08-resume33.json`；未做逐帧比较。
+
+构建后共1152张原片卡、1590个确认分P、0个冲突，`data.json` 数据校验、65项单元测试、Node语法检查及桌面/手机15个浏览器场景均通过。
+
+
 
 
 

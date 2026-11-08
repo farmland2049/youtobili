@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T21:00:08.209863+00:00",
+  "updated_at": "2026-11-08T21:16:40.348261+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -73375,6 +73375,162 @@
     },
     "b_WmjWAGkLI": {
       "vid": "b_WmjWAGkLI",
+      "status": "review",
+      "completed_at": null,
+      "candidates": []
+    },
+    "bct8stbZafI": {
+      "vid": "bct8stbZafI",
+      "status": "review",
+      "completed_at": "2026-11-08T21:05:44.553697+00:00",
+      "candidates": []
+    },
+    "bdwjcayPuag": {
+      "vid": "bdwjcayPuag",
+      "status": "review",
+      "completed_at": "2026-11-08T21:07:26.171092+00:00",
+      "candidates": []
+    },
+    "bexWuHmV32A": {
+      "vid": "bexWuHmV32A",
+      "status": "review",
+      "completed_at": "2026-11-08T21:07:54.278254+00:00",
+      "candidates": []
+    },
+    "bg6-LVCHmGM": {
+      "vid": "bg6-LVCHmGM",
+      "status": "review",
+      "completed_at": "2026-11-08T21:08:06.228943+00:00",
+      "candidates": []
+    },
+    "bhtO4DsSazc": {
+      "vid": "bhtO4DsSazc",
+      "status": "review",
+      "completed_at": "2026-11-08T21:08:23.463575+00:00",
+      "candidates": []
+    },
+    "bsHryqnvyYA": {
+      "vid": "bsHryqnvyYA",
+      "status": "review",
+      "completed_at": "2026-11-08T21:10:11.370889+00:00",
+      "candidates": []
+    },
+    "bt73GOk4JRY": {
+      "vid": "bt73GOk4JRY",
+      "status": "review",
+      "completed_at": "2026-11-08T21:10:36.514041+00:00",
+      "candidates": []
+    },
+    "buqtdpuZxvk": {
+      "vid": "buqtdpuZxvk",
+      "status": "confirmed",
+      "completed_at": "2026-11-08T21:10:48.052508+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Qx411R7NW",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Galaxy Song - Monty Python 's The Meaning of Life",
+          "up": "通风道",
+          "duration": 164,
+          "original_duration": 164,
+          "cid": 99365721,
+          "aid": 56889538,
+          "segment_title": "Galaxy Song - Monty Python's The Meaning of Life",
+          "page_count": 1,
+          "kind": "original",
+          "views": 753,
+          "pic": "https://i1.hdslb.com/bfs/archive/2742c36ab8a01284678973ea212192f119f58baf.jpg",
+          "checked_at": "2026-11-08T21:10:46.517450+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "bx_LGilOuE4": {
+      "vid": "bx_LGilOuE4",
+      "status": "confirmed",
+      "completed_at": "2026-11-08T21:10:59.158011+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1vaYBe3E8X",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Jujutsu: A Git-Compatible VCS - Git Merge 2022",
+          "up": "nekolabs",
+          "duration": 2006,
+          "original_duration": 2006,
+          "cid": 500001647454655,
+          "aid": 112950392128014,
+          "segment_title": "Jujutsu: A Git-Compatible VCS - Git Merge 2022",
+          "page_count": 1,
+          "kind": "original",
+          "views": 338,
+          "pic": "https://i0.hdslb.com/bfs/archive/9c874215b054b59da23a8d138f697b24ec06e1b0.jpg",
+          "checked_at": "2026-11-08T21:10:57.595278+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "bzE-IMaegzQ": {
+      "vid": "bzE-IMaegzQ",
+      "status": "confirmed",
+      "completed_at": "2026-11-08T21:11:18.021416+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Us411z791",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "自行车道被占 骑车人反被罚钱？ Bike Lanes by Casey Neistat",
+          "up": "KaneYGe",
+          "duration": 183,
+          "original_duration": 184,
+          "cid": 7071530,
+          "aid": 4368091,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "original",
+          "views": 4378,
+          "pic": "https://i0.hdslb.com/bfs/archive/dac91823ef1bd42fbcf9a4044f9cdae829ac58aa.jpg",
+          "checked_at": "2026-11-08T21:11:16.067802+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "cHSCmQnGH9Q": {
+      "vid": "cHSCmQnGH9Q",
+      "status": "review",
+      "completed_at": "2026-11-08T21:11:44.546016+00:00",
+      "candidates": []
+    },
+    "cISYzA36-ZY": {
+      "vid": "cISYzA36-ZY",
+      "status": "review",
+      "completed_at": "2026-11-08T21:13:15.618929+00:00",
+      "candidates": []
+    },
+    "cKUaqFzZLxU": {
+      "vid": "cKUaqFzZLxU",
+      "status": "review",
+      "completed_at": "2026-11-08T21:14:56.034579+00:00",
+      "candidates": []
+    },
+    "cQ54GDm1eL0": {
+      "vid": "cQ54GDm1eL0",
       "status": "review",
       "completed_at": null,
       "candidates": []

@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-11-08T21:17:15.734Z",
+  "checks": [
+    {
+      "sample": "buqtdpuZxvk",
+      "kind": "original",
+      "id": "buqtdpuZxvk",
+      "bvid": "BV1Qx411R7NW",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.272345,
+        "duration": 164,
+        "paused": false
+      },
+      "expected_duration": 164,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "99365721"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Galaxy Song - Monty Python 's The Meaning of Life\n通风道\n关注\n14\n2\n分享\n更多\n00:05 / 02:44\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "bx_LGilOuE4",
+      "kind": "original",
+      "id": "bx_LGilOuE4",
+      "bvid": "BV1vaYBe3E8X",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.951657,
+        "duration": 2006,
+        "paused": false
+      },
+      "expected_duration": 2006,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "500001647454655"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Jujutsu: A Git-Compatible VCS - Git Merge 2022\nnekolabs\n关注\n0\n1\n分享\n更多\n00:04 / 33:26\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "bzE-IMaegzQ",
+      "kind": "original",
+      "id": "bzE-IMaegzQ",
+      "bvid": "BV1Us411z791",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.280926,
+        "duration": 182.41700000000003,
+        "paused": false
+      },
+      "expected_duration": 183,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "7071530"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "自行车道被占 骑车人反被罚钱？ Bike Lanes by Casey Neistat\nKaneYGe\n关注\n93\n14\n分享\n更多\n00:05 / 03:03\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}
