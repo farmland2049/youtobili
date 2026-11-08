@@ -1,48 +1,47 @@
 # 匹配进展
 
-更新时间：2026-11-08T13:23:40.307032+00:00
+更新时间：2026-11-08T13:43:14.209883+00:00
 
 - 原片库：6454
-- 完成处理：5435
+- 完成处理：5450
 - 已确认原片：1120
 - 全库覆盖率：17.35%
-- 已处理原片匹配率：20.61%
-- 状态：{'confirmed': 1120, 'review': 4342}
+- 已处理原片匹配率：20.55%
+- 状态：{'confirmed': 1120, 'review': 4358}
 
-- 待审中尚需扩大候选检查：181
-- 已扩大检查仍待审核：4161
+- 待审中尚需扩大候选检查：182
+- 已扩大检查仍待审核：4176
 
 ## 最近批次
 
 ```json
 {
-  "id": "20261108T130840Z",
+  "id": "20261108T132653Z",
   "selected": 50,
-  "completed": 16,
+  "completed": 15,
   "errors": [
     {
-      "vid": "O37yJBFRrfg",
+      "vid": "OobLb1McxnI",
       "reason": "URLError"
     }
   ],
   "stopped": false,
   "originals": [
-    "NMS2VnDveP8",
-    "NPTzNJMd19A",
-    "NSNXBvpLb9o",
-    "NT7_SxJ3oSI",
-    "NU-fTr-udZg",
-    "NYJ2w82WifU",
-    "NcZxaFfxloo",
-    "NgHFMolXs3U",
-    "NjpNG0CJRMM",
-    "NlHUz99l-eo",
-    "Nl_Qyk9DSUw",
-    "NoAzpa1x7jU",
-    "NuAMczraBIM",
-    "NwVBzx0LMNQ",
-    "NzaRVEzYuz8",
-    "NztgXMLwv4A"
+    "ONZcjs1Pjmk",
+    "OPcV9uIY5i4",
+    "OQUO1DSwYN0",
+    "OR4jPtrDCLo",
+    "OR5ZUl0Q-NI",
+    "OS4O8rGRLf8",
+    "OW-atKrg0T4",
+    "OWwOJlOI1nU",
+    "OXZYvrue1BE",
+    "OXtq4a8829g",
+    "OYecfV3ubP8",
+    "OeC1yAaWG34",
+    "Og847HVwRSI",
+    "OhESSZIXvCA",
+    "OoETMCosULQ"
   ],
   "primary_first": true,
   "deferred_candidates": 0,
@@ -91,6 +90,7 @@
     "NHWjlCaIrQo",
     "NMQv0j29WHA",
     "NTJQTc-TqpU",
+    "O37yJBFRrfg",
     "OL6-x0modwY",
     "OMcjxe8slYI",
     "QVuU2YCwHjw",
@@ -121,12 +121,12 @@
     "y4sOfO8Ei1g",
     "yg-UqIIvang"
   ],
-  "attempted": 17,
-  "unattempted": 33,
+  "attempted": 16,
+  "unattempted": 34,
   "statuses": {
-    "review": 17
+    "review": 16
   },
-  "candidate_count": 596
+  "candidate_count": 566
 }
 ```
 
