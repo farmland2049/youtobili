@@ -1,0 +1,89 @@
+{
+  "checked_at": "2026-11-08T18:38:35.331Z",
+  "checks": [
+    {
+      "sample": "XfonhlM6I7w",
+      "kind": "dub_zh",
+      "id": "XfonhlM6I7w",
+      "bvid": "BV1PCy5BxEsn",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.941702,
+        "duration": 808,
+        "paused": false
+      },
+      "expected_duration": 808,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "34098447714"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【中配】这座小镇创造了不可能 - The Aesthetic City\n香蕉配音君\n关注\n20\n0\n分享\n更多\n00:04 / 13:28\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "XpunFFS-n8I",
+      "kind": "original",
+      "id": "XpunFFS-n8I",
+      "bvid": "BV1WwLyz9Ehz",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.299364,
+        "duration": 2863,
+        "paused": false
+      },
+      "expected_duration": 2863,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "29649928288"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "How Netflix Uses Java - 2025 Edition\nGoooler\n关注\n0\n0\n分享\n更多\n00:05 / 47:43\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "XqZsoesa55w",
+      "kind": "original",
+      "id": "XqZsoesa55w",
+      "bvid": "BV1W5411H7Ra",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.979543,
+        "duration": 137,
+        "paused": false
+      },
+      "expected_duration": 137,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "268855604"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "『点击量破70亿！油管播放量最高的视频！没有之一』鲨鱼舞 Baby Shark Dance by Pinkfong\nMissArch\n关注\n1803\n40\n分享\n更多\n00:04 / 02:17\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "YScIPA8RbVE",
+      "kind": "original",
+      "id": "YScIPA8RbVE",
+      "bvid": "BV1Ga4y1J7EM",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.950032,
+        "duration": 3875,
+        "paused": false
+      },
+      "expected_duration": 3875,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "223976316"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "The Algebra of Algebraic Data Types\n会喵喵的小汪\n关注\n1\n2\n分享\n更多\n0:00:04 / 1:04:35\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

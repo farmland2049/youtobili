@@ -1,37 +1,58 @@
 # 匹配进展
 
-更新时间：2026-11-08T18:10:28.153793+00:00
+更新时间：2026-11-08T18:38:00.371152+00:00
 
 - 原片库：6454
-- 完成处理：5665
-- 已确认原片：1134
-- 全库覆盖率：17.57%
-- 已处理原片匹配率：20.02%
-- 状态：{'confirmed': 1134, 'review': 4567}
+- 完成处理：5688
+- 已确认原片：1138
+- 全库覆盖率：17.63%
+- 已处理原片匹配率：20.01%
+- 状态：{'confirmed': 1138, 'review': 4587}
 
-- 待审中尚需扩大候选检查：190
-- 已扩大检查仍待审核：4377
+- 待审中尚需扩大候选检查：191
+- 已扩大检查仍待审核：4396
 
 ## 最近批次
 
 ```json
 {
-  "id": "20261108T180851Z",
+  "id": "20261108T181209Z",
   "selected": 50,
-  "completed": 2,
+  "completed": 23,
   "errors": [
     {
-      "vid": "XamC7-Pt8N0",
-      "reason": "URLError"
+      "vid": "YZZV464z9g8",
+      "reason": "TimeoutError"
     }
   ],
   "stopped": false,
   "originals": [
-    "XaGHcBZjmWA",
-    "Xa_fNuaSE_I"
+    "XbZ8zDpX2Mg",
+    "XduK7wn9SE4",
+    "Xe1TZaElTAs",
+    "XeIIpLqsOe4",
+    "XewVicFzRxw",
+    "XfonhlM6I7w",
+    "XggxeuFDaDU",
+    "XiQkeWOFwmk",
+    "XpunFFS-n8I",
+    "XqZsoesa55w",
+    "XrlrbfGZo2k",
+    "Xv2VIEY9-A8",
+    "XxbJw8PrIkc",
+    "Xybzyv8qbOc",
+    "Y-Elr5K2Vuo",
+    "YE9rEQAGpLw",
+    "YM5zUwiCTzw",
+    "YQIMGV5vtd4",
+    "YRyYIIFKsdU",
+    "YScIPA8RbVE",
+    "YWdD206eSv0",
+    "YYLzss58CLs",
+    "YZFTaEenaHM"
   ],
   "primary_first": true,
-  "deferred_candidates": 0,
+  "deferred_candidates": 61,
   "excluded_originals": [
     "-e1_QhJ1EhQ",
     "05WS0WN7zMQ",
@@ -95,6 +116,7 @@
     "X7HmltUWXgs",
     "XZmGGAbHqa0",
     "X_8E3ENrKrQ",
+    "XamC7-Pt8N0",
     "Z2ZXW2HBLPM",
     "bwDrHqNZ9lo",
     "cVaTc15plVs",
@@ -116,12 +138,13 @@
     "y4sOfO8Ei1g",
     "yg-UqIIvang"
   ],
-  "attempted": 3,
-  "unattempted": 47,
+  "attempted": 24,
+  "unattempted": 26,
   "statuses": {
-    "review": 3
+    "review": 20,
+    "confirmed": 4
   },
-  "candidate_count": 80
+  "candidate_count": 879
 }
 ```
 

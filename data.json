@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-08T18:10:28.186136+00:00",
+  "built_at": "2026-11-08T18:38:00.402745+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5665,
-    "confirmed": 1134,
-    "coverage": 0.175704989154013,
-    "processed_match_rate": 0.2001765225066196
+    "processed": 5688,
+    "confirmed": 1138,
+    "coverage": 0.17632475983885962,
+    "processed_match_rate": 0.20007032348804502
   },
   "areas": [
     {
@@ -44227,6 +44227,107 @@
       ]
     },
     {
+      "id": "XfonhlM6I7w",
+      "title": "This Town Did The Impossible",
+      "author": "The Aesthetic City",
+      "source_url": "https://www.youtube.com/watch?v=XfonhlM6I7w",
+      "summary": "A look at Le Plessis-Robinson, a French suburb transformed from modernist urbanism into traditional mixed-use fabric with local-style architecture, green space and a more balanced housing supply.",
+      "why": "HN cites it in housing and urbanism threads as an example of a dense, beautiful neighbourhood built in recent times.",
+      "score": 0.0,
+      "tags": [
+        "urbanism",
+        "architecture",
+        "mixed-use",
+        "housing",
+        "le plessis-robinson"
+      ],
+      "categories": [
+        "transit-urbanism",
+        "visual-arts"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1PCy5BxEsn",
+          "page": 1,
+          "cid": 34098447714,
+          "title": "【中配】这座小镇创造了不可能 - The Aesthetic City",
+          "up": "香蕉配音君",
+          "duration": 808,
+          "kind": "dub_zh",
+          "views": 502,
+          "pic": "https://i1.hdslb.com/bfs/archive/77a8c3eaa467c7b398a5c1154c80960725c05718.jpg",
+          "checked_at": "2026-11-08T18:17:46.767422+00:00"
+        }
+      ]
+    },
+    {
+      "id": "XpunFFS-n8I",
+      "title": "How Netflix Uses Java - 2025 Edition",
+      "author": "Java",
+      "source_url": "https://www.youtube.com/watch?v=XpunFFS-n8I",
+      "summary": "A Netflix engineer describes how Netflix uses Java in 2025, including Spring Boot, DGS/GraphQL, gRPC and keeping over 3000 services on the latest JDK. It covers generational ZGC upgrade experiences.",
+      "why": "Cited as a real-world enterprise Java example, especially for JDK upgrades and ZGC results.",
+      "score": 0.0,
+      "tags": [
+        "java",
+        "netflix",
+        "spring boot",
+        "zgc",
+        "jdk upgrades"
+      ],
+      "categories": [
+        "scripting-languages",
+        "distributed-systems",
+        "cloud-devops-sre"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1WwLyz9Ehz",
+          "page": 1,
+          "cid": 29649928288,
+          "title": "How Netflix Uses Java - 2025 Edition",
+          "up": "Goooler",
+          "duration": 2863,
+          "kind": "original",
+          "views": 68,
+          "pic": "https://i2.hdslb.com/bfs/archive/56e6abd96557eb54dc382dd147064960ba07c12e.jpg",
+          "checked_at": "2026-11-08T18:21:12.567188+00:00"
+        }
+      ]
+    },
+    {
+      "id": "XqZsoesa55w",
+      "title": "Baby Shark Dance | #babyshark Most Viewed Video | Animal Songs | PINKFONG Songs for Children",
+      "author": "Baby Shark - Pinkfong Kids’ Songs & Stories",
+      "source_url": "https://www.youtube.com/watch?v=XqZsoesa55w",
+      "summary": "The Pinkfong Baby Shark Dance children's song video, one of the most viewed videos on YouTube.",
+      "why": "Mentioned mainly as a statistic or joke about being the most watched video in history.",
+      "score": 0.0,
+      "tags": [
+        "baby shark",
+        "most viewed",
+        "pinkfong",
+        "kids song"
+      ],
+      "categories": [
+        "music-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1W5411H7Ra",
+          "page": 1,
+          "cid": 268855604,
+          "title": "『点击量破70亿！油管播放量最高的视频！没有之一』鲨鱼舞 Baby Shark Dance by Pinkfong",
+          "up": "MissArch",
+          "duration": 137,
+          "kind": "original",
+          "views": 659333,
+          "pic": "https://i0.hdslb.com/bfs/archive/e418fc8e8c389c99452055e5c4ebe708555597b4.jpg",
+          "checked_at": "2026-11-08T18:21:27.721612+00:00"
+        }
+      ]
+    },
+    {
       "id": "YIWV5fSaUB8",
       "title": "My channel was deleted... HOW?",
       "author": "Jim Browning",
@@ -44257,6 +44358,40 @@
           "views": 10287,
           "pic": "https://i2.hdslb.com/bfs/archive/77b5e1f5ba023a32dc25b798ae40449fddcf5b30.jpg",
           "checked_at": "2026-11-07T05:27:48.441470+00:00"
+        }
+      ]
+    },
+    {
+      "id": "YScIPA8RbVE",
+      "title": "The Algebra of Algebraic Data Types",
+      "author": "London Haskell",
+      "source_url": "https://www.youtube.com/watch?v=YScIPA8RbVE",
+      "summary": "A London Haskell talk on the algebra of algebraic data types, showing how sum and product types behave like arithmetic. It frames types as numbers obeying algebraic laws.",
+      "why": "Cited as the author's own talk and a way to go deeper on type algebra, with a note that the audio is rough at the start.",
+      "score": 0.0,
+      "tags": [
+        "haskell",
+        "type algebra",
+        "sum types",
+        "product types",
+        "functional programming"
+      ],
+      "categories": [
+        "functional-programming",
+        "programming-language-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Ga4y1J7EM",
+          "page": 1,
+          "cid": 223976316,
+          "title": "The Algebra of Algebraic Data Types",
+          "up": "会喵喵的小汪",
+          "duration": 3875,
+          "kind": "original",
+          "views": 70,
+          "pic": "https://i0.hdslb.com/bfs/archive/dbc0a96e001d75d3c5307324a5f71f303ed200bb.jpg",
+          "checked_at": "2026-11-08T18:31:32.795780+00:00"
         }
       ]
     },
@@ -46524,7 +46659,11 @@
     "BV1jW411B7Sf": "VfjjiHGuHoc",
     "BV1gZ421T7AG": "WiPp9YEBV0Q",
     "BV1zP4y1r73e": "X3-hOigoxHs",
+    "BV1PCy5BxEsn": "XfonhlM6I7w",
+    "BV1WwLyz9Ehz": "XpunFFS-n8I",
+    "BV1W5411H7Ra": "XqZsoesa55w",
     "BV1Vq4y1H7Ro": "YIWV5fSaUB8",
+    "BV1Ga4y1J7EM": "YScIPA8RbVE",
     "BV1hv41117Th": "_K-L9uhsBLM",
     "BV1WJ411u71d": "_sBBaNYex3E",
     "BV1VJ411u7Hk": "_sBBaNYex3E",
