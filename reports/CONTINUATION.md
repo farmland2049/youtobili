@@ -281,6 +281,19 @@
 
 构建后共1152张原片卡、1590个确认分P、0个冲突，`data.json` 数据校验、65项单元测试、Node语法检查及桌面/手机15个浏览器场景均通过。
 
+## 2026-11-08 恢复后增量三十四
+
+继续执行批次 `serial-20261108T211811Z`。启动前由 `drain_identities` 完成2条来源身份线索核验并确认（为已确认原片 `bzE-IMaegzQ` 增加版本 `BV1tpcWeuEu6` 与 `BV1bQ4y1D7fb`）。随后搜索批次串行处理8条（全部待审），在第9次尝试 `cdgQpa1pUUE` 时遇到 `URLError` 停止，错误不表示视频失效，该ID已加入本地阻塞清单，累计89条，不自动重试。工作库进度推进至5821/6454，确认保持1152部，确认版本增至1592个，剩余待处理原片降至633部。
+
+本轮为原片 `bzE-IMaegzQ`（Bike Lanes by Casey Neistat）新增确认2个版本：
+- `BV1tpcWeuEu6`（『Casey Neistat双字』自行车只能在自行车道骑吗？，184秒 vs 183秒）
+- `BV1bQ4y1D7fb`（敢问路在何方？Bike Lanes by Casey Neistat，184秒 vs 183秒）
+
+2条版本均为单P且完整简介含对应原片链接，时长与原片一致。标题元数据复核完成，无集数或衍生冲突；冲突审计0冲突。2个新增版本实播烟测均通过并捕获实际CID与匹配时长，快照哈希与实播结果见 `reports/metadata-review-2026-11-08-resume34.json` 和 `reports/playback-increment-2026-11-08-resume34.json`；未做逐帧比较。
+
+构建后共1152张原片卡、1592个确认分P、0个冲突，`data.json` 数据校验、65项单元测试、Node语法检查及桌面/手机15个浏览器场景均通过。
+
+
 
 
 
