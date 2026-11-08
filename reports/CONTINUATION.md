@@ -240,6 +240,20 @@
 
 构建后共1143张原片卡、1579个确认分P、0个冲突，`data.json` 数据校验、65项单元测试、Node语法检查及桌面/手机15个浏览器场景均通过。
 
+## 2026-11-08 恢复后增量三十一
+
+继续执行批次 `serial-20261108T195354Z`。搜索批次串行处理38条（35条待审、3条确认），在第39次尝试 `b1XGPvbWn0A` 时遇到 `URLError` 停止，错误不表示视频失效，该ID已加入本地阻塞清单，累计86条，不自动重试。工作库进度推进至5784/6454，确认增至1146，剩余待处理原片降至670部。
+
+本轮新增确认原片3部：
+- `_oJs8-I9WtA` → `BV1PBxTeHEvf`（Comparing Beta & VHS on Quality: Was Beta Really Better?，592秒 vs 591秒）
+- `ap-BkkrRg-o` → `BV1zx42127p1`（Starship High Altitude Test - SN8，7173秒 vs 7173秒）
+- `aqz-KE-bpKQ` → `BV1gD4y1o72p`（Big Buck Bunny 60fps 4K - Official Blender Foundation Short Film，635秒 vs 634秒）
+
+3条版本均为单P且完整简介含对应原片链接，时长与原片一致。标题元数据复核完成，无集数或衍生冲突；冲突审计0冲突。3部新增原片实播烟测均通过并捕获实际CID与匹配时长，快照哈希与实播结果见 `reports/metadata-review-2026-11-08-resume31.json` 和 `reports/playback-increment-2026-11-08-resume31.json`；未做逐帧比较。
+
+构建后共1146张原片卡、1582个确认分P、0个冲突，`data.json` 数据校验、65项单元测试、Node语法检查及桌面/手机15个浏览器场景均通过。
+
+
 
 
 

@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-08T19:51:21.637058+00:00",
+  "built_at": "2026-11-08T20:38:17.882275+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5746,
-    "confirmed": 1143,
-    "coverage": 0.17709947319491787,
-    "processed_match_rate": 0.1989209885137487
+    "processed": 5784,
+    "confirmed": 1146,
+    "coverage": 0.17756430120855282,
+    "processed_match_rate": 0.19813278008298754
   },
   "areas": [
     {
@@ -44543,6 +44543,40 @@
       ]
     },
     {
+      "id": "_oJs8-I9WtA",
+      "title": "Comparing Beta & VHS on Quality: Was Beta Really Better?",
+      "author": "Technology Connections",
+      "source_url": "https://www.youtube.com/watch?v=_oJs8-I9WtA",
+      "summary": "Technology Connections compares Betamax and VHS picture quality using footage from a 1979 RCA VCR and argues the Beta quality advantage was largely marketing.",
+      "why": "Cited as evidence that Betamax was not meaningfully better than VHS.",
+      "score": 0.0,
+      "tags": [
+        "betamax",
+        "vhs",
+        "video quality",
+        "format war",
+        "vcr"
+      ],
+      "categories": [
+        "audio-video-engineering",
+        "tech-company-stories"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1PBxTeHEvf",
+          "page": 1,
+          "cid": 26047744121,
+          "title": "【TC/熟肉】Betamax为何被VHS打败了（P3）",
+          "up": "墨枫梧桐_BA7MQN",
+          "duration": 592,
+          "kind": "sub_zh",
+          "views": 1338,
+          "pic": "https://i2.hdslb.com/bfs/archive/e2c8560fb017248a184db1fa365a901355039afb.jpg",
+          "checked_at": "2026-11-08T20:03:47.534283+00:00"
+        }
+      ]
+    },
+    {
       "id": "_sBBaNYex3E",
       "title": "More Parkour Atlas",
       "author": "Boston Dynamics",
@@ -44584,6 +44618,73 @@
           "views": 2331,
           "pic": "https://i2.hdslb.com/bfs/archive/1dd22f54387ab07cefa717802f83df091e5556da.jpg",
           "checked_at": "2026-11-07T05:27:50.813578+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ap-BkkrRg-o",
+      "title": "Starship High Altitude Test - SN8",
+      "author": "SpaceX",
+      "source_url": "https://www.youtube.com/watch?v=ap-BkkrRg-o",
+      "summary": "SpaceX's livestream of the Starship SN8 high-altitude test on December 9, 2020. It ascended, did the landing flip with flap control and reached the landing point, but touched down hard because of low header tank pressure.",
+      "why": "HN refers to it for details such as engine behaviour and for comparison with later Starship prototypes.",
+      "score": 0.0,
+      "tags": [
+        "spacex",
+        "starship",
+        "sn8",
+        "test flight",
+        "landing flip"
+      ],
+      "categories": [
+        "space-exploration"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1zx42127p1",
+          "page": 1,
+          "cid": 1457403824,
+          "title": "Starship _ SN8 _ High-Altitude Flight Test-ap-BkkrRg-o",
+          "up": "cloudflare-fan",
+          "duration": 7173,
+          "kind": "original",
+          "views": 14,
+          "pic": "https://i0.hdslb.com/bfs/archive/d273a54173d64fc0387fd6dc0af7af8bb976558e.jpg",
+          "checked_at": "2026-11-08T20:29:08.448963+00:00"
+        }
+      ]
+    },
+    {
+      "id": "aqz-KE-bpKQ",
+      "title": "Big Buck Bunny 60fps 4K - Official Blender Foundation Short Film",
+      "author": "Blender",
+      "source_url": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+      "summary": "The 4K, 60fps version of Big Buck Bunny, the Creative Commons-licensed animated short film from the Blender Foundation.",
+      "why": "Used as a freely licensed sample video for demoing multimedia tools, and as a test file in discussions of video downloading and playback.",
+      "score": 0.0,
+      "tags": [
+        "big buck bunny",
+        "blender",
+        "creative commons",
+        "test footage",
+        "animation"
+      ],
+      "categories": [
+        "animation-vfx",
+        "film-video-production"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1gD4y1o72p",
+          "page": 1,
+          "cid": 236136118,
+          "title": "BigBuckBunny60fps4KShortFilm",
+          "up": "爱跑步的大脸猫",
+          "duration": 635,
+          "kind": "original",
+          "views": 559,
+          "pic": "https://i0.hdslb.com/bfs/archive/ae5d0cf6102edc6cfff23ba0c97f40804edb7857.jpg",
+          "checked_at": "2026-11-08T20:29:21.151274+00:00"
         }
       ]
     },
@@ -46863,8 +46964,11 @@
     "BV1QW411g7r1": "ZXsQAXx_ao0",
     "BV1ME411P7wY": "ZzCegQVljdY",
     "BV1hv41117Th": "_K-L9uhsBLM",
+    "BV1PBxTeHEvf": "_oJs8-I9WtA",
     "BV1WJ411u71d": "_sBBaNYex3E",
     "BV1VJ411u7Hk": "_sBBaNYex3E",
+    "BV1zx42127p1": "ap-BkkrRg-o",
+    "BV1gD4y1o72p": "aqz-KE-bpKQ",
     "BV1os4y1K7i7": "bZe5J8SVCYQ",
     "BV1P5411878N": "bZe5J8SVCYQ",
     "BV1Mb4y1U7Zz": "dk3oc1Hr62g",

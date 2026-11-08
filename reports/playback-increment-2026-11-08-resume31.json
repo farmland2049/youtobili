@@ -1,0 +1,68 @@
+{
+  "checked_at": "2026-11-08T20:38:53.382Z",
+  "checks": [
+    {
+      "sample": "_oJs8-I9WtA",
+      "kind": "sub_zh",
+      "id": "_oJs8-I9WtA",
+      "bvid": "BV1PBxTeHEvf",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.766631,
+        "duration": 590.799,
+        "paused": false
+      },
+      "expected_duration": 592,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "26047744121"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【TC/熟肉】Betamax为何被VHS打败了（P3）\n墨枫梧桐_BA7MQN\n关注\n36\n4\n分享\n更多\n00:04 / 09:51\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "ap-BkkrRg-o",
+      "kind": "original",
+      "id": "ap-BkkrRg-o",
+      "bvid": "BV1zx42127p1",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.954257,
+        "duration": 7171.833,
+        "paused": false
+      },
+      "expected_duration": 7173,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1457403824"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Starship _ SN8 _ High-Altitude Flight Test-ap-BkkrRg-o\ncloudflare-fan\n关注\n0\n0\n分享\n更多\n0:00:04 / 1:59:32\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "aqz-KE-bpKQ",
+      "kind": "original",
+      "id": "aqz-KE-bpKQ",
+      "bvid": "BV1gD4y1o72p",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.954568,
+        "duration": 635,
+        "paused": false
+      },
+      "expected_duration": 635,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "236136118"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "BigBuckBunny60fps4KShortFilm\n爱跑步的大脸猫\n关注\n4\n1\n分享\n更多\n00:04 / 10:35\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}
