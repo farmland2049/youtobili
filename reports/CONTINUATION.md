@@ -142,3 +142,12 @@
 ## GitHub 用户名变更
 
 2026-11-08，GitHub 账户用户名从 `qinqiang316` 改为 `farmland2049`。GitHub 明确提示旧个人主页与旧 Pages 地址不会自动重定向，仓库网页和 Git 访问会重定向。新的仓库地址为 `https://github.com/farmland2049/youtobili`，新的 Pages 地址为 `https://farmland2049.github.io/youtobili/`。更新前新 Pages 的 `data.json` 已返回HTTP 200，SHA-256 与本地一致；历史 `pages-check-*.json` 保留变更前实际核验的网址，不改写历史证据。仓库远端已改为 `https://github.com/farmland2049/youtobili.git`；README、AGENTS.md和页面页脚已更新并推送于 `335e3a9c403e2c88c99090d08ee4e0cba48d350d`。Pages 部署运行 `42481999585` 成功；新首页与 `app.js` 返回HTTP 200，页脚GitHub链接指向新仓库。新 Pages `data.json` 返回HTTP 200，SHA-256 `6b7b323ba9d650bd4520858b42c750a32a0261e70716b24cca0c1ee96c33a7b3` 与本地一致，核验详情见 `reports/pages-check-2026-11-08-username-rename.json`。65项单元测试、Node语法检查、桌面/手机15个浏览器场景均通过。GitHub 不为旧 Pages 地址或个人主页设置重定向，已经分享的旧 Pages URL 需要手动更新；历史核验收据保留旧地址原貌。
+
+## 2026-11-08 恢复后增量十七
+
+在新分支 `continue-20261108` 上继续执行批次 `serial-20261108T130231Z`。会话启动前先由 `drain_identities` 完成76条缓存来源线索核验，其中64条确认为有效版本。随后搜索批次在串行处理16条（16条待审）后，在第17次尝试 `O37yJBFRrfg` 时遇到 `URLError` 停止；错误不表示视频失效，该ID已加入本地阻塞清单，累计74条，不自动重试。本轮工作库进度5435/6454，确认1120。
+
+新增确认原片6部：`ESXOAJRdcwQ` → `BV1AT4y1d7pn`（Jailbreaking the Simulation with George Hotz | SXSW 2019）、`LmpuerlbJu0` → `BV1TT421r7ZR`（You Are Immune Against Every Disease）、`FlApbxLz6pA` → `BV1Pi4y1u7H7`（Intersection design, the Dutch - cycle friendly - way）、`JtUAAXe_0VI` → `BV1gx4y147ni`（Can You Trust Kurzgesagt Videos?）、`U_o8gerare0` → `BV1q54y147ZJ`（The Computer Chronicles - The Internet (1993)）、`y3RIHnK0_NE` → `BV1KE411a74h`（New Robot Makes Soldiers Obsolete）；另有58条为既有原片新增的多版本可选项（包括 `kCc8FmEb1nY`、`zjkBMFhNj_g`、`VMj-3S1tku0`、`ZCuYPiUIONs`、`1La4QzGeaaQ` 等）。全部64条版本元数据标题复核完成，无集数或衍生内容冲突；冲突审计0冲突。6部新增原片实播烟测均通过并捕获实际CID与匹配时长，快照哈希与实播结果见 `reports/metadata-review-2026-11-08-resume17.json` 和 `reports/playback-increment-2026-11-08-resume17.json`；未做逐帧比较。
+
+构建后共1120张原片卡、1553个确认分P、0个冲突，`data.json` 数据校验、65项单元测试、Node语法检查及桌面/手机15个浏览器场景均通过。
+
