@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T20:38:17.908431+00:00",
+  "updated_at": "2026-11-08T21:00:08.209863+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -23870,9 +23870,34 @@
     },
     "HB5TrK7A4pI": {
       "vid": "HB5TrK7A4pI",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-05T01:07:52.068181+00:00",
-      "candidates": []
+      "candidates": [
+        {
+          "bvid": "BV1H34y1W7QU",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1H34y1W7QU",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "We Really Don't Know How to Compute! - Gerald Sussman (2011)| 我们真的不知道如何计算！",
+          "up": "安常投资",
+          "duration": 3859,
+          "original_duration": 3859,
+          "cid": 751440778,
+          "aid": 812687556,
+          "segment_title": "We Really Don't Know How to Compute! - Gerald Sussman (2011)| 我们真的不知道如何计算！",
+          "page_count": 1,
+          "kind": "original",
+          "views": 40,
+          "pic": "https://i2.hdslb.com/bfs/archive/3c0aaf868d61b5483bf6f6f0266a9e5b33d6827f.jpg",
+          "checked_at": "2026-11-08T20:40:49.504283+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "HLNhPMQnWu4": {
       "vid": "HLNhPMQnWu4",
@@ -41827,6 +41852,30 @@
           "views": 42,
           "pic": "https://i1.hdslb.com/bfs/archive/a2a3b59d815b96d973dbc669e840eba77bd146d5.jpg",
           "checked_at": "2026-11-07T05:27:54.967763+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1Je81zQEet",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1Je81zQEet",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【官方双语】陶哲轩访谈（一）：宇宙尺度阶梯",
+          "up": "3Blue1Brown",
+          "duration": 1713,
+          "original_duration": 1713,
+          "cid": 31401643131,
+          "aid": 114947904247098,
+          "segment_title": "【官方双语】陶哲轩访谈（一）：宇宙尺度阶梯",
+          "page_count": 1,
+          "kind": "official_zh",
+          "views": 537415,
+          "pic": "https://i0.hdslb.com/bfs/archive/6ae8466a594a5ba183dbf817558ecc77947a8cb4.jpg",
+          "checked_at": "2026-11-08T20:40:47.915313+00:00",
           "availability": "available"
         }
       ]
@@ -73111,6 +73160,29 @@
           "pic": "https://i0.hdslb.com/bfs/archive/ae5d0cf6102edc6cfff23ba0c97f40804edb7857.jpg",
           "checked_at": "2026-11-08T20:29:21.151274+00:00",
           "availability": "available"
+        },
+        {
+          "bvid": "BV1QSM86fED4",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "Big Buck Bunny 60fps 4K - Official Blender Foundation Short Film",
+          "up": "螺旋吸尘器",
+          "duration": 635,
+          "original_duration": 635,
+          "cid": 39741751351,
+          "aid": 116879851003423,
+          "segment_title": "Big Buck Bunny 60fps 4K - Official Blender Foundation Short Film",
+          "page_count": 1,
+          "kind": "original",
+          "views": 27,
+          "pic": "https://i1.hdslb.com/bfs/archive/ea26bdbce7025b7918d853b5581b158507a55d0d.png",
+          "checked_at": "2026-11-08T20:40:56.410887+00:00",
+          "availability": "available"
         }
       ]
     },
@@ -73152,6 +73224,157 @@
     },
     "b1XGPvbWn0A": {
       "vid": "b1XGPvbWn0A",
+      "status": "review",
+      "completed_at": null,
+      "candidates": []
+    },
+    "k7YVxLLIuGM": {
+      "vid": "k7YVxLLIuGM",
+      "status": "confirmed",
+      "completed_at": "2026-11-08T20:40:54.404905+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1164y1Y7UL",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1164y1Y7UL",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【Bosnian Ape Society】你的汽车是否能安全地抵御超高机动性的防空战斗机？",
+          "up": "NekoRectfier",
+          "duration": 361,
+          "original_duration": 361,
+          "cid": 402821896,
+          "aid": 762814062,
+          "segment_title": "output (2)_压制版",
+          "page_count": 1,
+          "kind": "original",
+          "views": 851,
+          "pic": "https://i0.hdslb.com/bfs/archive/110ca94104c4343f8fc7e0f05e3ce25be12ea7d2.jpg",
+          "checked_at": "2026-11-08T20:40:54.404878+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "b2F-DItXtZs": {
+      "vid": "b2F-DItXtZs",
+      "status": "confirmed",
+      "completed_at": "2026-11-08T20:42:07.592334+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1eq4y1176K",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【中文字幕】MongoDB is Web Scale",
+          "up": "GanlvTech",
+          "duration": 336,
+          "original_duration": 336,
+          "cid": 475075178,
+          "aid": 592756699,
+          "segment_title": "out",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 242,
+          "pic": "https://i2.hdslb.com/bfs/archive/d78c978ec90c709ef49406a17d3c51322ce7d8a0.jpg",
+          "checked_at": "2026-11-08T20:42:05.980209+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "b3dYS7PcAG4": {
+      "vid": "b3dYS7PcAG4",
+      "status": "review",
+      "completed_at": "2026-11-08T20:43:26.549757+00:00",
+      "candidates": []
+    },
+    "b5wfPlgKFh8": {
+      "vid": "b5wfPlgKFh8",
+      "status": "review",
+      "completed_at": "2026-11-08T20:44:01.990434+00:00",
+      "candidates": []
+    },
+    "b9UO9tn4MpI": {
+      "vid": "b9UO9tn4MpI",
+      "status": "review",
+      "completed_at": "2026-11-08T20:45:39.839991+00:00",
+      "candidates": []
+    },
+    "b9j-sfP9GUU": {
+      "vid": "b9j-sfP9GUU",
+      "status": "review",
+      "completed_at": "2026-11-08T20:46:23.028986+00:00",
+      "candidates": []
+    },
+    "b9yL5usLFgY": {
+      "vid": "b9yL5usLFgY",
+      "status": "review",
+      "completed_at": "2026-11-08T20:48:04.214242+00:00",
+      "candidates": []
+    },
+    "bAF35dekiAY": {
+      "vid": "bAF35dekiAY",
+      "status": "review",
+      "completed_at": "2026-11-08T20:49:03.476552+00:00",
+      "candidates": []
+    },
+    "bC6tngl0PTI": {
+      "vid": "bC6tngl0PTI",
+      "status": "review",
+      "completed_at": "2026-11-08T20:49:30.819484+00:00",
+      "candidates": []
+    },
+    "bErPsq5kPzE": {
+      "vid": "bErPsq5kPzE",
+      "status": "review",
+      "completed_at": "2026-11-08T20:50:52.935816+00:00",
+      "candidates": []
+    },
+    "bHLR3faI7lU": {
+      "vid": "bHLR3faI7lU",
+      "status": "review",
+      "completed_at": "2026-11-08T20:52:28.686493+00:00",
+      "candidates": []
+    },
+    "bNpx7gpSqbY": {
+      "vid": "bNpx7gpSqbY",
+      "status": "review",
+      "completed_at": "2026-11-08T20:53:26.278504+00:00",
+      "candidates": []
+    },
+    "bO4jHXjCXw8": {
+      "vid": "bO4jHXjCXw8",
+      "status": "review",
+      "completed_at": "2026-11-08T20:54:45.529526+00:00",
+      "candidates": []
+    },
+    "bT3G-kcKN70": {
+      "vid": "bT3G-kcKN70",
+      "status": "review",
+      "completed_at": "2026-11-08T20:56:22.972803+00:00",
+      "candidates": []
+    },
+    "bU1QPtOZQZU": {
+      "vid": "bU1QPtOZQZU",
+      "status": "review",
+      "completed_at": "2026-11-08T20:57:57.338850+00:00",
+      "candidates": []
+    },
+    "bV9ppvY8Nx4": {
+      "vid": "bV9ppvY8Nx4",
+      "status": "review",
+      "completed_at": "2026-11-08T20:58:09.949010+00:00",
+      "candidates": []
+    },
+    "b_WmjWAGkLI": {
+      "vid": "b_WmjWAGkLI",
       "status": "review",
       "completed_at": null,
       "candidates": []

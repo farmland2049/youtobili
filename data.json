@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-08T20:38:17.882275+00:00",
+  "built_at": "2026-11-08T21:00:08.183763+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5784,
-    "confirmed": 1146,
-    "coverage": 0.17756430120855282,
-    "processed_match_rate": 0.19813278008298754
+    "processed": 5800,
+    "confirmed": 1149,
+    "coverage": 0.1780291292221878,
+    "processed_match_rate": 0.19810344827586207
   },
   "areas": [
     {
@@ -13519,6 +13519,41 @@
       ]
     },
     {
+      "id": "HB5TrK7A4pI",
+      "title": "\"We Really Don't Know How to Compute!\" - Gerald Sussman (2011)",
+      "author": "Strange Loop Conference",
+      "source_url": "https://www.youtube.com/watch?v=HB5TrK7A4pI",
+      "summary": "Gerald Sussman's 2011 Strange Loop keynote argues we still do not know how to compute, comparing biological systems with how we program machines. It touches on propagators, constraint programming and robustness.",
+      "why": "HN commenters recommend it as a mind-expanding talk on rethinking programming, and cite it in threads on propagators, constraints and brittleness.",
+      "score": 5.0,
+      "tags": [
+        "gerald sussman",
+        "propagators",
+        "constraint programming",
+        "scheme",
+        "biological computing"
+      ],
+      "categories": [
+        "functional-programming",
+        "tech-figures-interviews",
+        "biology-biotech"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1H34y1W7QU",
+          "page": 1,
+          "cid": 751440778,
+          "title": "We Really Don't Know How to Compute! - Gerald Sussman (2011)| 我们真的不知道如何计算！",
+          "up": "安常投资",
+          "duration": 3859,
+          "kind": "original",
+          "views": 40,
+          "pic": "https://i2.hdslb.com/bfs/archive/3c0aaf868d61b5483bf6f6f0266a9e5b33d6827f.jpg",
+          "checked_at": "2026-11-08T20:40:49.504283+00:00"
+        }
+      ]
+    },
+    {
       "id": "I7IdS-PbEgI",
       "title": "React.js Conf 2015 - Immutable Data and React",
       "author": "Meta Developers",
@@ -26307,6 +26342,18 @@
         "recreational-math"
       ],
       "versions": [
+        {
+          "bvid": "BV1Je81zQEet",
+          "page": 1,
+          "cid": 31401643131,
+          "title": "【官方双语】陶哲轩访谈（一）：宇宙尺度阶梯",
+          "up": "3Blue1Brown",
+          "duration": 1713,
+          "kind": "official_zh",
+          "views": 537415,
+          "pic": "https://i0.hdslb.com/bfs/archive/6ae8466a594a5ba183dbf817558ecc77947a8cb4.jpg",
+          "checked_at": "2026-11-08T20:40:47.915313+00:00"
+        },
         {
           "bvid": "BV1L5UDBdEsh",
           "page": 1,
@@ -44685,6 +44732,52 @@
           "views": 559,
           "pic": "https://i0.hdslb.com/bfs/archive/ae5d0cf6102edc6cfff23ba0c97f40804edb7857.jpg",
           "checked_at": "2026-11-08T20:29:21.151274+00:00"
+        },
+        {
+          "bvid": "BV1QSM86fED4",
+          "page": 1,
+          "cid": 39741751351,
+          "title": "Big Buck Bunny 60fps 4K - Official Blender Foundation Short Film",
+          "up": "螺旋吸尘器",
+          "duration": 635,
+          "kind": "original",
+          "views": 27,
+          "pic": "https://i1.hdslb.com/bfs/archive/ea26bdbce7025b7918d853b5581b158507a55d0d.png",
+          "checked_at": "2026-11-08T20:40:56.410887+00:00"
+        }
+      ]
+    },
+    {
+      "id": "b2F-DItXtZs",
+      "title": "Episode 1 - Mongo DB Is Web Scale",
+      "author": "gar1t",
+      "source_url": "https://www.youtube.com/watch?v=b2F-DItXtZs",
+      "summary": "A satirical animated dialogue in which a naive developer insists MongoDB is web scale while a database expert mocks him. It parodies the NoSQL versus relational debate.",
+      "why": "Posted as a classic meme whenever MongoDB, NoSQL hype or tech fads come up.",
+      "score": 0.0,
+      "tags": [
+        "mongodb",
+        "nosql",
+        "meme",
+        "web scale",
+        "databases"
+      ],
+      "categories": [
+        "satire-parody",
+        "databases-storage"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1eq4y1176K",
+          "page": 1,
+          "cid": 475075178,
+          "title": "【中文字幕】MongoDB is Web Scale",
+          "up": "GanlvTech",
+          "duration": 336,
+          "kind": "sub_zh",
+          "views": 242,
+          "pic": "https://i2.hdslb.com/bfs/archive/d78c978ec90c709ef49406a17d3c51322ce7d8a0.jpg",
+          "checked_at": "2026-11-08T20:42:05.980209+00:00"
         }
       ]
     },
@@ -44945,6 +45038,40 @@
           "views": 49,
           "pic": "https://i2.hdslb.com/bfs/archive/59a01ebfe76158c180fbea5a0f975e308eee37e1.jpg",
           "checked_at": "2026-11-07T05:28:16.875252+00:00"
+        }
+      ]
+    },
+    {
+      "id": "k7YVxLLIuGM",
+      "title": "Is Your Car Safe From Supermaneuverable Air-Defense Fighter Aircraft?",
+      "author": "Bosnian Ape Society",
+      "source_url": "https://www.youtube.com/watch?v=k7YVxLLIuGM",
+      "summary": "A deadpan comedy video offering mock advice on defending your car from supermaneuverable fighter jets and air-to-surface missiles. It jokes about installing close-in Gatling guns and radar.",
+      "why": "Invoked as a joke in threads about large vehicles, car safety and absurd hypothetical scenarios.",
+      "score": 0.0,
+      "tags": [
+        "meme",
+        "parody",
+        "fighter jets",
+        "cars",
+        "deadpan"
+      ],
+      "categories": [
+        "satire-parody",
+        "standup-sketch-comedy"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1164y1Y7UL",
+          "page": 1,
+          "cid": 402821896,
+          "title": "【Bosnian Ape Society】你的汽车是否能安全地抵御超高机动性的防空战斗机？",
+          "up": "NekoRectfier",
+          "duration": 361,
+          "kind": "original",
+          "views": 851,
+          "pic": "https://i0.hdslb.com/bfs/archive/110ca94104c4343f8fc7e0f05e3ce25be12ea7d2.jpg",
+          "checked_at": "2026-11-08T20:40:54.404878+00:00"
         }
       ]
     },
@@ -45917,6 +46044,7 @@
     "BV1mt411v7X9": "FtieBc3KptU",
     "BV1uJ411D7ZZ": "FtieBc3KptU",
     "BV17x4y1q7SF": "G0Cp7DrvNLQ",
+    "BV1H34y1W7QU": "HB5TrK7A4pI",
     "BV14t411h7br": "I7IdS-PbEgI",
     "BV1qAm7BcEiZ": "IroPQ150F6c",
     "BV1Qa4y177Tx": "Ki_Af_o9Q9s",
@@ -46367,6 +46495,7 @@
     "BV1uB4y167Mf": "XxCha4Kez9c",
     "BV1wV411i7Ji": "YAtLTLiqNwg",
     "BV1Ws411e73w": "YMqgiXLjvRs",
+    "BV1Je81zQEet": "YdOXS_9_P4U",
     "BV1L5UDBdEsh": "YdOXS_9_P4U",
     "BV16Q7FzbEmc": "ZOzZ8R4gphE",
     "BV1Gf4y1f7Pi": "_9B__0S21y8",
@@ -46969,6 +47098,8 @@
     "BV1VJ411u7Hk": "_sBBaNYex3E",
     "BV1zx42127p1": "ap-BkkrRg-o",
     "BV1gD4y1o72p": "aqz-KE-bpKQ",
+    "BV1QSM86fED4": "aqz-KE-bpKQ",
+    "BV1eq4y1176K": "b2F-DItXtZs",
     "BV1os4y1K7i7": "bZe5J8SVCYQ",
     "BV1P5411878N": "bZe5J8SVCYQ",
     "BV1Mb4y1U7Zz": "dk3oc1Hr62g",
@@ -46978,6 +47109,7 @@
     "BV1gb411V7v1": "iGLzWdT7vGc",
     "BV1ot4y127mw": "iKcWu0tsiZM",
     "BV1MDMzzcEkb": "iWeu2dxHRDg",
+    "BV1164y1Y7UL": "k7YVxLLIuGM",
     "BV1XbfHYzEqD": "kJQP7kiw5Fk",
     "BV1rw411C7Va": "lUQ_0MubbcM",
     "BV1oULi6gEeB": "lXUZvyajciY",

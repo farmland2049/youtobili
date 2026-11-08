@@ -253,6 +253,22 @@
 
 构建后共1146张原片卡、1582个确认分P、0个冲突，`data.json` 数据校验、65项单元测试、Node语法检查及桌面/手机15个浏览器场景均通过。
 
+## 2026-11-08 恢复后增量三十二
+
+继续执行批次 `serial-20261108T203949Z`。启动前由 `drain_identities` 完成4条来源身份线索核验并确认（包括为已确认原片 `YdOXS_9_P4U` 增加版本 `BV1Je81zQEet`、为 `aqz-KE-bpKQ` 增加版本 `BV1QSM86fED4`，以及确认新原片 `HB5TrK7A4pI`、`k7YVxLLIuGM`）。随后搜索批次串行处理15条（14条待审、1条确认），在第16次尝试 `b_WmjWAGkLI` 时遇到 `URLError` 停止，错误不表示视频失效，该ID已加入本地阻塞清单，累计87条，不自动重试。工作库进度推进至5800/6454，确认增至1149，剩余待处理原片降至654部。
+
+本轮新增确认原片3部（共5个确认版本）：
+- `HB5TrK7A4pI` → `BV1H34y1W7QU`（"We Really Don't Know How to Compute!" - Gerald Sussman (2011)，3859秒 vs 3859秒）
+- `k7YVxLLIuGM` → `BV1164y1Y7UL`（Is Your Car Safe From Supermaneuverable Air-Defense Fighter Aircraft?，361秒 vs 361秒）
+- `b2F-DItXtZs` → `BV1eq4y1176K`（Episode 1 - Mongo DB Is Web Scale，API时长336秒 vs 原片336秒，实播328秒在容差内）
+- 并为 `YdOXS_9_P4U` 新增版本 `BV1Je81zQEet`（Terence Tao on the cosmic distance ladder，1713秒 vs 1713秒）
+- 为 `aqz-KE-bpKQ` 新增版本 `BV1QSM86fED4`（Big Buck Bunny 60fps 4K，635秒 vs 634秒）
+
+5条版本均为单P且完整简介含对应原片链接，时长与原片一致。标题元数据复核完成，无集数或衍生冲突；冲突审计0冲突。5个新增版本实播烟测均通过（4个时长完全一致，1个时长差异8.2秒在8%容差范围内）并捕获实际CID与匹配时长，快照哈希与实播结果见 `reports/metadata-review-2026-11-08-resume32.json` 和 `reports/playback-increment-2026-11-08-resume32.json`；未做逐帧比较。
+
+构建后共1149张原片卡、1587个确认分P、0个冲突，`data.json` 数据校验、65项单元测试、Node语法检查及桌面/手机15个浏览器场景均通过。
+
+
 
 
 
