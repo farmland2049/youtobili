@@ -191,6 +191,15 @@
 
 构建后共1131张原片卡、1565个确认分P、0个冲突，`data.json` 数据校验、65项单元测试、Node语法检查及桌面/手机15个浏览器场景均通过。
 
+## 2026-11-08 恢复后增量二十四
+
+继续执行批次 `serial-20261108T170434Z`。搜索批次串行处理33条（31条待审、2条确认），在第34次尝试 `X7HmltUWXgs` 时遇到 `URLError` 停止，错误不表示视频失效，该ID已加入本地阻塞清单，累计80条，不自动重试。工作库进度推进至5650/6454，确认增至1133，剩余待处理原片降至804部。
+
+本轮新增确认原片2部：`WiPp9YEBV0Q` → `BV1gZ421T7AG`（Filesystem in Rust - Kent Overstreet，2116秒）、`X3-hOigoxHs` → `BV1zP4y1r73e`（The Adorkable Misogyny of The Big Bang Theory，1271秒）。两条均为单P且完整简介含对应原片链接，时长与原片一致。标题元数据复核完成，无集数或衍生冲突；冲突审计0冲突。2部新增原片实播烟测均通过并捕获实际CID与匹配时长，快照哈希与实播结果见 `reports/metadata-review-2026-11-08-resume24.json` 和 `reports/playback-increment-2026-11-08-resume24.json`；未做逐帧比较。
+
+构建后共1133张原片卡、1567个确认分P、0个冲突，`data.json` 数据校验、65项单元测试、Node语法检查及桌面/手机15个浏览器场景均通过。
+
+
 
 
 

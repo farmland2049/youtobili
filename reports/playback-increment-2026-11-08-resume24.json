@@ -1,0 +1,47 @@
+{
+  "checked_at": "2026-11-08T17:41:35.317Z",
+  "checks": [
+    {
+      "sample": "WiPp9YEBV0Q",
+      "kind": "original",
+      "id": "WiPp9YEBV0Q",
+      "bvid": "BV1gZ421T7AG",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.855358,
+        "duration": 2116,
+        "paused": false
+      },
+      "expected_duration": 2116,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1612680776"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Filesystem in Rust - Kent Overstreet\n搬运大仙\n关注\n12\n2\n分享\n更多\n00:04 / 35:16\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "X3-hOigoxHs",
+      "kind": "sub_zh",
+      "id": "X3-hOigoxHs",
+      "bvid": "BV1zP4y1r73e",
+      "page": 1,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.966052,
+        "duration": 1270,
+        "paused": false
+      },
+      "expected_duration": 1271,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "976291447"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【流行文化侦探社 | 中英】《生活大爆炸》中的\"adorkable misogyny\"\n灾难尽头\n关注\n71\n10\n分享\n更多\n00:04 / 21:10\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

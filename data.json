@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-08T17:03:36.267400+00:00",
+  "built_at": "2026-11-08T17:41:11.651751+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5617,
-    "confirmed": 1131,
-    "coverage": 0.17524016114037805,
-    "processed_match_rate": 0.2013530354281645
+    "processed": 5650,
+    "confirmed": 1133,
+    "coverage": 0.17555004648280137,
+    "processed_match_rate": 0.20053097345132742
   },
   "areas": [
     {
@@ -44124,6 +44124,75 @@
       ]
     },
     {
+      "id": "WiPp9YEBV0Q",
+      "title": "Filesystem in Rust - Kent Overstreet",
+      "author": "The Linux Foundation",
+      "source_url": "https://www.youtube.com/watch?v=WiPp9YEBV0Q",
+      "summary": "Kent Overstreet's Linux Foundation talk about writing a filesystem in Rust. Its Q&A segment, where Rust-for-Linux developers ask about interface semantics, became widely cited.",
+      "why": "Mostly cited as evidence of the friction between kernel maintainers and Rust developers, notably in Wedson Almeida Filho's resignation.",
+      "score": 0.0,
+      "tags": [
+        "rust",
+        "linux kernel",
+        "filesystems",
+        "bcachefs",
+        "kernel maintainers"
+      ],
+      "categories": [
+        "systems-programming-languages",
+        "linux-open-source-os",
+        "databases-storage"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1gZ421T7AG",
+          "page": 1,
+          "cid": 1612680776,
+          "title": "Filesystem in Rust - Kent Overstreet",
+          "up": "搬运大仙",
+          "duration": 2116,
+          "kind": "original",
+          "views": 337,
+          "pic": "https://i1.hdslb.com/bfs/archive/97bb1bad3dbb6170f13f311d61adf9f50e0a3b1c.jpg",
+          "checked_at": "2026-11-08T17:30:20.722960+00:00"
+        }
+      ]
+    },
+    {
+      "id": "X3-hOigoxHs",
+      "title": "The Adorkable Misogyny of The Big Bang Theory",
+      "author": "Pop Culture Detective",
+      "source_url": "https://www.youtube.com/watch?v=X3-hOigoxHs",
+      "summary": "A video essay from Pop Culture Detective arguing that The Big Bang Theory normalizes sexism and toxic masculinity through its portrayal of nerd men. It analyzes recurring tropes in how the male leads treat women.",
+      "why": "Cited as a critique whenever HN discusses the show's depiction of nerd culture and STEM men.",
+      "score": 0.0,
+      "tags": [
+        "big bang theory",
+        "misogyny",
+        "video essay",
+        "nerd culture",
+        "masculinity"
+      ],
+      "categories": [
+        "film-criticism-analysis",
+        "social-issues-culture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1zP4y1r73e",
+          "page": 1,
+          "cid": 976291447,
+          "title": "【流行文化侦探社 | 中英】《生活大爆炸》中的\"adorkable misogyny\"",
+          "up": "灾难尽头",
+          "duration": 1271,
+          "kind": "sub_zh",
+          "views": 1167,
+          "pic": "https://i0.hdslb.com/bfs/archive/44e781d14e1b2caa0d55e5e1268b840161e24e4f.jpg",
+          "checked_at": "2026-11-08T17:38:01.666575+00:00"
+        }
+      ]
+    },
+    {
       "id": "YIWV5fSaUB8",
       "title": "My channel was deleted... HOW?",
       "author": "Jim Browning",
@@ -46418,6 +46487,8 @@
     "BV1qm421K7bP": "TGfQu0bQTKc",
     "BV1q54y147ZJ": "U_o8gerare0",
     "BV1jW411B7Sf": "VfjjiHGuHoc",
+    "BV1gZ421T7AG": "WiPp9YEBV0Q",
+    "BV1zP4y1r73e": "X3-hOigoxHs",
     "BV1Vq4y1H7Ro": "YIWV5fSaUB8",
     "BV1hv41117Th": "_K-L9uhsBLM",
     "BV1WJ411u71d": "_sBBaNYex3E",
