@@ -478,10 +478,38 @@
 4. **异常隔离**：
    - 增量四十、四十一遇到的 2 次网络连接异常（`ll3CMgiUPuU`、`mJHvSp9AKYg`）均严格遵循零猜测规则，不直接判定为视频失效，不自动重试，隔离写入排除清单，累计排除原片数记为 91 部。
 
+## 2026-11-09 第1轮推进（continue-20261109-r1）
 
+本轮在分支 `continue-20261109-r1` 工作，对应本地提交 `b148920`（未推送、未合并到 `main`）。本轮不修改发布数据 [`data.json`](data.json)，核实并记录以下关键事实与工作进展：
 
+### 1. 实播烟测退出码强化与测试套件扩充
+- [`scripts/playback_smoke.cjs`](scripts/playback_smoke.cjs) 机制强化：任何检查失败或检查集合为空（0 条检查）时，CLI 进程均严格以非 0 状态码退出；输出报告中每条 check 对象均包含布尔型 `passed` 及详细问题列表 `issues`。
+- 新增评估函数 [`scripts/playback_smoke.cjs#L23-L32`](scripts/playback_smoke.cjs#L23-L32)，统一评估执行结果并在存在异常时汇总失败信息。
+- 单元测试扩展：在 [`tests/test_playback_smoke.py`](tests/test_playback_smoke.py) 中新增离线单元测试与本地 HTTP 端到端超时模拟用例。全套 Python 单元测试数量从 71 项扩充至 75 项。经本地真实运行，75 项测试全部通过（Ran 75 tests in 5.744s, OK），无编造测试结果。本项改动包含在本地提交 `b148920` 中（未推送、未合并 main）。
 
+### 2. 11月8日历史新增版本的实播审计与现状
+- 针对 11 月 8 日提交 `d697cec` 相对 `f2d8860` 引入的 106 个新版本：此前提交 `b4e780d`（已在 `main`）已完成对其中 59 个缺少独立日志版本的实播审计，记录归档于 [`reports/playback-audit-59.json`](reports/playback-audit-59.json)。
+- 审计结果：58 个版本实播通过；1 个版本 `ugvHCXCOmm4` / `BV13Em8YFEjg` 因播放器实播时长（12202.1 秒）与声明时长（18901 秒）严重不符（偏差 6698.9 秒 > 3 秒）撤回并设待审；另有 `b2F-DItXtZs` / `BV1eq4y1176K` 亦因实播流时长（327.8 秒）与声明（336 秒）偏差 8.2 秒 > 3 秒撤回。
+- 当前公开库（[`data.json`](data.json)）中该批仍上线的 104 个版本均具备实播日志且全部通过。本轮无需也不做重复实播。
 
+### 3. 主页地址配置与 GitHub 仓库设置交回项
+- 本地提交 `b148920` 已在 [`package.json`](package.json) 中添加 `homepage` 字段：`https://farmland2049.github.io/youtobili/`（未推送、未合并 main）。
+- 经核对，GitHub 仓库设置（Repository Settings）里的 Website 仍配置为旧值 `https://qinqiang316.github.io/youtobili/`。因修改仓库设置需要仓库管理权限与专门授权，本轮未作修改，明确记为未完成交回项。
 
+### 4. 待审队列失真与工作库状态卡点
+- 从 [`data/confirmed.json`](data/confirmed.json) 执行 `import` 重建工作库后缺少 `search_result_limit`，无法忠实清理 4820 条已扩大待审原片。
+- [`reports/STATUS.md`](reports/STATUS.md) 中显示「待审中尚需扩大 5018 / 已扩大 50」，属于 `import` 重建后的失真统计，不能当作真实队列恢复。
 
+### 5. 未处理原片匹配批次与进展
+- 本轮另对未处理原片运行了 1 批 `match --primary-first --limit 50 --delay 2`，并使用 `--exclude-vid` 明确排除此前隔离的 91 个网络异常原片。
+- 批次 ID 为 `20261109T085022Z`；50/50 完成，全部 `status=review`，0 新确认，0 错误，0 风控停止；日志见 `/workspace/youtobili-r1-logs/match-r1-batch1.log`。
+- 处理后状态：完成处理 6154→6200（[`reports/STATUS.md`](reports/STATUS.md) 当前），确认原片仍 1180，全库覆盖率仍 18.28%；未处理约 254（6454-6200）。
 
+### 6. 离线线索整理与核验
+- `seed-identities` 离线得 1 条线索，经 `verify-leads` 核验后仍为 `review`（时长超容差且简介多原片链接），0 确认。
+- `seed-related` 离线新增 4 条合集候选线索，未自动批准。
+
+### 7. 交付与发布现状
+- 本轮无新上线版本，故未跑实播烟测增量、未 `build` 发布数据。
+- 单元测试经本地真实运行，75 项测试全部通过（Ran 75 tests in 5.744s, OK）。
+- 仍未推送、未开 PR、未合并 `main`。
