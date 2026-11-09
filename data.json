@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-09T08:22:46.767114+00:00",
+  "built_at": "2026-11-09T10:35:19.186795+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 6154,
-    "confirmed": 1180,
-    "coverage": 0.18283235202974898,
-    "processed_match_rate": 0.19174520636984074
+    "processed": 6200,
+    "confirmed": 1184,
+    "coverage": 0.1834521227145956,
+    "processed_match_rate": 0.19064516129032258
   },
   "areas": [
     {
@@ -10851,6 +10851,40 @@
       ]
     },
     {
+      "id": "5MgBikgcWnY",
+      "title": "The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU",
+      "author": "TEDx Talks",
+      "source_url": "https://www.youtube.com/watch?v=5MgBikgcWnY",
+      "summary": "Josh Kaufman's TEDx talk argues that you can reach practical competence in almost any skill with about 20 hours of focused practice, rather than the 10,000 hours often quoted. He describes how becoming a parent led him to rethink how adults learn, and lays out a short method for rapid skill acquisition.",
+      "why": "HN uses it as the standard counterpoint to the 10,000-hour rule and as an encouraging recipe for starting new skills.",
+      "score": 6.0,
+      "tags": [
+        "20 hours",
+        "learning",
+        "deliberate practice",
+        "10000 hour rule",
+        "self-improvement"
+      ],
+      "categories": [
+        "productivity-self-improvement",
+        "education-learning"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Fb4y1Q73z",
+          "page": 1,
+          "cid": 326041266,
+          "title": "(中文字幕)The first 20 hours -- how to learn anything _ Josh Kaufman _ TEDxCSU",
+          "up": "某某东路",
+          "duration": 1166,
+          "kind": "sub_zh",
+          "views": 693,
+          "pic": "https://i2.hdslb.com/bfs/archive/07d91cb3e0c5cff571b2a1b601e83c61b89b7085.jpg",
+          "checked_at": "2026-11-09T10:09:54.213662+00:00"
+        }
+      ]
+    },
+    {
       "id": "6orsmFndx_o",
       "title": "Ivan Sutherland Sketchpad Demo 1963",
       "author": "Interface Studies",
@@ -16539,6 +16573,41 @@
       ]
     },
     {
+      "id": "iDulhoQ2pro",
+      "title": "Attention Is All You Need",
+      "author": "Yannic Kilcher",
+      "source_url": "https://www.youtube.com/watch?v=iDulhoQ2pro",
+      "summary": "Yannic Kilcher walks through the Attention Is All You Need paper, which introduced the Transformer, a sequence model based solely on attention without recurrence or convolutions. He reviews the architecture and the paper's translation results.",
+      "why": "HN recommends it as an accessible, clear walkthrough of the transformer paper for people with some AI background.",
+      "score": 4.5,
+      "tags": [
+        "transformers",
+        "attention",
+        "paper review",
+        "deep learning",
+        "nlp",
+        "yannic kilcher"
+      ],
+      "categories": [
+        "llms-generative-ai",
+        "machine-learning"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1XQWCe8EHf",
+          "page": 1,
+          "cid": 500001662083035,
+          "title": "【Yannic Kilcher】“Attention Is All You Need”论文精读",
+          "up": "强尼_official",
+          "duration": 1627,
+          "kind": "original",
+          "views": 77,
+          "pic": "https://i1.hdslb.com/bfs/archive/baaffd419674831fa15e72ca4a8c9d017fa31c8a.jpg",
+          "checked_at": "2026-11-09T10:10:52.249524+00:00"
+        }
+      ]
+    },
+    {
       "id": "kfg_e6YG37U",
       "title": "Deskbound | Kelly Starrett | Talks at Google",
       "author": "Talks at Google",
@@ -18874,6 +18943,41 @@
           "views": 383,
           "pic": "https://i2.hdslb.com/bfs/archive/5558b3d51ae013925c46443fa065e1a630388ee5.jpg",
           "checked_at": "2026-11-07T05:27:47.174466+00:00"
+        }
+      ]
+    },
+    {
+      "id": "oUaOucZRlmE",
+      "title": "Bret Victor - Media for Thinking the Unthinkable",
+      "author": "Colin McDonnell",
+      "source_url": "https://www.youtube.com/watch?v=oUaOucZRlmE",
+      "summary": "Bret Victor's 2013 MIT Media Lab talk argues that the media we think with determine which thoughts are possible. He demos new representations for scientific papers, circuits, filters and signal processing.",
+      "why": "HN treats it as one of the canonical Bret Victor talks, cited whenever discussion turns to better tools and interfaces for thinking.",
+      "score": 4.0,
+      "tags": [
+        "bret victor",
+        "explorable explanations",
+        "visual thinking",
+        "tools for thought",
+        "interactive notation"
+      ],
+      "categories": [
+        "gui-hci-history",
+        "education-learning",
+        "data-visualization"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1WX4y1P7Yo",
+          "page": 1,
+          "cid": 361822357,
+          "title": "Bret Victor - Media for Thinking the Unthinkable",
+          "up": "题叶",
+          "duration": 2373,
+          "kind": "original",
+          "views": 58,
+          "pic": "https://i2.hdslb.com/bfs/archive/4c9c85dee1965dca324a7547219c03124329e064.jpg",
+          "checked_at": "2026-11-09T10:12:14.379647+00:00"
         }
       ]
     },
@@ -28221,6 +28325,41 @@
           "views": 6642,
           "pic": "https://i1.hdslb.com/bfs/archive/abce4845f91e2c77347b9388a498606a06d73d2f.jpg",
           "checked_at": "2026-11-07T05:27:47.019047+00:00"
+        }
+      ]
+    },
+    {
+      "id": "-EVqrDlAqYo",
+      "title": "Jeff Hawkins: Thousand Brains Theory of Intelligence | Lex Fridman Podcast #25",
+      "author": "Lex Fridman",
+      "source_url": "https://www.youtube.com/watch?v=-EVqrDlAqYo",
+      "summary": "Lex Fridman interviews Jeff Hawkins, founder of Numenta and author of On Intelligence, about the Thousand Brains Theory and reverse-engineering the neocortex. They also cover Hierarchical Temporal Memory and brain-inspired AI architectures.",
+      "why": "HN people send others here to hear Hawkins explain his theory in his own words, including reference frames and the old versus new brain.",
+      "score": 2.5,
+      "tags": [
+        "thousand brains",
+        "jeff hawkins",
+        "neuroscience",
+        "hierarchical temporal memory",
+        "reference frames"
+      ],
+      "categories": [
+        "neuroscience-brain",
+        "machine-learning",
+        "tech-figures-interviews"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1uM4y1r7er",
+          "page": 1,
+          "cid": 1046991770,
+          "title": "千脑理论 Jeff Hawkins: Thousand Brains Theory of Intelligence | Lex Fridman Podcast",
+          "up": "___喵喵喵____",
+          "duration": 7782,
+          "kind": "original",
+          "views": 478,
+          "pic": "https://i1.hdslb.com/bfs/archive/ca7acc3c651a35fb73cd2a06709530f0df9112fe.jpg",
+          "checked_at": "2026-11-09T10:15:37.136113+00:00"
         }
       ]
     },
@@ -47082,6 +47221,7 @@
     "BV1mi4y1q73Y": "p7bzE1E5PMY",
     "BV1aTmqYSEcJ": "1e8VZlPBx_0",
     "BV1Rk4y1r7tQ": "2XLZ4Z8LpEE",
+    "BV1Fb4y1Q73z": "5MgBikgcWnY",
     "BV1Sq4y1N7Hx": "6orsmFndx_o",
     "BV1524y1C76M": "A9UmdY0E8hU",
     "BV1wyZnY2EC9": "AJ-auWfJTts",
@@ -47285,6 +47425,7 @@
     "BV1JE411X7NE": "dpw9EHDh2bM",
     "BV18u411B75s": "gV5obrYaogU",
     "BV1Pju1zkEoi": "hC3VTgIPoGU",
+    "BV1XQWCe8EHf": "iDulhoQ2pro",
     "BV12D4y197aA": "kfg_e6YG37U",
     "BV1Dv411H7hz": "klTjiXjqHrQ",
     "BV1Fz4y1R7EG": "kmFOBoy2MZ8",
@@ -47366,6 +47507,7 @@
     "BV1Wy4y1B7ZY": "mOtKD7ml0NU",
     "BV14NCPYMEa3": "mdKst8zeh-U",
     "BV1PF411e7AP": "mwrA5IRGpfU",
+    "BV1WX4y1P7Yo": "oUaOucZRlmE",
     "BV1H4411379A": "qhbuKbxJsk8",
     "BV15gJB6UEBL": "qhbuKbxJsk8",
     "BV1A54y1B7B4": "sK5i-N34im8",
@@ -47693,6 +47835,7 @@
     "BV1vszkBCEb1": "yY9GAyJtuJ0",
     "BV1MY411Y7tX": "yy8jQgmhbAU",
     "BV1ux411x7VD": "zQGOcOUBi6s",
+    "BV1uM4y1r7er": "-EVqrDlAqYo",
     "BV1VGHE6YEDZ": "0lJKucu6HJc",
     "BV1XM4y1d72B": "0lJKucu6HJc",
     "BV14x42197SJ": "0lJKucu6HJc",

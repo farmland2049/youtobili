@@ -1,0 +1,102 @@
+{
+  "checked_at": "2026-11-09T10:36:07.301Z",
+  "passed": true,
+  "checks": [
+    {
+      "sample": "iDulhoQ2pro",
+      "kind": "original",
+      "id": "iDulhoQ2pro",
+      "bvid": "BV1XQWCe8EHf",
+      "page": 1,
+      "cid": 500001662083035,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.04344,
+        "duration": 1627,
+        "paused": false
+      },
+      "expected_duration": 1627,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "500001662083035"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "关注\n分享\n更多\n00:04 / 27:07\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "-EVqrDlAqYo",
+      "kind": "original",
+      "id": "-EVqrDlAqYo",
+      "bvid": "BV1uM4y1r7er",
+      "page": 1,
+      "cid": 1046991770,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.933914,
+        "duration": 7782,
+        "paused": false
+      },
+      "expected_duration": 7782,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1046991770"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "关注\n分享\n更多\n0:00:04 / 2:09:42\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "5MgBikgcWnY",
+      "kind": "sub_zh",
+      "id": "5MgBikgcWnY",
+      "bvid": "BV1Fb4y1Q73z",
+      "page": 1,
+      "cid": 326041266,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 2.740022,
+        "duration": 1167,
+        "paused": false
+      },
+      "expected_duration": 1166,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "326041266"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "关注\n分享\n更多\n00:03 / 19:27\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "oUaOucZRlmE",
+      "kind": "original",
+      "id": "oUaOucZRlmE",
+      "bvid": "BV1WX4y1P7Yo",
+      "page": 1,
+      "cid": 361822357,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.964898,
+        "duration": 2373,
+        "paused": false
+      },
+      "expected_duration": 2373,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "361822357"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "关注\n分享\n更多\n00:04 / 39:33\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    }
+  ]
+}

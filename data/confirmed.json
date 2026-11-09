@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T08:22:46.850732+00:00",
+  "updated_at": "2026-11-09T10:35:19.224108+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -106,8 +106,15 @@
     "qQTjLWIHN74": {
       "vid": "qQTjLWIHN74",
       "status": "review",
-      "completed_at": "2026-11-04T06:54:09.151648+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T10:15:16.590980+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T10:14:52.992051+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The One Tiny Law That Keeps Amtrak Terrible",
+        "Wendover Productions The One Tiny Law That Keeps Amtrak Terrible"
+      ],
+      "search_result_limit": 20
     },
     "muPcHs-E4qc": {
       "vid": "muPcHs-E4qc",
@@ -434,8 +441,15 @@
     "2pWv7GOvuf0": {
       "vid": "2pWv7GOvuf0",
       "status": "review",
-      "completed_at": "2026-11-04T06:53:48.227513+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T10:09:11.152481+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T10:08:21.084442+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "RL Course by David Silver - Lecture 1: Introduction to Reinforcement Learning",
+        "Google DeepMind RL Course by David Silver - Lecture 1: Introduction to Reinforcement Learning"
+      ],
+      "search_result_limit": 20
     },
     "WXuK6gekU1Y": {
       "vid": "WXuK6gekU1Y",
@@ -470,7 +484,7 @@
     "7xTGNNLPyMI": {
       "vid": "7xTGNNLPyMI",
       "status": "confirmed",
-      "completed_at": "2026-11-07T21:34:14.587418+00:00",
+      "completed_at": null,
       "candidates": [
         {
           "bvid": "BV19ZN8eVEsS",
@@ -810,7 +824,7 @@
     "zjkBMFhNj_g": {
       "vid": "zjkBMFhNj_g",
       "status": "confirmed",
-      "completed_at": "2026-11-07T21:34:42.643181+00:00",
+      "completed_at": null,
       "candidates": [
         {
           "bvid": "BV1AU421o7ob",
@@ -1103,9 +1117,40 @@
     },
     "iDulhoQ2pro": {
       "vid": "iDulhoQ2pro",
-      "status": "review",
-      "completed_at": "2026-11-04T06:53:49.066640+00:00",
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-09T10:10:52.283527+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1XQWCe8EHf",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【Yannic Kilcher】“Attention Is All You Need”论文精读",
+          "up": "强尼_official",
+          "duration": 1627,
+          "original_duration": 1627,
+          "cid": 500001662083035,
+          "aid": 113023222023060,
+          "segment_title": "【Yannic Kilcher】“Attention Is All You Need”论文精读",
+          "page_count": 1,
+          "kind": "original",
+          "views": 77,
+          "pic": "https://i1.hdslb.com/bfs/archive/baaffd419674831fa15e72ca4a8c9d017fa31c8a.jpg",
+          "checked_at": "2026-11-09T10:10:52.249524+00:00",
+          "availability": "available"
+        }
+      ],
+      "searched_at": "2026-11-09T10:10:50.747695+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Attention Is All You Need",
+        "Yannic Kilcher Attention Is All You Need"
+      ],
+      "search_result_limit": 20
     },
     "hJP5GqnTrNo": {
       "vid": "hJP5GqnTrNo",
@@ -1420,8 +1465,15 @@
     "rsxCZAE8QNA": {
       "vid": "rsxCZAE8QNA",
       "status": "review",
-      "completed_at": "2026-11-04T06:54:32.068629+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T10:16:26.043666+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T10:16:14.381767+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "HC2023-K2: Hardware for Deep Learning",
+        "hotchipsvideos HC2023-K2: Hardware for Deep Learning"
+      ],
+      "search_result_limit": 20
     },
     "SGUCcjHTmGY": {
       "vid": "SGUCcjHTmGY",
@@ -1456,26 +1508,78 @@
     "RjfbvDXpFls": {
       "vid": "RjfbvDXpFls",
       "status": "review",
-      "completed_at": "2026-11-04T06:53:49.658187+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T10:13:32.596562+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T10:12:52.371719+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Building pi in a World of Slop — Mario Zechner",
+        "AI Engineer Building pi in a World of Slop — Mario Zechner"
+      ],
+      "search_result_limit": 20
     },
     "-EVqrDlAqYo": {
       "vid": "-EVqrDlAqYo",
-      "status": "review",
-      "completed_at": "2026-11-04T06:54:12.517444+00:00",
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-09T10:15:37.181022+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1uM4y1r7er",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "千脑理论 Jeff Hawkins: Thousand Brains Theory of Intelligence | Lex Fridman Podcast",
+          "up": "___喵喵喵____",
+          "duration": 7782,
+          "original_duration": 7782,
+          "cid": 1046991770,
+          "aid": 908373213,
+          "segment_title": "千脑理论 Jeff Hawkins: Thousand Brains Theory of Intelligence | Lex Fridman Podcast",
+          "page_count": 1,
+          "kind": "original",
+          "views": 478,
+          "pic": "https://i1.hdslb.com/bfs/archive/ca7acc3c651a35fb73cd2a06709530f0df9112fe.jpg",
+          "checked_at": "2026-11-09T10:15:37.136113+00:00",
+          "availability": "available"
+        }
+      ],
+      "searched_at": "2026-11-09T10:15:25.203520+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Jeff Hawkins: Thousand Brains Theory of Intelligence | Lex Fridman Podcast #25",
+        "Lex Fridman Jeff Hawkins: Thousand Brains Theory of Intelligence | Lex Fridman Podcast #25"
+      ],
+      "search_result_limit": 20
     },
     "lhYGXYeMq_E": {
       "vid": "lhYGXYeMq_E",
       "status": "review",
-      "completed_at": "2026-11-04T06:53:48.698893+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T10:10:22.770003+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T10:10:02.826875+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Why Greatness Cannot Be Planned — Kenneth Stanley",
+        "Machine Learning Street Talk Why Greatness Cannot Be Planned — Kenneth Stanley"
+      ],
+      "search_result_limit": 20
     },
     "Ucp0TTmvqOE": {
       "vid": "Ucp0TTmvqOE",
       "status": "review",
-      "completed_at": "2026-11-04T06:54:01.526432+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T10:13:42.269464+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T10:13:40.266135+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Tesla Autonomy Day",
+        "Tesla Tesla Autonomy Day"
+      ],
+      "search_result_limit": 20
     },
     "1sd26pWhfmg": {
       "vid": "1sd26pWhfmg",
@@ -1533,8 +1637,15 @@
     "QWWgr2rN45o": {
       "vid": "QWWgr2rN45o",
       "status": "review",
-      "completed_at": "2026-11-04T06:54:55.094494+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T10:19:04.193552+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T10:18:25.875867+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Geoffrey Hinton in conversation with Fei-Fei Li — Responsible AI development",
+        "Arts & Science - University of Toronto Geoffrey Hinton in conversation with Fei-Fei Li — Responsible AI development"
+      ],
+      "search_result_limit": 20
     },
     "hhiLw5Q_UFg": {
       "vid": "hhiLw5Q_UFg",
@@ -1853,8 +1964,15 @@
     "IkdziSLYzHw": {
       "vid": "IkdziSLYzHw",
       "status": "review",
-      "completed_at": "2026-11-04T06:53:49.592822+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T10:12:44.105342+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T10:12:23.349569+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Will AI outsmart human intelligence? - with 'Godfather of AI' Geoffrey Hinton",
+        "The Royal Institution Will AI outsmart human intelligence? - with 'Godfather of AI' Geoffrey Hinton"
+      ],
+      "search_result_limit": 20
     },
     "AKMuA_TVz3A": {
       "vid": "AKMuA_TVz3A",
@@ -2134,20 +2252,42 @@
     "DleXA5ADG78": {
       "vid": "DleXA5ADG78",
       "status": "review",
-      "completed_at": "2026-11-04T06:53:48.596777+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T10:09:44.001203+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T10:09:19.252174+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Brains, Sex, and Machine Learning",
+        "Google TechTalks Brains, Sex, and Machine Learning"
+      ],
+      "search_result_limit": 20
     },
     "YQ2QtKcK2dA": {
       "vid": "YQ2QtKcK2dA",
       "status": "review",
       "completed_at": "2026-11-04T06:54:58.467368+00:00",
-      "candidates": []
+      "candidates": [],
+      "searched_at": "2026-11-09T10:20:06.008113+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Man behind Stable Diffusion",
+        "Yannic Kilcher The Man behind Stable Diffusion"
+      ],
+      "search_result_limit": 20,
+      "last_error": "URLError"
     },
     "ObhK8lUfIlc": {
       "vid": "ObhK8lUfIlc",
       "status": "review",
-      "completed_at": "2026-11-04T06:53:48.963383+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T10:10:41.997895+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T10:10:31.913044+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "GDC 2018: John McDonald (Valve) - Using Deep Learning to Combat Cheating in CSGO",
+        "max4warn GDC 2018: John McDonald (Valve) - Using Deep Learning to Combat Cheating in CSGO"
+      ],
+      "search_result_limit": 20
     },
     "dKJEpOtVgXc": {
       "vid": "dKJEpOtVgXc",
@@ -2242,8 +2382,15 @@
     "xOCurBYI_gY": {
       "vid": "xOCurBYI_gY",
       "status": "review",
-      "completed_at": "2026-11-04T06:53:48.069137+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T10:07:32.504351+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T10:07:12.527620+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Computer program that learns to play classic NES games",
+        "suckerpinch Computer program that learns to play classic NES games"
+      ],
+      "search_result_limit": 20
     },
     "iv-5mZ_9CPY": {
       "vid": "iv-5mZ_9CPY",
@@ -2538,9 +2685,40 @@
     },
     "5MgBikgcWnY": {
       "vid": "5MgBikgcWnY",
-      "status": "review",
-      "completed_at": "2026-11-04T06:53:48.645436+00:00",
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-09T10:09:54.263816+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Fb4y1Q73z",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "(中文字幕)The first 20 hours -- how to learn anything _ Josh Kaufman _ TEDxCSU",
+          "up": "某某东路",
+          "duration": 1166,
+          "original_duration": 1167,
+          "cid": 326041266,
+          "aid": 630186831,
+          "segment_title": "The first 20 hours -- how to learn anything _ Josh Kaufman _ TEDxCSU",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 693,
+          "pic": "https://i2.hdslb.com/bfs/archive/07d91cb3e0c5cff571b2a1b601e83c61b89b7085.jpg",
+          "checked_at": "2026-11-09T10:09:54.213662+00:00",
+          "availability": "available"
+        }
+      ],
+      "searched_at": "2026-11-09T10:09:52.689580+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU",
+        "TEDx Talks The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU"
+      ],
+      "search_result_limit": 20
     },
     "kBdfcR-8hEY": {
       "vid": "kBdfcR-8hEY",
@@ -2697,8 +2875,15 @@
     "ieb1lmm9xHk": {
       "vid": "ieb1lmm9xHk",
       "status": "review",
-      "completed_at": "2026-11-04T06:54:29.392485+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T10:16:06.174838+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T10:15:46.091719+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Inner Game of Tennis",
+        "TheCoach Inner Game of Tennis"
+      ],
+      "search_result_limit": 20
     },
     "d0yGdNEWdn0": {
       "vid": "d0yGdNEWdn0",
@@ -3116,7 +3301,8 @@
       "vid": "gM95HHI4gLk",
       "status": "review",
       "completed_at": "2026-11-04T06:53:49.438606+00:00",
-      "candidates": []
+      "candidates": [],
+      "last_error": "TimeoutError"
     },
     "I8Xc2_FtpHI": {
       "vid": "I8Xc2_FtpHI",
@@ -3368,20 +3554,41 @@
     "zDZFcDGpL4U": {
       "vid": "zDZFcDGpL4U",
       "status": "review",
-      "completed_at": "2026-11-04T06:53:48.173672+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T10:08:12.704045+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T10:07:40.951531+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "RSA ANIMATE: Changing Education Paradigms",
+        "Royal Society of Arts RSA ANIMATE: Changing Education Paradigms"
+      ],
+      "search_result_limit": 20
     },
     "n068fel-W9I": {
       "vid": "n068fel-W9I",
       "status": "review",
-      "completed_at": "2026-11-04T06:54:04.803797+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T10:14:44.050282+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T10:13:50.690178+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Special Lecture: F-22 Flight Controls",
+        "MIT OpenCourseWare Special Lecture: F-22 Flight Controls"
+      ],
+      "search_result_limit": 20
     },
     "EH6vE97qIP4": {
       "vid": "EH6vE97qIP4",
       "status": "review",
-      "completed_at": "2026-11-07T21:54:34.751069+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T10:18:17.050904+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T10:17:36.336206+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "1. Introduction for 15.S12 Blockchain and Money, Fall 2018",
+        "MIT OpenCourseWare 1. Introduction for 15.S12 Blockchain and Money, Fall 2018"
+      ],
+      "search_result_limit": 20
     },
     "UBVV8pch1dM": {
       "vid": "UBVV8pch1dM",
@@ -3416,14 +3623,52 @@
     "60OVlfAUPJg": {
       "vid": "60OVlfAUPJg",
       "status": "review",
-      "completed_at": "2026-11-04T06:54:45.606267+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T10:17:28.475974+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T10:16:34.630079+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Conrad Wolfram: Teaching kids real math with computers",
+        "TED Conrad Wolfram: Teaching kids real math with computers"
+      ],
+      "search_result_limit": 20
     },
     "oUaOucZRlmE": {
       "vid": "oUaOucZRlmE",
-      "status": "review",
-      "completed_at": "2026-11-04T06:53:49.488546+00:00",
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-09T10:12:14.432179+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1WX4y1P7Yo",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Bret Victor - Media for Thinking the Unthinkable",
+          "up": "题叶",
+          "duration": 2373,
+          "original_duration": 2373,
+          "cid": 361822357,
+          "aid": 716388152,
+          "segment_title": "Bret Victor - Media for Thinking the Unthinkable",
+          "page_count": 1,
+          "kind": "original",
+          "views": 58,
+          "pic": "https://i2.hdslb.com/bfs/archive/4c9c85dee1965dca324a7547219c03124329e064.jpg",
+          "checked_at": "2026-11-09T10:12:14.379647+00:00",
+          "availability": "available"
+        }
+      ],
+      "searched_at": "2026-11-09T10:12:13.259664+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Bret Victor - Media for Thinking the Unthinkable",
+        "Colin McDonnell Bret Victor - Media for Thinking the Unthinkable"
+      ],
+      "search_result_limit": 20
     },
     "zHU1xH6Ogs4": {
       "vid": "zHU1xH6Ogs4",
@@ -3495,8 +3740,15 @@
     "Y0Oa4Lp5fLE": {
       "vid": "Y0Oa4Lp5fLE",
       "status": "review",
-      "completed_at": "2026-11-04T06:53:49.333492+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T10:11:32.817577+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T10:11:00.995605+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "2. Behavioral Evolution",
+        "Stanford 2. Behavioral Evolution"
+      ],
+      "search_result_limit": 20
     },
     "NNnIGh9g6fA": {
       "vid": "NNnIGh9g6fA",
@@ -57836,7 +58088,7 @@
     "AouW9_jyZck": {
       "vid": "AouW9_jyZck",
       "status": "review",
-      "completed_at": "2026-11-06T17:04:00.017375+00:00",
+      "completed_at": null,
       "candidates": []
     },
     "AqDdWEiSwMM": {
@@ -70055,7 +70307,7 @@
     "YR5ApYxkU-U": {
       "vid": "YR5ApYxkU-U",
       "status": "review",
-      "completed_at": "2026-11-07T22:02:35.788870+00:00",
+      "completed_at": null,
       "candidates": []
     },
     "VtvjbmoDx-I": {
@@ -76439,6 +76691,656 @@
       "status": "review",
       "completed_at": "2026-11-09T08:16:00.473607+00:00",
       "candidates": []
+    },
+    "r4wLXNydzeY": {
+      "vid": "r4wLXNydzeY",
+      "status": "review",
+      "completed_at": "2026-11-09T08:50:39.428318+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T08:50:33.373987+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "John Mearsheimer: Israel-Palestine, Russia-Ukraine, China, NATO, and WW3 | Lex Fridman Podcast #401",
+        "Lex Fridman John Mearsheimer: Israel-Palestine, Russia-Ukraine, China, NATO, and WW3 | Lex Fridman Podcast #401"
+      ],
+      "search_result_limit": 20
+    },
+    "r6Kau7bO3Fw": {
+      "vid": "r6Kau7bO3Fw",
+      "status": "review",
+      "completed_at": "2026-11-09T08:51:02.533256+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T08:50:47.825583+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Physicist Sabine Hossenfelder Screws up on Trans Kids' Care",
+        "Rebecca Watson (Skepchick) Physicist Sabine Hossenfelder Screws up on Trans Kids' Care"
+      ],
+      "search_result_limit": 20
+    },
+    "r9-3K3rkPRE": {
+      "vid": "r9-3K3rkPRE",
+      "status": "review",
+      "completed_at": "2026-11-09T08:51:50.580180+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T08:51:10.632153+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "NSA Whistle-Blower Tells All: The Program | Op-Docs | The New York Times",
+        "New York Times Opinion NSA Whistle-Blower Tells All: The Program | Op-Docs | The New York Times"
+      ],
+      "search_result_limit": 20
+    },
+    "rAYW9n8i-C4": {
+      "vid": "rAYW9n8i-C4",
+      "status": "review",
+      "completed_at": "2026-11-09T08:52:31.422782+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T08:51:59.019881+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Spinning Sphere of Molten Sodium",
+        "Veritasium Spinning Sphere of Molten Sodium"
+      ],
+      "search_result_limit": 20
+    },
+    "rDqQcmVqAm4": {
+      "vid": "rDqQcmVqAm4",
+      "status": "review",
+      "completed_at": "2026-11-09T08:53:01.886925+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T08:52:40.059801+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Steve Jobs   The Lost Interview",
+        "Steve Jobs Steve Jobs   The Lost Interview"
+      ],
+      "search_result_limit": 20
+    },
+    "rDsTc2oWGSI": {
+      "vid": "rDsTc2oWGSI",
+      "status": "review",
+      "completed_at": "2026-11-09T08:54:26.817260+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T08:53:09.694339+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "How to use the stairs",
+        "gmc74 How to use the stairs"
+      ],
+      "search_result_limit": 20
+    },
+    "rERApU26PcA": {
+      "vid": "rERApU26PcA",
+      "status": "review",
+      "completed_at": "2026-11-09T08:55:55.883805+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T08:54:35.249605+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Data uses most secure code ever Star Trek TNG (Blu Ray HD)",
+        "HD_Picard Data uses most secure code ever Star Trek TNG (Blu Ray HD)"
+      ],
+      "search_result_limit": 20
+    },
+    "rGfaJZAdfNE": {
+      "vid": "rGfaJZAdfNE",
+      "status": "review",
+      "completed_at": "2026-11-09T08:56:46.611831+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T08:56:04.428091+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Theranos CEO Elizabeth Holmes: Firing Back At Doubters | Mad Money | CNBC",
+        "CNBC Theranos CEO Elizabeth Holmes: Firing Back At Doubters | Mad Money | CNBC"
+      ],
+      "search_result_limit": 20
+    },
+    "rKaEhBjt1ls": {
+      "vid": "rKaEhBjt1ls",
+      "status": "review",
+      "completed_at": "2026-11-09T08:57:27.171960+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T08:56:54.666480+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Ubitricity | Fully Charged",
+        "Everything Electric CARS Ubitricity | Fully Charged"
+      ],
+      "search_result_limit": 20
+    },
+    "rLDgQg6bq7o": {
+      "vid": "rLDgQg6bq7o",
+      "status": "review",
+      "completed_at": "2026-11-09T08:58:41.303727+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T08:57:34.814023+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Turbo Encabulator",
+        "Lygris (old account) Turbo Encabulator"
+      ],
+      "search_result_limit": 20
+    },
+    "rMz7JBRbmNo": {
+      "vid": "rMz7JBRbmNo",
+      "status": "review",
+      "completed_at": "2026-11-09T08:59:43.464868+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T08:58:50.144315+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Princess Bride (5/12) Movie CLIP - The Battle of Wits (1987) HD",
+        "Movieclips The Princess Bride (5/12) Movie CLIP - The Battle of Wits (1987) HD"
+      ],
+      "search_result_limit": 20
+    },
+    "rVlhMGQgDkY": {
+      "vid": "rVlhMGQgDkY",
+      "status": "review",
+      "completed_at": "2026-11-09T09:00:57.148109+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T08:59:52.226639+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Atlas, The Next Generation",
+        "Boston Dynamics Atlas, The Next Generation"
+      ],
+      "search_result_limit": 20
+    },
+    "rY0WxgSXdEE": {
+      "vid": "rY0WxgSXdEE",
+      "status": "review",
+      "completed_at": "2026-11-09T09:02:04.953523+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:01:05.337912+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Queen - Another One Bites the Dust (Official Video Remastered)",
+        "Queen Official Queen - Another One Bites the Dust (Official Video Remastered)"
+      ],
+      "search_result_limit": 20
+    },
+    "rYPMbLO4pAY": {
+      "vid": "rYPMbLO4pAY",
+      "status": "review",
+      "completed_at": "2026-11-09T09:02:35.037566+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:02:13.558860+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Rolling Coal On Protesters Compilation 🔴 (BlackLivesMatter, Trump Haters, Tree Huggers)",
+        "Show Me Diesels Rolling Coal On Protesters Compilation 🔴 (BlackLivesMatter, Trump Haters, Tree Huggers)"
+      ],
+      "search_result_limit": 20
+    },
+    "raNx9L4VH2k": {
+      "vid": "raNx9L4VH2k",
+      "status": "review",
+      "completed_at": "2026-11-09T09:02:53.622166+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:02:43.722878+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Capsicum: Practical Capabilities for UNIX",
+        "USENIX Capsicum: Practical Capabilities for UNIX"
+      ],
+      "search_result_limit": 20
+    },
+    "ramBFRt1Uzk": {
+      "vid": "ramBFRt1Uzk",
+      "status": "review",
+      "completed_at": "2026-11-09T09:03:27.202636+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:03:02.019321+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The surprising decline in violence | Steven Pinker",
+        "TED The surprising decline in violence | Steven Pinker"
+      ],
+      "search_result_limit": 20
+    },
+    "rbHxeOQA1Mc": {
+      "vid": "rbHxeOQA1Mc",
+      "status": "review",
+      "completed_at": "2026-11-09T09:03:50.007044+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:03:36.605699+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The China they DON'T want you to SEE!",
+        "serpentza The China they DON'T want you to SEE!"
+      ],
+      "search_result_limit": 20
+    },
+    "revk5r5vqxA": {
+      "vid": "revk5r5vqxA",
+      "status": "review",
+      "completed_at": "2026-11-09T09:04:21.672287+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:03:58.926301+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Day FPS Games Died",
+        "Basically Homeless The Day FPS Games Died"
+      ],
+      "search_result_limit": 20
+    },
+    "rie-9AEhYdY": {
+      "vid": "rie-9AEhYdY",
+      "status": "review",
+      "completed_at": "2026-11-09T09:04:48.904736+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:04:30.185679+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "WE MUST ADD STRUCTURE TO DEEP LEARNING BECAUSE...",
+        "Machine Learning Street Talk WE MUST ADD STRUCTURE TO DEEP LEARNING BECAUSE..."
+      ],
+      "search_result_limit": 20
+    },
+    "rkuhWA9GdCo": {
+      "vid": "rkuhWA9GdCo",
+      "status": "review",
+      "completed_at": "2026-11-09T09:05:58.051076+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:04:57.448991+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Russian Grab | Peter Zeihan",
+        "Speakers Spotlight The Russian Grab | Peter Zeihan"
+      ],
+      "search_result_limit": 20
+    },
+    "rld0KDcan_w": {
+      "vid": "rld0KDcan_w",
+      "status": "review",
+      "completed_at": "2026-11-09T09:07:12.807683+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:06:06.393174+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "George Carlin: Earth with Plastic",
+        "Emperor Ing George Carlin: Earth with Plastic"
+      ],
+      "search_result_limit": 20
+    },
+    "rmsIZUuBoQs": {
+      "vid": "rmsIZUuBoQs",
+      "status": "review",
+      "completed_at": "2026-11-09T09:08:41.709894+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:07:21.595321+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Alan Kay on Linux",
+        "Jack Alan Kay on Linux"
+      ],
+      "search_result_limit": 20
+    },
+    "rnMsgxIIQEE": {
+      "vid": "rnMsgxIIQEE",
+      "status": "review",
+      "completed_at": "2026-11-09T09:09:39.698199+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:08:49.868704+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Murray Gell-Mann talks about Richard Feynman",
+        "Muon Ray Murray Gell-Mann talks about Richard Feynman"
+      ],
+      "search_result_limit": 20
+    },
+    "rpkoCZ4vBSI": {
+      "vid": "rpkoCZ4vBSI",
+      "status": "review",
+      "completed_at": "2026-11-09T09:10:08.815202+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:09:48.481004+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Clayton Christensen: Disruptive innovation",
+        "Saïd Business School, University of Oxford Clayton Christensen: Disruptive innovation"
+      ],
+      "search_result_limit": 20
+    },
+    "rrBxZGWCdgs": {
+      "vid": "rrBxZGWCdgs",
+      "status": "review",
+      "completed_at": "2026-11-09T09:11:21.976454+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:10:16.430407+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Ami Horowitz: How white liberals really view black voters",
+        "Fox News Ami Horowitz: How white liberals really view black voters"
+      ],
+      "search_result_limit": 20
+    },
+    "rsL6mKxtOlQ": {
+      "vid": "rsL6mKxtOlQ",
+      "status": "review",
+      "completed_at": "2026-11-09T09:12:43.243406+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:11:30.639228+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "George Carlin \"The American Dream\" Best 3 Minutes of His Career",
+        "Dan K Schroeder George Carlin \"The American Dream\" Best 3 Minutes of His Career"
+      ],
+      "search_result_limit": 20
+    },
+    "rthHSISkM7A": {
+      "vid": "rthHSISkM7A",
+      "status": "review",
+      "completed_at": "2026-11-09T09:13:37.546071+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:12:51.471939+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Real Genius (8/8) Movie CLIP - Jerry's House of Popcorn (1985) HD",
+        "Movieclips Real Genius (8/8) Movie CLIP - Jerry's House of Popcorn (1985) HD"
+      ],
+      "search_result_limit": 20
+    },
+    "rvQ9DjJNal0": {
+      "vid": "rvQ9DjJNal0",
+      "status": "review",
+      "completed_at": "2026-11-09T09:14:07.995998+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:13:45.985148+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Flying To McDonald's On My Paramotor",
+        "Tucker Gott Flying To McDonald's On My Paramotor"
+      ],
+      "search_result_limit": 20
+    },
+    "rvYuoWyk8iU": {
+      "vid": "rvYuoWyk8iU",
+      "status": "review",
+      "completed_at": "2026-11-09T09:14:57.193612+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:14:16.314203+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Yes Minister explains the EEC (EU)",
+        "Rex Lupis Yes Minister explains the EEC (EU)"
+      ],
+      "search_result_limit": 20
+    },
+    "rweblFwt-BM": {
+      "vid": "rweblFwt-BM",
+      "status": "review",
+      "completed_at": "2026-11-09T09:16:12.542117+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:15:05.615618+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Thomas Sowell: Global Warming Manufactured by Intellectuals?",
+        "FORA.tv Thomas Sowell: Global Warming Manufactured by Intellectuals?"
+      ],
+      "search_result_limit": 20
+    },
+    "rwgpTDluufY": {
+      "vid": "rwgpTDluufY",
+      "status": "review",
+      "completed_at": "2026-11-09T09:16:56.456444+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:16:20.587278+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Louis Rossmann dismantles Apple's PR stunt \"repair program\"",
+        "Louis Rossmann Louis Rossmann dismantles Apple's PR stunt \"repair program\""
+      ],
+      "search_result_limit": 20
+    },
+    "rwvIGNXY21Y": {
+      "vid": "rwvIGNXY21Y",
+      "status": "review",
+      "completed_at": "2026-11-09T09:17:55.444300+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:17:05.308369+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Flipping 10 heads in a row: Full video",
+        "singingbanana Flipping 10 heads in a row: Full video"
+      ],
+      "search_result_limit": 20
+    },
+    "rxPa9A-k2xY": {
+      "vid": "rxPa9A-k2xY",
+      "status": "review",
+      "completed_at": "2026-11-09T09:19:25.506959+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:18:03.923407+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Boeing 737NG horizontal stabilizer jackscrew cycle",
+        "Anders Cornelius Olesen Boeing 737NG horizontal stabilizer jackscrew cycle"
+      ],
+      "search_result_limit": 20
+    },
+    "ryFB6mvy4uE": {
+      "vid": "ryFB6mvy4uE",
+      "status": "review",
+      "completed_at": "2026-11-09T09:19:49.497068+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:19:33.613971+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Peter Thiel on being a contrarian",
+        "This Week in Startups Peter Thiel on being a contrarian"
+      ],
+      "search_result_limit": 20
+    },
+    "s-mOy8VUEBk": {
+      "vid": "s-mOy8VUEBk",
+      "status": "review",
+      "completed_at": "2026-11-09T09:21:05.042505+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:19:58.134859+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Danish language",
+        "snurre Danish language"
+      ],
+      "search_result_limit": 20
+    },
+    "s93KC4AGKnY": {
+      "vid": "s93KC4AGKnY",
+      "status": "review",
+      "completed_at": "2026-11-09T09:21:53.792481+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:21:13.209778+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Wargames Ending",
+        "Techno947 Wargames Ending"
+      ],
+      "search_result_limit": 20
+    },
+    "sFBOQzSk14c": {
+      "vid": "sFBOQzSk14c",
+      "status": "review",
+      "completed_at": "2026-11-09T09:22:55.809464+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:22:02.070704+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Monty Python's The life of Brian - I want to be a woman",
+        "PkLugia Monty Python's The life of Brian - I want to be a woman"
+      ],
+      "search_result_limit": 20
+    },
+    "sGArqoF0TpQ": {
+      "vid": "sGArqoF0TpQ",
+      "status": "review",
+      "completed_at": "2026-11-09T09:23:57.167398+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:23:04.905977+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Both Sides - SMBC Theater",
+        "The Theater Both Sides - SMBC Theater"
+      ],
+      "search_result_limit": 20
+    },
+    "sHzdsFiBbFc": {
+      "vid": "sHzdsFiBbFc",
+      "status": "review",
+      "completed_at": "2026-11-09T09:25:08.005588+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:24:05.075949+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Spiders On Drugs",
+        "Andrew Struthers Spiders On Drugs"
+      ],
+      "search_result_limit": 20
+    },
+    "sJNxPRBvRQg": {
+      "vid": "sJNxPRBvRQg",
+      "status": "review",
+      "completed_at": "2026-11-09T09:26:10.756224+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:25:16.452644+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Can Japanese Actually Write Japanese Kanji?",
+        "That Japanese Man Yuta Can Japanese Actually Write Japanese Kanji?"
+      ],
+      "search_result_limit": 20
+    },
+    "sJO0n6kvPRU": {
+      "vid": "sJO0n6kvPRU",
+      "status": "review",
+      "completed_at": "2026-11-09T09:27:12.818452+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:26:18.987988+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "[HD] Children of Men - Ark of the Arts - \"I just don't think about it\"",
+        "Justin Simmons [HD] Children of Men - Ark of the Arts - \"I just don't think about it\""
+      ],
+      "search_result_limit": 20
+    },
+    "sOnqjkJTMaA": {
+      "vid": "sOnqjkJTMaA",
+      "status": "review",
+      "completed_at": "2026-11-09T09:27:34.146966+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:27:21.058098+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Michael Jackson - Thriller (Official 4K Video)",
+        "michaeljacksonVEVO Michael Jackson - Thriller (Official 4K Video)"
+      ],
+      "search_result_limit": 20
+    },
+    "sOpMrVnjYeY": {
+      "vid": "sOpMrVnjYeY",
+      "status": "review",
+      "completed_at": "2026-11-09T09:27:42.498731+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:27:42.498702+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Starship Update",
+        "SpaceX Starship Update"
+      ],
+      "search_result_limit": 20
+    },
+    "sP2tUW0HDHA": {
+      "vid": "sP2tUW0HDHA",
+      "status": "review",
+      "completed_at": "2026-11-09T09:28:41.517826+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:27:51.129248+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "IDIOCRACY Opening Scene (2006) Mike Judge",
+        "JoBlo Movie Clips IDIOCRACY Opening Scene (2006) Mike Judge"
+      ],
+      "search_result_limit": 20
+    },
+    "sQYPCPB1g3o": {
+      "vid": "sQYPCPB1g3o",
+      "status": "review",
+      "completed_at": "2026-11-09T09:30:08.521167+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:28:49.190274+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "SSI's Shred of the Month: E-Scrap - Hard Drives Shredding (Q)",
+        "bigshredder SSI's Shred of the Month: E-Scrap - Hard Drives Shredding (Q)"
+      ],
+      "search_result_limit": 20
+    },
+    "sSF81yjVbJE": {
+      "vid": "sSF81yjVbJE",
+      "status": "review",
+      "completed_at": "2026-11-09T09:31:26.497155+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:30:16.909280+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "SpaceX Reusable Launch System",
+        "Clark Lindsey SpaceX Reusable Launch System"
+      ],
+      "search_result_limit": 20
+    },
+    "sUgoBb8m1eE": {
+      "vid": "sUgoBb8m1eE",
+      "status": "review",
+      "completed_at": "2026-11-09T09:32:28.219787+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:31:35.081333+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Elgar - Nimrod (from \"Enigma Variations\")",
+        "medpiano Elgar - Nimrod (from \"Enigma Variations\")"
+      ],
+      "search_result_limit": 20
+    },
+    "sZOuz_laH9I": {
+      "vid": "sZOuz_laH9I",
+      "status": "review",
+      "completed_at": "2026-11-09T09:32:46.834863+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:32:37.204465+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The tech which can charge an electric car in 10 minutes",
+        "Technology Connections The tech which can charge an electric car in 10 minutes"
+      ],
+      "search_result_limit": 20
+    },
+    "s_4J4uor3JE": {
+      "vid": "s_4J4uor3JE",
+      "status": "review",
+      "completed_at": "2026-11-09T09:33:56.517625+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:32:55.249266+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "That Mitchell and Webb Look - Kill All The Poor",
+        "fanvideos4u That Mitchell and Webb Look - Kill All The Poor"
+      ],
+      "search_result_limit": 20
+    },
+    "sa9MpLXuLs0": {
+      "vid": "sa9MpLXuLs0",
+      "status": "review",
+      "completed_at": "2026-11-09T09:35:26.744645+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T09:34:04.682660+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "\"What is my purpose?\" Rick and Morty quote S01E09 Butter Robot",
+        "Game Of Thrones Quotes \"What is my purpose?\" Rick and Morty quote S01E09 Butter Robot"
+      ],
+      "search_result_limit": 20
     }
   }
 }

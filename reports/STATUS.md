@@ -1,80 +1,48 @@
 # 匹配进展
 
-更新时间：2026-11-09T09:36:21.006179+00:00
+更新时间：2026-11-09T10:36:15.524697+00:00
 
 - 原片库：6454
 - 完成处理：6200
-- 已确认原片：1180
-- 全库覆盖率：18.28%
-- 已处理原片匹配率：19.00%
-- 状态：{'confirmed': 1180, 'review': 5068}
+- 已确认原片：1184
+- 全库覆盖率：18.35%
+- 已处理原片匹配率：19.06%
+- 状态：{'confirmed': 1184, 'review': 5064}
 
-- 待审中尚需扩大候选检查：5018
-- 已扩大检查仍待审核：50
+- 待审中尚需扩大候选检查：2
+- 已扩大检查仍待审核：67
+- 待审中搜索元数据缺失（重建丢失，状态未知，需重新搜索）：4995
 
 ## 最近批次
 
 ```json
 {
-  "id": "20261109T085022Z",
+  "id": "20261109T101202Z",
   "selected": 50,
-  "completed": 50,
-  "errors": [],
+  "completed": 12,
+  "errors": [
+    {
+      "vid": "YQ2QtKcK2dA",
+      "reason": "URLError"
+    }
+  ],
   "stopped": false,
   "originals": [
-    "r4wLXNydzeY",
-    "r6Kau7bO3Fw",
-    "r9-3K3rkPRE",
-    "rAYW9n8i-C4",
-    "rDqQcmVqAm4",
-    "rDsTc2oWGSI",
-    "rERApU26PcA",
-    "rGfaJZAdfNE",
-    "rKaEhBjt1ls",
-    "rLDgQg6bq7o",
-    "rMz7JBRbmNo",
-    "rVlhMGQgDkY",
-    "rY0WxgSXdEE",
-    "rYPMbLO4pAY",
-    "raNx9L4VH2k",
-    "ramBFRt1Uzk",
-    "rbHxeOQA1Mc",
-    "revk5r5vqxA",
-    "rie-9AEhYdY",
-    "rkuhWA9GdCo",
-    "rld0KDcan_w",
-    "rmsIZUuBoQs",
-    "rnMsgxIIQEE",
-    "rpkoCZ4vBSI",
-    "rrBxZGWCdgs",
-    "rsL6mKxtOlQ",
-    "rthHSISkM7A",
-    "rvQ9DjJNal0",
-    "rvYuoWyk8iU",
-    "rweblFwt-BM",
-    "rwgpTDluufY",
-    "rwvIGNXY21Y",
-    "rxPa9A-k2xY",
-    "ryFB6mvy4uE",
-    "s-mOy8VUEBk",
-    "s93KC4AGKnY",
-    "sFBOQzSk14c",
-    "sGArqoF0TpQ",
-    "sHzdsFiBbFc",
-    "sJNxPRBvRQg",
-    "sJO0n6kvPRU",
-    "sOnqjkJTMaA",
-    "sOpMrVnjYeY",
-    "sP2tUW0HDHA",
-    "sQYPCPB1g3o",
-    "sSF81yjVbJE",
-    "sUgoBb8m1eE",
-    "sZOuz_laH9I",
-    "s_4J4uor3JE",
-    "sa9MpLXuLs0"
+    "oUaOucZRlmE",
+    "IkdziSLYzHw",
+    "RjfbvDXpFls",
+    "Ucp0TTmvqOE",
+    "n068fel-W9I",
+    "qQTjLWIHN74",
+    "-EVqrDlAqYo",
+    "ieb1lmm9xHk",
+    "rsxCZAE8QNA",
+    "60OVlfAUPJg",
+    "EH6vE97qIP4",
+    "QWWgr2rN45o"
   ],
   "primary_first": true,
-  "deferred_candidates": 0,
+  "deferred_candidates": 22,
   "excluded_originals": [
     "-e1_QhJ1EhQ",
     "05WS0WN7zMQ",
@@ -152,6 +120,7 @@
     "cjuGCJJUGsg",
     "dX649lnKAU0",
     "doz1QJ7LwjA",
+    "gM95HHI4gLk",
     "hMOwbNUpDQA",
     "hhMAt3BluAU",
     "i5uSbp0YDhc",
@@ -168,12 +137,13 @@
     "y4sOfO8Ei1g",
     "yg-UqIIvang"
   ],
-  "attempted": 50,
-  "unattempted": 0,
+  "attempted": 13,
+  "unattempted": 37,
   "statuses": {
-    "review": 50
+    "review": 11,
+    "confirmed": 2
   },
-  "candidate_count": 1869
+  "candidate_count": 498
 }
 ```
 
