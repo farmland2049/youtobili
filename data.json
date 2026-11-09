@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-09T04:19:57.860197+00:00",
+  "built_at": "2026-11-09T05:04:37.908729+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5944,
-    "confirmed": 1163,
-    "coverage": 0.18019832661915092,
-    "processed_match_rate": 0.19565948855989232
+    "processed": 5994,
+    "confirmed": 1167,
+    "coverage": 0.18081809730399753,
+    "processed_match_rate": 0.1946946946946947
   },
   "areas": [
     {
@@ -4572,6 +4572,18 @@
           "views": 220,
           "pic": "https://i1.hdslb.com/bfs/archive/d566a0e3fbfd0b15a3db8a26606718b36f245588.jpg",
           "checked_at": "2026-11-07T05:27:35.592246+00:00"
+        },
+        {
+          "bvid": "BV1cm421u7dc",
+          "page": 1,
+          "cid": 1536707117,
+          "title": "CppCon 2014 Mike Acton Data-Oriented Design and cpp",
+          "up": "wagagaa",
+          "duration": 5266,
+          "kind": "original",
+          "views": 98,
+          "pic": "https://i1.hdslb.com/bfs/archive/f9e54898d557501daf3f1eca2e273fe00fc1f333.png",
+          "checked_at": "2026-11-09T05:03:03.696059+00:00"
         }
       ]
     },
@@ -15338,6 +15350,39 @@
           "views": 434,
           "pic": "https://i0.hdslb.com/bfs/archive/f9f20112d58fc4a376c94f632457aea5362e198f.jpg",
           "checked_at": "2026-11-07T05:27:43.865940+00:00"
+        }
+      ]
+    },
+    {
+      "id": "JfmTagWcqoE",
+      "title": "CppCon 2016: Herb Sutter “Leak-Freedom in C++... By Default.”",
+      "author": "CppCon",
+      "source_url": "https://www.youtube.com/watch?v=JfmTagWcqoE",
+      "summary": "Herb Sutter's CppCon 2016 talk on lifetime safety in C++, aiming for code free of leaks and dangling pointers by default. It covers smart pointers, ownership, reference counting pitfalls and deferred reclamation resembling garbage collection.",
+      "why": "HN cites it in memory management debates for its treatment of reference counting problems, destructor stack overflows and deferred pointers.",
+      "score": 4.5,
+      "tags": [
+        "c++",
+        "smart pointers",
+        "reference counting",
+        "garbage collection",
+        "raii"
+      ],
+      "categories": [
+        "systems-programming-languages"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Gb411E7xS",
+          "page": 1,
+          "cid": 81740217,
+          "title": "CppCon 2016 Herb Sutter “Leak-Freedom in C ++ ... By Default.”",
+          "up": "NogiSonoko",
+          "duration": 5965,
+          "kind": "original",
+          "views": 566,
+          "pic": "https://i2.hdslb.com/bfs/archive/3102f371803e1863fa89edfed8ec966429a26d26.jpg",
+          "checked_at": "2026-11-09T05:03:05.214232+00:00"
         }
       ]
     },
@@ -45554,6 +45599,107 @@
       ]
     },
     {
+      "id": "ig3xI8dUdm0",
+      "title": "IS IT SPILL PROOF? Lenovo Thinkpad P50 review + spill damage test",
+      "author": "Louis Rossmann",
+      "source_url": "https://www.youtube.com/watch?v=ig3xI8dUdm0",
+      "summary": "Louis Rossmann reviews the Lenovo ThinkPad P50, covering build, thermals and throttling, then spills liquid on it to test the keyboard drainage and spill protection.",
+      "why": "Cited as evidence that ThinkPads survive spills thanks to their drainage design, often with timestamps for the spill test.",
+      "score": 0.0,
+      "tags": [
+        "thinkpad",
+        "spill test",
+        "louis rossmann",
+        "thermals",
+        "laptop durability"
+      ],
+      "categories": [
+        "consumer-devices",
+        "repair-teardown"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1CW411a76d",
+          "page": 1,
+          "cid": 27561627,
+          "title": "[生肉]Thinkpad P50评估，IS IT SPILL PROOF？",
+          "up": "☆小☆科☆蚪☆",
+          "duration": 2699,
+          "kind": "original",
+          "views": 3312,
+          "pic": "https://i1.hdslb.com/bfs/archive/8849a1fdb5aff78f805e4109b04c2523fbc1f6b2.png",
+          "checked_at": "2026-11-09T04:38:08.120981+00:00"
+        }
+      ]
+    },
+    {
+      "id": "jVhlJNJopOQ",
+      "title": "Papyrus - SNL",
+      "author": "Saturday Night Live",
+      "source_url": "https://www.youtube.com/watch?v=jVhlJNJopOQ",
+      "summary": "An SNL sketch in which Ryan Gosling's character is obsessed with the font choice (Papyrus) in the movie Avatar's title. It is a comedy bit about a widely mocked typeface.",
+      "why": "Posted as a joke in threads about typefaces and typography.",
+      "score": 0.0,
+      "tags": [
+        "papyrus",
+        "fonts",
+        "snl",
+        "avatar",
+        "sketch comedy"
+      ],
+      "categories": [
+        "satire-parody",
+        "graphic-design-typography",
+        "standup-sketch-comedy"
+      ],
+      "versions": [
+        {
+          "bvid": "BV18D4y1V7GU",
+          "page": 1,
+          "cid": 956689126,
+          "title": "【中文字幕】周六夜现场 SNL：阿凡达&莎草纸体 Papyrus 喜剧特辑",
+          "up": "菊小马",
+          "duration": 187,
+          "kind": "sub_zh",
+          "views": 12879,
+          "pic": "https://i0.hdslb.com/bfs/archive/6527c83519f51dda5efd72dd903684543683e04e.jpg",
+          "checked_at": "2026-11-09T04:52:57.714062+00:00"
+        }
+      ]
+    },
+    {
+      "id": "jgYYOUC10aM",
+      "title": "Planning a Heist - Key & Peele",
+      "author": "Key & Peele",
+      "source_url": "https://www.youtube.com/watch?v=jgYYOUC10aM",
+      "summary": "A one-minute Key & Peele sketch about planning a heist with a foolproof plan that has one small flaw.",
+      "why": "HN commenters use it only as a joke reference when a thread's scheme or fraud sounds like the sketch.",
+      "score": 0.0,
+      "tags": [
+        "key and peele",
+        "sketch",
+        "heist",
+        "humor"
+      ],
+      "categories": [
+        "standup-sketch-comedy"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1BL411u71A",
+          "page": 1,
+          "cid": 437363380,
+          "title": "Planning a Heist - Key & Peele(720p)",
+          "up": "PDwhite",
+          "duration": 62,
+          "kind": "original",
+          "views": 146,
+          "pic": "https://i1.hdslb.com/bfs/archive/48f577797ab7d840e7b63244e4d05198db1ed9eb.jpg",
+          "checked_at": "2026-11-09T04:55:16.099836+00:00"
+        }
+      ]
+    },
+    {
       "id": "k7YVxLLIuGM",
       "title": "Is Your Car Safe From Supermaneuverable Air-Defense Fighter Aircraft?",
       "author": "Bosnian Ape Society",
@@ -46200,6 +46346,7 @@
     "BV1cbmsB4Eby": "rX0ItVEVjHc",
     "BV1VR4y1v7Z9": "rX0ItVEVjHc",
     "BV1h9oTBUEY3": "rX0ItVEVjHc",
+    "BV1cm421u7dc": "rX0ItVEVjHc",
     "BV1rZ4y1D7s6": "tX4H_ctggYo",
     "BV1f1HpziE18": "tX4H_ctggYo",
     "BV1Wm4y187kG": "BzhbAK1pdPM",
@@ -46610,6 +46757,7 @@
     "BV1Fq4y1H7mN": "IS5ycm7VfXg",
     "BV1fS4wehEEN": "Jes3bD6P0To",
     "BV11P4y1V72f": "Jes3bD6P0To",
+    "BV1Gb411E7xS": "JfmTagWcqoE",
     "BV1iz4y1X731": "KTHOwgpMIiU",
     "BV1NW411P7tc": "M3BM9TB-8yA",
     "BV1PAdHY2E9Y": "MtzCLd93SyU",
@@ -47626,6 +47774,9 @@
     "BV1gb411V7v1": "iGLzWdT7vGc",
     "BV1ot4y127mw": "iKcWu0tsiZM",
     "BV1MDMzzcEkb": "iWeu2dxHRDg",
+    "BV1CW411a76d": "ig3xI8dUdm0",
+    "BV18D4y1V7GU": "jVhlJNJopOQ",
+    "BV1BL411u71A": "jgYYOUC10aM",
     "BV1164y1Y7UL": "k7YVxLLIuGM",
     "BV1XbfHYzEqD": "kJQP7kiw5Fk",
     "BV1rw411C7Va": "lUQ_0MubbcM",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T04:19:57.886932+00:00",
+  "updated_at": "2026-11-09T05:04:37.935452+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -9126,6 +9126,30 @@
           "views": 220,
           "pic": "https://i1.hdslb.com/bfs/archive/d566a0e3fbfd0b15a3db8a26606718b36f245588.jpg",
           "checked_at": "2026-11-07T05:27:35.592246+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1cm421u7dc",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1cm421u7dc",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "CppCon 2014 Mike Acton Data-Oriented Design and cpp",
+          "up": "wagagaa",
+          "duration": 5266,
+          "original_duration": 5266,
+          "cid": 1536707117,
+          "aid": 1604321426,
+          "segment_title": "CppCon 2014 Mike Acton Data-Oriented Design and cpp",
+          "page_count": 1,
+          "kind": "original",
+          "views": 98,
+          "pic": "https://i1.hdslb.com/bfs/archive/f9e54898d557501daf3f1eca2e273fe00fc1f333.png",
+          "checked_at": "2026-11-09T05:03:03.696059+00:00",
           "availability": "available"
         }
       ]
@@ -26801,9 +26825,34 @@
     },
     "JfmTagWcqoE": {
       "vid": "JfmTagWcqoE",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-05T02:06:16.997385+00:00",
-      "candidates": []
+      "candidates": [
+        {
+          "bvid": "BV1Gb411E7xS",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1Gb411E7xS",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "CppCon 2016 Herb Sutter “Leak-Freedom in C ++ ... By Default.”",
+          "up": "NogiSonoko",
+          "duration": 5965,
+          "original_duration": 5965,
+          "cid": 81740217,
+          "aid": 46665153,
+          "segment_title": "CppCon 2016_ Herb Sutter “Leak-Freedom in C  ... By Default.”",
+          "page_count": 1,
+          "kind": "original",
+          "views": 566,
+          "pic": "https://i2.hdslb.com/bfs/archive/3102f371803e1863fa89edfed8ec966429a26d26.jpg",
+          "checked_at": "2026-11-09T05:03:05.214232+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "KDRnEm-B3AI": {
       "vid": "KDRnEm-B3AI",
@@ -74639,6 +74688,378 @@
       "vid": "i8xwLWb0lLY",
       "status": "review",
       "completed_at": "2026-11-09T04:18:18.152999+00:00",
+      "candidates": []
+    },
+    "iARHCxAMAO0": {
+      "vid": "iARHCxAMAO0",
+      "status": "review",
+      "completed_at": "2026-11-09T04:24:06.525462+00:00",
+      "candidates": []
+    },
+    "iE39q-IKOzA": {
+      "vid": "iE39q-IKOzA",
+      "status": "review",
+      "completed_at": "2026-11-09T04:25:26.574306+00:00",
+      "candidates": []
+    },
+    "iGGOjD_OtAM": {
+      "vid": "iGGOjD_OtAM",
+      "status": "review",
+      "completed_at": "2026-11-09T04:26:31.891257+00:00",
+      "candidates": []
+    },
+    "iGOAQli7tGc": {
+      "vid": "iGOAQli7tGc",
+      "status": "review",
+      "completed_at": "2026-11-09T04:26:48.301110+00:00",
+      "candidates": []
+    },
+    "iHfJRON3b-w": {
+      "vid": "iHfJRON3b-w",
+      "status": "review",
+      "completed_at": "2026-11-09T04:27:13.907983+00:00",
+      "candidates": []
+    },
+    "iIiAAhUeR6Y": {
+      "vid": "iIiAAhUeR6Y",
+      "status": "review",
+      "completed_at": "2026-11-09T04:27:35.105897+00:00",
+      "candidates": []
+    },
+    "iItLpwkQMUQ": {
+      "vid": "iItLpwkQMUQ",
+      "status": "review",
+      "completed_at": "2026-11-09T04:27:46.141716+00:00",
+      "candidates": []
+    },
+    "iJunxkln578": {
+      "vid": "iJunxkln578",
+      "status": "review",
+      "completed_at": "2026-11-09T04:28:06.220997+00:00",
+      "candidates": []
+    },
+    "iK6SS8CXYZo": {
+      "vid": "iK6SS8CXYZo",
+      "status": "review",
+      "completed_at": "2026-11-09T04:29:02.704618+00:00",
+      "candidates": []
+    },
+    "iPkJH6BT7dM": {
+      "vid": "iPkJH6BT7dM",
+      "status": "review",
+      "completed_at": "2026-11-09T04:29:50.108515+00:00",
+      "candidates": []
+    },
+    "iQdDRrcAOjA": {
+      "vid": "iQdDRrcAOjA",
+      "status": "review",
+      "completed_at": "2026-11-09T04:30:59.745409+00:00",
+      "candidates": []
+    },
+    "iYWzMvlj2RQ": {
+      "vid": "iYWzMvlj2RQ",
+      "status": "review",
+      "completed_at": "2026-11-09T04:32:13.147319+00:00",
+      "candidates": []
+    },
+    "iZ50nZU3oG8": {
+      "vid": "iZ50nZU3oG8",
+      "status": "review",
+      "completed_at": "2026-11-09T04:32:24.318267+00:00",
+      "candidates": []
+    },
+    "iaSUOFleNRU": {
+      "vid": "iaSUOFleNRU",
+      "status": "review",
+      "completed_at": "2026-11-09T04:33:22.581339+00:00",
+      "candidates": []
+    },
+    "ibSJ_yy96iE": {
+      "vid": "ibSJ_yy96iE",
+      "status": "review",
+      "completed_at": "2026-11-09T04:33:40.913247+00:00",
+      "candidates": []
+    },
+    "icruGcSsPp0": {
+      "vid": "icruGcSsPp0",
+      "status": "review",
+      "completed_at": "2026-11-09T04:34:58.348226+00:00",
+      "candidates": []
+    },
+    "idb_qsAAe1c": {
+      "vid": "idb_qsAAe1c",
+      "status": "review",
+      "completed_at": "2026-11-09T04:36:20.628429+00:00",
+      "candidates": []
+    },
+    "ieErnZAN5Eo": {
+      "vid": "ieErnZAN5Eo",
+      "status": "review",
+      "completed_at": "2026-11-09T04:36:44.952522+00:00",
+      "candidates": []
+    },
+    "ifKbwDf51bA": {
+      "vid": "ifKbwDf51bA",
+      "status": "review",
+      "completed_at": "2026-11-09T04:37:58.826512+00:00",
+      "candidates": []
+    },
+    "ig3xI8dUdm0": {
+      "vid": "ig3xI8dUdm0",
+      "status": "confirmed",
+      "completed_at": "2026-11-09T04:38:09.780620+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1CW411a76d",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "[生肉]Thinkpad P50评估，IS IT SPILL PROOF？",
+          "up": "☆小☆科☆蚪☆",
+          "duration": 2699,
+          "original_duration": 2699,
+          "cid": 27561627,
+          "aid": 16870887,
+          "segment_title": "IS IT SPILL PROOF  Lenovo Thinkpad P50 review + wa",
+          "page_count": 1,
+          "kind": "original",
+          "views": 3312,
+          "pic": "https://i1.hdslb.com/bfs/archive/8849a1fdb5aff78f805e4109b04c2523fbc1f6b2.png",
+          "checked_at": "2026-11-09T04:38:08.120981+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "igh9iO5BxBo": {
+      "vid": "igh9iO5BxBo",
+      "status": "review",
+      "completed_at": "2026-11-09T04:38:48.464646+00:00",
+      "candidates": []
+    },
+    "iiCBYAP_Sgg": {
+      "vid": "iiCBYAP_Sgg",
+      "status": "review",
+      "completed_at": "2026-11-09T04:39:50.578652+00:00",
+      "candidates": []
+    },
+    "ikaqus5_QIg": {
+      "vid": "ikaqus5_QIg",
+      "status": "review",
+      "completed_at": "2026-11-09T04:40:10.648184+00:00",
+      "candidates": []
+    },
+    "imkdz63agHY": {
+      "vid": "imkdz63agHY",
+      "status": "review",
+      "completed_at": "2026-11-09T04:41:37.697709+00:00",
+      "candidates": []
+    },
+    "iqL1BLzn3qc": {
+      "vid": "iqL1BLzn3qc",
+      "status": "review",
+      "completed_at": "2026-11-09T04:42:46.515297+00:00",
+      "candidates": []
+    },
+    "itWxXyCfW5s": {
+      "vid": "itWxXyCfW5s",
+      "status": "review",
+      "completed_at": "2026-11-09T04:43:54.469428+00:00",
+      "candidates": []
+    },
+    "ivrlU73VcHw": {
+      "vid": "ivrlU73VcHw",
+      "status": "review",
+      "completed_at": "2026-11-09T04:44:05.565094+00:00",
+      "candidates": []
+    },
+    "j0UnS3jHhAA": {
+      "vid": "j0UnS3jHhAA",
+      "status": "review",
+      "completed_at": "2026-11-09T04:45:06.499653+00:00",
+      "candidates": []
+    },
+    "j4XT-l-_3y0": {
+      "vid": "j4XT-l-_3y0",
+      "status": "review",
+      "completed_at": "2026-11-09T04:46:28.031210+00:00",
+      "candidates": []
+    },
+    "j9tlJAqMV7U": {
+      "vid": "j9tlJAqMV7U",
+      "status": "review",
+      "completed_at": "2026-11-09T04:47:15.298914+00:00",
+      "candidates": []
+    },
+    "jAdG-iTilWU": {
+      "vid": "jAdG-iTilWU",
+      "status": "review",
+      "completed_at": "2026-11-09T04:48:39.526089+00:00",
+      "candidates": []
+    },
+    "jAfUI_hETy0": {
+      "vid": "jAfUI_hETy0",
+      "status": "review",
+      "completed_at": "2026-11-09T04:49:04.377041+00:00",
+      "candidates": []
+    },
+    "jJT_CACIZqs": {
+      "vid": "jJT_CACIZqs",
+      "status": "review",
+      "completed_at": "2026-11-09T04:49:35.083540+00:00",
+      "candidates": []
+    },
+    "jKS3MGriZcs": {
+      "vid": "jKS3MGriZcs",
+      "status": "review",
+      "completed_at": "2026-11-09T04:50:45.441780+00:00",
+      "candidates": []
+    },
+    "jNQXAC9IVRw": {
+      "vid": "jNQXAC9IVRw",
+      "status": "review",
+      "completed_at": "2026-11-09T04:51:52.247212+00:00",
+      "candidates": []
+    },
+    "jVeagFmmwA0": {
+      "vid": "jVeagFmmwA0",
+      "status": "review",
+      "completed_at": "2026-11-09T04:52:48.437782+00:00",
+      "candidates": []
+    },
+    "jVhlJNJopOQ": {
+      "vid": "jVhlJNJopOQ",
+      "status": "confirmed",
+      "completed_at": "2026-11-09T04:52:59.235264+00:00",
+      "candidates": [
+        {
+          "bvid": "BV18D4y1V7GU",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【中文字幕】周六夜现场 SNL：阿凡达&莎草纸体 Papyrus 喜剧特辑",
+          "up": "菊小马",
+          "duration": 187,
+          "original_duration": 186,
+          "cid": 956689126,
+          "aid": 734886824,
+          "segment_title": "【中文字幕】周六夜现场 SNL：阿凡达&莎草纸体 Papyrus 喜剧特辑",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 12879,
+          "pic": "https://i0.hdslb.com/bfs/archive/6527c83519f51dda5efd72dd903684543683e04e.jpg",
+          "checked_at": "2026-11-09T04:52:57.714062+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "jWTGsUyv8IE": {
+      "vid": "jWTGsUyv8IE",
+      "status": "review",
+      "completed_at": "2026-11-09T04:53:55.680617+00:00",
+      "candidates": []
+    },
+    "jahtu1_idVU": {
+      "vid": "jahtu1_idVU",
+      "status": "review",
+      "completed_at": "2026-11-09T04:54:13.265791+00:00",
+      "candidates": []
+    },
+    "jdM3ID4m38U": {
+      "vid": "jdM3ID4m38U",
+      "status": "review",
+      "completed_at": "2026-11-09T04:54:21.671650+00:00",
+      "candidates": []
+    },
+    "jf9I04Oa-hU": {
+      "vid": "jf9I04Oa-hU",
+      "status": "review",
+      "completed_at": "2026-11-09T04:54:52.192587+00:00",
+      "candidates": []
+    },
+    "jfPzUgzrOcQ": {
+      "vid": "jfPzUgzrOcQ",
+      "status": "review",
+      "completed_at": "2026-11-09T04:55:04.534235+00:00",
+      "candidates": []
+    },
+    "jgYYOUC10aM": {
+      "vid": "jgYYOUC10aM",
+      "status": "confirmed",
+      "completed_at": "2026-11-09T04:55:17.646706+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1BL411u71A",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Planning a Heist - Key & Peele(720p)",
+          "up": "PDwhite",
+          "duration": 62,
+          "original_duration": 62,
+          "cid": 437363380,
+          "aid": 464106588,
+          "segment_title": "yt5s.com-Planning a Heist - Key & Peele(720p)",
+          "page_count": 1,
+          "kind": "original",
+          "views": 146,
+          "pic": "https://i1.hdslb.com/bfs/archive/48f577797ab7d840e7b63244e4d05198db1ed9eb.jpg",
+          "checked_at": "2026-11-09T04:55:16.099836+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "jhninL_G3Fg": {
+      "vid": "jhninL_G3Fg",
+      "status": "review",
+      "completed_at": "2026-11-09T04:55:31.684535+00:00",
+      "candidates": []
+    },
+    "ji3Hii_LZOc": {
+      "vid": "ji3Hii_LZOc",
+      "status": "review",
+      "completed_at": "2026-11-09T04:56:53.316418+00:00",
+      "candidates": []
+    },
+    "jkhBlmKtEAk": {
+      "vid": "jkhBlmKtEAk",
+      "status": "review",
+      "completed_at": "2026-11-09T04:58:20.828299+00:00",
+      "candidates": []
+    },
+    "jlPEBROvR9w": {
+      "vid": "jlPEBROvR9w",
+      "status": "review",
+      "completed_at": "2026-11-09T04:58:51.765617+00:00",
+      "candidates": []
+    },
+    "jnZ2NNYySuE": {
+      "vid": "jnZ2NNYySuE",
+      "status": "review",
+      "completed_at": "2026-11-09T04:59:30.223600+00:00",
+      "candidates": []
+    },
+    "jrFv1O4dbqY": {
+      "vid": "jrFv1O4dbqY",
+      "status": "review",
+      "completed_at": "2026-11-09T05:00:43.193525+00:00",
+      "candidates": []
+    },
+    "jrnRU3ocIH4": {
+      "vid": "jrnRU3ocIH4",
+      "status": "review",
+      "completed_at": "2026-11-09T05:02:01.123661+00:00",
       "candidates": []
     }
   }

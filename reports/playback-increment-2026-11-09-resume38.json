@@ -1,0 +1,116 @@
+{
+  "checked_at": "2026-11-09T05:05:32.521Z",
+  "passed": true,
+  "checks": [
+    {
+      "sample": "rX0ItVEVjHc",
+      "kind": "original",
+      "id": "rX0ItVEVjHc",
+      "bvid": "BV1cm421u7dc",
+      "page": 1,
+      "cid": 1536707117,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.886402,
+        "duration": 5266,
+        "paused": false
+      },
+      "expected_duration": 5266,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1536707117"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "CppCon 2014 Mike Acton Data-Oriented Design and cpp\nwagagaa\n关注\n4\n0\n分享\n更多\n0:00:04 / 1:27:46\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "JfmTagWcqoE",
+      "kind": "original",
+      "id": "JfmTagWcqoE",
+      "bvid": "BV1Gb411E7xS",
+      "page": 1,
+      "cid": 81740217,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.94123,
+        "duration": 5965,
+        "paused": false
+      },
+      "expected_duration": 5965,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "81740217"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "CppCon 2016 Herb Sutter “Leak-Freedom in C ++ ... By Default.”\nNogiSonoko\n关注\n7\n1\n分享\n更多\n0:00:04 / 1:39:25\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "ig3xI8dUdm0",
+      "kind": "original",
+      "id": "ig3xI8dUdm0",
+      "bvid": "BV1CW411a76d",
+      "page": 1,
+      "cid": 27561627,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.270969,
+        "duration": 2699,
+        "paused": false
+      },
+      "expected_duration": 2699,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "27561627"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "[生肉]Thinkpad P50评估，IS IT SPILL PROOF？\n☆小☆科☆蚪☆\n关注\n8\n4\n分享\n更多\n00:05 / 44:59\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "jVhlJNJopOQ",
+      "kind": "sub_zh",
+      "id": "jVhlJNJopOQ",
+      "bvid": "BV18D4y1V7GU",
+      "page": 1,
+      "cid": 956689126,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.303804,
+        "duration": 185.8,
+        "paused": false
+      },
+      "expected_duration": 187,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "956689126"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【中文字幕】周六夜现场 SNL：阿凡达&莎草纸体 Papyrus 喜剧特辑\n菊小马\n关注\n250\n9\n分享\n更多\n00:05 / 03:06\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "jgYYOUC10aM",
+      "kind": "original",
+      "id": "jgYYOUC10aM",
+      "bvid": "BV1BL411u71A",
+      "page": 1,
+      "cid": 437363380,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.959192,
+        "duration": 62,
+        "paused": false
+      },
+      "expected_duration": 62,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "437363380"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Planning a Heist - Key & Peele(720p)\nPDwhite\n关注\n3\n0\n分享\n更多\n00:04 / 01:02\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}
