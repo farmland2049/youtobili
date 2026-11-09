@@ -1,48 +1,63 @@
 # 匹配进展
 
-更新时间：2026-11-09T10:36:15.524697+00:00
+更新时间：2026-11-09T11:51:30.158511+00:00
 
 - 原片库：6454
-- 完成处理：6200
-- 已确认原片：1184
-- 全库覆盖率：18.35%
-- 已处理原片匹配率：19.06%
-- 状态：{'confirmed': 1184, 'review': 5064}
+- 完成处理：6201
+- 已确认原片：1190
+- 全库覆盖率：18.44%
+- 已处理原片匹配率：19.16%
+- 状态：{'confirmed': 1190, 'review': 5058}
 
-- 待审中尚需扩大候选检查：2
-- 已扩大检查仍待审核：67
-- 待审中搜索元数据缺失（重建丢失，状态未知，需重新搜索）：4995
+- 待审中尚需扩大候选检查：4
+- 已扩大检查仍待审核：94
+- 待审中搜索元数据缺失（重建丢失，状态未知，需重新搜索）：4960
 
 ## 最近批次
 
 ```json
 {
-  "id": "20261109T101202Z",
+  "id": "20261109T113114Z",
   "selected": 50,
-  "completed": 12,
+  "completed": 27,
   "errors": [
     {
-      "vid": "YQ2QtKcK2dA",
+      "vid": "LIb3L4vKZ7U",
       "reason": "URLError"
     }
   ],
   "stopped": false,
   "originals": [
-    "oUaOucZRlmE",
-    "IkdziSLYzHw",
-    "RjfbvDXpFls",
-    "Ucp0TTmvqOE",
-    "n068fel-W9I",
-    "qQTjLWIHN74",
-    "-EVqrDlAqYo",
-    "ieb1lmm9xHk",
-    "rsxCZAE8QNA",
-    "60OVlfAUPJg",
-    "EH6vE97qIP4",
-    "QWWgr2rN45o"
+    "GwRRSJ_wtIg",
+    "RJVL80Gg3lA",
+    "TMoz3gSXBcY",
+    "v0gjI__RyCY",
+    "Y2F8yisiS6E",
+    "YR5ApYxkU-U",
+    "Yf1o0TQzry8",
+    "cIQ0yIZgQeE",
+    "ebls5x-gb0s",
+    "j0z4FweCy4M",
+    "muPcHs-E4qc",
+    "tbDDYKRFjhk",
+    "x7psGHgatGM",
+    "zHU1xH6Ogs4",
+    "FITJMJjASUs",
+    "NGFhc8R_uO4",
+    "qCGofLIzX6g",
+    "PHe0bXAIuk0",
+    "JvBT4XBdoUE",
+    "dEaecUuEqfc",
+    "7J52mDjZzto",
+    "XXBxV6-zamM",
+    "eJ3RzGoQC4s",
+    "IcgmSRJHu_8",
+    "LQRAfJyEsko",
+    "L0KuAx1COEk",
+    "5SaFTm2bcac"
   ],
   "primary_first": true,
-  "deferred_candidates": 22,
+  "deferred_candidates": 26,
   "excluded_originals": [
     "-e1_QhJ1EhQ",
     "05WS0WN7zMQ",
@@ -68,6 +83,7 @@
     "AJgY9FtDLbs",
     "AfKZclMWS1U",
     "AjSl4n_KdOY",
+    "AouW9_jyZck",
     "DkUpZkeqhF4",
     "FUPstXCqyus",
     "G6D1YI-41ao",
@@ -107,6 +123,7 @@
     "XZmGGAbHqa0",
     "X_8E3ENrKrQ",
     "XamC7-Pt8N0",
+    "YQ2QtKcK2dA",
     "YZZV464z9g8",
     "YpNuh-J5IgE",
     "Z2ZXW2HBLPM",
@@ -137,13 +154,13 @@
     "y4sOfO8Ei1g",
     "yg-UqIIvang"
   ],
-  "attempted": 13,
-  "unattempted": 37,
+  "attempted": 28,
+  "unattempted": 22,
   "statuses": {
-    "review": 11,
-    "confirmed": 2
+    "confirmed": 3,
+    "review": 25
   },
-  "candidate_count": 498
+  "candidate_count": 1073
 }
 ```
 
@@ -160,3 +177,5 @@
   "stopped": false
 }
 ```
+
+搜索仍有受阻条目；保留断点，不自动反复请求。详情见 summary.json 的 blocked_searches。

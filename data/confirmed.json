@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T10:35:19.224108+00:00",
+  "updated_at": "2026-11-09T11:51:29.835763+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -93,15 +93,53 @@
     },
     "cIQ0yIZgQeE": {
       "vid": "cIQ0yIZgQeE",
-      "status": "review",
-      "completed_at": "2026-11-04T06:56:50.636148+00:00",
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-09T11:34:29.880790+00:00",
+      "candidates": [
+        {
+          "bvid": "BV18hWJeoERK",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "柴油电力机车的工作原理 How a Diesel-Electric Locomotive Works",
+          "up": "StarDazz",
+          "duration": 1513,
+          "original_duration": 1513,
+          "cid": 500001659003991,
+          "aid": 113008810461807,
+          "segment_title": "柴油电力机车的工作原理 How a Diesel-Electric Locomotive Works",
+          "page_count": 1,
+          "kind": "original",
+          "views": 379,
+          "pic": "https://i2.hdslb.com/bfs/archive/f6998cf50c12ffcf7b90e182c75f108b1be170c2.jpg",
+          "checked_at": "2026-11-09T11:34:29.828479+00:00",
+          "availability": "available"
+        }
+      ],
+      "searched_at": "2026-11-09T11:34:26.460488+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "How a Diesel-Electric Locomotive Works",
+        "Animagraffs How a Diesel-Electric Locomotive Works"
+      ],
+      "search_result_limit": 20
     },
     "GwRRSJ_wtIg": {
       "vid": "GwRRSJ_wtIg",
       "status": "review",
-      "completed_at": "2026-11-04T06:55:37.777248+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T11:31:57.271789+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:31:25.586593+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "BBC How They Dug the Victoria Line",
+        "Graham W BBC How They Dug the Victoria Line"
+      ],
+      "search_result_limit": 20
     },
     "qQTjLWIHN74": {
       "vid": "qQTjLWIHN74",
@@ -119,8 +157,15 @@
     "muPcHs-E4qc": {
       "vid": "muPcHs-E4qc",
       "status": "review",
-      "completed_at": "2026-11-04T06:57:03.130859+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T11:35:52.923236+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:35:33.168287+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Why Swiss Trains are the Best in Europe",
+        "Not Just Bikes Why Swiss Trains are the Best in Europe"
+      ],
+      "search_result_limit": 20
     },
     "DlTq8DbRs4k": {
       "vid": "DlTq8DbRs4k",
@@ -435,8 +480,15 @@
     "Y2F8yisiS6E": {
       "vid": "Y2F8yisiS6E",
       "status": "review",
-      "completed_at": "2026-11-04T06:56:39.451219+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T11:33:22.184003+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:33:06.742280+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "GTC March 2024 Keynote with NVIDIA CEO Jensen Huang",
+        "NVIDIA GTC March 2024 Keynote with NVIDIA CEO Jensen Huang"
+      ],
+      "search_result_limit": 20
     },
     "2pWv7GOvuf0": {
       "vid": "2pWv7GOvuf0",
@@ -637,20 +689,41 @@
     "TMoz3gSXBcY": {
       "vid": "TMoz3gSXBcY",
       "status": "review",
-      "completed_at": "2026-11-04T06:55:51.253497+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T11:32:43.296538+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:32:16.059019+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "vibe physics",
+        "Angela Collier  vibe physics"
+      ],
+      "search_result_limit": 20
     },
     "j0z4FweCy4M": {
       "vid": "j0z4FweCy4M",
       "status": "review",
-      "completed_at": "2026-11-04T06:56:56.971975+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T11:35:24.844999+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:35:15.063537+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Tesla AI Day 2021",
+        "Tesla Tesla AI Day 2021"
+      ],
+      "search_result_limit": 20
     },
     "ebls5x-gb0s": {
       "vid": "ebls5x-gb0s",
       "status": "review",
-      "completed_at": "2026-11-04T06:56:54.109106+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T11:35:06.725037+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:34:38.303212+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Introducing Microsoft 365 Copilot with Outlook, PowerPoint, Excel, and OneNote",
+        "Microsoft Introducing Microsoft 365 Copilot with Outlook, PowerPoint, Excel, and OneNote"
+      ],
+      "search_result_limit": 20
     },
     "kCc8FmEb1nY": {
       "vid": "kCc8FmEb1nY",
@@ -1155,14 +1228,28 @@
     "hJP5GqnTrNo": {
       "vid": "hJP5GqnTrNo",
       "status": "review",
-      "completed_at": "2026-11-04T06:55:01.278326+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T11:19:08.391012+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:18:46.622950+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "How AI Could Save (Not Destroy) Education | Sal Khan | TED",
+        "TED How AI Could Save (Not Destroy) Education | Sal Khan | TED"
+      ],
+      "search_result_limit": 20
     },
     "Dw3BZ6O_8LY": {
       "vid": "Dw3BZ6O_8LY",
       "status": "review",
-      "completed_at": "2026-11-04T06:55:21.779063+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T11:19:56.981065+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:19:38.459985+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Training an unbeatable AI in Trackmania",
+        "Yosh Training an unbeatable AI in Trackmania"
+      ],
+      "search_result_limit": 20
     },
     "zduSFxRajkE": {
       "vid": "zduSFxRajkE",
@@ -1393,8 +1480,15 @@
     "v0gjI__RyCY": {
       "vid": "v0gjI__RyCY",
       "status": "review",
-      "completed_at": "2026-11-04T06:56:07.460925+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T11:32:58.462277+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:32:51.550437+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI",
+        "Dwarkesh Patel Jeff Dean & Noam Shazeer — 25 years at Google: from PageRank to AGI"
+      ],
+      "search_result_limit": 20
     },
     "ogfYd705cRs": {
       "vid": "ogfYd705cRs",
@@ -1428,9 +1522,40 @@
     },
     "AaTRHFaaPG8": {
       "vid": "AaTRHFaaPG8",
-      "status": "review",
-      "completed_at": "2026-11-04T06:55:34.198450+00:00",
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-09T11:21:32.994570+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1cxwqeBE4v",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "[335] Eliezer Yudkowsky_人工智能的危险与人类文明的终结[中英精校]",
+          "up": "podcast播客每天更新",
+          "duration": 11871,
+          "original_duration": 11871,
+          "cid": 27951368336,
+          "aid": 113852721138137,
+          "segment_title": "[335] Eliezer Yudkowsky_人工智能的危险与人类文明的终结[中英精校]",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 185,
+          "pic": "https://i1.hdslb.com/bfs/archive/83ee184580650e4e8cddc9ddaeff54fe7bc263b8.jpg",
+          "checked_at": "2026-11-09T11:21:32.954769+00:00",
+          "availability": "available"
+        }
+      ],
+      "searched_at": "2026-11-09T11:21:30.099159+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Eliezer Yudkowsky: Dangers of AI and the End of Human Civilization | Lex Fridman Podcast #368",
+        "Lex Fridman Eliezer Yudkowsky: Dangers of AI and the End of Human Civilization | Lex Fridman Podcast #368"
+      ],
+      "search_result_limit": 20
     },
     "8dT6CR9_6l4": {
       "vid": "8dT6CR9_6l4",
@@ -1710,15 +1835,77 @@
     },
     "Yf1o0TQzry8": {
       "vid": "Yf1o0TQzry8",
-      "status": "review",
-      "completed_at": "2026-11-04T06:56:42.094273+00:00",
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-09T11:34:17.832242+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1gc411T7G8",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Ilya Sutskever (OpenAI Chief Scientist) - Building AGI, Alignment, Spies, Micros",
+          "up": "backyess",
+          "duration": 2862,
+          "original_duration": 2861,
+          "cid": 1116067897,
+          "aid": 270626750,
+          "segment_title": "Ilya Sutskever (OpenAI Chief Scientist) - Building AGI, Alignment, Spies, Micros",
+          "page_count": 1,
+          "kind": "original",
+          "views": 149,
+          "pic": "https://i2.hdslb.com/bfs/archive/6fd24103d60dcb39249ebda612960a47614e1a12.jpg",
+          "checked_at": "2026-11-09T11:34:17.774862+00:00",
+          "availability": "available"
+        }
+      ],
+      "searched_at": "2026-11-09T11:34:16.377832+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Ilya Sutskever (OpenAI Chief Scientist) — Why next-token prediction could surpass human intelligence",
+        "Dwarkesh Patel Ilya Sutskever (OpenAI Chief Scientist) — Why next-token prediction could surpass human intelligence"
+      ],
+      "search_result_limit": 20
     },
     "RJVL80Gg3lA": {
       "vid": "RJVL80Gg3lA",
-      "status": "review",
-      "completed_at": "2026-11-04T06:55:47.444040+00:00",
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-09T11:32:07.359619+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1SW411E74j",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "GoogleTechTalk（2013）-Visualizing Data Using t-SNE",
+          "up": "咸豆浆不是黑暗料理",
+          "duration": 3309,
+          "original_duration": 3310,
+          "cid": 31948556,
+          "aid": 19592239,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "original",
+          "views": 2146,
+          "pic": "https://i2.hdslb.com/bfs/archive/a6757b6a400252b5691bf7eb7c0d73ced12dbc73.jpg",
+          "checked_at": "2026-11-09T11:32:07.301335+00:00",
+          "availability": "available"
+        }
+      ],
+      "searched_at": "2026-11-09T11:32:05.199441+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Visualizing Data Using t-SNE",
+        "Google TechTalks Visualizing Data Using t-SNE"
+      ],
+      "search_result_limit": 20
     },
     "qbIk7-JPB2c": {
       "vid": "qbIk7-JPB2c",
@@ -1836,9 +2023,40 @@
     },
     "yCd3CzGSte8": {
       "vid": "yCd3CzGSte8",
-      "status": "review",
-      "completed_at": "2026-11-04T06:55:17.908232+00:00",
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-09T11:19:29.931713+00:00",
+      "candidates": [
+        {
+          "bvid": "BV12u411C7vh",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Chris Lattner_ Compilers, LLVM, Swift, TPU, and ML Accelerators _ Lex Fridman Po",
+          "up": "Linux_Newbie",
+          "duration": 4386,
+          "original_duration": 4386,
+          "cid": 575509095,
+          "aid": 510712989,
+          "segment_title": "Chris Lattner_ Compilers, LLVM, Swift, TPU, and ML Accelerators _ Lex Fridman Po",
+          "page_count": 1,
+          "kind": "original",
+          "views": 68,
+          "pic": "https://i1.hdslb.com/bfs/archive/d37bd38ed4224e267ee0d0f522714f3dcc5924da.jpg",
+          "checked_at": "2026-11-09T11:19:29.884154+00:00",
+          "availability": "available"
+        }
+      ],
+      "searched_at": "2026-11-09T11:19:16.896617+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Chris Lattner: Compilers, LLVM, Swift, TPU, and ML Accelerators | Lex Fridman Podcast #21",
+        "Lex Fridman Chris Lattner: Compilers, LLVM, Swift, TPU, and ML Accelerators | Lex Fridman Podcast #21"
+      ],
+      "search_result_limit": 20
     },
     "C_78DM8fG6E": {
       "vid": "C_78DM8fG6E",
@@ -2007,8 +2225,15 @@
     "tbDDYKRFjhk": {
       "vid": "tbDDYKRFjhk",
       "status": "review",
-      "completed_at": "2026-11-04T06:57:09.796902+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T11:36:28.089798+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:36:01.637899+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Does AI Actually Boost Developer Productivity? (100k Devs Study) - Yegor Denisov-Blanch, Stanford",
+        "AI Engineer Does AI Actually Boost Developer Productivity? (100k Devs Study) - Yegor Denisov-Blanch, Stanford"
+      ],
+      "search_result_limit": 20
     },
     "IACHfKmZMr8": {
       "vid": "IACHfKmZMr8",
@@ -2043,8 +2268,15 @@
     "7k1ehaE0bdU": {
       "vid": "7k1ehaE0bdU",
       "status": "review",
-      "completed_at": "2026-11-04T06:55:28.659049+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T11:21:21.395004+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:20:41.471403+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Joe Rogan Experience #2255 - Mark Zuckerberg",
+        "PowerfulJRE Joe Rogan Experience #2255 - Mark Zuckerberg"
+      ],
+      "search_result_limit": 20
     },
     "PaCmpygFfXo": {
       "vid": "PaCmpygFfXo",
@@ -2240,14 +2472,52 @@
     "x7psGHgatGM": {
       "vid": "x7psGHgatGM",
       "status": "review",
-      "completed_at": "2026-11-04T06:57:13.090958+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T11:37:09.204580+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:36:36.402206+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "NIPS 2017 Test of Time Award \"Machine learning has become alchemy.” | Ali Rahimi, Google",
+        "Preserve Knowledge NIPS 2017 Test of Time Award \"Machine learning has become alchemy.” | Ali Rahimi, Google"
+      ],
+      "search_result_limit": 20
     },
     "NfnWJUyUJYU": {
       "vid": "NfnWJUyUJYU",
-      "status": "review",
-      "completed_at": "2026-11-04T06:55:25.177259+00:00",
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-09T11:20:33.074734+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1ap4y1D7ML",
+          "status": "confirmed",
+          "evidence": [
+            "exact original YouTube ID explicitly associated with selected segment"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "深度学习 李飞飞（CS231n Winter2016）",
+          "up": "Moomers",
+          "duration": 4748,
+          "original_duration": 4748,
+          "cid": 202689347,
+          "aid": 968520056,
+          "segment_title": "CS231n Winter 2016 - Lecture 1-NfnWJUyUJYU",
+          "page_count": 16,
+          "kind": "original",
+          "views": 1817,
+          "pic": "https://i1.hdslb.com/bfs/archive/7db05a08152d5733b32002844d2a589f7b132578.jpg",
+          "checked_at": "2026-11-09T11:20:33.038114+00:00",
+          "availability": "available"
+        }
+      ],
+      "searched_at": "2026-11-09T11:20:05.191079+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "CS231n Winter 2016: Lecture1: Introduction and Historical Context",
+        "Andrej Karpathy CS231n Winter 2016: Lecture1: Introduction and Historical Context"
+      ],
+      "search_result_limit": 20
     },
     "DleXA5ADG78": {
       "vid": "DleXA5ADG78",
@@ -3673,8 +3943,15 @@
     "zHU1xH6Ogs4": {
       "vid": "zHU1xH6Ogs4",
       "status": "review",
-      "completed_at": "2026-11-04T07:57:47.450118+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T11:41:29.755010+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:37:17.480600+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "On Mathematical Maturity (1) Thomas Garrity",
+        "IAS | PCMI Park City Mathematics Institute  On Mathematical Maturity (1) Thomas Garrity"
+      ],
+      "search_result_limit": 20
     },
     "Eg_ToU7m1MI": {
       "vid": "Eg_ToU7m1MI",
@@ -3899,14 +4176,28 @@
     "FITJMJjASUs": {
       "vid": "FITJMJjASUs",
       "status": "review",
-      "completed_at": "2026-11-04T13:21:04.244030+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T11:41:46.009776+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:41:38.208856+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Ruby Conf 12 - Y Not- Adventures in Functional Programming by Jim Weirich",
+        "Confreaks Ruby Conf 12 - Y Not- Adventures in Functional Programming by Jim Weirich"
+      ],
+      "search_result_limit": 20
     },
     "NGFhc8R_uO4": {
       "vid": "NGFhc8R_uO4",
       "status": "review",
-      "completed_at": "2026-11-04T13:21:08.124018+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T11:42:02.140059+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:41:54.433163+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Indistinguishable From Magic: Manufacturing Modern Computer Chips",
+        "Andor Gafotas Indistinguishable From Magic: Manufacturing Modern Computer Chips"
+      ],
+      "search_result_limit": 20
     },
     "qbKGw8MQ0i8": {
       "vid": "qbKGw8MQ0i8",
@@ -5116,8 +5407,15 @@
     "PHe0bXAIuk0": {
       "vid": "PHe0bXAIuk0",
       "status": "review",
-      "completed_at": "2026-11-04T08:03:54.172298+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T11:43:10.027834+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:42:31.767432+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "How The Economic Machine Works by Ray Dalio",
+        "Principles by Ray Dalio How The Economic Machine Works by Ray Dalio"
+      ],
+      "search_result_limit": 20
     },
     "HyznrdDSSGM": {
       "vid": "HyznrdDSSGM",
@@ -5309,8 +5607,15 @@
     "qCGofLIzX6g": {
       "vid": "qCGofLIzX6g",
       "status": "review",
-      "completed_at": "2026-11-04T13:21:52.157409+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T11:42:23.023761+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:42:10.512359+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Armin Ronacher Python",
+        "Python 泄漏的内部机制"
+      ],
+      "search_result_limit": 20
     },
     "DovunOxlY1k": {
       "vid": "DovunOxlY1k",
@@ -5460,8 +5765,15 @@
     "JvBT4XBdoUE": {
       "vid": "JvBT4XBdoUE",
       "status": "review",
-      "completed_at": "2026-11-04T14:16:40.792858+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T11:43:32.313068+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:43:18.532117+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Sasa Juric Erlang Elixir",
+        "Erlang Elixir 灵魂"
+      ],
+      "search_result_limit": 20
     },
     "SCAGc-rkIfo": {
       "vid": "SCAGc-rkIfo",
@@ -5531,8 +5843,15 @@
     "dEaecUuEqfc": {
       "vid": "dEaecUuEqfc",
       "status": "review",
-      "completed_at": "2026-11-04T14:16:45.084020+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T11:44:09.332168+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:43:40.429104+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Quantum Conspiracy",
+        "量子 阴谋 Google"
+      ],
+      "search_result_limit": 20
     },
     "rStL7niR7gs": {
       "vid": "rStL7niR7gs",
@@ -5730,14 +6049,28 @@
     "7J52mDjZzto": {
       "vid": "7J52mDjZzto",
       "status": "review",
-      "completed_at": "2026-11-04T14:16:48.980691+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T11:44:21.716438+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:44:18.111336+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Technology Connections 热泵",
+        "Heat Pumps Home Heating"
+      ],
+      "search_result_limit": 20
     },
     "XXBxV6-zamM": {
       "vid": "XXBxV6-zamM",
       "status": "review",
-      "completed_at": "2026-11-04T14:16:51.593640+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T11:44:45.288607+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:44:30.047306+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Micro Men 2009",
+        "微型人 2009"
+      ],
+      "search_result_limit": 20
     },
     "aVwxzDHniEw": {
       "vid": "aVwxzDHniEw",
@@ -5821,8 +6154,15 @@
     "eJ3RzGoQC4s": {
       "vid": "eJ3RzGoQC4s",
       "status": "review",
-      "completed_at": "2026-11-04T14:17:00.759883+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T11:45:07.635792+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:44:54.013586+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "自我的世纪",
+        "The Century of the Self"
+      ],
+      "search_result_limit": 20
     },
     "o_AIw9bGogo": {
       "vid": "o_AIw9bGogo",
@@ -5888,14 +6228,28 @@
     "IcgmSRJHu_8": {
       "vid": "IcgmSRJHu_8",
       "status": "review",
-      "completed_at": "2026-11-04T14:17:12.574280+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T11:45:38.061353+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:45:16.343732+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Making Impossible States Impossible",
+        "Richard Feldman 不可能的状态"
+      ],
+      "search_result_limit": 20
     },
     "LQRAfJyEsko": {
       "vid": "LQRAfJyEsko",
       "status": "review",
-      "completed_at": "2026-11-04T14:17:29.604686+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T11:46:21.982505+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:45:46.622253+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Dominion 2018 纪录片",
+        "统治 2018 纪录片"
+      ],
+      "search_result_limit": 20
     },
     "cIQ9IXSUzuM": {
       "vid": "cIQ9IXSUzuM",
@@ -5965,8 +6319,15 @@
     "L0KuAx1COEk": {
       "vid": "L0KuAx1COEk",
       "status": "review",
-      "completed_at": "2026-11-04T14:17:46.943614+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T11:47:00.994139+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:46:29.835690+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "MIT Pathway Fusion Zach Hartwig",
+        "麻省理工 聚变能源 路径"
+      ],
+      "search_result_limit": 20
     },
     "jvPPXbo87ds": {
       "vid": "jvPPXbo87ds",
@@ -6001,14 +6362,29 @@
     "5SaFTm2bcac": {
       "vid": "5SaFTm2bcac",
       "status": "review",
-      "completed_at": "2026-11-04T14:18:17.590374+00:00",
-      "candidates": []
+      "completed_at": "2026-11-09T11:47:12.633033+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:47:09.130434+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Amen break 六秒 鼓",
+        "world most important drum loop"
+      ],
+      "search_result_limit": 20
     },
     "LIb3L4vKZ7U": {
       "vid": "LIb3L4vKZ7U",
       "status": "review",
       "completed_at": "2026-11-04T14:18:28.335187+00:00",
-      "candidates": []
+      "candidates": [],
+      "searched_at": "2026-11-09T11:47:39.659821+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Andrei Alexandrescu allocator",
+        "CppCon 2015 allocator"
+      ],
+      "search_result_limit": 20,
+      "last_error": "URLError"
     },
     "QNznD9hMEh0": {
       "vid": "QNznD9hMEh0",
@@ -58089,7 +58465,15 @@
       "vid": "AouW9_jyZck",
       "status": "review",
       "completed_at": null,
-      "candidates": []
+      "candidates": [],
+      "searched_at": "2026-11-09T11:21:41.232549+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "BMW's Hydrogen V12 Engine Is A Hilarious Engineering Stunt",
+        "Engineering Explained BMW's Hydrogen V12 Engine Is A Hilarious Engineering Stunt"
+      ],
+      "search_result_limit": 20,
+      "last_error": "TimeoutError"
     },
     "AqDdWEiSwMM": {
       "vid": "AqDdWEiSwMM",
@@ -70307,8 +70691,15 @@
     "YR5ApYxkU-U": {
       "vid": "YR5ApYxkU-U",
       "status": "review",
-      "completed_at": null,
-      "candidates": []
+      "completed_at": "2026-11-09T11:34:08.082757+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-09T11:33:30.865263+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Pink Floyd - Another Brick In The Wall (HQ)",
+        "mongchilde Pink Floyd - Another Brick In The Wall (HQ)"
+      ],
+      "search_result_limit": 20
     },
     "VtvjbmoDx-I": {
       "vid": "VtvjbmoDx-I",

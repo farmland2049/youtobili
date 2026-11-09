@@ -119,6 +119,8 @@ python3 scripts/pipeline.py verify-leads data/work/web-leads.json --limit 50 --d
 
 `reports/summary.json` 与 `STATUS.md` 分别统计尚需补查、已补查仍待审的数量。已处理或扩大检查都不等于确认成功，存疑内容继续隐藏。
 
+2026-11-09起，账本（`data/confirmed.json`）保留搜索元数据（`searched_at`、`search_session_version`、`search_queries`、`search_result_limit`、`last_error`），重建后不再丢失。此前因重建丢失元数据的待审条目计入「搜索元数据缺失」，可通过 `--expand-review` 重新搜索补回。`reports/summary.json` 与 `STATUS.md` 现将待审分为三类统计：尚需扩大、已扩大仍待审、搜索元数据缺失。
+
 ## 从公开缓存整理明确的原片身份线索
 
 运行 `python3 scripts/pipeline.py seed-identities`，离线读取已缓存的公开视频详情与搜索摘要，提取原片URL、明确标注的YouTube ID和分P绑定的ID，仅保留原片库中尚未完成对应详情检查的线索，输出到本地 `data/work/cached-identity-leads.json`。该步骤不发请求、不修改匹配库，也不批准版本。

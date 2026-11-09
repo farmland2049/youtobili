@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-09T10:35:19.186795+00:00",
+  "built_at": "2026-11-09T11:51:29.804625+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 6200,
-    "confirmed": 1184,
-    "coverage": 0.1834521227145956,
-    "processed_match_rate": 0.19064516129032258
+    "processed": 6201,
+    "confirmed": 1190,
+    "coverage": 0.1843817787418655,
+    "processed_match_rate": 0.19158200290275762
   },
   "areas": [
     {
@@ -35014,6 +35014,41 @@
       ]
     },
     {
+      "id": "yCd3CzGSte8",
+      "title": "Chris Lattner: Compilers, LLVM, Swift, TPU, and ML Accelerators | Lex Fridman Podcast #21",
+      "author": "Lex Fridman",
+      "source_url": "https://www.youtube.com/watch?v=yCd3CzGSte8",
+      "summary": "Lex Fridman interviews Chris Lattner, creator of LLVM, Clang and Swift, about compilers, Swift for TensorFlow, TPUs and ML accelerators. The talk covers how hardware and software meet to produce efficient code.",
+      "why": "HN commenters point to it as an interesting conversation with the creator of Swift and LLVM, especially for compilers and ML compilation.",
+      "score": 2.0,
+      "tags": [
+        "llvm",
+        "swift",
+        "mlir",
+        "tpu",
+        "chris lattner"
+      ],
+      "categories": [
+        "compilers-interpreters",
+        "machine-learning",
+        "tech-figures-interviews"
+      ],
+      "versions": [
+        {
+          "bvid": "BV12u411C7vh",
+          "page": 1,
+          "cid": 575509095,
+          "title": "Chris Lattner_ Compilers, LLVM, Swift, TPU, and ML Accelerators _ Lex Fridman Po",
+          "up": "Linux_Newbie",
+          "duration": 4386,
+          "kind": "original",
+          "views": 68,
+          "pic": "https://i1.hdslb.com/bfs/archive/d37bd38ed4224e267ee0d0f522714f3dcc5924da.jpg",
+          "checked_at": "2026-11-09T11:19:29.884154+00:00"
+        }
+      ]
+    },
+    {
       "id": "yY96hTb8WgI",
       "title": "It's not you. Bad doors are everywhere.",
       "author": "Vox",
@@ -35562,6 +35597,41 @@
           "views": 1843,
           "pic": "https://i0.hdslb.com/bfs/archive/beefa3060e7e86f3e7105288859657ee9a3e085d.png",
           "checked_at": "2026-11-07T05:28:08.444314+00:00"
+        }
+      ]
+    },
+    {
+      "id": "NfnWJUyUJYU",
+      "title": "CS231n Winter 2016: Lecture1: Introduction and Historical Context",
+      "author": "Andrej Karpathy",
+      "source_url": "https://www.youtube.com/watch?v=NfnWJUyUJYU",
+      "summary": "The first lecture of Stanford's CS231n Winter 2016 course on convolutional neural networks for visual recognition, introducing the course and the historical context of computer vision.",
+      "why": "HN lists it as a free, brilliant introduction to deep learning and computer vision, often within ML self-study plans.",
+      "score": 1.5,
+      "tags": [
+        "cs231n",
+        "deep learning",
+        "computer vision",
+        "stanford",
+        "cnn"
+      ],
+      "categories": [
+        "machine-learning",
+        "computer-vision-speech",
+        "university-lectures"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ap4y1D7ML",
+          "page": 1,
+          "cid": 202689347,
+          "title": "深度学习 李飞飞（CS231n Winter2016）",
+          "up": "Moomers",
+          "duration": 4748,
+          "kind": "original",
+          "views": 1817,
+          "pic": "https://i1.hdslb.com/bfs/archive/7db05a08152d5733b32002844d2a589f7b132578.jpg",
+          "checked_at": "2026-11-09T11:20:33.038114+00:00"
         }
       ]
     },
@@ -36765,6 +36835,40 @@
       ]
     },
     {
+      "id": "AaTRHFaaPG8",
+      "title": "Eliezer Yudkowsky: Dangers of AI and the End of Human Civilization | Lex Fridman Podcast #368",
+      "author": "Lex Fridman",
+      "source_url": "https://www.youtube.com/watch?v=AaTRHFaaPG8",
+      "summary": "A three-hour Lex Fridman podcast conversation with AI researcher Eliezer Yudkowsky about the dangers of superintelligent AI and his argument that it could end human civilization. It covers AI alignment, why he thinks LLM capabilities are poorly understood, and the case for extreme caution.",
+      "why": "Mostly cited as the canonical statement of AI doomer views, with some recommending it and many criticizing it as irresponsible or wrong.",
+      "score": 1.0,
+      "tags": [
+        "eliezer yudkowsky",
+        "ai alignment",
+        "agi",
+        "lex fridman",
+        "ai safety"
+      ],
+      "categories": [
+        "ai-safety-impact",
+        "llms-generative-ai"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1cxwqeBE4v",
+          "page": 1,
+          "cid": 27951368336,
+          "title": "[335] Eliezer Yudkowsky_人工智能的危险与人类文明的终结[中英精校]",
+          "up": "podcast播客每天更新",
+          "duration": 11871,
+          "kind": "sub_zh",
+          "views": 185,
+          "pic": "https://i1.hdslb.com/bfs/archive/83ee184580650e4e8cddc9ddaeff54fe7bc263b8.jpg",
+          "checked_at": "2026-11-09T11:21:32.954769+00:00"
+        }
+      ]
+    },
+    {
       "id": "AgkfIQ4IGaM",
       "title": "Deep Visualization Toolbox",
       "author": "Jason Yosinski",
@@ -37768,6 +37872,40 @@
           "views": 251,
           "pic": "https://i0.hdslb.com/bfs/archive/bf6aaee17e4f145477fb8f92eb1d9d87579b764c.jpg",
           "checked_at": "2026-11-07T05:28:16.006906+00:00"
+        }
+      ]
+    },
+    {
+      "id": "RJVL80Gg3lA",
+      "title": "Visualizing Data Using t-SNE",
+      "author": "Google TechTalks",
+      "source_url": "https://www.youtube.com/watch?v=RJVL80Gg3lA",
+      "summary": "A Google Tech Talk by Laurens van der Maaten, co-creator of t-SNE, on visualizing high-dimensional data by mapping it to two dimensions. It explains how the technique works and how it compares with other visualization approaches.",
+      "why": "HN people point to it as the canonical explanation from the method's author whenever t-SNE comes up.",
+      "score": 1.0,
+      "tags": [
+        "t-sne",
+        "data visualization",
+        "machine learning",
+        "high-dimensional data",
+        "embeddings"
+      ],
+      "categories": [
+        "data-visualization",
+        "machine-learning"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1SW411E74j",
+          "page": 1,
+          "cid": 31948556,
+          "title": "GoogleTechTalk（2013）-Visualizing Data Using t-SNE",
+          "up": "咸豆浆不是黑暗料理",
+          "duration": 3309,
+          "kind": "original",
+          "views": 2146,
+          "pic": "https://i2.hdslb.com/bfs/archive/a6757b6a400252b5691bf7eb7c0d73ced12dbc73.jpg",
+          "checked_at": "2026-11-09T11:32:07.301335+00:00"
         }
       ]
     },
@@ -44706,6 +44844,41 @@
       ]
     },
     {
+      "id": "Yf1o0TQzry8",
+      "title": "Ilya Sutskever (OpenAI Chief Scientist) — Why next-token prediction could surpass human intelligence",
+      "author": "Dwarkesh Patel",
+      "source_url": "https://www.youtube.com/watch?v=Yf1o0TQzry8",
+      "summary": "Dwarkesh Patel interviews OpenAI chief scientist Ilya Sutskever on time to AGI, what comes after generative models, data limits, alignment, and competing with Google. The title centers on whether next-token prediction could surpass human intelligence.",
+      "why": "HN commenters cite it mainly for Sutskever's statements that training data is far from exhausted.",
+      "score": 0.0,
+      "tags": [
+        "ilya sutskever",
+        "openai",
+        "agi",
+        "training data",
+        "alignment"
+      ],
+      "categories": [
+        "llms-generative-ai",
+        "ai-safety-impact",
+        "tech-figures-interviews"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1gc411T7G8",
+          "page": 1,
+          "cid": 1116067897,
+          "title": "Ilya Sutskever (OpenAI Chief Scientist) - Building AGI, Alignment, Spies, Micros",
+          "up": "backyess",
+          "duration": 2862,
+          "kind": "original",
+          "views": 149,
+          "pic": "https://i2.hdslb.com/bfs/archive/6fd24103d60dcb39249ebda612960a47614e1a12.jpg",
+          "checked_at": "2026-11-09T11:34:17.774862+00:00"
+        }
+      ]
+    },
+    {
       "id": "ZXsQAXx_ao0",
       "title": "Shia LaBeouf \"Just Do It\" Motivational Speech (Original Video by LaBeouf, Rönkkö & Turner)",
       "author": "MotivaShian",
@@ -45134,6 +45307,41 @@
           "views": 106,
           "pic": "https://i1.hdslb.com/bfs/archive/13cc22f07e7fbdc5ada16244f8d5a48f58331443.jpg",
           "checked_at": "2026-11-08T21:19:12.974184+00:00"
+        }
+      ]
+    },
+    {
+      "id": "cIQ0yIZgQeE",
+      "title": "How a Diesel-Electric Locomotive Works",
+      "author": "Animagraffs",
+      "source_url": "https://www.youtube.com/watch?v=cIQ0yIZgQeE",
+      "summary": "A 3D-animated walkthrough of a heavy-haul diesel-electric freight locomotive, covering the frame, coupling, draft gear, engine and drive systems. Made in Blender by Animagraffs.",
+      "why": "Cited in threads about physical controls and how diesel-electric locomotives actually work.",
+      "score": 0.0,
+      "tags": [
+        "locomotive",
+        "3d animation",
+        "trains",
+        "mechanical engineering",
+        "blender"
+      ],
+      "categories": [
+        "mechanical-engineering",
+        "transit-urbanism",
+        "animation-vfx"
+      ],
+      "versions": [
+        {
+          "bvid": "BV18hWJeoERK",
+          "page": 1,
+          "cid": 500001659003991,
+          "title": "柴油电力机车的工作原理 How a Diesel-Electric Locomotive Works",
+          "up": "StarDazz",
+          "duration": 1513,
+          "kind": "original",
+          "views": 379,
+          "pic": "https://i2.hdslb.com/bfs/archive/f6998cf50c12ffcf7b90e182c75f108b1be170c2.jpg",
+          "checked_at": "2026-11-09T11:34:29.828479+00:00"
         }
       ]
     },
@@ -48051,6 +48259,7 @@
     "BV137411q78m": "xFFs9UgOAlE",
     "BV1iG411V79h": "xnqTKD8uD64",
     "BV12a411Z7eH": "xnqTKD8uD64",
+    "BV12u411C7vh": "yCd3CzGSte8",
     "BV1Yz411z7aA": "yY96hTb8WgI",
     "BV1Xx411L7cG": "0lvMgMrNDlg",
     "BV1UC4y187yA": "1VPfZ_XzisU",
@@ -48069,6 +48278,7 @@
     "BV1u6CGBdE3m": "Kas0tIxDvrg",
     "BV1Ax411x7rK": "MzRCDLre1b4",
     "BV1C7Jr66EFY": "NTfOnGZUZDk",
+    "BV1ap4y1D7ML": "NfnWJUyUJYU",
     "BV1us411r774": "OaGp5_Sfbss",
     "BV11W411n75x": "PAAkCSZUG1c",
     "BV1DK4y177U4": "TjDEsGZLbio",
@@ -48108,6 +48318,7 @@
     "BV1Zq4y1d7xr": "9KR2N_Q8ep8",
     "BV1Pb4y1S7Fc": "ALaTm6VzTBw",
     "BV1WW411c7XM": "AYshVbcEmUc",
+    "BV1cxwqeBE4v": "AaTRHFaaPG8",
     "BV19s411Y7yM": "AgkfIQ4IGaM",
     "BV1xs411X7aV": "C-52AI_ojyQ",
     "BV1ei4y1L7Q3": "CAOnSbDSaOw",
@@ -48142,6 +48353,7 @@
     "BV18t411W72W": "Q3oItpVa9fs",
     "BV1rF411b7B3": "QK8mJJJvaes",
     "BV1cA411H7Lu": "RIvL2ONhFBI",
+    "BV1SW411E74j": "RJVL80Gg3lA",
     "BV1bh4y1q7au": "RPdB_zdyMbM",
     "BV1ME15BiEAo": "RcVA8Nj6HEo",
     "BV1AvYo6HE2F": "S94ETUiMZwQ",
@@ -48371,6 +48583,7 @@
     "BV1Vq4y1H7Ro": "YIWV5fSaUB8",
     "BV1Ga4y1J7EM": "YScIPA8RbVE",
     "BV1zU4y1v7Mo": "YbYWhdLO43Q",
+    "BV1gc411T7G8": "Yf1o0TQzry8",
     "BV1QW411g7r1": "ZXsQAXx_ao0",
     "BV1ME411P7wY": "ZzCegQVljdY",
     "BV1hv41117Th": "_K-L9uhsBLM",
@@ -48387,6 +48600,7 @@
     "BV1Us411z791": "bzE-IMaegzQ",
     "BV1tpcWeuEu6": "bzE-IMaegzQ",
     "BV1bQ4y1D7fb": "bzE-IMaegzQ",
+    "BV18hWJeoERK": "cIQ0yIZgQeE",
     "BV1oc411U7E4": "cpraXaw7dyc",
     "BV1Ji4y1j7SQ": "cyN-CRNrb3E",
     "BV1H8Yr6zEZt": "djV11Xbc914",

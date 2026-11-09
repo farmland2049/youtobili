@@ -1,41 +1,150 @@
 {
-  "checked_at": "2026-11-04T07:00:33.916Z",
+  "checked_at": "2026-11-09T11:52:29.743Z",
+  "passed": true,
   "checks": [
     {
-      "kind": "official_zh",
-      "id": "aircAruvnKk",
-      "bvid": "BV1bx411M7Zx",
-      "playing": true,
-      "media": {
-        "readyState": 4,
-        "currentTime": 3.940296,
-        "paused": false
-      },
-      "visible_text": "【官方双语】深度学习之神经网络的结构 Part 1 ver 2.0\n3Blue1Brown\n关注\n2.4万\n760\n分享\n更多\n00:04 / 19:13\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
-    },
-    {
-      "kind": "sub_zh",
-      "id": "VMj-3S1tku0",
-      "bvid": "BV1aB4y13761",
-      "playing": true,
-      "media": {
-        "readyState": 4,
-        "currentTime": 4.253017,
-        "paused": false
-      },
-      "visible_text": "【中英字幕】Andrej Karpathy | 详解神经网络和反向传播（基于micrograd）\n矩池云\n关注\n257\n21\n分享\n更多\n0:00:05 / 2:25:52\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
-    },
-    {
+      "sample": "yCd3CzGSte8",
       "kind": "original",
-      "id": "NOAgplgTxfc",
-      "bvid": "BV1s4EX6gETD",
+      "id": "yCd3CzGSte8",
+      "bvid": "BV12u411C7vh",
+      "page": 1,
+      "cid": 575509095,
       "playing": true,
       "media": {
         "readyState": 4,
-        "currentTime": 4.14589,
+        "currentTime": 2.092099,
+        "duration": 4386,
         "paused": false
       },
-      "visible_text": "Stanford's Sapolsky On Depression in U.S.\n橙橙英语学习\n关注\n5\n0\n分享\n更多\n00:04 / 52:29\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+      "expected_duration": 4386,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "575509095"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "关注\n分享\n更多\n0:00:02 / 1:13:06\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "NfnWJUyUJYU",
+      "kind": "original",
+      "id": "NfnWJUyUJYU",
+      "bvid": "BV1ap4y1D7ML",
+      "page": 1,
+      "cid": 202689347,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.928947,
+        "duration": 4748,
+        "paused": false
+      },
+      "expected_duration": 4748,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "202689347"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "关注\n分享\n更多\n0:00:04 / 1:19:08\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "AaTRHFaaPG8",
+      "kind": "sub_zh",
+      "id": "AaTRHFaaPG8",
+      "bvid": "BV1cxwqeBE4v",
+      "page": 1,
+      "cid": 27951368336,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.284455,
+        "duration": 11871,
+        "paused": false
+      },
+      "expected_duration": 11871,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "27951368336"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "关注\n分享\n更多\n0:00:05 / 3:17:51\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "RJVL80Gg3lA",
+      "kind": "original",
+      "id": "RJVL80Gg3lA",
+      "bvid": "BV1SW411E74j",
+      "page": 1,
+      "cid": 31948556,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 2.726779,
+        "duration": 3310,
+        "paused": false
+      },
+      "expected_duration": 3309,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "31948556"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "关注\n分享\n更多\n00:03 / 55:10\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "Yf1o0TQzry8",
+      "kind": "original",
+      "id": "Yf1o0TQzry8",
+      "bvid": "BV1gc411T7G8",
+      "page": 1,
+      "cid": 1116067897,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.940293,
+        "duration": 2860.7180000000003,
+        "paused": false
+      },
+      "expected_duration": 2862,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1116067897"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "关注\n分享\n更多\n00:04 / 47:41\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "cIQ0yIZgQeE",
+      "kind": "original",
+      "id": "cIQ0yIZgQeE",
+      "bvid": "BV18hWJeoERK",
+      "page": 1,
+      "cid": 500001659003991,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.285031,
+        "duration": 1513,
+        "paused": false
+      },
+      "expected_duration": 1513,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "500001659003991"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "关注\n分享\n更多\n00:05 / 25:13\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
     }
   ]
 }

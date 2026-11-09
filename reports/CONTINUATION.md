@@ -513,3 +513,56 @@
 - 本轮无新上线版本，故未跑实播烟测增量、未 `build` 发布数据。
 - 单元测试经本地真实运行，75 项测试全部通过（Ran 75 tests in 5.744s, OK）。
 - 仍未推送、未开 PR、未合并 `main`。
+
+## 2026-11-09 第2轮推进（continue-20261109-r2）
+
+### 1. 待审统计失真根因
+- `build()` 写 `data/confirmed.json` 账本时此前只保留 `vid`、`status`、`completed_at` 和已确认候选，丢掉 `searched_at`、`search_session_version`、`search_queries`、`search_result_limit`、`last_error`。
+- `data/work/` 不进 Git，新环境 `import` 重建后这些字段缺失，`report()` 把缺失的 `search_result_limit` 当作 0，于是全部算成「尚需扩大」。
+- 提交 `7390ae8` 时真实为尚需扩大 198 / 已扩大 4820；r1 重建后显示 5018 / 50。
+
+### 2. 修复（提交 ba8dff9，已并入 main / d133287）
+- 新增 `ledger_entry()`，账本保留上述 5 个搜索元数据字段（待审候选仍只留本地）；
+- `report()` 新增第三类 `review_search_metadata_missing`（无搜索元数据、无错误），`STATUS.md` 显示「待审中搜索元数据缺失（重建丢失，状态未知，需重新搜索）」；
+- `--expand-review` 仍选入这类条目（其待审候选已随重建丢失，只能重新搜索）；
+- 新增 4 项单元测试，共 79 项。
+
+### 3. 修复前后工作库对比
+- 修复前后同一工作库：尚需扩大 5018→0，已扩大 50→50，元数据缺失 0→5018（新类）。
+- 4820 条的逐条扩大状态与 213,596 个待审候选当时只存在原本地 `data/work/`，未入库，无法逐条恢复，只能用 `--expand-review` 重新搜索补回。
+
+### 4. 积压处理与匹配批次
+- 运行 `match --expand-review --primary-first --limit 50 --delay 2`，排除 91 个此前隔离的网络异常原片：
+  - 批次 `20261109T100701Z`：完成 9，第 10 条 `gM95HHI4gLk` `TimeoutError` 停止；
+  - 批次 `20261109T101202Z`（另排除 `gM95HHI4gLk`）：完成 12，第 13 条 `YQ2QtKcK2dA` `URLError` 停止。
+- 两次普通网络错误后按规则停止，不自动重试；这两个原片隔离，不判失效，累计隔离 93。
+- 共重新搜索 21 条旧待审原片，新确认 4 条（均为B站简介写明原片链接/ID）：
+  - `iDulhoQ2pro` → `BV1XQWCe8EHf`
+  - `-EVqrDlAqYo` → `BV1uM4y1r7er`
+  - `5MgBikgcWnY` → `BV1Fb4y1Q73z`
+  - `oUaOucZRlmE` → `BV1WX4y1P7Yo`
+- 本次暂缓详情的候选 25+22 个。
+
+### 5. 指标前后变化
+- 完成处理 6200→6200（重新搜索的都是已处理条目）；
+- 确认原片 1180→1184，覆盖率 18.28%→18.35%；
+- 发布版本 1625→1629；
+- 待审 5068→5064；
+- 尚需扩大 0→2（两条网络错误），已扩大 50→67，元数据缺失 5018→4995。
+
+### 6. 实播烟测与重建模拟
+- 4 个新版本已 `build` 并实播烟测通过（`reports/playback-r2-batch.json`，4/4，时长与CID一致）。
+- 重建模拟：删除 `library.json` 后从新 `confirmed.json` `import`，统计与本地完全一致（2/67/4995）。
+
+### 7. 验收与交接状态
+- 验证：`npm test` 79 项 OK；`npm run test:browser` 15 场景 pass（originals 1184，`browser-tests.json` 随数据更新）；`pipeline check` PASS 1184 原片 / 1629 分P。
+- 第2轮最终已合并 main：`origin/main` = `d133287`。Website 仍是旧链接，未改。
+- 剩余：约 4995 条待审需重新搜索；254 条未处理原片；93 条网络隔离原片待单条复查。
+
+## 2026-11-09 第3轮推进（continue-20261109-r3）
+
+- 分支 `continue-20261109-r3`，基线 `main` = `d133287`。
+- 起点：确认 1184 / 版本 1629；待审三类：尚需扩大 2 / 已扩大 67 / 元数据缺失 4995；隔离网络异常原片 93。
+- 目标：分批 `match --expand-review --primary-first` 重搜元数据缺失待审（批次 limit 约 50，遇网络错按现有规则停批/排除/满 2 错批停）；有新确认则实播检查并写 reports；更新 STATUS/summary。
+- 本轮文档目标：补记第2轮结果与第3轮目标；若 agy 地区限制导致文档未写入，如实记录。
+- 本小节写到这里为止，不要编造本轮批次结果。
