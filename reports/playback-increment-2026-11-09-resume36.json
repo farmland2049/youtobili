@@ -1,0 +1,138 @@
+{
+  "checked_at": "2026-11-09T03:11:35.621Z",
+  "passed": true,
+  "checks": [
+    {
+      "sample": "dxIPcbmo1_U",
+      "kind": "original",
+      "id": "dxIPcbmo1_U",
+      "bvid": "BV1NZ4y1f7m1",
+      "page": 1,
+      "cid": 499198713,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.942319,
+        "duration": 85,
+        "paused": false
+      },
+      "expected_duration": 85,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "499198713"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【UNIX传奇】侏罗纪公园名场面 It's a UNIX System\nhajimuz\n关注\n6\n4\n分享\n更多\n00:04 / 01:25\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "e9dZQelULDk",
+      "kind": "original",
+      "id": "e9dZQelULDk",
+      "bvid": "BV18q4y1H7sU",
+      "page": 1,
+      "cid": 374023685,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.941621,
+        "duration": 253,
+        "paused": false
+      },
+      "expected_duration": 253,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "374023685"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "每只老鼠都在追求幸福，但这真的是幸福吗？\nRenderbus瑞云渲染\n关注\n6835\n23\n分享\n更多\n00:04 / 04:13\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "e9dZQelULDk",
+      "kind": "original",
+      "id": "e9dZQelULDk",
+      "bvid": "BV1z4411v7Y5",
+      "page": 1,
+      "cid": 90830701,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.197192,
+        "duration": 257,
+        "paused": false
+      },
+      "expected_duration": 257,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "90830701"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【黑色幽默/默剧】幸福 Happiness by Steve Cutts\n大斐神\n关注\n2\n0\n分享\n更多\n00:04 / 04:17\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "eXYUNrgqWUU",
+      "kind": "original",
+      "id": "eXYUNrgqWUU",
+      "bvid": "BV1x84y1v7rM",
+      "page": 1,
+      "cid": 887359599,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.937746,
+        "duration": 121,
+        "paused": false
+      },
+      "expected_duration": 121,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "887359599"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Enemies – real-time cinematic teaser - Unity\n虚拟捣蛋鬼\n关注\n1\n0\n分享\n更多\n00:04 / 02:01\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "f3lUEnMaiAU",
+      "kind": "original",
+      "id": "f3lUEnMaiAU",
+      "bvid": "BV1ktCpByEZ9",
+      "page": 1,
+      "cid": 33959970508,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.274866,
+        "duration": 2813,
+        "paused": false
+      },
+      "expected_duration": 2813,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "33959970508"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Jack Ma and Elon Musk hold debate in Shanghai\nBilingualVideo\n关注\n4\n0\n分享\n更多\n00:05 / 46:53\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "gX9cbxLSOkE",
+      "kind": "original",
+      "id": "gX9cbxLSOkE",
+      "bvid": "BV1Ri4y1774u",
+      "page": 1,
+      "cid": 238993300,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.947714,
+        "duration": 184,
+        "paused": false
+      },
+      "expected_duration": 184,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "238993300"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "无源环境反向散射通信 - Ambient Backscatter Communications Technology [移动计算课程资料]\nbgaohokie\n关注\n21\n20\n分享\n更多\n00:04 / 03:04\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

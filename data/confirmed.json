@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T00:25:22.407997+00:00",
+  "updated_at": "2026-11-09T03:09:52.681598+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -73788,9 +73788,461 @@
     },
     "dsx2vdn7gpY": {
       "vid": "dsx2vdn7gpY",
-      "status": "unmatched",
-      "completed_at": null,
+      "status": "review",
+      "completed_at": "2026-11-09T01:28:42.404178+00:00",
       "candidates": []
+    },
+    "dxIPcbmo1_U": {
+      "vid": "dxIPcbmo1_U",
+      "status": "confirmed",
+      "completed_at": "2026-11-09T01:25:19.811932+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1NZ4y1f7m1",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1NZ4y1f7m1",
+          "page": 1,
+          "page_locked": true,
+          "evidence": [
+            "exact original YouTube ID explicitly associated with selected segment"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "title": "【UNIX传奇】侏罗纪公园名场面 It's a UNIX System",
+          "up": "hajimuz",
+          "duration": 85,
+          "original_duration": 85,
+          "cid": 499198713,
+          "aid": 381153999,
+          "segment_title": "It's a unix system-dxIPcbmo1_U",
+          "page_count": 1,
+          "kind": "original",
+          "views": 419,
+          "pic": "https://i2.hdslb.com/bfs/archive/4c99443e43c1e44062be74129ccd86f86e537366.jpg",
+          "checked_at": "2026-11-09T01:25:19.811896+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "e9dZQelULDk": {
+      "vid": "e9dZQelULDk",
+      "status": "confirmed",
+      "completed_at": "2026-11-09T01:29:19.005436+00:00",
+      "candidates": [
+        {
+          "bvid": "BV18q4y1H7sU",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "每只老鼠都在追求幸福，但这真的是幸福吗？",
+          "up": "Renderbus瑞云渲染",
+          "duration": 253,
+          "original_duration": 257,
+          "cid": 374023685,
+          "aid": 546835776,
+          "segment_title": "什么是幸福",
+          "page_count": 1,
+          "kind": "original",
+          "views": 210626,
+          "pic": "https://i0.hdslb.com/bfs/archive/643057c7412aedc6efa582310a65b84f11212ce5.jpg",
+          "checked_at": "2026-11-09T01:29:15.732283+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1z4411v7Y5",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "【黑色幽默/默剧】幸福 Happiness by Steve Cutts",
+          "up": "大斐神",
+          "duration": 257,
+          "original_duration": 257,
+          "cid": 90830701,
+          "aid": 51883085,
+          "segment_title": "Happiness",
+          "page_count": 1,
+          "kind": "original",
+          "views": 566,
+          "pic": "https://i2.hdslb.com/bfs/archive/2f4d8d96bff339bded9e70aef694d26cbcdc8bb9.jpg",
+          "checked_at": "2026-11-09T03:06:29.170230+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "eAhfZUZiwSE": {
+      "vid": "eAhfZUZiwSE",
+      "status": "review",
+      "completed_at": "2026-11-09T01:34:34.466246+00:00",
+      "candidates": []
+    },
+    "eAswvg60FnY": {
+      "vid": "eAswvg60FnY",
+      "status": "review",
+      "completed_at": "2026-11-09T01:40:11.218958+00:00",
+      "candidates": []
+    },
+    "eBxTEoseZak": {
+      "vid": "eBxTEoseZak",
+      "status": "review",
+      "completed_at": "2026-11-09T01:48:18.146181+00:00",
+      "candidates": []
+    },
+    "eC1BAcOzHyY": {
+      "vid": "eC1BAcOzHyY",
+      "status": "review",
+      "completed_at": "2026-11-09T01:53:40.119565+00:00",
+      "candidates": []
+    },
+    "eCLp7zodUiI": {
+      "vid": "eCLp7zodUiI",
+      "status": "review",
+      "completed_at": "2026-11-09T01:57:42.498484+00:00",
+      "candidates": []
+    },
+    "eE_IUPInEuc": {
+      "vid": "eE_IUPInEuc",
+      "status": "review",
+      "completed_at": "2026-11-09T02:05:00.082501+00:00",
+      "candidates": []
+    },
+    "eFTLKWw542g": {
+      "vid": "eFTLKWw542g",
+      "status": "review",
+      "completed_at": "2026-11-09T02:11:33.265146+00:00",
+      "candidates": []
+    },
+    "eGimzB5QM1M": {
+      "vid": "eGimzB5QM1M",
+      "status": "review",
+      "completed_at": "2026-11-09T02:17:26.420979+00:00",
+      "candidates": []
+    },
+    "eKEycjREgPE": {
+      "vid": "eKEycjREgPE",
+      "status": "review",
+      "completed_at": "2026-11-09T02:20:54.252476+00:00",
+      "candidates": []
+    },
+    "eKaI78K_rgA": {
+      "vid": "eKaI78K_rgA",
+      "status": "review",
+      "completed_at": "2026-11-09T02:21:26.833552+00:00",
+      "candidates": []
+    },
+    "eKgPY1adc0A": {
+      "vid": "eKgPY1adc0A",
+      "status": "review",
+      "completed_at": "2026-11-09T02:23:21.566646+00:00",
+      "candidates": []
+    },
+    "eMJk4y9NGvE": {
+      "vid": "eMJk4y9NGvE",
+      "status": "review",
+      "completed_at": "2026-11-09T02:25:37.033626+00:00",
+      "candidates": []
+    },
+    "eRsGyueVLvQ": {
+      "vid": "eRsGyueVLvQ",
+      "status": "review",
+      "completed_at": "2026-11-09T02:26:20.045313+00:00",
+      "candidates": []
+    },
+    "eSBybJGZoCU": {
+      "vid": "eSBybJGZoCU",
+      "status": "review",
+      "completed_at": "2026-11-09T02:27:35.216533+00:00",
+      "candidates": []
+    },
+    "eUywI8YGy0Y": {
+      "vid": "eUywI8YGy0Y",
+      "status": "review",
+      "completed_at": "2026-11-09T02:27:54.726816+00:00",
+      "candidates": []
+    },
+    "eXWhbUUE4ko": {
+      "vid": "eXWhbUUE4ko",
+      "status": "review",
+      "completed_at": "2026-11-09T02:29:20.858051+00:00",
+      "candidates": []
+    },
+    "eXYUNrgqWUU": {
+      "vid": "eXYUNrgqWUU",
+      "status": "confirmed",
+      "completed_at": "2026-11-09T02:29:34.959288+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1x84y1v7rM",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Enemies – real-time cinematic teaser - Unity",
+          "up": "虚拟捣蛋鬼",
+          "duration": 121,
+          "original_duration": 121,
+          "cid": 887359599,
+          "aid": 604915143,
+          "segment_title": "Enemies – real-time cinematic teaser - Unity",
+          "page_count": 1,
+          "kind": "original",
+          "views": 230,
+          "pic": "https://i2.hdslb.com/bfs/archive/a624d65029ee210fce060f1013552e4c36f1f3e3.jpg",
+          "checked_at": "2026-11-09T02:29:33.431048+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "eb3pmifEZ44": {
+      "vid": "eb3pmifEZ44",
+      "status": "review",
+      "completed_at": "2026-11-09T02:30:48.315180+00:00",
+      "candidates": []
+    },
+    "ebjkD1Om4uw": {
+      "vid": "ebjkD1Om4uw",
+      "status": "review",
+      "completed_at": "2026-11-09T02:31:24.653940+00:00",
+      "candidates": []
+    },
+    "eblPwXFb7TE": {
+      "vid": "eblPwXFb7TE",
+      "status": "review",
+      "completed_at": "2026-11-09T02:31:58.561389+00:00",
+      "candidates": []
+    },
+    "ee7oRsDnNNc": {
+      "vid": "ee7oRsDnNNc",
+      "status": "review",
+      "completed_at": "2026-11-09T02:32:50.278817+00:00",
+      "candidates": []
+    },
+    "eginMQBWII4": {
+      "vid": "eginMQBWII4",
+      "status": "review",
+      "completed_at": "2026-11-09T02:33:02.711762+00:00",
+      "candidates": []
+    },
+    "ehp9PZo4UR0": {
+      "vid": "ehp9PZo4UR0",
+      "status": "review",
+      "completed_at": "2026-11-09T02:33:20.212005+00:00",
+      "candidates": []
+    },
+    "eiyfwZVAzGw": {
+      "vid": "eiyfwZVAzGw",
+      "status": "review",
+      "completed_at": "2026-11-09T02:34:52.868516+00:00",
+      "candidates": []
+    },
+    "ekg45ub8bsk": {
+      "vid": "ekg45ub8bsk",
+      "status": "review",
+      "completed_at": "2026-11-09T02:36:25.640852+00:00",
+      "candidates": []
+    },
+    "emDJTGTrEm0": {
+      "vid": "emDJTGTrEm0",
+      "status": "review",
+      "completed_at": "2026-11-09T02:36:50.121217+00:00",
+      "candidates": []
+    },
+    "erfnCaeLxSI": {
+      "vid": "erfnCaeLxSI",
+      "status": "review",
+      "completed_at": "2026-11-09T02:37:45.987419+00:00",
+      "candidates": []
+    },
+    "erq4TO_a3z8": {
+      "vid": "erq4TO_a3z8",
+      "status": "review",
+      "completed_at": "2026-11-09T02:40:06.999408+00:00",
+      "candidates": []
+    },
+    "etJ6RmMPGko": {
+      "vid": "etJ6RmMPGko",
+      "status": "review",
+      "completed_at": "2026-11-09T02:42:23.196278+00:00",
+      "candidates": []
+    },
+    "eywi0h_Y5_U": {
+      "vid": "eywi0h_Y5_U",
+      "status": "review",
+      "completed_at": "2026-11-09T02:44:47.834881+00:00",
+      "candidates": []
+    },
+    "f1Zvo8N3G94": {
+      "vid": "f1Zvo8N3G94",
+      "status": "review",
+      "completed_at": "2026-11-09T02:46:14.483787+00:00",
+      "candidates": []
+    },
+    "f1ab6uxg908": {
+      "vid": "f1ab6uxg908",
+      "status": "review",
+      "completed_at": "2026-11-09T02:49:38.741300+00:00",
+      "candidates": []
+    },
+    "f3PJF0YE-x4": {
+      "vid": "f3PJF0YE-x4",
+      "status": "review",
+      "completed_at": "2026-11-09T02:50:34.137538+00:00",
+      "candidates": []
+    },
+    "f3lUEnMaiAU": {
+      "vid": "f3lUEnMaiAU",
+      "status": "confirmed",
+      "completed_at": "2026-11-09T02:50:49.579871+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1ktCpByEZ9",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Jack Ma and Elon Musk hold debate in Shanghai",
+          "up": "BilingualVideo",
+          "duration": 2813,
+          "original_duration": 2813,
+          "cid": 33959970508,
+          "aid": 115539552831755,
+          "segment_title": "Jack Ma and Elon Musk hold debate in Shanghai",
+          "page_count": 1,
+          "kind": "original",
+          "views": 118,
+          "pic": "https://i1.hdslb.com/bfs/archive/5a0864751a3bf4f0f32ba0a805154f40c64fd33f.jpg",
+          "checked_at": "2026-11-09T02:50:48.030424+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "fMeH7wqOwXA": {
+      "vid": "fMeH7wqOwXA",
+      "status": "review",
+      "completed_at": "2026-11-09T02:51:22.288562+00:00",
+      "candidates": []
+    },
+    "fNgEG5rCav4": {
+      "vid": "fNgEG5rCav4",
+      "status": "review",
+      "completed_at": "2026-11-09T02:52:16.135560+00:00",
+      "candidates": []
+    },
+    "f_SwD7RveNE": {
+      "vid": "f_SwD7RveNE",
+      "status": "review",
+      "completed_at": "2026-11-09T02:53:38.353247+00:00",
+      "candidates": []
+    },
+    "fcIMIyQnOso": {
+      "vid": "fcIMIyQnOso",
+      "status": "review",
+      "completed_at": "2026-11-09T02:55:05.996736+00:00",
+      "candidates": []
+    },
+    "fjsSr3z5nVk": {
+      "vid": "fjsSr3z5nVk",
+      "status": "review",
+      "completed_at": "2026-11-09T02:55:58.703887+00:00",
+      "candidates": []
+    },
+    "flLoSxd2nNY": {
+      "vid": "flLoSxd2nNY",
+      "status": "review",
+      "completed_at": "2026-11-09T02:57:28.805831+00:00",
+      "candidates": []
+    },
+    "fmO-ziHU_D8": {
+      "vid": "fmO-ziHU_D8",
+      "status": "review",
+      "completed_at": "2026-11-09T02:58:28.698307+00:00",
+      "candidates": []
+    },
+    "fq0RAjJ1PKQ": {
+      "vid": "fq0RAjJ1PKQ",
+      "status": "review",
+      "completed_at": "2026-11-09T02:58:39.695196+00:00",
+      "candidates": []
+    },
+    "fqYyxvM85zU": {
+      "vid": "fqYyxvM85zU",
+      "status": "review",
+      "completed_at": "2026-11-09T03:00:10.684128+00:00",
+      "candidates": []
+    },
+    "fs-YpQj88ew": {
+      "vid": "fs-YpQj88ew",
+      "status": "review",
+      "completed_at": "2026-11-09T03:00:52.262999+00:00",
+      "candidates": []
+    },
+    "ftLzQefpBvM": {
+      "vid": "ftLzQefpBvM",
+      "status": "review",
+      "completed_at": "2026-11-09T03:02:37.890178+00:00",
+      "candidates": []
+    },
+    "fxMKuv0A6z4": {
+      "vid": "fxMKuv0A6z4",
+      "status": "review",
+      "completed_at": "2026-11-09T03:03:22.503313+00:00",
+      "candidates": []
+    },
+    "g0amdIcZt5I": {
+      "vid": "g0amdIcZt5I",
+      "status": "review",
+      "completed_at": "2026-11-09T03:03:43.502692+00:00",
+      "candidates": []
+    },
+    "g1Sq1Nr58hM": {
+      "vid": "g1Sq1Nr58hM",
+      "status": "review",
+      "completed_at": "2026-11-09T03:05:12.522096+00:00",
+      "candidates": []
+    },
+    "gX9cbxLSOkE": {
+      "vid": "gX9cbxLSOkE",
+      "status": "confirmed",
+      "completed_at": "2026-11-09T03:06:37.107909+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Ri4y1774u",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1Ri4y1774u",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "无源环境反向散射通信 - Ambient Backscatter Communications Technology [移动计算课程资料]",
+          "up": "bgaohokie",
+          "duration": 184,
+          "original_duration": 184,
+          "cid": 238993300,
+          "aid": 542157634,
+          "segment_title": "L06 - Ambient Backscatter Communications",
+          "page_count": 1,
+          "kind": "original",
+          "views": 2607,
+          "pic": "https://i2.hdslb.com/bfs/archive/3485be131f744bdb5b673970911ca6308d18b99a.jpg",
+          "checked_at": "2026-11-09T03:06:37.107884+00:00",
+          "availability": "available"
+        }
+      ]
     }
   }
 }

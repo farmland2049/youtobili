@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-09T00:25:22.372461+00:00",
+  "built_at": "2026-11-09T03:09:52.653665+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5842,
-    "confirmed": 1154,
-    "coverage": 0.17880384257824605,
-    "processed_match_rate": 0.19753509072235537
+    "processed": 5894,
+    "confirmed": 1159,
+    "coverage": 0.1795785559343043,
+    "processed_match_rate": 0.19664065151001017
   },
   "areas": [
     {
@@ -45088,6 +45088,153 @@
       ]
     },
     {
+      "id": "dxIPcbmo1_U",
+      "title": "It's a unix system",
+      "author": "loblik",
+      "source_url": "https://www.youtube.com/watch?v=dxIPcbmo1_U",
+      "summary": "A one-minute clip of the Jurassic Park scene where a girl navigates the FSN 3D file manager on an SGI system and declares it a Unix system.",
+      "why": "Referenced in threads about futuristic interfaces, exotic OSes and Linux visualization as the famous movie FSN moment.",
+      "score": 0.0,
+      "tags": [
+        "jurassic park",
+        "fsn",
+        "unix",
+        "movie scene",
+        "3d file manager"
+      ],
+      "categories": [
+        "film-tv-clips",
+        "gui-hci-history"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1NZ4y1f7m1",
+          "page": 1,
+          "cid": 499198713,
+          "title": "【UNIX传奇】侏罗纪公园名场面 It's a UNIX System",
+          "up": "hajimuz",
+          "duration": 85,
+          "kind": "original",
+          "views": 419,
+          "pic": "https://i2.hdslb.com/bfs/archive/4c99443e43c1e44062be74129ccd86f86e537366.jpg",
+          "checked_at": "2026-11-09T01:25:19.811896+00:00"
+        }
+      ]
+    },
+    {
+      "id": "e9dZQelULDk",
+      "title": "Happiness",
+      "author": "Steve Cutts",
+      "source_url": "https://www.youtube.com/watch?v=e9dZQelULDk",
+      "summary": "Steve Cutts' dark animated short follows a rat chasing happiness through consumerism and endless work. It satirizes materialism and the rat race.",
+      "why": "Commenters reference it as a bleak visual shorthand for the rat race and consumerist unhappiness.",
+      "score": 0.0,
+      "tags": [
+        "animation",
+        "rat race",
+        "materialism",
+        "steve cutts"
+      ],
+      "categories": [
+        "satire-parody",
+        "social-issues-culture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV18q4y1H7sU",
+          "page": 1,
+          "cid": 374023685,
+          "title": "每只老鼠都在追求幸福，但这真的是幸福吗？",
+          "up": "Renderbus瑞云渲染",
+          "duration": 253,
+          "kind": "original",
+          "views": 210626,
+          "pic": "https://i0.hdslb.com/bfs/archive/643057c7412aedc6efa582310a65b84f11212ce5.jpg",
+          "checked_at": "2026-11-09T01:29:15.732283+00:00"
+        },
+        {
+          "bvid": "BV1z4411v7Y5",
+          "page": 1,
+          "cid": 90830701,
+          "title": "【黑色幽默/默剧】幸福 Happiness by Steve Cutts",
+          "up": "大斐神",
+          "duration": 257,
+          "kind": "original",
+          "views": 566,
+          "pic": "https://i2.hdslb.com/bfs/archive/2f4d8d96bff339bded9e70aef694d26cbcdc8bb9.jpg",
+          "checked_at": "2026-11-09T03:06:29.170230+00:00"
+        }
+      ]
+    },
+    {
+      "id": "eXYUNrgqWUU",
+      "title": "Enemies – real-time cinematic teaser | Unity",
+      "author": "Unity",
+      "source_url": "https://www.youtube.com/watch?v=eXYUNrgqWUU",
+      "summary": "Unity's real-time cinematic teaser 'Enemies' from its Demo Team, showcasing HDRP lighting, strand-based hair and an advanced digital human toolkit. It is a short showcase of high-end real-time rendering.",
+      "why": "Cited as an impressive example of real-time digital humans, especially the facial and mouth animation.",
+      "score": 0.0,
+      "tags": [
+        "unity",
+        "hdrp",
+        "digital human",
+        "facial animation",
+        "real-time rendering"
+      ],
+      "categories": [
+        "computer-graphics-rendering",
+        "animation-vfx",
+        "game-programming-engines"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1x84y1v7rM",
+          "page": 1,
+          "cid": 887359599,
+          "title": "Enemies – real-time cinematic teaser - Unity",
+          "up": "虚拟捣蛋鬼",
+          "duration": 121,
+          "kind": "original",
+          "views": 230,
+          "pic": "https://i2.hdslb.com/bfs/archive/a624d65029ee210fce060f1013552e4c36f1f3e3.jpg",
+          "checked_at": "2026-11-09T02:29:33.431048+00:00"
+        }
+      ]
+    },
+    {
+      "id": "f3lUEnMaiAU",
+      "title": "Jack Ma and Elon Musk hold debate in Shanghai",
+      "author": "New China TV",
+      "source_url": "https://www.youtube.com/watch?v=f3lUEnMaiAU",
+      "summary": "Alibaba's Jack Ma and Tesla's Elon Musk debate artificial intelligence on stage in Shanghai in 2019.",
+      "why": "HN mostly cites it critically, as an example of Jack Ma speaking poorly or naively about machine learning.",
+      "score": 0.0,
+      "tags": [
+        "jack ma",
+        "elon musk",
+        "artificial intelligence",
+        "shanghai"
+      ],
+      "categories": [
+        "ai-safety-impact",
+        "tech-figures-interviews"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ktCpByEZ9",
+          "page": 1,
+          "cid": 33959970508,
+          "title": "Jack Ma and Elon Musk hold debate in Shanghai",
+          "up": "BilingualVideo",
+          "duration": 2813,
+          "kind": "original",
+          "views": 118,
+          "pic": "https://i1.hdslb.com/bfs/archive/5a0864751a3bf4f0f32ba0a805154f40c64fd33f.jpg",
+          "checked_at": "2026-11-09T02:50:48.030424+00:00"
+        }
+      ]
+    },
+    {
       "id": "fn3KWM1kuAw",
       "title": "Do You Love Me?",
       "author": "Boston Dynamics",
@@ -45117,6 +45264,41 @@
           "views": 126676,
           "pic": "https://i1.hdslb.com/bfs/archive/31c838c1f30e10da8ac7edf920a442f8cb0e2954.jpg",
           "checked_at": "2026-11-07T05:27:50.807576+00:00"
+        }
+      ]
+    },
+    {
+      "id": "gX9cbxLSOkE",
+      "title": "Ambient Backscatter",
+      "author": "uwsensor",
+      "source_url": "https://www.youtube.com/watch?v=gX9cbxLSOkE",
+      "summary": "A short University of Washington demo of ambient backscatter, where battery-free devices communicate by reflecting existing wireless signals. It shows devices powered and linked by ambient RF.",
+      "why": "Linked as the original demonstration whenever battery-free or energy-harvesting wireless communication comes up.",
+      "score": 0.0,
+      "tags": [
+        "backscatter",
+        "battery-free",
+        "rf energy harvesting",
+        "wireless",
+        "iot"
+      ],
+      "categories": [
+        "electronics-circuits",
+        "networking-internet",
+        "embedded-diy-electronics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Ri4y1774u",
+          "page": 1,
+          "cid": 238993300,
+          "title": "无源环境反向散射通信 - Ambient Backscatter Communications Technology [移动计算课程资料]",
+          "up": "bgaohokie",
+          "duration": 184,
+          "kind": "original",
+          "views": 2607,
+          "pic": "https://i2.hdslb.com/bfs/archive/3485be131f744bdb5b673970911ca6308d18b99a.jpg",
+          "checked_at": "2026-11-09T03:06:37.107884+00:00"
         }
       ]
     },
@@ -47292,7 +47474,13 @@
     "BV1H8Yr6zEZt": "djV11Xbc914",
     "BV1Mb4y1U7Zz": "dk3oc1Hr62g",
     "BV1NVbYzREMr": "dtjb2OhEQcU",
+    "BV1NZ4y1f7m1": "dxIPcbmo1_U",
+    "BV18q4y1H7sU": "e9dZQelULDk",
+    "BV1z4411v7Y5": "e9dZQelULDk",
+    "BV1x84y1v7rM": "eXYUNrgqWUU",
+    "BV1ktCpByEZ9": "f3lUEnMaiAU",
     "BV1Ko4y1Z7ee": "fn3KWM1kuAw",
+    "BV1Ri4y1774u": "gX9cbxLSOkE",
     "BV1kh411o7eS": "iGLzWdT7vGc",
     "BV1gb411V7v1": "iGLzWdT7vGc",
     "BV1ot4y127mw": "iKcWu0tsiZM",
