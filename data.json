@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-09T05:04:37.908729+00:00",
+  "built_at": "2026-11-09T06:03:44.412134+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5994,
-    "confirmed": 1167,
-    "coverage": 0.18081809730399753,
-    "processed_match_rate": 0.1946946946946947
+    "processed": 6044,
+    "confirmed": 1173,
+    "coverage": 0.18174775333126744,
+    "processed_match_rate": 0.1940767703507611
   },
   "areas": [
     {
@@ -45700,6 +45700,39 @@
       ]
     },
     {
+      "id": "k5xf40KrK3I",
+      "title": "I Worked For MrBeast, He's A Fraud",
+      "author": "DogPack404",
+      "source_url": "https://www.youtube.com/watch?v=k5xf40KrK3I",
+      "summary": "A 54-minute video by a former MrBeast worker alleging that MrBeast's operation is fraudulent, including claims that some contests are staged or manipulated.",
+      "why": "HN mentions it in MrBeast threads as the source of allegations, often in a critical or skeptical context, not as a recommendation.",
+      "score": 0.0,
+      "tags": [
+        "mrbeast",
+        "youtube creators",
+        "allegations",
+        "staged contests"
+      ],
+      "categories": [
+        "internet-culture",
+        "media-journalism"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1tYsGeKEty",
+          "page": 1,
+          "cid": 25647841860,
+          "title": "【授权翻译】我曾经为MrBeast工作，他就是个诈骗犯.. (I Worked For MrBeast, He's A Fraud) [DogPack404]",
+          "up": "WtfWasThat",
+          "duration": 3220,
+          "kind": "original",
+          "views": 99949,
+          "pic": "https://i0.hdslb.com/bfs/archive/3145b927947f8b5331d4c72f92d1ab534b787c0e.jpg",
+          "checked_at": "2026-11-09T05:13:55.665549+00:00"
+        }
+      ]
+    },
+    {
       "id": "k7YVxLLIuGM",
       "title": "Is Your Car Safe From Supermaneuverable Air-Defense Fighter Aircraft?",
       "author": "Bosnian Ape Society",
@@ -45763,6 +45796,202 @@
           "views": 437,
           "pic": "https://i0.hdslb.com/bfs/archive/f4a772a964addacbff23e98f050fe3c47820d657.jpg",
           "checked_at": "2026-11-07T22:10:30.991478+00:00"
+        }
+      ]
+    },
+    {
+      "id": "kPMHcanq0xM",
+      "title": "Magic Leap | Original Concept Video",
+      "author": "Magic Leap",
+      "source_url": "https://www.youtube.com/watch?v=kPMHcanq0xM",
+      "summary": "Magic Leap's original 2015 concept video, made with Weta Workshop, showing what mixed reality could look like. It was posted to explain the company's goals to outsiders.",
+      "why": "Mostly cited as an example of misleading tech marketing, since commenters say it was a rendered concept presented as if it were real product footage.",
+      "score": 0.0,
+      "tags": [
+        "magic leap",
+        "concept video",
+        "mixed reality",
+        "weta workshop",
+        "vaporware"
+      ],
+      "categories": [
+        "vr-ar-spatial",
+        "tech-company-stories"
+      ],
+      "versions": [
+        {
+          "bvid": "BV12c411j7ps",
+          "page": 1,
+          "cid": 1063811277,
+          "title": "Magic leap AR概念视频",
+          "up": "Pensieves",
+          "duration": 97,
+          "kind": "original",
+          "views": 842,
+          "pic": "https://i0.hdslb.com/bfs/archive/64421de47587b39904c8df10adf86d251c78a212.jpg",
+          "checked_at": "2026-11-09T05:25:20.583792+00:00"
+        },
+        {
+          "bvid": "BV1kW411y768",
+          "page": 1,
+          "cid": 58331309,
+          "title": "Magic Leap _ Original Concept Video",
+          "up": "为鲲有鱼其名为鲲",
+          "duration": 96,
+          "kind": "original",
+          "views": 410,
+          "pic": "https://i0.hdslb.com/bfs/archive/d33da93f4e72fc09f3552f6cb654094e50cd7126.jpg",
+          "checked_at": "2026-11-09T06:01:48.843562+00:00"
+        }
+      ]
+    },
+    {
+      "id": "kSLJriaOumA",
+      "title": "A Style-Based Generator Architecture for Generative Adversarial Networks",
+      "author": "Tero Karras FI",
+      "source_url": "https://www.youtube.com/watch?v=kSLJriaOumA",
+      "summary": "A short demo video for NVIDIA's StyleGAN paper, which proposes a style-based generator for GANs. It shows face synthesis with style mixing and scale-specific control over attributes like pose and freckles.",
+      "why": "Cited as an example of how realistic GAN-generated faces had become, and of what a well-structured latent space can do.",
+      "score": 0.0,
+      "tags": [
+        "stylegan",
+        "gan",
+        "image synthesis",
+        "latent space",
+        "nvidia"
+      ],
+      "categories": [
+        "llms-generative-ai",
+        "machine-learning",
+        "computer-vision-speech"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Ub411i7Qs",
+          "page": 1,
+          "cid": 79507625,
+          "title": "【 生成式对抗网络GAN 】A Style-Based Generator Architecture for Generative Adversaria（英文）",
+          "up": "贝叶斯派对",
+          "duration": 378,
+          "kind": "original",
+          "views": 1213,
+          "pic": "https://i2.hdslb.com/bfs/archive/c1fa9eb5f6b40755569eb5c10c50acb45a6529db.jpg",
+          "checked_at": "2026-11-09T05:27:00.608250+00:00"
+        },
+        {
+          "bvid": "BV1vb411t7Au",
+          "page": 1,
+          "cid": 78542782,
+          "title": "英伟达 StyleGAN 川剧变脸 —— A_Style_Based_Generator_Architec",
+          "up": "dance_monkey_A",
+          "duration": 378,
+          "kind": "original",
+          "views": 279,
+          "pic": "https://i2.hdslb.com/bfs/archive/16403c170c6ef88962e2780c26bd3e91799e61e9.jpg",
+          "checked_at": "2026-11-09T06:01:50.840679+00:00"
+        }
+      ]
+    },
+    {
+      "id": "kWSIFh8ICaA",
+      "title": "Official PlayStation Used Game Instructional Video",
+      "author": "PlayStation",
+      "source_url": "https://www.youtube.com/watch?v=kWSIFh8ICaA",
+      "summary": "A short, deadpan Sony instructional video from E3 2013 showing how to 'share' a PS4 game by physically handing the disc to a friend. It was Sony's jab at Microsoft's planned restrictions on used games and game sharing for the Xbox One.",
+      "why": "HN cites it as a famously effective piece of marketing and as Sony's clearest public stance on used games versus Microsoft's.",
+      "score": 0.0,
+      "tags": [
+        "playstation 4",
+        "used games",
+        "e3 2013",
+        "xbox one",
+        "marketing"
+      ],
+      "categories": [
+        "satire-parody",
+        "tech-company-stories",
+        "gaming-culture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1U7411y7Lu",
+          "page": 1,
+          "cid": 169293914,
+          "title": "【笑死我了】2013 PS4 广告 《如何分享你的游戏》Official PlayStation Used Game Instructional Video",
+          "up": "只读书不算卦的王大仙",
+          "duration": 22,
+          "kind": "original",
+          "views": 3665,
+          "pic": "https://i0.hdslb.com/bfs/archive/576c0177cadfc65379e9ff1a214c377dc0478781.jpg",
+          "checked_at": "2026-11-09T05:29:07.537624+00:00"
+        }
+      ]
+    },
+    {
+      "id": "kx_G2a2hL6U",
+      "title": "Biggus Dickus - Monty Python, Life of Brian.",
+      "author": "MaziTV  ",
+      "source_url": "https://www.youtube.com/watch?v=kx_G2a2hL6U",
+      "summary": "A short scene from Monty Python's Life of Brian in which a Roman centurion cannot keep a straight face over the name Biggus Dickus.",
+      "why": "Used as a joke or allusion in unrelated threads, usually when names or laughter come up, not as something to learn from.",
+      "score": 0.0,
+      "tags": [
+        "monty python",
+        "life of brian",
+        "comedy",
+        "sketch"
+      ],
+      "categories": [
+        "standup-sketch-comedy",
+        "film-tv-clips"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1QA411e7Xh",
+          "page": 1,
+          "cid": 212928359,
+          "title": "[转载]我有个朋友叫 Biggus Dickus",
+          "up": "Rekordny",
+          "duration": 246,
+          "kind": "original",
+          "views": 3689,
+          "pic": "https://i1.hdslb.com/bfs/archive/8ad86ce7b0c94a16eab92ca5805e9f601af17266.jpg",
+          "checked_at": "2026-11-09T05:40:00.517444+00:00"
+        }
+      ]
+    },
+    {
+      "id": "lEplzHraw3c",
+      "title": "Cuba's Underground Gaming Network",
+      "author": "Cloth Map",
+      "source_url": "https://www.youtube.com/watch?v=lEplzHraw3c",
+      "summary": "Cloth Map documents Havana's SNET, a community-built private network that Cubans created because internet prices were high. It is used for gaming and sharing.",
+      "why": "Cited as context for Cuba's Street Net and as an example of grassroots networks built under constraints.",
+      "score": 0.0,
+      "tags": [
+        "snet",
+        "cuba",
+        "mesh networking",
+        "internet access",
+        "gaming"
+      ],
+      "categories": [
+        "networking-internet",
+        "gaming-culture",
+        "documentaries-storytelling"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1g1JuzGEvJ",
+          "page": 1,
+          "cid": 30019489558,
+          "title": "古巴的地下游戏网络丨Cuba's Underground Gaming Network",
+          "up": "猫大学渣",
+          "duration": 1241,
+          "kind": "original",
+          "views": 111,
+          "pic": "https://i2.hdslb.com/bfs/archive/bb7c9fc05f17d3bdf36be6a47457d410621dacde.jpg",
+          "checked_at": "2026-11-09T05:44:36.974967+00:00"
         }
       ]
     },
@@ -47777,8 +48006,16 @@
     "BV1CW411a76d": "ig3xI8dUdm0",
     "BV18D4y1V7GU": "jVhlJNJopOQ",
     "BV1BL411u71A": "jgYYOUC10aM",
+    "BV1tYsGeKEty": "k5xf40KrK3I",
     "BV1164y1Y7UL": "k7YVxLLIuGM",
     "BV1XbfHYzEqD": "kJQP7kiw5Fk",
+    "BV12c411j7ps": "kPMHcanq0xM",
+    "BV1kW411y768": "kPMHcanq0xM",
+    "BV1Ub411i7Qs": "kSLJriaOumA",
+    "BV1vb411t7Au": "kSLJriaOumA",
+    "BV1U7411y7Lu": "kWSIFh8ICaA",
+    "BV1QA411e7Xh": "kx_G2a2hL6U",
+    "BV1g1JuzGEvJ": "lEplzHraw3c",
     "BV1rw411C7Va": "lUQ_0MubbcM",
     "BV1oULi6gEeB": "lXUZvyajciY",
     "BV1JVWtzDEPJ": "lXUZvyajciY",
