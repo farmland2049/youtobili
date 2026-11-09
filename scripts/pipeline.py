@@ -264,19 +264,20 @@ def report(lib, batch=None):
         batch['statuses']=dict(collections.Counter(lib[vid]['status'] for vid in attempted if vid in lib))
     done=[e for e in lib.values() if e.get('completed_at')]
     confirmed=sum(e['status']=='confirmed' for e in lib.values())
-    expansion_pending=sum(e['status']=='review' and (e.get('search_result_limit',0)<20 or bool(e.get('last_error'))) for e in lib.values())
-    expanded_reviews=sum(e['status']=='review' and e.get('search_result_limit',0)>=20 and not e.get('last_error') for e in lib.values())
+    expansion_pending=sum(e['status']=='review' and (bool(e.get('last_error')) or ('search_result_limit' in e and e['search_result_limit']<20)) for e in lib.values())
+    expanded_reviews=sum(e['status']=='review' and not e.get('last_error') and 'search_result_limit' in e and e['search_result_limit']>=20 for e in lib.values())
+    metadata_missing=sum(e['status']=='review' and not e.get('last_error') and 'search_result_limit' not in e for e in lib.values())
     summary={'updated_at':now(),'corpus':len(rows),'processed':len(done),'confirmed':confirmed,
         'coverage':confirmed/len(rows),'processed_match_rate':sum(e['status']=='confirmed' for e in done)/len(done) if done else 0,
         'statuses':dict(statuses),'not_processed':len(rows)-len(done),
         'verification_batch':read(WORK/'lead-receipt.json'),
         'blocked_searches':[{'vid':vid,'reason':e['last_error']} for vid,e in lib.items() if e.get('last_error') and not e.get('completed_at')],
-        'candidates':sum(len(e['candidates']) for e in lib.values()),'review_expansion_pending':expansion_pending,'expanded_reviews':expanded_reviews,'batch':batch if batch is not None else read(ROOT/'reports/summary.json',{}).get('batch'),
+        'candidates':sum(len(e['candidates']) for e in lib.values()),'review_expansion_pending':expansion_pending,'expanded_reviews':expanded_reviews,'review_search_metadata_missing':metadata_missing,'batch':batch if batch is not None else read(ROOT/'reports/summary.json',{}).get('batch'),
         'candidate_statuses':dict(collections.Counter(c['status'] for e in lib.values() for c in e['candidates'])),
         'review_reasons':dict(collections.Counter(c.get('reason','') for e in lib.values() for c in e['candidates'] if c['status']=='review'))}
     write(ROOT/'reports/summary.json',summary)
     text=f"# 匹配进展\n\n更新时间：{summary['updated_at']}\n\n- 原片库：{len(rows)}\n- 完成处理：{len(done)}\n- 已确认原片：{confirmed}\n- 全库覆盖率：{summary['coverage']:.2%}\n- 已处理原片匹配率：{summary['processed_match_rate']:.2%}\n- 状态：{dict(statuses)}\n\n"
-    text+=f"- 待审中尚需扩大候选检查：{expansion_pending}\n- 已扩大检查仍待审核：{expanded_reviews}\n\n"
+    text+=f"- 待审中尚需扩大候选检查：{expansion_pending}\n- 已扩大检查仍待审核：{expanded_reviews}\n- 待审中搜索元数据缺失（重建丢失，状态未知，需重新搜索）：{metadata_missing}\n\n"
     if summary['batch']: text+='## 最近批次\n\n```json\n'+json.dumps(summary['batch'],ensure_ascii=False,indent=2)+'\n```\n'
     if summary['verification_batch']:
         text+='\n## 最近公开线索核验\n\n```json\n'+json.dumps(summary['verification_batch'],ensure_ascii=False,indent=2)+'\n```\n'
@@ -324,6 +325,7 @@ def run_match(args):
     if args.existing_only:ordered=[x for x in ordered if lib.get(x['vid'],{}).get('candidates')]
     if getattr(args,'expand_review',False):
         if args.existing_only or args.recheck:raise ValueError('expand-review cannot be combined with existing-only or recheck')
+        # 元数据缺失条目（search_result_limit 缺失默认 0 < 20）因待审候选已随重建丢失，只能重新搜索，故保持选入
         ordered=[x for x in ordered if lib.get(x['vid'],{}).get('status')=='review' and (lib[x['vid']].get('search_result_limit',0)<20 or lib[x['vid']].get('last_error'))]
     elif not args.recheck:ordered=[x for x in ordered if not lib.get(x['vid'],{}).get('completed_at')]
     selected=ordered[:args.limit]
@@ -391,6 +393,14 @@ def run_match(args):
     write(WORK/'batches'/f"{batch['id']}.json",batch);report(lib,batch)
     return 2 if batch['stopped'] or batch['errors'] else 0
 
+def ledger_entry(e, vid=None):
+    entry = {'vid': e.get('vid') or vid, 'status': e['status'], 'completed_at': e.get('completed_at'),
+        'candidates': [{k: v for k, v in c.items() if k not in {'legacy_title', 'legacy_confidence', 'query', 'origin', 'search_hint', 'detail_deferred_after_match'}} for c in e.get('candidates', []) if c.get('status') == 'confirmed']}
+    for k in ('searched_at', 'search_session_version', 'search_queries', 'search_result_limit', 'last_error'):
+        if k in e and e[k] is not None:
+            entry[k] = e[k]
+    return entry
+
 def build():
     lib=read(WORK/'library.json')
     if lib is None: lib=read(ROOT/'data/confirmed.json',{}).get('entries',{})
@@ -432,8 +442,7 @@ def build():
     public={'schema_version':1,'built_at':now(),'stats':{k:summary[k] for k in ['corpus','processed','confirmed','coverage','processed_match_rate']},'areas':areas,'videos':videos,'legacy':legacy}
     write(ROOT/'data.json',public)
     # Keep a minimal, reproducible approval ledger. HTTP caches and pending candidates remain local.
-    ledger={vid:{'vid':vid,'status':e['status'],'completed_at':e.get('completed_at'),
-        'candidates':[{k:v for k,v in c.items() if k not in {'legacy_title','legacy_confidence','query','origin','search_hint','detail_deferred_after_match'}} for c in e['candidates'] if c['status']=='confirmed']} for vid,e in lib.items()}
+    ledger = {vid: ledger_entry(e, vid) for vid, e in lib.items()}
     write(ROOT/'data/confirmed.json',{'updated_at':now(),'entries':ledger})
     for filename in ['index.html','app.js','style.css']:(ROOT/filename).write_bytes((ROOT/'web'/filename).read_bytes())
     write(ROOT/'reports/publication.json',{'built_at':public['built_at'],'source_generated':read(SOURCE/'manifest.json')['generated'],'stats':public['stats'],'conflicting_segments':len(conflicts),'data_sha256':hashlib.sha256((ROOT/'data.json').read_bytes()).hexdigest()})

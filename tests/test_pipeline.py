@@ -244,6 +244,113 @@ class BuildTests(unittest.TestCase):
     self.assertEqual(p.read(root/'data.json')['legacy'],{})
    finally:p.ROOT,p.SOURCE,p.WORK=old
 
+ def test_ledger_preserves_search_metadata_across_rebuild_and_report(self):
+  with tempfile.TemporaryDirectory() as temp:
+   root=Path(temp);old=(p.ROOT,p.SOURCE,p.WORK);p.ROOT=root;p.SOURCE=root/'data/source';p.WORK=root/'data/work'
+   try:
+    p.SOURCE.mkdir(parents=True);(root/'web').mkdir();(root/'reports').mkdir()
+    rows=[{'vid':i,'title':i,'categories':[{'id':'cat'}]} for i in ['vid_limit20','vid_limit5','vid_error']]
+    (p.SOURCE/'videos.jsonl').write_text('\n'.join(json.dumps(x) for x in rows))
+    p.write(p.SOURCE/'taxonomy.json',{'areas':[{'id':'a','name':'A','categories':[{'id':'cat','name':'C'}]}]})
+    p.write(p.SOURCE/'manifest.json',{'generated':'2026-11-04'})
+    for f in ['index.html','app.js','style.css']:(root/'web'/f).write_text('')
+    p.write(p.WORK/'legacy.json',[])
+    lib={
+     'vid_limit20':{
+      'vid':'vid_limit20','status':'review','completed_at':p.now(),
+      'searched_at':p.now(),'search_session_version':2,
+      'search_queries':['q1'],'search_result_limit':20,
+      'candidates':[{'bvid':'BV1111111111','status':'review'}]
+     },
+     'vid_limit5':{
+      'vid':'vid_limit5','status':'review','completed_at':p.now(),
+      'searched_at':p.now(),'search_session_version':2,
+      'search_queries':['q2'],'search_result_limit':5,
+      'candidates':[{'bvid':'BV2222222222','status':'review'}]
+     },
+     'vid_error':{
+      'vid':'vid_error','status':'review','completed_at':None,
+      'last_error':'API 412: authentication/risk control',
+      'candidates':[]
+     }
+    }
+    p.write(p.WORK/'library.json',lib)
+    before=p.report(lib)
+    self.assertEqual(before['expanded_reviews'],1)
+    self.assertEqual(before['review_expansion_pending'],2)
+    self.assertEqual(before['review_search_metadata_missing'],0)
+    p.build()
+    confirmed=p.read(root/'data/confirmed.json')
+    entries=confirmed['entries']
+    self.assertEqual(entries['vid_limit20']['search_result_limit'],20)
+    self.assertEqual(entries['vid_limit20']['search_queries'],['q1'])
+    self.assertEqual(entries['vid_limit5']['search_result_limit'],5)
+    self.assertEqual(entries['vid_error']['last_error'],'API 412: authentication/risk control')
+    self.assertNotIn('search_result_limit',entries['vid_error'])
+    self.assertEqual(entries['vid_limit20']['candidates'],[])
+    self.assertEqual(entries['vid_limit5']['candidates'],[])
+    (p.WORK/'library.json').unlink()
+    rebuilt_lib=p.import_legacy()
+    self.assertEqual(rebuilt_lib['vid_limit20']['search_result_limit'],20)
+    self.assertEqual(rebuilt_lib['vid_limit5']['search_result_limit'],5)
+    self.assertEqual(rebuilt_lib['vid_error']['last_error'],'API 412: authentication/risk control')
+    after=p.report(rebuilt_lib)
+    self.assertEqual(after['expanded_reviews'],before['expanded_reviews'])
+    self.assertEqual(after['review_expansion_pending'],before['review_expansion_pending'])
+    self.assertEqual(after['review_search_metadata_missing'],before['review_search_metadata_missing'])
+    self.assertEqual(after['expanded_reviews']+after['review_expansion_pending']+after['review_search_metadata_missing'],3)
+   finally:p.ROOT,p.SOURCE,p.WORK=old
+
+ def test_missing_search_metadata_classified_as_metadata_missing_not_pending(self):
+  with tempfile.TemporaryDirectory() as temp:
+   root=Path(temp);old=(p.ROOT,p.SOURCE,p.WORK);p.ROOT=root;p.SOURCE=root/'data/source';p.WORK=root/'data/work'
+   try:
+    p.SOURCE.mkdir(parents=True);(root/'web').mkdir();(root/'reports').mkdir()
+    rows=[{'vid':i,'title':i,'categories':[{'id':'cat'}]} for i in ['vid_missing','vid_pending','vid_expanded']]
+    (p.SOURCE/'videos.jsonl').write_text('\n'.join(json.dumps(x) for x in rows))
+    lib={
+     'vid_missing':{'vid':'vid_missing','status':'review','completed_at':'2026-11-04T00:00:00+00:00','candidates':[]},
+     'vid_pending':{'vid':'vid_pending','status':'review','search_result_limit':5,'candidates':[]},
+     'vid_expanded':{'vid':'vid_expanded','status':'review','search_result_limit':20,'candidates':[]}
+    }
+    summary=p.report(lib)
+    self.assertEqual(summary['review_search_metadata_missing'],1)
+    self.assertEqual(summary['review_expansion_pending'],1)
+    self.assertEqual(summary['expanded_reviews'],1)
+    status_text=(root/'reports/STATUS.md').read_text()
+    self.assertIn('- 待审中搜索元数据缺失（重建丢失，状态未知，需重新搜索）：1',status_text)
+    self.assertIn('- 待审中尚需扩大候选检查：1',status_text)
+    self.assertIn('- 已扩大检查仍待审核：1',status_text)
+    total_reviews=sum(e['status']=='review' for e in lib.values())
+    self.assertEqual(summary['review_search_metadata_missing']+summary['review_expansion_pending']+summary['expanded_reviews'],total_reviews)
+   finally:p.ROOT,p.SOURCE,p.WORK=old
+
+ def test_ledger_entry_preserves_metadata_and_excludes_nones_and_review_candidates(self):
+  entry={
+   'vid':'test_vid',
+   'status':'review',
+   'completed_at':'2026-11-04T00:00:00+00:00',
+   'searched_at':'2026-11-04T00:00:00+00:00',
+   'search_session_version':2,
+   'search_queries':['test query'],
+   'search_result_limit':20,
+   'last_error':None,
+   'candidates':[
+    {'bvid':'BV111','status':'review','origin':'search'},
+    {'bvid':'BV222','status':'confirmed','kind':'original','views':10,'origin':'search','search_hint':{}}
+   ]
+  }
+  ledger=p.ledger_entry(entry)
+  self.assertEqual(ledger['vid'],'test_vid')
+  self.assertEqual(ledger['search_result_limit'],20)
+  self.assertEqual(ledger['search_session_version'],2)
+  self.assertEqual(ledger['search_queries'],['test query'])
+  self.assertNotIn('last_error',ledger)
+  self.assertEqual(len(ledger['candidates']),1)
+  self.assertEqual(ledger['candidates'][0]['bvid'],'BV222')
+  self.assertNotIn('origin',ledger['candidates'][0])
+  self.assertNotIn('search_hint',ledger['candidates'][0])
+
 
 class BatchTests(unittest.TestCase):
  def test_block_stops_batch_and_resume_preserves_completed_work(self):
@@ -362,6 +469,20 @@ class SearchCandidateTests(unittest.TestCase):
    self.assertEqual(lib[rows[2]['vid']]['completed_at'],'before')
    self.assertNotEqual(lib[rows[3]['vid']]['completed_at'],'before')
    self.assertNotIn('last_error',lib[rows[3]['vid']])
+ def test_review_expansion_selects_metadata_missing_reviews(self):
+  from unittest.mock import patch
+  from types import SimpleNamespace
+  with tempfile.TemporaryDirectory() as temp,patch.object(p,'ROOT',Path(temp)),patch.object(p,'WORK',Path(temp)/'work'):
+   original={'vid':'abcdefghijk','title':'Test'}
+   lib={original['vid']:{'vid':original['vid'],'status':'review','completed_at':'before','candidates':[]}}
+   class Fixture:
+    def __init__(self,delay):pass
+    def get(self,url):return {'video':{'duration_s':600}} if 'hackertube.org' in url else {'data':{'result':[]}}
+   args=SimpleNamespace(delay=1.3,existing_only=False,recheck=False,expand_review=True,limit=50)
+   with patch.object(p,'corpus',return_value=[original]),patch.object(p,'import_legacy',return_value=lib),patch.object(p,'Client',Fixture),patch.object(p,'report'):
+    self.assertEqual(p.run_match(args),0)
+   self.assertNotEqual(lib[original['vid']]['completed_at'],'before')
+   self.assertEqual(lib[original['vid']]['search_result_limit'],20)
  def test_matching_candidate_after_fifth_result_is_checked(self):
   from unittest.mock import patch
   from types import SimpleNamespace
