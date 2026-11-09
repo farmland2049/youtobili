@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-09T03:09:52.653665+00:00",
+  "built_at": "2026-11-09T04:19:57.860197+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 5894,
-    "confirmed": 1159,
-    "coverage": 0.1795785559343043,
-    "processed_match_rate": 0.19664065151001017
+    "processed": 5944,
+    "confirmed": 1163,
+    "coverage": 0.18019832661915092,
+    "processed_match_rate": 0.19565948855989232
   },
   "areas": [
     {
@@ -45303,6 +45303,143 @@
       ]
     },
     {
+      "id": "ghdTqnYnFyg",
+      "title": "Apple WWDC 2005-The Intel Switch Revealed",
+      "author": "JoshuaG",
+      "source_url": "https://www.youtube.com/watch?v=ghdTqnYnFyg",
+      "summary": "Steve Jobs's WWDC 2005 keynote segment announcing Apple's move from PowerPC to Intel processors, and revealing that Mac OS X had been secretly built for Intel all along.",
+      "why": "Cited in threads about Apple's chip transitions as the primary source for the Intel switch announcement and the secret x86 builds.",
+      "score": 0.0,
+      "tags": [
+        "steve jobs",
+        "wwdc 2005",
+        "powerpc",
+        "intel",
+        "mac os x"
+      ],
+      "categories": [
+        "tech-figures-interviews",
+        "tech-company-stories",
+        "computer-architecture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV16W4y187U5",
+          "page": 1,
+          "cid": 816485077,
+          "title": "Apple WWDC 2005-The Intel Switch Revealed",
+          "up": "搬运大仙",
+          "duration": 495,
+          "kind": "original",
+          "views": 22,
+          "pic": "https://i0.hdslb.com/bfs/archive/e78ef08d099214160580289c9ddd9e7ef3e9a8c9.jpg",
+          "checked_at": "2026-11-09T03:40:11.213361+00:00"
+        }
+      ]
+    },
+    {
+      "id": "gn4nRCC9TwQ",
+      "title": "Google's DeepMind AI Just Taught Itself To Walk",
+      "author": "Insider Tech",
+      "source_url": "https://www.youtube.com/watch?v=gn4nRCC9TwQ",
+      "summary": "A two-minute Insider Tech clip on DeepMind's simulated agents that learned to walk, run, jump and climb without guidance, with the goofy resulting gaits.",
+      "why": "HN uses it as a quick example of reinforcement learning agents acquiring locomotion in simulation, rather than recommending it as a deep resource.",
+      "score": 0.0,
+      "tags": [
+        "deepmind",
+        "reinforcement learning",
+        "simulated robots",
+        "locomotion",
+        "ai demo"
+      ],
+      "categories": [
+        "machine-learning",
+        "robotics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV15x411B7c3",
+          "page": 1,
+          "cid": 20149756,
+          "title": "Google AI已经学会了如何走路 Google's DeepMind AI just taught itself to walk",
+          "up": "账号已注销",
+          "duration": 111,
+          "kind": "original",
+          "views": 477,
+          "pic": "https://i0.hdslb.com/bfs/archive/d4f28df56a1ba992b46693a41e1947fa3d0aa5c9.png",
+          "checked_at": "2026-11-09T03:40:27.911947+00:00"
+        }
+      ]
+    },
+    {
+      "id": "hX1YVzdnpEc",
+      "title": "Barack Obama Singing Call Me Maybe by Carly Rae Jepsen",
+      "author": "baracksdubs",
+      "source_url": "https://www.youtube.com/watch?v=hX1YVzdnpEc",
+      "summary": "A 2012 parody dub that splices clips of Barack Obama speaking into a performance of Carly Rae Jepsen's 'Call Me Maybe'. It is a short comedic mashup built entirely from re-ordered snippets of his real speech.",
+      "why": "HN commenters cite it as a silly but clear example of how cutting and reordering real footage can fabricate meaning without any deepfake technology.",
+      "score": 0.0,
+      "tags": [
+        "parody",
+        "audio splicing",
+        "obama",
+        "deepfakes",
+        "media manipulation"
+      ],
+      "categories": [
+        "satire-parody",
+        "music-performance",
+        "media-journalism"
+      ],
+      "versions": [
+        {
+          "bvid": "BV14s411i711",
+          "page": 1,
+          "cid": 7726018,
+          "title": "奥巴马演唱蹲妹单曲《Call me maybe》@柚子木字幕组",
+          "up": "柚子木字幕组",
+          "duration": 106,
+          "kind": "original",
+          "views": 276349,
+          "pic": "https://i1.hdslb.com/bfs/archive/24bc2c88209361c6c46d08104d7cd2ac37477f6c.jpg",
+          "checked_at": "2026-11-09T04:08:09.166057+00:00"
+        }
+      ]
+    },
+    {
+      "id": "i8ju_10NkGY",
+      "title": "Lazy Town | You Are A Pirate Music Video",
+      "author": "LazyTown",
+      "source_url": "https://www.youtube.com/watch?v=i8ju_10NkGY",
+      "summary": "Music video for the LazyTown song \"You Are A Pirate\" from the children's show. It is a short, catchy kids' number.",
+      "why": "Mostly dropped in as a joke or tongue-in-cheek reference about piracy.",
+      "score": 0.0,
+      "tags": [
+        "lazytown",
+        "pirate",
+        "meme",
+        "kids music"
+      ],
+      "categories": [
+        "music-performance",
+        "internet-culture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1254Ae5EWj",
+          "page": 1,
+          "cid": 26138707100,
+          "title": "Lazy Town | You Are A Pirate Music Video",
+          "up": "Nevermore-奈文摩尔",
+          "duration": 115,
+          "kind": "original",
+          "views": 13394,
+          "pic": "https://i1.hdslb.com/bfs/archive/f4c314662b10d5aa642b3b68d734b28da1fc8aa4.jpg",
+          "checked_at": "2026-11-09T04:18:02.018648+00:00"
+        }
+      ]
+    },
+    {
       "id": "iGLzWdT7vGc",
       "title": "David Foster Wallace unedited interview (2003)",
       "author": "Manufacturing Intellect",
@@ -47481,6 +47618,10 @@
     "BV1ktCpByEZ9": "f3lUEnMaiAU",
     "BV1Ko4y1Z7ee": "fn3KWM1kuAw",
     "BV1Ri4y1774u": "gX9cbxLSOkE",
+    "BV16W4y187U5": "ghdTqnYnFyg",
+    "BV15x411B7c3": "gn4nRCC9TwQ",
+    "BV14s411i711": "hX1YVzdnpEc",
+    "BV1254Ae5EWj": "i8ju_10NkGY",
     "BV1kh411o7eS": "iGLzWdT7vGc",
     "BV1gb411V7v1": "iGLzWdT7vGc",
     "BV1ot4y127mw": "iKcWu0tsiZM",

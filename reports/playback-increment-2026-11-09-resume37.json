@@ -1,0 +1,94 @@
+{
+  "checked_at": "2026-11-09T04:20:38.223Z",
+  "passed": true,
+  "checks": [
+    {
+      "sample": "ghdTqnYnFyg",
+      "kind": "original",
+      "id": "ghdTqnYnFyg",
+      "bvid": "BV16W4y187U5",
+      "page": 1,
+      "cid": 816485077,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.79686,
+        "duration": 495,
+        "paused": false
+      },
+      "expected_duration": 495,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "816485077"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Apple WWDC 2005-The Intel Switch Revealed\n搬运大仙\n关注\n0\n0\n分享\n更多\n00:04 / 08:15\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "gn4nRCC9TwQ",
+      "kind": "original",
+      "id": "gn4nRCC9TwQ",
+      "bvid": "BV15x411B7c3",
+      "page": 1,
+      "cid": 20149756,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.943762,
+        "duration": 111,
+        "paused": false
+      },
+      "expected_duration": 111,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "20149756"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Google AI已经学会了如何走路 Google's DeepMind AI just taught itself to walk\n账号已注销\n关注\n3\n1\n分享\n更多\n00:04 / 01:51\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "hX1YVzdnpEc",
+      "kind": "original",
+      "id": "hX1YVzdnpEc",
+      "bvid": "BV14s411i711",
+      "page": 1,
+      "cid": 7726018,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.939425,
+        "duration": 107,
+        "paused": false
+      },
+      "expected_duration": 106,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "7726018"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "奥巴马演唱蹲妹单曲《Call me maybe》@柚子木字幕组\n柚子木字幕组\n关注\n1680\n347\n分享\n更多\n00:04 / 01:47\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "i8ju_10NkGY",
+      "kind": "original",
+      "id": "i8ju_10NkGY",
+      "bvid": "BV1254Ae5EWj",
+      "page": 1,
+      "cid": 26138707100,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.293057,
+        "duration": 112.70100000000001,
+        "paused": false
+      },
+      "expected_duration": 115,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "26138707100"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Lazy Town | You Are A Pirate Music Video\nNevermore-奈文摩尔\n关注\n306\n24\n分享\n更多\n00:05 / 01:53\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}
