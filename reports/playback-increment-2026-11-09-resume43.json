@@ -1,0 +1,50 @@
+{
+  "checked_at": "2026-11-09T08:23:12.214Z",
+  "passed": true,
+  "checks": [
+    {
+      "sample": "pnbJEg9r1o8",
+      "kind": "sub_zh",
+      "id": "pnbJEg9r1o8",
+      "bvid": "BV1PM4y1K7uz",
+      "page": 1,
+      "cid": 383042177,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.298746,
+        "duration": 243,
+        "paused": false
+      },
+      "expected_duration": 243,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "383042177"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "中文字幕｜疯狂的泳池漩涡｜Crazy pool vortex - Physics Girl\n夏可派\n关注\n9\n8\n分享\n更多\n00:05 / 04:03\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    },
+    {
+      "sample": "qNf9nzvnd1k",
+      "kind": "original",
+      "id": "qNf9nzvnd1k",
+      "bvid": "BV1ws41117vZ",
+      "page": 1,
+      "cid": 8761760,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.964481,
+        "duration": 143.866,
+        "paused": false
+      },
+      "expected_duration": 144,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "8761760"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "20Hz to 20kHz (人类听觉的可听频率)\n-质感-\n关注\n31\n44\n分享\n更多\n00:04 / 02:24\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清"
+    }
+  ]
+}

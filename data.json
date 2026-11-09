@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-09T07:17:42.359318+00:00",
+  "built_at": "2026-11-09T08:22:46.767114+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 6104,
-    "confirmed": 1178,
-    "coverage": 0.1825224666873257,
-    "processed_match_rate": 0.19298820445609435
+    "processed": 6154,
+    "confirmed": 1180,
+    "coverage": 0.18283235202974898,
+    "processed_match_rate": 0.19174520636984074
   },
   "areas": [
     {
@@ -46442,6 +46442,72 @@
       ]
     },
     {
+      "id": "pnbJEg9r1o8",
+      "title": "Crazy pool vortex",
+      "author": "Physics Girl",
+      "source_url": "https://www.youtube.com/watch?v=pnbJEg9r1o8",
+      "summary": "Physics Girl shows a vortex phenomenon (a falaco soliton) that can be reproduced in a pool on a sunny day. Two vortices are created with plates and made visible with food coloring.",
+      "why": "Cited as a concrete demonstration of vortex linkage, and as a better source link than the original submission.",
+      "score": 0.0,
+      "tags": [
+        "vortex",
+        "soliton",
+        "physics demo",
+        "fluid flow"
+      ],
+      "categories": [
+        "everyday-physics-demos",
+        "fundamental-physics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1PM4y1K7uz",
+          "page": 1,
+          "cid": 383042177,
+          "title": "中文字幕｜疯狂的泳池漩涡｜Crazy pool vortex - Physics Girl",
+          "up": "夏可派",
+          "duration": 243,
+          "kind": "sub_zh",
+          "views": 362,
+          "pic": "https://i1.hdslb.com/bfs/archive/bee8872daf19d1a34fcc8f76e02061cf9c16509d.jpg",
+          "checked_at": "2026-11-09T07:46:52.342651+00:00"
+        }
+      ]
+    },
+    {
+      "id": "qNf9nzvnd1k",
+      "title": "20Hz to 20kHz (Human Audio Spectrum)",
+      "author": "adminofthissite",
+      "source_url": "https://www.youtube.com/watch?v=qNf9nzvnd1k",
+      "summary": "A two-minute sine tone sweeping exponentially from 20 Hz to 20 kHz, covering the human hearing range at constant acoustic pressure.",
+      "why": "Used as a quick hearing-range test and as a tone source for tinnitus experiments.",
+      "score": 0.0,
+      "tags": [
+        "hearing test",
+        "frequency sweep",
+        "tinnitus",
+        "sine wave"
+      ],
+      "categories": [
+        "audio-video-engineering",
+        "everyday-physics-demos"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ws41117vZ",
+          "page": 1,
+          "cid": 8761760,
+          "title": "20Hz to 20kHz (人类听觉的可听频率)",
+          "up": "-质感-",
+          "duration": 144,
+          "kind": "original",
+          "views": 6993,
+          "pic": "https://i2.hdslb.com/bfs/archive/4e46f7a5a964998bb4c06f3572a918d66cee401a.jpg",
+          "checked_at": "2026-11-09T07:55:43.762082+00:00"
+        }
+      ]
+    },
+    {
       "id": "sforhbLiwLA",
       "title": "Microsoft Windows 1.0 with Steve Ballmer (1986)",
       "author": "Rezende",
@@ -48225,6 +48291,8 @@
     "BV13W411F7eV": "ogfYd705cRs",
     "BV1a4421U7ff": "ovYbgbrQ-v8",
     "BV1pu4jzvEck": "pZwvrxVavnQ",
+    "BV1PM4y1K7uz": "pnbJEg9r1o8",
+    "BV1ws41117vZ": "qNf9nzvnd1k",
     "BV1Vs41167e2": "sforhbLiwLA",
     "BV1xW411L75Y": "stXgn2iZAAY",
     "BV1JNSwB8EvF": "ugvHCXCOmm4",
