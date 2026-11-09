@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T06:23:13.593775+00:00",
+  "updated_at": "2026-11-09T07:17:42.387751+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -16017,9 +16017,34 @@
     },
     "zNVQfWC_evg": {
       "vid": "zNVQfWC_evg",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-04T21:39:12.015279+00:00",
-      "candidates": []
+      "candidates": [
+        {
+          "bvid": "BV1k4411U758",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV1k4411U758",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "大卫·汤：量子场，宇宙真正的基本组成部分 (The Royal Institution)",
+          "up": "伏特加与熊",
+          "duration": 3618,
+          "original_duration": 3618,
+          "cid": 110932070,
+          "aid": 63894750,
+          "segment_title": "大卫·汤：量子场，宇宙真正的基本组成部分 (The Royal Institution)",
+          "page_count": 1,
+          "kind": "original",
+          "views": 4898,
+          "pic": "https://i0.hdslb.com/bfs/archive/d21a15e505c4fe0c9834dea4f1dd5ca82e8ac362.jpg",
+          "checked_at": "2026-11-09T07:15:37.389590+00:00",
+          "availability": "available"
+        }
+      ]
     },
     "zb7Bs98KmnY": {
       "vid": "zb7Bs98KmnY",
@@ -75622,6 +75647,449 @@
       "vid": "mJHvSp9AKYg",
       "status": "review",
       "completed_at": null,
+      "candidates": []
+    },
+    "mJLr0KMsRAA": {
+      "vid": "mJLr0KMsRAA",
+      "status": "review",
+      "completed_at": "2026-11-09T06:26:39.155966+00:00",
+      "candidates": []
+    },
+    "mKHY69AFstE": {
+      "vid": "mKHY69AFstE",
+      "status": "review",
+      "completed_at": "2026-11-09T06:27:55.724484+00:00",
+      "candidates": []
+    },
+    "mKwL5G5HbGA": {
+      "vid": "mKwL5G5HbGA",
+      "status": "review",
+      "completed_at": "2026-11-09T06:29:11.502785+00:00",
+      "candidates": []
+    },
+    "mOy8Xjaa_o8": {
+      "vid": "mOy8Xjaa_o8",
+      "status": "review",
+      "completed_at": "2026-11-09T06:30:02.141307+00:00",
+      "candidates": []
+    },
+    "mPna6D21Eqg": {
+      "vid": "mPna6D21Eqg",
+      "status": "review",
+      "completed_at": "2026-11-09T06:30:29.859244+00:00",
+      "candidates": []
+    },
+    "mPnx3zO3SDc": {
+      "vid": "mPnx3zO3SDc",
+      "status": "review",
+      "completed_at": "2026-11-09T06:31:35.325401+00:00",
+      "candidates": []
+    },
+    "mQT5aMa_7iI": {
+      "vid": "mQT5aMa_7iI",
+      "status": "review",
+      "completed_at": "2026-11-09T06:32:43.237184+00:00",
+      "candidates": []
+    },
+    "mS5WYp5xmvI": {
+      "vid": "mS5WYp5xmvI",
+      "status": "confirmed",
+      "completed_at": "2026-11-09T06:32:54.767700+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Eu411y74P",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "托马斯·索威尔论经济不平等的迷思 Thomas Sowell on the Myths of Economic Inequality",
+          "up": "Vypur",
+          "duration": 3214,
+          "original_duration": 3214,
+          "cid": 580841021,
+          "aid": 510814563,
+          "segment_title": "Y2Mate.is - Thomas Sowell on the Myths of Economic Inequality-mS5WYp5xmvI-1080p-",
+          "page_count": 1,
+          "kind": "original",
+          "views": 312,
+          "pic": "https://i0.hdslb.com/bfs/archive/31e1bc204684cf0af2d3fb99628240a6e27b88cb.jpg",
+          "checked_at": "2026-11-09T06:32:53.084775+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1jf4y1B7u2",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description",
+            "exact original YouTube ID explicitly associated with selected segment"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "Thomas Sowell: the Myths of Economic Inequality",
+          "up": "MathInvoker",
+          "duration": 3214,
+          "original_duration": 3214,
+          "cid": 246462743,
+          "aid": 287384820,
+          "segment_title": "Thomas Sowell on the Myths of Economic Inequality-mS5WYp5xmvI",
+          "page_count": 1,
+          "kind": "original",
+          "views": 266,
+          "pic": "https://i0.hdslb.com/bfs/archive/761b9c807e38de3e28dedf342906deb70804be9c.jpg",
+          "checked_at": "2026-11-09T07:15:33.073857+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "mTABw0EyIWY": {
+      "vid": "mTABw0EyIWY",
+      "status": "review",
+      "completed_at": "2026-11-09T06:33:13.923450+00:00",
+      "candidates": []
+    },
+    "mUmlv814aJo": {
+      "vid": "mUmlv814aJo",
+      "status": "review",
+      "completed_at": "2026-11-09T06:33:51.410410+00:00",
+      "candidates": []
+    },
+    "mUqeBMP8nEg": {
+      "vid": "mUqeBMP8nEg",
+      "status": "review",
+      "completed_at": "2026-11-09T06:34:09.287449+00:00",
+      "candidates": []
+    },
+    "maAFcEU6atk": {
+      "vid": "maAFcEU6atk",
+      "status": "review",
+      "completed_at": "2026-11-09T06:35:32.827547+00:00",
+      "candidates": []
+    },
+    "me4BZBsHwZs": {
+      "vid": "me4BZBsHwZs",
+      "status": "review",
+      "completed_at": "2026-11-09T06:36:52.204830+00:00",
+      "candidates": []
+    },
+    "mfhAC2YiYHs": {
+      "vid": "mfhAC2YiYHs",
+      "status": "review",
+      "completed_at": "2026-11-09T06:37:07.311144+00:00",
+      "candidates": []
+    },
+    "mgAbfr42oI8": {
+      "vid": "mgAbfr42oI8",
+      "status": "review",
+      "completed_at": "2026-11-09T06:38:00.526203+00:00",
+      "candidates": []
+    },
+    "mr9kK0_7x08": {
+      "vid": "mr9kK0_7x08",
+      "status": "review",
+      "completed_at": "2026-11-09T06:38:54.704670+00:00",
+      "candidates": []
+    },
+    "mty0RwkPmE8": {
+      "vid": "mty0RwkPmE8",
+      "status": "review",
+      "completed_at": "2026-11-09T06:39:22.011056+00:00",
+      "candidates": []
+    },
+    "mwdo17GT6sg": {
+      "vid": "mwdo17GT6sg",
+      "status": "review",
+      "completed_at": "2026-11-09T06:40:08.726077+00:00",
+      "candidates": []
+    },
+    "n-FMpNBfna8": {
+      "vid": "n-FMpNBfna8",
+      "status": "review",
+      "completed_at": "2026-11-09T06:41:10.908842+00:00",
+      "candidates": []
+    },
+    "n0CT8zrw6lw": {
+      "vid": "n0CT8zrw6lw",
+      "status": "review",
+      "completed_at": "2026-11-09T06:41:44.939990+00:00",
+      "candidates": []
+    },
+    "n5QRgpjfarY": {
+      "vid": "n5QRgpjfarY",
+      "status": "review",
+      "completed_at": "2026-11-09T06:43:37.593614+00:00",
+      "candidates": []
+    },
+    "n7ZyJw_cHJY": {
+      "vid": "n7ZyJw_cHJY",
+      "status": "review",
+      "completed_at": "2026-11-09T06:44:59.555225+00:00",
+      "candidates": []
+    },
+    "nFZGpES-St8": {
+      "vid": "nFZGpES-St8",
+      "status": "review",
+      "completed_at": "2026-11-09T06:45:42.642400+00:00",
+      "candidates": []
+    },
+    "nHaTRWRj8G0": {
+      "vid": "nHaTRWRj8G0",
+      "status": "review",
+      "completed_at": "2026-11-09T06:47:10.714434+00:00",
+      "candidates": []
+    },
+    "n_sNclEgQZQ": {
+      "vid": "n_sNclEgQZQ",
+      "status": "review",
+      "completed_at": "2026-11-09T06:47:26.123333+00:00",
+      "candidates": []
+    },
+    "nfHuZ5qrYX4": {
+      "vid": "nfHuZ5qrYX4",
+      "status": "review",
+      "completed_at": "2026-11-09T06:49:10.042653+00:00",
+      "candidates": []
+    },
+    "nifUBDgPhl4": {
+      "vid": "nifUBDgPhl4",
+      "status": "review",
+      "completed_at": "2026-11-09T06:49:30.135087+00:00",
+      "candidates": []
+    },
+    "nkuOuxRD1Bc": {
+      "vid": "nkuOuxRD1Bc",
+      "status": "review",
+      "completed_at": "2026-11-09T06:50:10.731870+00:00",
+      "candidates": []
+    },
+    "nn2FB1P_Mn8": {
+      "vid": "nn2FB1P_Mn8",
+      "status": "review",
+      "completed_at": "2026-11-09T06:52:09.454600+00:00",
+      "candidates": []
+    },
+    "noQsHiTJAXo": {
+      "vid": "noQsHiTJAXo",
+      "status": "review",
+      "completed_at": "2026-11-09T06:53:37.638225+00:00",
+      "candidates": []
+    },
+    "nsb2XBAIWyA": {
+      "vid": "nsb2XBAIWyA",
+      "status": "review",
+      "completed_at": "2026-11-09T06:53:52.881106+00:00",
+      "candidates": []
+    },
+    "nt00QzKuNVY": {
+      "vid": "nt00QzKuNVY",
+      "status": "review",
+      "completed_at": "2026-11-09T06:55:43.927033+00:00",
+      "candidates": []
+    },
+    "nu57D9YcIk0": {
+      "vid": "nu57D9YcIk0",
+      "status": "review",
+      "completed_at": "2026-11-09T06:56:54.881569+00:00",
+      "candidates": []
+    },
+    "ny_OPsxHQmU": {
+      "vid": "ny_OPsxHQmU",
+      "status": "confirmed",
+      "completed_at": "2026-11-09T06:57:07.416357+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1mt4y1q7KK",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "THROUGH THE LENSES - QUEST 2 vs Reverb G2 vs INDEX! 90Hz Quest",
+          "up": "闪电龟互动科技",
+          "duration": 831,
+          "original_duration": 831,
+          "cid": 240087282,
+          "aid": 627303249,
+          "segment_title": "THROUGH THE LENSES - QUEST 2 vs Reverb G2 vs INDEX! 90Hz Quest",
+          "page_count": 1,
+          "kind": "original",
+          "views": 530,
+          "pic": "https://i2.hdslb.com/bfs/archive/bf362ece89a5ec6b9cc98bbe6a16218de0c93cb8.jpg",
+          "checked_at": "2026-11-09T06:57:05.790408+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "nyu4u3VZYaQ": {
+      "vid": "nyu4u3VZYaQ",
+      "status": "review",
+      "completed_at": "2026-11-09T06:58:19.958312+00:00",
+      "candidates": []
+    },
+    "o-zoPgv_nYg": {
+      "vid": "o-zoPgv_nYg",
+      "status": "review",
+      "completed_at": "2026-11-09T06:59:57.203751+00:00",
+      "candidates": []
+    },
+    "o48KzPa42_o": {
+      "vid": "o48KzPa42_o",
+      "status": "review",
+      "completed_at": "2026-11-09T07:01:26.956562+00:00",
+      "candidates": []
+    },
+    "o4TdHrMi6do": {
+      "vid": "o4TdHrMi6do",
+      "status": "confirmed",
+      "completed_at": "2026-11-09T07:01:39.082596+00:00",
+      "candidates": [
+        {
+          "bvid": "BV14SWpzDE4Q",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【YouTube搬运】每秒 20 亿 帧 的 激光 指示器Laser pointer at 2 billion fps",
+          "up": "小溪_YouTube搬运笔记本",
+          "duration": 1762,
+          "original_duration": 1762,
+          "cid": 33170915847,
+          "aid": 115392785682493,
+          "segment_title": "【YouTube搬运】每秒 20 亿 帧 的 激光 指示器Laser pointer at 2 billion fps",
+          "page_count": 1,
+          "kind": "original",
+          "views": 146,
+          "pic": "https://i2.hdslb.com/bfs/archive/f788c0be9f3ff8e6aeb8cab08d54505a583038eb.jpg",
+          "checked_at": "2026-11-09T07:01:37.135666+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "oDozftThFMw": {
+      "vid": "oDozftThFMw",
+      "status": "review",
+      "completed_at": "2026-11-09T07:02:07.078677+00:00",
+      "candidates": []
+    },
+    "oGfkPCZYfFw": {
+      "vid": "oGfkPCZYfFw",
+      "status": "review",
+      "completed_at": "2026-11-09T07:03:44.459584+00:00",
+      "candidates": []
+    },
+    "oH41gGBVpkE": {
+      "vid": "oH41gGBVpkE",
+      "status": "review",
+      "completed_at": "2026-11-09T07:05:18.528130+00:00",
+      "candidates": []
+    },
+    "oHg5SJYRHA0": {
+      "vid": "oHg5SJYRHA0",
+      "status": "review",
+      "completed_at": "2026-11-09T07:06:30.397262+00:00",
+      "candidates": []
+    },
+    "oI2aMKwXXnE": {
+      "vid": "oI2aMKwXXnE",
+      "status": "review",
+      "completed_at": "2026-11-09T07:07:06.235619+00:00",
+      "candidates": []
+    },
+    "oLt5qSm9U80": {
+      "vid": "oLt5qSm9U80",
+      "status": "confirmed",
+      "completed_at": "2026-11-09T07:07:30.072158+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Rx411x7T7",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "爆笑：但是我们在说日语啊！But we're speaking Japanese!",
+          "up": "季米湖",
+          "duration": 130,
+          "original_duration": 131,
+          "cid": 23258598,
+          "aid": 14248776,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "original",
+          "views": 508,
+          "pic": "https://i1.hdslb.com/bfs/archive/58de5ddb72535b146ffcc0934f69c1587efd8e69.jpg",
+          "checked_at": "2026-11-09T07:07:28.356980+00:00",
+          "availability": "available"
+        },
+        {
+          "bvid": "BV1KJmUYGEhp",
+          "status": "confirmed",
+          "reason": "explicit source URL, segment and duration verified",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "page": 1,
+          "title": "But we're speaking Japanese!",
+          "up": "教中文的Hanson君",
+          "duration": 114,
+          "original_duration": 131,
+          "cid": 26712936320,
+          "aid": 113463640919409,
+          "segment_title": "But we're speaking Japanese!",
+          "page_count": 1,
+          "kind": "original",
+          "views": 24,
+          "pic": "https://i1.hdslb.com/bfs/archive/0afb31487c4c30a8111e83afe40403cdf8a3734a.jpg",
+          "checked_at": "2026-11-09T07:15:34.935888+00:00",
+          "availability": "available"
+        }
+      ]
+    },
+    "oQYwFND7rHE": {
+      "vid": "oQYwFND7rHE",
+      "status": "review",
+      "completed_at": "2026-11-09T07:08:53.373783+00:00",
+      "candidates": []
+    },
+    "oRiQz7mOY6A": {
+      "vid": "oRiQz7mOY6A",
+      "status": "review",
+      "completed_at": "2026-11-09T07:10:37.050557+00:00",
+      "candidates": []
+    },
+    "oZWNGq70Oyo": {
+      "vid": "oZWNGq70Oyo",
+      "status": "review",
+      "completed_at": "2026-11-09T07:11:08.538352+00:00",
+      "candidates": []
+    },
+    "ob0lznzkykc": {
+      "vid": "ob0lznzkykc",
+      "status": "review",
+      "completed_at": "2026-11-09T07:12:30.314678+00:00",
+      "candidates": []
+    },
+    "ofpbDgCj9rw": {
+      "vid": "ofpbDgCj9rw",
+      "status": "review",
+      "completed_at": "2026-11-09T07:13:13.783323+00:00",
+      "candidates": []
+    },
+    "ohmajJTcpNk": {
+      "vid": "ohmajJTcpNk",
+      "status": "review",
+      "completed_at": "2026-11-09T07:14:17.050278+00:00",
       "candidates": []
     }
   }

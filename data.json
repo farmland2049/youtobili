@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-09T06:23:13.566285+00:00",
+  "built_at": "2026-11-09T07:17:42.359318+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 6054,
-    "confirmed": 1173,
-    "coverage": 0.18174775333126744,
-    "processed_match_rate": 0.1937561942517344
+    "processed": 6104,
+    "confirmed": 1178,
+    "coverage": 0.1825224666873257,
+    "processed_match_rate": 0.19298820445609435
   },
   "areas": [
     {
@@ -8401,6 +8401,40 @@
           "views": 37616,
           "pic": "https://i0.hdslb.com/bfs/archive/588047ff44971575ebd39a204f6080020967404e.png",
           "checked_at": "2026-11-07T05:27:38.160439+00:00"
+        }
+      ]
+    },
+    {
+      "id": "zNVQfWC_evg",
+      "title": "Quantum Fields: The Real Building Blocks of the Universe - with David Tong",
+      "author": "The Royal Institution",
+      "source_url": "https://www.youtube.com/watch?v=zNVQfWC_evg",
+      "summary": "David Tong, a Cambridge theoretical physicist, explains at the Royal Institution that the fundamental building blocks of nature are quantum fields rather than particles. He covers what we know about these fields and how they fit into the Standard Model.",
+      "why": "Called a favorite and a masterpiece by commenters as the clearest accessible explanation that there are only waves in fields, and what physics still doesn't know.",
+      "score": 7.5,
+      "tags": [
+        "quantum fields",
+        "standard model",
+        "particle physics",
+        "david tong",
+        "royal institution"
+      ],
+      "categories": [
+        "quantum-physics",
+        "fundamental-physics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1k4411U758",
+          "page": 1,
+          "cid": 110932070,
+          "title": "大卫·汤：量子场，宇宙真正的基本组成部分 (The Royal Institution)",
+          "up": "伏特加与熊",
+          "duration": 3618,
+          "kind": "original",
+          "views": 4898,
+          "pic": "https://i0.hdslb.com/bfs/archive/d21a15e505c4fe0c9834dea4f1dd5ca82e8ac362.jpg",
+          "checked_at": "2026-11-09T07:15:37.389590+00:00"
         }
       ]
     },
@@ -46077,6 +46111,52 @@
       ]
     },
     {
+      "id": "mS5WYp5xmvI",
+      "title": "Thomas Sowell on the Myths of Economic Inequality",
+      "author": "Hoover Institution",
+      "source_url": "https://www.youtube.com/watch?v=mS5WYp5xmvI",
+      "summary": "Thomas Sowell speaks at the Hoover Institution about economic and racial inequality and what he considers myths about poverty. He also recounts his early life and brief flirtation with Marxism.",
+      "why": "Mostly cited as a source for Sowell's views on welfare, neighborhoods and his personal anecdotes.",
+      "score": 0.0,
+      "tags": [
+        "thomas sowell",
+        "inequality",
+        "welfare",
+        "economics",
+        "hoover institution"
+      ],
+      "categories": [
+        "labor-work-wealth",
+        "microeconomics-behavioral"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Eu411y74P",
+          "page": 1,
+          "cid": 580841021,
+          "title": "托马斯·索威尔论经济不平等的迷思 Thomas Sowell on the Myths of Economic Inequality",
+          "up": "Vypur",
+          "duration": 3214,
+          "kind": "original",
+          "views": 312,
+          "pic": "https://i0.hdslb.com/bfs/archive/31e1bc204684cf0af2d3fb99628240a6e27b88cb.jpg",
+          "checked_at": "2026-11-09T06:32:53.084775+00:00"
+        },
+        {
+          "bvid": "BV1jf4y1B7u2",
+          "page": 1,
+          "cid": 246462743,
+          "title": "Thomas Sowell: the Myths of Economic Inequality",
+          "up": "MathInvoker",
+          "duration": 3214,
+          "kind": "original",
+          "views": 266,
+          "pic": "https://i0.hdslb.com/bfs/archive/761b9c807e38de3e28dedf342906deb70804be9c.jpg",
+          "checked_at": "2026-11-09T07:15:33.073857+00:00"
+        }
+      ]
+    },
+    {
       "id": "ntIczNQKfjQ",
       "title": "NavLab 1 (1986) : Carnegie Mellon : Robotics Institute History of Self-Driving Cars",
       "author": "CMU Robotics Institute",
@@ -46107,6 +46187,74 @@
           "views": 592,
           "pic": "https://i2.hdslb.com/bfs/archive/fe2d60ea98f8f6b72d9a68145761c740cc3c0e20.jpg",
           "checked_at": "2026-11-07T05:27:50.180362+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ny_OPsxHQmU",
+      "title": "THROUGH THE LENSES - QUEST 2 vs Reverb G2 vs INDEX! 90Hz Quest",
+      "author": "Tyriel Wood - VR Tech",
+      "source_url": "https://www.youtube.com/watch?v=ny_OPsxHQmU",
+      "summary": "A through-the-lens comparison of the Oculus Quest 2, HP Reverb G2 and Valve Index, capturing what each headset's display actually looks like. It also previews a 90Hz mode coming to Quest 2.",
+      "why": "Linked as a quick visual reference for resolution and screen-door effect differences between popular VR headsets.",
+      "score": 0.0,
+      "tags": [
+        "quest 2",
+        "reverb g2",
+        "valve index",
+        "screen door effect",
+        "vr"
+      ],
+      "categories": [
+        "vr-ar-spatial",
+        "consumer-devices"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1mt4y1q7KK",
+          "page": 1,
+          "cid": 240087282,
+          "title": "THROUGH THE LENSES - QUEST 2 vs Reverb G2 vs INDEX! 90Hz Quest",
+          "up": "闪电龟互动科技",
+          "duration": 831,
+          "kind": "original",
+          "views": 530,
+          "pic": "https://i2.hdslb.com/bfs/archive/bf362ece89a5ec6b9cc98bbe6a16218de0c93cb8.jpg",
+          "checked_at": "2026-11-09T06:57:05.790408+00:00"
+        }
+      ]
+    },
+    {
+      "id": "o4TdHrMi6do",
+      "title": "A laser pointer at 2 billion fps makes the speed of light look... kinda weird",
+      "author": "AlphaPhoenix",
+      "source_url": "https://www.youtube.com/watch?v=o4TdHrMi6do",
+      "summary": "AlphaPhoenix shows off a new camera that films at two billion frames per second and uses it to film a laser pointer pulse. He investigates a strange quirk in how the speed of light appears on camera.",
+      "why": "Referenced in threads about the two-billion-fps camera and equivalent-time sampling as an example of filming light moving.",
+      "score": 0.0,
+      "tags": [
+        "speed of light",
+        "high-speed camera",
+        "laser",
+        "equivalent-time sampling",
+        "physics demo"
+      ],
+      "categories": [
+        "everyday-physics-demos",
+        "fundamental-physics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV14SWpzDE4Q",
+          "page": 1,
+          "cid": 33170915847,
+          "title": "【YouTube搬运】每秒 20 亿 帧 的 激光 指示器Laser pointer at 2 billion fps",
+          "up": "小溪_YouTube搬运笔记本",
+          "duration": 1762,
+          "kind": "original",
+          "views": 146,
+          "pic": "https://i2.hdslb.com/bfs/archive/f788c0be9f3ff8e6aeb8cab08d54505a583038eb.jpg",
+          "checked_at": "2026-11-09T07:01:37.135666+00:00"
         }
       ]
     },
@@ -46142,6 +46290,52 @@
           "views": 6279,
           "pic": "https://i2.hdslb.com/bfs/archive/00f2ef43e9ae432e78be022f2e34951f4a33bb7d.jpg",
           "checked_at": "2026-11-07T05:27:42.957389+00:00"
+        }
+      ]
+    },
+    {
+      "id": "oLt5qSm9U80",
+      "title": "But we're speaking Japanese!　日本語喋ってるんだけど",
+      "author": "helpmefindparents",
+      "source_url": "https://www.youtube.com/watch?v=oLt5qSm9U80",
+      "summary": "A two-minute comedy sketch in which a foreigner speaking fluent Japanese is repeatedly not understood by Japanese people who refuse to process it.",
+      "why": "Linked in threads on language and Japan as a famous, exaggerated sketch about natives not accepting foreigners speaking their language.",
+      "score": 0.0,
+      "tags": [
+        "japan",
+        "language learning",
+        "sketch comedy",
+        "race",
+        "culture"
+      ],
+      "categories": [
+        "standup-sketch-comedy",
+        "language-linguistics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Rx411x7T7",
+          "page": 1,
+          "cid": 23258598,
+          "title": "爆笑：但是我们在说日语啊！But we're speaking Japanese!",
+          "up": "季米湖",
+          "duration": 130,
+          "kind": "original",
+          "views": 508,
+          "pic": "https://i1.hdslb.com/bfs/archive/58de5ddb72535b146ffcc0934f69c1587efd8e69.jpg",
+          "checked_at": "2026-11-09T07:07:28.356980+00:00"
+        },
+        {
+          "bvid": "BV1KJmUYGEhp",
+          "page": 1,
+          "cid": 26712936320,
+          "title": "But we're speaking Japanese!",
+          "up": "教中文的Hanson君",
+          "duration": 114,
+          "kind": "original",
+          "views": 24,
+          "pic": "https://i1.hdslb.com/bfs/archive/0afb31487c4c30a8111e83afe40403cdf8a3734a.jpg",
+          "checked_at": "2026-11-09T07:15:34.935888+00:00"
         }
       ]
     },
@@ -46723,6 +46917,7 @@
     "BV14p4y1h7mb": "wrwgIjBUYVc",
     "BV1eP41197kY": "wupToqz1e2g",
     "BV1pt411o7Y3": "wxL4ElboiuA",
+    "BV1k4411U758": "zNVQfWC_evg",
     "BV1AU421o7ob": "zjkBMFhNj_g",
     "BV1jQpL6AEvh": "zjkBMFhNj_g",
     "BV1Tt4y1R7yW": "zjkBMFhNj_g",
@@ -48019,8 +48214,14 @@
     "BV1rw411C7Va": "lUQ_0MubbcM",
     "BV1oULi6gEeB": "lXUZvyajciY",
     "BV1JVWtzDEPJ": "lXUZvyajciY",
+    "BV1Eu411y74P": "mS5WYp5xmvI",
+    "BV1jf4y1B7u2": "mS5WYp5xmvI",
     "BV1Xz411B7qQ": "ntIczNQKfjQ",
+    "BV1mt4y1q7KK": "ny_OPsxHQmU",
+    "BV14SWpzDE4Q": "o4TdHrMi6do",
     "BV1dx41187sz": "o8NPllzkFhE",
+    "BV1Rx411x7T7": "oLt5qSm9U80",
+    "BV1KJmUYGEhp": "oLt5qSm9U80",
     "BV13W411F7eV": "ogfYd705cRs",
     "BV1a4421U7ff": "ovYbgbrQ-v8",
     "BV1pu4jzvEck": "pZwvrxVavnQ",
