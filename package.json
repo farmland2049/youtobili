@@ -1,6 +1,7 @@
 {
   "name": "youtobili",
   "private": true,
+  "homepage": "https://farmland2049.github.io/youtobili/",
   "scripts": {
     "test": "python3 -m unittest discover -s tests -v",
     "test:browser": "node tests/browser.cjs"

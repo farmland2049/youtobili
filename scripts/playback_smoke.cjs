@@ -20,14 +20,27 @@ function evaluatePlaybackCheck(res) {
   return issues;
 }
 
+function evaluatePlaybackResults(results) {
+  const checks = results.map(res => {
+    const issues = evaluatePlaybackCheck(res);
+    return { ...res, passed: issues.length === 0, issues };
+  });
+  const failureMessages = checks.filter(res => !res.passed).map(res =>
+    `FAILED ${res.sample} (${res.bvid} P${res.page}): ${res.issues.join('; ')}`);
+  if (checks.length === 0) failureMessages.push('No playback checks were performed');
+  return { passed: failureMessages.length === 0, checks, failureMessages };
+}
+
 if (typeof module !== 'undefined' && module.exports) {
-  module.exports = { evaluatePlaybackCheck };
+  module.exports = { evaluatePlaybackCheck, evaluatePlaybackResults };
 }
 
 if (require.main === module) {
   (async () => {
     const browser = await chromium.launch({ headless: true });
-    const data = JSON.parse(fs.readFileSync('data.json'));
+    const data = JSON.parse(fs.readFileSync(process.env.PLAYBACK_DATA || 'data.json'));
+    const videoTimeout = Number(process.env.PLAYBACK_VIDEO_TIMEOUT_MS || 20000);
+    if (!Number.isFinite(videoTimeout) || videoTimeout <= 0) throw Error('PLAYBACK_VIDEO_TIMEOUT_MS must be a positive number');
     const requested = (process.env.PLAYBACK_IDS || '').split(',').map(id => id.trim()).filter(Boolean);
     const requestedBvids = (process.env.PLAYBACK_BVIDS || '').split(',').map(id => id.trim());
     const requestedPages = (process.env.PLAYBACK_PAGES || '').split(',').map(id => id.trim());
@@ -40,7 +53,11 @@ if (require.main === module) {
     }
     if (cases.some(sample => !sample.video) && requested.length) throw Error('Requested original is not published');
     const results = [];
-    for (const [sampleIndex, sample] of cases.filter(c => c.video).entries()) {
+    for (const [sampleIndex, sample] of cases.entries()) {
+      if (!sample.video) {
+        results.push({ sample: sample.label, error: 'No published video for requested sample', playing: false });
+        continue;
+      }
       const v = sample.video;
       const versionIndex = requestedBvids[sampleIndex] ? v.versions.findIndex((c) => {
         const bvidMatch = c.bvid === requestedBvids[sampleIndex];
@@ -62,7 +79,7 @@ if (require.main === module) {
         if (versionIndex) await page.locator('#version').selectOption(String(versionIndex));
         await page.locator('iframe').waitFor();
         const frame = page.locator('iframe').contentFrame();
-        await frame.locator('video').waitFor({ timeout: 20000 });
+        await frame.locator('video').waitFor({ timeout: videoTimeout });
         const before = await frame.locator('video').first().evaluate(e => e.currentTime);
         await frame.locator('video').first().click({ force: true });
         try {
@@ -74,32 +91,27 @@ if (require.main === module) {
         const media = await frame.locator('video').first().evaluate(e => ({
           readyState: e.readyState, currentTime: e.currentTime, duration: e.duration, paused: e.paused, error: e.error?.code
         }));
-        results.push({ sample: sample.label, kind: version.kind, id: v.id,
+        const result = { sample: sample.label, kind: version.kind, id: v.id,
           bvid: version.bvid, page: version.page, cid: version.cid,
           playing: !media.paused && media.currentTime > before + 1, media,
           expected_duration: version.duration,
           duration_matches_segment: Number.isFinite(media.duration) && Math.abs(media.duration - version.duration) <= 3,
           requested_cids: [...requestedCids], requested_cid_observed: requestedCids.has(String(version.cid)),
-          visible_text: (await frame.locator('body').innerText()).slice(0, 400) });
+          visible_text: (await frame.locator('body').innerText()).slice(0, 400) };
+        fs.mkdirSync('.artifacts', { recursive: true });
         await page.screenshot({ path: '.artifacts/player-' + sample.label + '.png' });
+        results.push(result);
       } catch (error) {
         results.push({ sample: sample.label, id: v.id, bvid: version.bvid, page: version.page, cid: version.cid, error: error.message.slice(0, 250), playing: false });
       } finally { await page.close(); }
     }
     await browser.close();
 
-    const failureMessages = [];
-    for (const res of results) {
-      const issues = evaluatePlaybackCheck(res);
-      if (issues.length > 0) {
-        failureMessages.push(`FAILED ${res.sample} (${res.bvid} P${res.page}): ${issues.join('; ')}`);
-      }
-    }
-    const passed = failureMessages.length === 0;
+    const { passed, checks, failureMessages } = evaluatePlaybackResults(results);
 
     const file = process.env.PLAYBACK_REPORT || 'reports/playback-checks.json';
-    fs.writeFileSync(file, JSON.stringify({ checked_at: new Date().toISOString(), passed, checks: results }, null, 2) + '\n');
-    console.log(JSON.stringify(results, null, 2));
+    fs.writeFileSync(file, JSON.stringify({ checked_at: new Date().toISOString(), passed, checks }, null, 2) + '\n');
+    console.log(JSON.stringify(checks, null, 2));
 
     if (!passed) {
       console.error('\n[SMOKE CHECK FAILED]\n' + failureMessages.join('\n'));
