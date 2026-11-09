@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-09T11:51:29.804625+00:00",
+  "built_at": "2026-11-09T15:09:30.871352+00:00",
   "stats": {
     "corpus": 6454,
     "processed": 6201,
-    "confirmed": 1190,
-    "coverage": 0.1843817787418655,
-    "processed_match_rate": 0.19158200290275762
+    "confirmed": 1194,
+    "coverage": 0.18500154942671213,
+    "processed_match_rate": 0.19222706015158844
   },
   "areas": [
     {
@@ -4066,6 +4066,41 @@
       ]
     },
     {
+      "id": "JjDsP5n2kSM",
+      "title": "Jonathan Blow - How to program independent games -  CSUA Speech",
+      "author": "Alexandre Franco",
+      "source_url": "https://www.youtube.com/watch?v=JjDsP5n2kSM",
+      "summary": "Jonathan Blow speaks at UC Berkeley's CSUA about how to program independent games. He argues for keeping code simple, avoiding unnecessary work, and shipping.",
+      "why": "HN recommends it as a talk whose advice on simplicity and avoiding unnecessary work applies well beyond games.",
+      "score": 11.0,
+      "tags": [
+        "jonathan blow",
+        "simplicity",
+        "premature optimization",
+        "shipping software",
+        "game development"
+      ],
+      "categories": [
+        "indie-game-development",
+        "game-programming-engines",
+        "software-architecture-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1qs4y1h7yq",
+          "page": 1,
+          "cid": 1017935532,
+          "title": "Jonathan Blow - How to program independent games -  CSUA Speech",
+          "up": "dailyrain",
+          "duration": 4551,
+          "kind": "original",
+          "views": 170,
+          "pic": "https://i1.hdslb.com/bfs/archive/6fe2a83439b28b4876411f39322194240c6b1463.jpg",
+          "checked_at": "2026-11-09T14:21:19.747650+00:00"
+        }
+      ]
+    },
+    {
       "id": "O5BJVO3PDeQ",
       "title": "The Engoodening of No Man's Sky",
       "author": "Internet Historian",
@@ -4635,6 +4670,40 @@
       ]
     },
     {
+      "id": "5Ge2RcvDlgw",
+      "title": "The Extreme Engineering of ASML’s EUV Light Source",
+      "author": "Asianometry",
+      "source_url": "https://www.youtube.com/watch?v=5Ge2RcvDlgw",
+      "summary": "Asianometry explains the EUV light source inside ASML's lithography machines, where lasers hit falling tin droplets twice to produce 13.5 nm light. It walks through the engineering of the droplet generator, the pre-pulse and main laser, and the plasma that results.",
+      "why": "Commenters repeatedly point to it whenever EUV, ASML or chip manufacturing comes up, as a clear and astonishing explanation of one of the hardest engineering problems in chipmaking.",
+      "score": 10.0,
+      "tags": [
+        "asml",
+        "euv",
+        "tin droplets",
+        "semiconductor manufacturing",
+        "lasers",
+        "plasma"
+      ],
+      "categories": [
+        "semiconductors-manufacturing"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1wu411D7C4",
+          "page": 1,
+          "cid": 471602324,
+          "title": "The Extreme Engineering of ASML’s EUV Light Source",
+          "up": "AUTOSEMIFOX",
+          "duration": 1040,
+          "kind": "original",
+          "views": 62,
+          "pic": "https://i2.hdslb.com/bfs/archive/a71060f03e21c17e63fcd93f328e467de365dd8b.jpg",
+          "checked_at": "2026-11-09T14:36:47.186238+00:00"
+        }
+      ]
+    },
+    {
       "id": "BzhbAK1pdPM",
       "title": "30 Essential Ideas you should know about ADHD, 1A Intro, Chronic Developmental Disability",
       "author": "Adhd Videos",
@@ -4677,6 +4746,40 @@
           "views": 18154,
           "pic": "https://i1.hdslb.com/bfs/archive/93fc64a60a9ec0bee37cb7a88e88aa4a47336c88.jpg",
           "checked_at": "2026-11-07T05:27:35.812258+00:00"
+        }
+      ]
+    },
+    {
+      "id": "CTV-wwszGw8",
+      "title": "Cities Aren't Loud: Cars Are Loud",
+      "author": "Not Just Bikes",
+      "source_url": "https://www.youtube.com/watch?v=CTV-wwszGw8",
+      "summary": "Not Just Bikes argues that urban noise comes mostly from motor vehicles, drawing on the book Curbing Traffic and a visit to Delft, a city that takes noise seriously.",
+      "why": "HN cites it constantly in threads on noise, EVs and car-free cities as the source that cars, not cities, are loud.",
+      "score": 10.0,
+      "tags": [
+        "car noise",
+        "urban planning",
+        "netherlands",
+        "electric vehicles",
+        "walkable cities"
+      ],
+      "categories": [
+        "transit-urbanism",
+        "automotive-ev"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1MZ4i6WEDS",
+          "page": 1,
+          "cid": 43370087433,
+          "title": "城市并不吵，吵的是汽车",
+          "up": "njdkd",
+          "duration": 1028,
+          "kind": "original",
+          "views": 8,
+          "pic": "https://i0.hdslb.com/bfs/archive/164e04fa06cbcab7c424e3974187637c7447ebb4.jpg",
+          "checked_at": "2026-11-09T14:36:59.237962+00:00"
         }
       ]
     },
@@ -4725,6 +4828,40 @@
           "views": 13,
           "pic": "https://i2.hdslb.com/bfs/archive/059f2565d392a548a5f2f80f042bfa449bc6cd3f.jpg",
           "checked_at": "2026-11-07T05:27:35.893858+00:00"
+        }
+      ]
+    },
+    {
+      "id": "JEYh5WACqEk",
+      "title": "Why Some Diseases Only Traveled One Direction",
+      "author": "CGP Grey",
+      "source_url": "https://www.youtube.com/watch?v=JEYh5WACqEk",
+      "summary": "CGP Grey explains why European diseases devastated the Americas while few deadly diseases traveled the other way. He ties it to livestock domestication, dense cities, and the ideas of Guns, Germs and Steel.",
+      "why": "HN commenters point to it as a clear, short explanation of one-directional disease spread and the core argument of Guns, Germs, and Steel.",
+      "score": 10.0,
+      "tags": [
+        "domestication",
+        "smallpox",
+        "guns germs and steel",
+        "columbian exchange",
+        "zoonotic disease"
+      ],
+      "categories": [
+        "medicine-disease",
+        "world-history"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1PQ4j6oELC",
+          "page": 1,
+          "cid": 43399184832,
+          "title": "疾病为什么只单向传播",
+          "up": "njdkd",
+          "duration": 672,
+          "kind": "original",
+          "views": 3,
+          "pic": "https://i2.hdslb.com/bfs/archive/921617dc97d8515e568538f1209289913350bdd9.jpg",
+          "checked_at": "2026-11-09T14:45:05.289170+00:00"
         }
       ]
     },
@@ -47160,6 +47297,7 @@
     "BV1ep4y187ic": "AnrlSqtpOkw",
     "BV1vf4y1G7pK": "DnPmg0R1M04",
     "BV1CR4y1M73W": "DnPmg0R1M04",
+    "BV1qs4y1h7yq": "JjDsP5n2kSM",
     "BV1wu411b76t": "O5BJVO3PDeQ",
     "BV1v54y1w71v": "ShEez0JkOFw",
     "BV1Mw4m1y7jY": "mPqWstVnRjQ",
@@ -47185,10 +47323,13 @@
     "BV1cm421u7dc": "rX0ItVEVjHc",
     "BV1rZ4y1D7s6": "tX4H_ctggYo",
     "BV1f1HpziE18": "tX4H_ctggYo",
+    "BV1wu411D7C4": "5Ge2RcvDlgw",
     "BV1Wm4y187kG": "BzhbAK1pdPM",
     "BV1Ku411t7GL": "BzhbAK1pdPM",
+    "BV1MZ4i6WEDS": "CTV-wwszGw8",
     "BV1nk4y1273w": "IOiZatlZtGU",
     "BV1WN4y1B7jL": "IOiZatlZtGU",
+    "BV1PQ4j6oELC": "JEYh5WACqEk",
     "BV1kb4y1i7bM": "Nb2tebYAaOA",
     "BV1AATC61EWz": "Nb2tebYAaOA",
     "BV13t411R7Fy": "QM1iUe6IofM",
