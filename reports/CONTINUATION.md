@@ -599,3 +599,60 @@
 - 验证：`npm test` 79 项 OK；`npm run test:browser` 15 场景 pass（originals 1190，`browser-tests.json` 随数据更新）；`pipeline check` PASS 1190 原片 / 1635 分P。
 - 本轮提交已并入 `main`（`39131b4`）。Website 后来已改为 `https://farmland2049.github.io/youtobili/`（另事由强哥授权完成，非本轮提交内容）。
 - 剩余交接：约 4960 条元数据缺失待审需继续重搜；253 条未处理；95 条网络隔离原片待单条复查。
+
+## 2026-11-09～10 第4轮推进（continue-20261110-r4）
+
+- 分支 `continue-20261110-r4`，相对 `main` `39131b4`，5 个提交：`aab9a5d`（补第3轮批次正文到 CONTINUATION）、`6878072`、`d1f48a7`、`e85d937`（过程提交）、`9b3f8f2`（最终）。已并入 `main`（`origin/main` = `9b3f8f2`）。日志位于 `/workspace/youtobili-r4-logs/`。
+- 起点：确认 1190 / 版本 1635；待审三类：尚需扩大 4 / 已扩大 94 / 元数据缺失 4960；完成处理 6201；隔离网络异常原片 95。
+- 方式：过夜循环脚本 `run-batches.sh` 反复跑 `match --expand-review --primary-first --limit 50 --delay 2`，带 `--exclude-vid` 排除隔离原片；普通网络错误结束本批、该原片加入排除名单；连续 2 个错误批次后休眠 15–30 分钟再继续；遇 412/Blocked 硬停；原定截止 2026-11-10 06:00（北京时间）。
+
+### 1. 匹配批次
+时间均为北京时间：
+- `20261109T134640Z`（11-09 21:46–21:50）：排除 95；尝试 7，完成 6 均待审，第 7 条 `ZK3O402wf1c` `TimeoutError`。
+- `20261109T135054Z`（21:50–22:14）：排除 96；完成 50/50，全部待审，无错误。
+- `20261109T141413Z`（22:14–22:43）：排除 96；完成 49，确认 3（`JjDsP5n2kSM`、`5Ge2RcvDlgw`、`CTV-wwszGw8`），第 50 条 `GJCF-Ufapu8` `TimeoutError`；暂缓详情候选 19。
+- `20261109T144348Z`（22:43–23:09）：排除 97；完成 24，确认 1（`JEYh5WACqEk`），第 25 条 `hB6eY73sLV0` `URLError`；暂缓详情候选 11。之后连续 2 个错误批次，休眠（日志写 1239 秒，实际墙钟到 11-10 05:12 才恢复，约 6 小时，原因不明，可能宿主休眠）。
+- `20261109T211211Z`（11-10 05:12–05:16）：排除 98；完成 2 均待审，第 3 条 `kjBOesZCoqc` `RemoteDisconnected`。
+- 第 6 批 05:16 启动（排除 99），05:44 应强哥提前检查的要求被终止（rc=143），未写批次回执；期间已搜索 1 条 `n8m7lFQ3njk`（仍待审，计入已扩大）。
+- 五批 `stopped` 均为 `false`，日志无 412/Blocked；停因 EARLY_CHECK（提前检查），不是风控。
+
+### 2. 新确认条目
+新确认 4 条（均为简介中明确原片链接，自动匹配确认，均为 `original` 档、分P 1）：
+- `JjDsP5n2kSM` → `BV1qs4y1h7yq`（4551秒，CID `1017935532`）
+- `5Ge2RcvDlgw` → `BV1wu411D7C4`（1040秒，CID `471602324`）
+- `CTV-wwszGw8` → `BV1MZ4i6WEDS`（1028秒，CID `43370087433`）
+- `JEYh5WACqEk` → `BV1PQ4j6oELC`（672秒，CID `43399184832`；原片时长 728，差 56 秒，低于阈值 `max(60, 8%)`）
+
+### 3. 指标前后变化（终点）
+- 完成处理 6201 不变；
+- 确认原片 1190→1194；
+- 覆盖率 18.44%→18.50%；
+- 发布版本 1635→1639；
+- 待审 5058→5054；
+- 尚需扩大 4→8；
+- 已扩大 94→222；
+- 元数据缺失 4960→4824；
+- 账本改动 136 条 = 确认 4 + 已扩大仍待审 128 + 网络错误 4。
+- 隔离原片 95→99（新增 `ZK3O402wf1c`、`GJCF-Ufapu8`、`hB6eY73sLV0`、`kjBOesZCoqc`）。
+
+### 4. 实播验证
+- `reports/playback-r4-batch.json`：4/4 通过，播放器时长与声明时长差 0，CID 一致；未做逐帧比较。
+
+### 5. 验收与交接状态
+- 验证：`npm test` 79 项 OK；`npm run test:browser` 15 场景 pass（originals 1194）；`pipeline check` PASS 1194 原片 / 1639 分P。
+- Grok Build 独立验收通过（`/workspace/youtobili-r4-logs/grok-review-r4.md`）。
+
+### 6. 遗留缺口与 search-health 原因核查
+- 第4轮遗留缺口：本 CONTINUATION 当时没写第4轮小节（现由第5轮补记）；`reports/search-health.json` 在提交 `6878072` 中被记为 `passed:false`。
+- `search-health` `passed:false` 原因（第5轮核查）：
+  - 该文件 `checked_at` 为 `2026-11-09T13:41:35Z`（北京时间 21:41，第4轮开跑前）。
+  - 三条查询都返回 `code 0`、各 20 条结果、未被拦截（`stopped:false`），只是第 2、3 条查询（How to Speak Patrick Winston → `BV1tU4y187xz`；3Blue1Brown 神经网络 → `BV1bx411M7Zx`）当次结果里没有预期视频，第 1 条命中。`passed` 规则要求三条都命中预期 BV。
+  - 第5轮开工时（2026-11-10 07:51 北京时间）原样重跑 `python3 scripts/search_health.py`，三条全部命中，`passed:true`，退出码 0。
+  - 结论：不是代码问题，也不是风控，而是 B 站游客搜索排序当时的临时波动；不改代码，`search-health.json` 已更新为本次通过的结果。
+  - 另注：第4轮在健康检查未通过的情况下仍开了批次，此后应先看健康检查再开批。
+
+## 2026-11-10 第5轮推进（continue-20261110-r5）
+
+- 分支 `continue-20261110-r5`，从 `origin/main` `9b3f8f2` 新建；日志位于 `/workspace/youtobili-r5-logs/`。
+- 起点：确认 1194 / 版本 1639；待审三类：尚需扩大 8 / 已扩大 222 / 元数据缺失 4824；完成处理 6201 / 6454；隔离原片 99。
+- 目标：强哥要求「继续开发，直到我让你暂停再整理并检查」。用循环脚本 `/workspace/youtobili-r5-logs/run-batches.sh` 不设截止时间反复跑 `match --expand-review --primary-first --limit 50 --delay 2 --exclude-vid...`；每批开始前检查暂停文件 `PAUSE`；遇 Blocked 硬停；连续 2 个错误批次休眠后再试；每 5 批本地提交一次；停下后补实播抽检、跑全部测试并补齐本小节结果。
