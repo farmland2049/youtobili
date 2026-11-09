@@ -1,0 +1,25 @@
+{
+  "checked_at": "2026-11-09T08:36:43Z",
+  "url": "https://farmland2049.github.io/youtobili/data.json",
+  "http_status": 200,
+  "data_sha256": "0c5e0f04d48a1fd470154c3a95fa91bda9459d25315a507409f539597f0dcb62",
+  "stats": {
+    "corpus": 6454,
+    "processed": 6154,
+    "confirmed": 1180,
+    "versions": 1625
+  },
+  "published_commit": "ee8defa",
+  "repository_url": "https://github.com/farmland2049/youtobili",
+  "verified_endpoints": [
+    {
+      "url": "https://farmland2049.github.io/youtobili/",
+      "http_status": 200
+    },
+    {
+      "url": "https://farmland2049.github.io/youtobili/data.json",
+      "http_status": 200,
+      "sha256_match": true
+    }
+  ]
+}
