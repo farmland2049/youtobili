@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T21:57:09.854380+00:00",
+  "updated_at": "2026-11-09T00:25:22.407997+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -64799,29 +64799,6 @@
           "pic": "https://i2.hdslb.com/bfs/archive/33f364b9f1a1d81eb7b78ed150e2bfe08aada25c.jpg",
           "checked_at": "2026-11-07T05:38:03.388901+00:00",
           "availability": "available"
-        },
-        {
-          "bvid": "BV13Em8YFEjg",
-          "status": "confirmed",
-          "reason": "explicit source URL, segment and duration verified",
-          "evidence": [
-            "explicit original URL or labeled YouTube ID in Bilibili description"
-          ],
-          "flags": [],
-          "page": 1,
-          "title": "达里奥·阿莫代伊，Anthropic的CEO，聊聊Claude、AGI以及人工智能和人类的未来——Lex Fridman播客第452期",
-          "up": "NulvraGr",
-          "duration": 18901,
-          "original_duration": 18901,
-          "cid": 26725911109,
-          "aid": 113469026279213,
-          "segment_title": "达里奥·阿莫代伊，Anthropic的CEO，聊聊Claude、AGI以及人工智能和人类的未来——Lex Fridman播客第452期",
-          "page_count": 1,
-          "kind": "original",
-          "views": 316,
-          "pic": "https://i1.hdslb.com/bfs/archive/fdeee92d099c5db157001ca684250afadea9b6aa.jpg",
-          "checked_at": "2026-11-08T13:05:14.316515+00:00",
-          "availability": "available"
         }
       ]
     },
@@ -73261,33 +73238,9 @@
     },
     "b2F-DItXtZs": {
       "vid": "b2F-DItXtZs",
-      "status": "confirmed",
+      "status": "review",
       "completed_at": "2026-11-08T20:42:07.592334+00:00",
-      "candidates": [
-        {
-          "bvid": "BV1eq4y1176K",
-          "status": "confirmed",
-          "evidence": [
-            "explicit original URL or labeled YouTube ID in Bilibili description"
-          ],
-          "flags": [],
-          "reason": "explicit source URL, segment and duration verified",
-          "page": 1,
-          "title": "【中文字幕】MongoDB is Web Scale",
-          "up": "GanlvTech",
-          "duration": 336,
-          "original_duration": 336,
-          "cid": 475075178,
-          "aid": 592756699,
-          "segment_title": "out",
-          "page_count": 1,
-          "kind": "sub_zh",
-          "views": 242,
-          "pic": "https://i2.hdslb.com/bfs/archive/d78c978ec90c709ef49406a17d3c51322ce7d8a0.jpg",
-          "checked_at": "2026-11-08T20:42:05.980209+00:00",
-          "availability": "available"
-        }
-      ]
+      "candidates": []
     },
     "b3dYS7PcAG4": {
       "vid": "b3dYS7PcAG4",

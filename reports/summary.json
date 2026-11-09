@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-08T21:57:09.794402+00:00",
+  "updated_at": "2026-11-09T00:25:22.320268+00:00",
   "corpus": 6454,
   "processed": 5842,
-  "confirmed": 1155,
-  "coverage": 0.1789587852494577,
-  "processed_match_rate": 0.19770626497774735,
+  "confirmed": 1154,
+  "coverage": 0.17880384257824605,
+  "processed_match_rate": 0.19753509072235537,
   "statuses": {
-    "confirmed": 1155,
-    "review": 4729,
+    "confirmed": 1154,
+    "review": 4730,
     "unmatched": 1
   },
   "not_processed": 612,
@@ -192,7 +192,7 @@
   ],
   "candidates": 203732,
   "review_expansion_pending": 196,
-  "expanded_reviews": 4533,
+  "expanded_reviews": 4534,
   "batch": {
     "id": "20261108T213119Z",
     "selected": 50,
@@ -318,13 +318,13 @@
     "attempted": 21,
     "unattempted": 29,
     "statuses": {
-      "confirmed": 3,
-      "review": 18
+      "review": 18,
+      "confirmed": 3
     }
   },
   "candidate_statuses": {
-    "review": 202129,
-    "confirmed": 1595,
+    "review": 202131,
+    "confirmed": 1593,
     "unmatched": 7,
     "invalid": 1
   },
@@ -378,12 +378,14 @@
     "no explicit original URL; manual identity review required; original duration unavailable": 31,
     "no explicit original URL; manual identity review required; original duration unavailable; collection segment identity requires review": 5,
     "no explicit original URL; manual identity review required; derivative content requires review; description links multiple originals": 1,
+    "playback smoke test duration mismatch (player media: 12202.1s vs expected: 18901s, diff: 6698.9s > 3s); review hold": 1,
     "request failed; availability unknown": 25,
     "": 443,
     "no explicit original URL; manual identity review required; conflicting years; possibly abridged": 6,
     "no explicit original URL; manual identity review required; conflicting years; conflicting episode; collection segment identity requires review": 2,
     "no explicit original URL; manual identity review required; conflicting years; derivative content requires review": 1,
     "no explicit original URL; manual identity review required; conflicting years; duration outside tolerance; description links multiple originals": 1,
-    "no explicit original URL; manual identity review required; derivative content requires review; duration outside tolerance; description links multiple originals": 1
+    "no explicit original URL; manual identity review required; derivative content requires review; duration outside tolerance; description links multiple originals": 1,
+    "playback smoke test duration mismatch (player media: 327.8s vs expected: 336s, diff: 8.2s > 3s); review hold": 1
   }
 }

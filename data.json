@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-08T21:57:09.828168+00:00",
+  "built_at": "2026-11-09T00:25:22.372461+00:00",
   "stats": {
     "corpus": 6454,
     "processed": 5842,
-    "confirmed": 1155,
-    "coverage": 0.1789587852494577,
-    "processed_match_rate": 0.19770626497774735
+    "confirmed": 1154,
+    "coverage": 0.17880384257824605,
+    "processed_match_rate": 0.19753509072235537
   },
   "areas": [
     {
@@ -44748,40 +44748,6 @@
       ]
     },
     {
-      "id": "b2F-DItXtZs",
-      "title": "Episode 1 - Mongo DB Is Web Scale",
-      "author": "gar1t",
-      "source_url": "https://www.youtube.com/watch?v=b2F-DItXtZs",
-      "summary": "A satirical animated dialogue in which a naive developer insists MongoDB is web scale while a database expert mocks him. It parodies the NoSQL versus relational debate.",
-      "why": "Posted as a classic meme whenever MongoDB, NoSQL hype or tech fads come up.",
-      "score": 0.0,
-      "tags": [
-        "mongodb",
-        "nosql",
-        "meme",
-        "web scale",
-        "databases"
-      ],
-      "categories": [
-        "satire-parody",
-        "databases-storage"
-      ],
-      "versions": [
-        {
-          "bvid": "BV1eq4y1176K",
-          "page": 1,
-          "cid": 475075178,
-          "title": "【中文字幕】MongoDB is Web Scale",
-          "up": "GanlvTech",
-          "duration": 336,
-          "kind": "sub_zh",
-          "views": 242,
-          "pic": "https://i2.hdslb.com/bfs/archive/d78c978ec90c709ef49406a17d3c51322ce7d8a0.jpg",
-          "checked_at": "2026-11-08T20:42:05.980209+00:00"
-        }
-      ]
-    },
-    {
       "id": "bZe5J8SVCYQ",
       "title": "The Missile Knows Where It Is...",
       "author": "Jeff7181",
@@ -45689,18 +45655,6 @@
           "views": 2140,
           "pic": "https://i2.hdslb.com/bfs/archive/33f364b9f1a1d81eb7b78ed150e2bfe08aada25c.jpg",
           "checked_at": "2026-11-07T05:38:03.388901+00:00"
-        },
-        {
-          "bvid": "BV13Em8YFEjg",
-          "page": 1,
-          "cid": 26725911109,
-          "title": "达里奥·阿莫代伊，Anthropic的CEO，聊聊Claude、AGI以及人工智能和人类的未来——Lex Fridman播客第452期",
-          "up": "NulvraGr",
-          "duration": 18901,
-          "kind": "original",
-          "views": 316,
-          "pic": "https://i1.hdslb.com/bfs/archive/fdeee92d099c5db157001ca684250afadea9b6aa.jpg",
-          "checked_at": "2026-11-08T13:05:14.316515+00:00"
         }
       ]
     },
@@ -47326,7 +47280,6 @@
     "BV1zx42127p1": "ap-BkkrRg-o",
     "BV1gD4y1o72p": "aqz-KE-bpKQ",
     "BV1QSM86fED4": "aqz-KE-bpKQ",
-    "BV1eq4y1176K": "b2F-DItXtZs",
     "BV1os4y1K7i7": "bZe5J8SVCYQ",
     "BV1P5411878N": "bZe5J8SVCYQ",
     "BV1Qx411R7NW": "buqtdpuZxvk",
@@ -47357,7 +47310,6 @@
     "BV1Vs41167e2": "sforhbLiwLA",
     "BV1xW411L75Y": "stXgn2iZAAY",
     "BV1JNSwB8EvF": "ugvHCXCOmm4",
-    "BV13Em8YFEjg": "ugvHCXCOmm4",
     "BV1sp4y1b7Qy": "wCDIYvFmgW8",
     "BV1KE411a74h": "y3RIHnK0_NE"
   }
