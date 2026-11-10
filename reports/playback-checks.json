@@ -1,100 +1,148 @@
 {
-  "checked_at": "2026-11-09T21:45:27.397Z",
+  "checked_at": "2026-11-10T21:31:45.386Z",
   "passed": true,
   "checks": [
     {
-      "sample": "JjDsP5n2kSM",
-      "kind": "original",
-      "id": "JjDsP5n2kSM",
-      "bvid": "BV1qs4y1h7yq",
+      "sample": "official_zh",
+      "kind": "official_zh",
+      "id": "fNk_zzaMoSs",
+      "bvid": "BV1Ys411k7yQ",
       "page": 1,
-      "cid": 1017935532,
+      "cid": 9720812,
       "playing": true,
       "media": {
         "readyState": 4,
-        "currentTime": 3.171526,
-        "duration": 4551,
+        "currentTime": 3.934175,
+        "duration": 591.8249999999999,
         "paused": false
       },
-      "expected_duration": 4551,
+      "expected_duration": 592,
       "duration_matches_segment": true,
       "requested_cids": [
-        "1017935532"
+        "9720812"
       ],
       "requested_cid_observed": true,
-      "visible_text": "关注\n分享\n更多\n0:00:04 / 1:15:51\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "visible_text": "【熟肉】线性代数的本质 - 01 - 向量究竟是什么？\n3Blue1Brown\n关注\n5.5万\n771\n分享\n更多\n00:04 / 09:52\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
       "passed": true,
       "issues": []
     },
     {
-      "sample": "5Ge2RcvDlgw",
-      "kind": "original",
-      "id": "5Ge2RcvDlgw",
-      "bvid": "BV1wu411D7C4",
+      "sample": "sub_zh",
+      "kind": "sub_zh",
+      "id": "Unzc731iCUY",
+      "bvid": "BV1JS4y1T7Qg",
       "page": 1,
-      "cid": 471602324,
+      "cid": 477124879,
       "playing": true,
       "media": {
         "readyState": 4,
-        "currentTime": 3.955424,
-        "duration": 1040,
+        "currentTime": 3.735774,
+        "duration": 3823,
         "paused": false
       },
-      "expected_duration": 1040,
+      "expected_duration": 3823,
       "duration_matches_segment": true,
       "requested_cids": [
-        "471602324"
+        "477124879"
       ],
       "requested_cid_observed": true,
-      "visible_text": "关注\n分享\n更多\n00:04 / 17:20\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "visible_text": "【公开课】【中文字幕】如何优雅的说话 麻省理工学院 Patrick Winston教授\nLoyalty_Royalty\n关注\n200\n5\n分享\n更多\n0:00:04 / 1:03:43\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
       "passed": true,
       "issues": []
     },
     {
-      "sample": "CTV-wwszGw8",
+      "sample": "original",
       "kind": "original",
-      "id": "CTV-wwszGw8",
-      "bvid": "BV1MZ4i6WEDS",
+      "id": "DovunOxlY1k",
+      "bvid": "BV19q4y127wt",
       "page": 1,
-      "cid": 43370087433,
+      "cid": 462421463,
       "playing": true,
       "media": {
         "readyState": 4,
-        "currentTime": 3.954807,
-        "duration": 1028,
+        "currentTime": 4.311883,
+        "duration": 1683,
         "paused": false
       },
-      "expected_duration": 1028,
+      "expected_duration": 1683,
       "duration_matches_segment": true,
       "requested_cids": [
-        "43370087433"
+        "462421463"
       ],
       "requested_cid_observed": true,
-      "visible_text": "关注\n分享\n更多\n00:04 / 17:08\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "visible_text": "直观理解电路-波动的相似性(AT&T Archives Similiarities of Wave Behavior)\nbili_50612407257\n关注\n15\n2\n分享\n更多\n00:05 / 28:03\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
       "passed": true,
       "issues": []
     },
     {
-      "sample": "JEYh5WACqEk",
-      "kind": "original",
-      "id": "JEYh5WACqEk",
-      "bvid": "BV1PQ4j6oELC",
+      "sample": "dub_zh",
+      "kind": "dub_zh",
+      "id": "aMcJ1Jvtef0",
+      "bvid": "BV1LaZ6Y4EQB",
       "page": 1,
-      "cid": 43399184832,
+      "cid": 29153692561,
       "playing": true,
       "media": {
         "readyState": 4,
-        "currentTime": 3.940592,
-        "duration": 672,
+        "currentTime": 4.313331,
+        "duration": 5180,
         "paused": false
       },
-      "expected_duration": 672,
+      "expected_duration": 5180,
       "duration_matches_segment": true,
       "requested_cids": [
-        "43399184832"
+        "29153692561"
       ],
       "requested_cid_observed": true,
-      "visible_text": "关注\n分享\n更多\n00:04 / 11:12\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "visible_text": "GDC16|中配|8位与“8位风格”图形：突破常规——8 Bit & '8 Bitish' Graphics-Outside the Box\n庸才的朽木\n关注\n18\n3\n分享\n更多\n0:00:05 / 1:26:20\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "short",
+      "kind": "official_zh",
+      "id": "fNk_zzaMoSs",
+      "bvid": "BV1Ys411k7yQ",
+      "page": 1,
+      "cid": 9720812,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.952992,
+        "duration": 591.8249999999999,
+        "paused": false
+      },
+      "expected_duration": 592,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "9720812"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【熟肉】线性代数的本质 - 01 - 向量究竟是什么？\n3Blue1Brown\n关注\n5.5万\n771\n分享\n更多\n00:04 / 09:52\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "collection",
+      "kind": "original",
+      "id": "66YRCjkxIcg",
+      "bvid": "BV1NJ411i7c2",
+      "page": 10,
+      "cid": 133678125,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.24564,
+        "duration": 553,
+        "paused": false
+      },
+      "expected_duration": 553,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "133678125"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "[搬运] Civil Engineering | Practical Engineering\n好想取个简单的昵称\n关注\n84\n3\n分享\n更多\n00:05 / 09:13\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
       "passed": true,
       "issues": []
     }

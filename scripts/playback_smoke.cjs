@@ -93,7 +93,14 @@ if (require.main === module) {
             e.play(), new Promise(resolve => setTimeout(resolve, 5000))
           ]));
         } catch { /* Record the observable result rather than assume success. */ }
-        await page.waitForTimeout(4000);
+        await page.waitForTimeout(1000);
+        try {
+          const isPaused = await frame.locator('video').first().evaluate(e => e.paused);
+          if (isPaused) {
+            await frame.locator('video').first().evaluate(e => e.play()).catch(() => {});
+          }
+        } catch { /* Record the observable result rather than assume success. */ }
+        await page.waitForTimeout(3000);
         const media = await frame.locator('video').first().evaluate(e => ({
           readyState: e.readyState, currentTime: e.currentTime, duration: e.duration, paused: e.paused, error: e.error?.code
         }));

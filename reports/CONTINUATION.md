@@ -782,3 +782,52 @@
 - 单元测试：79 项 Python 单元测试全部通过。
 - 浏览器场景测试：15 项端到端场景全部通过。
 - 分支合并准备就绪，合并至 `main`。
+
+## 2026-11-11 阶段增量（Round 8）
+
+### 1. 目标与执行
+- 承接 Round 7 基线（`2fff4c9`，确认原片 1217 条、1662 个版本）。
+- 启动 `continue-20261110-r8` 分支，按计划彻夜连续推进至 2026-11-11 05:30。
+- 连续执行 50 个批次（b1–b50）：
+  - b1–b7：针对此前未处理原片（not_processed）执行标准匹配，完成 204 条未处理原片处理，未处理数从 253 骤降至 49；直接发掘并确认多条具有显式 YouTube 原片来源的条目。
+  - b8–b50：针对历史待审条目执行扩大候选检查（6–20 候选）以及缺失元数据重新检索。
+- 全程严格遵守串行限速（2s 间隔）与风控熔断机制，0 触发 412 风控，0 触发登录限制。
+
+### 2. 新确认条目（共 15 条，每条简介均有明确对应 YouTube 原片链接，时长在容差内，实播全部通过）
+- `-DVyjdw4t9I` → `BV1towjedEH5` P1（sub_zh, 11751秒, CID 27910275410；[310] Python之父Guido van Rossum_编程的未来[中英精校]）
+- `1YFrISfN7jo` → `BV1Ht411m7PQ` P1（original, 967秒, CID 63414319；The Geometry of Causality _ Space Time）
+- `3pvpNKUPbIY` → `BV1hVreY4E5z` P1（sub_zh, 9879秒, CID 27769241858；[233] Instagram联合创始人Kevin Systrom_揭秘社交帝国[中英精校]）
+- `3wMKoSRbGVs` → `BV1RRrSYCEir` P1（sub_zh, 10376秒, CID 27742571718；[212] AI领域先驱Douglas Lenat_Cyc与常识推理的探索[中英精校]）
+- `F3Jd9GI6XqE` → `BV1FvfaYjEAV` P1（sub_zh, 10245秒, CID 28014479814；[381] 麻省理工学院教授Edward Gibson_人类语言、心理语言学、句法与LLMs[中英精校]）
+- `RGw6fXprV9U` → `BV1hD4y1Q7Up` P1（sub_zh, 1803秒, CID 207358802；【中英双字】制作铀玻璃 NileRed）
+- `ett_8wLJ87U` → `BV1Ys4y197Yy` P1（original, 3886秒, CID 1107596261；[BobbyBroccoli/字幕付] 那个伪造了人类克隆的男人 上篇）
+- `tWdgAMYjYSs` → `BV1Wo4y1d7KP` P1（original, 126秒, CID 294178447；Max Headroom WTTW Pirating Incident - 11_22_87）
+- `uASUHbFEhWY` → `BV1US4y167Uf` P1（original, 164秒, CID 518319054；名场面--10年前的动画预言了苹果眼镜的未来形态 - eyePhone）
+- `up863eQKGUI` → `BV1Sx41177nn` P1（original, 582秒, CID 25777269；【怀旧向】90年代版权保护宣传 Don't Copy That Floppy）
+- `vKA4w2O61Xo` → `BV1rB4y1T74j` P1（original, 285秒, CID 365094665；The Most Common Cognitive Bias）
+- `vjqt8T3tJIE` → `BV1Ad4y1z79J` P1（original, 1375秒, CID 839337026；[生肉]Did People Used To Look Older ?）
+- `wCrtk-pyP0I` → `BV1jb41187zL` P1（original, 496秒, CID 78187217；How Microwaving Grapes Makes Plasma 微波葡萄如何产生等离子体）
+- `y8OnoxKotPQ` → `BV1iq4y1574e` P1（original, 190秒, CID 427510459；Microservices）
+- `zyaocKS3sfg` → `BV1n7411J75n` P1（original, 1699秒, CID 152290940；亚当萨维奇的Spot人(?)力车-Adam Savage's Spot Robot Rickshaw Carriage!）
+
+### 3. 指标前后变化
+- 原片总库：6,454
+- 完成处理条数：6,201 → 6,405（+204）；
+- 未处理条数：253 → 49（-204）；
+- 确认原片：1,217 → 1,232（+15）；
+- 发布版本：1,662 → 1,677（+15）；
+- 全库覆盖率：18.86% → 19.09%（+0.23%）；
+- 检阅候选总数：13,239 → 102,682（+89,443 个候选持久化至 `data/confirmed.json` 候选总账）；
+- 已扩大检查仍待审核条目：1,128 → 3,487（+2,359）；
+- 待审中搜索元数据缺失需重新搜索条目：3,886 → 1,714（-2,172）。
+
+### 4. 实播验证与脚本加固
+- 实播检查：`reports/playback-r8-batch.json` 针对 15 个新增确认版本全量执行真实播放 smoke 检查，结果为 15/15 全部 PASSED，实测 CID 与时长差均符合规范（未做逐帧比较）。
+- 抽样基线检查：`reports/playback-checks.json` 对 6 种版本形态（official_zh, sub_zh, original, dub_zh, short, collection）全量运行，6/6 全部通过。
+- 脚本加固：优化 `scripts/playback_smoke.cjs`，增加判断在点击播放器后若因浏览器自动缓冲行为触发暂停则进行二次 `evaluate(e.play())` 保护，彻底杜绝假阴性误报。
+
+### 5. 验收与交接状态
+- 数据校验：`python3 scripts/pipeline.py check` 通过（1232 originals, 1677 verified segments）。
+- 单元测试：79 项 Python 单元测试全部通过。
+- 浏览器场景测试：15 项端到端场景全部通过（1232 条原片渲染正常）。
+- 分支合并准备就绪，合并至 `main`。

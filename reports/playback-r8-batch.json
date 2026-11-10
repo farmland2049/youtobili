@@ -1,0 +1,366 @@
+{
+  "checked_at": "2026-11-10T21:30:58.116Z",
+  "passed": true,
+  "checks": [
+    {
+      "sample": "-DVyjdw4t9I",
+      "kind": "sub_zh",
+      "id": "-DVyjdw4t9I",
+      "bvid": "BV1towjedEH5",
+      "page": 1,
+      "cid": 27910275410,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.312656,
+        "duration": 11751,
+        "paused": false
+      },
+      "expected_duration": 11751,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "27910275410"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "[310] Python之父Guido van Rossum_编程的未来[中英精校]\npodcast播客每天更新\n关注\n10\n4\n分享\n更多\n0:00:05 / 3:15:51\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "1YFrISfN7jo",
+      "kind": "original",
+      "id": "1YFrISfN7jo",
+      "bvid": "BV1Ht411m7PQ",
+      "page": 1,
+      "cid": 63414319,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.948426,
+        "duration": 967,
+        "paused": false
+      },
+      "expected_duration": 967,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "63414319"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "The Geometry of Causality _ Space Time\nbecomequantum\n关注\n0\n0\n分享\n更多\n00:04 / 16:07\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "3pvpNKUPbIY",
+      "kind": "sub_zh",
+      "id": "3pvpNKUPbIY",
+      "bvid": "BV1hVreY4E5z",
+      "page": 1,
+      "cid": 27769241858,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.317588,
+        "duration": 9879,
+        "paused": false
+      },
+      "expected_duration": 9879,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "27769241858"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "[233] Instagram联合创始人Kevin Systrom_揭秘社交帝国[中英精校]\npodcast播客每天更新\n关注\n4\n0\n分享\n更多\n0:00:05 / 2:44:39\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "3wMKoSRbGVs",
+      "kind": "sub_zh",
+      "id": "3wMKoSRbGVs",
+      "bvid": "BV1RRrSYCEir",
+      "page": 1,
+      "cid": 27742571718,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.312122,
+        "duration": 10376,
+        "paused": false
+      },
+      "expected_duration": 10376,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "27742571718"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "[212] AI领域先驱Douglas Lenat_Cyc与常识推理的探索[中英精校]\npodcast播客每天更新\n关注\n5\n0\n分享\n更多\n0:00:05 / 2:52:56\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "F3Jd9GI6XqE",
+      "kind": "sub_zh",
+      "id": "F3Jd9GI6XqE",
+      "bvid": "BV1FvfaYjEAV",
+      "page": 1,
+      "cid": 28014479814,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.302665,
+        "duration": 10245,
+        "paused": false
+      },
+      "expected_duration": 10245,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "28014479814"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "[381] 麻省理工学院教授Edward Gibson_人类语言、心理语言学、句法与LLMs[中英精校]\npodcast播客每天更新\n关注\n10\n2\n分享\n更多\n0:00:05 / 2:50:45\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "RGw6fXprV9U",
+      "kind": "sub_zh",
+      "id": "RGw6fXprV9U",
+      "bvid": "BV1hD4y1Q7Up",
+      "page": 1,
+      "cid": 207358802,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.959802,
+        "duration": 1803,
+        "paused": false
+      },
+      "expected_duration": 1803,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "207358802"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【中英双字】制作铀玻璃 NileRed\nSBAngel\n关注\n3004\n220\n分享\n更多\n00:04 / 30:03\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "ett_8wLJ87U",
+      "kind": "original",
+      "id": "ett_8wLJ87U",
+      "bvid": "BV1Ys4y197Yy",
+      "page": 1,
+      "cid": 1107596261,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.95454,
+        "duration": 3884.8,
+        "paused": false
+      },
+      "expected_duration": 3886,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1107596261"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "[BobbyBroccoli/字幕付] 那个伪造了人类克隆的男人 上篇 The man who faked human cloning\n令和第一只咸鱼\n关注\n37\n6\n分享\n更多\n0:00:04 / 1:04:45\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "tWdgAMYjYSs",
+      "kind": "original",
+      "id": "tWdgAMYjYSs",
+      "bvid": "BV1Wo4y1d7KP",
+      "page": 1,
+      "cid": 294178447,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.281009,
+        "duration": 126,
+        "paused": false
+      },
+      "expected_duration": 126,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "294178447"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Max Headroom WTTW Pirating Incident - 11_22_87 (Subtitled)-tWdgAMYjYSs\n账号已注销\n关注\n0\n1\n分享\n更多\n00:05 / 02:06\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "uASUHbFEhWY",
+      "kind": "original",
+      "id": "uASUHbFEhWY",
+      "bvid": "BV1US4y167Uf",
+      "page": 1,
+      "cid": 518319054,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.980544,
+        "duration": 164,
+        "paused": false
+      },
+      "expected_duration": 164,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "518319054"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "名场面--10年前的动画预言了苹果眼镜的未来形态 - eyePhone\n蔡子尤\n关注\n20\n3\n分享\n更多\n00:04 / 02:44\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "up863eQKGUI",
+      "kind": "original",
+      "id": "up863eQKGUI",
+      "bvid": "BV1Sx41177nn",
+      "page": 1,
+      "cid": 25777269,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.953202,
+        "duration": 582.077596,
+        "paused": false
+      },
+      "expected_duration": 582,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "25777269"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【怀旧向】90年代版权保护宣传 Don't Copy That Floppy，别复制那张软盘。\n疯鸡委员\n关注\n31\n3\n分享\n更多\n00:04 / 09:43\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "vKA4w2O61Xo",
+      "kind": "original",
+      "id": "vKA4w2O61Xo",
+      "bvid": "BV1rB4y1T74j",
+      "page": 1,
+      "cid": 365094665,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.960297,
+        "duration": 284,
+        "paused": false
+      },
+      "expected_duration": 285,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "365094665"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "The Most Common Cognitive Bias\nRoy0205816\n关注\n7\n0\n分享\n更多\n00:04 / 04:44\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "vjqt8T3tJIE",
+      "kind": "original",
+      "id": "vjqt8T3tJIE",
+      "bvid": "BV1Ad4y1z79J",
+      "page": 1,
+      "cid": 839337026,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.950025,
+        "duration": 1373.8970000000002,
+        "paused": false
+      },
+      "expected_duration": 1375,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "839337026"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "[生肉]Did People Used To Look Older ?\n苦杕氯化钠\n关注\n3\n0\n分享\n更多\n00:04 / 22:54\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "wCrtk-pyP0I",
+      "kind": "original",
+      "id": "wCrtk-pyP0I",
+      "bvid": "BV1jb41187zL",
+      "page": 1,
+      "cid": 78187217,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.23561,
+        "duration": 496,
+        "paused": false
+      },
+      "expected_duration": 496,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "78187217"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "How Microwaving Grapes Makes Plasma 微波葡萄如何产生等离子体 【不要模仿！！！】\npt_R\n关注\n40\n4\n分享\n更多\n00:05 / 08:16\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "y8OnoxKotPQ",
+      "kind": "original",
+      "id": "y8OnoxKotPQ",
+      "bvid": "BV1iq4y1574e",
+      "page": 1,
+      "cid": 427510459,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.964306,
+        "duration": 189,
+        "paused": false
+      },
+      "expected_duration": 190,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "427510459"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Microservices\nzimmer816\n关注\n0\n0\n分享\n更多\n00:04 / 03:09\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "zyaocKS3sfg",
+      "kind": "original",
+      "id": "zyaocKS3sfg",
+      "bvid": "BV1n7411J75n",
+      "page": 1,
+      "cid": 152290940,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.326122,
+        "duration": 1698,
+        "paused": false
+      },
+      "expected_duration": 1699,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "152290940"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "亚当萨维奇的Spot人(?)力车-Adam Savage's Spot Robot Rickshaw Carriage!\nエロの観测者\n关注\n4\n1\n分享\n更多\n00:05 / 28:18\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    }
+  ]
+}
