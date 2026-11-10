@@ -1,6 +1,6 @@
 # 匹配进展
 
-更新时间：2026-11-10T09:49:20.161237+00:00
+更新时间：2026-11-10T09:59:42.736678+00:00
 
 - 原片库：6454
 - 完成处理：6201
@@ -9,70 +9,39 @@
 - 已处理原片匹配率：19.59%
 - 状态：{'confirmed': 1217, 'review': 5031}
 
-- 待审中尚需扩大候选检查：16
-- 已扩大检查仍待审核：764
-- 待审中搜索元数据缺失（重建丢失，状态未知，需重新搜索）：4251
+- 待审中尚需扩大候选检查：17
+- 已扩大检查仍待审核：778
+- 待审中搜索元数据缺失（重建丢失，状态未知，需重新搜索）：4236
 
 ## 最近批次
 
 ```json
 {
-  "id": "20261110T092245Z",
+  "id": "20261110T095054Z",
   "selected": 50,
-  "completed": 50,
-  "errors": [],
+  "completed": 14,
+  "errors": [
+    {
+      "vid": "aHun58mz3vI",
+      "reason": "URLError"
+    }
+  ],
   "stopped": false,
   "originals": [
-    "6wBrOV2FJM8",
-    "7QmCUDHpNzE",
-    "7g1Acy5eGbE",
-    "8wlld3Z9wRc",
-    "92w5doU68D8",
-    "AbgsfeGvg3E",
-    "Ak4on5uTaTg",
-    "B5NULPSiOGw",
-    "Bkm2Vfj42FY",
-    "CCOdQsZa15o",
-    "CaPgDQkmqqM",
-    "Cym4TZwTCNU",
-    "DEcwa68f-jY",
-    "DRq2NgeFcO0",
-    "Dddbe9OuJLU",
-    "DsZdfnlh_d0",
-    "EOwxxsPaogY",
-    "EWX5B6cD4_4",
-    "F3ntGDm6hOs",
-    "FF-tKLISfPE",
-    "FihU5JxmnBg",
-    "G8cbIWMv0rI",
-    "GcJxRqTs5nk",
-    "HdHlfiOAJyE",
-    "Hvx4xXhZMrU",
-    "Hy4QjmKzF1c",
-    "Imquk_3oFf4",
-    "IrbJYsep45E",
-    "J-M98KLgaUU",
-    "KDRnEm-B3AI",
-    "KJe9H6qS82I",
-    "KPUlgSRn6e0",
-    "KTJs-0EInW8",
-    "KePNhUJ2reI",
-    "Ljzj9Msli5o",
-    "LtFyP0qy9XU",
-    "MBT1OK6VAIU",
-    "MRqh8oLY7Ik",
-    "MdmQUlD7P40",
-    "MkJkyMuBm3g",
-    "MsbiO8EAsGw",
-    "NP9AIUT9nos",
-    "NcOb3Dilzjc",
-    "P55t6eryY3g",
-    "P73REgj-3UE",
-    "P9M__yYbsZ4",
-    "PLyEO0jNt6M",
-    "PbmJkMhmrVI",
-    "Qam5BkXIEhQ",
-    "RQY6WGOoYis"
+    "RmIgJ64z6Y4",
+    "RrpajcAgR1E",
+    "RuCnZClWwpQ",
+    "Sx0J7dIlL7c",
+    "TlLIOgWYVpI",
+    "UEfP1OKKz_Q",
+    "Wp-WiNXH6hI",
+    "X1XoCQm5JSQ",
+    "XDM3MqHln8U",
+    "XUT8ec24anM",
+    "Z2DU0qLfPIY",
+    "_-mBeYC2KGc",
+    "_bP80DEAbuo",
+    "aDejwCGdUV8"
   ],
   "primary_first": true,
   "deferred_candidates": 0,
@@ -185,12 +154,12 @@
     "y4sOfO8Ei1g",
     "yg-UqIIvang"
   ],
-  "attempted": 50,
-  "unattempted": 0,
+  "attempted": 15,
+  "unattempted": 35,
   "statuses": {
-    "review": 50
+    "review": 15
   },
-  "candidate_count": 1886
+  "candidate_count": 560
 }
 ```
 
