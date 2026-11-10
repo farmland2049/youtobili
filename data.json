@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-09T21:44:51.011401+00:00",
+  "built_at": "2026-11-10T01:58:28.039065+00:00",
   "stats": {
     "corpus": 6454,
     "processed": 6201,
-    "confirmed": 1194,
-    "coverage": 0.18500154942671213,
-    "processed_match_rate": 0.19222706015158844
+    "confirmed": 1204,
+    "coverage": 0.18655097613882862,
+    "processed_match_rate": 0.19383970327366554
   },
   "areas": [
     {
@@ -5880,6 +5880,39 @@
       ]
     },
     {
+      "id": "1ffBJ4sVUb4",
+      "title": "[Linux.conf.au 2013] - Git For Ages 4 And Up",
+      "author": "HackersOnBoard",
+      "source_url": "https://www.youtube.com/watch?v=1ffBJ4sVUb4",
+      "summary": "A Linux.conf.au 2013 talk that explains git's internal model using a playful, toy-based approach. It presents git operations as operations on a graph of commits, aimed at people who find git confusing.",
+      "why": "HN repeatedly recommends it as the talk that finally makes git's data model click for beginners, despite its odd title.",
+      "score": 9.0,
+      "tags": [
+        "git",
+        "version control",
+        "commit graph",
+        "detached head",
+        "beginner"
+      ],
+      "categories": [
+        "testing-debugging-tools"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ux41167yX",
+          "page": 1,
+          "cid": 19152212,
+          "title": "Git for Ages 4 and Up",
+          "up": "渠泥Muddy",
+          "duration": 5983,
+          "kind": "original",
+          "views": 192,
+          "pic": "https://i0.hdslb.com/bfs/archive/87d537cf2a4f8a81d84823088a14a59f91d8609a.jpg",
+          "checked_at": "2026-11-09T23:57:22.927664+00:00"
+        }
+      ]
+    },
+    {
       "id": "60z_hpEAtD8",
       "title": "A Swift Introduction to Geometric Algebra",
       "author": "sudgylacmoe",
@@ -5978,6 +6011,74 @@
           "views": 564445,
           "pic": "https://i1.hdslb.com/bfs/archive/adcd085d594f79934838c75a82f209aaf8b6bc80.jpg",
           "checked_at": "2026-11-07T05:27:34.471779+00:00"
+        }
+      ]
+    },
+    {
+      "id": "T647CGsuOVU",
+      "title": "Imaginary Numbers Are Real [Part 1: Introduction]",
+      "author": "Welch Labs",
+      "source_url": "https://www.youtube.com/watch?v=T647CGsuOVU",
+      "summary": "The first part of Welch Labs' series on imaginary numbers, presenting them as the natural extension of the number line into two dimensions. It covers the history and the math with strong visuals.",
+      "why": "HN commenters rate the series as some of the best visual teaching on complex numbers and recommend it for building intuition.",
+      "score": 9.0,
+      "tags": [
+        "imaginary numbers",
+        "mathematics",
+        "visual math",
+        "math history",
+        "welch labs"
+      ],
+      "categories": [
+        "pure-mathematics",
+        "recreational-math"
+      ],
+      "versions": [
+        {
+          "bvid": "BV15K4y1Y7ar",
+          "page": 1,
+          "cid": 238675023,
+          "title": "虚数不虚【第一集 介绍】",
+          "up": "鲲鲲苯鲲",
+          "duration": 347,
+          "kind": "original",
+          "views": 639,
+          "pic": "https://i2.hdslb.com/bfs/archive/dd2db1e888c842b95dcfb164e3972e26bf1d1ed5.jpg",
+          "checked_at": "2026-11-10T00:00:07.883693+00:00"
+        }
+      ]
+    },
+    {
+      "id": "Tb823aqgX_0",
+      "title": "Bottom Up vs  Top Down Design in Clojure - Mark Bastian",
+      "author": "ClojureTV",
+      "source_url": "https://www.youtube.com/watch?v=Tb823aqgX_0",
+      "summary": "Mark Bastian contrasts top-down object-oriented design with bottom-up, data-oriented design in Clojure. He models a board game as plain data plus small composable functions and compares it with a roughly 22-class OOP version.",
+      "why": "HN repeatedly recommends it as the talk that made data-oriented, REPL-driven bottom-up design click.",
+      "score": 9.0,
+      "tags": [
+        "clojure",
+        "data-oriented design",
+        "oop vs functional",
+        "repl",
+        "board games"
+      ],
+      "categories": [
+        "functional-programming",
+        "software-architecture-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV16T411U78B",
+          "page": 1,
+          "cid": 1015774755,
+          "title": "Bottom Up vs  Top Down Design in Clojure - Mark Bastian",
+          "up": "dailyrain",
+          "duration": 2203,
+          "kind": "original",
+          "views": 38,
+          "pic": "https://i0.hdslb.com/bfs/archive/ea13be4cddea65606ab974b43291b029b40ce90e.jpg",
+          "checked_at": "2026-11-10T00:00:17.479791+00:00"
         }
       ]
     },
@@ -6259,6 +6360,41 @@
           "views": 948,
           "pic": "https://i0.hdslb.com/bfs/archive/40d8c55e212651ab500ad987fb6a54d3232203c0.jpg",
           "checked_at": "2026-11-07T05:27:35.460955+00:00"
+        }
+      ]
+    },
+    {
+      "id": "sGG-A80Tl5g",
+      "title": "Eating less Meat won't save the Planet. Here's Why",
+      "author": "Joseph Everett - WIL",
+      "source_url": "https://www.youtube.com/watch?v=sGG-A80Tl5g",
+      "summary": "Joseph Everett, with Dr. Frank Mitloehner, argues that eating less meat will not do much for the climate. He covers beef's water footprint, land and feed use, and methane.",
+      "why": "HN commenters recommend it as a counterpoint to claims about beef's environmental cost, though some critique its methane argument.",
+      "score": 9.0,
+      "tags": [
+        "beef",
+        "greenhouse gas emissions",
+        "water use",
+        "methane",
+        "diet and climate"
+      ],
+      "categories": [
+        "climate-debate-policy",
+        "environment-agriculture",
+        "nutrition-diet"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1jk4y1j7Pe",
+          "page": 1,
+          "cid": 1119058808,
+          "title": "少吃肉并不能拯救地球?",
+          "up": "蜜蜂智囊BeeSmart",
+          "duration": 1392,
+          "kind": "original",
+          "views": 23,
+          "pic": "https://i0.hdslb.com/bfs/archive/4f9e6b10d1d8939cf08a4ae3464269e0ee7b6453.jpg",
+          "checked_at": "2026-11-10T00:04:15.380567+00:00"
         }
       ]
     },
@@ -6645,6 +6781,41 @@
       ]
     },
     {
+      "id": "OoJsPvmFixU",
+      "title": "I Was SCARED To Say This To NASA... (But I said it anyway) - Smarter Every Day 293",
+      "author": "SmarterEveryDay",
+      "source_url": "https://www.youtube.com/watch?v=OoJsPvmFixU",
+      "summary": "Destin Sandlin of Smarter Every Day gives a talk to an aerospace audience, comparing how Apollo was engineered and managed with NASA's Artemis program. He raises concerns about unresolved details, the number of launches and in-orbit fuel transfer needed to reach the Moon, and the loss of institutional knowledge.",
+      "why": "Commenters point to it whenever Artemis, SLS or Starship refueling comes up, as a candid and critical engineering assessment delivered directly to NASA.",
+      "score": 8.5,
+      "tags": [
+        "artemis",
+        "apollo",
+        "nasa",
+        "spaceflight",
+        "engineering management",
+        "starship refueling"
+      ],
+      "categories": [
+        "space-exploration",
+        "management-leadership"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1sP7u6VETR",
+          "page": 1,
+          "cid": 39326322628,
+          "title": "我本来不敢对NASA说这些话，但我还是说了 每日更聪明293 - SmarterEveryDay",
+          "up": "黑纹白斑马",
+          "duration": 3614,
+          "kind": "original",
+          "views": 579,
+          "pic": "https://i2.hdslb.com/bfs/archive/8c664877ad5b61d767e7f39141e4f42c724bcdc8.png",
+          "checked_at": "2026-11-10T00:08:37.058324+00:00"
+        }
+      ]
+    },
+    {
       "id": "QPKKQnijnsM",
       "title": "Wealth Inequality in America",
       "author": "politizane",
@@ -6744,6 +6915,40 @@
           "views": 19,
           "pic": "https://i0.hdslb.com/bfs/archive/e34fb260901af35be4103e58ae0f129427bfb675.jpg",
           "checked_at": "2026-11-07T05:27:37.058285+00:00"
+        }
+      ]
+    },
+    {
+      "id": "m3svKOdZijA",
+      "title": "Hey Underscore, You're Doing It Wrong!",
+      "author": "InfoQ",
+      "source_url": "https://www.youtube.com/watch?v=m3svKOdZijA",
+      "summary": "Brian Lonsdorf explains why Underscore.js falls short as a functional programming library, then introduces currying, composition and point-free style in JavaScript. He argues for data-last argument ordering.",
+      "why": "A repeatedly recommended introduction to functional JavaScript that explains currying and why data should come last.",
+      "score": 8.5,
+      "tags": [
+        "currying",
+        "function composition",
+        "point-free",
+        "underscore.js",
+        "ramda"
+      ],
+      "categories": [
+        "functional-programming",
+        "web-development"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ey4y1Z7AW",
+          "page": 1,
+          "cid": 1016730180,
+          "title": "Hey Underscore, You're Doing It Wrong!",
+          "up": "dailyrain",
+          "duration": 2191,
+          "kind": "original",
+          "views": 70,
+          "pic": "https://i2.hdslb.com/bfs/archive/72609575511c99d681930d320aed53dd93c61470.jpg",
+          "checked_at": "2026-11-10T00:10:24.887136+00:00"
         }
       ]
     },
@@ -8542,6 +8747,40 @@
       ]
     },
     {
+      "id": "xt1KNDmOYqA",
+      "title": "Casey Muratori | Smart-Pointers, RAII, ZII? Becoming an N+2 programmer",
+      "author": "xDahl",
+      "source_url": "https://www.youtube.com/watch?v=xt1KNDmOYqA",
+      "summary": "Casey Muratori argues against smart pointers and RAII, advocating grouped-element thinking, zero-is-initialization and stubs as better ways to structure memory and handle errors.",
+      "why": "HN commenters in memory management and language design threads cite it as the best explanation of group lifetimes versus per-object ownership.",
+      "score": 7.5,
+      "tags": [
+        "raii",
+        "smart pointers",
+        "zero is initialization",
+        "arena allocation",
+        "casey muratori"
+      ],
+      "categories": [
+        "systems-programming-languages",
+        "software-architecture-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1rH4y1w7sq",
+          "page": 1,
+          "cid": 1614944674,
+          "title": "Smart-Pointers, RAII, OOP？ Becoming an N+2 programmer | Casey Muratori",
+          "up": "帆影",
+          "duration": 1813,
+          "kind": "original",
+          "views": 594,
+          "pic": "https://i1.hdslb.com/bfs/archive/0ab564ec4684bc58f3031aa3e3f5a7211a842f65.jpg",
+          "checked_at": "2026-11-10T00:42:56.077361+00:00"
+        }
+      ]
+    },
+    {
       "id": "zNVQfWC_evg",
       "title": "Quantum Fields: The Real Building Blocks of the Universe - with David Tong",
       "author": "The Royal Institution",
@@ -9078,6 +9317,40 @@
       ]
     },
     {
+      "id": "G_eYTctGZw8",
+      "title": "\"Production Prolog\" by Michael Hendricks",
+      "author": "Strange Loop Conference",
+      "source_url": "https://www.youtube.com/watch?v=G_eYTctGZw8",
+      "summary": "Michael Hendricks of PriceCharting shares tricks and pain points from running Prolog in production for 18 months at Strange Loop. It argues Prolog is a productive modern language beyond logic puzzles, and includes a demo of changing code mid-execution.",
+      "why": "It is the go-to answer to whether Prolog is used for real-world work, praised as a survey of its uses, advantages and drawbacks.",
+      "score": 7.0,
+      "tags": [
+        "prolog",
+        "logic programming",
+        "strange loop",
+        "swi-prolog",
+        "web development"
+      ],
+      "categories": [
+        "functional-programming",
+        "programming-language-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Ka411v7qK",
+          "page": 1,
+          "cid": 575831787,
+          "title": "\"Production Prolog\" by Michael Hendricks",
+          "up": "AnswerZero",
+          "duration": 2398,
+          "kind": "original",
+          "views": 42,
+          "pic": "https://i2.hdslb.com/bfs/archive/9271655f30e448ea22968ea22cd68dac18559e2d.jpg",
+          "checked_at": "2026-11-10T00:51:47.985685+00:00"
+        }
+      ]
+    },
+    {
       "id": "HQYsFshbkYw",
       "title": "Creating a Doom-style 3D engine in C",
       "author": "Bisqwit",
@@ -9384,6 +9657,40 @@
           "views": 1514,
           "pic": "https://i0.hdslb.com/bfs/archive/3f42d46a3a4206b0319965f147058f7368945a8a.jpg",
           "checked_at": "2026-11-07T05:27:38.691742+00:00"
+        }
+      ]
+    },
+    {
+      "id": "bHIhgxav9LY",
+      "title": "The Biggest Misconception About Electricity",
+      "author": "Veritasium",
+      "source_url": "https://www.youtube.com/watch?v=bHIhgxav9LY",
+      "summary": "Veritasium argues that electric energy is carried by fields around the wires rather than by electrons moving through them, using a thought experiment with a large circuit.",
+      "why": "Often recommended as an eye-opening field-based explanation of electricity, though it was also controversial and criticized as pedantic.",
+      "score": 7.0,
+      "tags": [
+        "electricity",
+        "poynting vector",
+        "fields",
+        "circuits",
+        "physics"
+      ],
+      "categories": [
+        "fundamental-physics",
+        "everyday-physics-demos"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Bxno65EEw",
+          "page": 1,
+          "cid": 43079238333,
+          "title": "电不是这样流动的：你对电的最大误解",
+          "up": "njdkd",
+          "duration": 888,
+          "kind": "original",
+          "views": 12,
+          "pic": "https://i2.hdslb.com/bfs/archive/ce0014baf663ce8de2d8189c76f385d9515b66cd.jpg",
+          "checked_at": "2026-11-10T01:40:17.160623+00:00"
         }
       ]
     },
@@ -9791,6 +10098,42 @@
           "views": 22,
           "pic": "https://i0.hdslb.com/bfs/archive/ee0ab2ffd093ce3e20b340e660e69d0f77dead0a.jpg",
           "checked_at": "2026-11-07T05:27:37.839798+00:00"
+        }
+      ]
+    },
+    {
+      "id": "tISy7EJQPzI",
+      "title": "CppCon 2017: Titus Winters “C++ as a \"Live at Head\" Language”",
+      "author": "CppCon",
+      "source_url": "https://www.youtube.com/watch?v=tISy7EJQPzI",
+      "summary": "Titus Winters' CppCon 2017 talk argues for C++ and Google's Abseil to be maintained as a live at head language, relying on testing and automated tooling rather than never changing or promising no compatibility. It covers Hyrum's law and the limits of semantic versioning.",
+      "why": "Recommended whenever versioning, semver, monorepos and backward compatibility are debated, for its nuanced treatment of dependencies.",
+      "score": 7.0,
+      "tags": [
+        "live at head",
+        "semver",
+        "hyrum's law",
+        "monorepo",
+        "abseil",
+        "c++"
+      ],
+      "categories": [
+        "software-architecture-design",
+        "systems-programming-languages",
+        "testing-debugging-tools"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Ex411V7Sv",
+          "page": 1,
+          "cid": 24335235,
+          "title": "CppCon 2017: Titus Winters “C++ as a \"Live at Head\" Language”",
+          "up": "Kirito桐人w",
+          "duration": 5473,
+          "kind": "original",
+          "views": 103,
+          "pic": "https://i1.hdslb.com/bfs/archive/2e90decf27c32395ac07b252dc32f29395fb467f.jpg",
+          "checked_at": "2026-11-10T01:47:39.629997+00:00"
         }
       ]
     },
@@ -47371,9 +47714,12 @@
     "BV1rgxhzTEFJ": "xx7Lfh5SKUQ",
     "BV1zZ4y1H7np": "0fKBhvDjuy0",
     "BV1TM411G7Du": "0fKBhvDjuy0",
+    "BV1ux41167yX": "1ffBJ4sVUb4",
     "BV1R54y167is": "60z_hpEAtD8",
     "BV1PC4y1u7Ek": "CZIINXhGDcs",
     "BV17W411a74F": "OkmNXy7er84",
+    "BV15K4y1Y7ar": "T647CGsuOVU",
+    "BV16T411U78B": "Tb823aqgX_0",
     "BV1xG41127Bs": "XZ3w_jec1v8",
     "BV1YT42197i6": "h6fcK_fRYaI",
     "BV16J411N76T": "h6fcK_fRYaI",
@@ -47386,6 +47732,7 @@
     "BV12J411m731": "oIG9ztQw2Gc",
     "BV15E41167JT": "pW-SOdj4Kkk",
     "BV1MJ411J7jd": "pW-SOdj4Kkk",
+    "BV1jk4y1j7Pe": "sGG-A80Tl5g",
     "BV1gA411v7Do": "tIuj-oMN-Fk",
     "BV1o4411C7Xg": "tIuj-oMN-Fk",
     "BV1wF336AEFa": "tIuj-oMN-Fk",
@@ -47399,9 +47746,11 @@
     "BV1dd4y117ZS": "8Ab3ArE8W3s",
     "BV12N411H7Sr": "EYPapE-3FRw",
     "BV16f4y1u7rZ": "I8Xc2_FtpHI",
+    "BV1sP7u6VETR": "OoJsPvmFixU",
     "BV1gW411J7pW": "QPKKQnijnsM",
     "BV1Dt411e7Rc": "fD2briZ6fB0",
     "BV1Ct4y1h77W": "gCWtkvDQ2ZI",
+    "BV1ey4y1Z7AW": "m3svKOdZijA",
     "BV1U36eB5EDb": "pTn6Ewhb27k",
     "BV1hN411Z7i2": "prXuyMCgbTc",
     "BV1jPVdzNEqe": "prXuyMCgbTc",
@@ -47471,6 +47820,7 @@
     "BV14p4y1h7mb": "wrwgIjBUYVc",
     "BV1eP41197kY": "wupToqz1e2g",
     "BV1pt411o7Y3": "wxL4ElboiuA",
+    "BV1rH4y1w7sq": "xt1KNDmOYqA",
     "BV1k4411U758": "zNVQfWC_evg",
     "BV1AU421o7ob": "zjkBMFhNj_g",
     "BV1jQpL6AEvh": "zjkBMFhNj_g",
@@ -47495,6 +47845,7 @@
     "BV1iB4y1A7KW": "Dp-mQ3HxgDE",
     "BV18P41117hK": "Dp-mQ3HxgDE",
     "BV1PE411b7uD": "GOGru_4z1Vc",
+    "BV1Ka411v7qK": "G_eYTctGZw8",
     "BV1vS411P74C": "HQYsFshbkYw",
     "BV1wt411y7Da": "JEpsBg0AO6o",
     "BV1iy4y1N7NX": "JEpsBg0AO6o",
@@ -47508,6 +47859,7 @@
     "BV11H9EBbEk9": "RNFesa01llk",
     "BV1cJ411v7nq": "RNFesa01llk",
     "BV165411N7QE": "ZWQ0591PAxM",
+    "BV1Bxno65EEw": "bHIhgxav9LY",
     "BV1jx41137Lj": "bSkpMdDe4g4",
     "BV11D4y137Se": "bSkpMdDe4g4",
     "BV1K4411D7Jb": "cCOL7MC4Pl0",
@@ -47525,6 +47877,7 @@
     "BV1eM411J7A7": "qI_g07C_Q5I",
     "BV1qWbb6nEgF": "qI_g07C_Q5I",
     "BV1VC41157BU": "rFejpH_tAHM",
+    "BV1Ex411V7Sv": "tISy7EJQPzI",
     "BV1sW411B7QR": "u4ZoJKF_VuA",
     "BV1ha7p6hE5J": "wdgULBpRoXk",
     "BV1HZ7f6JE5S": "xP5-iIeKXE8",
