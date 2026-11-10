@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T03:32:29.639015+00:00",
+  "updated_at": "2026-11-10T07:00:54.740069+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -4864,9 +4864,41 @@
     },
     "AmgkSdhK4K8": {
       "vid": "AmgkSdhK4K8",
-      "status": "review",
-      "completed_at": "2026-11-04T08:01:19.058002+00:00",
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-10T04:00:02.134388+00:00",
+      "candidates": [
+        {
+          "bvid": "BV161UUBdEaJ",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description",
+            "exact original YouTube ID explicitly associated with selected segment"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Who cares about topology?   (Old version) [3Blue1Brown - Videos]",
+          "up": "vector090_",
+          "duration": 990,
+          "original_duration": 990,
+          "cid": 34252392672,
+          "aid": 115609631200190,
+          "segment_title": "AmgkSdhK4K8",
+          "page_count": 1,
+          "kind": "original",
+          "views": 12,
+          "pic": "https://i1.hdslb.com/bfs/archive/4a254d84b0d5a4a95b12639a167663cee9781252.jpg",
+          "checked_at": "2026-11-10T04:00:01.908481+00:00",
+          "availability": "available"
+        }
+      ],
+      "searched_at": "2026-11-10T04:00:00.095267+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Who cares about topology?   (Old version)",
+        "3Blue1Brown Who cares about topology?   (Old version)"
+      ],
+      "search_result_limit": 20
     },
     "gB9n2gHsHN4": {
       "vid": "gB9n2gHsHN4",
@@ -9874,8 +9906,15 @@
     "GTQnarzmTOc": {
       "vid": "GTQnarzmTOc",
       "status": "review",
-      "completed_at": "2026-11-04T13:20:30.118757+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:24:24.214701+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:24:05.619140+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Fight of the Century: Keynes vs. Hayek - Economics Rap Battle Round Two",
+        "Radical Discourse Fight of the Century: Keynes vs. Hayek - Economics Rap Battle Round Two"
+      ],
+      "search_result_limit": 20
     },
     "YQ_xWvX1n9g": {
       "vid": "YQ_xWvX1n9g",
@@ -13099,9 +13138,40 @@
     },
     "XvDZLjaCJuw": {
       "vid": "XvDZLjaCJuw",
-      "status": "review",
-      "completed_at": "2026-11-04T13:46:11.334602+00:00",
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-10T05:13:13.621176+00:00",
+      "candidates": [
+        {
+          "bvid": "BV19W411U7vZ",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "UNIX Making Computers Easier To Use -- AT%26T Archives film from 1982, Bell Labo",
+          "up": "软件那些事儿",
+          "duration": 1419,
+          "original_duration": 1419,
+          "cid": 57000379,
+          "aid": 32574175,
+          "segment_title": "UNIX Making Computers Easier To Use -- AT%26T Archives film from 1982, Bell Labo",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1586,
+          "pic": "https://i1.hdslb.com/bfs/archive/e027bd81b51dc5726f2f6dc16e1b08c4dbff3e8c.jpg",
+          "checked_at": "2026-11-10T05:13:13.385360+00:00",
+          "availability": "available"
+        }
+      ],
+      "searched_at": "2026-11-10T05:13:09.866645+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories",
+        "AT&T Tech Channel UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories"
+      ],
+      "search_result_limit": 20
     },
     "htYh-Tq7ZBI": {
       "vid": "htYh-Tq7ZBI",
@@ -16356,8 +16426,15 @@
     "uOSnQM1Zu4w": {
       "vid": "uOSnQM1Zu4w",
       "status": "review",
-      "completed_at": "2026-11-04T15:02:01.484968+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:56:50.819098+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:56:32.433588+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "What Is A Black Start Of The Power Grid?",
+        "Practical Engineering What Is A Black Start Of The Power Grid?"
+      ],
+      "search_result_limit": 20
     },
     "J3FcbFqSoQY": {
       "vid": "J3FcbFqSoQY",
@@ -23484,8 +23561,15 @@
     "DOWDNBu9DkU": {
       "vid": "DOWDNBu9DkU",
       "status": "review",
-      "completed_at": "2026-11-04T22:48:45.025088+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:22:35.918611+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:22:05.571731+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Amazing Invention- This Drone Will Change Everything",
+        "Mark Rober Amazing Invention- This Drone Will Change Everything"
+      ],
+      "search_result_limit": 20
     },
     "8SF_h3xF3cE": {
       "vid": "8SF_h3xF3cE",
@@ -25964,8 +26048,15 @@
     "9eyFDBPk4Yw": {
       "vid": "9eyFDBPk4Yw",
       "status": "review",
-      "completed_at": "2026-11-04T23:28:06.835452+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T03:59:26.111268+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T03:58:16.246908+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Admiral Grace Hopper Explains the Nanosecond",
+        "funbury Admiral Grace Hopper Explains the Nanosecond"
+      ],
+      "search_result_limit": 20
     },
     "9yjZpBq1XBE": {
       "vid": "9yjZpBq1XBE",
@@ -26000,8 +26091,15 @@
     "APZCfmgzoS0": {
       "vid": "APZCfmgzoS0",
       "status": "review",
-      "completed_at": "2026-11-04T23:28:33.203068+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T03:59:51.946397+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T03:59:34.525721+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Fasting vs. Eating Less: What's the Difference? (Science of Fasting)",
+        "Joseph Everett - WIL Fasting vs. Eating Less: What's the Difference? (Science of Fasting)"
+      ],
+      "search_result_limit": 20
     },
     "AW3gaelBypY": {
       "vid": "AW3gaelBypY",
@@ -26036,68 +26134,145 @@
     "AyOAjFNPAbA": {
       "vid": "AyOAjFNPAbA",
       "status": "review",
-      "completed_at": "2026-11-04T23:29:00.962548+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:00:33.196017+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:00:10.796099+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "AWS re:Invent 2016: Tuesday Night Live with James Hamilton",
+        "Amazon Web Services AWS re:Invent 2016: Tuesday Night Live with James Hamilton"
+      ],
+      "search_result_limit": 20
     },
     "BickMFHAZR0": {
       "vid": "BickMFHAZR0",
       "status": "review",
-      "completed_at": "2026-11-04T23:29:33.209533+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:01:24.796364+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:00:41.364043+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "How Trees Bend the Laws of Physics",
+        "Veritasium How Trees Bend the Laws of Physics"
+      ],
+      "search_result_limit": 20
     },
     "CaCcOwJPytQ": {
       "vid": "CaCcOwJPytQ",
       "status": "review",
-      "completed_at": "2026-11-04T23:30:22.173634+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:02:41.669880+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:01:33.139389+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Special Topics - The Kalman Filter (1 of 55) What is a Kalman Filter?",
+        "Michel van Biezen Special Topics - The Kalman Filter (1 of 55) What is a Kalman Filter?"
+      ],
+      "search_result_limit": 20
     },
     "DkGMY63FF3Q": {
       "vid": "DkGMY63FF3Q",
       "status": "review",
-      "completed_at": "2026-11-04T23:30:56.852439+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:03:46.381597+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:02:50.198121+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Compost-Fueled Cars: Wouldn't That Be Great? - Onion Talks - Ep. 1",
+        "The Onion Compost-Fueled Cars: Wouldn't That Be Great? - Onion Talks - Ep. 1"
+      ],
+      "search_result_limit": 20
     },
     "Eco2s3-0zsQ": {
       "vid": "Eco2s3-0zsQ",
       "status": "review",
-      "completed_at": "2026-11-04T23:31:27.815197+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:04:24.614096+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:03:54.650698+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Joe Rogan Experience #1361 - Cmdr. David Fravor & Jeremy Corbell",
+        "PowerfulJRE Joe Rogan Experience #1361 - Cmdr. David Fravor & Jeremy Corbell"
+      ],
+      "search_result_limit": 20
     },
     "En_2T7KH6RA": {
       "vid": "En_2T7KH6RA",
       "status": "review",
-      "completed_at": "2026-11-04T23:31:56.119949+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:05:09.505907+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:04:32.950740+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Ted Nelson demonstrates Xanadu Space",
+        "photonhunter Ted Nelson demonstrates Xanadu Space"
+      ],
+      "search_result_limit": 20
     },
     "FnEWBtCnFs8": {
       "vid": "FnEWBtCnFs8",
       "status": "review",
-      "completed_at": "2026-11-04T23:32:11.240213+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:05:23.452731+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:05:17.753458+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "2 1 1 Jason Scott   Rescuing The Prince of Persia from the sands of time",
+        "Adrian Crenshaw 2 1 1 Jason Scott   Rescuing The Prince of Persia from the sands of time"
+      ],
+      "search_result_limit": 20
     },
     "G0R09YzyuCI": {
       "vid": "G0R09YzyuCI",
       "status": "review",
-      "completed_at": "2026-11-04T23:32:21.169561+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:05:31.895276+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:05:31.895229+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Collapse of Complex Societies by Dr. Joseph Tainter",
+        "vlada888 Collapse of Complex Societies by Dr. Joseph Tainter"
+      ],
+      "search_result_limit": 20
     },
     "GNO_CYUjMK8": {
       "vid": "GNO_CYUjMK8",
       "status": "review",
-      "completed_at": "2026-11-04T23:32:36.387067+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:06:03.241709+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:05:40.550098+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "[JSConfUS 2013] Steven Wittens: Making WebGL Dance",
+        "JSConf [JSConfUS 2013] Steven Wittens: Making WebGL Dance"
+      ],
+      "search_result_limit": 20
     },
     "GVsUOuSjvcg": {
       "vid": "GVsUOuSjvcg",
       "status": "review",
-      "completed_at": "2026-11-04T23:32:52.824346+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:06:28.842231+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:06:11.931811+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Future Computers Will Be Radically Different (Analog Computing)",
+        "Veritasium Future Computers Will Be Radically Different (Analog Computing)"
+      ],
+      "search_result_limit": 20
     },
     "GnBbhXBDmwU": {
       "vid": "GnBbhXBDmwU",
       "status": "review",
-      "completed_at": "2026-11-04T23:33:09.280558+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:06:48.131839+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:06:37.707303+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "LibreSSL with Bob Beck",
+        "Jason Tubnor LibreSSL with Bob Beck"
+      ],
+      "search_result_limit": 20
     },
     "GoW8Tf7hTGA": {
       "vid": "GoW8Tf7hTGA",
@@ -26224,44 +26399,93 @@
     "GqmsQeSzMdw": {
       "vid": "GqmsQeSzMdw",
       "status": "review",
-      "completed_at": "2026-11-04T23:33:27.071831+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:07:12.040660+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:06:56.834637+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Constraints Liberate, Liberties Constrain — Runar Bjarnason",
+        "Scala World Constraints Liberate, Liberties Constrain — Runar Bjarnason"
+      ],
+      "search_result_limit": 20
     },
     "HLRdruqQfRk": {
       "vid": "HLRdruqQfRk",
       "status": "review",
-      "completed_at": "2026-11-04T23:33:39.090083+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:07:26.157499+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:07:20.397779+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Uppestcase and Lowestcase Letters  [advances in derp learning]",
+        "suckerpinch Uppestcase and Lowestcase Letters  [advances in derp learning]"
+      ],
+      "search_result_limit": 20
     },
     "Hqw57GJSrac": {
       "vid": "Hqw57GJSrac",
       "status": "review",
-      "completed_at": "2026-11-04T23:33:51.583707+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:07:40.570259+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:07:34.534026+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Cliff Click @ VMSS16: Bits of Advice For the VM Writer",
+        "softdevteamuk Cliff Click @ VMSS16: Bits of Advice For the VM Writer"
+      ],
+      "search_result_limit": 20
     },
     "ISAKc9gpGjw": {
       "vid": "ISAKc9gpGjw",
       "status": "review",
-      "completed_at": "2026-11-04T23:34:04.134653+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:07:57.635465+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:07:48.927784+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Why Vertical Farming Won't Save the Planet",
+        "Utah State University Extension Why Vertical Farming Won't Save the Planet"
+      ],
+      "search_result_limit": 20
     },
     "IgF3OX8nT0w": {
       "vid": "IgF3OX8nT0w",
       "status": "review",
-      "completed_at": "2026-11-04T23:34:23.156727+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:08:41.629048+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:08:06.053323+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Most Powerful Computers You've Never Heard Of",
+        "Veritasium The Most Powerful Computers You've Never Heard Of"
+      ],
+      "search_result_limit": 20
     },
     "JOLtS4VUcvQ": {
       "vid": "JOLtS4VUcvQ",
       "status": "review",
-      "completed_at": "2026-11-04T23:34:34.539773+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:09:01.876501+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:08:49.398466+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Spinning Levers - How A Transmission Works (1936)",
+        "US Auto Industry Spinning Levers - How A Transmission Works (1936)"
+      ],
+      "search_result_limit": 20
     },
     "KAWA1DuvCnQ": {
       "vid": "KAWA1DuvCnQ",
       "status": "review",
-      "completed_at": "2026-11-04T23:35:01.376762+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:09:38.714859+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:09:10.578312+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Dconf 2014 Day 2 Keynote: The Last Thing D Needs -- Scott Meyers",
+        "The D Language Foundation Dconf 2014 Day 2 Keynote: The Last Thing D Needs -- Scott Meyers"
+      ],
+      "search_result_limit": 20
     },
     "KTzGBJPuJwM": {
       "vid": "KTzGBJPuJwM",
@@ -26320,104 +26544,224 @@
     "LKnqECcg6Gw": {
       "vid": "LKnqECcg6Gw",
       "status": "review",
-      "completed_at": "2026-11-04T23:35:40.695460+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:10:33.058735+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:09:47.080439+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Computer Color is Broken",
+        "minutephysics Computer Color is Broken"
+      ],
+      "search_result_limit": 20
     },
     "MijmeoH9LT4": {
       "vid": "MijmeoH9LT4",
       "status": "review",
-      "completed_at": "2026-11-04T23:36:05.053507+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:11:14.240094+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:10:40.943263+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Characters, Symbols and the Unicode Miracle - Computerphile",
+        "Computerphile Characters, Symbols and the Unicode Miracle - Computerphile"
+      ],
+      "search_result_limit": 20
     },
     "NHopJHSlVo4": {
       "vid": "NHopJHSlVo4",
       "status": "review",
       "completed_at": "2026-11-04T23:36:48.918263+00:00",
-      "candidates": []
+      "candidates": [],
+      "searched_at": "2026-11-10T04:11:23.082088+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Keep your goals to yourself | Derek Sivers",
+        "TED Keep your goals to yourself | Derek Sivers"
+      ],
+      "search_result_limit": 20,
+      "last_error": "URLError"
     },
     "NRoUC9P1PmA": {
       "vid": "NRoUC9P1PmA",
       "status": "review",
-      "completed_at": "2026-11-04T23:36:57.528946+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:44:48.800653+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:44:46.473993+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "ZFS: The Last Word in File Systems Part 1",
+        "Deirdré Straughan ZFS: The Last Word in File Systems Part 1"
+      ],
+      "search_result_limit": 20
     },
     "NVl9_6J1G60": {
       "vid": "NVl9_6J1G60",
       "status": "review",
-      "completed_at": "2026-11-04T23:37:06.153769+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:45:03.172280+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:44:56.647869+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Breakout Session Presented by Dan Robinson of Heap at PGConf Silicon Valley 2015",
+        "Citus Data Breakout Session Presented by Dan Robinson of Heap at PGConf Silicon Valley 2015"
+      ],
+      "search_result_limit": 20
     },
     "NlIdzF1_b5M": {
       "vid": "NlIdzF1_b5M",
       "status": "review",
-      "completed_at": "2026-11-04T23:37:27.814169+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:45:45.387017+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:45:11.288833+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Big Plane vs Little Plane (The Economics of Long-Haul Flights)",
+        "Wendover Productions Big Plane vs Little Plane (The Economics of Long-Haul Flights)"
+      ],
+      "search_result_limit": 20
     },
     "ORp3q1Oaezw": {
       "vid": "ORp3q1Oaezw",
       "status": "review",
-      "completed_at": "2026-11-04T23:37:50.773411+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:46:26.132183+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:45:54.678416+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Why I, as a black man, attend KKK rallies. | Daryl Davis | TEDxNaperville",
+        "TEDx Talks Why I, as a black man, attend KKK rallies. | Daryl Davis | TEDxNaperville"
+      ],
+      "search_result_limit": 20
     },
     "OUNXFHpUhu8": {
       "vid": "OUNXFHpUhu8",
       "status": "review",
-      "completed_at": "2026-11-04T23:38:02.038547+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:46:38.634206+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:46:34.722354+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Parking Laws Are Strangling America | Climate Town",
+        "Climate Town Parking Laws Are Strangling America | Climate Town"
+      ],
+      "search_result_limit": 20
     },
     "P3AyI_u66Bw": {
       "vid": "P3AyI_u66Bw",
       "status": "review",
-      "completed_at": "2026-11-04T23:38:19.861920+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:47:16.411407+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:46:46.558014+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Larry Hastings - Removing Python's GIL: The Gilectomy - PyCon 2016",
+        "PyCon 2016 Larry Hastings - Removing Python's GIL: The Gilectomy - PyCon 2016"
+      ],
+      "search_result_limit": 20
     },
     "PE4gwstWhmc": {
       "vid": "PE4gwstWhmc",
       "status": "review",
-      "completed_at": "2026-11-04T23:38:28.437482+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:47:34.267476+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:47:25.014320+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "How We've Scaled Dropbox",
+        "Stanford How We've Scaled Dropbox"
+      ],
+      "search_result_limit": 20
     },
     "PJy8vTu66tE": {
       "vid": "PJy8vTu66tE",
       "status": "review",
-      "completed_at": "2026-11-04T23:38:43.760537+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:48:00.312608+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:47:42.595362+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Our democracy no longer represents the people. Here's how we fix it | Larry Lessig | TEDxMidAtlantic",
+        "TEDx Talks Our democracy no longer represents the people. Here's how we fix it | Larry Lessig | TEDxMidAtlantic"
+      ],
+      "search_result_limit": 20
     },
     "Pi7l8mMjYVE": {
       "vid": "Pi7l8mMjYVE",
       "status": "review",
-      "completed_at": "2026-11-04T23:39:16.992430+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:48:53.709993+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:48:09.180007+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Control Bootcamp: Overview",
+        "Steve Brunton Control Bootcamp: Overview"
+      ],
+      "search_result_limit": 20
     },
     "RWTic9btP38": {
       "vid": "RWTic9btP38",
       "status": "review",
-      "completed_at": "2026-11-04T23:39:39.930556+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:49:14.068604+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:49:01.855470+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Why Louisiana Stays Poor",
+        "Together Louisiana Why Louisiana Stays Poor"
+      ],
+      "search_result_limit": 20
     },
     "RfdZTZQvuCo": {
       "vid": "RfdZTZQvuCo",
       "status": "review",
-      "completed_at": "2026-11-04T23:40:26.816196+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:50:20.776086+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:49:22.199845+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Penn and Teller on Vaccinations",
+        "UltraMiraculous Penn and Teller on Vaccinations"
+      ],
+      "search_result_limit": 20
     },
     "S89BHnaxULo": {
       "vid": "S89BHnaxULo",
       "status": "review",
-      "completed_at": "2026-11-04T23:40:39.305429+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:50:43.249624+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:50:29.449234+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Neuromancer (BBC radio play adaptation ) William Gibson",
+        "Michael McGrath Neuromancer (BBC radio play adaptation ) William Gibson"
+      ],
+      "search_result_limit": 20
     },
     "ScEPu1cs4l0": {
       "vid": "ScEPu1cs4l0",
       "status": "review",
-      "completed_at": "2026-11-04T23:40:46.438932+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:50:51.730396+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:50:51.730359+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Are We There Yet - Rich Hickey",
+        "Zhang Jian Are We There Yet - Rich Hickey"
+      ],
+      "search_result_limit": 20
     },
     "Sp9H0MO-qS8": {
       "vid": "Sp9H0MO-qS8",
       "status": "review",
-      "completed_at": "2026-11-04T23:40:55.282111+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:51:06.666974+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:50:59.588858+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Drip Coffee Makers — super simple, super cheap",
+        "Technology Connections Drip Coffee Makers — super simple, super cheap"
+      ],
+      "search_result_limit": 20
     },
     "SrU9YDoXE88": {
       "vid": "SrU9YDoXE88",
@@ -26452,32 +26796,67 @@
     "TgmA48fILq8": {
       "vid": "TgmA48fILq8",
       "status": "review",
-      "completed_at": "2026-11-04T23:41:14.855728+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:51:19.011317+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:51:14.754311+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Dtrace Review",
+        "GoogleTalksArchive Dtrace Review"
+      ],
+      "search_result_limit": 20
     },
     "U2huVf1l4UE": {
       "vid": "U2huVf1l4UE",
       "status": "review",
-      "completed_at": "2026-11-04T23:41:27.385212+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:51:35.054761+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:51:27.565859+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Climbing the Rating Ladder: Up to 1000",
+        "John Bartholomew Climbing the Rating Ladder: Up to 1000"
+      ],
+      "search_result_limit": 20
     },
     "URSWYvyc42M": {
       "vid": "URSWYvyc42M",
       "status": "review",
-      "completed_at": "2026-11-04T23:41:45.169482+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T04:52:42.163224+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T04:51:43.058337+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Rails Conf 2013 The Magic Tricks of Testing by Sandi Metz",
+        "Confreaks Rails Conf 2013 The Magic Tricks of Testing by Sandi Metz"
+      ],
+      "search_result_limit": 20
     },
     "UcN7SGGoCNI": {
       "vid": "UcN7SGGoCNI",
       "status": "review",
-      "completed_at": "2026-11-04T23:42:11.994658+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:11:42.132547+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:11:06.026780+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "DAIRY IS SCARY!",
+        "Erin Janus DAIRY IS SCARY!"
+      ],
+      "search_result_limit": 20
     },
     "UjZYMI1zB9s": {
       "vid": "UjZYMI1zB9s",
       "status": "review",
-      "completed_at": "2026-11-04T23:42:25.860328+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:11:58.378047+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:11:50.662266+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Free to Play",
+        "Valve Free to Play"
+      ],
+      "search_result_limit": 20
     },
     "KBcxuM-qXec": {
       "vid": "KBcxuM-qXec",
@@ -26488,14 +26867,28 @@
     "VUhlNx_-wYk": {
       "vid": "VUhlNx_-wYk",
       "status": "review",
-      "completed_at": "2026-11-04T23:43:16.196145+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:12:28.506044+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:12:06.230480+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Ruby Manor 3 - Programming with Nothing by Tom Stuart",
+        "Confreaks Ruby Manor 3 - Programming with Nothing by Tom Stuart"
+      ],
+      "search_result_limit": 20
     },
     "XI5frPV58tY": {
       "vid": "XI5frPV58tY",
       "status": "review",
-      "completed_at": "2026-11-04T23:43:37.872560+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:13:01.327046+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:12:36.928974+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "6 ways mushrooms can save the world | Paul Stamets | TED",
+        "TED 6 ways mushrooms can save the world | Paul Stamets | TED"
+      ],
+      "search_result_limit": 20
     },
     "XRr1kaXKBsU": {
       "vid": "XRr1kaXKBsU",
@@ -26531,20 +26924,65 @@
     "Y6U728AZnV0": {
       "vid": "Y6U728AZnV0",
       "status": "review",
-      "completed_at": "2026-11-05T00:40:57.604686+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:13:36.627954+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:13:22.188561+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "James OKeefe Run life comfortable pace TEDxUMKC",
+        "James OKeefe 舒适 配速 跑步 TEDx"
+      ],
+      "search_result_limit": 20
     },
     "YyIQKBzIuBY": {
       "vid": "YyIQKBzIuBY",
-      "status": "review",
-      "completed_at": "2026-11-05T00:41:09.946044+00:00",
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-10T05:13:49.562963+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1fA411e7Ts",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Programming and Scaling - Alan Kay",
+          "up": "Terence_Xie",
+          "duration": 3399,
+          "original_duration": 3399,
+          "cid": 212823891,
+          "aid": 328860369,
+          "segment_title": "Programming and Scaling",
+          "page_count": 1,
+          "kind": "original",
+          "views": 70,
+          "pic": "https://i2.hdslb.com/bfs/archive/6815bb053c09cd4bb2393503739b1115a0c53025.jpg",
+          "checked_at": "2026-11-10T05:13:49.306118+00:00",
+          "availability": "available"
+        }
+      ],
+      "searched_at": "2026-11-10T05:13:45.035275+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Alan Kay Programming and Scaling",
+        "艾伦 凯 编程 扩展"
+      ],
+      "search_result_limit": 20
     },
     "ZXJWO2FQ16c": {
       "vid": "ZXJWO2FQ16c",
       "status": "review",
-      "completed_at": "2026-11-05T00:41:22.683399+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:14:18.187672+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:13:58.231304+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Steve Reich Music 18 Musicians eighth blackbird",
+        "史蒂夫 赖希 十八位 音乐家 eighth blackbird"
+      ],
+      "search_result_limit": 20
     },
     "_yMMTVVJI4c": {
       "vid": "_yMMTVVJI4c",
@@ -26580,8 +27018,15 @@
     "aMcjxSThD54": {
       "vid": "aMcjxSThD54",
       "status": "review",
-      "completed_at": "2026-11-05T00:42:00.650866+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:15:04.684831+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:14:26.123400+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Jordan Peterson gender pay gap Channel 4",
+        "乔丹 彼得森 Channel 4 性别 薪酬 访谈"
+      ],
+      "search_result_limit": 20
     },
     "arj7oStGLkU": {
       "vid": "arj7oStGLkU",
@@ -26646,38 +27091,104 @@
     "d1EB1zsxW0k": {
       "vid": "d1EB1zsxW0k",
       "status": "review",
-      "completed_at": "2026-11-05T00:42:33.067341+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:15:26.618044+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:15:13.054375+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Bill Gates Energy Investments Dialogue Stanford",
+        "比尔 盖茨 能源 投资 对话 斯坦福"
+      ],
+      "search_result_limit": 20
     },
     "dCSIXLIzhzk": {
       "vid": "dCSIXLIzhzk",
       "status": "review",
-      "completed_at": "2026-11-05T00:42:46.905813+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:15:50.869403+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:15:35.042799+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "CodysLab How Far Nearest Stars",
+        "CodysLab 最近 恒星 多远"
+      ],
+      "search_result_limit": 20
     },
     "fwcl17Q0bpk": {
       "vid": "fwcl17Q0bpk",
       "status": "review",
-      "completed_at": "2026-11-05T00:43:00.878337+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:16:03.688549+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:15:59.506001+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "NSA operation ORCHESTRA Annual Status Report",
+        "NSA ORCHESTRA 年度 状态 报告"
+      ],
+      "search_result_limit": 20
     },
     "g1ib43q3uXQ": {
       "vid": "g1ib43q3uXQ",
       "status": "review",
-      "completed_at": "2026-11-05T00:43:21.420736+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:16:46.957769+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:16:11.948968+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Felienne Hermans How teach programming",
+        "Felienne Hermans 如何 教 编程"
+      ],
+      "search_result_limit": 20
     },
     "gEKSpZPByD0": {
       "vid": "gEKSpZPByD0",
-      "status": "review",
-      "completed_at": "2026-11-05T00:43:34.044437+00:00",
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-10T05:17:03.444279+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1bJ411r7Xc",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "粒子，场，物理的未来 Particles, Fields and The Future of Physics - Sean Carroll",
+          "up": "名手之道",
+          "duration": 5875,
+          "original_duration": 5875,
+          "cid": 135570925,
+          "aid": 79220276,
+          "segment_title": "Particles, Fields and The Future of Physics - A Lecture by Sean Carroll",
+          "page_count": 1,
+          "kind": "original",
+          "views": 441,
+          "pic": "https://i1.hdslb.com/bfs/archive/938941cd93e4fae908b0db1ef2ba3464e783d31a.jpg",
+          "checked_at": "2026-11-10T05:17:03.227035+00:00",
+          "availability": "available"
+        }
+      ],
+      "searched_at": "2026-11-10T05:16:55.123037+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Sean Carroll Particles Fields Future Physics Fermilab",
+        "肖恩 卡罗尔 粒子 场 物理 未来"
+      ],
+      "search_result_limit": 20
     },
     "gd5uJ7Nlvvo": {
       "vid": "gd5uJ7Nlvvo",
       "status": "review",
-      "completed_at": "2026-11-05T00:43:46.332160+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:17:28.402871+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:17:11.950149+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Dylan Beattie Plain Text NDC 2022",
+        "Dylan Beattie 纯文本 NDC 2022"
+      ],
+      "search_result_limit": 20
     },
     "h47zZrqjgLc": {
       "vid": "h47zZrqjgLc",
@@ -26736,44 +27247,94 @@
     "hER0Qp6QJNU": {
       "vid": "hER0Qp6QJNU",
       "status": "review",
-      "completed_at": "2026-11-05T00:44:28.324622+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:18:14.769057+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:17:36.602118+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Simon Sinek Millennials Workplace",
+        "西蒙 斯涅克 千禧一代 职场"
+      ],
+      "search_result_limit": 20
     },
     "hUyMNyrOHJQ": {
       "vid": "hUyMNyrOHJQ",
       "status": "review",
-      "completed_at": "2026-11-05T00:45:03.119579+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:19:56.484414+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:18:22.635465+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "David Kuckhermann tendinitis carpal tunnel exercises",
+        "David Kuckhermann 腱鞘炎 腕管 练习"
+      ],
+      "search_result_limit": 20
     },
     "hlrv7DIHllE": {
       "vid": "hlrv7DIHllE",
       "status": "review",
-      "completed_at": "2026-11-05T00:45:14.376636+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:20:19.119188+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:20:04.351794+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Neil Postman Surrender Culture Technology",
+        "尼尔 波兹曼 文化 技术 投降"
+      ],
+      "search_result_limit": 20
     },
     "iD9xk3SDSYc": {
       "vid": "iD9xk3SDSYc",
       "status": "review",
-      "completed_at": "2026-11-05T00:45:47.777367+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:21:06.367397+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:20:27.591072+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Black Lotus Eon Amiga Demo",
+        "The Black Lotus Eon Amiga 演示"
+      ],
+      "search_result_limit": 20
     },
     "iGFqfTCL2fs": {
       "vid": "iGFqfTCL2fs",
       "status": "review",
       "completed_at": "2026-11-05T00:46:19.990169+00:00",
-      "candidates": []
+      "candidates": [],
+      "searched_at": "2026-11-10T05:21:14.678732+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "wbeaty Traffic Waves",
+        "wbeaty 交通 波"
+      ],
+      "search_result_limit": 20,
+      "last_error": "TimeoutError"
     },
     "iukBMY4apvI": {
       "vid": "iukBMY4apvI",
       "status": "review",
-      "completed_at": "2026-11-05T00:46:44.196196+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:47:51.155001+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:47:24.846130+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Glen Maddern Javascript 2015",
+        "Glen Maddern JavaScript 2015"
+      ],
+      "search_result_limit": 20
     },
     "jAhiMCSvtCc": {
       "vid": "jAhiMCSvtCc",
       "status": "review",
-      "completed_at": "2026-11-05T00:47:04.608701+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:48:19.748180+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:47:59.901679+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "David Bull Great Wave Part 1",
+        "David Bull 神奈川冲浪里 第一集"
+      ],
+      "search_result_limit": 20
     },
     "jHP942Livy0": {
       "vid": "jHP942Livy0",
@@ -26838,26 +27399,54 @@
     "kU3BceoMuaA": {
       "vid": "kU3BceoMuaA",
       "status": "review",
-      "completed_at": "2026-11-05T00:47:37.008932+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:48:36.047637+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:48:27.668540+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Techmoan MiniDisc Appreciation",
+        "Techmoan MiniDisc 欣赏"
+      ],
+      "search_result_limit": 20
     },
     "kUfF2MTnqAw": {
       "vid": "kUfF2MTnqAw",
       "status": "review",
-      "completed_at": "2026-11-05T00:47:57.405505+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:49:10.370727+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:48:44.003157+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Smarter Every Day 157 Mask Oxygen",
+        "SmarterEveryDay 157 先戴 氧气面罩"
+      ],
+      "search_result_limit": 20
     },
     "kZA9Hnp3aV4": {
       "vid": "kZA9Hnp3aV4",
       "status": "review",
-      "completed_at": "2026-11-05T00:48:09.945568+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:49:27.105845+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:49:19.197172+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Albert Bartlett Exponential Growth Population Energy",
+        "阿尔伯特 巴特利特 指数增长 人口 能源"
+      ],
+      "search_result_limit": 20
     },
     "l70iRcSxqzo": {
       "vid": "l70iRcSxqzo",
       "status": "review",
-      "completed_at": "2026-11-05T00:48:18.556614+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:49:43.516742+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:49:35.439976+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Kim Nilsson Cracking MtGox",
+        "Kim Nilsson 破解 MtGox"
+      ],
+      "search_result_limit": 20
     },
     "lnnsDi7Sxq0": {
       "vid": "lnnsDi7Sxq0",
@@ -26917,20 +27506,41 @@
     "mVVNJKv9esE": {
       "vid": "mVVNJKv9esE",
       "status": "review",
-      "completed_at": "2026-11-05T00:48:42.384921+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:50:13.417044+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:49:51.443225+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Cheng Lou Spectrum Abstraction React Europe 2016",
+        "Cheng Lou 抽象 光谱 React 2016"
+      ],
+      "search_result_limit": 20
     },
     "mZyvIHYn2zk": {
       "vid": "mZyvIHYn2zk",
       "status": "review",
-      "completed_at": "2026-11-05T00:48:55.147400+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:50:34.482249+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:50:21.659354+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Perverts Guide Computer Programming Languages SXSW",
+        "SXSW 编程语言 变态者 指南"
+      ],
+      "search_result_limit": 20
     },
     "nYkdrAPrdcw": {
       "vid": "nYkdrAPrdcw",
       "status": "review",
-      "completed_at": "2026-11-05T00:49:06.194459+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:50:56.785745+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:50:42.765087+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Hacker Way Rethinking Web App Facebook",
+        "Hacker Way Facebook 重新思考 网页 应用"
+      ],
+      "search_result_limit": 20
     },
     "o0fG_lnVhHw": {
       "vid": "o0fG_lnVhHw",
@@ -26988,32 +27598,67 @@
     "o4-YnLpLgtk": {
       "vid": "o4-YnLpLgtk",
       "status": "review",
-      "completed_at": "2026-11-05T00:49:44.258548+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:51:36.741219+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:51:05.191304+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Symbolics Lisp Machine demo Jan 2013",
+        "Symbolics Lisp 机器 演示 2013"
+      ],
+      "search_result_limit": 20
     },
     "ovJcsL7vyrk": {
       "vid": "ovJcsL7vyrk",
       "status": "review",
-      "completed_at": "2026-11-05T00:50:08.579770+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:52:17.035715+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:51:44.791404+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Veritasium equation change world logistic map",
+        "Veritasium 逻辑斯蒂 映射 方程"
+      ],
+      "search_result_limit": 20
     },
     "pOmXiapfCs8": {
       "vid": "pOmXiapfCs8",
       "status": "review",
-      "completed_at": "2026-11-05T00:50:40.691688+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:53:13.969468+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:52:25.306674+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Yuri Bezmenov 1985 Interview KGB",
+        "尤里 别兹梅诺夫 1985 访谈"
+      ],
+      "search_result_limit": 20
     },
     "pYXy-A4siMw": {
       "vid": "pYXy-A4siMw",
       "status": "review",
-      "completed_at": "2026-11-05T00:51:06.305981+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:54:00.304814+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:53:22.550875+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Robert Miles Intro AI Safety Remastered",
+        "Robert Miles 人工智能 安全 入门 重制"
+      ],
+      "search_result_limit": 20
     },
     "pkCLMl0e_0k": {
       "vid": "pkCLMl0e_0k",
       "status": "review",
-      "completed_at": "2026-11-05T00:51:21.826911+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:54:28.266306+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:54:08.774901+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "David Beazley Lambda Calculus Ground Up PyCon 2019",
+        "David Beazley Lambda 演算 从零 2019"
+      ],
+      "search_result_limit": 20
     },
     "qp0HIF3SfI4": {
       "vid": "qp0HIF3SfI4",
@@ -27195,20 +27840,41 @@
     "re96UgMk6GQ": {
       "vid": "re96UgMk6GQ",
       "status": "review",
-      "completed_at": "2026-11-05T00:52:52.829412+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:54:50.489228+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:54:36.709783+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Simon Peyton Jones Escape ivory tower Haskell journey",
+        "Simon Peyton Jones 走出 象牙塔 Haskell"
+      ],
+      "search_result_limit": 20
     },
     "rnmcRTnTNC8": {
       "vid": "rnmcRTnTNC8",
       "status": "review",
-      "completed_at": "2026-11-05T00:53:15.871269+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:55:30.583488+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:54:58.682434+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Ill Let Myself In Tactics Physical Pen Testers",
+        "物理 渗透测试 我自己 进来 Wild West"
+      ],
+      "search_result_limit": 20
     },
     "rvkEpstd9os": {
       "vid": "rvkEpstd9os",
       "status": "review",
-      "completed_at": "2026-11-05T00:53:24.515680+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:55:42.451048+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:55:38.517492+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Boeing 787 Broken Dreams Al Jazeera",
+        "半岛电视台 波音787 破碎 梦想"
+      ],
+      "search_result_limit": 20
     },
     "rvskMHn0sqQ": {
       "vid": "rvskMHn0sqQ",
@@ -27319,8 +27985,15 @@
     "tUAX0gnZ3Nw": {
       "vid": "tUAX0gnZ3Nw",
       "status": "review",
-      "completed_at": "2026-11-05T00:53:58.057512+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:56:03.920739+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:55:50.486227+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Accursed Farms Games as service fraud",
+        "Accursed Farms 游戏 即服务 欺诈"
+      ],
+      "search_result_limit": 20
     },
     "stXgn2iZAAY": {
       "vid": "stXgn2iZAAY",
@@ -27487,14 +28160,28 @@
     "uL2D3qzHtqY": {
       "vid": "uL2D3qzHtqY",
       "status": "review",
-      "completed_at": "2026-11-05T00:55:30.831059+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:56:24.004356+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:56:12.706898+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "A JVM Does That Google TechTalks",
+        "JVM 还能这样 Google TechTalks"
+      ],
+      "search_result_limit": 20
     },
     "uk3A41U0iO4": {
       "vid": "uk3A41U0iO4",
       "status": "review",
-      "completed_at": "2026-11-05T00:55:48.653101+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:57:17.338376+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:56:59.237797+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Matt Adereth clojure core typing",
+        "Matt Adereth Clojure 打字"
+      ],
+      "search_result_limit": 20
     },
     "vYA0f6R5KAI": {
       "vid": "vYA0f6R5KAI",
@@ -27530,44 +28217,93 @@
     "vwCdKU9uYnE": {
       "vid": "vwCdKU9uYnE",
       "status": "review",
-      "completed_at": "2026-11-05T00:56:09.853018+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:57:35.319733+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:57:25.758219+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Avie Tevanian Oral History Part 1 Computer History Museum",
+        "艾维 特瓦尼安 口述历史 第一部分"
+      ],
+      "search_result_limit": 20
     },
     "xRel1JKOEbI": {
       "vid": "xRel1JKOEbI",
       "status": "review",
-      "completed_at": "2026-11-05T00:56:29.317753+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:58:18.166194+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:57:43.587103+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Anil Seth Neuroscience Consciousness Royal Institution",
+        "阿尼尔 塞思 意识 神经科学 皇家研究院"
+      ],
+      "search_result_limit": 20
     },
     "y71lli8MS8s": {
       "vid": "y71lli8MS8s",
       "status": "review",
-      "completed_at": "2026-11-05T00:56:52.382178+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:58:49.096424+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:58:26.672642+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Bisqwit NES emulator 15 minutes",
+        "Bisqwit 15分钟 NES 模拟器"
+      ],
+      "search_result_limit": 20
     },
     "yErKTVdETpw": {
       "vid": "yErKTVdETpw",
       "status": "review",
-      "completed_at": "2026-11-05T00:57:08.333320+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:59:10.463418+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:58:57.228088+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Yuri Bezmenov Four Stages Ideological Subversion 1984",
+        "尤里 别兹梅诺夫 1984 四阶段 访谈"
+      ],
+      "search_result_limit": 20
     },
     "yQ16_YxLbB8": {
       "vid": "yQ16_YxLbB8",
       "status": "review",
-      "completed_at": "2026-11-05T00:57:26.371749+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:59:43.750798+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:59:18.816782+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Steve Jobs WWDC 1997 developers questions complete",
+        "乔布斯 WWDC 1997 完整 问答"
+      ],
+      "search_result_limit": 20
     },
     "ymaWq5yZIYM": {
       "vid": "ymaWq5yZIYM",
       "status": "review",
-      "completed_at": "2026-11-05T00:57:37.380147+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T05:59:59.988681+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T05:59:52.064734+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Sacha Baron Cohen ADL Never Is Now 2019",
+        "萨莎 拜伦 科恩 ADL 2019 演讲"
+      ],
+      "search_result_limit": 20
     },
     "-FENubmZGj8": {
       "vid": "-FENubmZGj8",
       "status": "review",
-      "completed_at": "2026-11-05T00:57:55.094312+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:00:28.418552+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:00:08.222218+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "James Duane Right Remain Innocent Cato",
+        "詹姆斯 杜安 保持无辜 权利"
+      ],
+      "search_result_limit": 20
     },
     "-Ht4qiDRZE8": {
       "vid": "-Ht4qiDRZE8",
@@ -27606,38 +28342,80 @@
     "-iCIZQX9i1A": {
       "vid": "-iCIZQX9i1A",
       "status": "review",
-      "completed_at": "2026-11-05T00:58:36.085618+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:00:52.825306+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:00:36.599231+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Miniminuteman Ancient Apocalypse Part 1",
+        "Miniminuteman 远古启示录 第一部分"
+      ],
+      "search_result_limit": 20
     },
     "04ERSb06dOg": {
       "vid": "04ERSb06dOg",
       "status": "review",
-      "completed_at": "2026-11-05T00:59:15.974217+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:01:47.995125+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:01:01.125350+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "PBS Space Time Noether Theorem Symmetries Reality",
+        "PBS Space Time 诺特定理 对称性"
+      ],
+      "search_result_limit": 20
     },
     "0lvUByM-fZk": {
       "vid": "0lvUByM-fZk",
       "status": "review",
-      "completed_at": "2026-11-05T00:59:37.559688+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:02:14.177899+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:01:56.242048+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "donoteat01 Cities Skylines Power Politics Planning Parking 1",
+        "donoteat01 城市天际线 权力 政治 停车 第一集"
+      ],
+      "search_result_limit": 20
     },
     "1PhArSujR_A": {
       "vid": "1PhArSujR_A",
       "status": "review",
-      "completed_at": "2026-11-05T00:59:55.705387+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:02:51.928207+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:02:22.214893+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "John Carmack Quakecon 2013 keynote part 4",
+        "约翰 卡马克 Quakecon 2013 演讲 第四部分"
+      ],
+      "search_result_limit": 20
     },
     "1jHUY3qoBu8": {
       "vid": "1jHUY3qoBu8",
       "status": "review",
-      "completed_at": "2026-11-05T01:00:07.912166+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:03:15.676171+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:03:00.016013+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Imphenzia Low Poly Modeling Blender 2.9",
+        "Imphenzia Blender 2.9 低多边形 建模"
+      ],
+      "search_result_limit": 20
     },
     "1uflg7LDmzI": {
       "vid": "1uflg7LDmzI",
       "status": "review",
-      "completed_at": "2026-11-05T01:00:21.885762+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:03:44.022293+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:03:24.505132+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "James Mickens Building Better Web Browser Harvard 2015",
+        "James Mickens 更好 浏览器 哈佛 2015"
+      ],
+      "search_result_limit": 20
     },
     "1xQeXOz0Ncs": {
       "vid": "1xQeXOz0Ncs",
@@ -27672,44 +28450,93 @@
     "2DIl3Hfh9tY": {
       "vid": "2DIl3Hfh9tY",
       "status": "review",
-      "completed_at": "2026-11-05T01:00:53.815527+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:04:27.871116+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:03:52.170090+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Leonard Susskind World As Hologram TVO",
+        "伦纳德 萨斯坎德 世界 全息图"
+      ],
+      "search_result_limit": 20
     },
     "2PdJFbjWHEU": {
       "vid": "2PdJFbjWHEU",
       "status": "review",
-      "completed_at": "2026-11-05T01:01:07.944334+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:05:05.663673+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:04:36.699954+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Doug McGuff Paleo Diet Strength Training Biochemistry",
+        "Doug McGuff 原始饮食 力量训练 生物化学"
+      ],
+      "search_result_limit": 20
     },
     "2u6HTG8LuXQ": {
       "vid": "2u6HTG8LuXQ",
       "status": "review",
-      "completed_at": "2026-11-05T01:01:34.595029+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:05:43.336873+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:05:14.113016+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Game Makers Toolkit Nintendo Putting Play First",
+        "Game Makers Toolkit 任天堂 游戏性 优先"
+      ],
+      "search_result_limit": 20
     },
     "36GT2zI8lVA": {
       "vid": "36GT2zI8lVA",
       "status": "review",
-      "completed_at": "2026-11-05T01:01:53.637304+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:06:18.568093+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:05:51.851438+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Richard Feynman Why firewalker",
+        "理查德 费曼 为什么 firewalker"
+      ],
+      "search_result_limit": 20
     },
     "3VZSJKbzyMc": {
       "vid": "3VZSJKbzyMc",
       "status": "review",
-      "completed_at": "2026-11-05T01:02:07.517414+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:06:36.970788+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:06:27.001931+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Happen Films Fools Dreamers Forest Documentary",
+        "Happen Films 愚人与梦想家 森林 纪录片"
+      ],
+      "search_result_limit": 20
     },
     "43XaZEn2aLc": {
       "vid": "43XaZEn2aLc",
       "status": "review",
-      "completed_at": "2026-11-05T01:02:17.476038+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:06:47.553410+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:06:45.507322+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Shriram Krishnamurthi Expressive Power Programming Languages PWL 2019",
+        "Shriram Krishnamurthi 编程语言 表达能力 2019"
+      ],
+      "search_result_limit": 20
     },
     "4nigRT2KmCE": {
       "vid": "4nigRT2KmCE",
       "status": "review",
-      "completed_at": "2026-11-05T01:02:39.188704+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:07:28.658443+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:06:56.169189+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "MC Frontalot It Is Pitch Dark",
+        "MC Frontalot It Is Pitch Dark 漆黑"
+      ],
+      "search_result_limit": 20
     },
     "6RhtiPefVzM": {
       "vid": "6RhtiPefVzM",
@@ -27797,50 +28624,106 @@
     "7NfX0vlCa4k": {
       "vid": "7NfX0vlCa4k",
       "status": "review",
-      "completed_at": "2026-11-05T01:03:15.566857+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:07:58.919858+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:07:36.997496+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Technology Connextras E Ink Productivity Introduction",
+        "Technology Connextras 电子墨水 生产力 入门"
+      ],
+      "search_result_limit": 20
     },
     "7Nw6qyyrTeI": {
       "vid": "7Nw6qyyrTeI",
       "status": "review",
-      "completed_at": "2026-11-05T01:03:30.759150+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:08:23.431650+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:08:07.484877+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Not Just Bikes Suburbia Subsidized ST07",
+        "Not Just Bikes 郊区 补贴 ST07"
+      ],
+      "search_result_limit": 20
     },
     "7jb0FOcImdg": {
       "vid": "7jb0FOcImdg",
       "status": "review",
-      "completed_at": "2026-11-05T01:03:41.157314+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:08:36.792383+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:08:32.038903+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "8 Frames 16ms Rollback Mortal Kombat Injustice 2",
+        "真人快打 不义联盟2 回滚 网络同步 GDC"
+      ],
+      "search_result_limit": 20
     },
     "7y1xJAVZxXg": {
       "vid": "7y1xJAVZxXg",
       "status": "review",
-      "completed_at": "2026-11-05T01:03:56.003978+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:08:59.514532+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:08:44.907515+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "John Oliver Televangelists",
+        "约翰 奥利弗 电视 布道者"
+      ],
+      "search_result_limit": 20
     },
     "8TjGAWxL23c": {
       "vid": "8TjGAWxL23c",
       "status": "review",
-      "completed_at": "2026-11-05T01:04:04.628567+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:09:14.290376+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:09:07.381763+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Plagues Pleasures Salton Sea KQED",
+        "索尔顿湖 瘟疫 欢乐 KQED"
+      ],
+      "search_result_limit": 20
     },
     "8fHi36dvTdE": {
       "vid": "8fHi36dvTdE",
       "status": "review",
-      "completed_at": "2026-11-07T21:35:38.894201+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:19:11.466841+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:09:27.340227+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Bernstein Unanswered Question 1973 Musical Phonology 1",
+        "伯恩斯坦 未回答的问题 第一讲 音乐音韵学"
+      ],
+      "search_result_limit": 20
     },
     "9zinZmE3Ogk": {
       "vid": "9zinZmE3Ogk",
       "status": "review",
-      "completed_at": "2026-11-05T01:04:36.054007+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:19:36.943216+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:19:20.906629+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Raymond Hettinger Concurrency PyBay 2017",
+        "Raymond Hettinger 并发 PyBay 2017"
+      ],
+      "search_result_limit": 20
     },
     "AD5aAd8Oy84": {
       "vid": "AD5aAd8Oy84",
       "status": "review",
-      "completed_at": "2026-11-05T01:04:44.815201+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:19:52.014241+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:19:45.520984+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Tested Inside Apple 130 USB C Cable",
+        "Tested 苹果 130美元 USB C 线缆"
+      ],
+      "search_result_limit": 20
     },
     "Auuk1y4DRgk": {
       "vid": "Auuk1y4DRgk",
@@ -27875,14 +28758,28 @@
     "BYRTvoZ3Rho": {
       "vid": "BYRTvoZ3Rho",
       "status": "review",
-      "completed_at": "2026-11-05T01:05:24.148944+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:20:32.938923+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:19:59.751960+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Numberphile Was Your Vote Counted Homomorphic Encryption",
+        "Numberphile 选票 计数 同态加密"
+      ],
+      "search_result_limit": 20
     },
     "Bv_5Zv5c-Ts": {
       "vid": "Bv_5Zv5c-Ts",
       "status": "review",
-      "completed_at": "2026-11-05T01:05:38.005046+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:21:04.327839+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:20:45.772576+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Tony Alicea JavaScript Understanding Weird Parts 3.5 hours",
+        "Tony Alicea JavaScript 理解 怪异 部分"
+      ],
+      "search_result_limit": 20
     },
     "C_r5UJrxcck": {
       "vid": "C_r5UJrxcck",
@@ -27917,20 +28814,41 @@
     "Cj4y0EUlU-Y": {
       "vid": "Cj4y0EUlU-Y",
       "status": "review",
-      "completed_at": "2026-11-05T01:06:17.170588+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:21:57.352410+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:21:12.215841+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Feynman How think Fun Imagine 11 part 1",
+        "费曼 如何 思考 趣谈 11 第一部分"
+      ],
+      "search_result_limit": 20
     },
     "ExgxwKnH8y4": {
       "vid": "ExgxwKnH8y4",
       "status": "review",
-      "completed_at": "2026-11-05T01:06:37.157733+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:23:02.580786+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:22:44.437074+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Reason San Francisco Sabotage Apartment Housing Crisis",
+        "Reason 旧金山 公寓 建造 住房 危机"
+      ],
+      "search_result_limit": 20
     },
     "FjHJ7FmV0M4": {
       "vid": "FjHJ7FmV0M4",
       "status": "review",
-      "completed_at": "2026-11-05T01:06:55.589483+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:23:41.121663+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:23:10.261490+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Richard Feynman talks light",
+        "理查德 费曼 谈 光"
+      ],
+      "search_result_limit": 20
     },
     "FssULNGSZIA": {
       "vid": "FssULNGSZIA",
@@ -28087,8 +29005,15 @@
     "FvNRlE4E9QQ": {
       "vid": "FvNRlE4E9QQ",
       "status": "review",
-      "completed_at": "2026-11-05T01:07:24.912024+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:23:57.284493+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:23:49.483265+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Jay Parlar Finding bugs without running looking code",
+        "Jay Parlar 不运行 不看 代码 找 bug"
+      ],
+      "search_result_limit": 20
     },
     "G0Cp7DrvNLQ": {
       "vid": "G0Cp7DrvNLQ",
@@ -28123,8 +29048,15 @@
     "GWQh_DmDLKQ": {
       "vid": "GWQh_DmDLKQ",
       "status": "review",
-      "completed_at": "2026-11-05T01:07:43.430444+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:24:32.608092+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:24:32.387815+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Real story Wayland X linux conf 2013",
+        "Wayland X 真实故事 Linux 2013"
+      ],
+      "search_result_limit": 20
     },
     "HB5TrK7A4pI": {
       "vid": "HB5TrK7A4pI",
@@ -28160,8 +29092,15 @@
     "HLNhPMQnWu4": {
       "vid": "HLNhPMQnWu4",
       "status": "review",
-      "completed_at": "2026-11-05T01:08:45.056373+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:25:53.092853+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:24:40.799905+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "John Cleese Extremism",
+        "约翰 克里斯 极端主义"
+      ],
+      "search_result_limit": 20
     },
     "BnSUk0je6oo": {
       "vid": "BnSUk0je6oo",
@@ -28290,8 +29229,15 @@
     "HPuvDm8IC-4": {
       "vid": "HPuvDm8IC-4",
       "status": "review",
-      "completed_at": "2026-11-05T01:17:37.582750+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:26:21.232146+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:26:01.574377+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Liz Rice What container really Go scratch 2016",
+        "Liz Rice 容器 本质 Go 从零 2016"
+      ],
+      "search_result_limit": 20
     },
     "I7IdS-PbEgI": {
       "vid": "I7IdS-PbEgI",
@@ -28326,8 +29272,15 @@
     "If61baWF4GE": {
       "vid": "If61baWF4GE",
       "status": "review",
-      "completed_at": "2026-11-05T01:18:05.438763+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:26:42.496392+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:26:30.041702+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "RealLifeLore Why Russia Invading Ukraine",
+        "RealLifeLore 俄罗斯 乌克兰 入侵 原因"
+      ],
+      "search_result_limit": 20
     },
     "IroPQ150F6c": {
       "vid": "IroPQ150F6c",
@@ -28362,20 +29315,41 @@
     "JHGkaShoyNs": {
       "vid": "JHGkaShoyNs",
       "status": "review",
-      "completed_at": "2026-11-05T01:18:22.523237+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:26:58.479375+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:26:50.832571+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Greg Young CQRS Event Sourcing Code Beach 2014",
+        "Greg Young CQRS 事件溯源 2014"
+      ],
+      "search_result_limit": 20
     },
     "Jib2AmRb_rk": {
       "vid": "Jib2AmRb_rk",
       "status": "review",
-      "completed_at": "2026-11-05T01:18:32.487476+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:27:12.733623+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:27:06.763835+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Richard Hipp SQLite Database Edge Network",
+        "Richard Hipp SQLite 网络 边缘 数据库"
+      ],
+      "search_result_limit": 20
     },
     "Jzfpyo-q-RM": {
       "vid": "Jzfpyo-q-RM",
       "status": "review",
-      "completed_at": "2026-11-05T01:19:03.359896+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:27:57.538850+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:27:20.981141+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Kurzgesagt Worst Nuclear Accidents History",
+        "Kurzgesagt 历史 最严重 核事故"
+      ],
+      "search_result_limit": 20
     },
     "Ki_Af_o9Q9s": {
       "vid": "Ki_Af_o9Q9s",
@@ -28410,14 +29384,28 @@
     "L5pUA3LsEaw": {
       "vid": "L5pUA3LsEaw",
       "status": "review",
-      "completed_at": "2026-11-05T01:19:32.444875+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:28:36.624628+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:28:05.936514+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Robert Miles AGI Like Corporation",
+        "Robert Miles AGI 公司 类比"
+      ],
+      "search_result_limit": 20
     },
     "LEZv-kQUSi4": {
       "vid": "LEZv-kQUSi4",
       "status": "review",
-      "completed_at": "2026-11-05T01:19:55.360898+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:29:13.396699+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:28:44.390766+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Stuart Halloway Narcissistic Design",
+        "Stuart Halloway 自恋式 设计"
+      ],
+      "search_result_limit": 20
     },
     "LQmTKxI4Wn4": {
       "vid": "LQmTKxI4Wn4",
@@ -28498,26 +29486,54 @@
     "LRhbcDzbGSU": {
       "vid": "LRhbcDzbGSU",
       "status": "review",
-      "completed_at": "2026-11-05T01:20:24.457193+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:29:32.560520+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:29:22.219077+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "GET LAMP Text Adventure Documentary",
+        "GET LAMP 文字冒险 纪录片"
+      ],
+      "search_result_limit": 20
     },
     "LbH1ZDImaI8": {
       "vid": "LbH1ZDImaI8",
       "status": "review",
-      "completed_at": "2026-11-05T01:20:38.280037+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:29:49.335952+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:29:40.425063+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Everyday Astronaut Raptor king rocket engines",
+        "日常宇航员 猛禽 火箭 发动机 之王"
+      ],
+      "search_result_limit": 20
     },
     "MFRWDuduuSw": {
       "vid": "MFRWDuduuSw",
       "status": "review",
-      "completed_at": "2026-11-05T01:21:18.236579+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:30:37.604240+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:29:57.446459+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "MIT Calculus Revisited Single Variable Preface",
+        "MIT 微积分 重温 单变量 前言"
+      ],
+      "search_result_limit": 20
     },
     "NWSZ4c9yqW8": {
       "vid": "NWSZ4c9yqW8",
       "status": "review",
-      "completed_at": "2026-11-05T01:21:31.486480+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:30:59.807207+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:30:46.019952+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Simon Peyton Jones Data Parallel Haskell",
+        "Simon Peyton Jones Haskell 数据并行"
+      ],
+      "search_result_limit": 20
     },
     "OmJ-4B-mS-Y": {
       "vid": "OmJ-4B-mS-Y",
@@ -28644,8 +29660,15 @@
     "PhhC_N6Bm_s": {
       "vid": "PhhC_N6Bm_s",
       "status": "review",
-      "completed_at": "2026-11-05T01:22:07.995365+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:31:42.231459+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:31:07.925368+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "David Foster Wallace This Is Water Full Speech",
+        "大卫 福斯特 华莱士 这就是水 完整演讲"
+      ],
+      "search_result_limit": 20
     },
     "Pld8wTa16Jk": {
       "vid": "Pld8wTa16Jk",
@@ -28680,8 +29703,15 @@
     "Pp9MwZkHiMQ": {
       "vid": "Pp9MwZkHiMQ",
       "status": "review",
-      "completed_at": "2026-11-05T01:22:26.852984+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:31:52.754966+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:31:50.375525+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Benn Jordan Breaking AI Police Cameras",
+        "Benn Jordan 警用 摄像头 AI 破解"
+      ],
+      "search_result_limit": 20
     },
     "Pzl1B7nB9Kc": {
       "vid": "Pzl1B7nB9Kc",
@@ -28716,14 +29746,28 @@
     "Q3uvzcY2Xug": {
       "vid": "Q3uvzcY2Xug",
       "status": "review",
-      "completed_at": "2026-11-05T01:22:49.026044+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:32:06.822716+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:32:00.516263+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "End Suburbia 52 minute peak oil documentary",
+        "郊区 终结 石油峰值 52分钟 纪录片"
+      ],
+      "search_result_limit": 20
     },
     "QZy4Yml3LTY": {
       "vid": "QZy4Yml3LTY",
       "status": "review",
-      "completed_at": "2026-11-05T01:23:00.603963+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:32:22.524160+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:32:14.988445+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "John Wiegley Putting Lenses Work",
+        "John Wiegley Lenses 实践"
+      ],
+      "search_result_limit": 20
     },
     "RrHnLXMTOWM": {
       "vid": "RrHnLXMTOWM",
@@ -28758,38 +29802,104 @@
     "S2xHZPH5Sng": {
       "vid": "S2xHZPH5Sng",
       "status": "review",
-      "completed_at": "2026-11-05T01:23:34.749608+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:32:58.739371+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:32:30.821276+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Veritasium Clickbait Unreasonably Effective",
+        "Veritasium 标题党 出奇 有效"
+      ],
+      "search_result_limit": 20
     },
     "S7TUe5w6RHo": {
       "vid": "S7TUe5w6RHo",
-      "status": "review",
-      "completed_at": "2026-11-05T01:23:48.439970+00:00",
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-10T06:33:08.479312+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1jWfnBeE56",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【熟肉】45亿年地球全史：一小时阅尽永恒 - Kurzgesagt – In a Nutshell",
+          "up": "英文白斑马",
+          "duration": 3736,
+          "original_duration": 3811,
+          "cid": 36195143661,
+          "aid": 116108048793776,
+          "segment_title": "【熟肉】45亿年地球全史：一小时阅尽永恒 - Kurzgesagt – In a Nutshell",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 148,
+          "pic": "https://i1.hdslb.com/bfs/archive/757aab111409d5c1b5bb3b4460f2b9091a4ec0d2.png",
+          "checked_at": "2026-11-10T06:33:08.263547+00:00",
+          "availability": "available"
+        }
+      ],
+      "searched_at": "2026-11-10T06:33:07.195081+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Kurzgesagt 4.5 Billion Years 1 Hour",
+        "Kurzgesagt 45亿年 一小时"
+      ],
+      "search_result_limit": 20
     },
     "Tv6aJRGpz_A": {
       "vid": "Tv6aJRGpz_A",
       "status": "review",
-      "completed_at": "2026-11-05T01:24:04.845028+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:33:38.865240+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:33:17.221719+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Ahoy Doomed Embers Amiga FPS",
+        "Ahoy Amiga FPS 毁灭战士"
+      ],
+      "search_result_limit": 20
     },
     "UBc7qBS1Ujo": {
       "vid": "UBc7qBS1Ujo",
       "status": "review",
-      "completed_at": "2026-11-05T01:24:16.152649+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:33:53.629971+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:33:47.203596+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Shaun The Bell Curve",
+        "Shaun 钟形曲线"
+      ],
+      "search_result_limit": 20
     },
     "UawS3_iuHoA": {
       "vid": "UawS3_iuHoA",
       "status": "review",
-      "completed_at": "2026-11-05T01:24:33.018582+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:34:15.365918+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:34:01.752212+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Moxie Marlinspike SSL Future Authenticity DEF CON 19",
+        "Moxie Marlinspike SSL 认证 未来 DEFCON19"
+      ],
+      "search_result_limit": 20
     },
     "Uwl3-jBNEd4": {
       "vid": "Uwl3-jBNEd4",
       "status": "review",
-      "completed_at": "2026-11-05T01:25:04.756677+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:35:15.063321+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:34:23.900834+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Ben Felix Renting Buying Home 5 Percent Rule",
+        "Ben Felix 租房 买房 百分之五 规则"
+      ],
+      "search_result_limit": 20
     },
     "VAhHkJQ3KgY": {
       "vid": "VAhHkJQ3KgY",
@@ -28823,9 +29933,40 @@
     },
     "VQKMoT-6XSg": {
       "vid": "VQKMoT-6XSg",
-      "status": "review",
-      "completed_at": "2026-11-05T01:25:37.947316+00:00",
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-10T06:35:25.407854+00:00",
+      "candidates": [
+        {
+          "bvid": "BV16p4y147sG",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "iPhone 1 - Steve Jobs MacWorld keynote in 2007 - Full Presentation, 80 mins",
+          "up": "剩酒不买",
+          "duration": 4751,
+          "original_duration": 4751,
+          "cid": 335629630,
+          "aid": 972979219,
+          "segment_title": "iPhone 1 - Steve Jobs MacWorld keynote in 2007 - Full Presentation, 80 mins",
+          "page_count": 1,
+          "kind": "original",
+          "views": 190,
+          "pic": "https://i1.hdslb.com/bfs/archive/0d909041260b25feb9a936734e49c709587b3098.jpg",
+          "checked_at": "2026-11-10T06:35:25.195266+00:00",
+          "availability": "available"
+        }
+      ],
+      "searched_at": "2026-11-10T06:35:23.384156+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Steve Jobs iPhone MacWorld 2007 Full 80 minutes",
+        "乔布斯 iPhone MacWorld 2007 完整 发布会"
+      ],
+      "search_result_limit": 20
     },
     "XRYN2xt11Ek": {
       "vid": "XRYN2xt11Ek",
@@ -28860,20 +30001,41 @@
     "XfcvX0P1b5g": {
       "vid": "XfcvX0P1b5g",
       "status": "review",
-      "completed_at": "2026-11-05T01:25:57.609729+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:35:39.124973+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:35:33.151815+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Barely Sociable Bitcoin Unmasking Satoshi Nakamoto",
+        "Barely Sociable 比特币 揭秘 中本聪"
+      ],
+      "search_result_limit": 20
     },
     "XpDsk374LDE": {
       "vid": "XpDsk374LDE",
       "status": "review",
-      "completed_at": "2026-11-05T01:26:15.369838+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:35:59.836245+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:35:47.792118+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Evan Czaplicki Life File Elm Europe 2017",
+        "Evan Czaplicki 文件 一生 Elm 2017"
+      ],
+      "search_result_limit": 20
     },
     "Y3n3c_8Nn2Y": {
       "vid": "Y3n3c_8Nn2Y",
       "status": "review",
-      "completed_at": "2026-11-05T01:26:35.747201+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:36:36.261935+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:36:08.310363+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "farbrausch fr08 the product 64k 2000",
+        "farbrausch fr08 the product 64k 演示"
+      ],
+      "search_result_limit": 20
     },
     "Y5K9HBiJpuk": {
       "vid": "Y5K9HBiJpuk",
@@ -28938,68 +30100,169 @@
     "Z1qyvQsjK5Y": {
       "vid": "Z1qyvQsjK5Y",
       "status": "review",
-      "completed_at": "2026-11-05T01:27:03.014409+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:36:57.772016+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:36:44.810733+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Casey Muratori Immediate Mode GUI 2005",
+        "Casey Muratori 即时模式 图形界面 2005"
+      ],
+      "search_result_limit": 20
     },
     "ZMByI4s-D-Y": {
       "vid": "ZMByI4s-D-Y",
-      "status": "review",
-      "completed_at": "2026-11-05T01:27:23.364855+00:00",
-      "candidates": []
+      "status": "confirmed",
+      "completed_at": "2026-11-10T06:37:10.063984+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1KxWJ6hEJQ",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "世界最圆的物体",
+          "up": "njdkd",
+          "duration": 704,
+          "original_duration": 704,
+          "cid": 43436608202,
+          "aid": 117580450892899,
+          "segment_title": "source.zh-dub",
+          "page_count": 1,
+          "kind": "original",
+          "views": 128,
+          "pic": "https://i2.hdslb.com/bfs/archive/7c1cfd4032a678e8aa71abaa9a945e33c7baa2c0.jpg",
+          "checked_at": "2026-11-10T06:37:09.841554+00:00",
+          "availability": "available"
+        }
+      ],
+      "searched_at": "2026-11-10T06:37:06.122664+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Veritasium Worlds Roundest Object",
+        "Veritasium 世界 最圆 物体"
+      ],
+      "search_result_limit": 20
     },
     "_2LEgowbzSc": {
       "vid": "_2LEgowbzSc",
       "status": "review",
-      "completed_at": "2026-11-05T01:27:38.547367+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:37:31.066133+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:37:18.197379+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "c90adventures Riding Iran small motorcycle",
+        "c90adventures 小摩托 骑行 伊朗"
+      ],
+      "search_result_limit": 20
     },
     "_3loq22TxSc": {
       "vid": "_3loq22TxSc",
       "status": "review",
-      "completed_at": "2026-11-05T01:27:48.881017+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:37:54.469609+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:37:39.637719+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Tom Wildenhain PowerPoint Programming",
+        "Tom Wildenhain PowerPoint 编程"
+      ],
+      "search_result_limit": 20
     },
     "_gXlauRB1EQ": {
       "vid": "_gXlauRB1EQ",
       "status": "review",
-      "completed_at": "2026-11-05T01:27:57.076904+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:38:04.574023+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:38:02.843690+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "People Make Games Roblox Exploiting Developers",
+        "People Make Games Roblox 压榨 开发者"
+      ],
+      "search_result_limit": 20
     },
     "ainyK6fXku0": {
       "vid": "ainyK6fXku0",
       "status": "review",
-      "completed_at": "2026-11-05T01:28:41.052741+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:39:13.525547+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:38:12.944469+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "William Shatner Common People",
+        "威廉 夏特纳 Common People"
+      ],
+      "search_result_limit": 20
     },
     "bRcu-ysocX4": {
       "vid": "bRcu-ysocX4",
       "status": "review",
-      "completed_at": "2026-11-05T01:28:53.566229+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:39:35.789492+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:39:21.317025+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Eric Cline 1177 BC Civilization Collapsed",
+        "埃里克 克莱因 公元前1177 文明 崩溃"
+      ],
+      "search_result_limit": 20
     },
     "bkQJdaGGVM8": {
       "vid": "bkQJdaGGVM8",
       "status": "review",
-      "completed_at": "2026-11-05T01:29:19.528297+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:40:19.555458+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:39:44.068605+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Kevin Chen HDR Photography Microsoft Excel Con 2017",
+        "Kevin Chen Excel HDR 摄影 2017"
+      ],
+      "search_result_limit": 20
     },
     "bnKIVX968PQ": {
       "vid": "bnKIVX968PQ",
       "status": "review",
-      "completed_at": "2026-11-05T01:29:40.715780+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:40:48.698558+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:40:27.301713+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Not Just Bikes Lively Liveable Neighbourhoods Illegal",
+        "Not Just Bikes 宜居 社区 北美 非法"
+      ],
+      "search_result_limit": 20
     },
     "cKxRvEZd3Mw": {
       "vid": "cKxRvEZd3Mw",
       "status": "review",
-      "completed_at": "2026-11-05T01:30:18.882484+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:41:45.502124+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:40:56.892132+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Machine Learning Recipes 1 Hello World Google",
+        "Google 机器学习 食谱 第一集 Hello World"
+      ],
+      "search_result_limit": 20
     },
     "cbeJIwF1pVY": {
       "vid": "cbeJIwF1pVY",
       "status": "review",
-      "completed_at": "2026-11-05T01:30:45.789082+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:42:27.084520+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:41:53.672324+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Illinois EnergyProf Economics Nuclear Reactor",
+        "Illinois EnergyProf 核反应堆 经济学"
+      ],
+      "search_result_limit": 20
     },
     "ciStnd9Y2ak": {
       "vid": "ciStnd9Y2ak",
@@ -29034,8 +30297,15 @@
     "dNs_kNilSjk": {
       "vid": "dNs_kNilSjk",
       "status": "review",
-      "completed_at": "2026-11-05T01:31:04.377172+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:42:47.208047+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:42:34.770994+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Tech Ingredients Revolutionary Paint Cool Sun",
+        "Tech Ingredients 革命 涂料 阳光 降温"
+      ],
+      "search_result_limit": 20
     },
     "ulCdoCfw-bY": {
       "vid": "ulCdoCfw-bY",
@@ -29249,26 +30519,54 @@
     "eqQBubilSXU": {
       "vid": "eqQBubilSXU",
       "status": "review",
-      "completed_at": "2026-11-05T01:32:44.959749+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:43:47.200629+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:42:55.563775+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Crash Course SMIDSY lbtv",
+        "SMIDSY 摩托车 驾驶 防御 lbtv"
+      ],
+      "search_result_limit": 20
     },
     "f7MzFfuNOtY": {
       "vid": "f7MzFfuNOtY",
       "status": "review",
-      "completed_at": "2026-11-05T01:33:11.179792+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:44:45.510458+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:43:55.348824+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Real Engineering Truth Hydrogen",
+        "Real Engineering 氢能 真相"
+      ],
+      "search_result_limit": 20
     },
     "fFSPwJFXVlw": {
       "vid": "fFSPwJFXVlw",
       "status": "review",
-      "completed_at": "2026-11-05T01:33:20.844596+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:45:10.883443+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:44:54.127044+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Will Wilson Autonomous Testing Future Software Development",
+        "Will Wilson 自主测试 软件开发 未来"
+      ],
+      "search_result_limit": 20
     },
     "g3Ud6mHdhlQ": {
       "vid": "g3Ud6mHdhlQ",
       "status": "review",
-      "completed_at": "2026-11-05T01:33:34.494369+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T06:45:31.625112+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T06:45:19.823205+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Smarter Every Day 251 Nuclear Submarines Oxygen",
+        "SmarterEveryDay 251 核潜艇 制氧"
+      ],
+      "search_result_limit": 20
     },
     "iffTJ1vPCSo": {
       "vid": "iffTJ1vPCSo",

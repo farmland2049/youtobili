@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-10T03:32:29.603828+00:00",
+  "built_at": "2026-11-10T07:00:54.710305+00:00",
   "stats": {
     "corpus": 6454,
     "processed": 6201,
-    "confirmed": 1209,
-    "coverage": 0.1873256894948869,
-    "processed_match_rate": 0.19464602483470408
+    "confirmed": 1216,
+    "coverage": 0.18841028819336844,
+    "processed_match_rate": 0.19577487502015803
   },
   "areas": [
     {
@@ -12750,6 +12750,40 @@
       ]
     },
     {
+      "id": "AmgkSdhK4K8",
+      "title": "Who cares about topology?   (Old version)",
+      "author": "3Blue1Brown",
+      "source_url": "https://www.youtube.com/watch?v=AmgkSdhK4K8",
+      "summary": "An older 3Blue1Brown video on why topology matters, built around the inscribed rectangle problem. It walks through how tori and Mobius strips appear in the solution. The channel later replaced it with an updated version.",
+      "why": "Fans name it as a favorite 3Blue1Brown video, praising its detective-story treatment of the inscribed square and rectangle problem.",
+      "score": 5.5,
+      "tags": [
+        "inscribed rectangle",
+        "mobius strip",
+        "torus",
+        "3blue1brown",
+        "geometry"
+      ],
+      "categories": [
+        "pure-mathematics",
+        "recreational-math"
+      ],
+      "versions": [
+        {
+          "bvid": "BV161UUBdEaJ",
+          "page": 1,
+          "cid": 34252392672,
+          "title": "Who cares about topology?   (Old version) [3Blue1Brown - Videos]",
+          "up": "vector090_",
+          "duration": 990,
+          "kind": "original",
+          "views": 12,
+          "pic": "https://i1.hdslb.com/bfs/archive/4a254d84b0d5a4a95b12639a167663cee9781252.jpg",
+          "checked_at": "2026-11-10T04:00:01.908481+00:00"
+        }
+      ]
+    },
+    {
       "id": "EK32jo7i5LQ",
       "title": "Why do prime numbers make these spirals? | Dirichlet’s theorem and pi approximations",
       "author": "3Blue1Brown",
@@ -12982,6 +13016,76 @@
       ]
     },
     {
+      "id": "XvDZLjaCJuw",
+      "title": "UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories",
+      "author": "AT&T Tech Channel",
+      "source_url": "https://www.youtube.com/watch?v=XvDZLjaCJuw",
+      "summary": "A 1982 AT&T Bell Labs film for students about the Unix system and how it can be used practically. It includes Lorinda Cherry building a talking calculator by piping together Unix commands, and a spell checker made from Unix utilities.",
+      "why": "HN commenters recommend it as a demonstration of the Unix philosophy, with small tools composed through pipes.",
+      "score": 5.5,
+      "tags": [
+        "unix",
+        "bell labs",
+        "pipes",
+        "lorinda cherry",
+        "history of computing",
+        "kernighan"
+      ],
+      "categories": [
+        "history-of-computing",
+        "operating-systems"
+      ],
+      "versions": [
+        {
+          "bvid": "BV19W411U7vZ",
+          "page": 1,
+          "cid": 57000379,
+          "title": "UNIX Making Computers Easier To Use -- AT%26T Archives film from 1982, Bell Labo",
+          "up": "软件那些事儿",
+          "duration": 1419,
+          "kind": "original",
+          "views": 1586,
+          "pic": "https://i1.hdslb.com/bfs/archive/e027bd81b51dc5726f2f6dc16e1b08c4dbff3e8c.jpg",
+          "checked_at": "2026-11-10T05:13:13.385360+00:00"
+        }
+      ]
+    },
+    {
+      "id": "YyIQKBzIuBY",
+      "title": "Alan Kay - Programming and Scaling",
+      "author": "Colin McDonnell",
+      "source_url": "https://www.youtube.com/watch?v=YyIQKBzIuBY",
+      "summary": "An Alan Kay talk on programming and scaling, covering theoretical limits of code size, engineering versus tinkering, and biological cells as inspiration for object-oriented design.",
+      "why": "HN fans call it one of Kay's best talks and recommend it for rethinking why programming paradigms have barely changed.",
+      "score": 5.5,
+      "tags": [
+        "alan kay",
+        "oop",
+        "smalltalk",
+        "code size",
+        "systems thinking"
+      ],
+      "categories": [
+        "software-architecture-design",
+        "tech-figures-interviews",
+        "programming-language-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1fA411e7Ts",
+          "page": 1,
+          "cid": 212823891,
+          "title": "Programming and Scaling - Alan Kay",
+          "up": "Terence_Xie",
+          "duration": 3399,
+          "kind": "original",
+          "views": 70,
+          "pic": "https://i2.hdslb.com/bfs/archive/6815bb053c09cd4bb2393503739b1115a0c53025.jpg",
+          "checked_at": "2026-11-10T05:13:49.306118+00:00"
+        }
+      ]
+    },
+    {
       "id": "_yMMTVVJI4c",
       "title": "Why don't Americans use electric kettles?",
       "author": "Technology Connections",
@@ -13148,6 +13252,40 @@
           "views": 15858,
           "pic": "https://i2.hdslb.com/bfs/archive/e6a67a0dfbf8147f0aa9fac06b28d4e6016ca0fc.jpg",
           "checked_at": "2026-11-07T05:27:34.272066+00:00"
+        }
+      ]
+    },
+    {
+      "id": "gEKSpZPByD0",
+      "title": "Particles, Fields and The Future of Physics - A Lecture by Sean Carroll",
+      "author": "Fermilab",
+      "source_url": "https://www.youtube.com/watch?v=gEKSpZPByD0",
+      "summary": "Sean Carroll's 2013 Fermilab Users Meeting lecture on particles, fields and the future of particle physics. He explains that particles are vibrations in underlying quantum fields and touches on the Higgs, neutrinos and dark matter.",
+      "why": "HN recommends it as the clearest long-form explanation of the everything-is-fields view for non-physicists.",
+      "score": 5.5,
+      "tags": [
+        "sean carroll",
+        "quantum fields",
+        "particle physics",
+        "higgs",
+        "dark matter"
+      ],
+      "categories": [
+        "quantum-physics",
+        "university-lectures"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1bJ411r7Xc",
+          "page": 1,
+          "cid": 135570925,
+          "title": "粒子，场，物理的未来 Particles, Fields and The Future of Physics - Sean Carroll",
+          "up": "名手之道",
+          "duration": 5875,
+          "kind": "original",
+          "views": 441,
+          "pic": "https://i1.hdslb.com/bfs/archive/938941cd93e4fae908b0db1ef2ba3464e783d31a.jpg",
+          "checked_at": "2026-11-10T05:17:03.227035+00:00"
         }
       ]
     },
@@ -14679,6 +14817,41 @@
       ]
     },
     {
+      "id": "S7TUe5w6RHo",
+      "title": "4.5 Billion Years in 1 Hour",
+      "author": "Kurzgesagt – In a Nutshell",
+      "source_url": "https://www.youtube.com/watch?v=S7TUe5w6RHo",
+      "summary": "Kurzgesagt's hour-long animated film that compresses Earth's 4.5 billion year history into one hour, roughly a million years per second. It follows the evolution of life through to humanity's tiny final stretch.",
+      "why": "HN commenters recommend it for the sense of perspective it gives on deep time and how brief human history is.",
+      "score": 5.0,
+      "tags": [
+        "deep time",
+        "evolution",
+        "kurzgesagt",
+        "animation",
+        "geologic timeline"
+      ],
+      "categories": [
+        "geology-earth-science",
+        "evolution-genetics",
+        "cosmology-astrophysics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1jWfnBeE56",
+          "page": 1,
+          "cid": 36195143661,
+          "title": "【熟肉】45亿年地球全史：一小时阅尽永恒 - Kurzgesagt – In a Nutshell",
+          "up": "英文白斑马",
+          "duration": 3736,
+          "kind": "sub_zh",
+          "views": 148,
+          "pic": "https://i1.hdslb.com/bfs/archive/757aab111409d5c1b5bb3b4460f2b9091a4ec0d2.png",
+          "checked_at": "2026-11-10T06:33:08.263547+00:00"
+        }
+      ]
+    },
+    {
       "id": "VAhHkJQ3KgY",
       "title": "Dwarf Fortress Creator Explains its Complexity & Origins | Noclip Interview",
       "author": "/noclip",
@@ -14710,6 +14883,42 @@
           "views": 11426,
           "pic": "https://i1.hdslb.com/bfs/archive/1107a9029f0d4e173580eab17f68ba31f5b1fcfc.jpg",
           "checked_at": "2026-11-07T05:27:42.837569+00:00"
+        }
+      ]
+    },
+    {
+      "id": "VQKMoT-6XSg",
+      "title": "iPhone 1 - Steve Jobs MacWorld keynote in 2007 - Full Presentation, 80 mins",
+      "author": "Protectstar Inc.",
+      "source_url": "https://www.youtube.com/watch?v=VQKMoT-6XSg",
+      "summary": "The full 80-minute Macworld 2007 keynote in which Steve Jobs introduced the original iPhone. It includes the multitouch demos, visual voicemail and scrolling.",
+      "why": "Cited as a landmark tech presentation, especially for the audience's astonished reaction to touch scrolling and demo moments like visual voicemail.",
+      "score": 5.0,
+      "tags": [
+        "steve jobs",
+        "iphone",
+        "keynote",
+        "multitouch",
+        "apple",
+        "product launch"
+      ],
+      "categories": [
+        "tech-figures-interviews",
+        "consumer-devices",
+        "tech-company-stories"
+      ],
+      "versions": [
+        {
+          "bvid": "BV16p4y147sG",
+          "page": 1,
+          "cid": 335629630,
+          "title": "iPhone 1 - Steve Jobs MacWorld keynote in 2007 - Full Presentation, 80 mins",
+          "up": "剩酒不买",
+          "duration": 4751,
+          "kind": "original",
+          "views": 190,
+          "pic": "https://i1.hdslb.com/bfs/archive/0d909041260b25feb9a936734e49c709587b3098.jpg",
+          "checked_at": "2026-11-10T06:35:25.195266+00:00"
         }
       ]
     },
@@ -14813,6 +15022,40 @@
           "views": 51,
           "pic": "https://i1.hdslb.com/bfs/archive/355afc9420f0d3b06dd220dd830bda1ddd477c52.jpg",
           "checked_at": "2026-11-07T05:27:42.851969+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ZMByI4s-D-Y",
+      "title": "World's Roundest Object!",
+      "author": "Veritasium",
+      "source_url": "https://www.youtube.com/watch?v=ZMByI4s-D-Y",
+      "summary": "Veritasium explains the effort to redefine the kilogram, which was still defined by a physical artifact, and how a near-perfect silicon sphere from the Avogadro project helps. It also covers the history of the unit's odd naming.",
+      "why": "Recommended in kilogram-redefinition threads as a clear, short explainer of the Avogadro and Planck approaches.",
+      "score": 5.0,
+      "tags": [
+        "si units",
+        "avogadro project",
+        "metrology",
+        "veritasium",
+        "silicon sphere"
+      ],
+      "categories": [
+        "physics-space-other",
+        "fundamental-physics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1KxWJ6hEJQ",
+          "page": 1,
+          "cid": 43436608202,
+          "title": "世界最圆的物体",
+          "up": "njdkd",
+          "duration": 704,
+          "kind": "original",
+          "views": 128,
+          "pic": "https://i2.hdslb.com/bfs/archive/7c1cfd4032a678e8aa71abaa9a945e33c7baa2c0.jpg",
+          "checked_at": "2026-11-10T06:37:09.841554+00:00"
         }
       ]
     },
@@ -48142,6 +48385,7 @@
     "BV1tM411A7c5": "98LdFA-_zfA",
     "BV1GV411T7JA": "9yjZpBq1XBE",
     "BV19tEJ68ESZ": "AW3gaelBypY",
+    "BV161UUBdEaJ": "AmgkSdhK4K8",
     "BV1tE411h7x4": "EK32jo7i5LQ",
     "BV1HsZrB8EJy": "GoW8Tf7hTGA",
     "BV1Qs411r7Fo": "GoW8Tf7hTGA",
@@ -48152,11 +48396,14 @@
     "BV1JgUDBbEM8": "KTzGBJPuJwM",
     "BV1knUBBAEVE": "SrU9YDoXE88",
     "BV1Ly4y1r7Ue": "XRr1kaXKBsU",
+    "BV19W411U7vZ": "XvDZLjaCJuw",
+    "BV1fA411e7Ts": "YyIQKBzIuBY",
     "BV1zc411D7kB": "_yMMTVVJI4c",
     "BV1AJ411g75J": "arj7oStGLkU",
     "BV1PL411F7iw": "bRCNenhcvpw",
     "BV1h5411h7b3": "ceFyF9px20Y",
     "BV1s4411Q76a": "d0yGdNEWdn0",
+    "BV1bJ411r7Xc": "gEKSpZPByD0",
     "BV1Vt4y127op": "h47zZrqjgLc",
     "BV1BE411V7zW": "h47zZrqjgLc",
     "BV1ozxt66Emx": "jHP942Livy0",
@@ -48217,10 +48464,13 @@
     "BV1hx4y147c4": "QT0I-sdoSXU",
     "BV1Gfjk6DEWp": "QT0I-sdoSXU",
     "BV1Gt411A7ib": "RrHnLXMTOWM",
+    "BV1jWfnBeE56": "S7TUe5w6RHo",
     "BV1vv41167gn": "VAhHkJQ3KgY",
+    "BV16p4y147sG": "VQKMoT-6XSg",
     "BV1BA411L7VJ": "XRYN2xt11Ek",
     "BV1jfxMzKETZ": "Y5K9HBiJpuk",
     "BV1vx4y1D7GV": "YpuX-5E7xoU",
+    "BV1KxWJ6hEJQ": "ZMByI4s-D-Y",
     "BV15t41117Py": "ciStnd9Y2ak",
     "BV12qcnewECe": "e3msMuwqp-o",
     "BV1TZ421j7Ke": "eMlx5fFNoYc",
