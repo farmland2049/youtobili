@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-10T01:58:28.039065+00:00",
+  "built_at": "2026-11-10T03:32:29.603828+00:00",
   "stats": {
     "corpus": 6454,
     "processed": 6201,
-    "confirmed": 1204,
-    "coverage": 0.18655097613882862,
-    "processed_match_rate": 0.19383970327366554
+    "confirmed": 1209,
+    "coverage": 0.1873256894948869,
+    "processed_match_rate": 0.19464602483470408
   },
   "areas": [
     {
@@ -10567,6 +10567,40 @@
       ]
     },
     {
+      "id": "Bd8_vO5zrjo",
+      "title": "The Battle of Midway 1942: Told from the Japanese Perspective (1/3)",
+      "author": "Montemayor",
+      "source_url": "https://www.youtube.com/watch?v=Bd8_vO5zrjo",
+      "summary": "Part one of Montemayor's animated-map documentary on the Battle of Midway, told using only the information available to the Japanese side. It focuses on Nagumo's dilemma.",
+      "why": "HN recommends it for its information-dense maps and voice-over and for showing how commanders decide with limited information.",
+      "score": 6.5,
+      "tags": [
+        "midway",
+        "wwii",
+        "nagumo",
+        "naval history",
+        "animated maps"
+      ],
+      "categories": [
+        "military-warfare",
+        "world-history"
+      ],
+      "versions": [
+        {
+          "bvid": "BV124411Y7Wv",
+          "page": 1,
+          "cid": 128961342,
+          "title": "【原创翻译】【油管一周超80万观看】中途岛战役，日军视角（上集）",
+          "up": "漏油管道",
+          "duration": 2506,
+          "kind": "original",
+          "views": 277467,
+          "pic": "https://i0.hdslb.com/bfs/archive/a3b993a8aa8d84e97d3aa392da4ba5122dfd9517.jpg",
+          "checked_at": "2026-11-10T02:02:18.635763+00:00"
+        }
+      ]
+    },
+    {
       "id": "C4VHfmiwuv4",
       "title": "How Much Do Rockets Pollute? Are They Bad For Our Air?",
       "author": "Everyday Astronaut",
@@ -10667,6 +10701,41 @@
           "views": 150,
           "pic": "https://i0.hdslb.com/bfs/archive/ea5b2edf12e0ae3ea0b12b1007d7dde13f4020c1.jpg",
           "checked_at": "2026-11-07T05:27:39.692377+00:00"
+        }
+      ]
+    },
+    {
+      "id": "IV3dnLzthDA",
+      "title": "The Man Who Accidentally Killed The Most People In History",
+      "author": "Veritasium",
+      "source_url": "https://www.youtube.com/watch?v=IV3dnLzthDA",
+      "summary": "Veritasium tells the story of Thomas Midgley Jr., who introduced leaded gasoline and CFCs, and covers the science behind lead exposure and ozone damage. It also touches on isotope geochemistry used to uncover the history.",
+      "why": "HN commenters recommend it whenever leaded fuel, toxic chemicals or corporate profit motives come up, praising its storytelling and accessible science.",
+      "score": 6.5,
+      "tags": [
+        "thomas midgley",
+        "tetraethyllead",
+        "cfcs",
+        "environmental disaster",
+        "lead poisoning"
+      ],
+      "categories": [
+        "chemistry",
+        "environment-agriculture",
+        "world-history"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1gY4y1h7Di",
+          "page": 1,
+          "cid": 710887228,
+          "title": "历史上意外“杀死”最多人的人 The Man Who Accidentally Killed The Most People In History",
+          "up": "Procaryote",
+          "duration": 1497,
+          "kind": "original",
+          "views": 156,
+          "pic": "https://i0.hdslb.com/bfs/archive/4dbd771e10709a7564b4d2461e1a0f222f8f2f8d.jpg",
+          "checked_at": "2026-11-10T02:25:22.263141+00:00"
         }
       ]
     },
@@ -11257,6 +11326,40 @@
           "views": 85,
           "pic": "https://i1.hdslb.com/bfs/archive/a1e4dad8c8edd8b88765ff65c74be19ddcba56c9.jpg",
           "checked_at": "2026-11-07T05:27:40.099966+00:00"
+        }
+      ]
+    },
+    {
+      "id": "wJyUtbn0O5Y",
+      "title": "The Inner Life of the Cell Animation",
+      "author": "XVIVO Scientific Animation",
+      "source_url": "https://www.youtube.com/watch?v=wJyUtbn0O5Y",
+      "summary": "An award-winning 3D animation by XVIVO for Harvard's BioVisions showing the molecular machinery inside a cell as a white blood cell responds to a stimulus.",
+      "why": "Recommended as a jaw-dropping view of the complexity and machine-like nature of cells.",
+      "score": 6.5,
+      "tags": [
+        "cell biology",
+        "molecular animation",
+        "white blood cell",
+        "motor proteins",
+        "harvard biovisions"
+      ],
+      "categories": [
+        "biology-biotech",
+        "animation-vfx"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1zt4y1q7Ww",
+          "page": 1,
+          "cid": 236788118,
+          "title": "【细胞生物学】The inner life of the cell 细胞的内在",
+          "up": "账号已注销",
+          "duration": 193,
+          "kind": "original",
+          "views": 396,
+          "pic": "https://i1.hdslb.com/bfs/archive/553f97f4a754d52f863f95b00a517908e8719ad2.jpg",
+          "checked_at": "2026-11-10T02:51:03.356322+00:00"
         }
       ]
     },
@@ -12402,6 +12505,75 @@
           "views": 723,
           "pic": "https://i2.hdslb.com/bfs/archive/f7bcb84f61bd7b35127ea06ad490bb86341ee5b7.jpg",
           "checked_at": "2026-11-07T05:27:41.229174+00:00"
+        }
+      ]
+    },
+    {
+      "id": "0bcZb-SsnrA",
+      "title": "EPC2018 | Wave Function Collapse in Bad North | Oskar Stalberg",
+      "author": "BUas Games",
+      "source_url": "https://www.youtube.com/watch?v=0bcZb-SsnrA",
+      "summary": "Oskar Stalberg explains how Wave Function Collapse assembles island dioramas from handcrafted tilesets in Bad North. He covers the theory, implementation, tooling, and how he blends art and technology.",
+      "why": "The go-to talk whenever Wave Function Collapse, Townscaper or tile-based procedural generation comes up.",
+      "score": 5.5,
+      "tags": [
+        "wave function collapse",
+        "bad north",
+        "townscaper",
+        "tilesets",
+        "game development"
+      ],
+      "categories": [
+        "game-programming-engines",
+        "computer-graphics-rendering",
+        "indie-game-development"
+      ],
+      "versions": [
+        {
+          "bvid": "BV14V411Y7hG",
+          "page": 1,
+          "cid": 307089566,
+          "title": "【自学用】Oskar Stålberg - Bad North背后的波函数坍缩算法",
+          "up": "七朱八白",
+          "duration": 2261,
+          "kind": "original",
+          "views": 4265,
+          "pic": "https://i1.hdslb.com/bfs/archive/e7febfffb8c6dc33e7b929539099a6f24ede79d5.jpg",
+          "checked_at": "2026-11-10T03:28:09.046728+00:00"
+        }
+      ]
+    },
+    {
+      "id": "43XKfuptnik",
+      "title": "Heat Pumps are Not Hard: Here's what it will take to start pumping",
+      "author": "Technology Connections",
+      "source_url": "https://www.youtube.com/watch?v=43XKfuptnik",
+      "summary": "Technology Connections' long closing video in his heat pump series, arguing that adopting heat pumps is well within reach. It explains how they work and what it takes to start using them.",
+      "why": "HN recommends the series as an enthusiastic, entertaining deep dive into residential heat pumps whenever heating or climate threads arise.",
+      "score": 5.5,
+      "tags": [
+        "heating",
+        "hvac",
+        "energy efficiency",
+        "home electrification",
+        "residential"
+      ],
+      "categories": [
+        "power-grid-heating",
+        "renewables-storage"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1qr61BWEFW",
+          "page": 1,
+          "cid": 35730558491,
+          "title": "【中配】热泵其实很简单：家庭供暖普及指南 - Technology Connections",
+          "up": "黑纹白斑马",
+          "duration": 2660,
+          "kind": "dub_zh",
+          "views": 922,
+          "pic": "https://i0.hdslb.com/bfs/archive/4a434fe7b1d568fbb84d094f3aceca845a302ade.png",
+          "checked_at": "2026-11-10T03:29:29.395679+00:00"
         }
       ]
     },
@@ -47893,9 +48065,11 @@
     "BV1gT411V7iR": "6mTbuzafcII",
     "BV1PGr5Y4EsG": "7erJ1DV_Tlo",
     "BV1qh411S79j": "8S0FDjFBj8o",
+    "BV124411Y7Wv": "Bd8_vO5zrjo",
     "BV1eE411c7ts": "C4VHfmiwuv4",
     "BV1hM4m1Z7fX": "DZCBRHOg3PQ",
     "BV1Fw411s71V": "Eq3bUFgEcb4",
+    "BV1gY4y1h7Di": "IV3dnLzthDA",
     "BV1TE411h7Jf": "JWD1Fpdd4Pc",
     "BV1WW411x7BJ": "MBnnXbOM5S4",
     "BV1w99yBYE2k": "MBnnXbOM5S4",
@@ -47921,6 +48095,7 @@
     "BV1wV411t7P1": "iwcYp-XT7UI",
     "BV1Xt41187zj": "p7bzE1E5PMY",
     "BV1mi4y1q73Y": "p7bzE1E5PMY",
+    "BV1zt4y1q7Ww": "wJyUtbn0O5Y",
     "BV1aTmqYSEcJ": "1e8VZlPBx_0",
     "BV1Rk4y1r7tQ": "2XLZ4Z8LpEE",
     "BV1Fb4y1Q73z": "5MgBikgcWnY",
@@ -47960,6 +48135,8 @@
     "BV14WViegEBw": "-4Yp3j_jk8Q",
     "BV1Lo2sB5EHF": "-k-V3ESHcfA",
     "BV132qfB2Eqz": "-k-V3ESHcfA",
+    "BV14V411Y7hG": "0bcZb-SsnrA",
+    "BV1qr61BWEFW": "43XKfuptnik",
     "BV1TS421972w": "5wAo54DHDY0",
     "BV179T3zhEb1": "72y2EC5fkcE",
     "BV1tM411A7c5": "98LdFA-_zfA",
