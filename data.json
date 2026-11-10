@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-10T18:02:16.703482+00:00",
+  "built_at": "2026-11-10T18:37:39.863966+00:00",
   "stats": {
     "corpus": 6454,
     "processed": 6405,
-    "confirmed": 1230,
-    "coverage": 0.19057948559033158,
-    "processed_match_rate": 0.1920374707259953
+    "confirmed": 1231,
+    "coverage": 0.19073442826154322,
+    "processed_match_rate": 0.1921935987509758
   },
   "areas": [
     {
@@ -34720,6 +34720,41 @@
       ]
     },
     {
+      "id": "ett_8wLJ87U",
+      "title": "The man who faked human cloning",
+      "author": "BobbyBroccoli",
+      "source_url": "https://www.youtube.com/watch?v=ett_8wLJ87U",
+      "summary": "BobbyBroccoli's first of two long documentaries about Hwang Woo-suk, the South Korean scientist who faked human cloning results. It tells the story of the scandal that shook a country.",
+      "why": "Recommended as a gripping account of scientific fraud and the history of cloning research.",
+      "score": 2.0,
+      "tags": [
+        "hwang woo-suk",
+        "human cloning",
+        "stem cells",
+        "research misconduct",
+        "south korea"
+      ],
+      "categories": [
+        "biology-biotech",
+        "documentaries-storytelling",
+        "science-method-communication"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Ys4y197Yy",
+          "page": 1,
+          "cid": 1107596261,
+          "title": "[BobbyBroccoli/字幕付] 那个伪造了人类克隆的男人 上篇 The man who faked human cloning",
+          "up": "令和第一只咸鱼",
+          "duration": 3886,
+          "kind": "original",
+          "views": 1894,
+          "pic": "https://i0.hdslb.com/bfs/archive/c293baa4c07ff66c6718b587b0272419cec94290.jpg",
+          "checked_at": "2026-11-10T18:25:03.434782+00:00"
+        }
+      ]
+    },
+    {
       "id": "f8FAJXPBdOg",
       "title": "The Molecular Shape of You (Ed Sheeran Parody) | A Capella Science",
       "author": "acapellascience",
@@ -49625,6 +49660,7 @@
     "BV1Z7411k7Vb": "d_FEaFgJyfA",
     "BV1mW411t7i6": "d_FEaFgJyfA",
     "BV1sureBzEsW": "esUb7Zy5Oio",
+    "BV1Ys4y197Yy": "ett_8wLJ87U",
     "BV1yJ411U7qS": "f8FAJXPBdOg",
     "BV1ox411t74X": "f8FAJXPBdOg",
     "BV147411v7u7": "f8FAJXPBdOg",
