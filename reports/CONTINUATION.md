@@ -656,3 +656,75 @@
 - 分支 `continue-20261110-r5`，从 `origin/main` `9b3f8f2` 新建；日志位于 `/workspace/youtobili-r5-logs/`。
 - 起点：确认 1194 / 版本 1639；待审三类：尚需扩大 8 / 已扩大 222 / 元数据缺失 4824；完成处理 6201 / 6454；隔离原片 99。
 - 目标：强哥要求「继续开发，直到我让你暂停再整理并检查」。用循环脚本 `/workspace/youtobili-r5-logs/run-batches.sh` 不设截止时间反复跑 `match --expand-review --primary-first --limit 50 --delay 2 --exclude-vid...`；每批开始前检查暂停文件 `PAUSE`；遇 Blocked 硬停；连续 2 个错误批次休眠后再试；每 5 批本地提交一次；停下后补实播抽检、跑全部测试并补齐本小节结果。
+
+### 1. 匹配批次
+- 方式：循环脚本 `/workspace/youtobili-r5-logs/run-batches.sh` 不设截止时间，反复跑 `match --expand-review --primary-first --limit 50 --delay 2`，带 `--exclude-vid` 排除隔离原片；普通网络错误结束本批、该原片加入排除名单；连续 2 个错误批次后休眠 15–30 分钟再继续；遇 Blocked 硬停；每 5 批本地提交一次。
+- 停因：秦强在 youtobili 群说「暂停」。循环进程 21392 被终止。不是风控，也不是 Blocked/412。已完成的 14 批 stopped 均为 false，日志无 Blocked/HTTP 401/403/412/429。
+- 批次（时间均为北京时间 2026-11-10）：
+  - `20261109T235552Z`（07:55–08:14）：排除 99；完成 50/50，确认 6 / 待审 44，暂缓详情候选 34；rc=0。确认数 1200。
+  - `20261110T001450Z`（08:14–08:40）：排除 99；完成 50/50，全部待审，无错误；rc=0。确认数仍 1200。
+  - `20261110T004046Z`（08:40–09:13）：排除 99；完成 22，确认 2 / 待审 21，第 23 条 `HI09kat_GeI` `URLError`；暂缓 11；rc=2。确认数 1202。
+  - `20261110T011324Z`（09:13–09:21）：排除 100；完成 12，全部待审，第 13 条 `ZTC_RxWN_xo` `RemoteDisconnected`；rc=2。确认数仍 1202。随后连续 2 个错误批次，休眠 1065 秒后继续。
+  - `20261110T013946Z`（09:39–09:58）：排除 101；完成 30，确认 2 / 待审 29，第 31 条 `52Mx0_8YEtg` `URLError`；暂缓 14；rc=2。确认数 1204。提交 `d6edf94`。
+  - `20261110T015829Z`（09:58–10:04）：排除 102；完成 9，确认 1 / 待审 9，第 10 条 `DJtef410XaM` `TimeoutError`；暂缓 9；rc=2。确认数 1205。随后连续 2 个错误批次，休眠 1119 秒后继续。
+  - `20261110T022307Z`（10:23–10:50）：排除 103；完成 50/50，确认 1 / 待审 49，暂缓 14；rc=0。确认数 1206。
+  - `20261110T025027Z`（10:50–11:13）：排除 103；完成 50/50，确认 1 / 待审 49，暂缓 30；rc=0。确认数 1207。
+  - `20261110T031314Z`（11:13–11:14）：排除 103；完成 0，第 1 条 `kya_LXa_y1E` `URLError`；rc=2。确认数仍 1207。
+  - `20261110T031438Z`（11:14–11:32）：排除 104；完成 33，确认 2 / 待审 32，第 34 条 `8Ko3TdPy0TU` `RemoteDisconnected`；暂缓 11；rc=2。确认数 1209。提交 `ea02470`。随后连续 2 个错误批次，休眠 1512 秒后继续。
+  - `20261110T035806Z`（11:58–12:44）：排除 105；完成 23，确认 1 / 待审 23，第 24 条 `NHopJHSlVo4` `URLError`；暂缓 23；rc=2。确认数 1210。
+  - `20261110T044435Z`（12:44–13:26）：排除 106；完成 36，确认 3 / 待审 34，第 37 条 `iGFqfTCL2fs` `TimeoutError`；暂缓 32；rc=2。确认数 1213。随后连续 2 个错误批次，休眠 1201 秒后继续。
+  - `20261110T054714Z`（13:47–14:20）：排除 107；完成 50/50，全部待审，无错误；rc=0。确认数仍 1213。
+  - `20261110T062035Z`（14:20–14:45）：排除 107；完成 50/50，确认 3 / 待审 47，暂缓 38；rc=0。确认数 1216。此为最后完整批次。
+  - 第 15 批 `20261110T064533Z`（14:45 启动）：排除 107；14:49 因「暂停」被 SIGNAL 中断。match 日志写下 7 条均待审（`iffTJ1vPCSo`、`j-vJxez9UF8`、`jVoSQP2yUYA`、`jgOTZe07eHA`、`jh8supIUj6c`、`k7X7sZzSXYs`、`klaJqofCsu4`），回执不完整（completed=7、attempted=6、statuses.review=6，无 candidate_count）。无新确认。已把这 7 条从已扩大还原为元数据缺失（candidates 清空，completed_at 恢复为 batch 10 账本中的原值），不完整回执移出 `data/work/batches/`，保存到日志 `batch-20261110T064533Z.interrupted.json`。batch 1–14 已完成数据未删。还原后统计与 batch 14 结束时一致。
+
+### 2. 新确认条目
+新确认 22 条（均为简介中明确原片链接的自动匹配确认，均分P 1；除另注外原片时长与发布时长相同或相差 1 秒）：
+- `0bcZb-SsnrA` → `BV14V411Y7hG`（original，2261秒，CID 307089566）
+- `1ffBJ4sVUb4` → `BV1ux41167yX`（original，5983秒，CID 19152212）
+- `43XKfuptnik` → `BV1qr61BWEFW`（dub_zh，2660秒，CID 35730558491；原片时长 2793，差 133 秒，低于阈值 max(60, 8%)）
+- `AmgkSdhK4K8` → `BV161UUBdEaJ`（original，990秒，CID 34252392672）
+- `Bd8_vO5zrjo` → `BV124411Y7Wv`（original，2506秒，CID 128961342）
+- `G_eYTctGZw8` → `BV1Ka411v7qK`（original，2398秒，CID 575831787）
+- `IV3dnLzthDA` → `BV1gY4y1h7Di`（original，1497秒，CID 710887228）
+- `OoJsPvmFixU` → `BV1sP7u6VETR`（original，3614秒，CID 39326322628；原片时长 3920，差 306 秒，低于阈值 max(60, 8%)）
+- `S7TUe5w6RHo` → `BV1jWfnBeE56`（sub_zh，3736秒，CID 36195143661；原片时长 3811，差 75 秒，低于阈值 max(60, 8%)）
+- `T647CGsuOVU` → `BV15K4y1Y7ar`（original，347秒，CID 238675023）
+- `Tb823aqgX_0` → `BV16T411U78B`（original，2203秒，CID 1015774755）
+- `VQKMoT-6XSg` → `BV16p4y147sG`（original，4751秒，CID 335629630）
+- `XvDZLjaCJuw` → `BV19W411U7vZ`（original，1419秒，CID 57000379）
+- `YyIQKBzIuBY` → `BV1fA411e7Ts`（original，3399秒，CID 212823891）
+- `ZMByI4s-D-Y` → `BV1KxWJ6hEJQ`（original，704秒，CID 43436608202）
+- `bHIhgxav9LY` → `BV1Bxno65EEw`（original，888秒，CID 43079238333）
+- `gEKSpZPByD0` → `BV1bJ411r7Xc`（original，5875秒，CID 135570925）
+- `m3svKOdZijA` → `BV1ey4y1Z7AW`（original，2191秒，CID 1016730180）
+- `sGG-A80Tl5g` → `BV1jk4y1j7Pe`（original，1392秒，CID 1119058808）
+- `tISy7EJQPzI` → `BV1Ex411V7Sv`（original，5473秒，CID 24335235）
+- `wJyUtbn0O5Y` → `BV1zt4y1q7Ww`（original，193秒，CID 236788118）
+- `xt1KNDmOYqA` → `BV1rH4y1w7sq`（original，1813秒，CID 1614944674）
+
+### 3. 指标前后变化
+终点指标（还原 batch 15 中断产物并 build 之后，与 batch 14 结束时一致）：
+- 完成处理 6201 不变；
+- 确认原片 1194→1216（+22）；
+- 覆盖率 18.50%→18.84%；
+- 发布版本 1639→1661；
+- 待审 5054→5032；
+- 尚需扩大 8→16；
+- 已扩大 222→665；
+- 元数据缺失 4824→4351；
+- 账本相对基线改动 473 条（新确认 22 + 新写入搜索元数据 449 + 新记录错误 2）。
+- 隔离原片 99→107（新增 `HI09kat_GeI`、`ZTC_RxWN_xo`、`52Mx0_8YEtg`、`DJtef410XaM`、`kya_LXa_y1E`、`8Ko3TdPy0TU`、`NHopJHSlVo4`、`iGFqfTCL2fs`）。
+
+### 4. 实播验证
+- `reports/playback-r5-batch.json`：22/22 通过；播放器时长与声明时长差最大 1.22 秒（阈值 3 秒），CID 一致；未做逐帧比较。
+
+### 5. 验收与交接状态
+- 验证：
+  - `npm test` 79 项 OK；
+  - `npm run test:browser` 15 场景 pass（originals 1216；`reports/browser-tests.json` 已按要求 checkout 还原，未纳入提交）；
+  - `pipeline check` PASS 1216 原片 / 1661 分P。
+- 提交与交接：
+  - 本轮已有本地提交（均未 push、未合并 main）：`fc98494`（第5轮开工时补记第4轮小节并刷新 search-health）、`d6edf94`（b5，确认 1194→1204）、`ea02470`（b10，确认 1194→1209）、`76feb7e`（收尾数据提交，确认 1194→1216）。文档与 `reports/playback-r5-batch.json` 将在本节写入后另作提交，文档中不编造该提交 sha。
+  - 交接状态：未 push、未合并 main。
+  - 剩余约 4351 条元数据缺失待审需继续重搜；253 条未处理（6454-6201）；107 条网络隔离原片待单条复查。
+  - 因秦强暂停而停，未跑完后续批次。
