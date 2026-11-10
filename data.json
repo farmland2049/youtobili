@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-10T11:49:33.315279+00:00",
+  "built_at": "2026-11-10T16:21:19.662774+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 6201,
-    "confirmed": 1217,
-    "coverage": 0.1885652308645801,
-    "processed_match_rate": 0.19593613933236576
+    "processed": 6405,
+    "confirmed": 1224,
+    "coverage": 0.18964982956306167,
+    "processed_match_rate": 0.19110070257611242
   },
   "areas": [
     {
@@ -302,6 +302,11 @@
           "id": "tech-company-stories",
           "name": "科技公司故事",
           "original_name": "Tech company stories & documentaries"
+        },
+        {
+          "id": "computing-history-other",
+          "name": "其他计算文化",
+          "original_name": "Computing culture (other)"
         }
       ]
     },
@@ -47855,6 +47860,74 @@
       ]
     },
     {
+      "id": "tWdgAMYjYSs",
+      "title": "Max Headroom WTTW Pirating Incident - 11/22/87 (Subtitled)",
+      "author": "jonrev",
+      "source_url": "https://www.youtube.com/watch?v=tWdgAMYjYSs",
+      "summary": "A subtitled edit of the 1987 Max Headroom broadcast signal intrusion, in which hijackers interrupted Chicago stations WGN and WTTW.",
+      "why": "Linked as the famous example of a hijacked TV broadcast in threads about hacking and signal intrusion.",
+      "score": 0.0,
+      "tags": [
+        "max headroom",
+        "tv hack",
+        "1987",
+        "wttw",
+        "chicago"
+      ],
+      "categories": [
+        "internet-culture",
+        "media-journalism",
+        "privacy-surveillance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Wo4y1d7KP",
+          "page": 1,
+          "cid": 294178447,
+          "title": "Max Headroom WTTW Pirating Incident - 11_22_87 (Subtitled)-tWdgAMYjYSs",
+          "up": "账号已注销",
+          "duration": 126,
+          "kind": "original",
+          "views": 107,
+          "pic": "https://i0.hdslb.com/bfs/archive/8ded976a12ca36a57c8ba9382a007d3d8e43fc29.jpg",
+          "checked_at": "2026-11-10T13:15:10.140039+00:00"
+        }
+      ]
+    },
+    {
+      "id": "uASUHbFEhWY",
+      "title": "Futurama - eyePhone",
+      "author": "Calopus",
+      "source_url": "https://www.youtube.com/watch?v=uASUHbFEhWY",
+      "summary": "A clip from Futurama's 'Attack of the Killer App' episode parodying the iPhone as the eyePhone.",
+      "why": "Posted as a joke in threads about AR headsets, wearables and Apple's future products.",
+      "score": 0.0,
+      "tags": [
+        "futurama",
+        "eyephone",
+        "iphone parody",
+        "ar headset"
+      ],
+      "categories": [
+        "satire-parody",
+        "film-tv-clips"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1US4y167Uf",
+          "page": 1,
+          "cid": 518319054,
+          "title": "名场面--10年前的动画预言了苹果眼镜的未来形态 - eyePhone",
+          "up": "蔡子尤",
+          "duration": 164,
+          "kind": "original",
+          "views": 822,
+          "pic": "https://i0.hdslb.com/bfs/archive/f77f2bd37e1d469b013b2aa6a8e54cc8ab369e6a.jpg",
+          "checked_at": "2026-11-10T13:26:44.891462+00:00"
+        }
+      ]
+    },
+    {
       "id": "ugvHCXCOmm4",
       "title": "Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452",
       "author": "Lex Fridman",
@@ -47886,6 +47959,74 @@
           "views": 2140,
           "pic": "https://i2.hdslb.com/bfs/archive/33f364b9f1a1d81eb7b78ed150e2bfe08aada25c.jpg",
           "checked_at": "2026-11-07T05:38:03.388901+00:00"
+        }
+      ]
+    },
+    {
+      "id": "up863eQKGUI",
+      "title": "Don't Copy That Floppy (Official Video - Digitally Remastered)",
+      "author": "AntiSoftwarePirates",
+      "source_url": "https://www.youtube.com/watch?v=up863eQKGUI",
+      "summary": "The 1992 SIIA anti-piracy rap video Don't Copy That Floppy, warning kids against copying software, remastered and uploaded.",
+      "why": "Referenced only as a nostalgic, cringeworthy joke in threads about floppies and piracy.",
+      "score": 0.0,
+      "tags": [
+        "software piracy",
+        "floppy disks",
+        "1990s",
+        "rap"
+      ],
+      "categories": [
+        "computing-history-other",
+        "law-policing-justice",
+        "demoscene-retrocomputing"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Sx41177nn",
+          "page": 1,
+          "cid": 25777269,
+          "title": "【怀旧向】90年代版权保护宣传 Don't Copy That Floppy，别复制那张软盘。",
+          "up": "疯鸡委员",
+          "duration": 582,
+          "kind": "original",
+          "views": 494,
+          "pic": "https://i0.hdslb.com/bfs/archive/fb12867fa7420b0448f1cb00535b2f9258d64026.jpg",
+          "checked_at": "2026-11-10T13:42:21.940195+00:00"
+        }
+      ]
+    },
+    {
+      "id": "vjqt8T3tJIE",
+      "title": "Did People Used To Look Older?",
+      "author": "Vsauce",
+      "source_url": "https://www.youtube.com/watch?v=vjqt8T3tJIE",
+      "summary": "Vsauce explores whether people in past decades really looked older than people of the same age today, or whether photographic and cultural factors make them seem so. It draws on old photos, yearbooks and perception research.",
+      "why": "HN commenters cite it to explain why people in old photos seem older than they were.",
+      "score": 0.0,
+      "tags": [
+        "perception",
+        "aging",
+        "old photographs",
+        "psychology",
+        "vsauce"
+      ],
+      "categories": [
+        "psychology-behavior",
+        "neuroscience-brain"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Ad4y1z79J",
+          "page": 1,
+          "cid": 839337026,
+          "title": "[生肉]Did People Used To Look Older ?",
+          "up": "苦杕氯化钠",
+          "duration": 1375,
+          "kind": "original",
+          "views": 65,
+          "pic": "https://i0.hdslb.com/bfs/archive/5c722eaff0d45017a9ad8e373ea939c28ed4497c.jpg",
+          "checked_at": "2026-11-10T14:02:16.641005+00:00"
         }
       ]
     },
@@ -47924,6 +48065,39 @@
       ]
     },
     {
+      "id": "wCrtk-pyP0I",
+      "title": "Microwaving Grapes Makes Plasma",
+      "author": "Veritasium",
+      "source_url": "https://www.youtube.com/watch?v=wCrtk-pyP0I",
+      "summary": "Veritasium explains why a halved grape in a microwave makes plasma: the grape traps microwaves, and the fields of two halves interact to concentrate energy where they touch.",
+      "why": "Mentioned as a classic physics demo in threads on microwaves and related resonance effects.",
+      "score": 0.0,
+      "tags": [
+        "grape plasma",
+        "microwaves",
+        "electromagnetism",
+        "veritasium"
+      ],
+      "categories": [
+        "everyday-physics-demos",
+        "fundamental-physics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1jb41187zL",
+          "page": 1,
+          "cid": 78187217,
+          "title": "How Microwaving Grapes Makes Plasma 微波葡萄如何产生等离子体 【不要模仿！！！】",
+          "up": "pt_R",
+          "duration": 496,
+          "kind": "original",
+          "views": 3318,
+          "pic": "https://i0.hdslb.com/bfs/archive/4fb06de5521d56c581a15e62ac326ccc2c3ceaf5.jpg",
+          "checked_at": "2026-11-10T14:07:03.614030+00:00"
+        }
+      ]
+    },
+    {
       "id": "y3RIHnK0_NE",
       "title": "New Robot Makes Soldiers Obsolete (Corridor Digital)",
       "author": "Corridor Digital",
@@ -47954,6 +48128,76 @@
           "views": 2658,
           "pic": "https://i2.hdslb.com/bfs/archive/a53430fdf5a9dbb14afb279cf915b2c32d286965.jpg",
           "checked_at": "2026-11-08T13:05:25.282474+00:00"
+        }
+      ]
+    },
+    {
+      "id": "y8OnoxKotPQ",
+      "title": "Microservices",
+      "author": "KRAZAM",
+      "source_url": "https://www.youtube.com/watch?v=y8OnoxKotPQ",
+      "summary": "A short KRAZAM comedy sketch in which engineers explain an absurdly tangled microservices architecture to a manager. It parodies how backend complexity gets justified with jargon.",
+      "why": "Posted as a joke or shorthand whenever a thread touches microservices, architecture sprawl, naming, or talking to management.",
+      "score": 0.0,
+      "tags": [
+        "microservices",
+        "software architecture",
+        "satire",
+        "sketch comedy",
+        "engineering culture"
+      ],
+      "categories": [
+        "software-other",
+        "satire-parody",
+        "software-architecture-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1iq4y1574e",
+          "page": 1,
+          "cid": 427510459,
+          "title": "Microservices",
+          "up": "zimmer816",
+          "duration": 190,
+          "kind": "original",
+          "views": 50,
+          "pic": "https://i1.hdslb.com/bfs/archive/3a0bab74d1ed1c1f5bdb5f47862acef14f8792f7.jpg",
+          "checked_at": "2026-11-10T15:06:13.896138+00:00"
+        }
+      ]
+    },
+    {
+      "id": "zyaocKS3sfg",
+      "title": "Adam Savage's Spot Robot Rickshaw Carriage!",
+      "author": "Adam Savage’s Tested",
+      "source_url": "https://www.youtube.com/watch?v=zyaocKS3sfg",
+      "summary": "Adam Savage builds a Victorian-style rickshaw carriage for Boston Dynamics' Spot robot to pull, with him riding as passenger. The video covers the build and the engineering problems of pairing cutting-edge robotics with vintage transport, such as tuning the payload through Spot's API.",
+      "why": "HN commenters cite it as a fun real-world example of Spot hauling a passenger whenever Boston Dynamics robots come up.",
+      "score": 0.0,
+      "tags": [
+        "spot",
+        "boston dynamics",
+        "robotics",
+        "maker projects",
+        "adam savage"
+      ],
+      "categories": [
+        "robotics",
+        "3d-printing-cnc",
+        "mechanical-engineering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1n7411J75n",
+          "page": 1,
+          "cid": 152290940,
+          "title": "亚当萨维奇的Spot人(?)力车-Adam Savage's Spot Robot Rickshaw Carriage!",
+          "up": "エロの観测者",
+          "duration": 1699,
+          "kind": "original",
+          "views": 182,
+          "pic": "https://i1.hdslb.com/bfs/archive/2270a0b7d5c6d2ac82984e4b1e7b0df92dc5f24d.jpg",
+          "checked_at": "2026-11-10T16:11:51.952225+00:00"
         }
       ]
     }
@@ -49609,8 +49853,15 @@
     "BV1ws41117vZ": "qNf9nzvnd1k",
     "BV1Vs41167e2": "sforhbLiwLA",
     "BV1xW411L75Y": "stXgn2iZAAY",
+    "BV1Wo4y1d7KP": "tWdgAMYjYSs",
+    "BV1US4y167Uf": "uASUHbFEhWY",
     "BV1JNSwB8EvF": "ugvHCXCOmm4",
+    "BV1Sx41177nn": "up863eQKGUI",
+    "BV1Ad4y1z79J": "vjqt8T3tJIE",
     "BV1sp4y1b7Qy": "wCDIYvFmgW8",
-    "BV1KE411a74h": "y3RIHnK0_NE"
+    "BV1jb41187zL": "wCrtk-pyP0I",
+    "BV1KE411a74h": "y3RIHnK0_NE",
+    "BV1iq4y1574e": "y8OnoxKotPQ",
+    "BV1n7411J75n": "zyaocKS3sfg"
   }
 }

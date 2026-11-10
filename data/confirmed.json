@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T11:49:33.335064+00:00",
+  "updated_at": "2026-11-10T16:21:19.682982+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -536,7 +536,7 @@
     "7xTGNNLPyMI": {
       "vid": "7xTGNNLPyMI",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-10T13:00:47.045061+00:00",
       "candidates": [
         {
           "bvid": "BV19ZN8eVEsS",
@@ -585,6 +585,30 @@
           "aid": 113956253340709
         },
         {
+          "bvid": "BV16cNEeXEer",
+          "status": "confirmed",
+          "lead_url": "https://www.bilibili.com/video/BV16cNEeXEer",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【1080P】安德烈·卡帕西：深入探索像ChatGPT这样的大语言模型｜Andrej Karpathy",
+          "up": "KrillinAI俊希",
+          "duration": 12684,
+          "original_duration": 12684,
+          "cid": 28783937873,
+          "aid": 113954810499325,
+          "segment_title": "【1080P】安德烈·卡帕西：深入探索像ChatGPT这样的大语言模型｜Andrej Karpathy",
+          "page_count": 1,
+          "kind": "original",
+          "views": 381455,
+          "pic": "https://i2.hdslb.com/bfs/archive/ceaa532aa7374e729f1cf2916bb2a2a56ecf7377.jpg",
+          "checked_at": "2026-11-07T05:27:34.159331+00:00",
+          "availability": "available"
+        },
+        {
           "bvid": "BV1otgf6sES5",
           "status": "confirmed",
           "reason": "explicit source URL, segment and duration verified",
@@ -629,32 +653,15 @@
           "pic": "https://i1.hdslb.com/bfs/archive/fe2ff2b427b2e4c850bbc705a4908e19b6374e35.png",
           "checked_at": "2026-11-08T13:03:24.869606+00:00",
           "availability": "available"
-        },
-        {
-          "bvid": "BV16cNEeXEer",
-          "status": "confirmed",
-          "lead_url": "https://www.bilibili.com/video/BV16cNEeXEer",
-          "evidence": [
-            "explicit original URL or labeled YouTube ID in Bilibili description"
-          ],
-          "flags": [],
-          "reason": "explicit source URL, segment and duration verified",
-          "page": 1,
-          "title": "【1080P】安德烈·卡帕西：深入探索像ChatGPT这样的大语言模型｜Andrej Karpathy",
-          "up": "KrillinAI俊希",
-          "duration": 12684,
-          "original_duration": 12684,
-          "cid": 28783937873,
-          "aid": 113954810499325,
-          "segment_title": "【1080P】安德烈·卡帕西：深入探索像ChatGPT这样的大语言模型｜Andrej Karpathy",
-          "page_count": 1,
-          "kind": "original",
-          "views": 381455,
-          "pic": "https://i2.hdslb.com/bfs/archive/ceaa532aa7374e729f1cf2916bb2a2a56ecf7377.jpg",
-          "checked_at": "2026-11-07T05:27:34.159331+00:00",
-          "availability": "available"
         }
-      ]
+      ],
+      "searched_at": "2026-11-10T13:00:47.045019+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Deep Dive into LLMs like ChatGPT",
+        "Andrej Karpathy Deep Dive into LLMs like ChatGPT"
+      ],
+      "search_result_limit": 20
     },
     "L_Guz73e6fw": {
       "vid": "L_Guz73e6fw",
@@ -897,7 +904,7 @@
     "zjkBMFhNj_g": {
       "vid": "zjkBMFhNj_g",
       "status": "confirmed",
-      "completed_at": null,
+      "completed_at": "2026-11-10T13:00:47.308832+00:00",
       "candidates": [
         {
           "bvid": "BV1AU421o7ob",
@@ -1037,7 +1044,14 @@
           "checked_at": "2026-11-08T13:07:21.184751+00:00",
           "availability": "available"
         }
-      ]
+      ],
+      "searched_at": "2026-11-10T13:00:47.308788+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "[1hr Talk] Intro to Large Language Models",
+        "Andrej Karpathy [1hr Talk] Intro to Large Language Models"
+      ],
+      "search_result_limit": 20
     },
     "VMj-3S1tku0": {
       "vid": "VMj-3S1tku0",
@@ -19300,8 +19314,15 @@
     "oY59wZdCDo0": {
       "vid": "oY59wZdCDo0",
       "status": "review",
-      "completed_at": "2026-11-04T21:50:35.811969+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:21:19.070006+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:20:42.700512+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "THE SAGAN SERIES - The Frontier Is Everywhere",
+        "Reid Gower THE SAGAN SERIES - The Frontier Is Everywhere"
+      ],
+      "search_result_limit": 20
     },
     "xodtfM1r9FA": {
       "vid": "xodtfM1r9FA",
@@ -25790,8 +25811,15 @@
     "I6xwMIUPHss": {
       "vid": "I6xwMIUPHss",
       "status": "review",
-      "completed_at": "2026-11-04T23:25:56.096621+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:12:34.143764+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:12:24.060769+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Company that Broke Canada",
+        "BobbyBroccoli The Company that Broke Canada"
+      ],
+      "search_result_limit": 20
     },
     "M3BM9TB-8yA": {
       "vid": "M3BM9TB-8yA",
@@ -43237,8 +43265,15 @@
     "GNKFSpJIBO0": {
       "vid": "GNKFSpJIBO0",
       "status": "review",
-      "completed_at": "2026-11-05T13:45:45.023881+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:11:59.278325+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:11:58.335266+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Math Encounters -- Five Balls, Two Hands: The Patterns of Juggling -- Colin Wright (Presentation)",
+        "Colin Wright 杂耍 五球 双手 规律"
+      ],
+      "search_result_limit": 20
     },
     "GRYcSuyLiJk": {
       "vid": "GRYcSuyLiJk",
@@ -43303,26 +43338,54 @@
     "HM1Zb3xmvMc": {
       "vid": "HM1Zb3xmvMc",
       "status": "review",
-      "completed_at": "2026-11-05T13:46:48.505091+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:12:04.650813+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:11:59.500618+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Land of Lisp- The Music Video!",
+        "Land of Lisp 音乐 视频"
+      ],
+      "search_result_limit": 20
     },
     "HXAW2GseICs": {
       "vid": "HXAW2GseICs",
       "status": "review",
-      "completed_at": "2026-11-05T13:47:23.224975+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:12:09.087809+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:12:04.929026+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Perfect Sourdough Pizza (Bread Porn)",
+        "完美 酸面团 披萨 LifebyMikeG"
+      ],
+      "search_result_limit": 20
     },
     "HhGI-GqAK9c": {
       "vid": "HhGI-GqAK9c",
       "status": "review",
-      "completed_at": "2026-11-05T13:48:12.438129+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:12:15.442197+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:12:09.332867+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "SIGBOVIK 2007: Generalized Super Mario Bros. is NP-Complete",
+        "SIGBOVIK2007 超级 马里奥 NP 完全"
+      ],
+      "search_result_limit": 20
     },
     "HhGuXCuDb1U": {
       "vid": "HhGuXCuDb1U",
       "status": "review",
-      "completed_at": "2026-11-05T13:48:31.157723+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:12:17.188694+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:12:15.668190+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Tim Minchin's Storm the Animated Movie",
+        "Tim Minchin Storm 动画"
+      ],
+      "search_result_limit": 20
     },
     "HrUy1Vn2KdI": {
       "vid": "HrUy1Vn2KdI",
@@ -43357,26 +43420,54 @@
     "IJcuQQ1eWWI": {
       "vid": "IJcuQQ1eWWI",
       "status": "review",
-      "completed_at": "2026-11-05T13:48:57.541221+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:12:35.688398+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:12:34.370795+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Playing to Lose: AI and \"Civilization\" (Soren Johnson)",
+        "Soren Johnson 文明 AI 玩游戏 输"
+      ],
+      "search_result_limit": 20
     },
     "IJiHDmyhE1A": {
       "vid": "IJiHDmyhE1A",
       "status": "review",
-      "completed_at": "2026-11-05T13:49:36.202651+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:12:40.719959+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:12:35.935023+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Christopher Tin - Baba Yetu (Official Video) feat. Soweto Gospel Choir",
+        "Christopher Tin Baba Yetu 官方 视频"
+      ],
+      "search_result_limit": 20
     },
     "IX-gTobCJHs": {
       "vid": "IX-gTobCJHs",
       "status": "review",
-      "completed_at": "2026-11-05T13:50:05.767263+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:12:44.215214+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:12:40.964898+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Nokia Morph Concept (long)",
+        "诺基亚 Morph 概念 长版"
+      ],
+      "search_result_limit": 20
     },
     "IaWdEtANi-0": {
       "vid": "IaWdEtANi-0",
       "status": "review",
-      "completed_at": "2026-11-05T13:50:23.723456+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:12:46.175729+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:12:44.452933+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "People & Power - On a wing and a prayer",
+        "半岛电视台 People Power 飞机 安全"
+      ],
+      "search_result_limit": 20
     },
     "ipVxxxqwBQw": {
       "vid": "ipVxxxqwBQw",
@@ -43412,20 +43503,41 @@
     "IeSu_odkI5I": {
       "vid": "IeSu_odkI5I",
       "status": "review",
-      "completed_at": "2026-11-05T13:51:23.636631+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:12:48.005529+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:12:46.427965+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Armin Ronacher - A Python for Future Generations",
+        "Armin Ronacher 未来 世代 Python"
+      ],
+      "search_result_limit": 20
     },
     "ImoQqNyRL8Y": {
       "vid": "ImoQqNyRL8Y",
       "status": "review",
-      "completed_at": "2026-11-05T13:51:50.754808+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:12:51.336764+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:12:48.234668+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Incredible Sounds of the Falcon Heavy Launch (BINAURAL AUDIO IMMERSION) - Smarter Every Day 189",
+        "聪明每一天189 猎鹰 重型 发射 双耳 声音"
+      ],
+      "search_result_limit": 20
     },
     "Iod6uwUGM2E": {
       "vid": "Iod6uwUGM2E",
       "status": "review",
-      "completed_at": "2026-11-05T13:52:06.267506+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:12:52.879838+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:12:51.593531+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "How does a Bowling Pinsetter Machine work? (Brunswick GS-X)",
+        "Jared Owen 保龄球 置瓶机 Brunswick GSX"
+      ],
+      "search_result_limit": 20
     },
     "IrabKK9Bhds": {
       "vid": "IrabKK9Bhds",
@@ -43483,20 +43595,41 @@
     "IxuU5L2MEII": {
       "vid": "IxuU5L2MEII",
       "status": "review",
-      "completed_at": "2026-11-05T13:52:48.091999+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:12:56.632370+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:12:53.156939+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "ai.bythebay.io: George Hotz, Self-Driving Lessons from Comma AI",
+        "George Hotz 自动驾驶 Comma AI"
+      ],
+      "search_result_limit": 20
     },
     "Iyp_X3mwE1w": {
       "vid": "Iyp_X3mwE1w",
       "status": "review",
-      "completed_at": "2026-11-05T13:53:13.806914+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:13:00.009108+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:12:56.895064+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "A Complete Beginner's Guide to Electric Vehicles",
+        "Technology Connections 电动汽车 完整 入门"
+      ],
+      "search_result_limit": 20
     },
     "JENdgiAPD6c": {
       "vid": "JENdgiAPD6c",
       "status": "review",
-      "completed_at": "2026-11-05T13:53:25.151746+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:13:00.824828+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:13:00.263478+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Ricardo Signes - 闇のEメール伝説",
+        "Ricardo Signes 闇 E邮件 传说"
+      ],
+      "search_result_limit": 20
     },
     "JeB3JnKp8To": {
       "vid": "JeB3JnKp8To",
@@ -43531,38 +43664,80 @@
     "JiNKlhspdKg": {
       "vid": "JiNKlhspdKg",
       "status": "review",
-      "completed_at": "2026-11-05T13:53:45.063851+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:13:01.671866+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:13:01.050196+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "New Horizons in Music: Polyrhythms | Loop",
+        "Ableton Loop 复节奏 音乐 新境界"
+      ],
+      "search_result_limit": 20
     },
     "K3lP3BhvnSo": {
       "vid": "K3lP3BhvnSo",
       "status": "review",
-      "completed_at": "2026-11-05T13:54:07.236347+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:13:05.230048+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:13:01.926750+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "How the Fed's \"Money Printer\" Really Works",
+        "Ben Felix 美联储 印钞机 原理"
+      ],
+      "search_result_limit": 20
     },
     "KbB0FjPg0mw": {
       "vid": "KbB0FjPg0mw",
       "status": "review",
-      "completed_at": "2026-11-05T13:54:49.087093+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:13:11.749032+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:13:05.465887+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Lecture 1: Probability and Counting | Statistics 110",
+        "哈佛 Statistics110 概率 计数 第一讲"
+      ],
+      "search_result_limit": 20
     },
     "KgzQuE1pR1w": {
       "vid": "KgzQuE1pR1w",
       "status": "review",
-      "completed_at": "2026-11-05T13:55:44.833694+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:13:19.391486+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:13:12.002949+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Bill Hicks - It's Just A Ride",
+        "Bill Hicks 人生 只是 一趟 旅程"
+      ],
+      "search_result_limit": 20
     },
     "Kxryv2XrnqM": {
       "vid": "Kxryv2XrnqM",
       "status": "review",
-      "completed_at": "2026-11-05T13:56:01.493867+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:13:21.196219+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:13:19.638978+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Clean Disruption - Why Energy & Transportation will be Obsolete by 2030 - Oslo, March 2016",
+        "Tony Seba 清洁 颠覆 奥斯陆2016"
+      ],
+      "search_result_limit": 20
     },
     "L1j93RnIxEo": {
       "vid": "L1j93RnIxEo",
       "status": "review",
-      "completed_at": "2026-11-05T13:56:17.658553+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:13:22.851274+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:13:21.422846+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Here's What's Preventing You From Finishing Projects",
+        "Zack Freedman 项目 无法 完成"
+      ],
+      "search_result_limit": 20
     },
     "L_XJ_s5IsQc": {
       "vid": "L_XJ_s5IsQc",
@@ -43643,104 +43818,223 @@
     "LnS0PfNyj4U": {
       "vid": "LnS0PfNyj4U",
       "status": "review",
-      "completed_at": "2026-11-05T13:56:53.382263+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:13:28.385497+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:13:23.095731+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Dr Russell Barkley on ADHD Meds and how they all work differently from each other",
+        "Russell Barkley ADHD 药物 区别"
+      ],
+      "search_result_limit": 20
     },
     "M8F5hXqS-Ac": {
       "vid": "M8F5hXqS-Ac",
       "status": "review",
-      "completed_at": "2026-11-05T13:57:08.786595+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:13:30.929138+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:13:28.607731+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Safe Cycling Showdown - Good vs. Bad City Design - Plus 1 Minus 2",
+        "Not Just Bikes 安全 骑行 城市 设计"
+      ],
+      "search_result_limit": 20
     },
     "MFol6IMbZ7Y": {
       "vid": "MFol6IMbZ7Y",
       "status": "review",
-      "completed_at": "2026-11-05T13:57:17.410909+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:13:31.372395+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:13:31.179462+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Defeating Ssl Using Sslstrip (Marlinspike Blackhat)",
+        "Moxie Marlinspike SSLstrip Blackhat"
+      ],
+      "search_result_limit": 20
     },
     "MO0r930Sn_8": {
       "vid": "MO0r930Sn_8",
       "status": "review",
-      "completed_at": "2026-11-05T13:57:36.890671+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:13:36.189153+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:13:31.653744+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Richard Feynman Magnets",
+        "理查德 费曼 磁铁"
+      ],
+      "search_result_limit": 20
     },
     "MYucYon2-lk": {
       "vid": "MYucYon2-lk",
       "status": "review",
-      "completed_at": "2026-11-05T13:58:02.386229+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:13:39.298478+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:13:36.421085+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Hillel Wayne - Beyond Unit Tests: Taking Your Testing to the Next Level - PyCon 2018",
+        "Hillel Wayne 超越 单元 测试 PyCon2018"
+      ],
+      "search_result_limit": 20
     },
     "MiUHjLxm3V0": {
       "vid": "MiUHjLxm3V0",
       "status": "review",
-      "completed_at": "2026-11-05T13:58:14.744134+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:13:40.747009+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:13:39.609027+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Closest Thing We Have to Alien Technology",
+        "Veritasium 最接近 外星 科技"
+      ],
+      "search_result_limit": 20
     },
     "MondapIjAAM": {
       "vid": "MondapIjAAM",
       "status": "review",
-      "completed_at": "2026-11-05T13:58:35.166596+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:13:43.374968+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:13:41.019517+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Time America Almost Stopped Climate Change | Climate Town",
+        "Climate Town 美国 几乎 阻止 气候变化"
+      ],
+      "search_result_limit": 20
     },
     "N6xLMUifbxQ": {
       "vid": "N6xLMUifbxQ",
       "status": "review",
-      "completed_at": "2026-11-05T13:58:51.563917+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:13:45.017156+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:13:43.625935+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Kursk: The Epic Armored Engagement (2013)",
+        "库尔斯克 装甲 战役 2013 博物馆"
+      ],
+      "search_result_limit": 20
     },
     "NeopkvAP-ag": {
       "vid": "NeopkvAP-ag",
       "status": "review",
-      "completed_at": "2026-11-05T13:59:16.315240+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:13:48.628927+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:13:45.308510+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "So... the minute hand shows progression — apparently we think of time in wildly different ways",
+        "Technology Connextras 分针 时间 观念"
+      ],
+      "search_result_limit": 20
     },
     "NiRrvxjrJ1U": {
       "vid": "NiRrvxjrJ1U",
       "status": "review",
-      "completed_at": "2026-11-05T13:59:28.867582+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:13:49.686614+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:13:48.879738+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Liquid Metal Battery: Innovation in stationary electricity storage",
+        "液态金属 电池 固定 储能 创新"
+      ],
+      "search_result_limit": 20
     },
     "NngCHTImH1g": {
       "vid": "NngCHTImH1g",
       "status": "review",
-      "completed_at": "2026-11-05T13:59:54.479490+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:13:52.669234+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:13:49.952770+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Future of Humanity's Energy No One Knows About | Terraform",
+        "人类 能源 未来 Terraform S3"
+      ],
+      "search_result_limit": 20
     },
     "Nnuq9PXbywA": {
       "vid": "Nnuq9PXbywA",
       "status": "review",
-      "completed_at": "2026-11-05T14:00:42.346868+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:13:59.053544+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:13:52.897676+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "J.S. Bach - Toccata and Fugue in D minor BWV 565",
+        "巴赫 D小调 托卡塔 赋格 BWV565"
+      ],
+      "search_result_limit": 20
     },
     "Npd_xDuNi9k": {
       "vid": "Npd_xDuNi9k",
       "status": "review",
-      "completed_at": "2026-11-05T14:01:10.667426+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:14:02.656329+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:13:59.311898+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "What is Right to Repair? An introduction for curious people.",
+        "Louis Rossmann 维修权 入门"
+      ],
+      "search_result_limit": 20
     },
     "O61WihMRdjM": {
       "vid": "O61WihMRdjM",
       "status": "review",
-      "completed_at": "2026-11-05T14:01:25.796155+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:14:04.104341+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:14:02.889702+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Understanding the Toyota RAV4 Hybrid",
+        "WeberAuto 丰田 RAV4 混合动力"
+      ],
+      "search_result_limit": 20
     },
     "OP4CKn86qGY": {
       "vid": "OP4CKn86qGY",
       "status": "review",
-      "completed_at": "2026-11-05T14:01:46.117837+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:14:06.318932+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:14:04.362894+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Avoid These Words (And Not Just at Work)",
+        "Adam Savage 避免 使用 这些 词"
+      ],
+      "search_result_limit": 20
     },
     "OQQ-W_63UgQ": {
       "vid": "OQQ-W_63UgQ",
       "status": "review",
-      "completed_at": "2026-11-07T21:36:42.599769+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:14:10.661064+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:14:06.555783+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Lecture 1 | Natural Language Processing with Deep Learning",
+        "斯坦福 深度学习 自然语言处理 第一讲"
+      ],
+      "search_result_limit": 20
     },
     "OWXoRSIxyIU": {
       "vid": "OWXoRSIxyIU",
       "status": "review",
-      "completed_at": "2026-11-05T14:02:49.172393+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:14:16.387557+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:14:10.908105+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "13 Misconceptions About Global Warming",
+        "Veritasium 全球变暖 十三个 误解"
+      ],
+      "search_result_limit": 20
     },
     "O_azyt1JhI0": {
       "vid": "O_azyt1JhI0",
@@ -43775,26 +44069,54 @@
     "OqEeIG8aPPk": {
       "vid": "OqEeIG8aPPk",
       "status": "review",
-      "completed_at": "2026-11-05T14:03:19.224599+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:14:19.281893+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:14:16.642274+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "If Russ Ackoff had given a TED Talk...",
+        "Russ Ackoff TED 演讲 系统"
+      ],
+      "search_result_limit": 20
     },
     "OxhTQdcieQE": {
       "vid": "OxhTQdcieQE",
       "status": "review",
-      "completed_at": "2026-11-05T14:03:31.144059+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:14:20.934611+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:14:19.514843+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "RailsConf 2016 - Rails to Phoenix by Brian Cardarella",
+        "Brian Cardarella Rails Phoenix RailsConf2016"
+      ],
+      "search_result_limit": 20
     },
     "PBFPJ3_6ZWs": {
       "vid": "PBFPJ3_6ZWs",
       "status": "review",
-      "completed_at": "2026-11-05T14:03:47.264600+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:14:22.601844+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:14:21.194945+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "LED Experiments: Making Holiday Lights Less Garish",
+        "Technology Connections LED 节日 彩灯 实验"
+      ],
+      "search_result_limit": 20
     },
     "PDylgzybWAw": {
       "vid": "PDylgzybWAw",
       "status": "review",
-      "completed_at": "2026-11-05T14:04:08.926559+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:14:26.275697+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:14:22.834910+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Predatory Lending: Last Week Tonight with John Oliver (HBO)",
+        "约翰 奥利弗 掠夺性 贷款"
+      ],
+      "search_result_limit": 20
     },
     "PFUZlNQIndo": {
       "vid": "PFUZlNQIndo",
@@ -43829,38 +44151,80 @@
     "PFc379hu--8": {
       "vid": "PFc379hu--8",
       "status": "review",
-      "completed_at": "2026-11-05T14:04:45.966535+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:14:30.359848+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:14:26.548940+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Alan Kay : July 2007 : A Conversation with CMU Faculty & Students",
+        "Alan Kay 卡内基梅隆 对谈 2007"
+      ],
+      "search_result_limit": 20
     },
     "PSGEjv3Tqo0": {
       "vid": "PSGEjv3Tqo0",
       "status": "review",
-      "completed_at": "2026-11-05T14:05:03.889010+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:14:33.247340+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:14:30.626795+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Nordic.js 2014 • Douglas Crockford - The Better Parts",
+        "Douglas Crockford Better Parts Nordicjs2014"
+      ],
+      "search_result_limit": 20
     },
     "PmlRbfSavbI": {
       "vid": "PmlRbfSavbI",
       "status": "review",
-      "completed_at": "2026-11-05T14:05:24.226761+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:14:35.548717+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:14:33.478722+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Stealing Baseball Signs with a Phone (Machine Learning)",
+        "Mark Rober 手机 偷看 棒球 暗号 机器学习"
+      ],
+      "search_result_limit": 20
     },
     "PpG0z-npFIY": {
       "vid": "PpG0z-npFIY",
       "status": "review",
-      "completed_at": "2026-11-05T14:05:42.057884+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:14:37.599357+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:14:35.808470+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Kedi - Full Length Documentary",
+        "Kedi 伊斯坦布尔 猫 完整 纪录片"
+      ],
+      "search_result_limit": 20
     },
     "QEIUdMiColU": {
       "vid": "QEIUdMiColU",
       "status": "review",
-      "completed_at": "2026-11-05T14:06:14.292352+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:14:41.721656+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:14:37.837825+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Starlink revisions, Nov 2018",
+        "Mark Handley 星链 修订 2018"
+      ],
+      "search_result_limit": 20
     },
     "QKCK4lJLQHU": {
       "vid": "QKCK4lJLQHU",
       "status": "review",
-      "completed_at": "2026-11-05T14:06:32.000441+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:14:43.818165+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:14:41.976015+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Doug McLean | Common Misconceptions in Aerodynamics",
+        "Doug McLean 空气动力学 常见 误解"
+      ],
+      "search_result_limit": 20
     },
     "QWveXdj6oZU": {
       "vid": "QWveXdj6oZU",
@@ -43955,20 +44319,41 @@
     "QpDn4-Na5co": {
       "vid": "QpDn4-Na5co",
       "status": "review",
-      "completed_at": "2026-11-05T14:07:16.905502+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:14:45.332766+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:14:44.104855+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Lazerhawk ~ Redline Full Album",
+        "Lazerhawk Redline 完整 专辑"
+      ],
+      "search_result_limit": 20
     },
     "QqrpFICtqpQ": {
       "vid": "QqrpFICtqpQ",
       "status": "review",
-      "completed_at": "2026-11-05T14:07:29.531432+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:14:52.357804+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:14:51.578388+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "327 - Choices, costs, and challenges in US healthcare: insurance, drug pricing, & potential reforms",
+        "Peter Attia327 美国 医疗 保险 药价 改革"
+      ],
+      "search_result_limit": 20
     },
     "RCRTgtpC-Go": {
       "vid": "RCRTgtpC-Go",
       "status": "review",
-      "completed_at": "2026-11-05T14:07:40.675708+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:14:53.180276+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:14:52.597637+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Dropping the Bomb: Hiroshima & Nagasaki",
+        "Shaun 投下 原子弹 广岛 长崎"
+      ],
+      "search_result_limit": 20
     },
     "HKTSaezB4p8": {
       "vid": "HKTSaezB4p8",
@@ -44083,38 +44468,80 @@
     "SC2eSujzrUY": {
       "vid": "SC2eSujzrUY",
       "status": "review",
-      "completed_at": "2026-11-05T14:09:00.942106+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:14:55.290085+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:14:53.482636+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Biggest Chemical Coverup In History",
+        "Veritasium 历史 最大 化学 掩盖"
+      ],
+      "search_result_limit": 20
     },
     "SCFXV6o7cro": {
       "vid": "SCFXV6o7cro",
       "status": "review",
-      "completed_at": "2026-11-05T14:09:22.773363+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:14:58.866484+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:14:55.601317+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Kostya Kimlat Fools Penn & Teller // Fool Us: Penn's Favorite Card Trick",
+        "Kostya Kimlat Penn Teller Fool Us 纸牌"
+      ],
+      "search_result_limit": 20
     },
     "SIOQgY1tqrU": {
       "vid": "SIOQgY1tqrU",
       "status": "review",
-      "completed_at": "2026-11-05T14:09:47.124212+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:15:03.081641+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:14:59.102731+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "23. Language",
+        "斯坦福 Sapolsky 第23讲 语言"
+      ],
+      "search_result_limit": 20
     },
     "SemHh0n19LA": {
       "vid": "SemHh0n19LA",
       "status": "review",
-      "completed_at": "2026-11-05T14:10:21.117757+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:15:08.055003+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:15:03.337254+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "5 steps to designing the life you want  | Bill Burnett | TEDxStanford",
+        "Bill Burnett 设计 人生 五步 TEDxStanford"
+      ],
+      "search_result_limit": 20
     },
     "SfsCniN7Nsc": {
       "vid": "SfsCniN7Nsc",
       "status": "review",
-      "completed_at": "2026-11-05T14:10:50.687678+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:15:12.193664+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:15:08.334283+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Suburbs Are Bleeding America Dry | Climate Town (feat. @NotJustBikes)",
+        "Climate Town 郊区 美国 失血"
+      ],
+      "search_result_limit": 20
     },
     "T2OxO-4YLRk": {
       "vid": "T2OxO-4YLRk",
       "status": "review",
-      "completed_at": "2026-11-05T14:11:14.690233+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:15:15.770384+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:15:12.446878+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Classic Game Postmortem: Fallout",
+        "GDC 辐射 Fallout 经典 游戏 复盘"
+      ],
+      "search_result_limit": 20
     },
     "T42WuUpBuHE": {
       "vid": "T42WuUpBuHE",
@@ -44149,20 +44576,41 @@
     "T5RmMNDR5XI": {
       "vid": "T5RmMNDR5XI",
       "status": "review",
-      "completed_at": "2026-11-05T14:11:46.625203+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:15:18.700820+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:15:16.028339+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "What is in a Lucene index? Adrien Grand, Software Engineer, Elasticsearch",
+        "Adrien Grand Lucene 索引 里面"
+      ],
+      "search_result_limit": 20
     },
     "T6X2uwlQGQM": {
       "vid": "T6X2uwlQGQM",
       "status": "review",
-      "completed_at": "2026-11-05T14:12:01.506299+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:15:20.323839+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:15:18.938317+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Chai Jing's review: Under the Dome – Investigating China’s Smog 柴静雾霾调查：穹顶之下 (full translation)",
+        "柴静 穹顶之下 雾霾 调查 完整 英文"
+      ],
+      "search_result_limit": 20
     },
     "TPpoJGYlW54": {
       "vid": "TPpoJGYlW54",
       "status": "review",
-      "completed_at": "2026-11-05T14:12:27.102207+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:15:23.451257+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:15:20.579908+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "How wildlife trade is linked to coronavirus",
+        "Vox 野生动物 贸易 冠状病毒"
+      ],
+      "search_result_limit": 20
     },
     "TVgQ_tgWMyU": {
       "vid": "TVgQ_tgWMyU",
@@ -44243,32 +44691,67 @@
     "TVwKjGbz60k": {
       "vid": "TVwKjGbz60k",
       "status": "review",
-      "completed_at": "2026-11-05T14:13:04.014074+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:15:26.958523+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:15:23.686638+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Slavoj Žižek on \"They Live\" (The Pervert's Guide to Ideology)",
+        "齐泽克 极度空间 意识形态 指南"
+      ],
+      "search_result_limit": 20
     },
     "TruCIPy79w8": {
       "vid": "TruCIPy79w8",
       "status": "review",
-      "completed_at": "2026-11-05T14:13:17.502506+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:15:29.511199+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:15:27.221776+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Milton Friedman - Why Tax Reform Is Impossible",
+        "米尔顿 弗里德曼 税收 改革 不可能"
+      ],
+      "search_result_limit": 20
     },
     "TwKpj2ISQAc": {
       "vid": "TwKpj2ISQAc",
       "status": "review",
-      "completed_at": "2026-11-05T14:13:27.086476+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:15:30.175112+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:15:29.772279+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "the sham legacy of Richard Feynman",
+        "Angela Collier 理查德 费曼 遗产"
+      ],
+      "search_result_limit": 20
     },
     "TwRjO3kHxU4": {
       "vid": "TwRjO3kHxU4",
       "status": "review",
-      "completed_at": "2026-11-05T14:13:42.285833+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:15:31.674678+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:15:30.416255+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "How We Bought Our Abandoned House in Japan | Process, Costs, Risks, Finance, How to Find One",
+        "Tokyo Llama 日本 废弃 房屋 购买 流程 成本"
+      ],
+      "search_result_limit": 20
     },
     "UANN2Eu6ZnM": {
       "vid": "UANN2Eu6ZnM",
       "status": "review",
-      "completed_at": "2026-11-05T14:14:06.583831+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:15:34.630896+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:15:31.982906+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Mental Game of Python - Raymond Hettinger",
+        "Raymond Hettinger Python 心智 游戏"
+      ],
+      "search_result_limit": 20
     },
     "UIKGV2cTgqA": {
       "vid": "UIKGV2cTgqA",
@@ -44303,56 +44786,119 @@
     "UV1V9-nnaAs": {
       "vid": "UV1V9-nnaAs",
       "status": "review",
-      "completed_at": "2026-11-05T14:14:27.743000+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:15:35.275685+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:15:34.878637+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Celestial Navigation (instruction video)",
+        "天文 导航 Celestial Navigation 教学"
+      ],
+      "search_result_limit": 20
     },
     "Uj6skZIxPuI": {
       "vid": "Uj6skZIxPuI",
       "status": "review",
-      "completed_at": "2026-11-05T14:14:48.312176+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:15:37.883961+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:15:35.577578+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "David Reich — How one small tribe conquered the world 70,000 years ago",
+        "David Reich Dwarkesh 小部落 征服 世界"
+      ],
+      "search_result_limit": 20
     },
     "UnURElCzGc0": {
       "vid": "UnURElCzGc0",
       "status": "review",
-      "completed_at": "2026-11-05T14:15:15.269063+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:15:43.496360+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:15:38.124446+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Cosmos - Carl Sagan - 4th Dimension",
+        "卡尔 萨根 宇宙 第四维"
+      ],
+      "search_result_limit": 20
     },
     "Uooh0Y9fC_M": {
       "vid": "Uooh0Y9fC_M",
       "status": "review",
-      "completed_at": "2026-11-05T14:15:24.697932+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:15:44.976602+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:15:43.753305+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "John Carmack Keynote - Quakecon 2013",
+        "John Carmack Quakecon2013 主题 演讲"
+      ],
+      "search_result_limit": 20
     },
     "UyyjU8fzEYU": {
       "vid": "UyyjU8fzEYU",
       "status": "review",
-      "completed_at": "2026-11-05T14:15:48.713328+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:15:48.907226+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:15:45.299751+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "My stroke of insight | Jill Bolte Taylor | TED",
+        "Jill Bolte Taylor 中风 顿悟 TED"
+      ],
+      "search_result_limit": 20
     },
     "VESMU7JfVHU": {
       "vid": "VESMU7JfVHU",
       "status": "review",
-      "completed_at": "2026-11-05T14:16:47.050850+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:15:57.458436+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:15:49.167653+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Neutron movie of coffee making",
+        "咖啡 制作 中子 成像 Anders Kaestner"
+      ],
+      "search_result_limit": 20
     },
     "VFFlO7yBIBM": {
       "vid": "VFFlO7yBIBM",
       "status": "review",
-      "completed_at": "2026-11-05T14:17:07.459569+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:16:00.240346+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:15:57.722460+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Wired Interviews Bill Gates 1996",
+        "Wired 比尔 盖茨 采访 1996 Kevin Kelly"
+      ],
+      "search_result_limit": 20
     },
     "Vj04MKykmnQ": {
       "vid": "Vj04MKykmnQ",
       "status": "review",
-      "completed_at": "2026-11-05T14:17:31.332592+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:16:03.233887+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:16:00.477992+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Getting GPLv2 Compliance From A Chinese Company- In Person!",
+        "Naomi Wu GPLv2 合规 中国 公司"
+      ],
+      "search_result_limit": 20
     },
     "W1czBcnX1Ww": {
       "vid": "W1czBcnX1Ww",
       "status": "review",
-      "completed_at": "2026-11-05T14:18:02.064510+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:16:07.264613+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:16:03.492894+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Boston Dynamics Big Dog (new video March 2008)",
+        "Boston Dynamics BigDog 波士顿动力 大狗 2008"
+      ],
+      "search_result_limit": 20
     },
     "WDIkqP4JbkE": {
       "vid": "WDIkqP4JbkE",
@@ -44463,8 +45009,15 @@
     "WYPNjSoDrqw": {
       "vid": "WYPNjSoDrqw",
       "status": "review",
-      "completed_at": "2026-11-05T14:18:42.350874+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:16:08.777887+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:16:07.509472+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Birth of BASIC",
+        "达特茅斯 BASIC 诞生"
+      ],
+      "search_result_limit": 20
     },
     "Wx_kugSemfY": {
       "vid": "Wx_kugSemfY",
@@ -44499,14 +45052,28 @@
     "XOR8mk0tLpc": {
       "vid": "XOR8mk0tLpc",
       "status": "review",
-      "completed_at": "2026-11-05T14:19:33.689463+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:16:14.667873+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:16:09.037753+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Halt and Catch Fire - Sales Call [ \"A16\" Scene ]",
+        "奔腾年代 Halt Catch Fire A16 销售 场景"
+      ],
+      "search_result_limit": 20
     },
     "Y4Gt3Xjd7G8": {
       "vid": "Y4Gt3Xjd7G8",
       "status": "review",
-      "completed_at": "2026-11-05T14:19:51.941129+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:16:17.863051+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:16:14.939756+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Build Your Own Async",
+        "David Beazley 自己 构建 异步"
+      ],
+      "search_result_limit": 20
     },
     "YpllomiDMX0": {
       "vid": "YpllomiDMX0",
@@ -44571,8 +45138,15 @@
     "Z-9rLlFgcm0": {
       "vid": "Z-9rLlFgcm0",
       "status": "review",
-      "completed_at": "2026-11-05T14:20:35.379419+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:16:21.771870+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:16:18.106890+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Michael Levin: Anatomical decision-making by cellular collectives",
+        "Michael Levin 细胞 集体 解剖 决策"
+      ],
+      "search_result_limit": 20
     },
     "ZEl-Y1NvBVI": {
       "vid": "ZEl-Y1NvBVI",
@@ -44607,20 +45181,41 @@
     "ZecQ64l-gKM": {
       "vid": "ZecQ64l-gKM",
       "status": "review",
-      "completed_at": "2026-11-05T14:20:58.976662+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:16:23.264468+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:16:22.047022+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Lee Cronin: Origin of Life, Aliens, Complexity, and Consciousness | Lex Fridman Podcast #269",
+        "Lex Fridman269 Lee Cronin 生命 起源"
+      ],
+      "search_result_limit": 20
     },
     "ZfuierUvx1A": {
       "vid": "ZfuierUvx1A",
       "status": "review",
-      "completed_at": "2026-11-05T14:21:40.210935+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:16:29.246084+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:16:23.551547+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Chaos Theory - Awesome 64k Intro! [720p HD]",
+        "Chaos Theory 64K Intro 混沌 理论"
+      ],
+      "search_result_limit": 20
     },
     "ZggCipbiHwE": {
       "vid": "ZggCipbiHwE",
       "status": "review",
-      "completed_at": "2026-11-05T14:22:10.925375+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:16:33.553781+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:16:29.511347+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "This is Extremely Dangerous to Our Democracy",
+        "This is Extremely Dangerous to Our Democracy 新闻"
+      ],
+      "search_result_limit": 20
     },
     "ZsRRCnque2E": {
       "vid": "ZsRRCnque2E",
@@ -44655,38 +45250,80 @@
     "ZuXzvjBYW8A": {
       "vid": "ZuXzvjBYW8A",
       "status": "review",
-      "completed_at": "2026-11-05T14:22:34.942062+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:16:35.716899+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:16:33.816693+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Have the Boomers Pinched Their Children’s Futures? - with Lord David Willetts",
+        "David Willetts 婴儿潮 子女 未来"
+      ],
+      "search_result_limit": 20
     },
     "_IgqJr8jG8M": {
       "vid": "_IgqJr8jG8M",
       "status": "review",
-      "completed_at": "2026-11-05T14:22:57.281929+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:16:39.607303+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:16:36.019805+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Stanford Seminar - Concatenative Programming: From Ivory to Metal",
+        "斯坦福 串接 编程 Concatenative Programming"
+      ],
+      "search_result_limit": 20
     },
     "_fHfgU8oMSo": {
       "vid": "_fHfgU8oMSo",
       "status": "review",
-      "completed_at": "2026-11-05T14:23:28.081683+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:16:44.167773+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:16:39.868700+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Sinclair's Soldiers in Trump's War on Media",
+        "Deadspin 辛克莱 特朗普 媒体"
+      ],
+      "search_result_limit": 20
     },
     "_ul7X5js1vE": {
       "vid": "_ul7X5js1vE",
       "status": "review",
-      "completed_at": "2026-11-05T14:23:44.678338+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:16:45.890332+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:16:44.416898+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Stevie Wonder - Superstition live on Sesame Street",
+        "Stevie Wonder Superstition 芝麻街 现场"
+      ],
+      "search_result_limit": 20
     },
     "agzNANfNlTs": {
       "vid": "agzNANfNlTs",
       "status": "review",
-      "completed_at": "2026-11-05T14:23:58.506442+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:16:47.243721+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:16:46.159567+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Alt-Right Playbook: Always a Bigger Fish",
+        "Innuendo Studios Alt Right Playbook Always Bigger Fish"
+      ],
+      "search_result_limit": 20
     },
     "an5abNFba4Q": {
       "vid": "an5abNFba4Q",
       "status": "review",
-      "completed_at": "2026-11-05T14:24:11.306652+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:16:48.331917+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:16:47.487229+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Servo Architecture: Safety and Performance",
+        "Servo 架构 安全 性能 Linux2017"
+      ],
+      "search_result_limit": 20
     },
     "aoczYXJeMY4": {
       "vid": "aoczYXJeMY4",
@@ -44721,14 +45358,28 @@
     "b-7dMVcVWgc": {
       "vid": "b-7dMVcVWgc",
       "status": "review",
-      "completed_at": "2026-11-05T14:24:39.616865+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:16:51.355773+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:16:48.588263+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "\"This Machine Greens\" - Bitcoin Documentary - Online Premiere",
+        "This Machine Greens 比特币 纪录片"
+      ],
+      "search_result_limit": 20
     },
     "bC-8y2R6IxI": {
       "vid": "bC-8y2R6IxI",
       "status": "review",
-      "completed_at": "2026-11-05T14:24:57.344908+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:16:53.536527+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:16:51.623788+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "what did you do",
+        "Noodle what did you do"
+      ],
+      "search_result_limit": 20
     },
     "fn3KWM1kuAw": {
       "vid": "fn3KWM1kuAw",
@@ -45034,20 +45685,41 @@
     "bJ5ppf0po3k": {
       "vid": "bJ5ppf0po3k",
       "status": "review",
-      "completed_at": "2026-11-05T14:26:22.077400+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:16:54.653751+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:16:53.780838+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "I made a talking banana",
+        "Useless Duck Company 会说话 香蕉"
+      ],
+      "search_result_limit": 20
     },
     "bNfAAQUQ_54": {
       "vid": "bNfAAQUQ_54",
       "status": "review",
-      "completed_at": "2026-11-05T14:26:37.447399+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:16:56.629880+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:16:54.922376+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Old Geeks Yell At Cloud (with Andrew Clay Shafer & Bryan Cantrill)",
+        "Andrew Clay Shafer Bryan Cantrill 老极客 云"
+      ],
+      "search_result_limit": 20
     },
     "bOf4EMN6-XA": {
       "vid": "bOf4EMN6-XA",
       "status": "review",
-      "completed_at": "2026-11-05T14:27:02.883445+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:16:59.950205+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:16:56.927761+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Seymour Papert 1983",
+        "Seymour Papert 1983 Cynthia Solomon"
+      ],
+      "search_result_limit": 20
     },
     "bY7aRJE-oOY": {
       "vid": "bY7aRJE-oOY",
@@ -45082,32 +45754,67 @@
     "baxtyeFVn3w": {
       "vid": "baxtyeFVn3w",
       "status": "review",
-      "completed_at": "2026-11-05T14:27:28.045864+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:17:02.424138+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:17:00.217329+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Lambda World 2018 - What FP can learn from Smalltalk by Aditya Siram",
+        "Aditya Siram 函数式 Smalltalk Lambda World2018"
+      ],
+      "search_result_limit": 20
     },
     "bmsV1TuESrc": {
       "vid": "bmsV1TuESrc",
       "status": "review",
-      "completed_at": "2026-11-05T14:28:05.861957+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:17:08.916741+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:17:02.669800+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "youtube YouTube   Stewart Lee   9   Political Correctness   41st Best Stand Up ever",
+        "Stewart Lee 政治 正确 41st Best Stand Up"
+      ],
+      "search_result_limit": 20
     },
     "bxe2T-V8XRs": {
       "vid": "bxe2T-V8XRs",
       "status": "review",
-      "completed_at": "2026-11-05T14:28:58.688037+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:17:17.152410+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:17:09.166455+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Neural Networks Demystified [Part 1: Data and Architecture]",
+        "Welch Labs 神经网络 揭秘 第一集 数据 架构"
+      ],
+      "search_result_limit": 20
     },
     "byjhpzEoXFs": {
       "vid": "byjhpzEoXFs",
       "status": "review",
-      "completed_at": "2026-11-05T14:29:20.652842+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:17:19.562826+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:17:17.428541+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "1. A strange determinant",
+        "Timothy Gowers 奇怪 行列式 第一讲"
+      ],
+      "search_result_limit": 20
     },
     "c2J91UG6Fn8": {
       "vid": "c2J91UG6Fn8",
       "status": "review",
-      "completed_at": "2026-11-05T14:29:34.475483+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:17:21.132140+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:17:19.812034+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Old car headlights were all the same — which was a fairly bright idea",
+        "Technology Connections 老 汽车 车灯 相同"
+      ],
+      "search_result_limit": 20
     },
     "cefnmjtAolY": {
       "vid": "cefnmjtAolY",
@@ -45143,26 +45850,54 @@
     "cfwwHa-7Ux8": {
       "vid": "cfwwHa-7Ux8",
       "status": "review",
-      "completed_at": "2026-11-05T14:30:29.692608+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:17:28.541701+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:17:21.400522+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "A real person, a lot like you",
+        "Derek Sivers 一个 像你 的 真人"
+      ],
+      "search_result_limit": 20
     },
     "clnozSXyF4k": {
       "vid": "clnozSXyF4k",
       "status": "review",
-      "completed_at": "2026-11-05T14:31:16.496880+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:17:35.315831+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:17:28.792277+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Stargate Studios Virtual Backlot Reel 2009",
+        "Stargate Studios 虚拟 外景 2009"
+      ],
+      "search_result_limit": 20
     },
     "coFIEH3vXPw": {
       "vid": "coFIEH3vXPw",
       "status": "review",
-      "completed_at": "2026-11-05T14:31:31.626549+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:17:42.856493+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:17:41.557792+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Run containers on bare metal already!",
+        "Bryan Cantrill 裸金属 容器"
+      ],
+      "search_result_limit": 20
     },
     "csyL9EC0S0c": {
       "vid": "csyL9EC0S0c",
       "status": "review",
-      "completed_at": "2026-11-05T14:31:48.107053+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:17:45.051891+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:17:43.107758+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Programming is terrible—Lessons learned from a life wasted. EMF2012",
+        "tef Programming is Terrible EMF2012"
+      ],
+      "search_result_limit": 20
     },
     "czgOWmtGVGs": {
       "vid": "czgOWmtGVGs",
@@ -45273,20 +46008,41 @@
     "d3kfEeMZ65c": {
       "vid": "d3kfEeMZ65c",
       "status": "review",
-      "completed_at": "2026-11-05T14:32:30.029412+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:17:48.174476+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:17:45.381308+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Google I/O 2013 - High Performance Audio",
+        "Google IO2013 高性能 音频"
+      ],
+      "search_result_limit": 20
     },
     "dF_9YcehCZo": {
       "vid": "dF_9YcehCZo",
       "status": "review",
-      "completed_at": "2026-11-05T14:32:39.915604+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:17:48.920358+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:17:48.453857+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Saving Voyager 1! - Bruce Waggoner at !!Con 2024",
+        "Bruce Waggoner 拯救 旅行者1号 Con2024"
+      ],
+      "search_result_limit": 20
     },
     "dFs9WO2B8uI": {
       "vid": "dFs9WO2B8uI",
       "status": "review",
-      "completed_at": "2026-11-05T14:32:58.113250+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:17:52.651466+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:17:49.177498+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "RSA ANIMATE: The Divided Brain",
+        "RSA 动画 分裂 大脑"
+      ],
+      "search_result_limit": 20
     },
     "djB9oK6pkbA": {
       "vid": "djB9oK6pkbA",
@@ -45321,50 +46077,106 @@
     "ds77e3aO9nA": {
       "vid": "ds77e3aO9nA",
       "status": "review",
-      "completed_at": "2026-11-05T14:33:32.304418+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:17:55.928844+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:17:52.924923+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "A Narrative History of BSD, Dr. Kirk McKusick",
+        "Kirk McKusick BSD 历史"
+      ],
+      "search_result_limit": 20
     },
     "e08kOj2kISU": {
       "vid": "e08kOj2kISU",
       "status": "review",
-      "completed_at": "2026-11-05T14:33:54.912533+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:17:59.039674+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:17:56.177993+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "How to Speed up a Python Program 114,000 times.",
+        "Python 加速 114000倍 InfoQ"
+      ],
+      "search_result_limit": 20
     },
     "e3K5UxWRRuY": {
       "vid": "e3K5UxWRRuY",
       "status": "review",
-      "completed_at": "2026-11-05T14:34:07.193792+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:18:00.311425+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:17:59.374192+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "35C3 -  The Ghost in the Machine",
+        "35C3 机器 中的 幽灵"
+      ],
+      "search_result_limit": 20
     },
     "eGaKZBr0ga4": {
       "vid": "eGaKZBr0ga4",
       "status": "review",
-      "completed_at": "2026-11-05T14:34:26.584450+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:18:03.837438+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:18:00.577334+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "MountainWest RubyConf 2014 - But Really, You Should Learn Smalltalk",
+        "MountainWest RubyConf2014 应该 学习 Smalltalk"
+      ],
+      "search_result_limit": 20
     },
     "eKl6WjfDqYA": {
       "vid": "eKl6WjfDqYA",
       "status": "review",
-      "completed_at": "2026-11-05T14:34:55.930375+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:18:07.626288+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:18:04.180039+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Colonel JD AI Codec Conversation MGS2 HD",
+        "合金装备2 上校 AI 编解码 对话"
+      ],
+      "search_result_limit": 20
     },
     "eLn6LC1RpAo": {
       "vid": "eLn6LC1RpAo",
       "status": "review",
-      "completed_at": "2026-11-05T14:35:26.730518+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:18:11.967487+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:18:07.904750+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Conlang Critic Episode Twelve: Toki Pona",
+        "jan Misali Conlang Critic12 道本语"
+      ],
+      "search_result_limit": 20
     },
     "eQ2OZKitRwc": {
       "vid": "eQ2OZKitRwc",
       "status": "review",
-      "completed_at": "2026-11-05T14:35:45.868392+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:18:15.307897+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:18:12.222939+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "DEF CON 22 - Adrian Crenshaw- Dropping Docs on Darknets: How People Got Caught",
+        "Adrian Crenshaw DEFCON22 暗网 身份 暴露"
+      ],
+      "search_result_limit": 20
     },
     "ef2jpjTEB5U": {
       "vid": "ef2jpjTEB5U",
       "status": "review",
-      "completed_at": "2026-11-05T14:36:05.458348+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:18:18.307829+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:18:15.615165+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Bret Victor - Drawing Dynamic Visualizations",
+        "Bret Victor 绘制 动态 可视化"
+      ],
+      "search_result_limit": 20
     },
     "efPrtcLdcdM": {
       "vid": "efPrtcLdcdM",
@@ -45429,32 +46241,67 @@
     "fDqBeXJ8Zx8": {
       "vid": "fDqBeXJ8Zx8",
       "status": "review",
-      "completed_at": "2026-11-05T14:36:51.338765+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:18:22.179500+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:18:18.564421+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "What 40,000 Videos Tell Us About The Trending Tab",
+        "Coffee Break 四万 视频 热门 标签"
+      ],
+      "search_result_limit": 20
     },
     "fTjhHrcyiQI": {
       "vid": "fTjhHrcyiQI",
       "status": "review",
-      "completed_at": "2026-11-05T14:37:40.201714+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:18:29.517190+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:18:22.453706+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Moneyball - Firing people",
+        "点球成金 Moneyball 解雇 员工"
+      ],
+      "search_result_limit": 20
     },
     "fWqBmmPQP40": {
       "vid": "fWqBmmPQP40",
       "status": "review",
-      "completed_at": "2026-11-05T14:38:00.584443+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:18:32.338466+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:18:29.800834+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "27c3: Reverse Engineering the MOS 6502 CPU (en)",
+        "27C3 MOS6502 CPU 逆向 工程"
+      ],
+      "search_result_limit": 20
     },
     "fa28lIGuxq8": {
       "vid": "fa28lIGuxq8",
       "status": "review",
-      "completed_at": "2026-11-05T14:38:52.328164+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:18:40.811373+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:18:32.590160+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Why Do Reversing Trucks Not Beep Any More?",
+        "Tom Scott 倒车 卡车 不再 哔哔"
+      ],
+      "search_result_limit": 20
     },
     "faHQA_0d9Mo": {
       "vid": "faHQA_0d9Mo",
       "status": "review",
-      "completed_at": "2026-11-05T14:38:59.736590+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:18:41.090193+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:18:41.090175+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Dune 1984 Alternative Edition Redux edited by Spicediver / Multiple Subs / 4K Upscaling by GW",
+        "沙丘1984 Spicediver Redux 替代 剪辑版"
+      ],
+      "search_result_limit": 20
     },
     "fuFlMtZmvY0": {
       "vid": "fuFlMtZmvY0",
@@ -45512,8 +46359,15 @@
     "gD_dZvPwAj0": {
       "vid": "gD_dZvPwAj0",
       "status": "review",
-      "completed_at": "2026-11-05T14:39:37.830438+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:18:45.878696+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:18:41.354112+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Dominic Frisby. A simple guide to land value tax",
+        "Dominic Frisby 土地 价值税 简明 指南"
+      ],
+      "search_result_limit": 20
     },
     "gFEE3w7F0ww": {
       "vid": "gFEE3w7F0ww",
@@ -45548,8 +46402,15 @@
     "gRRvjZ_XNog": {
       "vid": "gRRvjZ_XNog",
       "status": "review",
-      "completed_at": "2026-11-05T14:39:58.189912+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:18:47.729980+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:18:46.152919+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "DICKS: Do you need to be one to be a successful leader?",
+        "Max Joseph 成功 领导者 DICKS"
+      ],
+      "search_result_limit": 20
     },
     "gSKTfG1GXYQ": {
       "vid": "gSKTfG1GXYQ",
@@ -45584,26 +46445,54 @@
     "ggUduBmvQ_4": {
       "vid": "ggUduBmvQ_4",
       "status": "review",
-      "completed_at": "2026-11-05T14:40:35.119081+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:18:51.362341+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:18:47.987559+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "How Airlines Quietly Became Banks",
+        "Wendover 航空公司 悄悄 变成 银行"
+      ],
+      "search_result_limit": 20
     },
     "giYbq4HmfGA": {
       "vid": "giYbq4HmfGA",
       "status": "review",
-      "completed_at": "2026-11-05T14:40:52.914022+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:18:53.636114+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:18:51.637597+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "ElixirConf 2023 - José Valim - The foundations of the Elixir type system",
+        "Jose Valim Elixir 类型 系统 2023"
+      ],
+      "search_result_limit": 20
     },
     "gqGEMQveoqg": {
       "vid": "gqGEMQveoqg",
       "status": "review",
-      "completed_at": "2026-11-05T14:41:02.901893+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:18:54.860346+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:18:53.917460+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "A New Way to look at Networking",
+        "Google TechTalks 网络 新 视角"
+      ],
+      "search_result_limit": 20
     },
     "gsffg5xxFQI": {
       "vid": "gsffg5xxFQI",
       "status": "review",
-      "completed_at": "2026-11-05T14:41:20.735102+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:18:57.864809+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:18:55.115850+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "ClojureScript for Skeptics - Derek Slager",
+        "Derek Slager 怀疑者 ClojureScript"
+      ],
+      "search_result_limit": 20
     },
     "hdUbIlwHRkY": {
       "vid": "hdUbIlwHRkY",
@@ -45661,26 +46550,54 @@
     "hpAMbpQ8J7g": {
       "vid": "hpAMbpQ8J7g",
       "status": "review",
-      "completed_at": "2026-11-05T14:41:53.745001+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:19:01.993615+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:18:58.150713+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "RSA ANIMATE: First as Tragedy, Then as Farce",
+        "RSA 动画 第一次 悲剧 第二次 闹剧"
+      ],
+      "search_result_limit": 20
     },
     "hpgK51w6uhk": {
       "vid": "hpgK51w6uhk",
       "status": "review",
-      "completed_at": "2026-11-05T14:42:15.427693+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:19:05.315293+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:19:02.253750+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "America's Iron Giants - The World's Most Powerful Metalworkers",
+        "Machine Thinking 美国 钢铁 巨人 金属 加工"
+      ],
+      "search_result_limit": 20
     },
     "hs3piaN4b5I": {
       "vid": "hs3piaN4b5I",
       "status": "review",
-      "completed_at": "2026-11-05T14:43:05.828021+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:19:13.109628+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:19:05.592369+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Flexbox vs. CSS Grid — Which is Better?",
+        "Layout Land Flexbox CSS Grid 哪个 更好"
+      ],
+      "search_result_limit": 20
     },
     "hvk_XylEmLo": {
       "vid": "hvk_XylEmLo",
       "status": "review",
-      "completed_at": "2026-11-05T14:43:18.388281+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:19:14.454670+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:19:13.368118+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Work.",
+        "Historia Civilis 工作 Work"
+      ],
+      "search_result_limit": 20
     },
     "-gGLvg0n-uY": {
       "vid": "-gGLvg0n-uY",
@@ -45840,8 +46757,15 @@
     "hz_mMLhUinw": {
       "vid": "hz_mMLhUinw",
       "status": "review",
-      "completed_at": "2026-11-05T14:52:57.395143+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:19:18.221345+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:19:14.792278+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Superheterodyne Radio: No really, that's its name",
+        "Technology Connections 超外差 收音机"
+      ],
+      "search_result_limit": 20
     },
     "iGbC5j4pG9w": {
       "vid": "iGbC5j4pG9w",
@@ -45899,8 +46823,15 @@
     "iJfw6lDlTuA": {
       "vid": "iJfw6lDlTuA",
       "status": "review",
-      "completed_at": "2026-11-05T14:53:39.362687+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:19:24.639516+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:19:18.502269+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Lecture 1 | The Theoretical Minimum",
+        "Susskind 理论 最小值 第一讲"
+      ],
+      "search_result_limit": 20
     },
     "iSVHp6CAyQ8": {
       "vid": "iSVHp6CAyQ8",
@@ -45967,8 +46898,15 @@
     "j-kj2qwJa_E": {
       "vid": "j-kj2qwJa_E",
       "status": "review",
-      "completed_at": "2026-11-05T22:31:09.108765+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:19:27.959317+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:19:24.900543+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Bruce Hauman - Developing ClojureScript With Figwheel",
+        "Bruce Hauman Figwheel ClojureScript 开发"
+      ],
+      "search_result_limit": 20
     },
     "j6VlT_jUVPc": {
       "vid": "j6VlT_jUVPc",
@@ -46003,8 +46941,15 @@
     "j7zzQpvoYcQ": {
       "vid": "j7zzQpvoYcQ",
       "status": "review",
-      "completed_at": "2026-11-05T22:31:39.943815+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:19:32.087129+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:19:28.244009+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The \"Last Lecture\" by Randy Pausch",
+        "Randy Pausch 最后一课"
+      ],
+      "search_result_limit": 20
     },
     "jOyfZex7B3E": {
       "vid": "jOyfZex7B3E",
@@ -46039,8 +46984,15 @@
     "jQIHqkudgNY": {
       "vid": "jQIHqkudgNY",
       "status": "review",
-      "completed_at": "2026-11-05T22:31:58.416663+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:19:32.784624+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:19:32.347161+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Gambling and the desire machine | Pay to Win",
+        "Jimmy McGee 付费 获胜 赌博 欲望 机器"
+      ],
+      "search_result_limit": 20
     },
     "jlX_pThh7z8": {
       "vid": "jlX_pThh7z8",
@@ -46098,80 +47050,171 @@
     "jw8K460vx1c": {
       "vid": "jw8K460vx1c",
       "status": "review",
-      "completed_at": "2026-11-05T22:32:27.318324+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:19:35.400386+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:19:33.063956+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Revolution OS",
+        "Revolution OS 操作系统 革命 纪录片"
+      ],
+      "search_result_limit": 20
     },
     "jzERXJgi5vQ": {
       "vid": "jzERXJgi5vQ",
       "status": "review",
-      "completed_at": "2026-11-05T22:32:37.333535+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:19:36.605958+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:19:35.740317+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "- Startups - David H. Hansson, Partner at 37signals -TWiST #E337",
+        "DHH 37signals 创业 TWiST337"
+      ],
+      "search_result_limit": 20
     },
     "k_5M-z_RUKA": {
       "vid": "k_5M-z_RUKA",
       "status": "review",
-      "completed_at": "2026-11-05T22:32:56.402307+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:19:38.918502+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:19:36.870017+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Untold Story of Online Gaming on Super Nintendo and Sega Genesis | XBAND",
+        "XBAND 超任 世嘉 在线 游戏 历史"
+      ],
+      "search_result_limit": 20
     },
     "l4dCJJFuMsE": {
       "vid": "l4dCJJFuMsE",
       "status": "review",
-      "completed_at": "2026-11-05T22:33:33.184682+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:19:47.939987+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:19:39.210102+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Steve Jobs Content vs Process",
+        "乔布斯 内容 流程 Content Process"
+      ],
+      "search_result_limit": 20
     },
     "lHLpKzUxjGk": {
       "vid": "lHLpKzUxjGk",
       "status": "review",
-      "completed_at": "2026-11-05T22:33:46.267935+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:19:51.022164+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:19:48.204304+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "John Carmack Tech Talk with UMKC-SCE",
+        "John Carmack UMKC 技术 演讲"
+      ],
+      "search_result_limit": 20
     },
     "lIW5jBrrsS0": {
       "vid": "lIW5jBrrsS0",
       "status": "review",
-      "completed_at": "2026-11-05T22:34:02.823859+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:19:53.440858+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:19:51.310016+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "BOOKSTORES: How to Read More Books in the Golden Age of Content",
+        "Max Joseph 书店 如何 多 读书"
+      ],
+      "search_result_limit": 20
     },
     "lsDc1YVxHA0": {
       "vid": "lsDc1YVxHA0",
       "status": "review",
-      "completed_at": "2026-11-05T22:34:21.712893+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:19:55.823288+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:19:53.722722+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "\"Devs Play\" S1E06 - Psychonauts \"The SMK Speedrun\" [1/1]",
+        "Devs Play Psychonauts 脑航员 速通 S1E06"
+      ],
+      "search_result_limit": 20
     },
     "m7PVZixO35c": {
       "vid": "m7PVZixO35c",
       "status": "review",
-      "completed_at": "2026-11-05T22:34:36.802749+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:19:57.752357+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:19:56.106765+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "New computers don't speed up old code",
+        "新 计算机 不会 加快 旧 代码"
+      ],
+      "search_result_limit": 20
     },
     "meHYBhcpdvQ": {
       "vid": "meHYBhcpdvQ",
       "status": "review",
-      "completed_at": "2026-11-05T22:34:51.394815+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:19:59.732529+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:19:58.064588+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Stealership Trap - Why We Need the Dealership \"Rip Off\"",
+        "FortNine 汽车 经销商 陷阱"
+      ],
+      "search_result_limit": 20
     },
     "mhBpI13dxkI": {
       "vid": "mhBpI13dxkI",
       "status": "review",
-      "completed_at": "2026-11-05T22:35:06.349730+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:20:02.142777+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:20:00.004306+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Surprising History of Copyright and What It Means For...",
+        "Google TechTalks 版权 惊人 历史"
+      ],
+      "search_result_limit": 20
     },
     "mht-1c4wc0Q": {
       "vid": "mht-1c4wc0Q",
       "status": "review",
-      "completed_at": "2026-11-05T22:35:23.275866+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:20:05.036810+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:20:02.455399+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "What Happens at the Event Horizon? | Space Time | PBS Digital Studios",
+        "PBS 时空 事件 视界 发生 什么"
+      ],
+      "search_result_limit": 20
     },
     "mn4L_aJ1rV4": {
       "vid": "mn4L_aJ1rV4",
       "status": "review",
-      "completed_at": "2026-11-05T22:35:56.771094+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:20:10.921335+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:20:05.347632+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "EC's Big Announcement",
+        "Essential Craftsman 重大 公告"
+      ],
+      "search_result_limit": 20
     },
     "msN87y-iEx0": {
       "vid": "msN87y-iEx0",
       "status": "review",
-      "completed_at": "2026-11-05T22:36:31.568188+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:20:19.372368+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:20:11.205549+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Feynman: Mirrors FUN TO IMAGINE 6",
+        "费曼 镜子 Fun to Imagine6"
+      ],
+      "search_result_limit": 20
     },
     "n1QEj09Pe6k": {
       "vid": "n1QEj09Pe6k",
@@ -46282,8 +47325,15 @@
     "n8Dd5aVXLCc": {
       "vid": "n8Dd5aVXLCc",
       "status": "review",
-      "completed_at": "2026-11-05T22:37:28.628271+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:20:26.375492+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:20:19.638026+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Power of Big Data and Psychographics | 2016 Concordia Annual Summit",
+        "大数据 心理画像 力量 Concordia2016"
+      ],
+      "search_result_limit": 20
     },
     "nLF0n9SACd4": {
       "vid": "nLF0n9SACd4",
@@ -46341,14 +47391,28 @@
     "nQpxAvjD_30": {
       "vid": "nQpxAvjD_30",
       "status": "review",
-      "completed_at": "2026-11-05T22:38:14.675716+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:20:32.255784+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:20:26.642080+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "What Shopping On Amazon Feels Like",
+        "Ryan George 亚马逊 购物 感觉"
+      ],
+      "search_result_limit": 20
     },
     "nU8DcBF-qo4": {
       "vid": "nU8DcBF-qo4",
       "status": "review",
-      "completed_at": "2026-11-05T22:38:33.189590+00:00",
-      "candidates": []
+      "completed_at": "2026-11-10T16:20:35.907160+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:20:32.547701+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Google Developers Day US - Theorizing from Data",
+        "Google Developers Day 从 数据 理论"
+      ],
+      "search_result_limit": 20
     },
     "oYp5XuGYqqY": {
       "vid": "oYp5XuGYqqY",
@@ -85887,6 +86951,2842 @@
       "search_queries": [
         "\"What is my purpose?\" Rick and Morty quote S01E09 Butter Robot",
         "Game Of Thrones Quotes \"What is my purpose?\" Rick and Morty quote S01E09 Butter Robot"
+      ],
+      "search_result_limit": 20
+    },
+    "sbSDsbDQjSU": {
+      "vid": "sbSDsbDQjSU",
+      "status": "review",
+      "completed_at": "2026-11-10T13:01:14.774342+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:00:56.907143+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Tesla Crashes on Full Self Driving (FSD) BETA",
+        "AI Addict Tesla Crashes on Full Self Driving (FSD) BETA"
+      ],
+      "search_result_limit": 20
+    },
+    "sdvzYtgmIjs": {
+      "vid": "sdvzYtgmIjs",
+      "status": "review",
+      "completed_at": "2026-11-10T13:01:27.116304+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:01:22.966616+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Tim Cook, Sir Jony Ive KBE, and Laurene Powell Jobs | Full Interview | Code 2022",
+        "On with Kara Swisher Tim Cook, Sir Jony Ive KBE, and Laurene Powell Jobs | Full Interview | Code 2022"
+      ],
+      "search_result_limit": 20
+    },
+    "sgspkxfkS4k": {
+      "vid": "sgspkxfkS4k",
+      "status": "review",
+      "completed_at": "2026-11-10T13:02:16.873391+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:01:34.962311+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Australia's Defence Policy Explained | Utopia",
+        "Working Dog Productions Australia's Defence Policy Explained | Utopia"
+      ],
+      "search_result_limit": 20
+    },
+    "spw176TZ7-8": {
+      "vid": "spw176TZ7-8",
+      "status": "review",
+      "completed_at": "2026-11-10T13:03:14.950488+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:02:24.911925+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "We Followed a Waymo Self-driving Car for Miles, Here's What we Saw",
+        "azcentral.com and The Arizona Republic We Followed a Waymo Self-driving Car for Miles, Here's What we Saw"
+      ],
+      "search_result_limit": 20
+    },
+    "spyJ5yxTfas": {
+      "vid": "spyJ5yxTfas",
+      "status": "review",
+      "completed_at": "2026-11-10T13:03:50.967718+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:03:23.311747+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Better off Ted - Jabberwocky Project",
+        "Nicolas P. Better off Ted - Jabberwocky Project"
+      ],
+      "search_result_limit": 20
+    },
+    "t3Cb1qwCUvI": {
+      "vid": "t3Cb1qwCUvI",
+      "status": "review",
+      "completed_at": "2026-11-10T13:05:15.216695+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:04:00.280799+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Next Level Perfect Pitch (8 Year Old)",
+        "Rick Beato Next Level Perfect Pitch (8 Year Old)"
+      ],
+      "search_result_limit": 20
+    },
+    "t4A-Ml8YHyM": {
+      "vid": "t4A-Ml8YHyM",
+      "status": "review",
+      "completed_at": "2026-11-10T13:05:51.404943+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:05:23.565300+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Star Trek TNG Peak Performance: It is possible to commit no mistakes and still lose. Full Scene",
+        "Ponyboy Star Trek TNG Peak Performance: It is possible to commit no mistakes and still lose. Full Scene"
+      ],
+      "search_result_limit": 20
+    },
+    "t4DT3tQqgRM": {
+      "vid": "t4DT3tQqgRM",
+      "status": "review",
+      "completed_at": "2026-11-10T13:07:01.602852+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:05:59.763359+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "HP computers are racist",
+        "wzamen01 HP computers are racist"
+      ],
+      "search_result_limit": 20
+    },
+    "t5zQpN28xa4": {
+      "vid": "t5zQpN28xa4",
+      "status": "review",
+      "completed_at": "2026-11-10T13:07:57.911991+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:07:09.886410+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Billionaire Holocaust",
+        "SnapeScope Billionaire Holocaust"
+      ],
+      "search_result_limit": 20
+    },
+    "t8NCigh54jg": {
+      "vid": "t8NCigh54jg",
+      "status": "review",
+      "completed_at": "2026-11-10T13:08:16.149073+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:08:06.217717+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Soylent: How I Stopped Eating for 30 Days",
+        "Motherboard Soylent: How I Stopped Eating for 30 Days"
+      ],
+      "search_result_limit": 20
+    },
+    "tIIJME8-au8": {
+      "vid": "tIIJME8-au8",
+      "status": "review",
+      "completed_at": "2026-11-10T13:09:12.604214+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:08:24.398678+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Duel: Timo Boll vs. KUKA Robot",
+        "KUKA Group The Duel: Timo Boll vs. KUKA Robot"
+      ],
+      "search_result_limit": 20
+    },
+    "tJr_TD1BtF0": {
+      "vid": "tJr_TD1BtF0",
+      "status": "review",
+      "completed_at": "2026-11-10T13:09:32.235498+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:09:20.430631+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "\"Clojure in Unity 3D: Functional Video Game Development\" by Ramsey Nasser and Tims Gardner",
+        "Strange Loop Conference \"Clojure in Unity 3D: Functional Video Game Development\" by Ramsey Nasser and Tims Gardner"
+      ],
+      "search_result_limit": 20
+    },
+    "tKqJ5-kkUGk": {
+      "vid": "tKqJ5-kkUGk",
+      "status": "review",
+      "completed_at": "2026-11-10T13:10:11.046208+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:09:41.147457+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Elon Musk: Ukraine, X, the creator economy, China, AI, & more | All-In Summit 2023",
+        "All-In Podcast Elon Musk: Ukraine, X, the creator economy, China, AI, & more | All-In Summit 2023"
+      ],
+      "search_result_limit": 20
+    },
+    "tLK_i-TQ3kQ": {
+      "vid": "tLK_i-TQ3kQ",
+      "status": "review",
+      "completed_at": "2026-11-10T13:10:23.085226+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:10:19.268449+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Flex 170 GPU from Intel - Subscription Free GPU Accelerated VDI on Proxmox 8.1",
+        "Level1Techs Flex 170 GPU from Intel - Subscription Free GPU Accelerated VDI on Proxmox 8.1"
+      ],
+      "search_result_limit": 20
+    },
+    "tMZ2j9yK_NY": {
+      "vid": "tMZ2j9yK_NY",
+      "status": "review",
+      "completed_at": "2026-11-10T13:11:11.236501+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:10:31.329125+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Willy Wonka - Funniest Clip: Machine",
+        "Excerpts4u Willy Wonka - Funniest Clip: Machine"
+      ],
+      "search_result_limit": 20
+    },
+    "tNfGyIW7aHM": {
+      "vid": "tNfGyIW7aHM",
+      "status": "review",
+      "completed_at": "2026-11-10T13:11:45.458898+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:11:19.441619+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Monty Python - How To Do It",
+        "feraldarryl Monty Python - How To Do It"
+      ],
+      "search_result_limit": 20
+    },
+    "tNmgmwEtoWE": {
+      "vid": "tNmgmwEtoWE",
+      "status": "review",
+      "completed_at": "2026-11-10T13:11:59.400494+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:11:53.652966+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Debunking Devin: \"First AI Software Engineer\" Upwork lie exposed!",
+        "Internet of Bugs Debunking Devin: \"First AI Software Engineer\" Upwork lie exposed!"
+      ],
+      "search_result_limit": 20
+    },
+    "tO5sxLapAts": {
+      "vid": "tO5sxLapAts",
+      "status": "review",
+      "completed_at": "2026-11-10T13:13:03.861620+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:12:07.758117+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "South Park Underpants Gnomes Profit Plan",
+        "Ryan Holota South Park Underpants Gnomes Profit Plan"
+      ],
+      "search_result_limit": 20
+    },
+    "tQIdxbWhHSM": {
+      "vid": "tQIdxbWhHSM",
+      "status": "review",
+      "completed_at": "2026-11-10T13:13:46.431699+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:13:11.987263+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Linus Torvalds - Nvidia F*** You! #Shorts [V237]",
+        "Linux en Casa Linus Torvalds - Nvidia F*** You! #Shorts [V237]"
+      ],
+      "search_result_limit": 20
+    },
+    "tVq1wgIN62E": {
+      "vid": "tVq1wgIN62E",
+      "status": "review",
+      "completed_at": "2026-11-10T13:14:22.380754+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:13:54.312970+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Silicon Valley - \"It's Apple Maps bad\"",
+        "Damesh Kwanti Silicon Valley - \"It's Apple Maps bad\""
+      ],
+      "search_result_limit": 20
+    },
+    "tWdgAMYjYSs": {
+      "vid": "tWdgAMYjYSs",
+      "status": "confirmed",
+      "completed_at": "2026-11-10T13:15:10.280998+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Wo4y1d7KP",
+          "status": "confirmed",
+          "evidence": [
+            "exact original YouTube ID explicitly associated with selected segment"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Max Headroom WTTW Pirating Incident - 11_22_87 (Subtitled)-tWdgAMYjYSs",
+          "up": "账号已注销",
+          "duration": 126,
+          "original_duration": 126,
+          "cid": 294178447,
+          "aid": 374032647,
+          "segment_title": "Max Headroom WTTW Pirating Incident - 11_22_87 (Subtitled)-tWdgAMYjYSs",
+          "page_count": 1,
+          "kind": "original",
+          "views": 107,
+          "pic": "https://i0.hdslb.com/bfs/archive/8ded976a12ca36a57c8ba9382a007d3d8e43fc29.jpg",
+          "checked_at": "2026-11-10T13:15:10.140039+00:00",
+          "availability": "available"
+        }
+      ],
+      "searched_at": "2026-11-10T13:14:30.274218+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Max Headroom WTTW Pirating Incident - 11/22/87 (Subtitled)",
+        "jonrev Max Headroom WTTW Pirating Incident - 11/22/87 (Subtitled)"
+      ],
+      "search_result_limit": 20
+    },
+    "tb63PdPweDc": {
+      "vid": "tb63PdPweDc",
+      "status": "review",
+      "completed_at": "2026-11-10T13:15:56.413408+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:15:18.508330+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Wurzels - Combine Harvester (Brand New Key) [totp2]",
+        "WiggyVideos4 The Wurzels - Combine Harvester (Brand New Key) [totp2]"
+      ],
+      "search_result_limit": 20
+    },
+    "tdLBzfFGFQU": {
+      "vid": "tdLBzfFGFQU",
+      "status": "review",
+      "completed_at": "2026-11-10T13:16:48.892887+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:16:04.817452+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Milton Friedman - Monopoly",
+        "LibertyPen Milton Friedman - Monopoly"
+      ],
+      "search_result_limit": 20
+    },
+    "tgODUgHeT5Y": {
+      "vid": "tgODUgHeT5Y",
+      "status": "review",
+      "completed_at": "2026-11-10T13:17:24.953134+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:16:56.946501+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Bill Gates explains this “internet” thing #letterman",
+        "Letterman Bill Gates explains this “internet” thing #letterman"
+      ],
+      "search_result_limit": 20
+    },
+    "tjgtLSHhTPg": {
+      "vid": "tjgtLSHhTPg",
+      "status": "review",
+      "completed_at": "2026-11-10T13:18:27.986848+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:17:33.106876+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Apple - Here's to the Crazy Ones (1997)",
+        "vintagemacmuseum Apple - Here's to the Crazy Ones (1997)"
+      ],
+      "search_result_limit": 20
+    },
+    "tom6_ceTu9s": {
+      "vid": "tom6_ceTu9s",
+      "status": "review",
+      "completed_at": "2026-11-10T13:19:20.232848+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:18:36.308886+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Ducks Go Quack, Chickens Say Cluck - Onion Talks - Ep. 3",
+        "The Onion Ducks Go Quack, Chickens Say Cluck - Onion Talks - Ep. 3"
+      ],
+      "search_result_limit": 20
+    },
+    "tq_KOmXyVDo": {
+      "vid": "tq_KOmXyVDo",
+      "status": "review",
+      "completed_at": "2026-11-10T13:19:45.606051+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:19:28.498194+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "How I Animated This Video",
+        "Joel Haver How I Animated This Video"
+      ],
+      "search_result_limit": 20
+    },
+    "ts5lPDV--cU": {
+      "vid": "ts5lPDV--cU",
+      "status": "review",
+      "completed_at": "2026-11-10T13:20:11.583484+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:19:53.713891+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "world's best ai vs geoguessr pro",
+        "RAINBOLT world's best ai vs geoguessr pro"
+      ],
+      "search_result_limit": 20
+    },
+    "twhvtzd6gXA": {
+      "vid": "twhvtzd6gXA",
+      "status": "review",
+      "completed_at": "2026-11-10T13:21:07.958395+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:20:19.817228+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Original Zoloft Commercial",
+        "SuperBowlSammy Original Zoloft Commercial"
+      ],
+      "search_result_limit": 20
+    },
+    "u-kkf76TDHE": {
+      "vid": "u-kkf76TDHE",
+      "status": "review",
+      "completed_at": "2026-11-10T13:21:26.080394+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:21:16.698376+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "GopherCon 2014 Inside the Gophers Studio with Blake Mizerany",
+        "Confreaks GopherCon 2014 Inside the Gophers Studio with Blake Mizerany"
+      ],
+      "search_result_limit": 20
+    },
+    "u0hYIRQRiws": {
+      "vid": "u0hYIRQRiws",
+      "status": "review",
+      "completed_at": "2026-11-10T13:22:38.112446+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:21:34.404785+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Chrome vs Firefox vs Safari vs Servo WebRender",
+        "Jake Archibald Chrome vs Firefox vs Safari vs Servo WebRender"
+      ],
+      "search_result_limit": 20
+    },
+    "u1Ds9CeG-VY": {
+      "vid": "u1Ds9CeG-VY",
+      "status": "review",
+      "completed_at": "2026-11-10T13:23:40.258345+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:22:46.216560+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "infamous hugh jackman \"swordfish\" hack scene",
+        "Neon Stowe infamous hugh jackman \"swordfish\" hack scene"
+      ],
+      "search_result_limit": 20
+    },
+    "u2ZynkD3N_k": {
+      "vid": "u2ZynkD3N_k",
+      "status": "review",
+      "completed_at": "2026-11-10T13:24:38.776318+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:23:48.587803+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Obama drinks Flint water",
+        "CNN Obama drinks Flint water"
+      ],
+      "search_result_limit": 20
+    },
+    "u48vYSLvKNQ": {
+      "vid": "u48vYSLvKNQ",
+      "status": "review",
+      "completed_at": "2026-11-10T13:25:13.177675+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:24:46.844842+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Silicon Valley - Gavin firing Nucleus",
+        "Roshie Di Hay Co Silicon Valley - Gavin firing Nucleus"
+      ],
+      "search_result_limit": 20
+    },
+    "u8qgehH3kEQ": {
+      "vid": "u8qgehH3kEQ",
+      "status": "review",
+      "completed_at": "2026-11-10T13:26:33.015111+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:25:20.916708+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "NCIS 2 IDIOTS 1 KEYBOARD",
+        "Ricardo Figueiredo NCIS 2 IDIOTS 1 KEYBOARD"
+      ],
+      "search_result_limit": 20
+    },
+    "uASUHbFEhWY": {
+      "vid": "uASUHbFEhWY",
+      "status": "confirmed",
+      "completed_at": "2026-11-10T13:26:45.037944+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1US4y167Uf",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "名场面--10年前的动画预言了苹果眼镜的未来形态 - eyePhone",
+          "up": "蔡子尤",
+          "duration": 164,
+          "original_duration": 164,
+          "cid": 518319054,
+          "aid": 724478504,
+          "segment_title": "飞出个未来 - eyePhone",
+          "page_count": 1,
+          "kind": "original",
+          "views": 822,
+          "pic": "https://i0.hdslb.com/bfs/archive/f77f2bd37e1d469b013b2aa6a8e54cc8ab369e6a.jpg",
+          "checked_at": "2026-11-10T13:26:44.891462+00:00",
+          "availability": "available"
+        }
+      ],
+      "searched_at": "2026-11-10T13:26:41.203763+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Futurama - eyePhone",
+        "Calopus Futurama - eyePhone"
+      ],
+      "search_result_limit": 20
+    },
+    "uClWlVCwHsI": {
+      "vid": "uClWlVCwHsI",
+      "status": "review",
+      "completed_at": "2026-11-10T13:27:29.234056+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:26:53.280666+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "FSDBeta 8.2 - 2021.4.11.1 - 4K Drone View of Unprotected Left Turns with Forward Facing Traffic",
+        "Chuck Cook FSDBeta 8.2 - 2021.4.11.1 - 4K Drone View of Unprotected Left Turns with Forward Facing Traffic"
+      ],
+      "search_result_limit": 20
+    },
+    "uEY58fiSK8E": {
+      "vid": "uEY58fiSK8E",
+      "status": "review",
+      "completed_at": "2026-11-10T13:28:13.082327+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:27:41.290923+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Everything's+Amazing+ +Nobody's+Happy",
+        "Matt Bedard Everything's+Amazing+ +Nobody's+Happy"
+      ],
+      "search_result_limit": 20
+    },
+    "uEx5G-GOS1k": {
+      "vid": "uEx5G-GOS1k",
+      "status": "review",
+      "completed_at": "2026-11-10T13:29:14.358170+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:28:21.298031+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Eddie Izzard - Do you have a flag?",
+        "neologismo Eddie Izzard - Do you have a flag?"
+      ],
+      "search_result_limit": 20
+    },
+    "uFpK_r-jEXg": {
+      "vid": "uFpK_r-jEXg",
+      "status": "review",
+      "completed_at": "2026-11-10T13:29:51.615518+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:29:21.675164+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "New Live Poll Lets Pundits Pander To Viewers In Real Time",
+        "The Onion New Live Poll Lets Pundits Pander To Viewers In Real Time"
+      ],
+      "search_result_limit": 20
+    },
+    "uLlv_aZjHXc": {
+      "vid": "uLlv_aZjHXc",
+      "status": "review",
+      "completed_at": "2026-11-10T13:30:31.970217+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:29:59.863540+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Argument Clinic",
+        "TheFullMontyPython Argument Clinic"
+      ],
+      "search_result_limit": 20
+    },
+    "uMM0lRfX6YI": {
+      "vid": "uMM0lRfX6YI",
+      "status": "review",
+      "completed_at": "2026-11-10T13:31:40.345295+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:30:39.887917+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Charger prototype finding its way to Model S",
+        "Tesla Charger prototype finding its way to Model S"
+      ],
+      "search_result_limit": 20
+    },
+    "uMgTIlgYB-U": {
+      "vid": "uMgTIlgYB-U",
+      "status": "review",
+      "completed_at": "2026-11-10T13:32:10.440084+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:31:48.196711+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "ElixirConf 2019 - Day 1 Morning Keynote - Brian Cardarella, Luke Imhoff, Paul Schoenfelder",
+        "ElixirConf ElixirConf 2019 - Day 1 Morning Keynote - Brian Cardarella, Luke Imhoff, Paul Schoenfelder"
+      ],
+      "search_result_limit": 20
+    },
+    "uSVqoW1rz6w": {
+      "vid": "uSVqoW1rz6w",
+      "status": "review",
+      "completed_at": "2026-11-10T13:32:34.136799+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:32:18.336193+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Steve Huffman (Reddit) | TNW Conference | Inside the Biggest Online Community",
+        "TNW Steve Huffman (Reddit) | TNW Conference | Inside the Biggest Online Community"
+      ],
+      "search_result_limit": 20
+    },
+    "uTDO-kuOGTQ": {
+      "vid": "uTDO-kuOGTQ",
+      "status": "review",
+      "completed_at": "2026-11-10T13:33:44.568878+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:32:42.472821+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Robert Mueller on Iraq War and WMD's",
+        "IPA Media Robert Mueller on Iraq War and WMD's"
+      ],
+      "search_result_limit": 20
+    },
+    "uUAvXYW5bmI": {
+      "vid": "uUAvXYW5bmI",
+      "status": "review",
+      "completed_at": "2026-11-10T13:34:20.158002+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:33:52.868498+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "29 Days on the Edge",
+        "James Webb Space Telescope (JWST) 29 Days on the Edge"
+      ],
+      "search_result_limit": 20
+    },
+    "uVdDXeYM4ss": {
+      "vid": "uVdDXeYM4ss",
+      "status": "review",
+      "completed_at": "2026-11-10T13:35:10.381246+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:34:28.269251+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Willy Wonka - No.  Don't.  Stop.",
+        "Steve Summers Willy Wonka - No.  Don't.  Stop."
+      ],
+      "search_result_limit": 20
+    },
+    "uXlQuTRSmzc": {
+      "vid": "uXlQuTRSmzc",
+      "status": "review",
+      "completed_at": "2026-11-10T13:35:24.312747+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:35:18.281237+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "My robot double sells out (so I don't have to)",
+        "Tom Scott My robot double sells out (so I don't have to)"
+      ],
+      "search_result_limit": 20
+    },
+    "uc6QxD2_yQw": {
+      "vid": "uc6QxD2_yQw",
+      "status": "review",
+      "completed_at": "2026-11-10T13:35:41.273972+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:35:39.021352+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Sexual Assault of Men Played for Laughs - Part 1 Male Perpetrators",
+        "Pop Culture Detective Sexual Assault of Men Played for Laughs - Part 1 Male Perpetrators"
+      ],
+      "search_result_limit": 20
+    },
+    "ucEs0nBuowE": {
+      "vid": "ucEs0nBuowE",
+      "status": "review",
+      "completed_at": "2026-11-10T13:36:47.971103+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:35:49.014431+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Vladimir Putin dresses down Russia's spy chief - BBC News",
+        "BBC News Vladimir Putin dresses down Russia's spy chief - BBC News"
+      ],
+      "search_result_limit": 20
+    },
+    "ue7wM0QC5LE": {
+      "vid": "ue7wM0QC5LE",
+      "status": "review",
+      "completed_at": "2026-11-10T13:37:27.586041+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:36:55.261126+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Four Yorkshiremen- Monty Python",
+        "TheFullMontyPython Four Yorkshiremen- Monty Python"
+      ],
+      "search_result_limit": 20
+    },
+    "uiCeqySVhCE": {
+      "vid": "uiCeqySVhCE",
+      "status": "review",
+      "completed_at": "2026-11-10T13:37:50.973022+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:37:36.161302+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "A Conversation with Noam Chomsky on Trump, Capitalism, and the U.S. Role in the New Cold War",
+        "The Foreign Correspondents’ Club, Hong Kong A Conversation with Noam Chomsky on Trump, Capitalism, and the U.S. Role in the New Cold War"
+      ],
+      "search_result_limit": 20
+    },
+    "uiDMlFycNrw": {
+      "vid": "uiDMlFycNrw",
+      "status": "review",
+      "completed_at": "2026-11-10T13:38:53.657454+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:37:58.191561+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Minority Report - Personal Advertising VBR",
+        "dscmailtest Minority Report - Personal Advertising VBR"
+      ],
+      "search_result_limit": 20
+    },
+    "uiJycy6dFSQ": {
+      "vid": "uiJycy6dFSQ",
+      "status": "review",
+      "completed_at": "2026-11-10T13:39:17.514600+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:39:01.471350+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Scala Collections: Why Not?",
+        "InfoQ Scala Collections: Why Not?"
+      ],
+      "search_result_limit": 20
+    },
+    "uj0mtxXEGE8": {
+      "vid": "uj0mtxXEGE8",
+      "status": "review",
+      "completed_at": "2026-11-10T13:40:10.975467+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:39:31.158114+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Chris Rock - How not to get your ass kicked by the police!",
+        "InsaneNutter Chris Rock - How not to get your ass kicked by the police!"
+      ],
+      "search_result_limit": 20
+    },
+    "ukgnU2aXM2c": {
+      "vid": "ukgnU2aXM2c",
+      "status": "review",
+      "completed_at": "2026-11-10T13:40:33.301489+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:40:25.221202+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "How to be a technology innovator: Meredith Perry at TEDxNashville",
+        "TEDx Talks How to be a technology innovator: Meredith Perry at TEDxNashville"
+      ],
+      "search_result_limit": 20
+    },
+    "umJsITGzXd0": {
+      "vid": "umJsITGzXd0",
+      "status": "review",
+      "completed_at": "2026-11-10T13:40:56.915680+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:40:41.314145+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Apple Knowledge Navigator Video (1987)",
+        "Mac History Apple Knowledge Navigator Video (1987)"
+      ],
+      "search_result_limit": 20
+    },
+    "uo9nGzIzSPw": {
+      "vid": "uo9nGzIzSPw",
+      "status": "review",
+      "completed_at": "2026-11-10T13:42:10.276108+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:41:03.819590+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "am radio tower power",
+        "Aaron am radio tower power"
+      ],
+      "search_result_limit": 20
+    },
+    "up863eQKGUI": {
+      "vid": "up863eQKGUI",
+      "status": "confirmed",
+      "completed_at": "2026-11-10T13:42:22.098532+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Sx41177nn",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "【怀旧向】90年代版权保护宣传 Don't Copy That Floppy，别复制那张软盘。",
+          "up": "疯鸡委员",
+          "duration": 582,
+          "original_duration": 583,
+          "cid": 25777269,
+          "aid": 15817551,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "original",
+          "views": 494,
+          "pic": "https://i0.hdslb.com/bfs/archive/fb12867fa7420b0448f1cb00535b2f9258d64026.jpg",
+          "checked_at": "2026-11-10T13:42:21.940195+00:00",
+          "availability": "available"
+        }
+      ],
+      "searched_at": "2026-11-10T13:42:18.410035+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Don't Copy That Floppy (Official Video - Digitally Remastered)",
+        "AntiSoftwarePirates Don't Copy That Floppy (Official Video - Digitally Remastered)"
+      ],
+      "search_result_limit": 20
+    },
+    "urcL86UpqZc": {
+      "vid": "urcL86UpqZc",
+      "status": "review",
+      "completed_at": "2026-11-10T13:42:59.238722+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:42:30.329044+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Interview with an Emacs Enthusiast [Colorized]",
+        "Kai Lentit Interview with an Emacs Enthusiast [Colorized]"
+      ],
+      "search_result_limit": 20
+    },
+    "utfbE3_uAMA": {
+      "vid": "utfbE3_uAMA",
+      "status": "review",
+      "completed_at": "2026-11-10T13:43:09.463296+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:43:06.825665+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Bringing BACK The iPhone Headphone Jack - in China",
+        "Strange Parts Bringing BACK The iPhone Headphone Jack - in China"
+      ],
+      "search_result_limit": 20
+    },
+    "uvPbj9NX0zc": {
+      "vid": "uvPbj9NX0zc",
+      "status": "review",
+      "completed_at": "2026-11-10T13:43:53.433685+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:43:16.834151+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Monty Python   What have the romans ever done for us   YouTube",
+        "degustibus42 Monty Python   What have the romans ever done for us   YouTube"
+      ],
+      "search_result_limit": 20
+    },
+    "uw8MACDZ3RI": {
+      "vid": "uw8MACDZ3RI",
+      "status": "review",
+      "completed_at": "2026-11-10T13:44:20.857399+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:44:01.733829+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Truth About Homelessness in San Francisco",
+        "Christopher F. Rufo The Truth About Homelessness in San Francisco"
+      ],
+      "search_result_limit": 20
+    },
+    "uwajp0g-bY4": {
+      "vid": "uwajp0g-bY4",
+      "status": "review",
+      "completed_at": "2026-11-10T13:45:05.189712+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:44:28.814152+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Rob Pike about the target group of the Go programming language (golang)",
+        "f8C4G86p KbqEFe47 Rob Pike about the target group of the Go programming language (golang)"
+      ],
+      "search_result_limit": 20
+    },
+    "uycsfu4574w": {
+      "vid": "uycsfu4574w",
+      "status": "review",
+      "completed_at": "2026-11-10T13:45:43.254897+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:45:13.477352+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Oscar, James and George in the company of Bertie",
+        "DanHadan Oscar, James and George in the company of Bertie"
+      ],
+      "search_result_limit": 20
+    },
+    "uzV_uzSTCTM": {
+      "vid": "uzV_uzSTCTM",
+      "status": "review",
+      "completed_at": "2026-11-10T13:45:59.584108+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:45:51.338482+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "EEVblog #1333 - Nuclear Diamond Self-Charging Battery DEBUNKED!",
+        "EEVblog EEVblog #1333 - Nuclear Diamond Self-Charging Battery DEBUNKED!"
+      ],
+      "search_result_limit": 20
+    },
+    "v-n1vGeVIXo": {
+      "vid": "v-n1vGeVIXo",
+      "status": "review",
+      "completed_at": "2026-11-10T13:47:17.195261+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:46:07.470239+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "How to Pronounce Synecdoche",
+        "PronunciationManual How to Pronounce Synecdoche"
+      ],
+      "search_result_limit": 20
+    },
+    "v4boTbv9_nU": {
+      "vid": "v4boTbv9_nU",
+      "status": "review",
+      "completed_at": "2026-11-10T13:47:41.286981+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:47:24.696992+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "How Real People Will Use Windows 8",
+        "Chris Pirillo How Real People Will Use Windows 8"
+      ],
+      "search_result_limit": 20
+    },
+    "v5GPWJPLcHg": {
+      "vid": "v5GPWJPLcHg",
+      "status": "review",
+      "completed_at": "2026-11-10T13:48:01.365773+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:47:49.483642+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Precious Metal Refining & Recovery, Episode 10: Platinum From the Road",
+        "Cody'sLab Precious Metal Refining & Recovery, Episode 10: Platinum From the Road"
+      ],
+      "search_result_limit": 20
+    },
+    "vAEU-Lf60LA": {
+      "vid": "vAEU-Lf60LA",
+      "status": "review",
+      "completed_at": "2026-11-10T13:49:18.196434+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:48:09.349262+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "BTTF - Cafe 80`s",
+        "Denkoboy2 BTTF - Cafe 80`s"
+      ],
+      "search_result_limit": 20
+    },
+    "vEOmzjImsVc": {
+      "vid": "vEOmzjImsVc",
+      "status": "review",
+      "completed_at": "2026-11-10T13:50:22.254340+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:49:26.009392+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "ProFORMA: Probabilistic Feature-based On-line Rapid Model Acquisition",
+        "QiPanComputerVision ProFORMA: Probabilistic Feature-based On-line Rapid Model Acquisition"
+      ],
+      "search_result_limit": 20
+    },
+    "vJpEuMidcSU": {
+      "vid": "vJpEuMidcSU",
+      "status": "review",
+      "completed_at": "2026-11-10T13:51:15.764586+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:50:33.395590+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Nokia N97: The Truth",
+        "nokiatruth Nokia N97: The Truth"
+      ],
+      "search_result_limit": 20
+    },
+    "vL-KQij0I8I": {
+      "vid": "vL-KQij0I8I",
+      "status": "review",
+      "completed_at": "2026-11-10T13:52:34.708420+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:51:23.789634+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Devil Wears Prada - Cerulean Top",
+        "Wretched Villainy Devil Wears Prada - Cerulean Top"
+      ],
+      "search_result_limit": 20
+    },
+    "vL_syp1ZScM": {
+      "vid": "vL_syp1ZScM",
+      "status": "review",
+      "completed_at": "2026-11-10T13:52:46.323365+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:52:42.429113+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Your Home Can Survive a Wildfire",
+        "National Fire Protection Association Your Home Can Survive a Wildfire"
+      ],
+      "search_result_limit": 20
+    },
+    "vLfghLQE3F4": {
+      "vid": "vLfghLQE3F4",
+      "status": "review",
+      "completed_at": "2026-11-10T13:53:36.268567+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:52:54.298527+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Welcome to the Private Police | A Bit of Fry and Laurie | BBC",
+        "BBC Studios Welcome to the Private Police | A Bit of Fry and Laurie | BBC"
+      ],
+      "search_result_limit": 20
+    },
+    "vMITcQUe-9M": {
+      "vid": "vMITcQUe-9M",
+      "status": "review",
+      "completed_at": "2026-11-10T13:54:34.888885+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:53:44.463825+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Seinfeld-The Shower Head",
+        "jam0000 Seinfeld-The Shower Head"
+      ],
+      "search_result_limit": 20
+    },
+    "vQ5MA685ApE": {
+      "vid": "vQ5MA685ApE",
+      "status": "review",
+      "completed_at": "2026-11-10T13:55:21.896469+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:54:43.146240+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Moving online webserver using public transport",
+        "Sascha P Moving online webserver using public transport"
+      ],
+      "search_result_limit": 20
+    },
+    "vUgs2O7Okqc": {
+      "vid": "vUgs2O7Okqc",
+      "status": "review",
+      "completed_at": "2026-11-10T13:56:31.472027+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:55:31.640472+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Fear and Loathing in Las Vegas (7/10) Movie CLIP - The High Water Mark (1998) HD",
+        "Movieclips Fear and Loathing in Las Vegas (7/10) Movie CLIP - The High Water Mark (1998) HD"
+      ],
+      "search_result_limit": 20
+    },
+    "vXzuFprlyrw": {
+      "vid": "vXzuFprlyrw",
+      "status": "review",
+      "completed_at": "2026-11-10T13:56:47.842992+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:56:39.631772+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Driving 1000 Miles in 3 Cars: Gas vs Electric!",
+        "Marques Brownlee Driving 1000 Miles in 3 Cars: Gas vs Electric!"
+      ],
+      "search_result_limit": 20
+    },
+    "vZw35VUBdzo": {
+      "vid": "vZw35VUBdzo",
+      "status": "review",
+      "completed_at": "2026-11-10T13:57:29.847728+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:56:55.691213+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Monty Python Dead Parrot",
+        "Cinematheia Monty Python Dead Parrot"
+      ],
+      "search_result_limit": 20
+    },
+    "va1rzP2xIx4": {
+      "vid": "va1rzP2xIx4",
+      "status": "review",
+      "completed_at": "2026-11-10T13:57:42.006651+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:57:37.889212+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "LED Christmas lights still annoy me. Let's try some more fixes.",
+        "Technology Connections LED Christmas lights still annoy me. Let's try some more fixes."
+      ],
+      "search_result_limit": 20
+    },
+    "vbnySBqioB0": {
+      "vid": "vbnySBqioB0",
+      "status": "review",
+      "completed_at": "2026-11-10T13:58:30.016712+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:57:52.045890+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Gary Kasparov and the Flying Penis",
+        "deadaccount Gary Kasparov and the Flying Penis"
+      ],
+      "search_result_limit": 20
+    },
+    "vc7WqVMCABg": {
+      "vid": "vc7WqVMCABg",
+      "status": "review",
+      "completed_at": "2026-11-10T13:58:50.923276+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:58:38.055354+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Zero Mass Water -BUSTED!",
+        "Thunderf00t Zero Mass Water -BUSTED!"
+      ],
+      "search_result_limit": 20
+    },
+    "vf-k6qOfXz0": {
+      "vid": "vf-k6qOfXz0",
+      "status": "review",
+      "completed_at": "2026-11-10T13:59:37.182072+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:58:59.071871+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Bernie Sanders: \"Open borders? That's a Koch brothers proposal\"",
+        "Vox Bernie Sanders: \"Open borders? That's a Koch brothers proposal\""
+      ],
+      "search_result_limit": 20
+    },
+    "vidzkYnaf6Y": {
+      "vid": "vidzkYnaf6Y",
+      "status": "review",
+      "completed_at": "2026-11-10T14:00:34.670432+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T13:59:46.274725+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "A politicians logic",
+        "TrabiRobert A politicians logic"
+      ],
+      "search_result_limit": 20
+    },
+    "vijGdWn5-h8": {
+      "vid": "vijGdWn5-h8",
+      "status": "review",
+      "completed_at": "2026-11-10T14:01:32.977337+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:00:44.971447+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "'Zombie' Parasite Cordyceps Fungus Takes Over Insects Through Mind Control | National Geographic",
+        "National Geographic 'Zombie' Parasite Cordyceps Fungus Takes Over Insects Through Mind Control | National Geographic"
+      ],
+      "search_result_limit": 20
+    },
+    "vix6TMnj9vY": {
+      "vid": "vix6TMnj9vY",
+      "status": "review",
+      "completed_at": "2026-11-10T14:02:07.163190+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:01:42.314450+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Tomorrow's World: Mobile Phone 13 September 1979 - BBC",
+        "BBC Tomorrow's World: Mobile Phone 13 September 1979 - BBC"
+      ],
+      "search_result_limit": 20
+    },
+    "vjqt8T3tJIE": {
+      "vid": "vjqt8T3tJIE",
+      "status": "confirmed",
+      "completed_at": "2026-11-10T14:02:16.806627+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1Ad4y1z79J",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "[生肉]Did People Used To Look Older ?",
+          "up": "苦杕氯化钠",
+          "duration": 1375,
+          "original_duration": 1374,
+          "cid": 839337026,
+          "aid": 388363564,
+          "segment_title": "[生肉]Did People Used To Look Older ?",
+          "page_count": 1,
+          "kind": "original",
+          "views": 65,
+          "pic": "https://i0.hdslb.com/bfs/archive/5c722eaff0d45017a9ad8e373ea939c28ed4497c.jpg",
+          "checked_at": "2026-11-10T14:02:16.641005+00:00",
+          "availability": "available"
+        }
+      ],
+      "searched_at": "2026-11-10T14:02:15.067273+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Did People Used To Look Older?",
+        "Vsauce Did People Used To Look Older?"
+      ],
+      "search_result_limit": 20
+    },
+    "vqeIeIcDHD0": {
+      "vid": "vqeIeIcDHD0",
+      "status": "review",
+      "completed_at": "2026-11-10T14:02:46.943585+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:02:25.066230+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "First Update From Dianna (Physics Girl)",
+        "Physics Girl First Update From Dianna (Physics Girl)"
+      ],
+      "search_result_limit": 20
+    },
+    "vt9kRLrmrjc": {
+      "vid": "vt9kRLrmrjc",
+      "status": "review",
+      "completed_at": "2026-11-10T14:03:37.216471+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:02:56.867200+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Source: FBI looking at wife's phone call",
+        "CNN Source: FBI looking at wife's phone call"
+      ],
+      "search_result_limit": 20
+    },
+    "vydgkCCXbTA": {
+      "vid": "vydgkCCXbTA",
+      "status": "review",
+      "completed_at": "2026-11-10T14:04:09.921948+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:03:45.413659+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "An Update On Dianna's Health",
+        "Physics Girl An Update On Dianna's Health"
+      ],
+      "search_result_limit": 20
+    },
+    "vzm6pvHPSGo": {
+      "vid": "vzm6pvHPSGo",
+      "status": "review",
+      "completed_at": "2026-11-10T14:04:54.104113+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:04:17.730766+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "IBM Flying Cars Commercial",
+        "Dromlarid IBM Flying Cars Commercial"
+      ],
+      "search_result_limit": 20
+    },
+    "w-CGSQAO5-Q": {
+      "vid": "w-CGSQAO5-Q",
+      "status": "review",
+      "completed_at": "2026-11-10T14:05:57.595221+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:05:02.314399+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Teaching Robots New Behaviors",
+        "Toyota Research Institute Teaching Robots New Behaviors"
+      ],
+      "search_result_limit": 20
+    },
+    "w2itwFJCgFQ": {
+      "vid": "w2itwFJCgFQ",
+      "status": "review",
+      "completed_at": "2026-11-10T14:06:27.685858+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:06:05.805702+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The astounding athletic power of quadcopters | Raffaello D'Andrea",
+        "TED The astounding athletic power of quadcopters | Raffaello D'Andrea"
+      ],
+      "search_result_limit": 20
+    },
+    "w4sLAQvEH-M": {
+      "vid": "w4sLAQvEH-M",
+      "status": "review",
+      "completed_at": "2026-11-10T14:06:51.767568+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:06:35.931628+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Longest-Running Evolution Experiment",
+        "Veritasium The Longest-Running Evolution Experiment"
+      ],
+      "search_result_limit": 20
+    },
+    "wCrtk-pyP0I": {
+      "vid": "wCrtk-pyP0I",
+      "status": "confirmed",
+      "completed_at": "2026-11-10T14:07:03.791073+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1jb41187zL",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "How Microwaving Grapes Makes Plasma 微波葡萄如何产生等离子体 【不要模仿！！！】",
+          "up": "pt_R",
+          "duration": 496,
+          "original_duration": 496,
+          "cid": 78187217,
+          "aid": 44659944,
+          "segment_title": "How Microwaving Grapes Makes Plasma",
+          "page_count": 1,
+          "kind": "original",
+          "views": 3318,
+          "pic": "https://i0.hdslb.com/bfs/archive/4fb06de5521d56c581a15e62ac326ccc2c3ceaf5.jpg",
+          "checked_at": "2026-11-10T14:07:03.614030+00:00",
+          "availability": "available"
+        }
+      ],
+      "searched_at": "2026-11-10T14:06:59.992306+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Microwaving Grapes Makes Plasma",
+        "Veritasium Microwaving Grapes Makes Plasma"
+      ],
+      "search_result_limit": 20
+    },
+    "wCzS2FZoB-I": {
+      "vid": "wCzS2FZoB-I",
+      "status": "review",
+      "completed_at": "2026-11-10T14:08:02.133482+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:07:12.023630+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "3D-Printed Home Can Be Constructed For Under $4,000",
+        "Insider Tech 3D-Printed Home Can Be Constructed For Under $4,000"
+      ],
+      "search_result_limit": 20
+    },
+    "wE3fmFTtP9g": {
+      "vid": "wE3fmFTtP9g",
+      "status": "review",
+      "completed_at": "2026-11-10T14:09:20.861600+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:08:15.183542+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Introducing WildCat",
+        "Boston Dynamics Introducing WildCat"
+      ],
+      "search_result_limit": 20
+    },
+    "wKDdLWAdcbM": {
+      "vid": "wKDdLWAdcbM",
+      "status": "review",
+      "completed_at": "2026-11-10T14:10:21.548836+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:09:35.503315+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Sir Humphrey explains the role of a civil servant",
+        "David Beckett Sir Humphrey explains the role of a civil servant"
+      ],
+      "search_result_limit": 20
+    },
+    "wO61D9x6lNY": {
+      "vid": "wO61D9x6lNY",
+      "status": "review",
+      "completed_at": "2026-11-10T14:10:41.943960+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:10:29.843302+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Outside In",
+        "ssgelm Outside In"
+      ],
+      "search_result_limit": 20
+    },
+    "wORv8J1n0y8": {
+      "vid": "wORv8J1n0y8",
+      "status": "review",
+      "completed_at": "2026-11-10T14:11:50.823768+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:10:48.819045+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Memrise Team",
+        "Memrise Video Phrase Book  Memrise Team"
+      ],
+      "search_result_limit": 20
+    },
+    "wPiLLplofYw": {
+      "vid": "wPiLLplofYw",
+      "status": "review",
+      "completed_at": "2026-11-10T14:12:52.644071+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:11:58.989692+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Decerebrate Cat walks and exhibits multiple gait patterns",
+        "0zxr Decerebrate Cat walks and exhibits multiple gait patterns"
+      ],
+      "search_result_limit": 20
+    },
+    "wPrUmViN_5c": {
+      "vid": "wPrUmViN_5c",
+      "status": "review",
+      "completed_at": "2026-11-10T14:14:02.530583+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:13:04.419948+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Hackers - Technobabble",
+        "cmdrk1138 Hackers - Technobabble"
+      ],
+      "search_result_limit": 20
+    },
+    "wRnSnfiUI54": {
+      "vid": "wRnSnfiUI54",
+      "status": "review",
+      "completed_at": "2026-11-10T14:15:06.867342+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:14:09.374905+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "KHAAAAAAN!",
+        "Pringlesman KHAAAAAAN!"
+      ],
+      "search_result_limit": 20
+    },
+    "wSIWpFPkYrk": {
+      "vid": "wSIWpFPkYrk",
+      "status": "review",
+      "completed_at": "2026-11-10T14:16:00.033844+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:15:15.145085+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Starwars Musquito Defense System English Version",
+        "Groen Brothers Starwars Musquito Defense System English Version"
+      ],
+      "search_result_limit": 20
+    },
+    "w_rKA6ROAVk": {
+      "vid": "w_rKA6ROAVk",
+      "status": "review",
+      "completed_at": "2026-11-10T14:17:20.623243+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:16:08.161314+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Newport Beach Police Dept - Are You Qualified?",
+        "NBPD43 The Newport Beach Police Dept - Are You Qualified?"
+      ],
+      "search_result_limit": 20
+    },
+    "whbyuy2nHBg": {
+      "vid": "whbyuy2nHBg",
+      "status": "review",
+      "completed_at": "2026-11-10T14:18:04.426160+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:17:27.652701+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "A real, not-clickbaity, average Chinese wet market",
+        "Chinese Cooking Demystified A real, not-clickbaity, average Chinese wet market"
+      ],
+      "search_result_limit": 20
+    },
+    "wmVkJvieaOA": {
+      "vid": "wmVkJvieaOA",
+      "status": "review",
+      "completed_at": "2026-11-10T14:18:23.194570+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:18:11.164317+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Alt-Right Playbook: Never Play Defense",
+        "Innuendo Studios The Alt-Right Playbook: Never Play Defense"
+      ],
+      "search_result_limit": 20
+    },
+    "wmin5WkOuPw": {
+      "vid": "wmin5WkOuPw",
+      "status": "review",
+      "completed_at": "2026-11-10T14:19:18.027924+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:18:31.275517+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Prodigy - Firestarter (Official Video)",
+        "The Prodigy The Prodigy - Firestarter (Official Video)"
+      ],
+      "search_result_limit": 20
+    },
+    "wpIJVWXsBBI": {
+      "vid": "wpIJVWXsBBI",
+      "status": "review",
+      "completed_at": "2026-11-10T14:20:00.962615+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:19:26.266370+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Breaking into a Suitcase with a Ballpoint Pen and What You Can Do About It",
+        "ITS Tactical / Imminent Threat Solutions Breaking into a Suitcase with a Ballpoint Pen and What You Can Do About It"
+      ],
+      "search_result_limit": 20
+    },
+    "wsixsRI-Sz4": {
+      "vid": "wsixsRI-Sz4",
+      "status": "review",
+      "completed_at": "2026-11-10T14:20:15.367182+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:20:09.279063+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Elon Musk | Full interview | Code Conference 2016",
+        "On with Kara Swisher Elon Musk | Full interview | Code Conference 2016"
+      ],
+      "search_result_limit": 20
+    },
+    "wv9n9Casp1o": {
+      "vid": "wv9n9Casp1o",
+      "status": "review",
+      "completed_at": "2026-11-10T14:21:25.257908+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:20:25.110873+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "DC-X Flight 8",
+        "Spaceman Sam Coniglio DC-X Flight 8"
+      ],
+      "search_result_limit": 20
+    },
+    "wvhW8cp15tk": {
+      "vid": "wvhW8cp15tk",
+      "status": "review",
+      "completed_at": "2026-11-10T14:21:44.036639+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:21:33.269535+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Steve Jobs and Bill Gates Together at D5 Conference 2007",
+        "BrioWeb Agenzia di marketing e comunicazione Steve Jobs and Bill Gates Together at D5 Conference 2007"
+      ],
+      "search_result_limit": 20
+    },
+    "wzkAeopX7P0": {
+      "vid": "wzkAeopX7P0",
+      "status": "review",
+      "completed_at": "2026-11-10T14:23:01.469487+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:21:51.351134+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "RTTY DEMO 012710.wmv",
+        "Kelly Klaas RTTY DEMO 012710.wmv"
+      ],
+      "search_result_limit": 20
+    },
+    "x-5zEb1oS9A": {
+      "vid": "x-5zEb1oS9A",
+      "status": "review",
+      "completed_at": "2026-11-10T14:23:35.510461+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:23:08.292593+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Get some patients - Yes, Minister - BBC",
+        "BBC Studios Get some patients - Yes, Minister - BBC"
+      ],
+      "search_result_limit": 20
+    },
+    "x034jVB1avs": {
+      "vid": "x034jVB1avs",
+      "status": "review",
+      "completed_at": "2026-11-10T14:24:54.345655+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:23:43.729256+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Laser Pong (my second laser projector videogame)",
+        "Brandon Thomas Laser Pong (my second laser projector videogame)"
+      ],
+      "search_result_limit": 20
+    },
+    "x0YGZPycMEU": {
+      "vid": "x0YGZPycMEU",
+      "status": "review",
+      "completed_at": "2026-11-10T14:25:30.088424+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:25:02.347625+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "\"Computer Says No...\" | Little Britain | Lucas & Walliams",
+        "Matt Lucas and David Walliams \"Computer Says No...\" | Little Britain | Lucas & Walliams"
+      ],
+      "search_result_limit": 20
+    },
+    "x2ZLS1V3iMw": {
+      "vid": "x2ZLS1V3iMw",
+      "status": "review",
+      "completed_at": "2026-11-10T14:26:35.615407+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:25:37.141377+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "'Drink water': Ronaldo removes Coca-Cola bottles in press conference",
+        "The Telegraph 'Drink water': Ronaldo removes Coca-Cola bottles in press conference"
+      ],
+      "search_result_limit": 20
+    },
+    "x73PkUvArJY": {
+      "vid": "x73PkUvArJY",
+      "status": "review",
+      "completed_at": "2026-11-10T14:27:06.838563+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:26:44.001771+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "James Acaster On The Absurdity Of The British Empire",
+        "Still Watching Netflix James Acaster On The Absurdity Of The British Empire"
+      ],
+      "search_result_limit": 20
+    },
+    "x7MvtQp2-UA": {
+      "vid": "x7MvtQp2-UA",
+      "status": "review",
+      "completed_at": "2026-11-10T14:28:09.488337+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:27:14.208912+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Disappearing American Dialect of North Carolina",
+        "Great Big Story The Disappearing American Dialect of North Carolina"
+      ],
+      "search_result_limit": 20
+    },
+    "xA4QWwaweWA": {
+      "vid": "xA4QWwaweWA",
+      "status": "review",
+      "completed_at": "2026-11-10T14:28:45.729546+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:28:21.884728+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Moving Atoms: Making The World's Smallest Movie",
+        "IBM Moving Atoms: Making The World's Smallest Movie"
+      ],
+      "search_result_limit": 20
+    },
+    "xAxtxPAUcwQ": {
+      "vid": "xAxtxPAUcwQ",
+      "status": "review",
+      "completed_at": null,
+      "candidates": [],
+      "searched_at": "2026-11-10T14:29:01.236694+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Qwest commercial 1999 - Every Movie",
+        "Greg Nielsen Qwest commercial 1999 - Every Movie"
+      ],
+      "search_result_limit": 20,
+      "last_error": "URLError"
+    },
+    "xC5uEe5OzNQ": {
+      "vid": "xC5uEe5OzNQ",
+      "status": "review",
+      "completed_at": "2026-11-10T14:31:10.672831+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:30:21.744275+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "WINDOWS VISTA AERO VS LINUX UBUNTU BERYL",
+        "tearbd2 WINDOWS VISTA AERO VS LINUX UBUNTU BERYL"
+      ],
+      "search_result_limit": 20
+    },
+    "xDcvPf78g1k": {
+      "vid": "xDcvPf78g1k",
+      "status": "review",
+      "completed_at": "2026-11-10T14:31:59.029131+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:31:18.885884+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "2021 Free Expression Awards Highlight: Susan Wojcicki",
+        "Freedom Forum 2021 Free Expression Awards Highlight: Susan Wojcicki"
+      ],
+      "search_result_limit": 20
+    },
+    "xH_6_8NOfwI": {
+      "vid": "xH_6_8NOfwI",
+      "status": "review",
+      "completed_at": "2026-11-10T14:33:07.449969+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:32:07.324343+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Wire: Fix The Crime Statistics...or...",
+        "bttp011 The Wire: Fix The Crime Statistics...or..."
+      ],
+      "search_result_limit": 20
+    },
+    "xIraCchPDhk": {
+      "vid": "xIraCchPDhk",
+      "status": "review",
+      "completed_at": "2026-11-10T14:34:06.133390+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:33:39.253829+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "George Carlin Doesn't vote",
+        "BankOFganja George Carlin Doesn't vote"
+      ],
+      "search_result_limit": 20
+    },
+    "xJzYRgmnJrE": {
+      "vid": "xJzYRgmnJrE",
+      "status": "review",
+      "completed_at": "2026-11-10T14:34:33.258385+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:34:14.364415+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Xerox Star User Interface: An overview",
+        "ACM SIGCHI Xerox Star User Interface: An overview"
+      ],
+      "search_result_limit": 20
+    },
+    "xNzXze5Yza8": {
+      "vid": "xNzXze5Yza8",
+      "status": "review",
+      "completed_at": null,
+      "candidates": [],
+      "searched_at": "2026-11-10T14:34:40.404137+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Cadillac ELR Coupe 2014 Commercial",
+        "Nenor Cadillac ELR Coupe 2014 Commercial"
+      ],
+      "search_result_limit": 20,
+      "last_error": "URLError"
+    },
+    "xO1zxPRRf4g": {
+      "vid": "xO1zxPRRf4g",
+      "status": "review",
+      "completed_at": "2026-11-10T14:51:18.433525+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:50:31.950014+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Robert's Rules of Order, The WIre, S03E01",
+        "Robert Kienzle Robert's Rules of Order, The WIre, S03E01"
+      ],
+      "search_result_limit": 20
+    },
+    "xOQmQpKHVWA": {
+      "vid": "xOQmQpKHVWA",
+      "status": "review",
+      "completed_at": "2026-11-10T14:51:50.132509+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:51:25.231363+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Boeing CEO Dennis Muilenburg answers questions at the company's shareholder meeting",
+        "CNBC Television Boeing CEO Dennis Muilenburg answers questions at the company's shareholder meeting"
+      ],
+      "search_result_limit": 20
+    },
+    "xSVqLHghLpw": {
+      "vid": "xSVqLHghLpw",
+      "status": "review",
+      "completed_at": "2026-11-10T14:53:12.614165+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:51:58.998089+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Simpsons Anti-Tiger Rock",
+        "megamasterdrive The Simpsons Anti-Tiger Rock"
+      ],
+      "search_result_limit": 20
+    },
+    "xU4GdHLUHwU": {
+      "vid": "xU4GdHLUHwU",
+      "status": "review",
+      "completed_at": "2026-11-10T14:53:43.876773+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:53:19.346540+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "9/10/2001: Rumsfeld says $2.3 TRILLION Missing from Pentagon",
+        "BubbaLouis 9/10/2001: Rumsfeld says $2.3 TRILLION Missing from Pentagon"
+      ],
+      "search_result_limit": 20
+    },
+    "xUEob2oAKVs": {
+      "vid": "xUEob2oAKVs",
+      "status": "review",
+      "completed_at": "2026-11-10T14:54:15.848904+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:53:55.911288+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Which Penetrating Oil is Best? Let's find out!",
+        "Project Farm Which Penetrating Oil is Best? Let's find out!"
+      ],
+      "search_result_limit": 20
+    },
+    "xUJtqvYDnkg": {
+      "vid": "xUJtqvYDnkg",
+      "status": "review",
+      "completed_at": "2026-11-10T14:54:30.148182+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:54:24.010492+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "[1422] Did I Cheat On This Challenge? (Tamper-Sealed Abus)",
+        "LockPickingLawyer [1422] Did I Cheat On This Challenge? (Tamper-Sealed Abus)"
+      ],
+      "search_result_limit": 20
+    },
+    "xbiDrzTd8fE": {
+      "vid": "xbiDrzTd8fE",
+      "status": "review",
+      "completed_at": "2026-11-10T14:54:54.559465+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:54:38.087445+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Big Short (2015) - Jared Vennett's Pitch to Front Point Partners (Jenga Blocks Scene) [HD 1080p]",
+        "Extractor The Big Short (2015) - Jared Vennett's Pitch to Front Point Partners (Jenga Blocks Scene) [HD 1080p]"
+      ],
+      "search_result_limit": 20
+    },
+    "xgy0rW0oaFI": {
+      "vid": "xgy0rW0oaFI",
+      "status": "review",
+      "completed_at": "2026-11-10T14:55:04.461367+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:55:02.503677+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "1 -  L'énergie - Cours des Mines 2019 - Jancovici -  [EN subtitles available]",
+        "Jean-Marc Jancovici 1 -  L'énergie - Cours des Mines 2019 - Jancovici -  [EN subtitles available]"
+      ],
+      "search_result_limit": 20
+    },
+    "xnhJWusyj4I": {
+      "vid": "xnhJWusyj4I",
+      "status": "review",
+      "completed_at": "2026-11-10T14:56:27.835181+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:55:12.737994+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Feelings vs Fact - Newt Gingrich - RNC Topic on Violent Crime - Feelings trump FBI Stats!",
+        "Sam & Me Z Feelings vs Fact - Newt Gingrich - RNC Topic on Violent Crime - Feelings trump FBI Stats!"
+      ],
+      "search_result_limit": 20
+    },
+    "xo9cKe_Fch8": {
+      "vid": "xo9cKe_Fch8",
+      "status": "review",
+      "completed_at": "2026-11-10T14:56:45.832437+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:56:35.964732+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Steve Jobs introduces the App store  - iPhone SDK Keynote",
+        "gamingandtechnology Steve Jobs introduces the App store  - iPhone SDK Keynote"
+      ],
+      "search_result_limit": 20
+    },
+    "xoHbn8-ROiQ": {
+      "vid": "xoHbn8-ROiQ",
+      "status": "review",
+      "completed_at": "2026-11-10T14:58:12.706654+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:56:53.732496+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The new Toyota Hilux 2016 fails moose test",
+        "Teknikens Värld The new Toyota Hilux 2016 fails moose test"
+      ],
+      "search_result_limit": 20
+    },
+    "xrzMYL901AQ": {
+      "vid": "xrzMYL901AQ",
+      "status": "review",
+      "completed_at": "2026-11-10T14:59:11.479373+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:58:20.940831+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Oracle is destined to beat Amazon at cloud database: Larry Ellison",
+        "Fox Business Oracle is destined to beat Amazon at cloud database: Larry Ellison"
+      ],
+      "search_result_limit": 20
+    },
+    "xubbVvKbUfY": {
+      "vid": "xubbVvKbUfY",
+      "status": "review",
+      "completed_at": "2026-11-10T14:59:51.263396+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:59:19.643733+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "MAKRO | Microsoft Excel Stream Highlights 3/19",
+        "KRAZAM MAKRO | Microsoft Excel Stream Highlights 3/19"
+      ],
+      "search_result_limit": 20
+    },
+    "xvFZjo5PgG0": {
+      "vid": "xvFZjo5PgG0",
+      "status": "review",
+      "completed_at": "2026-11-10T15:01:03.853620+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T14:59:58.598205+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Rick Roll (Different link + no ads)",
+        "Duran Rick Roll (Different link + no ads)"
+      ],
+      "search_result_limit": 20
+    },
+    "xxX81WmXjPg": {
+      "vid": "xxX81WmXjPg",
+      "status": "review",
+      "completed_at": "2026-11-10T15:01:14.842219+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:01:13.117405+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "So you think you can validate email addresses A journey down RFC5321",
+        "FOSDEM So you think you can validate email addresses A journey down RFC5321"
+      ],
+      "search_result_limit": 20
+    },
+    "xxYmMRxnEic": {
+      "vid": "xxYmMRxnEic",
+      "status": "review",
+      "completed_at": "2026-11-10T15:01:58.116946+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:01:23.047903+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "ESCAPE FROM NEW YORK : SNAKE PLISSKEN FLIGHT ON TWIN TOWERS",
+        "Hacene Benmamar ESCAPE FROM NEW YORK : SNAKE PLISSKEN FLIGHT ON TWIN TOWERS"
+      ],
+      "search_result_limit": 20
+    },
+    "xxjiQoTp864": {
+      "vid": "xxjiQoTp864",
+      "status": "review",
+      "completed_at": "2026-11-10T15:02:52.350223+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:02:10.347864+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Adobe MAX 2011 - Photoshop Image Deblurring sneak",
+        "Peter Elst Adobe MAX 2011 - Photoshop Image Deblurring sneak"
+      ],
+      "search_result_limit": 20
+    },
+    "xyg_v7Vxo4A": {
+      "vid": "xyg_v7Vxo4A",
+      "status": "review",
+      "completed_at": "2026-11-10T15:03:42.365318+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:03:01.233926+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Wire: Chicken McNuggets",
+        "goodcookiedrift The Wire: Chicken McNuggets"
+      ],
+      "search_result_limit": 20
+    },
+    "y0vlD7r-kTc": {
+      "vid": "y0vlD7r-kTc",
+      "status": "review",
+      "completed_at": "2026-11-10T15:03:56.290173+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:03:50.339419+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "35C3 -  How Facebook tracks you on Android",
+        "media.ccc.de 35C3 -  How Facebook tracks you on Android"
+      ],
+      "search_result_limit": 20
+    },
+    "y2F0wjoKEhg": {
+      "vid": "y2F0wjoKEhg",
+      "status": "review",
+      "completed_at": "2026-11-10T15:04:18.030900+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:04:05.983064+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "I Hope Google Doesn’t Ban Us... - Abusing Unlimited Google Drive",
+        "Linus Tech Tips I Hope Google Doesn’t Ban Us... - Abusing Unlimited Google Drive"
+      ],
+      "search_result_limit": 20
+    },
+    "y39D4529FM4": {
+      "vid": "y39D4529FM4",
+      "status": "review",
+      "completed_at": "2026-11-10T15:05:17.451404+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:04:26.191558+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "What happens when the CPU cooler is removed?",
+        "AdDiCt Zorz What happens when the CPU cooler is removed?"
+      ],
+      "search_result_limit": 20
+    },
+    "y3InF19dzlM": {
+      "vid": "y3InF19dzlM",
+      "status": "review",
+      "completed_at": "2026-11-10T15:06:02.046964+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:05:25.349020+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "UNBELTED Passenger in Frontal Car Crash",
+        "YOUCAR UNBELTED Passenger in Frontal Car Crash"
+      ],
+      "search_result_limit": 20
+    },
+    "y8OnoxKotPQ": {
+      "vid": "y8OnoxKotPQ",
+      "status": "confirmed",
+      "completed_at": "2026-11-10T15:06:14.088831+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1iq4y1574e",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "Microservices",
+          "up": "zimmer816",
+          "duration": 190,
+          "original_duration": 189,
+          "cid": 427510459,
+          "aid": 548664602,
+          "segment_title": "Microservices",
+          "page_count": 1,
+          "kind": "original",
+          "views": 50,
+          "pic": "https://i1.hdslb.com/bfs/archive/3a0bab74d1ed1c1f5bdb5f47862acef14f8792f7.jpg",
+          "checked_at": "2026-11-10T15:06:13.896138+00:00",
+          "availability": "available"
+        }
+      ],
+      "searched_at": "2026-11-10T15:06:10.477811+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Microservices",
+        "KRAZAM Microservices"
+      ],
+      "search_result_limit": 20
+    },
+    "yITr127KZtQ": {
+      "vid": "yITr127KZtQ",
+      "status": "review",
+      "completed_at": "2026-11-10T15:07:11.745279+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:06:22.175853+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Traffic flow measured on 30 different 4-way junctions",
+        "euverus Traffic flow measured on 30 different 4-way junctions"
+      ],
+      "search_result_limit": 20
+    },
+    "yO9VRtrTJwc": {
+      "vid": "yO9VRtrTJwc",
+      "status": "review",
+      "completed_at": "2026-11-10T15:07:49.817325+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:07:20.619866+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Working at Amazon Fulfillment Center - SOUTH PARK",
+        "South Park Studios Working at Amazon Fulfillment Center - SOUTH PARK"
+      ],
+      "search_result_limit": 20
+    },
+    "yS7Jb58hcsc": {
+      "vid": "yS7Jb58hcsc",
+      "status": "review",
+      "completed_at": "2026-11-10T15:08:27.588568+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:07:57.002711+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Milton Friedman talks about property taxes",
+        "Benjamin Ljung Milton Friedman talks about property taxes"
+      ],
+      "search_result_limit": 20
+    },
+    "yVwAodrjZMY": {
+      "vid": "yVwAodrjZMY",
+      "status": "review",
+      "completed_at": "2026-11-10T15:08:45.288273+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:08:40.789877+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "How we take back the internet | Edward Snowden",
+        "TED How we take back the internet | Edward Snowden"
+      ],
+      "search_result_limit": 20
+    },
+    "yaXma6K9mzo": {
+      "vid": "yaXma6K9mzo",
+      "status": "review",
+      "completed_at": "2026-11-10T15:09:16.263499+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:08:53.826058+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Matt Damon Sweats From His Scalp While Eating Spicy Wings | Hot Ones",
+        "First We Feast Matt Damon Sweats From His Scalp While Eating Spicy Wings | Hot Ones"
+      ],
+      "search_result_limit": 20
+    },
+    "ybSzoLCCX-Y": {
+      "vid": "ybSzoLCCX-Y",
+      "status": "review",
+      "completed_at": "2026-11-10T15:09:57.984625+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:09:23.717605+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Mineshaft gap - Dr. Strangelove",
+        "pmw8000 Mineshaft gap - Dr. Strangelove"
+      ],
+      "search_result_limit": 20
+    },
+    "ybrQvs4x0Ps": {
+      "vid": "ybrQvs4x0Ps",
+      "status": "review",
+      "completed_at": null,
+      "candidates": [],
+      "last_error": "URLError"
+    },
+    "yfl6Lu3xQW0": {
+      "vid": "yfl6Lu3xQW0",
+      "status": "review",
+      "completed_at": "2026-11-10T15:25:49.608285+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:25:12.670996+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Don't Mention the War! | Fawlty Towers | BBC Comedy Greats",
+        "BBC Comedy Greats Don't Mention the War! | Fawlty Towers | BBC Comedy Greats"
+      ],
+      "search_result_limit": 20
+    },
+    "yhuMLpdnOjY": {
+      "vid": "yhuMLpdnOjY",
+      "status": "review",
+      "completed_at": "2026-11-10T15:26:46.493965+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:25:57.637735+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Tom Lehrer - Poisoning Pigeons In The Park",
+        "The Tom Lehrer Wisdom Channel Tom Lehrer - Poisoning Pigeons In The Park"
+      ],
+      "search_result_limit": 20
+    },
+    "yi8_9WGk3Ok": {
+      "vid": "yi8_9WGk3Ok",
+      "status": "review",
+      "completed_at": "2026-11-10T15:26:56.178346+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:26:54.068788+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "NYC DOESN'T KNOW ITS OWN LAWS!",
+        "Louis Rossmann NYC DOESN'T KNOW ITS OWN LAWS!"
+      ],
+      "search_result_limit": 20
+    },
+    "yjfrJzdx7DA": {
+      "vid": "yjfrJzdx7DA",
+      "status": "review",
+      "completed_at": "2026-11-10T15:28:05.722093+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:27:04.080147+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Memorial Honors Victims Of Imminent Dam Disaster",
+        "The Onion Memorial Honors Victims Of Imminent Dam Disaster"
+      ],
+      "search_result_limit": 20
+    },
+    "yjztvddhZmI": {
+      "vid": "yjztvddhZmI",
+      "status": "review",
+      "completed_at": "2026-11-10T15:28:16.569650+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:28:12.461150+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Why You Should Want Driverless Cars On Roads Now",
+        "Veritasium Why You Should Want Driverless Cars On Roads Now"
+      ],
+      "search_result_limit": 20
+    },
+    "ymsHLkB8u3s": {
+      "vid": "ymsHLkB8u3s",
+      "status": "review",
+      "completed_at": "2026-11-10T15:29:13.056509+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:28:24.986206+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "[Great Movie Scenes] Good Will Hunting - Bar Scene",
+        "BiSONN16 [Great Movie Scenes] Good Will Hunting - Bar Scene"
+      ],
+      "search_result_limit": 20
+    },
+    "ynwMN3Z9Og8": {
+      "vid": "ynwMN3Z9Og8",
+      "status": "review",
+      "completed_at": "2026-11-10T15:30:14.980789+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:29:20.950803+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Utrecht’s Vredenburg is the busiest cycle path in all of the Netherlands",
+        "Streetfilms® Utrecht’s Vredenburg is the busiest cycle path in all of the Netherlands"
+      ],
+      "search_result_limit": 20
+    },
+    "yswp0Bio4Oo": {
+      "vid": "yswp0Bio4Oo",
+      "status": "review",
+      "completed_at": "2026-11-10T15:30:21.947216+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:30:21.754217+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Microsoft Surface laptop: unrepairable junk",
+        "Louis Rossmann Microsoft Surface laptop: unrepairable junk"
+      ],
+      "search_result_limit": 20
+    },
+    "yuC_4mGTs98": {
+      "vid": "yuC_4mGTs98",
+      "status": "review",
+      "completed_at": "2026-11-10T15:31:17.116187+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:30:30.217002+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "9/11: A Conspiracy Theory",
+        "corbettreport 9/11: A Conspiracy Theory"
+      ],
+      "search_result_limit": 20
+    },
+    "yuEBBwJdjhQ": {
+      "vid": "yuEBBwJdjhQ",
+      "status": "review",
+      "completed_at": "2026-11-10T15:31:51.674013+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:31:26.063242+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Word Association - Saturday Night Live",
+        "Saturday Night Live Word Association - Saturday Night Live"
+      ],
+      "search_result_limit": 20
+    },
+    "yuTkgi7scKo": {
+      "vid": "yuTkgi7scKo",
+      "status": "review",
+      "completed_at": "2026-11-10T15:32:50.644349+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:31:59.509454+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Ultra-Realistic Modern Warfare Game Features Awaiting Orders, Repairing Trucks",
+        "The Onion Ultra-Realistic Modern Warfare Game Features Awaiting Orders, Repairing Trucks"
+      ],
+      "search_result_limit": 20
+    },
+    "ywBV6M7VOFU": {
+      "vid": "ywBV6M7VOFU",
+      "status": "review",
+      "completed_at": "2026-11-10T15:33:05.378000+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:32:58.755156+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Everything About Grain Bins (Farmers are Geniuses) - Smarter Every Day 218",
+        "SmarterEveryDay Everything About Grain Bins (Farmers are Geniuses) - Smarter Every Day 218"
+      ],
+      "search_result_limit": 20
+    },
+    "ywaTX-nLm6Y": {
+      "vid": "ywaTX-nLm6Y",
+      "status": "review",
+      "completed_at": "2026-11-10T15:33:13.895115+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:33:12.884545+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "100 car batteries wired in parallel!",
+        "styropyro 100 car batteries wired in parallel!"
+      ],
+      "search_result_limit": 20
+    },
+    "z3aEv3EzMyQ": {
+      "vid": "z3aEv3EzMyQ",
+      "status": "review",
+      "completed_at": "2026-11-10T15:33:30.877515+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:33:20.910460+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "I had given up on AMD… until today - Ryzen 9 3900X & Ryzen 7 3700X Review",
+        "Linus Tech Tips I had given up on AMD… until today - Ryzen 9 3900X & Ryzen 7 3700X Review"
+      ],
+      "search_result_limit": 20
+    },
+    "z4AeoAWGJBw": {
+      "vid": "z4AeoAWGJBw",
+      "status": "review",
+      "completed_at": "2026-11-10T15:33:45.537823+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:33:39.254131+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "How my video with 47 million views was stolen on YouTube",
+        "TheFatRat How my video with 47 million views was stolen on YouTube"
+      ],
+      "search_result_limit": 20
+    },
+    "z4FGzE4endQ": {
+      "vid": "z4FGzE4endQ",
+      "status": "review",
+      "completed_at": "2026-11-10T15:34:21.406340+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:33:53.401093+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Jeeesus WEPT!",
+        "The KenMik Edit Jeeesus WEPT!"
+      ],
+      "search_result_limit": 20
+    },
+    "z5Otla5157c": {
+      "vid": "z5Otla5157c",
+      "status": "review",
+      "completed_at": "2026-11-10T15:35:36.699518+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:34:34.420210+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "YOLO (feat. Adam Levine & Kendrick Lamar)",
+        "thelonelyisland YOLO (feat. Adam Levine & Kendrick Lamar)"
+      ],
+      "search_result_limit": 20
+    },
+    "z5e7kWSHWTg": {
+      "vid": "z5e7kWSHWTg",
+      "status": "review",
+      "completed_at": "2026-11-10T15:35:54.931145+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:35:44.547846+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "React.js Conf 2015 - Hype!",
+        "Meta Developers React.js Conf 2015 - Hype!"
+      ],
+      "search_result_limit": 20
+    },
+    "z6ep308goxQ": {
+      "vid": "z6ep308goxQ",
+      "status": "review",
+      "completed_at": "2026-11-10T15:36:26.725158+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:36:02.540140+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "why Japan's internet is weirdly designed",
+        "Answer in Progress why Japan's internet is weirdly designed"
+      ],
+      "search_result_limit": 20
+    },
+    "z7sHc4P4zPg": {
+      "vid": "z7sHc4P4zPg",
+      "status": "review",
+      "completed_at": "2026-11-10T15:37:34.797109+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:36:34.751024+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Life at Nylas",
+        "Nylas Mail Life at Nylas"
+      ],
+      "search_result_limit": 20
+    },
+    "zGK-EzEa45U": {
+      "vid": "zGK-EzEa45U",
+      "status": "review",
+      "completed_at": "2026-11-10T15:38:19.676896+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:37:42.593046+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "vache",
+        "vsnares vache"
+      ],
+      "search_result_limit": 20
+    },
+    "zIE-5hg7FoA": {
+      "vid": "zIE-5hg7FoA",
+      "status": "review",
+      "completed_at": "2026-11-10T15:38:59.635887+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:38:28.975287+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Apple 1984 Ad Commercial - Original Recording from The Day It First Aired",
+        "Delegator Apple 1984 Ad Commercial - Original Recording from The Day It First Aired"
+      ],
+      "search_result_limit": 20
+    },
+    "zILwgQhjC_Q": {
+      "vid": "zILwgQhjC_Q",
+      "status": "review",
+      "completed_at": "2026-11-10T15:39:38.389472+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:39:07.787440+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "EEVblog #646 - Gravity Detection Using A Frequency Counter!",
+        "EEVblog EEVblog #646 - Gravity Detection Using A Frequency Counter!"
+      ],
+      "search_result_limit": 20
+    },
+    "zKgN2G9d0dc": {
+      "vid": "zKgN2G9d0dc",
+      "status": "review",
+      "completed_at": "2026-11-10T15:40:25.316248+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:39:45.632550+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "How noisy is a wind farm?",
+        "The Telegraph How noisy is a wind farm?"
+      ],
+      "search_result_limit": 20
+    },
+    "zN_Zl64OQEw": {
+      "vid": "zN_Zl64OQEw",
+      "status": "review",
+      "completed_at": "2026-11-10T15:41:47.634520+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:40:33.681048+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "F16 bird strike and eject",
+        "donmcl1 F16 bird strike and eject"
+      ],
+      "search_result_limit": 20
+    },
+    "zP0sqRMzkwo": {
+      "vid": "zP0sqRMzkwo",
+      "status": "review",
+      "completed_at": "2026-11-10T15:42:22.761891+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:41:54.646666+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Silly Job Interview - Monty Python",
+        "Leandro T. Silva Silly Job Interview - Monty Python"
+      ],
+      "search_result_limit": 20
+    },
+    "zYTxuW2vmzk": {
+      "vid": "zYTxuW2vmzk",
+      "status": "review",
+      "completed_at": "2026-11-10T15:42:48.646679+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:42:32.750061+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "WikiLeaks video: 'Collateral murder' in Iraq",
+        "Al Jazeera English WikiLeaks video: 'Collateral murder' in Iraq"
+      ],
+      "search_result_limit": 20
+    },
+    "z_wImaGRkNY": {
+      "vid": "z_wImaGRkNY",
+      "status": "review",
+      "completed_at": "2026-11-10T15:43:56.509373+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:42:56.508028+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Apple's New AirPods Ad | CONAN on TBS",
+        "Team Coco Apple's New AirPods Ad | CONAN on TBS"
+      ],
+      "search_result_limit": 20
+    },
+    "zaRHU1XxMJQ": {
+      "vid": "zaRHU1XxMJQ",
+      "status": "review",
+      "completed_at": null,
+      "candidates": [],
+      "last_error": "URLError"
+    },
+    "zaT7thTxyq8": {
+      "vid": "zaT7thTxyq8",
+      "status": "review",
+      "completed_at": "2026-11-10T16:00:39.748073+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T15:59:30.034188+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "WORLD RECORD SPEED TEST",
+        "Opera WORLD RECORD SPEED TEST"
+      ],
+      "search_result_limit": 20
+    },
+    "zcoYKuoiUrY": {
+      "vid": "zcoYKuoiUrY",
+      "status": "review",
+      "completed_at": "2026-11-10T16:00:52.503407+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:00:47.800939+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Charlottesville: The True Alt-Right",
+        "Shaun Charlottesville: The True Alt-Right"
+      ],
+      "search_result_limit": 20
+    },
+    "zdHkY3XYHKA": {
+      "vid": "zdHkY3XYHKA",
+      "status": "review",
+      "completed_at": "2026-11-10T16:01:49.654797+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:00:59.909793+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "China - 3,000 Years of History in a Minute",
+        "EarthDirect China - 3,000 Years of History in a Minute"
+      ],
+      "search_result_limit": 20
+    },
+    "zdKCQKBvH-A": {
+      "vid": "zdKCQKBvH-A",
+      "status": "review",
+      "completed_at": "2026-11-10T16:02:04.949287+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:01:58.997808+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Waymo AI Driverless Car Goes Rogue: Blocks Traffic, Evades Capture | JJRicks Rides With Waymo #54",
+        "JJRicks Waymo AI Driverless Car Goes Rogue: Blocks Traffic, Evades Capture | JJRicks Rides With Waymo #54"
+      ],
+      "search_result_limit": 20
+    },
+    "zfR_Jj4grZE": {
+      "vid": "zfR_Jj4grZE",
+      "status": "review",
+      "completed_at": "2026-11-10T16:03:14.838796+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:02:14.921131+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Apple iPad Pro TV Commercial - What's a Computer? [2017] ❤️",
+        "TV Commercials Yup Apple iPad Pro TV Commercial - What's a Computer? [2017] ❤️"
+      ],
+      "search_result_limit": 20
+    },
+    "zhPklt9nYas": {
+      "vid": "zhPklt9nYas",
+      "status": "review",
+      "completed_at": "2026-11-10T16:04:26.282445+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:03:23.061069+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Google Chrome  Dear Sophie",
+        "THE AD FACTORY Google Chrome  Dear Sophie"
+      ],
+      "search_result_limit": 20
+    },
+    "zhr6fHmCJ6k": {
+      "vid": "zhr6fHmCJ6k",
+      "status": "review",
+      "completed_at": "2026-11-10T16:05:13.026972+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:04:34.212307+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Elon Musk's Broken Promises",
+        "Dan O'Dowd Media Elon Musk's Broken Promises"
+      ],
+      "search_result_limit": 20
+    },
+    "zicGxU5MfwE": {
+      "vid": "zicGxU5MfwE",
+      "status": "review",
+      "completed_at": "2026-11-10T16:05:54.700006+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:05:21.699481+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "President Trump Suggests ‘Injecting’ Disinfectant as Coronavirus Cure | NBC New York",
+        "NBC New York President Trump Suggests ‘Injecting’ Disinfectant as Coronavirus Cure | NBC New York"
+      ],
+      "search_result_limit": 20
+    },
+    "zihTWh5i2C4": {
+      "vid": "zihTWh5i2C4",
+      "status": "review",
+      "completed_at": "2026-11-10T16:06:06.559496+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:06:02.720070+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "How to Create a Mind | Ray Kurzweil | Talks at Google",
+        "Talks at Google How to Create a Mind | Ray Kurzweil | Talks at Google"
+      ],
+      "search_result_limit": 20
+    },
+    "ziqpwkhqTRs": {
+      "vid": "ziqpwkhqTRs",
+      "status": "review",
+      "completed_at": "2026-11-10T16:06:33.095912+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:06:14.737562+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "British Army on LSD (Acid) drugs",
+        "Undercurrents Media British Army on LSD (Acid) drugs"
+      ],
+      "search_result_limit": 20
+    },
+    "zjJ2-cdhwMQ": {
+      "vid": "zjJ2-cdhwMQ",
+      "status": "review",
+      "completed_at": "2026-11-10T16:06:45.989747+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:06:41.680451+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "CLEARink ePaper 2.0 at SID Display Week 2019",
+        "Charbax CLEARink ePaper 2.0 at SID Display Week 2019"
+      ],
+      "search_result_limit": 20
+    },
+    "zn2Xf9hAFcE": {
+      "vid": "zn2Xf9hAFcE",
+      "status": "review",
+      "completed_at": "2026-11-10T16:07:03.828070+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:06:54.641616+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Eric Dale is fired – Margin Call (2011)",
+        "Weyland Eric Dale is fired – Margin Call (2011)"
+      ],
+      "search_result_limit": 20
+    },
+    "zn7-fVtT16k": {
+      "vid": "zn7-fVtT16k",
+      "status": "review",
+      "completed_at": "2026-11-10T16:07:59.113875+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:07:11.341748+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Albert Einstein vs Stephen Hawking. Epic Rap Battles of History",
+        "Nice Peter Albert Einstein vs Stephen Hawking. Epic Rap Battles of History"
+      ],
+      "search_result_limit": 20
+    },
+    "zqEvQKO5_gM": {
+      "vid": "zqEvQKO5_gM",
+      "status": "review",
+      "completed_at": "2026-11-10T16:08:50.710635+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:08:05.978962+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Psaki: 'We're Flagging Problematic Posts On Facebook That Spread Disinformation'",
+        "Newsweek Psaki: 'We're Flagging Problematic Posts On Facebook That Spread Disinformation'"
+      ],
+      "search_result_limit": 20
+    },
+    "zqyZ9bFl_qg": {
+      "vid": "zqyZ9bFl_qg",
+      "status": "review",
+      "completed_at": "2026-11-10T16:09:29.594012+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:08:58.749507+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Nanofactory Animation",
+        "Sidewinder77 Nanofactory Animation"
+      ],
+      "search_result_limit": 20
+    },
+    "zrv78nG9R04": {
+      "vid": "zrv78nG9R04",
+      "status": "review",
+      "completed_at": "2026-11-10T16:10:31.058055+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:09:40.579200+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "The Making Of 'Gutter Oil'",
+        "Radio Free Asia The Making Of 'Gutter Oil'"
+      ],
+      "search_result_limit": 20
+    },
+    "zrzMhU_4m-g": {
+      "vid": "zrzMhU_4m-g",
+      "status": "review",
+      "completed_at": "2026-11-10T16:11:13.243078+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:10:39.203371+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "She's a witch!",
+        "NM05 She's a witch!"
+      ],
+      "search_result_limit": 20
+    },
+    "ztsi0CLxmjw": {
+      "vid": "ztsi0CLxmjw",
+      "status": "review",
+      "completed_at": "2026-11-10T16:11:41.847075+00:00",
+      "candidates": [],
+      "searched_at": "2026-11-10T16:11:21.371599+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Non-euclidean virtual reality",
+        "Henry Segerman Non-euclidean virtual reality"
+      ],
+      "search_result_limit": 20
+    },
+    "zyaocKS3sfg": {
+      "vid": "zyaocKS3sfg",
+      "status": "confirmed",
+      "completed_at": "2026-11-10T16:11:52.201882+00:00",
+      "candidates": [
+        {
+          "bvid": "BV1n7411J75n",
+          "status": "confirmed",
+          "evidence": [
+            "explicit original URL or labeled YouTube ID in Bilibili description"
+          ],
+          "flags": [],
+          "reason": "explicit source URL, segment and duration verified",
+          "page": 1,
+          "title": "亚当萨维奇的Spot人(?)力车-Adam Savage's Spot Robot Rickshaw Carriage!",
+          "up": "エロの観测者",
+          "duration": 1699,
+          "original_duration": 1698,
+          "cid": 152290940,
+          "aid": 89161411,
+          "segment_title": "Adam Savage's Spot Robot Rickshaw Carriage!",
+          "page_count": 1,
+          "kind": "original",
+          "views": 182,
+          "pic": "https://i1.hdslb.com/bfs/archive/2270a0b7d5c6d2ac82984e4b1e7b0df92dc5f24d.jpg",
+          "checked_at": "2026-11-10T16:11:51.952225+00:00",
+          "availability": "available"
+        }
+      ],
+      "searched_at": "2026-11-10T16:11:50.319482+00:00",
+      "search_session_version": 2,
+      "search_queries": [
+        "Adam Savage's Spot Robot Rickshaw Carriage!",
+        "Adam Savage’s Tested Adam Savage's Spot Robot Rickshaw Carriage!"
       ],
       "search_result_limit": 20
     }
