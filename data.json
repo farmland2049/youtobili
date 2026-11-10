@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-10T16:39:00.626076+00:00",
+  "built_at": "2026-11-10T17:00:28.574738+00:00",
   "stats": {
     "corpus": 6454,
     "processed": 6405,
-    "confirmed": 1224,
-    "coverage": 0.18964982956306167,
-    "processed_match_rate": 0.19110070257611242
+    "confirmed": 1226,
+    "coverage": 0.18995971490548497,
+    "processed_match_rate": 0.19141295862607338
   },
   "areas": [
     {
@@ -28873,6 +28873,40 @@
       ]
     },
     {
+      "id": "vKA4w2O61Xo",
+      "title": "The Most Common Cognitive Bias",
+      "author": "Veritasium",
+      "source_url": "https://www.youtube.com/watch?v=vKA4w2O61Xo",
+      "summary": "A Veritasium video that runs the 2-4-8 rule-guessing puzzle on people to show how they test only examples that confirm their hypothesis. It uses this to illustrate confirmation bias and falsification.",
+      "why": "Recommended as a clear demonstration of confirmation bias and the value of trying to break your own hypothesis.",
+      "score": 3.0,
+      "tags": [
+        "veritasium",
+        "falsification",
+        "scientific method",
+        "2-4-8 puzzle",
+        "cognitive bias"
+      ],
+      "categories": [
+        "psychology-behavior",
+        "science-method-communication"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1rB4y1T74j",
+          "page": 1,
+          "cid": 365094665,
+          "title": "The Most Common Cognitive Bias",
+          "up": "Roy0205816",
+          "duration": 285,
+          "kind": "original",
+          "views": 597,
+          "pic": "https://i2.hdslb.com/bfs/archive/8bf29c201b0144e3dbe284ef5326ee350fb764e6.jpg",
+          "checked_at": "2026-11-10T16:49:36.369860+00:00"
+        }
+      ]
+    },
+    {
       "id": "wUwZZaI5u0c",
       "title": "Hacking at Quantum Speed with Shor's Algorithm | Infinite Series",
       "author": "PBS Infinite Series",
@@ -29766,6 +29800,41 @@
           "views": 70,
           "pic": "https://i0.hdslb.com/bfs/archive/e261fd5543fe9f13f523c9817eb6908595ff172f.jpg",
           "checked_at": "2026-11-07T05:27:57.432399+00:00"
+        }
+      ]
+    },
+    {
+      "id": "F3Jd9GI6XqE",
+      "title": "Edward Gibson: Human Language, Psycholinguistics, Syntax, Grammar & LLMs | Lex Fridman Podcast #426",
+      "author": "Lex Fridman",
+      "source_url": "https://www.youtube.com/watch?v=F3Jd9GI6XqE",
+      "summary": "Lex Fridman interviews MIT psycholinguist Edward Gibson on human language, syntax, grammar and how large language models relate to them. The conversation runs nearly three hours.",
+      "why": "HN cites it for the argument that LLMs capture language form but not meaning, and for how the brain's language network works.",
+      "score": 2.5,
+      "tags": [
+        "language",
+        "syntax",
+        "llms",
+        "brain",
+        "edward gibson"
+      ],
+      "categories": [
+        "language-linguistics",
+        "llms-generative-ai",
+        "neuroscience-brain"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1FvfaYjEAV",
+          "page": 1,
+          "cid": 28014479814,
+          "title": "[381] 麻省理工学院教授Edward Gibson_人类语言、心理语言学、句法与LLMs[中英精校]",
+          "up": "podcast播客每天更新",
+          "duration": 10245,
+          "kind": "sub_zh",
+          "views": 280,
+          "pic": "https://i2.hdslb.com/bfs/archive/443172c9c7f54284bc3e76a9049cf125fd9d200a.jpg",
+          "checked_at": "2026-11-10T16:59:09.242446+00:00"
         }
       ]
     },
@@ -49232,6 +49301,7 @@
     "BV1iW411U7Ft": "uDqjIdI4bF4",
     "BV1eBqwBREXg": "uDqjIdI4bF4",
     "BV1kweLe4EW3": "vHWiDx_l4V0",
+    "BV1rB4y1T74j": "vKA4w2O61Xo",
     "BV1kW411K76P": "wUwZZaI5u0c",
     "BV1UV4y157Eu": "wcBEOcPtlYk",
     "BV1MG4C6MEdw": "wcBEOcPtlYk",
@@ -49262,6 +49332,7 @@
     "BV1PH8RzQECB": "Cfe5UQ-1L9Q",
     "BV1n54y127pi": "DXYje2B04xE",
     "BV17Z4y1N7XU": "ENLWEfi0Tkg",
+    "BV1FvfaYjEAV": "F3Jd9GI6XqE",
     "BV17f4y1B7pB": "Fgh2dFngFsg",
     "BV1akND65E6y": "H-XfCl-HpRM",
     "BV174411H7tA": "H2tuKiiznsY",
