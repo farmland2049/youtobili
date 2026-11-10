@@ -1,25 +1,25 @@
 # 匹配进展
 
-更新时间：2026-11-10T07:00:54.692564+00:00
+更新时间：2026-11-10T09:21:42.937103+00:00
 
 - 原片库：6454
 - 完成处理：6201
-- 已确认原片：1216
-- 全库覆盖率：18.84%
-- 已处理原片匹配率：19.58%
-- 状态：{'confirmed': 1216, 'review': 5032}
+- 已确认原片：1217
+- 全库覆盖率：18.86%
+- 已处理原片匹配率：19.59%
+- 状态：{'confirmed': 1217, 'review': 5031}
 
 - 待审中尚需扩大候选检查：16
-- 已扩大检查仍待审核：665
-- 待审中搜索元数据缺失（重建丢失，状态未知，需重新搜索）：4351
+- 已扩大检查仍待审核：714
+- 待审中搜索元数据缺失（重建丢失，状态未知，需重新搜索）：4301
 
 ## 最近批次
 
 ```json
 {
-  "id": "20261110T064533Z",
+  "id": "20261110T090019Z",
   "selected": 50,
-  "completed": 7,
+  "completed": 50,
   "errors": [],
   "stopped": false,
   "originals": [
@@ -29,10 +29,53 @@
     "jgOTZe07eHA",
     "jh8supIUj6c",
     "k7X7sZzSXYs",
-    "klaJqofCsu4"
+    "klaJqofCsu4",
+    "n691pLhQBkw",
+    "oqu5DjzOBF8",
+    "ph8LyNIT9sg",
+    "qID2B4MK7Y0",
+    "q_vivC7c_1k",
+    "r9eQth4Q5jg",
+    "rgaTLrZGlk0",
+    "rxOKEsBx4NU",
+    "rzQEIRRJ2T0",
+    "sj8Sg8qnjOg",
+    "sqEyWLGvvdw",
+    "sw0VfmXKq54",
+    "tD5NrevFtbU",
+    "tR_6dibpDfo",
+    "uDr4L6BzpP8",
+    "v3pYRn5j7oI",
+    "v7Mt0GYHU9A",
+    "wAIP6fI0NAI",
+    "wpOxbesRNBc",
+    "xoVJKj8lcNQ",
+    "y7HrM-fk_Rc",
+    "yS1ibDImAYU",
+    "zVhQOhxb1Mc",
+    "zcqZHYo7ONs",
+    "-4FXLQoLDBA",
+    "-R-eqJDQ2nU",
+    "-ZxPhDC-r3w",
+    "-whuXHSL1Pg",
+    "099cHWSbAL8",
+    "15_-hgsX2V0",
+    "2JB1_e5wZmU",
+    "2NBG-sKFaB0",
+    "2S0k12uZR14",
+    "2gFsOoKAHZg",
+    "2yDCox-qKbk",
+    "3-son3EJTrU",
+    "3GJUM6pCpew",
+    "3dl9Ovwmnxw",
+    "4bZvq3nodf4",
+    "5AqbCQuK0gM",
+    "5WPB2u8EzL8",
+    "5fG_lyNuEAw",
+    "6EghiY_s2ts"
   ],
   "primary_first": true,
-  "deferred_candidates": 0,
+  "deferred_candidates": 8,
   "excluded_originals": [
     "-e1_QhJ1EhQ",
     "05WS0WN7zMQ",
@@ -142,11 +185,13 @@
     "y4sOfO8Ei1g",
     "yg-UqIIvang"
   ],
-  "attempted": 7,
-  "unattempted": 43,
+  "attempted": 50,
+  "unattempted": 0,
   "statuses": {
-    "review": 7
-  }
+    "review": 49,
+    "confirmed": 1
+  },
+  "candidate_count": 1863
 }
 ```
 

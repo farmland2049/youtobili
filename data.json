@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-10T07:00:54.710305+00:00",
+  "built_at": "2026-11-10T09:21:42.458063+00:00",
   "stats": {
     "corpus": 6454,
     "processed": 6201,
-    "confirmed": 1216,
-    "coverage": 0.18841028819336844,
-    "processed_match_rate": 0.19577487502015803
+    "confirmed": 1217,
+    "coverage": 0.1885652308645801,
+    "processed_match_rate": 0.19593613933236576
   },
   "areas": [
     {
@@ -15554,6 +15554,41 @@
           "views": 438,
           "pic": "https://i0.hdslb.com/bfs/archive/4f5d3af03a128330802d7344b3bc75efae50b053.jpg",
           "checked_at": "2026-11-07T05:27:43.269362+00:00"
+        }
+      ]
+    },
+    {
+      "id": "wAIP6fI0NAI",
+      "title": "How one tweet can ruin your life | Jon Ronson",
+      "author": "TED",
+      "source_url": "https://www.youtube.com/watch?v=wAIP6fI0NAI",
+      "summary": "Jon Ronson's TED talk on public shaming on Twitter, centered on Justine Sacco and others whose lives were upended by online mobs. He argues we have become a baying crowd and should rethink how we treat each other online.",
+      "why": "HN commenters bring it up in threads about online mobs and cancellation as a relevant talk by a journalist who interviewed shamed people.",
+      "score": 5.0,
+      "tags": [
+        "twitter",
+        "public shaming",
+        "social media",
+        "justine sacco",
+        "internet mobs"
+      ],
+      "categories": [
+        "futurism-technology-society",
+        "social-issues-culture",
+        "psychology-behavior"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1UE411q7Uu",
+          "page": 1,
+          "cid": 127414906,
+          "title": "How one tweet can ruin your life|社交媒体将如何摧毁你的生活",
+          "up": "w北南",
+          "duration": 1032,
+          "kind": "original",
+          "views": 3113,
+          "pic": "https://i1.hdslb.com/bfs/archive/210119187259efba5d9316896e2a1a41430f47f3.jpg",
+          "checked_at": "2026-11-10T09:08:31.779811+00:00"
         }
       ]
     },
@@ -48488,6 +48523,7 @@
     "BV14u4y137Cf": "v3y8AIEX_dU",
     "BV1rXYJ65EGq": "v3y8AIEX_dU",
     "BV1Y4411c7yU": "vuIlsN32WaE",
+    "BV1UE411q7Uu": "wAIP6fI0NAI",
     "BV1F4411W7Ag": "-4EDhdAHrOg",
     "BV15pnrz3EHS": "1K5oDtVAYzk",
     "BV1xESqBzEQP": "1K5oDtVAYzk",
