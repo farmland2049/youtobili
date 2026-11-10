@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-10T18:37:39.863966+00:00",
+  "built_at": "2026-11-10T19:20:16.061045+00:00",
   "stats": {
     "corpus": 6454,
     "processed": 6405,
-    "confirmed": 1231,
-    "coverage": 0.19073442826154322,
-    "processed_match_rate": 0.1921935987509758
+    "confirmed": 1232,
+    "coverage": 0.19088937093275488,
+    "processed_match_rate": 0.1923497267759563
   },
   "areas": [
     {
@@ -36883,6 +36883,41 @@
       ]
     },
     {
+      "id": "RGw6fXprV9U",
+      "title": "Making uranium glass",
+      "author": "NileRed",
+      "source_url": "https://www.youtube.com/watch?v=RGw6fXprV9U",
+      "summary": "NileRed makes radioactive uranium glass from scratch, showing the chemistry involved and the green fluorescence under a blacklight. The video includes warnings about handling radioactive material.",
+      "why": "HN recommends it as an informative and entertaining look at how uranium glass is actually made.",
+      "score": 1.5,
+      "tags": [
+        "nilered",
+        "uranium",
+        "glass",
+        "radioactivity",
+        "fluorescence",
+        "chemistry"
+      ],
+      "categories": [
+        "chemistry",
+        "materials-science"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1hD4y1Q7Up",
+          "page": 1,
+          "cid": 207358802,
+          "title": "【中英双字】制作铀玻璃 NileRed",
+          "up": "SBAngel",
+          "duration": 1803,
+          "kind": "sub_zh",
+          "views": 105063,
+          "pic": "https://i1.hdslb.com/bfs/archive/5e0b724361ab65ee95eda3cdbd24fbea810fa63e.jpg",
+          "checked_at": "2026-11-10T19:11:01.026721+00:00"
+        }
+      ]
+    },
+    {
       "id": "TjDEsGZLbio",
       "title": "Tom Lehrer - Wernher von Braun - with intro",
       "author": "The Tom Lehrer Wisdom Channel",
@@ -49732,6 +49767,7 @@
     "BV1ap4y1D7ML": "NfnWJUyUJYU",
     "BV1us411r774": "OaGp5_Sfbss",
     "BV11W411n75x": "PAAkCSZUG1c",
+    "BV1hD4y1Q7Up": "RGw6fXprV9U",
     "BV1DK4y177U4": "TjDEsGZLbio",
     "BV1g4421D7bE": "UKxQTvqcpSg",
     "BV17q4y1p7tS": "VdjYVF4a6iU",
