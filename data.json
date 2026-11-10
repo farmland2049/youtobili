@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-10T17:00:28.574738+00:00",
+  "built_at": "2026-11-10T17:27:59.053540+00:00",
   "stats": {
     "corpus": 6454,
     "processed": 6405,
-    "confirmed": 1226,
-    "coverage": 0.18995971490548497,
-    "processed_match_rate": 0.19141295862607338
+    "confirmed": 1230,
+    "coverage": 0.19057948559033158,
+    "processed_match_rate": 0.1920374707259953
   },
   "areas": [
     {
@@ -31627,6 +31627,41 @@
       ]
     },
     {
+      "id": "-DVyjdw4t9I",
+      "title": "Guido van Rossum: Python and the Future of Programming | Lex Fridman Podcast #341",
+      "author": "Lex Fridman",
+      "source_url": "https://www.youtube.com/watch?v=-DVyjdw4t9I",
+      "summary": "A roughly three-hour Lex Fridman podcast conversation with Guido van Rossum, the creator of Python. Topics include Python's design, the GIL, asyncio, the future of programming and AI coding tools.",
+      "why": "HN points to it for Guido's own views on the GIL, Python internals and using Copilot, especially in Python-related threads.",
+      "score": 2.0,
+      "tags": [
+        "guido van rossum",
+        "python",
+        "gil",
+        "copilot",
+        "language creators"
+      ],
+      "categories": [
+        "scripting-languages",
+        "tech-figures-interviews",
+        "programming-language-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1towjedEH5",
+          "page": 1,
+          "cid": 27910275410,
+          "title": "[310] Python之父Guido van Rossum_编程的未来[中英精校]",
+          "up": "podcast播客每天更新",
+          "duration": 11751,
+          "kind": "sub_zh",
+          "views": 483,
+          "pic": "https://i2.hdslb.com/bfs/archive/f660195aa1ed657b1ac441b0c32b8b05bc1f9e72.jpg",
+          "checked_at": "2026-11-10T17:20:50.945842+00:00"
+        }
+      ]
+    },
+    {
       "id": "-MTRxRO5SRA",
       "title": "Let's teach for mastery -- not test scores | Sal Khan",
       "author": "TED",
@@ -31854,6 +31889,40 @@
       ]
     },
     {
+      "id": "1YFrISfN7jo",
+      "title": "The Geometry of Causality",
+      "author": "PBS Space Time",
+      "source_url": "https://www.youtube.com/watch?v=1YFrISfN7jo",
+      "summary": "PBS Space Time explains how spacetime geometry and light cones determine the order of events and what can cause what. It visualizes causality in special relativity.",
+      "why": "Used as a go-to reference for relativity arguments, such as spacetime intervals being the same for all observers, and as a suggested follow-up for physics fans.",
+      "score": 2.0,
+      "tags": [
+        "special relativity",
+        "light cones",
+        "spacetime",
+        "causality",
+        "physics"
+      ],
+      "categories": [
+        "fundamental-physics",
+        "cosmology-astrophysics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Ht411m7PQ",
+          "page": 1,
+          "cid": 63414319,
+          "title": "The Geometry of Causality _ Space Time",
+          "up": "becomequantum",
+          "duration": 967,
+          "kind": "original",
+          "views": 88,
+          "pic": "https://i1.hdslb.com/bfs/archive/30eafc6303bc60e83b4f018a0de120395a27f0c4.jpg",
+          "checked_at": "2026-11-10T17:25:16.063434+00:00"
+        }
+      ]
+    },
+    {
       "id": "1YbcB6b4A2U",
       "title": "Bryan Johnson: Kernel Brain-Computer Interfaces | Lex Fridman Podcast #186",
       "author": "Lex Fridman",
@@ -31953,6 +32022,76 @@
           "views": 53,
           "pic": "https://i0.hdslb.com/bfs/archive/a6fa48f7fc9e61d681f13fbd247f92229e1ce576.jpg",
           "checked_at": "2026-11-07T05:28:00.603209+00:00"
+        }
+      ]
+    },
+    {
+      "id": "3pvpNKUPbIY",
+      "title": "Kevin Systrom: Instagram | Lex Fridman Podcast #243",
+      "author": "Lex Fridman",
+      "source_url": "https://www.youtube.com/watch?v=3pvpNKUPbIY",
+      "summary": "Lex Fridman interviews Instagram co-founder and former CEO Kevin Systrom about building the product, its early days and its pivot story.",
+      "why": "Pointed to for the founder's own account of Instagram's pivot, early scaling on Django with a small team, and avoiding overengineering.",
+      "score": 2.0,
+      "tags": [
+        "instagram",
+        "kevin systrom",
+        "startup pivot",
+        "scaling",
+        "django"
+      ],
+      "categories": [
+        "tech-figures-interviews",
+        "startups-entrepreneurship",
+        "tech-company-stories"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1hVreY4E5z",
+          "page": 1,
+          "cid": 27769241858,
+          "title": "[233] Instagram联合创始人Kevin Systrom_揭秘社交帝国[中英精校]",
+          "up": "podcast播客每天更新",
+          "duration": 9879,
+          "kind": "sub_zh",
+          "views": 240,
+          "pic": "https://i2.hdslb.com/bfs/archive/2ae6d38a428cb58734a6e7364de3e1fbc206cc98.jpg",
+          "checked_at": "2026-11-10T17:27:32.643288+00:00"
+        }
+      ]
+    },
+    {
+      "id": "3wMKoSRbGVs",
+      "title": "Douglas Lenat: Cyc and the Quest to Solve Common Sense Reasoning in AI | Lex Fridman Podcast #221",
+      "author": "Lex Fridman",
+      "source_url": "https://www.youtube.com/watch?v=3wMKoSRbGVs",
+      "summary": "Lex Fridman interviews Douglas Lenat, founder of Cyc, a decades-long project to encode common-sense knowledge and reasoning for AI. They discuss symbolic AI and how it may complement neural networks.",
+      "why": "Pointed to as the long-form interview for understanding Lenat's work, especially after his death.",
+      "score": 2.0,
+      "tags": [
+        "douglas lenat",
+        "cyc",
+        "common sense reasoning",
+        "symbolic ai",
+        "lex fridman"
+      ],
+      "categories": [
+        "ai-data-other",
+        "computer-vision-speech",
+        "tech-figures-interviews"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1RRrSYCEir",
+          "page": 1,
+          "cid": 27742571718,
+          "title": "[212] AI领域先驱Douglas Lenat_Cyc与常识推理的探索[中英精校]",
+          "up": "podcast播客每天更新",
+          "duration": 10376,
+          "kind": "sub_zh",
+          "views": 176,
+          "pic": "https://i2.hdslb.com/bfs/archive/692651e1f86562102fc5e8c230248f3831f4220e.jpg",
+          "checked_at": "2026-11-10T17:27:46.109898+00:00"
         }
       ]
     },
@@ -49388,6 +49527,7 @@
     "BV1wV7s6pE26": "wO2lWmgEK1Y",
     "BV1QmNX6UEZE": "y5UT04p5f7U",
     "BV1vstAehERr": "-C-JoyNuQJs",
+    "BV1towjedEH5": "-DVyjdw4t9I",
     "BV16441127ME": "-MTRxRO5SRA",
     "BV1SN4y1F79f": "-MTRxRO5SRA",
     "BV1v77E6sEtj": "-hxX_Q5CnaA",
@@ -49395,9 +49535,12 @@
     "BV1jx4y147EJ": "069y1MpOkQY",
     "BV1hffGBqEQk": "0olpSN6_TCc",
     "BV1eyAReGEGy": "160F8F8mXlo",
+    "BV1Ht411m7PQ": "1YFrISfN7jo",
     "BV1eY6kYQEJH": "1YbcB6b4A2U",
     "BV1bg411j7Ki": "29RkHH-psrY",
     "BV1VW411i7kz": "3BJU2drrtCM",
+    "BV1hVreY4E5z": "3pvpNKUPbIY",
+    "BV1RRrSYCEir": "3wMKoSRbGVs",
     "BV1S3411z7Xf": "4anAwXYqLG8",
     "BV1nW421A7gZ": "4jEz03Z8azc",
     "BV1ixtNeBEB3": "5eqRuVp65eY",
