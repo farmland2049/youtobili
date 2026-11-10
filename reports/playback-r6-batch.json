@@ -1,0 +1,30 @@
+{
+  "checked_at": "2026-11-10T11:31:52.005Z",
+  "passed": true,
+  "checks": [
+    {
+      "sample": "wAIP6fI0NAI",
+      "kind": "original",
+      "id": "wAIP6fI0NAI",
+      "bvid": "BV1UE411q7Uu",
+      "page": 1,
+      "cid": 127414906,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.930945,
+        "duration": 1032,
+        "paused": false
+      },
+      "expected_duration": 1032,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "127414906"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "How one tweet can ruin your life|社交媒体将如何摧毁你的生活\nw北南\n关注\n114\n2\n分享\n更多\n00:04 / 17:12\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    }
+  ]
+}

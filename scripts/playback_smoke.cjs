@@ -80,6 +80,12 @@ if (require.main === module) {
         await page.locator('iframe').waitFor();
         const frame = page.locator('iframe').contentFrame();
         await frame.locator('video').waitFor({ timeout: videoTimeout });
+        try {
+          await frame.waitForFunction(() => {
+            const v = document.querySelector('video');
+            return v && (v.readyState >= 1 || Boolean(v.src) || Boolean(v.currentSrc));
+          }, { timeout: Math.min(videoTimeout, 10000) });
+        } catch { /* Proceed to attempt play anyway */ }
         const before = await frame.locator('video').first().evaluate(e => e.currentTime);
         await frame.locator('video').first().click({ force: true });
         try {

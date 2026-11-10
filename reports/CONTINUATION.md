@@ -728,3 +728,31 @@
   - 交接状态：未 push、未合并 main。
   - 剩余约 4351 条元数据缺失待审需继续重搜；253 条未处理（6454-6201）；107 条网络隔离原片待单条复查。
   - 因秦强暂停而停，未跑完后续批次。
+
+## 2026-11-10 阶段增量（Round 6）
+
+### 1. 目标与执行
+- 承接上一轮基线（`32e695b`，确认原片 1216 条、1661 个版本）。
+- 启动 `continue-20261110-r6` 分支，执行第 6 轮扩大审查匹配批次（`match --expand-review --primary-first --limit=50 --delay=2`）。
+- 连续执行 5 个批次（b1–b5），共计对 250 条历史待审条目补查第 6–20 个候选（共检阅 1877 个候选），0 请求错误，0 触发风控。
+
+### 2. 新确认条目
+- `wAIP6fI0NAI` → `BV1UE411q7Uu`（original，1032秒，CID 127414906，P1；B站标题《How one tweet can ruin your life|社交媒体将如何摧毁你的生活》，简介含明确原片链接 `https://youtu.be/wAIP6fI0NAI`，单P时长 1032 秒与原片完全一致）。
+
+### 3. 指标前后变化
+- 完成处理条数：6201；
+- 确认原片：1216 → 1217（+1）；
+- 发布版本：1661 → 1662（+1）；
+- 全库覆盖率：18.84% → 18.86%；
+- 检阅待审候选：补查 250 条原片之后续候选，写入工作库与发布数据。
+
+### 4. 实播验证与脚本加固
+- 实播检查：`reports/playback-r6-batch.json` 针对新发布条目 `wAIP6fI0NAI` 执行真实播放 smoke 检查，结果为 PASS（`readyState: 4`, `currentTime: 3.93s`, `duration: 1032s`, 请求 CID `127414906` 确认命中，未做逐帧比较）。
+- 抽样基线检查：对 6 种版本形态（official_zh, sub_zh, original, dub_zh, short, collection）全量运行 `playback_smoke.cjs`，6/6 全部通过。
+- 脚本机制优化：加固 `scripts/playback_smoke.cjs`，在 `frame.locator('video').waitFor()` 之后增加 `waitForFunction` 等待视频 readyState >= 1 或 source 挂载，彻底避免动态 blob 播放器在挂载流媒体前被触发 play() 导致偶发空源报错。
+
+### 5. 验收与交接状态
+- 数据校验：`python3 scripts/pipeline.py check` 通过（1217 originals, 1662 verified segments）。
+- 单元测试：79 项 Python 单元测试全部通过（Ran 79 tests in 3.223s, OK）。
+- 浏览器场景测试：15 项端到端场景全部通过（1217 条原片渲染正常）。
+- 分支合并准备就绪，合并至 `main` 并开启新分支 `continue-20261110-r7` 继续推进。
