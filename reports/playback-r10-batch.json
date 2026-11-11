@@ -1,0 +1,30 @@
+{
+  "checked_at": "2026-11-11T21:12:27.765Z",
+  "passed": true,
+  "checks": [
+    {
+      "sample": "kXpzp4RDGJI",
+      "kind": "original",
+      "id": "kXpzp4RDGJI",
+      "bvid": "BV1df4y1F7Hv",
+      "page": 1,
+      "cid": 418403124,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.791485,
+        "duration": 299,
+        "paused": false
+      },
+      "expected_duration": 299,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "418403124"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "ATP合酶(已嵌入英文字幕)/ATP synthase in action\n血浆清除率\n关注\n22\n1\n分享\n更多\n00:04 / 04:59\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    }
+  ]
+}
