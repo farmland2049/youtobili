@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-11T12:17:30.678140+00:00",
+  "built_at": "2026-11-11T14:28:23.899137+00:00",
   "stats": {
     "corpus": 6454,
     "processed": 6405,
-    "confirmed": 1232,
-    "coverage": 0.19088937093275488,
-    "processed_match_rate": 0.1923497267759563
+    "confirmed": 1233,
+    "coverage": 0.19104431360396654,
+    "processed_match_rate": 0.19250585480093677
   },
   "areas": [
     {
@@ -41477,6 +41477,39 @@
       ]
     },
     {
+      "id": "kXpzp4RDGJI",
+      "title": "ATP synthase in action",
+      "author": "Harvard Online",
+      "source_url": "https://www.youtube.com/watch?v=kXpzp4RDGJI",
+      "summary": "A short Harvard Online animation, narrated by Professor Rob Lue, showing how ATP synthase works inside mitochondria. It comes from the HarvardX Cell Biology: Mitochondria course.",
+      "why": "Linked as a vivid visualization of ATP synthase as a rotary molecular machine, often in discussions of protein machines and cellular energy.",
+      "score": 1.0,
+      "tags": [
+        "mitochondria",
+        "molecular machines",
+        "cell biology",
+        "bioenergetics",
+        "animation"
+      ],
+      "categories": [
+        "biology-biotech"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1df4y1F7Hv",
+          "page": 1,
+          "cid": 418403124,
+          "title": "ATP合酶(已嵌入英文字幕)/ATP synthase in action",
+          "up": "血浆清除率",
+          "duration": 299,
+          "kind": "original",
+          "views": 786,
+          "pic": "https://i1.hdslb.com/bfs/archive/55111f90f5f6602a8b0724351b43065a1c7d5272.jpg",
+          "checked_at": "2026-11-11T13:44:27.119056+00:00"
+        }
+      ]
+    },
+    {
       "id": "kopoLzvh5jY",
       "title": "Multi-Agent Hide and Seek",
       "author": "OpenAI",
@@ -49920,6 +49953,7 @@
     "BV1Br4y1J7W4": "kFT54hO1X8M",
     "BV13b411M7Jv": "kJXRyWQgOY4",
     "BV19tej6oEXk": "kRlhlCWplqk",
+    "BV1df4y1F7Hv": "kXpzp4RDGJI",
     "BV1gi4y1G71g": "kopoLzvh5jY",
     "BV1ni4y1B7Mr": "kopoLzvh5jY",
     "BV1ig411j7Qw": "kz165f1g8-E",
