@@ -1,0 +1,32 @@
+{
+  "checked_at": "2026-11-12T12:20:23.583Z",
+  "passed": false,
+  "checks": [
+    {
+      "sample": "b2F-DItXtZs",
+      "kind": "sub_zh",
+      "id": "b2F-DItXtZs",
+      "bvid": "BV1eq4y1176K",
+      "page": 1,
+      "cid": 475075178,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.322503,
+        "duration": 327.8113378684807,
+        "paused": false
+      },
+      "expected_duration": 336,
+      "duration_matches_segment": false,
+      "requested_cids": [
+        "475075178"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【中文字幕】MongoDB is Web Scale\nGanlvTech\n关注\n18\n4\n分享\n更多\n00:05 / 05:28\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": false,
+      "issues": [
+        "duration mismatch (media: 327.8113378684807s, expected: 336s, diff: 8.2s > 3s)"
+      ]
+    }
+  ]
+}

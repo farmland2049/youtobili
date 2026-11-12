@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-12T12:19:08.796153+00:00",
+  "updated_at": "2026-11-12T12:22:51.080376+00:00",
   "corpus": 6454,
   "processed": 6405,
-  "confirmed": 1234,
-  "coverage": 0.1911992562751782,
-  "processed_match_rate": 0.19266198282591726,
+  "confirmed": 1233,
+  "coverage": 0.19104431360396654,
+  "processed_match_rate": 0.19250585480093677,
   "statuses": {
-    "confirmed": 1234,
-    "review": 5220
+    "confirmed": 1233,
+    "review": 5221
   },
   "not_processed": 49,
   "verification_batch": {
@@ -43,7 +43,7 @@
   ],
   "candidates": 156596,
   "review_expansion_pending": 22,
-  "expanded_reviews": 4934,
+  "expanded_reviews": 4935,
   "review_search_metadata_missing": 264,
   "batch": {
     "id": "20261112T115135Z",
@@ -228,8 +228,8 @@
     "candidate_count": 1847
   },
   "candidate_statuses": {
-    "confirmed": 1679,
-    "review": 154916,
+    "confirmed": 1678,
+    "review": 154917,
     "invalid": 1
   },
   "review_reasons": {
@@ -277,6 +277,7 @@
     "no explicit original URL; manual identity review required; conflicting years; derivative content requires review": 1,
     "no explicit original URL; manual identity review required; conflicting years; duration outside tolerance; description links multiple originals": 1,
     "no explicit original URL; manual identity review required; derivative content requires review; duration outside tolerance; description links multiple originals": 1,
+    "explicit source URL, segment and duration verified": 1,
     "request failed; availability unknown": 3,
     "": 24
   }

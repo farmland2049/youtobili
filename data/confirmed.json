@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T12:19:08.851905+00:00",
+  "updated_at": "2026-11-12T12:22:51.135642+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -106513,33 +106513,9 @@
     },
     "b2F-DItXtZs": {
       "vid": "b2F-DItXtZs",
-      "status": "confirmed",
+      "status": "review",
       "completed_at": "2026-11-12T10:45:07.803866+00:00",
-      "candidates": [
-        {
-          "bvid": "BV1eq4y1176K",
-          "status": "confirmed",
-          "evidence": [
-            "explicit original URL or labeled YouTube ID in Bilibili description"
-          ],
-          "flags": [],
-          "reason": "explicit source URL, segment and duration verified",
-          "page": 1,
-          "title": "【中文字幕】MongoDB is Web Scale",
-          "up": "GanlvTech",
-          "duration": 336,
-          "original_duration": 336,
-          "cid": 475075178,
-          "aid": 592756699,
-          "segment_title": "out",
-          "page_count": 1,
-          "kind": "sub_zh",
-          "views": 242,
-          "pic": "https://i2.hdslb.com/bfs/archive/d78c978ec90c709ef49406a17d3c51322ce7d8a0.jpg",
-          "checked_at": "2026-11-12T10:45:06.560062+00:00",
-          "availability": "available"
-        }
-      ],
+      "candidates": [],
       "searched_at": "2026-11-12T10:45:06.559551+00:00",
       "search_session_version": 2,
       "search_queries": [
