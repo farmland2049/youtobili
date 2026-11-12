@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-12T10:07:49.288770+00:00",
+  "checked_at": "2026-11-12T13:02:16.744169+00:00",
   "mode": "anonymous guest",
   "search_session_version": 2,
   "queries": [
@@ -50,16 +50,16 @@
       "expected_bvid_found": true,
       "examples": [
         {
+          "bvid": "BV19T4y1d7Cy",
+          "title": "深度学习之图像生成GAN：DCGAN原理(第1节)"
+        },
+        {
           "bvid": "BV17ZmWBmETP",
           "title": "【白板推导】机器学习纯手工教学实战课程（135集全）机器学习算法数学基础、线性回归、降维、支持向量机SVM、概率图模型、EM算法、隐马、卡尔曼滤波一口气学完"
         },
         {
           "bvid": "BV1t14y1R7b1",
           "title": "3Blue1Brown的幻灯片神器，manim-slide的使用方法。"
-        },
-        {
-          "bvid": "BV1o94y1Y7G9",
-          "title": "从0开始深度学习：什么是线性层？pytorch中nn.linear怎么用？"
         }
       ]
     }
