@@ -6,7 +6,7 @@ from pipeline import Client, Blocked, ApiError, WORK, ROOT, now, write, urlencod
 CASES = [
     ('3Blue1Brown 傅里叶变换', 'BV1pW411J7s8'),
     ('How to Speak Patrick Winston', 'BV1tU4y187xz'),
-    ('3Blue1Brown 神经网络', 'BV1bx411M7Zx'),
+    ('3Blue1Brown 神经网络结构', 'BV1bx411M7Zx'),
 ]
 
 def main():
