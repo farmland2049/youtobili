@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-12T12:22:51.107835+00:00",
+  "built_at": "2026-11-12T15:14:12.655914+00:00",
   "stats": {
     "corpus": 6454,
     "processed": 6405,
-    "confirmed": 1233,
-    "coverage": 0.19104431360396654,
-    "processed_match_rate": 0.19250585480093677
+    "confirmed": 1234,
+    "coverage": 0.1911992562751782,
+    "processed_match_rate": 0.19266198282591726
   },
   "areas": [
     {
@@ -48478,6 +48478,39 @@
       ]
     },
     {
+      "id": "yDp3cB5fHXQ",
+      "title": "Plagiarism and You(Tube)",
+      "author": "hbomberguy",
+      "source_url": "https://www.youtube.com/watch?v=yDp3cB5fHXQ",
+      "summary": "A nearly four-hour video essay by hbomberguy on plagiarism on YouTube, centered on specific creators who copied other people's work. It examines what plagiarism is and how it went unaddressed.",
+      "why": "Used as a reference example of blatant plagiarism, including in debates about AI training and academic plagiarism.",
+      "score": 0.0,
+      "tags": [
+        "plagiarism",
+        "video essay",
+        "youtube creators",
+        "content theft"
+      ],
+      "categories": [
+        "internet-culture",
+        "media-journalism"
+      ],
+      "versions": [
+        {
+          "bvid": "BV18w411h7wc",
+          "page": 1,
+          "cid": 1352515054,
+          "title": "Plagiarism and You(Tube)",
+          "up": "深海ユカイ",
+          "duration": 13870,
+          "kind": "original",
+          "views": 96,
+          "pic": "https://i1.hdslb.com/bfs/archive/06a65d5dae62204aacb1a1bf461c8ef02697b5a1.jpg",
+          "checked_at": "2026-11-12T15:14:08.835284+00:00"
+        }
+      ]
+    },
+    {
       "id": "zyaocKS3sfg",
       "title": "Adam Savage's Spot Robot Rickshaw Carriage!",
       "author": "Adam Savage’s Tested",
@@ -50182,6 +50215,7 @@
     "BV1jb41187zL": "wCrtk-pyP0I",
     "BV1KE411a74h": "y3RIHnK0_NE",
     "BV1iq4y1574e": "y8OnoxKotPQ",
+    "BV18w411h7wc": "yDp3cB5fHXQ",
     "BV1n7411J75n": "zyaocKS3sfg"
   }
 }
