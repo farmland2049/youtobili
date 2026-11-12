@@ -1,0 +1,30 @@
+{
+  "checked_at": "2026-11-12T21:03:58.283Z",
+  "passed": true,
+  "checks": [
+    {
+      "sample": "yDp3cB5fHXQ",
+      "kind": "original",
+      "id": "yDp3cB5fHXQ",
+      "bvid": "BV18w411h7wc",
+      "page": 1,
+      "cid": 1352515054,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.33175,
+        "duration": 13870,
+        "paused": false
+      },
+      "expected_duration": 13870,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1352515054"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Plagiarism and You(Tube)\n深海ユカイ\n关注\n4\n0\n分享\n更多\n0:00:05 / 3:51:10\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    }
+  ]
+}
