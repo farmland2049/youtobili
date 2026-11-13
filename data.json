@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-12T21:00:00.495780+00:00",
+  "built_at": "2026-11-13T14:40:42.577313+00:00",
   "stats": {
     "corpus": 6454,
-    "processed": 6405,
-    "confirmed": 1234,
-    "coverage": 0.1911992562751782,
-    "processed_match_rate": 0.19266198282591726
+    "processed": 6305,
+    "confirmed": 1236,
+    "coverage": 0.1915091416176015,
+    "processed_match_rate": 0.18715305313243458
   },
   "areas": [
     {
@@ -22645,6 +22645,18 @@
           "views": 717,
           "pic": "https://i1.hdslb.com/bfs/archive/29e3a59fa03cd2688cd79863005458708429edb5.jpg",
           "checked_at": "2026-11-07T05:27:36.133304+00:00"
+        },
+        {
+          "bvid": "BV14E411q7np",
+          "page": 1,
+          "cid": 128203878,
+          "title": "CppCon 2017 Fedor Pikus Read Copy Update then what RCU for non-kernel programmer",
+          "up": "Kirito桐人w",
+          "duration": 4462,
+          "kind": "original",
+          "views": 273,
+          "pic": "https://i0.hdslb.com/bfs/archive/4b7a3aab421bc151c01a706fe97ae1f33b729bd3.jpg",
+          "checked_at": "2026-11-13T14:24:31.222547+00:00"
         }
       ]
     },
@@ -24852,6 +24864,18 @@
           "views": 170,
           "pic": "https://i2.hdslb.com/bfs/archive/fca80c10f165c28534bcae5c0c85097602168c48.png",
           "checked_at": "2026-11-07T05:27:52.347797+00:00"
+        },
+        {
+          "bvid": "BV1q6ac62EJW",
+          "page": 1,
+          "cid": 42154460734,
+          "title": "【中配】偷我包裹的小偷，被一磅闪粉炸懵了 - Mark Rober xoxhDk-hwuo",
+          "up": "caillichen_",
+          "duration": 491,
+          "kind": "dub_zh",
+          "views": 23,
+          "pic": "https://i0.hdslb.com/bfs/archive/fe89cf229939f6e5a8af2f4c89dd6dd274cc042c.jpg",
+          "checked_at": "2026-11-13T14:24:14.024249+00:00"
         },
         {
           "bvid": "BV1seEe6XEW9",
@@ -36707,6 +36731,18 @@
           "views": 2132,
           "pic": "https://i1.hdslb.com/bfs/archive/c3f72a1197cfff76f0e90e8c75029008f07483ab.png",
           "checked_at": "2026-11-07T05:27:34.474948+00:00"
+        },
+        {
+          "bvid": "BV1jaUSBsEGm",
+          "page": 1,
+          "cid": 34249115584,
+          "title": "Exponential growth and epidemics [3Blue1Brown - Videos]",
+          "up": "vector090_",
+          "duration": 537,
+          "kind": "original",
+          "views": 4,
+          "pic": "https://i2.hdslb.com/bfs/archive/cc0e0fdff3f1dec59f295734ee38c101977c2ae4.jpg",
+          "checked_at": "2026-11-13T14:35:21.218658+00:00"
         }
       ]
     },
@@ -36741,6 +36777,18 @@
           "views": 125053,
           "pic": "https://i0.hdslb.com/bfs/archive/2ead5a700f174c1960cb49a69b8c8d9a1f4003c6.jpg",
           "checked_at": "2026-11-07T05:27:34.470251+00:00"
+        },
+        {
+          "bvid": "BV1HsUSBFE75",
+          "page": 1,
+          "cid": 34251474186,
+          "title": "Some light quantum mechanics (with minutephysics) [3Blue1Brown - Videos]",
+          "up": "vector090_",
+          "duration": 1342,
+          "kind": "original",
+          "views": 81,
+          "pic": "https://i0.hdslb.com/bfs/archive/4009bcba63e40864966b3fe6c1bed5fdec61d73a.jpg",
+          "checked_at": "2026-11-13T14:37:56.679463+00:00"
         }
       ]
     },
@@ -36914,6 +36962,18 @@
           "views": 105063,
           "pic": "https://i1.hdslb.com/bfs/archive/5e0b724361ab65ee95eda3cdbd24fbea810fa63e.jpg",
           "checked_at": "2026-11-10T19:11:01.026721+00:00"
+        },
+        {
+          "bvid": "BV1oe411p7HR",
+          "page": 1,
+          "cid": 189877258,
+          "title": "Making uranium glass",
+          "up": "ganmaoling999",
+          "duration": 1803,
+          "kind": "original",
+          "views": 247,
+          "pic": "https://i1.hdslb.com/bfs/archive/99bacc0b7ccb5aed2aaa758b71e6cc95af95638a.jpg",
+          "checked_at": "2026-11-13T14:37:06.342377+00:00"
         }
       ]
     },
@@ -37567,6 +37627,41 @@
           "views": 609,
           "pic": "https://i1.hdslb.com/bfs/archive/0478b5b25c74a487456013831055e460efb17d21.jpg",
           "checked_at": "2026-11-07T05:27:34.383581+00:00"
+        }
+      ]
+    },
+    {
+      "id": "1ZTRb-2DZGs",
+      "title": "Speakeasy JS - Redbean: Actually Portable Executable Web Server (Justine Tunney)",
+      "author": "Feross",
+      "source_url": "https://www.youtube.com/watch?v=1ZTRb-2DZGs",
+      "summary": "Justine Tunney presents Redbean, a web server distributed as a single actually portable executable that runs on multiple operating systems. It embeds Lua, SQLite and MbedTLS in a fork-based server.",
+      "why": "The author and others link it as the definitive explanation of redbean and the APE toolchain, including its performance claims.",
+      "score": 1.0,
+      "tags": [
+        "redbean",
+        "cosmopolitan",
+        "web server",
+        "lua",
+        "justine tunney"
+      ],
+      "categories": [
+        "operating-systems",
+        "networking-internet",
+        "systems-programming-languages"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1WF411q7eR",
+          "page": 1,
+          "cid": 477021418,
+          "title": "Redbean Actually Portable Executable Web Server (Justine Tunney) - Speakeasy JS",
+          "up": "NewType42",
+          "duration": 3640,
+          "kind": "original",
+          "views": 2688,
+          "pic": "https://i2.hdslb.com/bfs/archive/f0090487eb5b0ba2bbe403d05e51bbf595d4d9b5.jpg",
+          "checked_at": "2026-11-13T14:19:45.316080+00:00"
         }
       ]
     },
@@ -41506,6 +41601,18 @@
           "views": 786,
           "pic": "https://i1.hdslb.com/bfs/archive/55111f90f5f6602a8b0724351b43065a1c7d5272.jpg",
           "checked_at": "2026-11-11T13:44:27.119056+00:00"
+        },
+        {
+          "bvid": "BV1Nf4y1A7Dy",
+          "page": 1,
+          "cid": 417610030,
+          "title": "ATP合酶/ATP synthase in action",
+          "up": "血浆清除率",
+          "duration": 299,
+          "kind": "original",
+          "views": 245,
+          "pic": "https://i2.hdslb.com/bfs/archive/f8b682d4deaba38d866c7ecd501c13e34fdf6348.jpg",
+          "checked_at": "2026-11-13T14:33:42.308644+00:00"
         }
       ]
     },
@@ -45876,6 +45983,52 @@
       ]
     },
     {
+      "id": "XZmGGAbHqa0",
+      "title": "Inside a Google data center",
+      "author": "Google Workspace",
+      "source_url": "https://www.youtube.com/watch?v=XZmGGAbHqa0",
+      "summary": "Joe Kava, VP of Google's Data Center Operations, gives a short tour of a Google data center. He covers security, sustainability and the core infrastructure architecture.",
+      "why": "Cited as a documentary look at how Google runs its data centers, though sometimes dismissed as PR.",
+      "score": 0.0,
+      "tags": [
+        "google",
+        "data center tour",
+        "infrastructure",
+        "security",
+        "sustainability"
+      ],
+      "categories": [
+        "cloud-devops-sre",
+        "distributed-systems"
+      ],
+      "versions": [
+        {
+          "bvid": "BV13x411M7zx",
+          "page": 1,
+          "cid": 25185951,
+          "title": "Inside a Google data center",
+          "up": "噼里啪啦歪丫丫",
+          "duration": 328,
+          "kind": "original",
+          "views": 114,
+          "pic": "https://i2.hdslb.com/bfs/archive/a1bffb3d38e9a5147eab498dc52a2a5a73d65d0f.jpg",
+          "checked_at": "2026-11-13T14:27:17.165531+00:00"
+        },
+        {
+          "bvid": "BV1sx411E7t3",
+          "page": 1,
+          "cid": 25947492,
+          "title": "Inside a Google data center",
+          "up": "X君诺",
+          "duration": 328,
+          "kind": "original",
+          "views": 49,
+          "pic": "https://i0.hdslb.com/bfs/archive/a0b8571ac461267ec29271344a3a38a84a27e167.png",
+          "checked_at": "2026-11-13T14:27:19.162974+00:00"
+        }
+      ]
+    },
+    {
       "id": "XfonhlM6I7w",
       "title": "This Town Did The Impossible",
       "author": "The Aesthetic City",
@@ -48270,6 +48423,18 @@
           "views": 2140,
           "pic": "https://i2.hdslb.com/bfs/archive/33f364b9f1a1d81eb7b78ed150e2bfe08aada25c.jpg",
           "checked_at": "2026-11-07T05:38:03.388901+00:00"
+        },
+        {
+          "bvid": "BV13Em8YFEjg",
+          "page": 1,
+          "cid": 26725911109,
+          "title": "达里奥·阿莫代伊，Anthropic的CEO，聊聊Claude、AGI以及人工智能和人类的未来——Lex Fridman播客第452期",
+          "up": "NulvraGr",
+          "duration": 18901,
+          "kind": "original",
+          "views": 316,
+          "pic": "https://i1.hdslb.com/bfs/archive/fdeee92d099c5db157001ca684250afadea9b6aa.jpg",
+          "checked_at": "2026-11-13T14:32:28.718283+00:00"
         }
       ]
     },
@@ -49360,6 +49525,7 @@
     "BV1qx411e7Ge": "YycAzdtUIko",
     "BV16J411s7sX": "ZEl-Y1NvBVI",
     "BV14E411q7xF": "ZQFzMfHIxng",
+    "BV14E411q7np": "ZQFzMfHIxng",
     "BV16T4y1d7fw": "ZYj4NkeGPdM",
     "BV1ex41167ZK": "ZsRRCnque2E",
     "BV1rQ4y1A7kD": "aoczYXJeMY4",
@@ -49436,6 +49602,7 @@
     "BV1Ak4y1B7X5": "x7drE24geUw",
     "BV1BzZZYyEL3": "xi1Lq79mLeE",
     "BV1xZR1BkEAc": "xoxhDk-hwuo",
+    "BV1q6ac62EJW": "xoxhDk-hwuo",
     "BV1seEe6XEW9": "xoxhDk-hwuo",
     "BV1yg4y1p7mc": "yvDCzhbjYWs",
     "BV1XE411y7Xv": "z8MVKianh54",
@@ -49828,12 +49995,15 @@
     "BV1fx411P7cL": "HUngLgGRJpo",
     "BV1ZE41157iN": "Kas0tIxDvrg",
     "BV1u6CGBdE3m": "Kas0tIxDvrg",
+    "BV1jaUSBsEGm": "Kas0tIxDvrg",
     "BV1Ax411x7rK": "MzRCDLre1b4",
+    "BV1HsUSBFE75": "MzRCDLre1b4",
     "BV1C7Jr66EFY": "NTfOnGZUZDk",
     "BV1ap4y1D7ML": "NfnWJUyUJYU",
     "BV1us411r774": "OaGp5_Sfbss",
     "BV11W411n75x": "PAAkCSZUG1c",
     "BV1hD4y1Q7Up": "RGw6fXprV9U",
+    "BV1oe411p7HR": "RGw6fXprV9U",
     "BV1DK4y177U4": "TjDEsGZLbio",
     "BV1g4421D7bE": "UKxQTvqcpSg",
     "BV17q4y1p7tS": "VdjYVF4a6iU",
@@ -49857,6 +50027,7 @@
     "BV1Mb411W7Gq": "0af00UcTO-c",
     "BV1Jb411G7J9": "0az7DEwG68A",
     "BV1iS9AYyEbv": "0mCsluv5FXA",
+    "BV1WF411q7eR": "1ZTRb-2DZGs",
     "BV1pC4y1m7fZ": "2k8fHR9jKVM",
     "BV1dT91BXEcx": "3HYw6vPR9qU",
     "BV1PK4y1e7sK": "5BXtgq0Nhsc",
@@ -49987,6 +50158,7 @@
     "BV13b411M7Jv": "kJXRyWQgOY4",
     "BV19tej6oEXk": "kRlhlCWplqk",
     "BV1df4y1F7Hv": "kXpzp4RDGJI",
+    "BV1Nf4y1A7Dy": "kXpzp4RDGJI",
     "BV1gi4y1G71g": "kopoLzvh5jY",
     "BV1ni4y1B7Mr": "kopoLzvh5jY",
     "BV1ig411j7Qw": "kz165f1g8-E",
@@ -50130,6 +50302,8 @@
     "BV1jW411B7Sf": "VfjjiHGuHoc",
     "BV1gZ421T7AG": "WiPp9YEBV0Q",
     "BV1zP4y1r73e": "X3-hOigoxHs",
+    "BV13x411M7zx": "XZmGGAbHqa0",
+    "BV1sx411E7t3": "XZmGGAbHqa0",
     "BV1PCy5BxEsn": "XfonhlM6I7w",
     "BV1ph4y1c7tw": "XfonhlM6I7w",
     "BV1WwLyz9Ehz": "XpunFFS-n8I",
@@ -50209,6 +50383,7 @@
     "BV1Wo4y1d7KP": "tWdgAMYjYSs",
     "BV1US4y167Uf": "uASUHbFEhWY",
     "BV1JNSwB8EvF": "ugvHCXCOmm4",
+    "BV13Em8YFEjg": "ugvHCXCOmm4",
     "BV1Sx41177nn": "up863eQKGUI",
     "BV1Ad4y1z79J": "vjqt8T3tJIE",
     "BV1sp4y1b7Qy": "wCDIYvFmgW8",
