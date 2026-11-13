@@ -1,0 +1,126 @@
+{
+  "checked_at": "2026-11-13T22:06:14.062Z",
+  "passed": true,
+  "checks": [
+    {
+      "sample": "1ZTRb-2DZGs",
+      "kind": "original",
+      "id": "1ZTRb-2DZGs",
+      "bvid": "BV1WF411q7eR",
+      "page": 1,
+      "cid": 477021418,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.955295,
+        "duration": 3640,
+        "paused": false
+      },
+      "expected_duration": 3640,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "477021418"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Redbean Actually Portable Executable Web Server (Justine Tunney) - Speakeasy JS\nNewType42\n关注\n64\n5\n分享\n更多\n0:00:04 / 1:00:40\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "HLRdruqQfRk",
+      "kind": "original",
+      "id": "HLRdruqQfRk",
+      "bvid": "BV1TG4y1K7co",
+      "page": 1,
+      "cid": 1003236720,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.300376,
+        "duration": 1454,
+        "paused": false
+      },
+      "expected_duration": 1454,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1003236720"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【转载】Uppestcase and Lowestcase Letters [advances in derp learning]\n猫灯魔女岚栖\n关注\n2\n0\n分享\n更多\n00:05 / 24:14\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "JcJSW7Rprio",
+      "kind": "original",
+      "id": "JcJSW7Rprio",
+      "bvid": "BV14M4y1X7vS",
+      "page": 1,
+      "cid": 996526395,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.310421,
+        "duration": 2207,
+        "paused": false
+      },
+      "expected_duration": 2207,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "996526395"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【转载】Harder Drive: Hard drives we didn't want or need\n猫灯魔女岚栖\n关注\n6\n1\n分享\n更多\n00:05 / 36:47\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "XZmGGAbHqa0",
+      "kind": "original",
+      "id": "XZmGGAbHqa0",
+      "bvid": "BV13x411M7zx",
+      "page": 1,
+      "cid": 25185951,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.31906,
+        "duration": 328,
+        "paused": false
+      },
+      "expected_duration": 328,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "25185951"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Inside a Google data center\n噼里啪啦歪丫丫\n关注\n0\n0\n分享\n更多\n00:05 / 05:28\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "YXehBx0Yc_w",
+      "kind": "original",
+      "id": "YXehBx0Yc_w",
+      "bvid": "BV17341117sM",
+      "page": 1,
+      "cid": 421754339,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.956255,
+        "duration": 1360,
+        "paused": false
+      },
+      "expected_duration": 1360,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "421754339"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "This 30-Year-Old Terminator VFX BLEW OUR MINDS!\n猫灯魔女岚栖\n关注\n0\n0\n分享\n更多\n00:04 / 22:40\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    }
+  ]
+}

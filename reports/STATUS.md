@@ -1,40 +1,29 @@
 # 匹配进展
 
-更新时间：2026-11-13T14:40:42.548717+00:00
+更新时间：2026-11-13T21:59:25.370396+00:00
 
 - 原片库：6454
-- 完成处理：6305
-- 已确认原片：1236
-- 全库覆盖率：19.15%
-- 已处理原片匹配率：18.72%
-- 状态：{'confirmed': 1236, 'review': 5218}
+- 完成处理：6407
+- 已确认原片：1239
+- 全库覆盖率：19.20%
+- 已处理原片匹配率：19.34%
+- 状态：{'confirmed': 1239, 'review': 5215}
 
 - 待审中尚需扩大候选检查：24
-- 已扩大检查仍待审核：5106
+- 已扩大检查仍待审核：5103
 - 待审中搜索元数据缺失（重建丢失，状态未知，需重新搜索）：88
 
 ## 最近批次
 
 ```json
 {
-  "id": "20261112T150949Z",
-  "selected": 12,
-  "completed": 12,
+  "id": "20261113T145551Z",
+  "selected": 1,
+  "completed": 1,
   "errors": [],
   "stopped": false,
   "originals": [
-    "qf7ws2DF-zk",
-    "qfv6Ah_MVJU",
-    "qoIvd3zzu4Y",
-    "qp75-46PnMY",
-    "qrwlk7_GF9g",
-    "qvNLNl7oJnM",
-    "qy8MdewY_TY",
-    "qycUOENFIBs",
-    "r-V_Z3bD_PA",
-    "r38Epj6ldKU",
-    "xAUJYP8tnRE",
-    "yDp3cB5fHXQ"
+    "zHU1xH6Ogs4"
   ],
   "primary_first": true,
   "deferred_candidates": 0,
@@ -155,13 +144,12 @@
     "yg-UqIIvang",
     "zaRHU1XxMJQ"
   ],
-  "attempted": 12,
+  "attempted": 1,
   "unattempted": 0,
   "statuses": {
-    "review": 11,
-    "confirmed": 1
+    "review": 1
   },
-  "candidate_count": 427
+  "candidate_count": 2
 }
 ```
 
@@ -169,11 +157,11 @@
 
 ```json
 {
-  "id": "2026-11-13T14:36:33.314828+00:00",
+  "id": "2026-11-13T15:09:24.961774+00:00",
   "source": "cached-identity-leads.json",
-  "attempted": 50,
-  "completed": 50,
-  "confirmed": 2,
+  "attempted": 6,
+  "completed": 6,
+  "confirmed": 4,
   "errors": [],
   "stopped": false
 }

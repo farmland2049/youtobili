@@ -956,3 +956,40 @@
 - 单元测试：79 项 Python 单元测试全部通过。
 - 浏览器场景测试：15 项端到端场景全部通过（1234 条原片渲染正常）。
 - 分支合并准备就绪，合并至 `main`。
+
+## 2026-11-14 阶段增量（Round 13 夜间连续推进）
+
+### 1. 目标与执行
+- 承接 Round 12 合并至 `main` 后基线（`dad64a3`，确认原片 1234 条、1679 个版本）。
+- 签出全新夜间推进分支 `continue-20261113-overnight`，按计划彻夜连续推进至 2026-11-14 06:00（实际执行至 06:01:25 平稳收工）。
+- 针对待审队列与公开缓存，执行公开身份线索提取（`seed-identities` 整理 272 条线索）与合集线索挖掘（`seed-related` 整理 218 条候选），循环进行身份核验（`verify-leads`）与未处理候选匹配（`match_unprocessed`）。
+- 全程保持 2s 串行限速、3s 搜索间隔保护，0 次 412 风控拦截，0 次登录限制，0 次网络中断。
+
+### 2. 新确认条目（5条原片，6个有效版本）
+1. `1ZTRb-2DZGs` → `BV1WF411q7eR` P1（original，3640 秒，CID 477021418；Feross《Speakeasy JS - Redbean: Actually Portable Executable Web Server (Justine Tunney)》，B站UP主 NewType42 搬运，B站完整简介含明确原片来源链接，单P时长 3640 秒与原片完全一致，实播测试通过）。
+2. `HLRdruqQfRk` → `BV1TG4y1K7co` P1（original，1454 秒，CID 1003236720；suckerpinch《Uppestcase and Lowestcase Letters [advances in derp learning]》，B站UP主 猫灯魔女岚栖 搬运，简介含明确原片来源链接，单P时长 1454 秒与原片完全一致，实播测试通过）。
+3. `JcJSW7Rprio` → `BV14M4y1X7vS` P1（original，2207 秒，CID 996526395；suckerpinch《Harder Drive: Hard drives we didn't want or need》，B站UP主 猫灯魔女岚栖 搬运，简介含明确原片来源链接，单P时长 2207 秒与原片完全一致，实播测试通过）。
+4. `XZmGGAbHqa0` → `BV13x411M7zx` P1（328秒，CID 25185951，UP 噼里啪啦歪丫丫）与 `BV1sx411E7t3` P1（328秒，CID 25947492，UP X君诺）（original；Google Workspace《Inside a Google data center》，双版本简介均含明确原片来源，时长 328 秒与原片完全一致，实播测试通过）。
+5. `YXehBx0Yc_w` → `BV17341117sM` P1（original，1360 秒，CID 421754339；Corridor Crew《This 30-Year-Old Terminator VFX BLEW OUR MINDS!》，B站UP主 猫灯魔女岚栖 搬运，简介含明确原片来源链接，单P时长 1360 秒与原片完全一致，实播测试通过）。
+
+### 3. 指标前后变化
+- 原片总库：6,454
+- 完成处理条数：6,405 → 6,407（+2 条）
+- 未处理条数：49 → 47（-2 条）
+- 确认原片：1,234 → 1,239（+5 条）
+- 发布版本：1,679 → 1,697（+18 个版本）
+- 全库覆盖率：19.12% → 19.20%（+0.08%）
+- 已处理匹配率：19.27% → 19.34%（+0.07%）
+- 检阅候选总数：163,041 → 165,475（净增 2,434 个候选持久化至 `data/confirmed.json` 候选总账）
+- 已扩大检查仍待审核条目：5,107 → 5,103（-4 条）
+- 待审中搜索元数据缺失需重新搜索条目：89 → 88（-1 条）
+
+### 4. 实播验证
+- 新增确认条目实播：`reports/playback-r13-batch.json` 记录全部 5 条新增确认原片实播测试，5/5 全部通过（媒体流时长严格匹配、播放器状态 `readyState: 4`、真实请求 CID 观测命中，未做逐帧比较）。
+- 抽样基线实播：`reports/playback-checks.json` 针对 6 种版本形态全量运行，6/6 全部通过。
+
+### 5. 验收与交接状态
+- 数据校验：`python3 scripts/pipeline.py check` 通过（1239 originals, 1697 verified segments）。
+- 单元测试：79 项 Python 单元测试全部通过。
+- 浏览器场景测试：15 项端到端场景全部通过（1239 条原片渲染正常）。
+- 分支合并准备就绪，合并至 `main`。
