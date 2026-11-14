@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-14T01:08:56.983264+00:00",
+  "built_at": "2026-11-14T01:21:44.219418+00:00",
   "stats": {
     "corpus": 6454,
     "processed": 6407,
-    "confirmed": 1491,
-    "coverage": 0.23101952277657267,
-    "processed_match_rate": 0.23271421882316218
+    "confirmed": 1545,
+    "coverage": 0.23938642702200186,
+    "processed_match_rate": 0.24114250039019822
   },
   "areas": [
     {
@@ -10788,6 +10788,40 @@
       ]
     },
     {
+      "id": "3VQ382QG-y4",
+      "title": "Lambda Calculus - Fundamentals of Lambda Calculus & Functional Programming in JavaScript",
+      "author": "Fullstack Academy",
+      "source_url": "https://www.youtube.com/watch?v=3VQ382QG-y4",
+      "summary": "Gabriel Lebec's Fullstack Academy talk introduces lambda calculus syntax, the history of mathematical logic, and the essence of functional programming using JavaScript. It also covers combinators, currying and Church encodings.",
+      "why": "Repeatedly recommended as one of the most approachable introductions to lambda calculus and combinators.",
+      "score": 6.5,
+      "tags": [
+        "lambda calculus",
+        "combinators",
+        "functional programming",
+        "javascript",
+        "currying"
+      ],
+      "categories": [
+        "computational-theory",
+        "functional-programming"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Rb411T7vA",
+          "page": 1,
+          "cid": 85597472,
+          "title": "Lambda Calculus - Fundamentals of Lambda Calculus _ Functional Programming in Ja",
+          "up": "山卡拉",
+          "duration": 3735,
+          "kind": "original",
+          "views": 1208,
+          "pic": "https://i1.hdslb.com/bfs/archive/740d9549a54f0f048d20197d8daaa655b6f72e13.jpg",
+          "checked_at": "2026-11-13T21:58:22.144544+00:00"
+        }
+      ]
+    },
+    {
       "id": "3ZTGwcHQfLY",
       "title": "I Tried To Make Something In America (The Smarter Scrubber Experiment) - Smarter Every Day 308",
       "author": "SmarterEveryDay",
@@ -18949,6 +18983,40 @@
       ]
     },
     {
+      "id": "2LyzBoHo5EI",
+      "title": "Why the world population won’t exceed 11 billion | Hans Rosling | TGS.ORG",
+      "author": "THINK Global School",
+      "source_url": "https://www.youtube.com/watch?v=2LyzBoHo5EI",
+      "summary": "Hans Rosling uses population statistics to explain why the world population will level off rather than grow without limit. He shows that falling child mortality and rising prosperity lead to smaller families.",
+      "why": "Offered as an approachable, data-driven rebuttal to Malthusian overpopulation fears.",
+      "score": 4.0,
+      "tags": [
+        "hans rosling",
+        "demographics",
+        "population growth",
+        "child mortality",
+        "gapminder"
+      ],
+      "categories": [
+        "data-visualization",
+        "social-issues-culture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Nt411p74X",
+          "page": 1,
+          "cid": 71760033,
+          "title": "世界人口将不会超110亿 Why the world population won’t exceed 11 billion - Hans Rosling",
+          "up": "无责任不学习做复读机",
+          "duration": 997,
+          "kind": "original",
+          "views": 2454,
+          "pic": "https://i1.hdslb.com/bfs/archive/c3bb50c04716bad41d46c1e211b503f509f630f6.jpg",
+          "checked_at": "2026-11-10T11:19:31.761044+00:00"
+        }
+      ]
+    },
+    {
       "id": "4oAB83Z1ydE",
       "title": "Think Different",
       "author": "英倫米高 Michael in England",
@@ -22878,6 +22946,39 @@
       ]
     },
     {
+      "id": "Cyya23MPoAI",
+      "title": "Climbing SOLO with Alex Honnold   **INSANE EXPERIENCE**",
+      "author": "Magnus Midtbø",
+      "source_url": "https://www.youtube.com/watch?v=Cyya23MPoAI",
+      "summary": "Norwegian climber Magnus Midtbo spends a day climbing with Alex Honnold on exposed routes, shot as a vlog. The video shows the stark contrast between Midtbo's visible nerves and Honnold's calm.",
+      "why": "Recommended for conveying viscerally just how exceptional Honnold's composure is compared to other elite climbers.",
+      "score": 3.5,
+      "tags": [
+        "alex honnold",
+        "climbing",
+        "free solo",
+        "magnus midtbo",
+        "exposure"
+      ],
+      "categories": [
+        "sports-athletics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1tW4y167V7",
+          "page": 1,
+          "cid": 749508582,
+          "title": "[攀岩|无保护] I tried free solo with Alex Honnold - Insane experience",
+          "up": "ClimbingWorld",
+          "duration": 2083,
+          "kind": "original",
+          "views": 371,
+          "pic": "https://i2.hdslb.com/bfs/archive/cb5645394f63061dd5d4ccb4ec88f674c32b98ce.jpg",
+          "checked_at": "2026-11-10T11:49:01.905177+00:00"
+        }
+      ]
+    },
+    {
       "id": "D7Sd8A6_fYU",
       "title": "CppCon 2016: Dan Saks “extern c: Talking to C Programmers about C++”",
       "author": "CppCon",
@@ -23511,6 +23612,40 @@
       ]
     },
     {
+      "id": "KbB0FjPg0mw",
+      "title": "Lecture 1: Probability and Counting | Statistics 110",
+      "author": "Harvard University",
+      "source_url": "https://www.youtube.com/watch?v=KbB0FjPg0mw",
+      "summary": "Lecture 1 of Harvard's Statistics 110 with Joe Blitzstein, introducing sample spaces, the naive definition of probability, counting, binomial coefficients and the sampling table.",
+      "why": "Recommended on Ask HN threads as a high-quality free probability course for relearning math or building an ML foundation.",
+      "score": 3.5,
+      "tags": [
+        "probability",
+        "counting",
+        "statistics 110",
+        "harvard",
+        "combinatorics"
+      ],
+      "categories": [
+        "probability-game-theory",
+        "university-lectures"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1kE41157pa",
+          "page": 1,
+          "cid": 163713344,
+          "title": "Statistics 110: Probability  概率论  哈佛大学（中英）",
+          "up": "cosmos_atom",
+          "duration": 2790,
+          "kind": "sub_zh",
+          "views": 117322,
+          "pic": "https://i2.hdslb.com/bfs/archive/8442fe15a353f645eb0ce53eaaf47c8934275af3.jpg",
+          "checked_at": "2026-11-10T16:13:05.466356+00:00"
+        }
+      ]
+    },
+    {
       "id": "L_XJ_s5IsQc",
       "title": "Snarky Puppy - Lingus (We Like It Here)",
       "author": "GroundUP Music NYC",
@@ -23564,6 +23699,40 @@
           "views": 71,
           "pic": "https://i0.hdslb.com/bfs/archive/996ffef8b244724e1a1c899f80110ceec2142992.jpg",
           "checked_at": "2026-11-07T05:27:49.728211+00:00"
+        }
+      ]
+    },
+    {
+      "id": "M8F5hXqS-Ac",
+      "title": "Safe Cycling Showdown - Good vs. Bad City Design - Plus 1 Minus 2",
+      "author": "Not Just Bikes",
+      "source_url": "https://www.youtube.com/watch?v=M8F5hXqS-Ac",
+      "summary": "Not Just Bikes compares the same cycling trip to a hardware store in Calgary and in Amsterdam, using a 'plus 1 minus 2' format. It shows how street design shapes how safe and practical cycling is.",
+      "why": "HN recommends the channel for understanding why North American road design makes cycling dangerous and how the Dutch approach differs.",
+      "score": 3.5,
+      "tags": [
+        "urban design",
+        "netherlands",
+        "calgary",
+        "bike safety",
+        "suburbs",
+        "not just bikes"
+      ],
+      "categories": [
+        "transit-urbanism"
+      ],
+      "versions": [
+        {
+          "bvid": "BV18g4y137Z8",
+          "page": 1,
+          "cid": 1073202977,
+          "title": "安全骑行与城市设计 Safe Cycling Showdown Good vs. Bad City Design (Not Just Bike)",
+          "up": "IVEvolution",
+          "duration": 1382,
+          "kind": "original",
+          "views": 115,
+          "pic": "https://i2.hdslb.com/bfs/archive/d78da676e7bdc406d1ae58e44273950d83025e75.jpg",
+          "checked_at": "2026-11-10T16:13:28.608111+00:00"
         }
       ]
     },
@@ -23933,6 +24102,41 @@
           "views": 275,
           "pic": "https://i2.hdslb.com/bfs/archive/9c6d8eeeaf019588e3a5898a545b03143008b986.png",
           "checked_at": "2026-11-07T05:27:34.469870+00:00"
+        }
+      ]
+    },
+    {
+      "id": "SemHh0n19LA",
+      "title": "5 steps to designing the life you want  | Bill Burnett | TEDxStanford",
+      "author": "TEDx Talks",
+      "source_url": "https://www.youtube.com/watch?v=SemHh0n19LA",
+      "summary": "TEDxStanford talk by Bill Burnett, executive director of Stanford's design program, on applying design thinking to your own life and career. He offers five practical tips such as getting curious, talking to people and trying things.",
+      "why": "HN recommends it as a short intro to the Designing Your Life approach when people ask about career direction and finding meaningful work.",
+      "score": 3.5,
+      "tags": [
+        "design thinking",
+        "career",
+        "life design",
+        "tedx",
+        "prototyping",
+        "stanford"
+      ],
+      "categories": [
+        "productivity-self-improvement",
+        "product-industrial-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1mx4y1U7je",
+          "page": 1,
+          "cid": 1480616948,
+          "title": "Bill Burnett_ 5 steps to designing the life you want",
+          "up": "八景外刊精读",
+          "duration": 1521,
+          "kind": "original",
+          "views": 31,
+          "pic": "https://i0.hdslb.com/bfs/archive/509e8870eea0f09c809a9b408d5fbedb7733926d.png",
+          "checked_at": "2026-11-10T16:15:07.849099+00:00"
         }
       ]
     },
@@ -24758,6 +24962,40 @@
           "views": 450,
           "pic": "https://i1.hdslb.com/bfs/archive/68b7bdaca48b123dc6421ceba3113304bc77039f.jpg",
           "checked_at": "2026-11-07T05:27:50.955224+00:00"
+        }
+      ]
+    },
+    {
+      "id": "clnozSXyF4k",
+      "title": "Stargate Studios Virtual Backlot Reel 2009",
+      "author": "Stargate Studios",
+      "source_url": "https://www.youtube.com/watch?v=clnozSXyF4k",
+      "summary": "Stargate Studios' 2009 virtual backlot reel shows before-and-after shots in which green screen and compositing replace locations in ordinary TV dramas and comedies. It shows how much of a seemingly real show is computer generated.",
+      "why": "HN points to it as a demo of how routinely mundane TV scenes use green screen set replacement, even on TV budgets.",
+      "score": 3.5,
+      "tags": [
+        "green screen",
+        "compositing",
+        "vfx",
+        "chroma key",
+        "television production"
+      ],
+      "categories": [
+        "animation-vfx",
+        "film-video-production"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ab411A77p",
+          "page": 1,
+          "cid": 61179821,
+          "title": "Stargate Studios 2009 Virtual Backlot Demo on Vimeo",
+          "up": "厚积天成-爱学不学CG",
+          "duration": 239,
+          "kind": "original",
+          "views": 103,
+          "pic": "https://i2.hdslb.com/bfs/archive/98f055c9473faae9a45fb45ea0e6563e70fe9be7.png",
+          "checked_at": "2026-11-10T16:17:34.404468+00:00"
         }
       ]
     },
@@ -27084,6 +27322,40 @@
       ]
     },
     {
+      "id": "2AnbYNudAyM",
+      "title": "Razor1911",
+      "author": "Dubmood",
+      "source_url": "https://www.youtube.com/watch?v=2AnbYNudAyM",
+      "summary": "Razor 1911's eponymous demo celebrating 40 years of the group, which won first place at the Revision 2026 demo competition and the public's choice award. It is a retrospective of keygen and warez scene culture with chiptune music.",
+      "why": "HN commenters point to it as an impressive showpiece of the demoscene and a nostalgic career retrospective of a legendary group.",
+      "score": 3.0,
+      "tags": [
+        "demoscene",
+        "razor 1911",
+        "keygen music",
+        "chiptune",
+        "retro computing"
+      ],
+      "categories": [
+        "demoscene-retrocomputing",
+        "music-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1UddkBgEqA",
+          "page": 2,
+          "cid": 37673502755,
+          "title": "Razor1911 (live during the Revision 2026 demo compo)",
+          "up": "ZHYUjun",
+          "duration": 617,
+          "kind": "original",
+          "views": 1730,
+          "pic": "https://i2.hdslb.com/bfs/archive/840fa4b9575237dcc06b22034bf56fb5d77844c8.jpg",
+          "checked_at": "2026-11-10T16:25:56.854688+00:00"
+        }
+      ]
+    },
+    {
       "id": "2JAOTJxYqh8",
       "title": "Bed Bugs- What You've Been Told is Totally False",
       "author": "Mark Rober",
@@ -28545,6 +28817,40 @@
       ]
     },
     {
+      "id": "JsVtHqICeKE",
+      "title": "DEFCON 19: Steal Everything, Kill Everyone, Cause Total Financial Ruin! (w speaker)",
+      "author": "Christiaan008",
+      "source_url": "https://www.youtube.com/watch?v=JsVtHqICeKE",
+      "summary": "Jayson E. Street's DEF CON 19 talk shows photos from real security engagements where he was already inside client facilities, illustrating how social engineering and physical intrusion can cause huge losses. For each attack he also explains what defenses would have stopped him.",
+      "why": "It is a repeat pick in 'favorite tech talk' threads as a funny, eye-opening look at how easily physical security and people can be bypassed.",
+      "score": 3.0,
+      "tags": [
+        "def con",
+        "social engineering",
+        "red team",
+        "penetration testing",
+        "security awareness"
+      ],
+      "categories": [
+        "security-hacking",
+        "privacy-surveillance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1UT4y1j7De",
+          "page": 1,
+          "cid": 217893797,
+          "title": "DEFCON 19_ Steal Everything, Kill Everyone, Cause Total Financial Ruin! (w speak",
+          "up": "账号已注销",
+          "duration": 2447,
+          "kind": "original",
+          "views": 27,
+          "pic": "https://i2.hdslb.com/bfs/archive/bc8601600af8cb5994b8da22f0d17dceb9b6341d.jpg",
+          "checked_at": "2026-11-10T16:32:32.206635+00:00"
+        }
+      ]
+    },
+    {
       "id": "JurplDfPi3U",
       "title": "Former fusion scientist on why we won't have fusion power by 2040",
       "author": "Improbable Matter",
@@ -28723,6 +29029,41 @@
           "views": 24,
           "pic": "https://i2.hdslb.com/bfs/archive/1a8cfe39917d6947d4a6872dc2039ee938a3c26c.jpg",
           "checked_at": "2026-11-07T05:27:38.349755+00:00"
+        }
+      ]
+    },
+    {
+      "id": "L3LMbpZIKhQ",
+      "title": "Lec 1 | MIT 6.042J Mathematics for Computer Science, Fall 2010",
+      "author": "MIT OpenCourseWare",
+      "source_url": "https://www.youtube.com/watch?v=L3LMbpZIKhQ",
+      "summary": "The first lecture of MIT 6.042J Mathematics for Computer Science, taught by Tom Leighton, introducing mathematical proofs. It covers propositions, implication and basic proof methods.",
+      "why": "HN users recommend it as a good discrete math course for programmers, praising Leighton's relatable stories that motivate new concepts.",
+      "score": 3.0,
+      "tags": [
+        "discrete math",
+        "proofs",
+        "mit ocw",
+        "tom leighton",
+        "computer science"
+      ],
+      "categories": [
+        "university-lectures",
+        "pure-mathematics",
+        "logic-formal-methods"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1beA3z6E5a",
+          "page": 1,
+          "cid": 36887793309,
+          "title": "MIT《计算机科学的数学|MIT 6.042J Mathematics for Computer Science, Fall 2010》",
+          "up": "GPT中英字幕课程资源",
+          "duration": 2650,
+          "kind": "original",
+          "views": 4192,
+          "pic": "https://i1.hdslb.com/bfs/archive/51e80a0a584d2ca774d7993262a666e585a902cf.jpg",
+          "checked_at": "2026-11-10T16:33:08.693909+00:00"
         }
       ]
     },
@@ -31305,6 +31646,40 @@
       ]
     },
     {
+      "id": "sycgL3Qg_Ak",
+      "title": "How to Age Gracefully | CBC Radio",
+      "author": "CBC",
+      "source_url": "https://www.youtube.com/watch?v=sycgL3Qg_Ak",
+      "summary": "A five-minute CBC Radio WireTap farewell video in which people of all ages offer words of wisdom to younger people. The advice is short and funny, and keeps coming back to the point that nobody really knows what they are doing.",
+      "why": "Commenters bring it up in threads about life advice and aging as the best advice they have heard, namely to ignore advice and do your own thing.",
+      "score": 3.0,
+      "tags": [
+        "aging",
+        "advice",
+        "wiretap",
+        "cbc radio",
+        "humor"
+      ],
+      "categories": [
+        "productivity-self-improvement",
+        "arts-entertainment-other"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Js411M7ek",
+          "page": 1,
+          "cid": 50026804,
+          "title": "How to Age Gracefully  CBC",
+          "up": "我是许仙啊",
+          "duration": 281,
+          "kind": "original",
+          "views": 2150,
+          "pic": "https://i2.hdslb.com/bfs/archive/5f0306fc128ddf83ff1f5d64945f33a0a7987bf8.jpg",
+          "checked_at": "2026-11-10T16:48:23.952719+00:00"
+        }
+      ]
+    },
+    {
       "id": "tTBWfkE7BXU",
       "title": "Noam Chomsky - Manufacturing Consent",
       "author": "Chomsky's Philosophy",
@@ -31425,6 +31800,38 @@
           "views": 10002,
           "pic": "https://i0.hdslb.com/bfs/archive/3923e3a019ffc7b57ee44cb003e4e43d44dfe1cd.png",
           "checked_at": "2026-11-07T05:27:56.605235+00:00"
+        }
+      ]
+    },
+    {
+      "id": "u_ktRTWMX3M",
+      "title": "Arnold Schwarzenegger 2018 - The speech that broke the internet - Most Inspiring ever",
+      "author": "MulliganBrothers",
+      "source_url": "https://www.youtube.com/watch?v=u_ktRTWMX3M",
+      "summary": "A motivational compilation of Arnold Schwarzenegger's 2018 speech, delivered as inspiration about work and purpose.",
+      "why": "HN users recommend it as practical motivation against procrastination and for people unsure what to do next.",
+      "score": 3.0,
+      "tags": [
+        "arnold schwarzenegger",
+        "motivational speech",
+        "procrastination",
+        "self-improvement"
+      ],
+      "categories": [
+        "productivity-self-improvement"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1PJ411d73a",
+          "page": 1,
+          "cid": 131004099,
+          "title": "Arnold Schwarzenegger 2018 - The speech that broke the internet - Most Inspiring",
+          "up": "danielyang1009",
+          "duration": 727,
+          "kind": "original",
+          "views": 212,
+          "pic": "https://i0.hdslb.com/bfs/archive/3fddb0e54a296af51f4f37581b007b0957eb8dc6.jpg",
+          "checked_at": "2026-11-10T16:49:15.471694+00:00"
         }
       ]
     },
@@ -32305,6 +32712,41 @@
           "views": 240,
           "pic": "https://i2.hdslb.com/bfs/archive/899fe1eb2db56195af48c3dbe25d9ab39987e37b.jpg",
           "checked_at": "2026-11-07T05:27:57.203300+00:00"
+        }
+      ]
+    },
+    {
+      "id": "7xQQkzWhMOc",
+      "title": "Why Doing Taxes Is So Hard | Patriot Act with Hasan Minhaj | Netflix",
+      "author": "Netflix Is A Joke",
+      "source_url": "https://www.youtube.com/watch?v=7xQQkzWhMOc",
+      "summary": "An episode of Patriot Act with Hasan Minhaj exposing how tax-prep companies like TurboTax make filing confusing and costly even though many Americans can file for free. It combines comedy with reporting on lobbying and dark patterns.",
+      "why": "HN recommends it as an accessible explanation of how Intuit's lobbying and deceptive design undermine free tax filing.",
+      "score": 2.5,
+      "tags": [
+        "turbotax",
+        "intuit",
+        "dark patterns",
+        "irs free file",
+        "lobbying"
+      ],
+      "categories": [
+        "satire-parody",
+        "tech-industry-business",
+        "ux-ui-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1eV411k79Z",
+          "page": 1,
+          "cid": 207451618,
+          "title": "【Patriot Act 】Why Doing Taxes Is So Hard  Hasan Minhaj 2020.6.29",
+          "up": "棒棒糖狠咸",
+          "duration": 1526,
+          "kind": "original",
+          "views": 144,
+          "pic": "https://i1.hdslb.com/bfs/archive/cc9dc8b7494008584ac790c9ca7622e7bd397d5a.jpg",
+          "checked_at": "2026-11-10T16:55:28.491329+00:00"
         }
       ]
     },
@@ -33779,6 +34221,40 @@
       ]
     },
     {
+      "id": "dngqR9gcDDw",
+      "title": "Free To Choose 1980 - Vol. 01 The Power of the Market - Full Video",
+      "author": "Free To Choose Network",
+      "source_url": "https://www.youtube.com/watch?v=dngqR9gcDDw",
+      "summary": "The first episode of Milton Friedman's 1980 Free To Choose series, on how markets and voluntary exchange organize economic activity and the price system. It includes visits to Hong Kong, the U.S. and Scotland and a panel discussion with critics.",
+      "why": "Commenters say it made market economics click for them and find it an interesting documentary relevant to welfare and UBI debates.",
+      "score": 2.5,
+      "tags": [
+        "milton friedman",
+        "free markets",
+        "price system",
+        "economics",
+        "1980s"
+      ],
+      "categories": [
+        "microeconomics-behavioral",
+        "macroeconomics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV17B4y1e7vG",
+          "page": 1,
+          "cid": 764979304,
+          "title": "Free To Choose 1980 - Vol. 01 The Power of the Market -自由选择 01 市场的力量",
+          "up": "RicercarZ",
+          "duration": 3468,
+          "kind": "original",
+          "views": 271,
+          "pic": "https://i0.hdslb.com/bfs/archive/e664f83bb54bd69235d243e2e68f36a5d3ffba27.jpg",
+          "checked_at": "2026-11-10T17:09:17.831441+00:00"
+        }
+      ]
+    },
+    {
       "id": "eGnH0KAXhCw",
       "title": "Why “No Problem” Can Seem Rude: Phatic Expressions",
       "author": "Tom Scott",
@@ -34201,6 +34677,41 @@
       ]
     },
     {
+      "id": "meiU6TxysCg",
+      "title": "Two Monkeys Were Paid Unequally: Excerpt from Frans de Waal's TED Talk",
+      "author": "TED Blog Video",
+      "source_url": "https://www.youtube.com/watch?v=meiU6TxysCg",
+      "summary": "A short excerpt from Frans de Waal's TED talk showing a capuchin monkey fairness experiment in which two monkeys are paid unequally, one with cucumber and one with grapes. The shortchanged monkey reacts angrily.",
+      "why": "HN uses it again and again as shorthand for the idea that resentment of unfair pay and inequality is built into primates, including us.",
+      "score": 2.5,
+      "tags": [
+        "capuchin monkeys",
+        "inequity aversion",
+        "frans de waal",
+        "morality",
+        "animal behavior"
+      ],
+      "categories": [
+        "animals-nature",
+        "psychology-behavior",
+        "philosophy-ethics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV13K8veQE8i",
+          "page": 1,
+          "cid": 500001624740657,
+          "title": "Two Monkeys Were Paid Unequally Excerpt from Frans de Waals TED Talk",
+          "up": "飛车党",
+          "duration": 164,
+          "kind": "original",
+          "views": 65,
+          "pic": "https://i2.hdslb.com/bfs/archive/2765d62ab9f01ad37581d694b24d294318f6cad7.jpg",
+          "checked_at": "2026-11-10T17:13:29.841458+00:00"
+        }
+      ]
+    },
+    {
       "id": "nSKp2StlS6s",
       "title": "You Give REST a Bad Name",
       "author": "Dylan Beattie",
@@ -34554,6 +35065,40 @@
           "views": 949,
           "pic": "https://i1.hdslb.com/bfs/archive/bc49906ba1f5f3855c8226522692fe244a808518.jpg",
           "checked_at": "2026-11-07T05:27:37.839017+00:00"
+        }
+      ]
+    },
+    {
+      "id": "w-I6XTVZXww",
+      "title": "ASTOUNDING: 1 + 2 + 3 + 4 + 5 + ... = -1/12",
+      "author": "Numberphile",
+      "source_url": "https://www.youtube.com/watch?v=w-I6XTVZXww",
+      "summary": "A Numberphile video in which physicists Tony Padilla and Ed Copeland show a seemingly astounding result that 1+2+3+4+... equals -1/12. The argument is informal and has drawn criticism for glossing over what the result actually means.",
+      "why": "HN uses it as the standard reference for the -1/12 meme, with commenters split between enjoying it and calling it a cheat.",
+      "score": 2.5,
+      "tags": [
+        "-1/12",
+        "riemann zeta",
+        "infinite series",
+        "numberphile",
+        "ramanujan summation"
+      ],
+      "categories": [
+        "recreational-math",
+        "pure-mathematics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV117411v7QR",
+          "page": 1,
+          "cid": 144199551,
+          "title": "【Numberphile】令人震惊的数学等式 ASTOUNDING 1+2+3+4+5+...=-1:12",
+          "up": "小猫咪字幕组",
+          "duration": 470,
+          "kind": "original",
+          "views": 690,
+          "pic": "https://i0.hdslb.com/bfs/archive/689eafa141617a8c69149224106d03f695e60b1f.jpg",
+          "checked_at": "2026-11-10T17:18:32.553855+00:00"
         }
       ]
     },
@@ -35366,6 +35911,41 @@
       ]
     },
     {
+      "id": "5pidokakU4I",
+      "title": "Axis of Awesome - 4 Four Chord Song (with song titles)",
+      "author": "random804",
+      "source_url": "https://www.youtube.com/watch?v=5pidokakU4I",
+      "summary": "Australian comedy group Axis of Awesome perform a sketch showing that dozens of pop hits share the same four chords. It was recorded at the 2009 Melbourne International Comedy Festival.",
+      "why": "The go-to reference in threads on chord progressions, pop music similarity and music copyright.",
+      "score": 2.0,
+      "tags": [
+        "four chords",
+        "pop music",
+        "music theory",
+        "comedy",
+        "copyright"
+      ],
+      "categories": [
+        "standup-sketch-comedy",
+        "music-theory-production",
+        "music-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1iz411b7Nn",
+          "page": 1,
+          "cid": 177726270,
+          "title": "Axis of Awesome - 4 Four Chord Song",
+          "up": "hatboy",
+          "duration": 331,
+          "kind": "original",
+          "views": 658,
+          "pic": "https://i1.hdslb.com/bfs/archive/de3f6afc69ef922ee11625bd94a7ca3b0c7be868.jpg",
+          "checked_at": "2026-11-10T17:30:02.336886+00:00"
+        }
+      ]
+    },
+    {
       "id": "5tu32CCA_Ig",
       "title": "Corruption is Legal in America",
       "author": "RepresentUs",
@@ -35868,6 +36448,41 @@
       ]
     },
     {
+      "id": "9nXop2lLDa4",
+      "title": "David Sinclair | Why We Age and Why We Don't Have To | Talks at Google",
+      "author": "Talks at Google",
+      "source_url": "https://www.youtube.com/watch?v=9nXop2lLDa4",
+      "summary": "Harvard geneticist David Sinclair discusses his book Lifespan at Google. He covers the biology of aging, lifestyle interventions and possible future ways to slow or reverse it.",
+      "why": "Shared as the author's own hour-long overview of his aging research, though some commenters doubt that the book's claims hold up.",
+      "score": 2.0,
+      "tags": [
+        "david sinclair",
+        "lifespan",
+        "aging",
+        "longevity",
+        "cell reprogramming"
+      ],
+      "categories": [
+        "fitness-sleep-longevity",
+        "medicine-disease",
+        "evolution-genetics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Qg4y1b7kr",
+          "page": 1,
+          "cid": 173619744,
+          "title": "Why We Ageand Why We Don't Have To | David Sinclair | Talks at Google",
+          "up": "symptomatica",
+          "duration": 3314,
+          "kind": "original",
+          "views": 689,
+          "pic": "https://i0.hdslb.com/bfs/archive/eb424a48675a97c46c0ffe189537378384f2debe.jpg",
+          "checked_at": "2026-11-10T17:36:25.939019+00:00"
+        }
+      ]
+    },
+    {
       "id": "9qi03QawZEk",
       "title": "Professor Jeff Dahn | WIN Seminar Series",
       "author": "Waterloo Institute for Nanotechnology",
@@ -36354,6 +36969,40 @@
       ]
     },
     {
+      "id": "Dar8P3r7GYA",
+      "title": "SpaceX's plan to fly you across the globe in 30 minutes | Gwynne Shotwell",
+      "author": "TED",
+      "source_url": "https://www.youtube.com/watch?v=Dar8P3r7GYA",
+      "summary": "A TED conversation with SpaceX president Gwynne Shotwell about the company's race to put people in orbit and the BFR rocket. It also covers the idea of using the rocket for fast point-to-point travel on Earth.",
+      "why": "Pointed to in SpaceX threads as a window into the company's ambitions and leadership.",
+      "score": 2.0,
+      "tags": [
+        "spacex",
+        "gwynne shotwell",
+        "starship",
+        "ted",
+        "spaceflight"
+      ],
+      "categories": [
+        "space-exploration",
+        "tech-figures-interviews"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1EW411A7Wr",
+          "page": 1,
+          "cid": 41010845,
+          "title": "[TED]SpaceX's plan to fly you across the globe in 30 minutes 自制字幕",
+          "up": "Boniface_",
+          "duration": 1291,
+          "kind": "original",
+          "views": 462,
+          "pic": "https://i1.hdslb.com/bfs/archive/81a32013f77fb595252232dddeba224f025c7050.jpg",
+          "checked_at": "2026-11-10T17:41:12.171914+00:00"
+        }
+      ]
+    },
+    {
       "id": "EACkiMRT0pc",
       "title": "The 100 Year Flood Is Not What You Think It Is (Maybe)",
       "author": "Practical Engineering",
@@ -36385,6 +37034,41 @@
           "views": 5748,
           "pic": "https://i0.hdslb.com/bfs/archive/9fae7be5d98682f5e9e33205ecf7e37e184c5a4b.jpg",
           "checked_at": "2026-11-07T05:27:40.260007+00:00"
+        }
+      ]
+    },
+    {
+      "id": "EH6vE97qIP4",
+      "title": "1. Introduction for 15.S12 Blockchain and Money, Fall 2018",
+      "author": "MIT OpenCourseWare",
+      "source_url": "https://www.youtube.com/watch?v=EH6vE97qIP4",
+      "summary": "The opening lecture of MIT's Blockchain and Money course taught by Gary Gensler, covering the course plan, the history of failed digital currencies, cryptography and what a blockchain is.",
+      "why": "Recommended as a solid, level-headed academic introduction to blockchain, often noted because Gensler later led the SEC.",
+      "score": 2.0,
+      "tags": [
+        "blockchain",
+        "bitcoin",
+        "mit opencourseware",
+        "gary gensler",
+        "cryptocurrency"
+      ],
+      "categories": [
+        "cryptography",
+        "university-lectures",
+        "macroeconomics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV14Fc3eiEFj",
+          "page": 1,
+          "cid": 27831175105,
+          "title": "【麻省理工】MIT15.S12 区块链与金钱（Blockchain and Money Fall 2018）",
+          "up": "Mindofuture",
+          "duration": 3724,
+          "kind": "original",
+          "views": 11114,
+          "pic": "https://i0.hdslb.com/bfs/archive/022b11f54e802d07b68e9b7fd8e8be1d813299d9.jpg",
+          "checked_at": "2026-11-13T21:58:21.654155+00:00"
         }
       ]
     },
@@ -37040,6 +37724,40 @@
           "views": 388,
           "pic": "https://i2.hdslb.com/bfs/archive/0a5f817dc9528dc1c207427e7eaba7dbf279e4de.jpg",
           "checked_at": "2026-11-07T05:27:43.428627+00:00"
+        }
+      ]
+    },
+    {
+      "id": "LLCF7vPanrY",
+      "title": "A Time-Lapse Map of Every Nuclear Explosion Since 1945 - by  Isao Hashimoto",
+      "author": "aConcernedHuman",
+      "source_url": "https://www.youtube.com/watch?v=LLCF7vPanrY",
+      "summary": "Isao Hashimoto's time-lapse map shows all 2053 nuclear explosions between 1945 and 1998, with each nation getting a blip and a running tally. Each second represents one month.",
+      "why": "Used as a striking visualization of the sheer scale and rhythm of nuclear testing, and as a model for conveying scale with a counter.",
+      "score": 2.0,
+      "tags": [
+        "nuclear weapons",
+        "time-lapse",
+        "data visualization",
+        "cold war",
+        "art"
+      ],
+      "categories": [
+        "data-visualization",
+        "military-warfare"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1sJ411X714",
+          "page": 1,
+          "cid": 131968684,
+          "title": "A Time-Lapse Map of Every Nuclear Explosion Since 1945（自1945年以来全球发生的核爆）",
+          "up": "YAOTUBER",
+          "duration": 865,
+          "kind": "original",
+          "views": 203,
+          "pic": "https://i0.hdslb.com/bfs/archive/ad8f9f895cee47f1d80b223b90848fe7db4dedda.png",
+          "checked_at": "2026-11-10T17:53:10.761029+00:00"
         }
       ]
     },
@@ -37964,6 +38682,39 @@
       ]
     },
     {
+      "id": "Um63OQz3bjo",
+      "title": "What is Bitcoin? (v1)",
+      "author": "WeUseCoins",
+      "source_url": "https://www.youtube.com/watch?v=Um63OQz3bjo",
+      "summary": "A two-minute animated introduction to Bitcoin from 2011, explaining it as a peer-to-peer digital currency. It was widely shared in Bitcoin's early days as the standard newcomer explainer.",
+      "why": "HN commenters sent it to newcomers as a short, simple first explanation of Bitcoin.",
+      "score": 2.0,
+      "tags": [
+        "bitcoin",
+        "digital currency",
+        "peer-to-peer",
+        "payments",
+        "introduction"
+      ],
+      "categories": [
+        "cryptography"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1GW411e7yC",
+          "page": 1,
+          "cid": 30545227,
+          "title": "What is Bitcoin? (v1)",
+          "up": "Asuka_Jp",
+          "duration": 104,
+          "kind": "original",
+          "views": 152,
+          "pic": "https://i0.hdslb.com/bfs/archive/5be254fd4b1649fd8cb32fef0df342cda12dce88.jpg",
+          "checked_at": "2026-11-10T18:06:51.657967+00:00"
+        }
+      ]
+    },
+    {
       "id": "VVV4xeWBIxE",
       "title": "Primitive Technology: Forge Blower",
       "author": "Primitive Technology",
@@ -38571,6 +39322,40 @@
       ]
     },
     {
+      "id": "eKtsY7hYTPg",
+      "title": "ShaderToy LiveCoding - The Drive Home - 1. Basic Setup",
+      "author": "The Art of Code",
+      "source_url": "https://www.youtube.com/watch?v=eKtsY7hYTPg",
+      "summary": "The first part of a ShaderToy live-coding series that lays the groundwork for The Drive Home, a rainy night-traffic shader. It covers basic setup and builds toward rain and bokeh effects.",
+      "why": "Recommended in shader and rain-simulation threads as an engaging tutorial from a well-liked graphics-programming channel.",
+      "score": 2.0,
+      "tags": [
+        "shadertoy",
+        "glsl",
+        "rain effect",
+        "webgl",
+        "live coding"
+      ],
+      "categories": [
+        "creative-coding-generative-art",
+        "computer-graphics-rendering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1su4y1n7Ac",
+          "page": 1,
+          "cid": 1308293691,
+          "title": "Shadertoy教程 - The Drive Home - 1. Basic Setup【中文字幕】",
+          "up": "上门乐子",
+          "duration": 939,
+          "kind": "sub_zh",
+          "views": 66,
+          "pic": "https://i1.hdslb.com/bfs/archive/8a07fb5b5745ee4f568a5cd0a1b4add18e4d5a85.jpg",
+          "checked_at": "2026-11-10T18:23:46.028275+00:00"
+        }
+      ]
+    },
+    {
       "id": "ed2FWNWwE3I",
       "title": "Quants | The Alchemists of Wall Street | VPRO documentary",
       "author": "vpro documentary",
@@ -38601,6 +39386,40 @@
           "views": 32471,
           "pic": "https://i2.hdslb.com/bfs/archive/3c561632662ab8c994b7fcf600fe60f96025c44a.jpg",
           "checked_at": "2026-11-10T18:24:39.915557+00:00"
+        }
+      ]
+    },
+    {
+      "id": "esPRsT-lmw8",
+      "title": "The most important lesson from 83,000 brain scans | Daniel Amen | TEDxOrangeCoast",
+      "author": "TEDx Talks",
+      "source_url": "https://www.youtube.com/watch?v=esPRsT-lmw8",
+      "summary": "Psychiatrist Daniel Amen discusses lessons from 83,000 brain scans, arguing that brain activity patterns relate to psychological symptoms and that you can improve your brain.",
+      "why": "HN cites it in depression and brain health threads for its message that the brain can be improved, and that brain injury is common and overlooked.",
+      "score": 2.0,
+      "tags": [
+        "brain scans",
+        "spect imaging",
+        "brain injury",
+        "depression",
+        "ted talk"
+      ],
+      "categories": [
+        "neuroscience-brain",
+        "mental-health-neurodiversity"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1aP411h7bW",
+          "page": 1,
+          "cid": 1256675546,
+          "title": "The most important lesson from 83,000 brain scans - Daniel Amen - TEDxOrangeCoas",
+          "up": "bili_32250073684",
+          "duration": 877,
+          "kind": "original",
+          "views": 94,
+          "pic": "https://i2.hdslb.com/bfs/archive/ac0a42ec77d9e353eefd5eef7718e8bed82388e7.jpg",
+          "checked_at": "2026-11-10T18:24:59.645234+00:00"
         }
       ]
     },
@@ -40367,6 +41186,41 @@
       ]
     },
     {
+      "id": "vT1JzLTH4G4",
+      "title": "Lecture 1 | Introduction to Convolutional Neural Networks for Visual Recognition",
+      "author": "Stanford University School of Engineering",
+      "source_url": "https://www.youtube.com/watch?v=vT1JzLTH4G4",
+      "summary": "The first lecture of Stanford's CS231n course on convolutional neural networks for visual recognition. It surveys the history and key challenges of computer vision, from the Cambrian explosion and Hubel and Wiesel to ImageNet.",
+      "why": "HN recommends the CS231n lectures as a solid, applied deep learning course for self-study.",
+      "score": 2.0,
+      "tags": [
+        "cs231n",
+        "convolutional neural networks",
+        "computer vision",
+        "stanford",
+        "imagenet"
+      ],
+      "categories": [
+        "machine-learning",
+        "computer-vision-speech",
+        "university-lectures"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1s4411W7Q3",
+          "page": 1,
+          "cid": 94242052,
+          "title": "[Stanford University] Convolutional Neural Networks for Visual Recognition",
+          "up": "元气爱抖露",
+          "duration": 3477,
+          "kind": "original",
+          "views": 1156,
+          "pic": "https://i0.hdslb.com/bfs/archive/04f6fa7259c6aade52981b132c36f9ce3ee49a1b.png",
+          "checked_at": "2026-11-10T18:51:00.526841+00:00"
+        }
+      ]
+    },
+    {
       "id": "vkYEYjintqU",
       "title": "Mitochondria: the cell's powerhouse",
       "author": "Harvard Online",
@@ -40545,6 +41399,41 @@
           "views": 68,
           "pic": "https://i1.hdslb.com/bfs/archive/d37bd38ed4224e267ee0d0f522714f3dcc5924da.jpg",
           "checked_at": "2026-11-09T11:19:29.884154+00:00"
+        }
+      ]
+    },
+    {
+      "id": "yCm9Ng0bbEQ",
+      "title": "Is the world getting better or worse? A look at the numbers | Steven Pinker",
+      "author": "TED",
+      "source_url": "https://www.youtube.com/watch?v=yCm9Ng0bbEQ",
+      "summary": "Steven Pinker's TED talk presents data on homicide, war, poverty and pollution to argue that the world has improved over the past decades. He frames progress as problem-solving, not inevitability.",
+      "why": "Cited as a data-backed counter to doom and pessimism about the state of the world.",
+      "score": 2.0,
+      "tags": [
+        "steven pinker",
+        "ted",
+        "statistics",
+        "optimism",
+        "history"
+      ],
+      "categories": [
+        "futurism-technology-society",
+        "world-history",
+        "data-visualization"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1UW411P7ZJ",
+          "page": 1,
+          "cid": 40562899,
+          "title": "[TED]Is the world getting better or worse_A look at the 自制字幕Steven Pinker",
+          "up": "Boniface_",
+          "duration": 1112,
+          "kind": "original",
+          "views": 3200,
+          "pic": "https://i0.hdslb.com/bfs/archive/ddc8bdcbd6092fd103e382d7db1bf798bf58fd05.jpg",
+          "checked_at": "2026-11-13T21:58:22.181497+00:00"
         }
       ]
     },
@@ -41020,6 +41909,40 @@
       ]
     },
     {
+      "id": "F6FR08VylO4",
+      "title": "Something Deeply Hidden | Sean Carroll | Talks at Google",
+      "author": "Talks at Google",
+      "source_url": "https://www.youtube.com/watch?v=F6FR08VylO4",
+      "summary": "Sean Carroll's Talks at Google presentation of his book Something Deeply Hidden. He gives an accessible introduction to quantum mechanics and argues for the many-worlds interpretation and the emergence of spacetime.",
+      "why": "Recommended as an approachable case that the Everett (many-worlds) interpretation is the simplest reading of quantum mechanics.",
+      "score": 1.5,
+      "tags": [
+        "sean carroll",
+        "many-worlds",
+        "quantum mechanics",
+        "wavefunction",
+        "emergent spacetime"
+      ],
+      "categories": [
+        "quantum-physics",
+        "cosmology-astrophysics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV18E411375V",
+          "page": 1,
+          "cid": 164438307,
+          "title": "Something Deeply Hidden | Sean Carroll | Talks atGoogle",
+          "up": "symptomatica",
+          "duration": 3424,
+          "kind": "original",
+          "views": 174,
+          "pic": "https://i0.hdslb.com/bfs/archive/cf3d2b0660e2ffb9c7bbdb12fb2f9e4599a5f842.jpg",
+          "checked_at": "2026-11-10T19:05:19.513224+00:00"
+        }
+      ]
+    },
+    {
       "id": "HUngLgGRJpo",
       "title": "Nuggets",
       "author": "Filmbilder & Friends",
@@ -41263,6 +42186,40 @@
       ]
     },
     {
+      "id": "OO18F4aKGzQ",
+      "title": "Brother Ali - Uncle Sam Goddamn (Official Video)",
+      "author": "Rhymesayers Entertainment",
+      "source_url": "https://www.youtube.com/watch?v=OO18F4aKGzQ",
+      "summary": "The official video for Brother Ali's 'Uncle Sam Goddamn', a politically charged rap song critiquing the United States, produced by Ant.",
+      "why": "Shared in surveillance and civil-liberties threads as a powerful rap critique of the US.",
+      "score": 1.5,
+      "tags": [
+        "brother ali",
+        "rhymesayers",
+        "protest music",
+        "hip hop",
+        "us politics"
+      ],
+      "categories": [
+        "music-performance",
+        "us-politics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1BX4y157CK",
+          "page": 1,
+          "cid": 297549070,
+          "title": "Brother Ali-Uncle Sam Goddamn",
+          "up": "账号已注销",
+          "duration": 300,
+          "kind": "original",
+          "views": 169,
+          "pic": "https://i1.hdslb.com/bfs/archive/25a5935ba4d9fc902dae6b818c30e51654d16ede.jpg",
+          "checked_at": "2026-11-10T19:09:09.509897+00:00"
+        }
+      ]
+    },
+    {
       "id": "OaGp5_Sfbss",
       "title": "'The True Cost' - Official Trailer",
       "author": "UNTOLD",
@@ -41328,6 +42285,41 @@
           "views": 274,
           "pic": "https://i0.hdslb.com/bfs/archive/f830c2e5a55da6169ea589aa64232085114da6ae.jpg",
           "checked_at": "2026-11-07T05:27:36.150438+00:00"
+        }
+      ]
+    },
+    {
+      "id": "PGqCeSjNuTY",
+      "title": "Anton: A Special-Purpose Machine That Achieves a Hundred-Fold Speedup in Biomolecular Simulations",
+      "author": "NC State",
+      "source_url": "https://www.youtube.com/watch?v=PGqCeSjNuTY",
+      "summary": "David Shaw of D. E. Shaw Research presents Anton, a special-purpose machine that speeds up biomolecular simulations about a hundred-fold. The lecture covers molecular dynamics and how simulation helps understand how drugs bind.",
+      "why": "HN points to it as an accessible, interesting talk on molecular dynamics and simulation-based drug discovery.",
+      "score": 1.5,
+      "tags": [
+        "anton",
+        "d. e. shaw",
+        "drug discovery",
+        "special-purpose hardware",
+        "protein simulation"
+      ],
+      "categories": [
+        "computer-architecture",
+        "biology-biotech",
+        "university-lectures"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1rv411M7Nh",
+          "page": 1,
+          "cid": 443392307,
+          "title": "Anton_ A Special-Purpose Machine That Achieves a Hundred-Fold Speedup i",
+          "up": "晴天likmi",
+          "duration": 4835,
+          "kind": "original",
+          "views": 26,
+          "pic": "https://i0.hdslb.com/bfs/archive/37c95a6e43a51e36b9d7b71b2245634081625d92.jpg",
+          "checked_at": "2026-11-10T19:10:13.333250+00:00"
         }
       ]
     },
@@ -41871,6 +42863,41 @@
       ]
     },
     {
+      "id": "pyMNIFZTQkg",
+      "title": "A CGI 3D Short Film: \"Dead Hand: FortressFortress/Крепость\" - by Dima Fedotov | TheCGBros",
+      "author": "TheCGBros",
+      "source_url": "https://www.youtube.com/watch?v=pyMNIFZTQkg",
+      "summary": "A 3-minute CGI animated sci-fi short by Dima Fedotov. An automated war system keeps a lone bomber attacking a long-dead city after humanity has been wiped out, until life finds a way to survive.",
+      "why": "Cited as a vivid illustration of autonomous weapons and machines that keep running after their creators are gone.",
+      "score": 1.5,
+      "tags": [
+        "cgi short film",
+        "sci-fi",
+        "autonomous war",
+        "dystopia",
+        "animation"
+      ],
+      "categories": [
+        "animation-vfx",
+        "ai-safety-impact",
+        "military-warfare"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1MtQVYXEtp",
+          "page": 1,
+          "cid": 28811920517,
+          "title": "A CGI 3D Short Film: \"Dead Hand: FortressFortress/Крепость\" - by Dima Fedotov",
+          "up": "螺旋桨t",
+          "duration": 168,
+          "kind": "original",
+          "views": 55,
+          "pic": "https://i2.hdslb.com/bfs/archive/bf6e7f235189847ef3cadb617d8b1c42507839d2.jpg",
+          "checked_at": "2026-11-10T19:22:27.219909+00:00"
+        }
+      ]
+    },
+    {
       "id": "v3XcQtoja_Y",
       "title": "Facebook's Prototype VR Face Tracking Got Even Better",
       "author": "UploadVR",
@@ -41901,6 +42928,40 @@
           "views": 1876,
           "pic": "https://i0.hdslb.com/bfs/archive/4f9e6b5fe940132d4f499604133c5a04b2fac2d9.jpg",
           "checked_at": "2026-11-07T05:28:09.890326+00:00"
+        }
+      ]
+    },
+    {
+      "id": "wzFhBGKU6HA",
+      "title": "IBM RFID Commercial-The Future Supermarket",
+      "author": "David Preece",
+      "source_url": "https://www.youtube.com/watch?v=wzFhBGKU6HA",
+      "summary": "A 2006 IBM commercial depicting a future supermarket where shoppers walk out and RFID automatically charges them for their items.",
+      "why": "HN commenters cite it as proof that walk-out shopping was envisioned long before Amazon's version, and as an appealing vision of the future.",
+      "score": 1.5,
+      "tags": [
+        "rfid",
+        "commercial",
+        "self-checkout",
+        "ibm",
+        "retail"
+      ],
+      "categories": [
+        "futurism-technology-society",
+        "business-economics-other"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Ss411Y78e",
+          "page": 1,
+          "cid": 12146488,
+          "title": "IBM RFID Commercial - The Future Market",
+          "up": "小众软件",
+          "duration": 61,
+          "kind": "original",
+          "views": 650,
+          "pic": "https://i2.hdslb.com/bfs/archive/57b394f9a873776922bdc8bc3e87c17efc2af951.jpg",
+          "checked_at": "2026-11-10T19:26:07.068777+00:00"
         }
       ]
     },
@@ -42102,6 +43163,39 @@
       ]
     },
     {
+      "id": "-E6vHCT0wpw",
+      "title": "Can Japanese People Read Chinese? (Kanji)",
+      "author": "That Japanese Man Yuta",
+      "source_url": "https://www.youtube.com/watch?v=-E6vHCT0wpw",
+      "summary": "Yuta, a Japanese YouTuber, explains whether Japanese speakers can read Chinese text. He shows how shared kanji let people guess meanings while the two languages remain completely different.",
+      "why": "Cited in threads on writing systems and CJK characters as an entertaining test of how much Japanese people can understand of Chinese.",
+      "score": 1.0,
+      "tags": [
+        "kanji",
+        "japanese",
+        "chinese",
+        "writing systems",
+        "linguistics"
+      ],
+      "categories": [
+        "language-linguistics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1R64y1G75v",
+          "page": 1,
+          "cid": 1364214072,
+          "title": "Can Japanese People Read Chinese",
+          "up": "鹦鹉乐园",
+          "duration": 577,
+          "kind": "original",
+          "views": 579,
+          "pic": "https://i0.hdslb.com/bfs/archive/69b28ef9bfd32d65f033302679598e93f53122cb.jpg",
+          "checked_at": "2026-11-10T19:28:43.398390+00:00"
+        }
+      ]
+    },
+    {
       "id": "-ZDZtBRTyeI",
       "title": "Why American public transit is so bad | 2020 Election",
       "author": "Vox",
@@ -42131,6 +43225,39 @@
           "views": 308131,
           "pic": "https://i1.hdslb.com/bfs/archive/e32500db36724af37325f56860e06557a6d46348.jpg",
           "checked_at": "2026-11-07T05:27:43.863744+00:00"
+        }
+      ]
+    },
+    {
+      "id": "0XlO39kCQ-8",
+      "title": "They Might Be Giants - Istanbul (Not Constantinople) (Official Music Video)",
+      "author": "RHINO",
+      "source_url": "https://www.youtube.com/watch?v=0XlO39kCQ-8",
+      "summary": "The official music video for They Might Be Giants' \"Istanbul (Not Constantinople)\" from the 1990 album Flood.",
+      "why": "Mostly posted as a catchy reference or joke in threads about Istanbul or Constantinople, and as a favorite song.",
+      "score": 1.0,
+      "tags": [
+        "they might be giants",
+        "flood",
+        "istanbul",
+        "music video",
+        "90s"
+      ],
+      "categories": [
+        "music-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1NQx5zNE8Y",
+          "page": 1,
+          "cid": 32873513103,
+          "title": "Istanbul (Not Constantinople)-They Might Be Giants",
+          "up": "华纳音乐国际",
+          "duration": 155,
+          "kind": "original",
+          "views": 96,
+          "pic": "https://i2.hdslb.com/bfs/archive/08705051695574bf4ab807d18a086433682a0ae5.jpg",
+          "checked_at": "2026-11-13T15:06:40.721741+00:00"
         }
       ]
     },
@@ -42268,6 +43395,40 @@
           "views": 2688,
           "pic": "https://i2.hdslb.com/bfs/archive/f0090487eb5b0ba2bbe403d05e51bbf595d4d9b5.jpg",
           "checked_at": "2026-11-13T15:21:24.566361+00:00"
+        }
+      ]
+    },
+    {
+      "id": "1kQUXpZpLXI",
+      "title": "14nm and 7nm are NOT what you think it is - Visiting Tescan Part 3/3",
+      "author": "der8auer",
+      "source_url": "https://www.youtube.com/watch?v=1kQUXpZpLXI",
+      "summary": "Der8auer visits Tescan and uses an electron microscope to compare real transistor sizes on Intel 14nm and AMD 7nm chips. It shows that process node names do not match physical measurements.",
+      "why": "HN cites it as visual evidence that nm node names are marketing labels and for its neat electron microscope comparison.",
+      "score": 1.0,
+      "tags": [
+        "14nm",
+        "7nm",
+        "electron microscope",
+        "transistors",
+        "intel vs amd"
+      ],
+      "categories": [
+        "semiconductors-manufacturing",
+        "computer-architecture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1rT4y1A7Vb",
+          "page": 1,
+          "cid": 238369552,
+          "title": "14nm and 7nm are NOT what you think it is",
+          "up": "冠状熊",
+          "duration": 1209,
+          "kind": "original",
+          "views": 1519,
+          "pic": "https://i1.hdslb.com/bfs/archive/d673e3c2c0f3b81ea8a541d00553cc1c2d0ee3df.jpg",
+          "checked_at": "2026-11-13T15:21:24.603845+00:00"
         }
       ]
     },
@@ -42712,6 +43873,75 @@
           "views": 4181,
           "pic": "https://i2.hdslb.com/bfs/archive/da1b4ef19e0fdc28592703cda6cea1e261b57118.jpg",
           "checked_at": "2026-11-13T16:15:37.134171+00:00"
+        }
+      ]
+    },
+    {
+      "id": "8Gv0H-vPoDc",
+      "title": "\"Weird Al\" Yankovic - Word Crimes (Official 4K Video)",
+      "author": "alyankovicVEVO",
+      "source_url": "https://www.youtube.com/watch?v=8Gv0H-vPoDc",
+      "summary": "Weird Al Yankovic's 2014 parody of 'Blurred Lines' that scolds common grammar and usage errors, with a kinetic typography video. It is a catchy music video about language mistakes.",
+      "why": "HN mostly drops it jokingly in threads about grammar, apostrophes and language, and occasionally discusses the animated video's making.",
+      "score": 1.0,
+      "tags": [
+        "weird al",
+        "grammar",
+        "kinetic typography",
+        "parody",
+        "language"
+      ],
+      "categories": [
+        "satire-parody",
+        "graphic-design-typography",
+        "language-linguistics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1wx411M7bM",
+          "page": 1,
+          "cid": 1966406,
+          "title": "Weird Al- Yankovic - Word Crimes有意思的MV",
+          "up": "XXXXMMXIII",
+          "duration": 225,
+          "kind": "original",
+          "views": 1956,
+          "pic": "https://i1.hdslb.com/bfs/archive/d277a6ea84288f812a14f058bd15661354f9668a.jpg",
+          "checked_at": "2026-11-13T16:15:37.161798+00:00"
+        }
+      ]
+    },
+    {
+      "id": "8Q5Nur642BU",
+      "title": "A Trip Down Market Street, 1906 - With Sound!",
+      "author": "Mike Upchurch",
+      "source_url": "https://www.youtube.com/watch?v=8Q5Nur642BU",
+      "summary": "A sound-designed restoration of the Miles brothers' 1906 film shot from a cable car down Market Street in San Francisco, four days before the earthquake. It shows streetcars, horse carts, cars and pedestrians mixing freely.",
+      "why": "Cited in street-safety and self-driving threads as a picture of chaotic, shared streets before cars dominated.",
+      "score": 1.0,
+      "tags": [
+        "san francisco 1906",
+        "market street",
+        "archival film",
+        "pedestrians",
+        "urban history"
+      ],
+      "categories": [
+        "world-history",
+        "transit-urbanism"
+      ],
+      "versions": [
+        {
+          "bvid": "BV11W411B77h",
+          "page": 2,
+          "cid": 38952368,
+          "title": "【1906年实况电影】地震前的旧金山市场街 A Trip Down Market Street Before the Fire (1906)",
+          "up": "IceCreamSandwich",
+          "duration": 711,
+          "kind": "original",
+          "views": 1692,
+          "pic": "https://i0.hdslb.com/bfs/archive/1e17f8c5453b85d2925814585f438f8f98410d70.jpg",
+          "checked_at": "2026-11-13T16:15:37.193208+00:00"
         }
       ]
     },
@@ -43194,6 +44424,39 @@
       ]
     },
     {
+      "id": "Ds-v2-qyCc8",
+      "title": "Throwing Good Money After Bad Car Infrastructure - Wonderland Road",
+      "author": "Not Just Bikes",
+      "source_url": "https://www.youtube.com/watch?v=Ds-v2-qyCc8",
+      "summary": "Not Just Bikes looks at the cancelled plan to spend over $200 million widening Wonderland Road, a stroad in his hometown of London, Ontario. He asks whether the cancellation marks a turning point away from car-dependent development.",
+      "why": "Mentioned in threads on stroads and road safety as an example of the channel's critique of wasteful car infrastructure.",
+      "score": 1.0,
+      "tags": [
+        "stroads",
+        "urban planning",
+        "road widening",
+        "london ontario",
+        "car dependency"
+      ],
+      "categories": [
+        "transit-urbanism"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Rb411o7RN",
+          "page": 1,
+          "cid": 1054235353,
+          "title": "花大钱建差劲的交通设施 Wonderland Road-Good Money & Bad Car Infrastructure(Not Just Bikes)",
+          "up": "IVEvolution",
+          "duration": 668,
+          "kind": "original",
+          "views": 239,
+          "pic": "https://i0.hdslb.com/bfs/archive/5efa7d64bdfc00ef9bfd2aff9294a972286b331c.jpg",
+          "checked_at": "2026-11-13T17:23:55.843256+00:00"
+        }
+      ]
+    },
+    {
       "id": "E7MQb9Y4FAE",
       "title": "Elon Musk Explains SpaceX's Raptor Engine!",
       "author": "Everyday Astronaut",
@@ -43577,6 +44840,41 @@
           "views": 4833,
           "pic": "https://i2.hdslb.com/bfs/archive/63ce07d92971b6e6aa9931c9adbd765779a0304f.png",
           "checked_at": "2026-11-07T05:27:43.434132+00:00"
+        }
+      ]
+    },
+    {
+      "id": "JRcXUuQYR90",
+      "title": "Mojo Lang - Tomorrow's High Performance Python? (with Chris Lattner)",
+      "author": "Developer Voices",
+      "source_url": "https://www.youtube.com/watch?v=JRcXUuQYR90",
+      "summary": "Developer Voices interviews Chris Lattner about Mojo, a Python-compatible language aimed at CPU/GPU performance built on LLVM and MLIR. It covers performance features, the type system and why Mojo uses Python syntax.",
+      "why": "Pointed to as a general-purpose interview on Mojo's goals and design from its creator.",
+      "score": 1.0,
+      "tags": [
+        "mojo",
+        "chris lattner",
+        "python",
+        "llvm",
+        "mlir"
+      ],
+      "categories": [
+        "programming-language-design",
+        "compilers-interpreters",
+        "scripting-languages"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1mm411C7kd",
+          "page": 1,
+          "cid": 1529296925,
+          "title": "LLVM/Swift/Mojo语言创始人：极高性能的Python? Mojo Lang-Tomorrow's High Performance Python？",
+          "up": "泉水叮咚寒山寺",
+          "duration": 5079,
+          "kind": "original",
+          "views": 1451,
+          "pic": "https://i1.hdslb.com/bfs/archive/067be9bf29c54bad665473acfada8e5a1827c2d6.png",
+          "checked_at": "2026-11-13T18:18:49.670594+00:00"
         }
       ]
     },
@@ -44688,6 +45986,41 @@
           "views": 12,
           "pic": "https://i1.hdslb.com/bfs/archive/0b25aecce796c05f9f0c4d4e01e031152d75204f.jpg",
           "checked_at": "2026-11-13T20:08:47.300903+00:00"
+        }
+      ]
+    },
+    {
+      "id": "STKCRSUsyP0",
+      "title": "The Many Meanings of Event-Driven Architecture • Martin Fowler • GOTO 2017",
+      "author": "GOTO Conferences",
+      "source_url": "https://www.youtube.com/watch?v=STKCRSUsyP0",
+      "summary": "Martin Fowler's GOTO Chicago 2017 talk on the different things people mean by event-driven architecture. He identifies four patterns, including event notification and event-carried state transfer.",
+      "why": "Cited as a useful taxonomy for pinning down what an event-driven design actually is.",
+      "score": 1.0,
+      "tags": [
+        "martin fowler",
+        "event sourcing",
+        "messaging",
+        "software architecture",
+        "patterns"
+      ],
+      "categories": [
+        "software-architecture-design",
+        "databases-storage",
+        "distributed-systems"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1y8411t7VJ",
+          "page": 1,
+          "cid": 837533147,
+          "title": "The Many Meanings of Event-Driven Architecture by Martin Fowler",
+          "up": "Wisehands",
+          "duration": 3006,
+          "kind": "original",
+          "views": 55,
+          "pic": "https://i2.hdslb.com/bfs/archive/00213200b4abe36e822622021f71404ab097a59d.jpg",
+          "checked_at": "2026-11-13T20:08:47.344606+00:00"
         }
       ]
     },
@@ -48209,6 +49542,40 @@
       ]
     },
     {
+      "id": "oSCX78-8-q0",
+      "title": "A Boy And His Atom: The World's Smallest Movie",
+      "author": "IBM",
+      "source_url": "https://www.youtube.com/watch?v=oSCX78-8-q0",
+      "summary": "IBM's record-setting stop-motion film made by moving individual carbon monoxide molecules with a scanning tunneling microscope, illustrating atomic-scale memory research.",
+      "why": "Cited as a striking example of atom-level manipulation and STM imaging, including the ripples viewers ask about.",
+      "score": 1.0,
+      "tags": [
+        "scanning tunneling microscope",
+        "stop-motion",
+        "single atoms",
+        "ibm research",
+        "nanotechnology"
+      ],
+      "categories": [
+        "materials-science",
+        "documentaries-storytelling"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1hJ4m1T7HR",
+          "page": 1,
+          "cid": 1588420864,
+          "title": "IBM 国际商业机器 1911 K:itc 570304 - IBM A Boy And His Atom The Worlds Smallest Movie",
+          "up": "Thundermighty",
+          "duration": 95,
+          "kind": "original",
+          "views": 63,
+          "pic": "https://i0.hdslb.com/bfs/archive/d16b5d25fe7724b836f718b022ff7088178215a7.jpg",
+          "checked_at": "2026-11-13T21:58:52.229551+00:00"
+        }
+      ]
+    },
+    {
       "id": "obS6TUVSZds",
       "title": "EEVblog #632 - Solar Roadways Are RUBBISH!",
       "author": "EEVblog",
@@ -48874,6 +50241,41 @@
           "views": 778,
           "pic": "https://i1.hdslb.com/bfs/archive/8e06495a4a89ae89745ca7429a5767c1cf15f1a1.jpg",
           "checked_at": "2026-11-13T21:58:53.359887+00:00"
+        }
+      ]
+    },
+    {
+      "id": "tt7gP_IW-1w",
+      "title": "A$AP Mob - Yamborghini High (Official Video) ft. Juicy J",
+      "author": "asapmobVEVO",
+      "source_url": "https://www.youtube.com/watch?v=tt7gP_IW-1w",
+      "summary": "The official music video for A$AP Mob's Yamborghini High featuring Juicy J, known for heavy datamoshing and glitch effects with hue shifting.",
+      "why": "Cited as a standout example of datamoshing and codec-corruption aesthetics in threads on video compression and glitch art.",
+      "score": 1.0,
+      "tags": [
+        "datamoshing",
+        "glitch art",
+        "music video",
+        "video compression",
+        "asap mob"
+      ],
+      "categories": [
+        "music-performance",
+        "creative-coding-generative-art",
+        "audio-video-engineering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1XJ411b7ZX",
+          "page": 1,
+          "cid": 139514235,
+          "title": "Yamborghini High - A$AP Mob&Juicy J",
+          "up": "索尼音乐中国",
+          "duration": 313,
+          "kind": "original",
+          "views": 1619,
+          "pic": "https://i0.hdslb.com/bfs/archive/116237c64a83d226ce28e1bd1da98e8d1edb1ef0.jpg",
+          "checked_at": "2026-11-13T21:58:53.382835+00:00"
         }
       ]
     },
@@ -49765,6 +51167,40 @@
       ]
     },
     {
+      "id": "25ZuKkbHdqM",
+      "title": "ELON MUSK, JAY LENO AND THE 2021 CYBERTRUCK (FULL SEGMENT) | Jay Leno's Garage",
+      "author": "CNBC Ambition",
+      "source_url": "https://www.youtube.com/watch?v=25ZuKkbHdqM",
+      "summary": "Jay Leno drives the Tesla Cybertruck with Elon Musk, who talks about the design, including the stainless steel body and bulletproof doors, and Leno demos the roll-up bed cover.",
+      "why": "Cited as a primary source for what Musk said about the Cybertruck's design goals and for its huge view count.",
+      "score": 0.0,
+      "tags": [
+        "cybertruck",
+        "elon musk",
+        "jay leno",
+        "tesla",
+        "stainless steel"
+      ],
+      "categories": [
+        "automotive-ev",
+        "tech-figures-interviews"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1vz411i729",
+          "page": 1,
+          "cid": 198293025,
+          "title": "特斯拉 皮卡 ELON MUSK, JAY LENO AND THE 2021 CYBERTRUCK (FULL SEGMENT)",
+          "up": "zzzzyyyyyyyzy",
+          "duration": 380,
+          "kind": "original",
+          "views": 122,
+          "pic": "https://i1.hdslb.com/bfs/archive/5f35ec9c57abcc48c9df4a9dd69a84074ee1e4ac.jpg",
+          "checked_at": "2026-11-13T21:58:56.191273+00:00"
+        }
+      ]
+    },
+    {
       "id": "2zfqw8nhUwA",
       "title": "Apple 1984 Super Bowl Commercial Introducing Macintosh Computer (HD)",
       "author": "Robert Cole (RobertKCole)",
@@ -50239,6 +51675,40 @@
           "views": 37,
           "pic": "https://i0.hdslb.com/bfs/archive/222a31f6d661f6866f3b6c3a7bb2b3166b2875a0.jpg",
           "checked_at": "2026-11-13T21:58:57.634564+00:00"
+        }
+      ]
+    },
+    {
+      "id": "6epzmRZk6UU",
+      "title": "The Art of Noise with Max Headroom - Paranoimia (Official Video)",
+      "author": "Art Of Noise",
+      "source_url": "https://www.youtube.com/watch?v=6epzmRZk6UU",
+      "summary": "The official 1986 music video for Paranoimia by Art of Noise featuring the computer-generated TV personality Max Headroom. It is a synth-pop and sampling-era piece of 80s pop culture.",
+      "why": "HN mentions it mostly as a reference point in Max Headroom threads, as the essential Art of Noise tie-in to that 80s character.",
+      "score": 0.0,
+      "tags": [
+        "max headroom",
+        "art of noise",
+        "1980s",
+        "music video",
+        "electronic music"
+      ],
+      "categories": [
+        "music-performance",
+        "animation-vfx"
+      ],
+      "versions": [
+        {
+          "bvid": "BV15W411X7Xq",
+          "page": 1,
+          "cid": 185846679,
+          "title": "ART OF NOISE feat. MAX HEADROOM - Paranoimia",
+          "up": "摸鲨被浪卷走",
+          "duration": 206,
+          "kind": "original",
+          "views": 34497,
+          "pic": "https://i2.hdslb.com/bfs/archive/c795f0be80c53c7e2228d4b2d30fe590556ca565.jpg",
+          "checked_at": "2026-11-13T21:58:57.685847+00:00"
         }
       ]
     },
@@ -51407,6 +52877,39 @@
           "views": 1368,
           "pic": "https://i2.hdslb.com/bfs/archive/c60714f6ce3916ff5f109b16e5d6936ff9987b82.jpg",
           "checked_at": "2026-11-13T21:59:01.501509+00:00"
+        }
+      ]
+    },
+    {
+      "id": "F4IGl4OizM4",
+      "title": "How the 737 MAX 10 landing gear works",
+      "author": "GeekWire",
+      "source_url": "https://www.youtube.com/watch?v=F4IGl4OizM4",
+      "summary": "A short Boeing-supplied clip where the 737 MAX program's chief project engineer explains how the lengthened landing gear of the MAX 10 folds up. It shows the gear model in motion.",
+      "why": "Used as a concrete illustration of the commonality constraints that forced Boeing's 737 MAX design choices.",
+      "score": 0.0,
+      "tags": [
+        "boeing",
+        "737 max",
+        "landing gear",
+        "aircraft engineering"
+      ],
+      "categories": [
+        "aviation",
+        "mechanical-engineering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1dW41167i4",
+          "page": 1,
+          "cid": 56151401,
+          "title": "Boeing 737 MAX 10 Landing Gear",
+          "up": "Aerostriker",
+          "duration": 93,
+          "kind": "original",
+          "views": 2227,
+          "pic": "https://i0.hdslb.com/bfs/archive/f64f6e63c5fc06fb9da8685d23abb0a9a7471f74.jpg",
+          "checked_at": "2026-11-13T21:59:01.622587+00:00"
         }
       ]
     },
@@ -52606,6 +54109,73 @@
       ]
     },
     {
+      "id": "LqxbsADqDI4",
+      "title": "WWDC24: Go small with Embedded Swift | Apple",
+      "author": "Apple Developer",
+      "source_url": "https://www.youtube.com/watch?v=LqxbsADqDI4",
+      "summary": "An Apple WWDC24 session introducing Embedded Swift, a subset of Swift with no runtime that targets tiny microcontrollers. It demonstrates the idea on an off-the-shelf Matter smart home device.",
+      "why": "HN cites it as Apple's own explanation of why Embedded Swift exists and what it targets.",
+      "score": 0.0,
+      "tags": [
+        "swift",
+        "microcontrollers",
+        "wwdc",
+        "matter",
+        "memory safety"
+      ],
+      "categories": [
+        "embedded-diy-electronics",
+        "programming-language-design",
+        "compilers-interpreters"
+      ],
+      "versions": [
+        {
+          "bvid": "BV16pXKBjEN7",
+          "page": 1,
+          "cid": 37019979322,
+          "title": "WWDC24：利用 Embedded Swift 实现轻量级开发｜Apple",
+          "up": "Apple开发者",
+          "duration": 1337,
+          "kind": "original",
+          "views": 1282,
+          "pic": "https://i0.hdslb.com/bfs/archive/8daff372aa524a5c61ef4bb4f27062b16cff347d.jpg",
+          "checked_at": "2026-11-13T21:59:04.999232+00:00"
+        }
+      ]
+    },
+    {
+      "id": "My2FRPA3Gf8",
+      "title": "Miley Cyrus - Wrecking Ball (Official Video)",
+      "author": "MileyCyrusVEVO",
+      "source_url": "https://www.youtube.com/watch?v=My2FRPA3Gf8",
+      "summary": "The official music video for Miley Cyrus's song Wrecking Ball. It is a mainstream pop video that became hugely popular on YouTube.",
+      "why": "HN mentions it mainly as an example of a hugely viewed pop video, not as something to watch.",
+      "score": 0.0,
+      "tags": [
+        "miley cyrus",
+        "music video",
+        "view counts",
+        "pop"
+      ],
+      "categories": [
+        "music-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1294y167uW",
+          "page": 1,
+          "cid": 1234723855,
+          "title": "百万级装备试听 Wrecking Ball - Miley Cyrus 麦莉 【Hi-Res】",
+          "up": "JLRS日落fm",
+          "duration": 224,
+          "kind": "original",
+          "views": 152608,
+          "pic": "https://i2.hdslb.com/bfs/archive/04dc8055f4a81ce6ae80ce32fa83469ce4b6b7a4.jpg",
+          "checked_at": "2026-11-11T18:39:00.684960+00:00"
+        }
+      ]
+    },
+    {
       "id": "N5xfBtD6rLY",
       "title": "Military Recruitment and Hollywood",
       "author": "Pop Culture Detective",
@@ -53534,6 +55104,39 @@
       ]
     },
     {
+      "id": "VMqcLUqYqrs",
+      "title": "Why America is NOT the greatest country in the world, anymore.",
+      "author": "AbuWadee3",
+      "source_url": "https://www.youtube.com/watch?v=VMqcLUqYqrs",
+      "summary": "A short clip, apparently the opening scene of the TV series The Newsroom, in which a character answers why America is not the greatest country in the world. It is a brief political monologue.",
+      "why": "Cited as a quick reference to that Newsroom monologue when a thread touches on American decline.",
+      "score": 0.0,
+      "tags": [
+        "the newsroom",
+        "tv clip",
+        "politics",
+        "monologue"
+      ],
+      "categories": [
+        "film-tv-clips",
+        "us-politics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Ha411B72E",
+          "page": 1,
+          "cid": 485380212,
+          "title": "America's Not the Greatest Country in the World Anymore ……",
+          "up": "有些事得谈谈了",
+          "duration": 290,
+          "kind": "original",
+          "views": 739,
+          "pic": "https://i2.hdslb.com/bfs/archive/669a6d49fd694ab46c20e11db654425cecec97ec.jpg",
+          "checked_at": "2026-11-13T21:59:09.421251+00:00"
+        }
+      ]
+    },
+    {
       "id": "VQPIdZvoV4g",
       "title": "Monty Python - The Machine that goes PING!",
       "author": "Sublimate",
@@ -54395,6 +55998,71 @@
       ]
     },
     {
+      "id": "bMJaMy-0ChA",
+      "title": "The Best Kind of Dutch Cycling Infrastructure",
+      "author": "Not Just Bikes",
+      "source_url": "https://www.youtube.com/watch?v=bMJaMy-0ChA",
+      "summary": "Not Just Bikes explains Dutch bicycle-only roads, which let people travel long distances in and out of cities with almost no car interaction. It shows how this changes cycling from a chore into something enjoyable.",
+      "why": "HN commenters use it as an example of segregated bike infrastructure and of how quiet and pleasant car-free streets are.",
+      "score": 0.0,
+      "tags": [
+        "netherlands",
+        "bike roads",
+        "urban planning",
+        "cycling",
+        "car-free"
+      ],
+      "categories": [
+        "transit-urbanism"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Gc411L7yB",
+          "page": 1,
+          "cid": 1069402135,
+          "title": "荷兰的自行车基础设施 The Best Dutch Cycling Infrastructure (Not Just Bikes)",
+          "up": "IVEvolution",
+          "duration": 322,
+          "kind": "original",
+          "views": 965,
+          "pic": "https://i0.hdslb.com/bfs/archive/462828ec2e19b809e160421c8d672dd65855ebe5.jpg",
+          "checked_at": "2026-11-13T21:58:21.879856+00:00"
+        }
+      ]
+    },
+    {
+      "id": "bNpx7gpSqbY",
+      "title": "The single biggest reason why start-ups succeed | Bill Gross | TED",
+      "author": "TED",
+      "source_url": "https://www.youtube.com/watch?v=bNpx7gpSqbY",
+      "summary": "Bill Gross, who has founded and incubated many start-ups, ranked hundreds of companies on five factors. He presents the one factor that stood out as the biggest predictor of success.",
+      "why": "HN commenters cite it for its finding that timing is the most important factor in startup success.",
+      "score": 0.0,
+      "tags": [
+        "startups",
+        "timing",
+        "ted talk",
+        "entrepreneurship"
+      ],
+      "categories": [
+        "startups-entrepreneurship"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1LE411b71J",
+          "page": 1,
+          "cid": 127253245,
+          "title": "【TED生肉】The single biggest reason why startups succeed _ Bill Gross",
+          "up": "機械奶油貓",
+          "duration": 401,
+          "kind": "original",
+          "views": 1320,
+          "pic": "https://i0.hdslb.com/bfs/archive/8caf0efccc6524ba79f27791aa3b1b8ca5007875.jpg",
+          "checked_at": "2026-11-13T21:59:12.691338+00:00"
+        }
+      ]
+    },
+    {
       "id": "bZe5J8SVCYQ",
       "title": "The Missile Knows Where It Is...",
       "author": "Jeff7181",
@@ -54734,6 +56402,40 @@
           "views": 104865,
           "pic": "https://i1.hdslb.com/bfs/archive/86d4f0c3718815ccaa6ecd23d086d5fcb3c8bacd.jpg",
           "checked_at": "2026-11-13T21:59:13.210798+00:00"
+        }
+      ]
+    },
+    {
+      "id": "dQw4w9WgXcQ",
+      "title": "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)",
+      "author": "Rick Astley",
+      "source_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "summary": "The official music video for Rick Astley's 1987 hit Never Gonna Give You Up, the song behind the Rickroll internet prank.",
+      "why": "HN mostly uses it as a Rickroll joke or as a stand-in test URL for tools handling YouTube links.",
+      "score": 0.0,
+      "tags": [
+        "rick astley",
+        "rickroll",
+        "pop music",
+        "meme",
+        "test url"
+      ],
+      "categories": [
+        "music-performance",
+        "internet-culture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1GJ411x7h7",
+          "page": 1,
+          "cid": 137649199,
+          "title": "【官方 MV】Never Gonna Give You Up - Rick Astley",
+          "up": "索尼音乐中国",
+          "duration": 213,
+          "kind": "original",
+          "views": 108430490,
+          "pic": "https://i1.hdslb.com/bfs/archive/5242750857121e05146d5d5b13a47a2a6dd36e98.jpg",
+          "checked_at": "2026-11-13T21:58:26.431707+00:00"
         }
       ]
     },
@@ -55609,6 +57311,38 @@
           "views": 3735,
           "pic": "https://i1.hdslb.com/bfs/archive/5f8ad11a528c3d5e328565c5f73944fe77ffb990.jpg",
           "checked_at": "2026-11-13T21:59:15.754844+00:00"
+        }
+      ]
+    },
+    {
+      "id": "jNQXAC9IVRw",
+      "title": "Me at the zoo",
+      "author": "jawed",
+      "source_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "summary": "The first video ever uploaded to YouTube, in April 2005. Co-founder Jawed Karim stands in front of the elephants at the San Diego Zoo for about 19 seconds.",
+      "why": "HN mentions it as a historical reference, for dates and as the first YouTube video, not as a recommendation.",
+      "score": 0.0,
+      "tags": [
+        "youtube history",
+        "jawed karim",
+        "internet history",
+        "first video"
+      ],
+      "categories": [
+        "internet-culture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV15e411N7cL",
+          "page": 1,
+          "cid": 911925205,
+          "title": "【8K】油管上第一个视频Me at the zoo",
+          "up": "极冰珠穆朗玛",
+          "duration": 20,
+          "kind": "original",
+          "views": 1914,
+          "pic": "https://i0.hdslb.com/bfs/archive/92d56810c412da833a8c75852a7e8836f7227d2c.jpg",
+          "checked_at": "2026-11-13T21:59:15.937982+00:00"
         }
       ]
     },
@@ -56765,6 +58499,40 @@
       ]
     },
     {
+      "id": "tjgtLSHhTPg",
+      "title": "Apple - Here's to the Crazy Ones (1997)",
+      "author": "vintagemacmuseum",
+      "source_url": "https://www.youtube.com/watch?v=tjgtLSHhTPg",
+      "summary": "Apple's 1997 Think Different commercial, 'Here's to the Crazy Ones', which launched the campaign after Steve Jobs returned. It celebrates misfits and unconventional thinkers.",
+      "why": "HN cites it as an example of Apple praising the word crazy, though some call it vague feel-good marketing at odds with today's Apple.",
+      "score": 0.0,
+      "tags": [
+        "apple",
+        "think different",
+        "advertising",
+        "steve jobs",
+        "1997"
+      ],
+      "categories": [
+        "tech-company-stories",
+        "product-growth-marketing"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1mx411S7Jp",
+          "page": 1,
+          "cid": 16145969,
+          "title": "Here's to the Crazy Ones 1997",
+          "up": "Sunnyboy3388",
+          "duration": 30,
+          "kind": "original",
+          "views": 2493,
+          "pic": "https://i1.hdslb.com/bfs/archive/7b9fa2fc0ac0e8c826c00b25797e7b1f6864683a.jpg",
+          "checked_at": "2026-11-13T21:59:19.475195+00:00"
+        }
+      ]
+    },
+    {
       "id": "uASUHbFEhWY",
       "title": "Futurama - eyePhone",
       "author": "Calopus",
@@ -57150,6 +58918,40 @@
       ]
     },
     {
+      "id": "wO61D9x6lNY",
+      "title": "Outside In",
+      "author": "ssgelm",
+      "source_url": "https://www.youtube.com/watch?v=wO61D9x6lNY",
+      "summary": "A 21-minute animation showing how a sphere can be turned inside out without creases or tears, known as sphere eversion.",
+      "why": "Linked as a classic visualization when sphere eversion or counterintuitive mathematics comes up.",
+      "score": 0.0,
+      "tags": [
+        "sphere eversion",
+        "topology",
+        "geometry",
+        "mathematics",
+        "visualization"
+      ],
+      "categories": [
+        "pure-mathematics",
+        "recreational-math"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1SJ4m177zR",
+          "page": 1,
+          "cid": 1476605735,
+          "title": "Outside In",
+          "up": "物理数学与逻辑",
+          "duration": 1285,
+          "kind": "original",
+          "views": 524,
+          "pic": "https://i1.hdslb.com/bfs/archive/f885432c5db1b76bee3600d2dc7788c578875fb3.png",
+          "checked_at": "2026-11-13T21:59:20.807640+00:00"
+        }
+      ]
+    },
+    {
       "id": "wmin5WkOuPw",
       "title": "The Prodigy - Firestarter (Official Video)",
       "author": "The Prodigy",
@@ -57214,6 +59016,40 @@
           "views": 863,
           "pic": "https://i0.hdslb.com/bfs/archive/d6e80191b0acf161d5191aff21bca7a210772cf0.jpg",
           "checked_at": "2026-11-13T21:59:21.115690+00:00"
+        }
+      ]
+    },
+    {
+      "id": "y0vlD7r-kTc",
+      "title": "35C3 -  How Facebook tracks you on Android",
+      "author": "media.ccc.de",
+      "source_url": "https://www.youtube.com/watch?v=y0vlD7r-kTc",
+      "summary": "A 35C3 talk by Privacy International researchers who captured and decrypted traffic between Android apps and Facebook servers. They show many apps send Facebook device and usage data immediately on launch, even for users without Facebook accounts.",
+      "why": "HN cites it as the source for how Facebook's SDK tracks Android users by default.",
+      "score": 0.0,
+      "tags": [
+        "facebook sdk",
+        "android privacy",
+        "ccc",
+        "data tracking",
+        "app analysis"
+      ],
+      "categories": [
+        "privacy-surveillance",
+        "security-hacking"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1P4411r7Ww",
+          "page": 1,
+          "cid": 113689430,
+          "title": "How Facebook tracks you on Android - Facebook是如何在安卓上跟踪你的",
+          "up": "gudsh",
+          "duration": 2617,
+          "kind": "original",
+          "views": 597,
+          "pic": "https://i2.hdslb.com/bfs/archive/1231cec7cc138cc7e41b09ad0b6494d8ccd75d05.jpg",
+          "checked_at": "2026-11-13T21:59:21.733996+00:00"
         }
       ]
     },
@@ -57857,6 +59693,7 @@
     "BV1gJykB1EJe": "2AXv49dDQJw",
     "BV1AbJi6ZEqb": "2AXv49dDQJw",
     "BV1K2EQ6BEtL": "3Fx5Q8xGU8k",
+    "BV1Rb411T7vA": "3VQ382QG-y4",
     "BV1ZDiKBuEad": "3ZTGwcHQfLY",
     "BV1FRNd6rEiF": "3ZTGwcHQfLY",
     "BV1Rh411z72p": "5TkIe60y2GI",
@@ -58145,6 +59982,7 @@
     "BV12wNPedEBQ": "zyVTxGpEO30",
     "BV1PAkLBRE3B": "-Ln-8QM8KhQ",
     "BV1PAkLBdEBC": "-Ln-8QM8KhQ",
+    "BV1Nt411p74X": "2LyzBoHo5EI",
     "BV1qW411e7hV": "4oAB83Z1ydE",
     "BV1Ps411a7mf": "7CgXvIuZR40",
     "BV12T421S7o7": "7OpM_zKGE4o",
@@ -58280,6 +60118,7 @@
     "BV1XDjL63E6d": "BrK7X_XlGB8",
     "BV1VDjL6GEgV": "BrK7X_XlGB8",
     "BV1uW411t73m": "CjVQJdIrDJ0",
+    "BV1tW4y167V7": "Cyya23MPoAI",
     "BV1VW411h7Wv": "D7Sd8A6_fYU",
     "BV11D4y1371V": "D7Sd8A6_fYU",
     "BV1dJ41197bt": "DkMwYxfSYNQ",
@@ -58303,9 +60142,11 @@
     "BV1zt411C7Gt": "IrabKK9Bhds",
     "BV1XY41177d5": "IxuU5L2MEII",
     "BV1z4411T7Aq": "JeB3JnKp8To",
+    "BV1kE41157pa": "KbB0FjPg0mw",
     "BV1Ds41147fv": "L_XJ_s5IsQc",
     "BV1Ft411J7vw": "L_XJ_s5IsQc",
     "BV1zi4y1t7R7": "L_XJ_s5IsQc",
+    "BV18g4y137Z8": "M8F5hXqS-Ac",
     "BV1fE411Z7RM": "MO0r930Sn_8",
     "BV1W7411i7cX": "OWXoRSIxyIU",
     "BV13h411y7JT": "O_azyt1JhI0",
@@ -58318,6 +60159,7 @@
     "BV1Qu4y1G7EU": "ReRcHdeUG9Y",
     "BV1yx411i7BX": "S9JGmA5_unY",
     "BV1kfEW6dEZN": "S9JGmA5_unY",
+    "BV1mx4y1U7je": "SemHh0n19LA",
     "BV1nK4y1r7Tu": "T42WuUpBuHE",
     "BV1pf4y137UX": "TVgQ_tgWMyU",
     "BV1bZ421j7GR": "TVgQ_tgWMyU",
@@ -58346,6 +60188,7 @@
     "BV1Xz4y1i7bV": "bZQun8Y4L2A",
     "BV1pv4y127xi": "cdiD-9MMpb0",
     "BV12b4y1f7T5": "cefnmjtAolY",
+    "BV1ab411A77p": "clnozSXyF4k",
     "BV1QE4m1X7bB": "czgOWmtGVGs",
     "BV1Bx411n7tN": "czgOWmtGVGs",
     "BV1Xs411Y7kb": "czgOWmtGVGs",
@@ -58426,6 +60269,7 @@
     "BV1Ps411R7Ty": "1Evwgu369Jw",
     "BV1Z7UXBhEco": "1sl5KJ69qiA",
     "BV1Jx411v7fr": "21j_OCNLuYg",
+    "BV1UddkBgEqA": "2AnbYNudAyM",
     "BV1rM411K7qb": "2JAOTJxYqh8",
     "BV1Qs411u78U": "2OSrvzNW9FE",
     "BV1zr4y1Z7RN": "46ehrFk-gLk",
@@ -58475,12 +60319,14 @@
     "BV1G24y1W7Tt": "Iq9DzN6mvYA",
     "BV1GE411G7mP": "JFaOYYSxSEA",
     "BV1R7411T7tZ": "Jkiij9dJfcw",
+    "BV1UT4y1j7De": "JsVtHqICeKE",
     "BV1L8411c71a": "JurplDfPi3U",
     "BV1Ch411A7vS": "JxI3Eu5DPwE",
     "BV1Px4y1w7S6": "KINIAgRpkDA",
     "BV1PukSBUEFZ": "KdnGPQaICjk",
     "BV14L41117Up": "KeLBd2EJLOU",
     "BV17M4y117QU": "KeLBd2EJLOU",
+    "BV1beA3z6E5a": "L3LMbpZIKhQ",
     "BV1EV411W7ub": "LNidsMesxSE",
     "BV1pq4y1j7e4": "LsGZ_2RuJ2A",
     "BV1464y1k7bY": "LsGZ_2RuJ2A",
@@ -58570,11 +60416,13 @@
     "BV1cEwye4E6r": "pdJQ8iVTwj8",
     "BV1ut421572e": "qbKGw8MQ0i8",
     "BV18KxKeWEF3": "rAl-9HwD858",
+    "BV1Js411M7ek": "sycgL3Qg_Ak",
     "BV13f4y137eu": "tTBWfkE7BXU",
     "BV1pW411W73K": "tTBWfkE7BXU",
     "BV1wa4y1L7UP": "tcdVC4e6EV4",
     "BV1iW411U7Ft": "uDqjIdI4bF4",
     "BV1eBqwBREXg": "uDqjIdI4bF4",
+    "BV1PJ411d73a": "u_ktRTWMX3M",
     "BV1kweLe4EW3": "vHWiDx_l4V0",
     "BV1rB4y1T74j": "vKA4w2O61Xo",
     "BV1rmppeUEpr": "vtWp45Eewtw",
@@ -58604,6 +60452,7 @@
     "BV1mgMN6JE9T": "2WoDQBhJCVQ",
     "BV1PB4y1H7dc": "45mMioJ5szc",
     "BV1KJ4m1b7Fm": "6reLWfFNer0",
+    "BV1eV411k79Z": "7xQQkzWhMOc",
     "BV1xh4y1T7y3": "8SF_h3xF3cE",
     "BV1qz411q7X3": "8gw0rXPMMPE",
     "BV1Y4411e7Vx": "8gw0rXPMMPE",
@@ -58649,6 +60498,7 @@
     "BV1gXsd6rEhi": "_zfN9wnPvU0",
     "BV1vs41117N4": "b9IkpUYlOx8",
     "BV17F4m1K7V3": "d6iQrh2TK98",
+    "BV17B4y1e7vG": "dngqR9gcDDw",
     "BV1yRts6SEW4": "eGnH0KAXhCw",
     "BV1SX26YQEMP": "fTznEIZRkLg",
     "BV1gx411t76H": "gLDYtH1RH-U",
@@ -58662,6 +60512,7 @@
     "BV1ws411F7bq": "jhicDUgXyNg",
     "BV1nf4y1S7sN": "jhicDUgXyNg",
     "BV1mW411e7rH": "mPZn4x3uOac",
+    "BV13K8veQE8i": "meiU6TxysCg",
     "BV1zb411h7GM": "nSKp2StlS6s",
     "BV1N5oiYbETY": "oFtjKbXKqbg",
     "BV1BD421g72C": "qEJ4hkpQW8E",
@@ -58673,6 +60524,7 @@
     "BV1VE411G7f1": "tfAnxaWiSeE",
     "BV1H7411w71j": "tvos4nORf_Y",
     "BV1b4411q743": "udlMSe5-zP8",
+    "BV117411v7QR": "w-I6XTVZXww",
     "BV1wV7s6pE26": "wO2lWmgEK1Y",
     "BV1S8411o7rn": "xUezfuy8Qpc",
     "BV1QmNX6UEZE": "y5UT04p5f7U",
@@ -58697,6 +60549,7 @@
     "BV1S3411z7Xf": "4anAwXYqLG8",
     "BV1nW421A7gZ": "4jEz03Z8azc",
     "BV1ixtNeBEB3": "5eqRuVp65eY",
+    "BV1iz411b7Nn": "5pidokakU4I",
     "BV1ix411U7Ei": "5tu32CCA_Ig",
     "BV1Zs411R7vo": "63vqob-MljQ",
     "BV17e411x7Ru": "6Af6b_wyiwI",
@@ -58713,6 +60566,7 @@
     "BV1ov2DBWESM": "9U0XVdvQwAI",
     "BV157411275m": "9U0XVdvQwAI",
     "BV1eE411B7wY": "9ZX_XCYokQo",
+    "BV1Qg4y1b7kr": "9nXop2lLDa4",
     "BV1954y1D7jk": "9qi03QawZEk",
     "BV1PS4y1L7fH": "A-fxij3zM7g",
     "BV1es411p7qb": "A0FZIwabctw",
@@ -58728,6 +60582,8 @@
     "BV1Jb41187rv": "Cwas_7H5KUs",
     "BV1z4411A7PJ": "CxHa5KaMBcM",
     "BV18x411C7PH": "DKtVpvzUF1Y",
+    "BV1EW411A7Wr": "Dar8P3r7GYA",
+    "BV14Fc3eiEFj": "EH6vE97qIP4",
     "BV1UXYXzYEkZ": "EL7Au1tzNxE",
     "BV12u4y1t7Lx": "Eg_ToU7m1MI",
     "BV127411Q73G": "Em7nqDqQ8oM",
@@ -58749,6 +60605,7 @@
     "BV1wf4y1X75w": "KdfHVcU8U7U",
     "BV1Ex421S7kn": "LKiBlGDfRU8",
     "BV18C41157za": "LKiBlGDfRU8",
+    "BV1sJ411X714": "LLCF7vPanrY",
     "BV1Lb411k76o": "LtlrITxB5qg",
     "BV1Az4y1C74y": "Lu56xVlZ40M",
     "BV17A4y1D72E": "MGfhQTbcqmA",
@@ -58777,6 +60634,7 @@
     "BV1V3411A74K": "ThjvMReOXYM",
     "BV1rA411G7qk": "UC_BCz0pzMw",
     "BV1YsZ1YiEKa": "Ufmu1WD2TSk",
+    "BV1GW411e7yC": "Um63OQz3bjo",
     "BV1Bs411Y7MW": "VVV4xeWBIxE",
     "BV1xV4y137Yv": "W6aKQ-eBFk0",
     "BV1o44y1h7JX": "WU0gvPcc3jQ",
@@ -58798,7 +60656,9 @@
     "BV1CgMWzGEYM": "dX9CGRZwD-w",
     "BV1Z7411k7Vb": "d_FEaFgJyfA",
     "BV1mW411t7i6": "d_FEaFgJyfA",
+    "BV1su4y1n7Ac": "eKtsY7hYTPg",
     "BV1GW411M7Se": "ed2FWNWwE3I",
+    "BV1aP411h7bW": "esPRsT-lmw8",
     "BV1sureBzEsW": "esUb7Zy5Oio",
     "BV1Ys4y197Yy": "ett_8wLJ87U",
     "BV1Ex411r7VJ": "evQsOFQju08",
@@ -58857,12 +60717,14 @@
     "BV1zZ4y1k7Jw": "v68zYyaEmEA",
     "BV1UM411H71S": "vI5pbDFDZyI",
     "BV1aWsRzQEVc": "vQpUV--2Jao",
+    "BV1s4411W7Q3": "vT1JzLTH4G4",
     "BV1Qt411g787": "vkYEYjintqU",
     "BV1pEf2YWEja": "wOlcB-JxkFw",
     "BV137411q78m": "xFFs9UgOAlE",
     "BV1iG411V79h": "xnqTKD8uD64",
     "BV12a411Z7eH": "xnqTKD8uD64",
     "BV12u411C7vh": "yCd3CzGSte8",
+    "BV1UW411P7ZJ": "yCm9Ng0bbEQ",
     "BV1Yz411z7aA": "yY96hTb8WgI",
     "BV1xP4y1R7zf": "zuKV2DI9-Jg",
     "BV1Xx411L7cG": "0lvMgMrNDlg",
@@ -58878,6 +60740,7 @@
     "BV1VL411w7sV": "BE77h7dmoQU",
     "BV184411o7He": "BN-34JfUrHY",
     "BV1dtPCe7Eqx": "E2MIpi8pIvY",
+    "BV18E411375V": "F6FR08VylO4",
     "BV1fx411P7cL": "HUngLgGRJpo",
     "BV1zM4y1r7My": "KT18KJouHWg",
     "BV1ZE41157iN": "Kas0tIxDvrg",
@@ -58887,8 +60750,10 @@
     "BV1HsUSBFE75": "MzRCDLre1b4",
     "BV1C7Jr66EFY": "NTfOnGZUZDk",
     "BV1ap4y1D7ML": "NfnWJUyUJYU",
+    "BV1BX4y157CK": "OO18F4aKGzQ",
     "BV1us411r774": "OaGp5_Sfbss",
     "BV11W411n75x": "PAAkCSZUG1c",
+    "BV1rv411M7Nh": "PGqCeSjNuTY",
     "BV1hD4y1Q7Up": "RGw6fXprV9U",
     "BV1oe411p7HR": "RGw6fXprV9U",
     "BV1DK4y177U4": "TjDEsGZLbio",
@@ -58906,7 +60771,9 @@
     "BV1LYUSB9E3G": "mH0oCDa74tE",
     "BV1azSkBhEAB": "mfv0V1SxbNA",
     "BV1Ms41117y2": "pmfHHLfbjNQ",
+    "BV1MtQVYXEtp": "pyMNIFZTQkg",
     "BV18x411R75q": "v3XcQtoja_Y",
+    "BV1Ss411Y78e": "wzFhBGKU6HA",
     "BV1qL411X7rB": "yFVXsjVdvmY",
     "BV1yM4y1F7MT": "ycPr5-27vSI",
     "BV1jR4y1f74B": "ycPr5-27vSI",
@@ -58916,11 +60783,14 @@
     "BV1CF41157rA": "ycPr5-27vSI",
     "BV117411L799": "-BLgS7m0W94",
     "BV1sJ411C7qq": "-BeTq99LqUo",
+    "BV1R64y1G75v": "-E6vHCT0wpw",
     "BV1ya4y1L7VN": "-ZDZtBRTyeI",
+    "BV1NQx5zNE8Y": "0XlO39kCQ-8",
     "BV1Mb411W7Gq": "0af00UcTO-c",
     "BV1Jb411G7J9": "0az7DEwG68A",
     "BV1iS9AYyEbv": "0mCsluv5FXA",
     "BV1WF411q7eR": "1ZTRb-2DZGs",
+    "BV1rT4y1A7Vb": "1kQUXpZpLXI",
     "BV1pC4y1m7fZ": "2k8fHR9jKVM",
     "BV1dT91BXEcx": "3HYw6vPR9qU",
     "BV1GT411o7Ce": "469chceiiUQ",
@@ -58934,6 +60804,8 @@
     "BV18v7p6bETX": "7aXbh9VUB3U",
     "BV1ds411L7jE": "7d9juPsv1QU",
     "BV1aW411X7kL": "86x-u-tz0MA",
+    "BV1wx411M7bM": "8Gv0H-vPoDc",
+    "BV11W411B77h": "8Q5Nur642BU",
     "BV1ue4y1o7JK": "8dT6CR9_6l4",
     "BV1234y1U7q6": "8s7NmMl_-yg",
     "BV1Zq4y1d7xr": "9KR2N_Q8ep8",
@@ -58948,6 +60820,7 @@
     "BV1PioWYdE57": "Clgl63CWOkM",
     "BV1Pv411C7zH": "Cn4vC80Pv6Q",
     "BV1bb411x7vG": "DfznnKUwywQ",
+    "BV1Rb411o7RN": "Ds-v2-qyCc8",
     "BV1xXLNzjEyK": "E7MQb9Y4FAE",
     "BV1Mk4y1R7C6": "E8kUJL04ELA",
     "BV1wc411h7PK": "EESYomdoeCs",
@@ -58960,6 +60833,7 @@
     "BV1vryLB1E5H": "IJEaMtNN_dM",
     "BV1Ds41117RS": "IJNR2EpS0jw",
     "BV1wS411P75S": "JOiGEI9pQBs",
+    "BV1mm411C7kd": "JRcXUuQYR90",
     "BV14Y411E7TS": "JaF-fq2Zn7I",
     "BV1TN9cB7EPq": "JnlULOjUhSQ",
     "BV1E7411t7VQ": "K8kua5B5K3I",
@@ -58997,6 +60871,7 @@
     "BV1bh4y1q7au": "RPdB_zdyMbM",
     "BV1ME15BiEAo": "RcVA8Nj6HEo",
     "BV1AvYo6HE2F": "S94ETUiMZwQ",
+    "BV1y8411t7VJ": "STKCRSUsyP0",
     "BV1ot411j7bZ": "SnRgW54EWwA",
     "BV1QW411i7Sk": "TlO2gcs1YvM",
     "BV1am4y1F7uU": "TlO2gcs1YvM",
@@ -59113,6 +60988,7 @@
     "BV1TN4y1H7bY": "nzCaZQqAs9I",
     "BV1ZMffYUEPP": "o0Bi-q89j5Y",
     "BV1k54y127E9": "oRLON3ddZIw",
+    "BV1hJ4m1T7HR": "oSCX78-8-q0",
     "BV1Kx411v7ap": "obS6TUVSZds",
     "BV1aP9jBAEe6": "oponIfu5L3Y",
     "BV1A3hRzpEqj": "orQKfIXMiA8",
@@ -59134,6 +61010,7 @@
     "BV12z4y117aj": "tCRPUv8V22o",
     "BV14Y41147Au": "thnXzUFJnfQ",
     "BV1iE411k7eL": "tiwVMrTLUWg",
+    "BV1XJ411b7ZX": "tt7gP_IW-1w",
     "BV1wvng6QEYz": "tybKnGZRwcU",
     "BV1J2rPYpEgV": "tybKnGZRwcU",
     "BV1cs411o7zP": "uCgnWqoP4MM",
@@ -59165,6 +61042,7 @@
     "BV1Yg4y1z7N1": "1La4QzGeaaQ",
     "BV1GG7UznErg": "1La4QzGeaaQ",
     "BV1uwnfzUEXF": "21EYKqUsPfg",
+    "BV1vz411i729": "25ZuKkbHdqM",
     "BV1sJ411k7ut": "2zfqw8nhUwA",
     "BV1Wt411V7im": "34CZjsEI1yU",
     "BV1XTxuzfENh": "3m5qxZm_JqM",
@@ -59179,6 +61057,7 @@
     "BV1mx411v7Sg": "6COvD8oynmI",
     "BV1s5411V7J9": "6WGKz2sUa0w",
     "BV1pg4y1K7Zv": "6bODiZ5bP84",
+    "BV15W411X7Xq": "6epzmRZk6UU",
     "BV1VZ4y1i7rb": "74Ig_QKndvE",
     "BV1qKDtYgEPa": "7qZl_5xHoBw",
     "BV1UZ4y137Ps": "7xH7eGFuSYI",
@@ -59215,6 +61094,7 @@
     "BV15WHf67Ebf": "DxREm3s1scA",
     "BV1CwEi6pErc": "EIyixC9NsLI",
     "BV15LpMzREhR": "ErwS24cBZPc",
+    "BV1dW41167i4": "F4IGl4OizM4",
     "BV12z4y1k7TB": "F9t3FREAZ-k",
     "BV1qx411c7y8": "FL7yD-0pqZg",
     "BV1jg411A7gQ": "FZ6lZJWL_Xk",
@@ -59254,6 +61134,8 @@
     "BV1e5411T7va": "LXb3EKWsInQ",
     "BV16s4y1S7To": "L_Guz73e6fw",
     "BV1ct411N7eR": "Lp7E973zozc",
+    "BV16pXKBjEN7": "LqxbsADqDI4",
+    "BV1294y167uW": "My2FRPA3Gf8",
     "BV1Fd4y1c7Ti": "N5xfBtD6rLY",
     "BV1bh41117j6": "N9qYF9DZPdw",
     "BV15t411w7rX": "PF7EpEnglgk",
@@ -59282,6 +61164,7 @@
     "BV1m64y1T7By": "UY9P0QSxlnI",
     "BV1q54y147ZJ": "U_o8gerare0",
     "BV1oT4y1G7XY": "Ug75diEyiA0",
+    "BV1Ha411B72E": "VMqcLUqYqrs",
     "BV1G1421t71p": "VQPIdZvoV4g",
     "BV1jW411B7Sf": "VfjjiHGuHoc",
     "BV1Nh411Z7aB": "VreG1iC65Lc",
@@ -59310,6 +61193,8 @@
     "BV1zx42127p1": "ap-BkkrRg-o",
     "BV1gD4y1o72p": "aqz-KE-bpKQ",
     "BV1QSM86fED4": "aqz-KE-bpKQ",
+    "BV1Gc411L7yB": "bMJaMy-0ChA",
+    "BV1LE411b71J": "bNpx7gpSqbY",
     "BV1os4y1K7i7": "bZe5J8SVCYQ",
     "BV1P5411878N": "bZe5J8SVCYQ",
     "BV19W411B76b": "bhtO4DsSazc",
@@ -59322,6 +61207,7 @@
     "BV1FY4y157uS": "ccyu44rsaZo",
     "BV1oc411U7E4": "cpraXaw7dyc",
     "BV1Ji4y1j7SQ": "cyN-CRNrb3E",
+    "BV1GJ411x7h7": "dQw4w9WgXcQ",
     "BV1R4411k7b2": "ddbxFi3-UO4",
     "BV1H8Yr6zEZt": "djV11Xbc914",
     "BV1Mb4y1U7Zz": "dk3oc1Hr62g",
@@ -59349,6 +61235,7 @@
     "BV1MDMzzcEkb": "iWeu2dxHRDg",
     "BV1CW411a76d": "ig3xI8dUdm0",
     "BV1MS4y1377S": "iqL1BLzn3qc",
+    "BV15e411N7cL": "jNQXAC9IVRw",
     "BV18D4y1V7GU": "jVhlJNJopOQ",
     "BV1BL411u71A": "jgYYOUC10aM",
     "BV1Pr4y167DU": "jlPEBROvR9w",
@@ -59386,6 +61273,7 @@
     "BV1Vs41167e2": "sforhbLiwLA",
     "BV1xW411L75Y": "stXgn2iZAAY",
     "BV1Wo4y1d7KP": "tWdgAMYjYSs",
+    "BV1mx411S7Jp": "tjgtLSHhTPg",
     "BV1US4y167Uf": "uASUHbFEhWY",
     "BV1RU4y1u7UM": "uUAvXYW5bmI",
     "BV1JNSwB8EvF": "ugvHCXCOmm4",
@@ -59398,8 +61286,10 @@
     "BV1sp4y1b7Qy": "wCDIYvFmgW8",
     "BV1jb41187zL": "wCrtk-pyP0I",
     "BV12M4y1N7Wd": "wCzS2FZoB-I",
+    "BV1SJ4m177zR": "wO61D9x6lNY",
     "BV1Kh411i76R": "wmin5WkOuPw",
     "BV1R4411k74L": "wsixsRI-Sz4",
+    "BV1P4411r7Ww": "y0vlD7r-kTc",
     "BV1KE411a74h": "y3RIHnK0_NE",
     "BV1iq4y1574e": "y8OnoxKotPQ",
     "BV18w411h7wc": "yDp3cB5fHXQ",

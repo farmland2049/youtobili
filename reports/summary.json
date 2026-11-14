@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-14T01:08:56.952902+00:00",
+  "updated_at": "2026-11-14T01:21:44.189851+00:00",
   "corpus": 6454,
   "processed": 6407,
-  "confirmed": 1491,
-  "coverage": 0.23101952277657267,
-  "processed_match_rate": 0.23271421882316218,
+  "confirmed": 1545,
+  "coverage": 0.23938642702200186,
+  "processed_match_rate": 0.24114250039019822,
   "statuses": {
-    "confirmed": 1491,
-    "review": 4963
+    "confirmed": 1545,
+    "review": 4909
   },
   "not_processed": 47,
   "verification_batch": {
@@ -43,8 +43,8 @@
   ],
   "candidates": 165515,
   "review_expansion_pending": 23,
-  "expanded_reviews": 4852,
-  "review_search_metadata_missing": 88,
+  "expanded_reviews": 4799,
+  "review_search_metadata_missing": 87,
   "batch": {
     "id": "20261114T001554Z",
     "selected": 1,
@@ -65,19 +65,19 @@
     "candidate_count": 39
   },
   "candidate_statuses": {
-    "confirmed": 1949,
-    "review": 163565,
+    "confirmed": 2003,
+    "review": 163511,
     "invalid": 1
   },
   "review_reasons": {
     "duration outside tolerance": 97,
     "legacy confidence is not approval": 62,
     "collection title lead; identity not yet verified": 145,
-    "collection segment identity requires review": 139,
+    "collection segment identity requires review": 131,
     "detail review deferred after primary identity confirmed": 881,
     "search duration shorter than original beyond tolerance; detail review deferred": 87285,
-    "no explicit original URL; manual identity review required; collection segment identity requires review": 1996,
-    "no explicit original URL; manual identity review required": 13877,
+    "no explicit original URL; manual identity review required; collection segment identity requires review": 1990,
+    "no explicit original URL; manual identity review required": 13837,
     "no explicit original URL; manual identity review required; duration outside tolerance": 38489,
     "no explicit original URL; manual identity review required; conflicting years; duration outside tolerance; collection segment identity requires review": 567,
     "duration outside tolerance; collection segment identity requires review": 26,

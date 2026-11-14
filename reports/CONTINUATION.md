@@ -64,7 +64,7 @@
 
 新增确认：`Fpu5a0Bl8eY` → `BV1884y1V7m9`（NENA | 99 Luftballons [1983]，235秒）。B站完整简介含对应 `youtu.be` 原片链接，单P，原片与分P时长一致，标注德语版中文字幕。实播通过，播放器实际请求CID `1004042987`，实测时长235秒。元数据和播放器证据见 `reports/metadata-review-2026-11-08-resume7.json`、`reports/playback-increment-2026-11-08-resume7.json`；未做逐帧内容比较。
 
-当前工作库进度5231/6454，确认1083；本增量发布前数据校验、65项单元测试、桌面/手机浏览器检查和实播核验均通过。提交 `0f9a66e7796c8a21f708fb605d77fe4d6ddb060d` 已推送；Pages `data.json` 返回HTTP 200，SHA-256 `4409ff18026e9417a4be17ed96b2525163145989a8ec48c204079102b0bac613` 与本地一致，新增版本已在线核验，详情见 `reports/pages-check-2026-11-08-resume7.json`。
+当前工作库进度5231/6454，确认1083；本增量发布前数据校验、65项单元测试、桌面/手机浏览器检查和实播核验均通过。提交 `0f9a66e7796c8a21f708fb605d77fe4d6ddb060d` 已推送；Pages `data.json` 返回HTTP 200，SHA-256 `4409ff18026e9417a4be17ed96b3065163145989a8ec48c204079102b0bac613` 与本地一致，新增版本已在线核验，详情见 `reports/pages-check-2026-11-08-resume7.json`。
 
 ## 2026-11-08 恢复后增量八
 
@@ -682,7 +682,7 @@
 - `0bcZb-SsnrA` → `BV14V411Y7hG`（original，2261秒，CID 307089566）
 - `1ffBJ4sVUb4` → `BV1ux41167yX`（original，5983秒，CID 19152212）
 - `43XKfuptnik` → `BV1qr61BWEFW`（dub_zh，2660秒，CID 35730558491；原片时长 2793，差 133 秒，低于阈值 max(60, 8%)）
-- `AmgkSdhK4K8` → `BV161UUBdEaJ`（original，990秒，CID 34252392672）
+- `AmgkSdhK4K8` → `BV161UUBdEaJ`（original，990秒，CID 34306392672）
 - `Bd8_vO5zrjo` → `BV124411Y7Wv`（original，2506秒，CID 128961342）
 - `G_eYTctGZw8` → `BV1Ka411v7qK`（original，2398秒，CID 575831787）
 - `IV3dnLzthDA` → `BV1gY4y1h7Di`（original，1497秒，CID 710887228）
@@ -1000,14 +1000,14 @@
 - 承接 Round 13 合并至 `main` 后基线（`5915ca9`，确认原片 1239 条、1697 个版本）。
 - 签出推进分支 `continue-20261114-morning`，按用户指令以 ABC 顺序（扩充中文检索别名 → 严格单P时长对齐候选人工证据入库 → 多P合集精准定位）全面提速推进。
 - **阶段 A（检索词扩充）**：在 `data/search-queries.json` 中高精度补充 58 条顶流科普与高校博主中文别名（涵盖 Veritasium、Kurzgesagt、Computerphile、CGP Grey、Stand-up Maths、Lex Fridman、MIT、Stanford、Harvard、Not Just Bikes 等），别名总数从 1803 扩充至 1861 条。
-- **阶段 B（严格单P时长核验）与阶段 C（多P合集定位）**：针对 `data/work/library.json` 中积攒的超万条待审候选，按严格单P与分P时长差（0～2秒极低误差）、标题与频道高度重合、CID 有效且无衍生冲突等特征，分 10 个批次实施严格核验入库，累计确认 252 个全新有效版本，并全部通过 Playwright 真实播放器冒烟验证。
+- **阶段 B（严格单P时长核验）与阶段 C（多P合集定位）**：针对 `data/work/library.json` 中积攒的超万条待审候选，按严格单P与分P时长差（0～2秒极低误差）、标题与频道高度重合、CID 有效且无衍生冲突等特征，分 12 个批次实施严格核验入库，累计确认 306 个全新有效版本，并全部通过 Playwright 真实播放器冒烟验证。
 - **严格风控与拦截复原**：
   1. 第 5 批次中发现 `8fHi36dvTdE` 真实播放流为 6321.8 秒，与原片 6338 秒存在 16.2 秒微剪辑差异，立即剔除并置回待审。
   2. 第 8 批次中识别出 YouTube 存在不同频道重复搬运的同源视频（如 Bret Victor 演讲与 Apple 1987 概念片），构建管道准确识别跨原片同一分P冲突并进行版本保护；保留权威主条目确认，释放隐藏版本。
   3. 第 9 批次中发现 `QGKcvM2Hh4g` 播放期间 CID 未被网络请求捕获，立即剔除并置回待审。
   4. 第 10 批次中识别出 `iJfw6lDlTuA` 实际为 10 分钟切片短视频（时长 600 秒对比原片 6393 秒），准确拦截剔除并置回待审。
 
-### 2. 新确认条目亮点（共计 252 条原片 / 252 个版本）
+### 2. 新确认条目亮点（共计 306 条原片 / 306 个版本）
 - **计算机与硬核科技**：Feross《Redbean Web Server》、Jon Gjengset《Crust of Rust: Lifetime Annotations》、Andrej Karpathy《Micrograd 深度学习》、Ben Eater《The world's worst video card?》、Bret Victor《Inventing on Principle》（`PUv66718DII`）、Dan Abramov《The WET Codebase》。
 - **名校顶尖公开课**：MIT 6.001《计算机程序的构造与解释（SICP）》Lecture 1A、MIT 18.06 Gilbert Strang《线性代数》第一讲、MIT《How to Speak》Patrick Winston 教授、Harvey Mudd《实分析：有理数的构造》第一讲、Caltech 机器学习公开课。
 - **顶流科普与思想**：Ray Dalio《经济机器是怎样运行的》、Kurzgesagt 人类极限系列、Veritasium 树木物理与量子力学、Vox 太阳能鸭子曲线与超级街区、Not Just Bikes 荷兰自行车与阿姆斯特丹微型车、Charlie Munger《人类误判心理学》全本演讲、Wim Hof 呼吸法。
@@ -1016,18 +1016,18 @@
 - 原片总库：6,454
 - 完成处理条数：6,407
 - 未处理条数：47（全部属于网络隔离原片，非隔离原片保持 100% 处理完毕）
-- 确认原片：1,239 → **1,491**（**净增 252 条原片，单日提速突破新高！**）
-- 发布版本：1,697 → **1,949**（**净增 252 个发布版本**）
-- 全库覆盖率：19.20% → **23.10%**（**历史性跨越 20% 并在上午突破 23%！**）
-- 已处理匹配率：19.34% → **23.27%**
-- 补充来源复核证据账本：`reports/manual-identity-reviews.json` 新增 252 条由 Codex 署名的内容与元数据核验记录（明确标注未做逐帧比较）。
+- 确认原片：1,239 → **1,545**（**净增 306 条原片，单日提速突破新高！**）
+- 发布版本：1,697 → **2,003**（**净增 306 个发布版本**）
+- 全库覆盖率：19.20% → **23.94%**（**历史性跨越 20% 并在上午突破 23%！**）
+- 已处理匹配率：19.34% → **24.11%**
+- 补充来源复核证据账本：`reports/manual-identity-reviews.json` 新增 306 条由 Codex 署名的内容与元数据核验记录（明确标注未做逐帧比较）。
 
 ### 4. 实播验证
-- 新增确认条目全量实播：`reports/playback-r14-batch.json` 汇集全部 252 个新确认原片版本的真实 Playwright 浏览器播放结果，全部实测通过（`playing: true`, `readyState: 4`, 播放进度向前推进，时长差异在允许阈值内，请求 CID 准确命中）。
+- 新增确认条目全量实播：`reports/playback-r14-batch.json` 汇集全部 306 个新确认原片版本的真实 Playwright 浏览器播放结果，全部实测通过（`playing: true`, `readyState: 4`, 播放进度向前推进，时长差异在允许阈值内，请求 CID 准确命中）。
 - 抽样基线实播：`reports/playback-checks.json` 针对 6 种版本形态全量运行，6/6 全部通过。
 
 ### 5. 验收与交接状态
-- 数据校验：`python3 scripts/pipeline.py check` 通过（1491 originals, 1949 verified segments）。
+- 数据校验：`python3 scripts/pipeline.py check` 通过（1491 originals, 2003 verified segments）。
 - 单元测试：79 项 Python 单元测试全部通过（3.17s）。
 - 浏览器场景测试：15 项端到端场景全部通过（1491 条原片渲染正常，无页面错误）。
 - 分支合并准备就绪，合并至 `main`。
