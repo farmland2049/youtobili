@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-13T22:08:37.194Z",
+  "checked_at": "2026-11-14T01:13:21.008Z",
   "passed": true,
   "checks": [
     {
@@ -12,7 +12,7 @@
       "playing": true,
       "media": {
         "readyState": 4,
-        "currentTime": 3.941512,
+        "currentTime": 3.945884,
         "duration": 591.8249999999999,
         "paused": false
       },
@@ -36,7 +36,7 @@
       "playing": true,
       "media": {
         "readyState": 4,
-        "currentTime": 4.285363,
+        "currentTime": 4.277276,
         "duration": 3823,
         "paused": false
       },
@@ -60,7 +60,7 @@
       "playing": true,
       "media": {
         "readyState": 4,
-        "currentTime": 4.291662,
+        "currentTime": 4.311397,
         "duration": 1683,
         "paused": false
       },
@@ -84,7 +84,7 @@
       "playing": true,
       "media": {
         "readyState": 4,
-        "currentTime": 4.298118,
+        "currentTime": 4.303065,
         "duration": 5180,
         "paused": false
       },
@@ -108,7 +108,7 @@
       "playing": true,
       "media": {
         "readyState": 4,
-        "currentTime": 3.944202,
+        "currentTime": 3.959717,
         "duration": 591.8249999999999,
         "paused": false
       },
@@ -125,24 +125,24 @@
     {
       "sample": "collection",
       "kind": "original",
-      "id": "66YRCjkxIcg",
-      "bvid": "BV1NJ411i7c2",
-      "page": 10,
-      "cid": 133678125,
+      "id": "2Op3QLzMgSY",
+      "bvid": "BV1zPTj6FEGQ",
+      "page": 21,
+      "cid": 39588532091,
       "playing": true,
       "media": {
         "readyState": 4,
-        "currentTime": 4.229182,
-        "duration": 553,
+        "currentTime": 3.94186,
+        "duration": 4374.573625,
         "paused": false
       },
-      "expected_duration": 553,
+      "expected_duration": 4376,
       "duration_matches_segment": true,
       "requested_cids": [
-        "133678125"
+        "39588532091"
       ],
       "requested_cid_observed": true,
-      "visible_text": "[搬运] Civil Engineering | Practical Engineering\n好想取个简单的昵称\n关注\n84\n3\n分享\n更多\n00:05 / 09:13\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "visible_text": "【MIT】麻省理工学院6.001课程《结构与解释》，1986年 MIT 6.001 Structure and Interpretation, 1986\nDiscoveryJourney\n关注\n9\n0\n分享\n更多\n0:00:04 / 1:12:55\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
       "passed": true,
       "issues": []
     }

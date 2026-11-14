@@ -1,0 +1,342 @@
+{
+  "checked_at": "2026-11-14T00:22:10.154Z",
+  "passed": true,
+  "checks": [
+    {
+      "sample": "BickMFHAZR0",
+      "kind": "original",
+      "id": "BickMFHAZR0",
+      "bvid": "BV1s741167f6",
+      "page": 1,
+      "cid": 146485341,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.28971,
+        "duration": 443,
+        "paused": false
+      },
+      "expected_duration": 443,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "146485341"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【Veritasium】树木生长的物理原理 How Trees Bend The Laws of Physics\n小猫咪字幕组\n关注\n186\n10\n分享\n更多\n00:05 / 07:23\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "ymoiWv9BF7Q",
+      "kind": "original",
+      "id": "ymoiWv9BF7Q",
+      "bvid": "BV1FN4VewEWp",
+      "page": 1,
+      "cid": 26185959546,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.960365,
+        "duration": 1312,
+        "paused": false
+      },
+      "expected_duration": 1312,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "26185959546"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "英特尔Lunar Lake深度评测：轻薄本有救了！\n极客湾Geekerwan\n关注\n3.5万\n4829\n分享\n更多\n00:04 / 21:52\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "FtutLA63Cp8",
+      "kind": "original",
+      "id": "FtutLA63Cp8",
+      "bvid": "BV1xx411c79H",
+      "page": 1,
+      "cid": 3724723,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.945382,
+        "duration": 220,
+        "paused": false
+      },
+      "expected_duration": 219,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "3724723"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【東方】Bad Apple!! ＰＶ【影絵】\n折射\n关注\n74.1万\n65.2万\n分享\n更多\n00:04 / 03:40\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "4oAB83Z1ydE",
+      "kind": "original",
+      "id": "4oAB83Z1ydE",
+      "bvid": "BV1qW411e7hV",
+      "page": 1,
+      "cid": 30626795,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.272769,
+        "duration": 59.826,
+        "paused": false
+      },
+      "expected_duration": 61,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "30626795"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "苹果《Think Different》（非同凡想）广告（1997）\n九霄星河\n关注\n4258\n234\n分享\n更多\n00:05 / 01:00\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "4r7wHMg5Yjg",
+      "kind": "sub_zh",
+      "id": "4r7wHMg5Yjg",
+      "bvid": "BV1Wkn9eqEbi",
+      "page": 1,
+      "cid": 25666259203,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.946481,
+        "duration": 201,
+        "paused": false
+      },
+      "expected_duration": 201,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "25666259203"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "蜜獾 双语字幕 The Crazy Nastyass Honey Badger (original narration by Randall)\ncsmx123\n关注\n1.0万\n124\n分享\n更多\n00:04 / 03:21\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "BzNzgsAE4F0",
+      "kind": "original",
+      "id": "BzNzgsAE4F0",
+      "bvid": "BV1kb411T7tq",
+      "page": 1,
+      "cid": 85464546,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.188782,
+        "duration": 301,
+        "paused": false
+      },
+      "expected_duration": 301,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "85464546"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "五分钟超级紧张音效体验【谢泼德效果Shepard Tone】\n印奇斯廷\n关注\n1336\n101\n分享\n更多\n00:05 / 05:01\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "RcGyVTAoXEU",
+      "kind": "original",
+      "id": "RcGyVTAoXEU",
+      "bvid": "BV1Ax411b7kT",
+      "page": 1,
+      "cid": 23082187,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.351553,
+        "duration": 869,
+        "paused": false
+      },
+      "expected_duration": 870,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "23082187"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "How to make stress your friend\n我决定投靠人类\n关注\n322\n36\n分享\n更多\n00:05 / 14:29\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "86x-u-tz0MA",
+      "kind": "original",
+      "id": "86x-u-tz0MA",
+      "bvid": "BV1aW411X7kL",
+      "page": 1,
+      "cid": 51564556,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.950877,
+        "duration": 1169,
+        "paused": false
+      },
+      "expected_duration": 1169,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "51564556"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【TED演讲】Your elusive creative genius\n咕噜芝士糕\n关注\n56\n4\n分享\n更多\n00:04 / 19:29\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "R0JKCYZ8hng",
+      "kind": "original",
+      "id": "R0JKCYZ8hng",
+      "bvid": "BV1Mt411o7ie",
+      "page": 1,
+      "cid": 59900052,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.208062,
+        "duration": 285,
+        "paused": false
+      },
+      "expected_duration": 285,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "59900052"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【TED】演奏乐器是如何让大脑获益的 How playing an instrument benefits your brain - Anita Collins\n古今笑\n关注\n62\n4\n分享\n更多\n00:05 / 04:45\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "uUAvXYW5bmI",
+      "kind": "original",
+      "id": "uUAvXYW5bmI",
+      "bvid": "BV1RU4y1u7UM",
+      "page": 1,
+      "cid": 434143688,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.937969,
+        "duration": 483,
+        "paused": false
+      },
+      "expected_duration": 483,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "434143688"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "NASA 詹姆斯·韦伯太空望远镜纪录片《29 Days on the Edge》\n太空未来\n关注\n146\n21\n分享\n更多\n00:04 / 08:03\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "_ve4M4UsJQo",
+      "kind": "original",
+      "id": "_ve4M4UsJQo",
+      "bvid": "BV1ms411q7fY",
+      "page": 1,
+      "cid": 7292054,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.959174,
+        "duration": 122,
+        "paused": false
+      },
+      "expected_duration": 121,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "7292054"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "本田雅阁创意广告 Honda - The Cog\nHauruX\n关注\n75\n20\n分享\n更多\n00:04 / 02:02\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "y-uuk4Pr2i8",
+      "kind": "original",
+      "id": "y-uuk4Pr2i8",
+      "bvid": "BV12J411c7By",
+      "page": 1,
+      "cid": 117800956,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.193384,
+        "duration": 21.655,
+        "paused": false
+      },
+      "expected_duration": 22,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "117800956"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Kinesin protein walking on microtubule\n小鱼儿のdaddy\n关注\n31\n0\n分享\n更多\n00:05 / 00:22\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "zHU1xH6Ogs4",
+      "kind": "original",
+      "id": "zHU1xH6Ogs4",
+      "bvid": "BV1Yh4rz4EQi",
+      "page": 1,
+      "cid": 33027460355,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.951778,
+        "duration": 2006,
+        "paused": false
+      },
+      "expected_duration": 2006,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "33027460355"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "On Mathematical Maturity (1) Thomas Garrity\n拂尘在路上\n关注\n2\n0\n分享\n更多\n00:04 / 33:26\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "KkpqA8yG9T4",
+      "kind": "original",
+      "id": "KkpqA8yG9T4",
+      "bvid": "BV1h3411P7gh",
+      "page": 1,
+      "cid": 726392775,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.947052,
+        "duration": 5929,
+        "paused": false
+      },
+      "expected_duration": 5929,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "726392775"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Breakthrough in Nuclear Fusion - Prof. Dennis Whyte\nshelx-Tong\n关注\n1\n0\n分享\n更多\n0:00:04 / 1:38:49\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    }
+  ]
+}

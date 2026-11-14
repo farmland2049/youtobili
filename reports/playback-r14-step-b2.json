@@ -1,0 +1,414 @@
+{
+  "checked_at": "2026-11-14T00:24:55.463Z",
+  "passed": true,
+  "checks": [
+    {
+      "sample": "gAjR4_CbPpQ",
+      "kind": "original",
+      "id": "gAjR4_CbPpQ",
+      "bvid": "BV1As411e7yB",
+      "page": 1,
+      "cid": 12170929,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.14121,
+        "duration": 223,
+        "paused": false
+      },
+      "expected_duration": 222,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "12170929"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "『奥迪A3广告超带感背景音乐完整版』Daft Punk - Harder Better Faster Stronger\nSSSMAZAZE\n关注\n1.4万\n382\n分享\n更多\n00:05 / 03:43\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "IJNR2EpS0jw",
+      "kind": "original",
+      "id": "IJNR2EpS0jw",
+      "bvid": "BV1Ds41117RS",
+      "page": 1,
+      "cid": 4581142,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.960462,
+        "duration": 182,
+        "paused": false
+      },
+      "expected_duration": 181,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "4581142"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【蠢蠢的死法】Dumb Ways to Die【ryota】\nryotabibibo\n关注\n4353\n275\n分享\n更多\n00:04 / 03:02\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "YCjNT9qGjh4",
+      "kind": "sub_zh",
+      "id": "YCjNT9qGjh4",
+      "bvid": "BV1B6UwYPEr8",
+      "page": 1,
+      "cid": 26781156018,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.955655,
+        "duration": 7278,
+        "paused": false
+      },
+      "expected_duration": 7278,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "26781156018"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【中文字幕】《半衰期2：20周年纪念纪录片》 Half-Life 2： 20th Anniversary Documentary\n露露Mikuru\n关注\n2589\n229\n分享\n更多\n0:00:04 / 2:01:18\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "UDfAdHBtK_Q",
+      "kind": "original",
+      "id": "UDfAdHBtK_Q",
+      "bvid": "BV1QU4y1F79h",
+      "page": 1,
+      "cid": 426541336,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.163026,
+        "duration": 550,
+        "paused": false
+      },
+      "expected_duration": 550,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "426541336"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "The Who - Won't Get Fooled Again - Shepperton Studios 1978【4K修复】\nswansongw\n关注\n1329\n118\n分享\n更多\n00:05 / 09:10\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "SZazYFchLRI",
+      "kind": "original",
+      "id": "SZazYFchLRI",
+      "bvid": "BV1ax411T74N",
+      "page": 1,
+      "cid": 1778550,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.308905,
+        "duration": 583.899,
+        "paused": false
+      },
+      "expected_duration": 584,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1778550"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Iannis Xenakis: Metastasis\n卡拉扬\n关注\n743\n108\n分享\n更多\n00:05 / 09:44\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "ed2FWNWwE3I",
+      "kind": "original",
+      "id": "ed2FWNWwE3I",
+      "bvid": "BV1GW411M7Se",
+      "page": 1,
+      "cid": 35803218,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.942531,
+        "duration": 2868.86,
+        "paused": false
+      },
+      "expected_duration": 2870,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "35803218"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【纪录片】金融工程 - 华尔街的炼金术师 Quants - The Alchemists of Wall Street 【生肉】\n基督山的爷\n关注\n175\n18\n分享\n更多\n00:04 / 47:49\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "kfVsfOSbJY0",
+      "kind": "original",
+      "id": "kfVsfOSbJY0",
+      "bvid": "BV1wx411K7V1",
+      "page": 1,
+      "cid": 2145045,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.310857,
+        "duration": 228,
+        "paused": false
+      },
+      "expected_duration": 227,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "2145045"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "史上最难听的歌friday -- Rebecca Black（报复社会)\n网络波动加载中\n关注\n196\n98\n分享\n更多\n00:05 / 03:48\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "MgrO5za0lSY",
+      "kind": "sub_zh",
+      "id": "MgrO5za0lSY",
+      "bvid": "BV1MW41147Q1",
+      "page": 1,
+      "cid": 32583817,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.952689,
+        "duration": 4745,
+        "paused": false
+      },
+      "expected_duration": 4744,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "32583817"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【BBC】英国艺术家 培根2017纪录片《A Brush with Violence》(外挂中文字幕)\n原人绘\n关注\n673\n26\n分享\n更多\n0:00:04 / 1:19:05\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "wmin5WkOuPw",
+      "kind": "original",
+      "id": "wmin5WkOuPw",
+      "bvid": "BV1Kh411i76R",
+      "page": 1,
+      "cid": 344520878,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.945366,
+        "duration": 225.856,
+        "paused": false
+      },
+      "expected_duration": 227,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "344520878"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "The Prodigy - Firestarter (Official Music Video)\nL1B3R4T0R\n关注\n223\n29\n分享\n更多\n00:04 / 03:46\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "9c6W4CCU9M4",
+      "kind": "original",
+      "id": "9c6W4CCU9M4",
+      "bvid": "BV17s411677w",
+      "page": 1,
+      "cid": 9798683,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.941819,
+        "duration": 151,
+        "paused": false
+      },
+      "expected_duration": 150,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "9798683"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "谷歌智能眼镜，精彩日常 Project Glass- One day...\n火力科技\n关注\n28\n5\n分享\n更多\n00:04 / 02:31\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "Ug75diEyiA0",
+      "kind": "original",
+      "id": "Ug75diEyiA0",
+      "bvid": "BV1oT4y1G7XY",
+      "page": 1,
+      "cid": 181848884,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.182368,
+        "duration": 31,
+        "paused": false
+      },
+      "expected_duration": 31,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "181848884"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "温蒂汉堡1984年经典广告：牛肉在哪里？Wendy's 'Where's The Beef' commercial 1984\n西伯利亚卷叶葱\n关注\n95\n10\n分享\n更多\n00:05 / 00:31\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "w-tFdreZB94",
+      "kind": "original",
+      "id": "w-tFdreZB94",
+      "bvid": "BV1js411o7q4",
+      "page": 1,
+      "cid": 5360968,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.958688,
+        "duration": 389,
+        "paused": false
+      },
+      "expected_duration": 388,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "5360968"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "微软眼中的未来-Productivity Future Vision of Microsoft\n枣就想说\n关注\n39\n17\n分享\n更多\n00:04 / 06:29\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "TQMbvJNRpLE",
+      "kind": "sub_zh",
+      "id": "TQMbvJNRpLE",
+      "bvid": "BV1st411N7ZU",
+      "page": 1,
+      "cid": 109056568,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.168223,
+        "duration": 1073,
+        "paused": false
+      },
+      "expected_duration": 1073,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "109056568"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【TED中英字幕】达成目标其实很简单-How to Achieve Your Most Ambitious Goals\nBe-YOUnique\n关注\n167\n14\n分享\n更多\n00:05 / 17:53\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "iqL1BLzn3qc",
+      "kind": "original",
+      "id": "iqL1BLzn3qc",
+      "bvid": "BV1MS4y1377S",
+      "page": 1,
+      "cid": 543095233,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.158957,
+        "duration": 193,
+        "paused": false
+      },
+      "expected_duration": 193,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "543095233"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【4k极限修复】Win95自带视频Edie Brickell - Good Times\nNullNanError\n关注\n102\n18\n分享\n更多\n00:05 / 03:13\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "KVN_0qvuhhw",
+      "kind": "original",
+      "id": "KVN_0qvuhhw",
+      "bvid": "BV1KW411Y7B9",
+      "page": 1,
+      "cid": 27641857,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.344169,
+        "duration": 403.7,
+        "paused": false
+      },
+      "expected_duration": 404,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "27641857"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Prejudice 偏见 - Tim Minchin @丁门庆FanClub\n丁门庆FanClub\n关注\n81\n6\n分享\n更多\n00:05 / 06:44\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "OjkzfeJz66o",
+      "kind": "original",
+      "id": "OjkzfeJz66o",
+      "bvid": "BV1j64y1M7uB",
+      "page": 1,
+      "cid": 182310750,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.941385,
+        "duration": 1200.8990000000001,
+        "paused": false
+      },
+      "expected_duration": 1202,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "182310750"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "吃什么才能饿死癌细胞 Can we eat to starve cancer - William Li\n红楼茄子作者张习如\n关注\n45\n6\n分享\n更多\n00:04 / 20:01\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "sTJ7AzBIJoI",
+      "kind": "original",
+      "id": "sTJ7AzBIJoI",
+      "bvid": "BV1m3411j7yS",
+      "page": 1,
+      "cid": 507078269,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.302703,
+        "duration": 304,
+        "paused": false
+      },
+      "expected_duration": 304,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "507078269"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【熟/Baz Luhrmann】每个人都能自由地涂防晒霜（Everybody's Free To Wear Sunscreen）\n瞻明w\n关注\n241\n12\n分享\n更多\n00:05 / 05:04\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    }
+  ]
+}

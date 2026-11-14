@@ -1,0 +1,486 @@
+{
+  "checked_at": "2026-11-14T00:31:50.719Z",
+  "passed": true,
+  "checks": [
+    {
+      "sample": "ZK3O402wf1c",
+      "kind": "sub_zh",
+      "id": "ZK3O402wf1c",
+      "bvid": "BV1zx411g7gq",
+      "page": 1,
+      "cid": 25166583,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.921883,
+        "duration": 2390,
+        "paused": false
+      },
+      "expected_duration": 2389,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "25166583"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "麻省理工公开课 线性代数 MIT 18.06 Linear Algebra 中英双语字幕\n仲春Mon\n关注\n2.4万\n1936\n分享\n更多\n00:04 / 39:50\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "Ufmu1WD2TSk",
+      "kind": "original",
+      "id": "Ufmu1WD2TSk",
+      "bvid": "BV1YsZ1YiEKa",
+      "page": 1,
+      "cid": 29211102423,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.168566,
+        "duration": 887,
+        "paused": false
+      },
+      "expected_duration": 887,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "29211102423"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【Kurzgesagt】第213期：韩国的崩溃已成定局！SOUTH KOREA IS OVER\nMr_Independent\n关注\n1.0万\n2585\n分享\n更多\n00:05 / 14:47\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "5JYp9eGC3Cc",
+      "kind": "original",
+      "id": "5JYp9eGC3Cc",
+      "bvid": "BV1f3411c7VL",
+      "page": 1,
+      "cid": 756794546,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.950708,
+        "duration": 54,
+        "paused": false
+      },
+      "expected_duration": 54,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "756794546"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "起步给马修吓一跳！39.08！McMurtry Speirling 纯电赛车打破古德伍德速度节爬山赛纪录！\nMotobooks\n关注\n1197\n210\n分享\n更多\n00:04 / 00:54\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "2zfqw8nhUwA",
+      "kind": "sub_zh",
+      "id": "2zfqw8nhUwA",
+      "bvid": "BV1sJ411k7ut",
+      "page": 1,
+      "cid": 135864780,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.213883,
+        "duration": 64,
+        "paused": false
+      },
+      "expected_duration": 64,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "135864780"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "「中英字幕」1984 苹果经典广告\nhmylg\n关注\n1247\n96\n分享\n更多\n00:05 / 01:04\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "6_yU9eJ0NxA",
+      "kind": "original",
+      "id": "6_yU9eJ0NxA",
+      "bvid": "BV1a7411m7eR",
+      "page": 2,
+      "cid": 168408224,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.952388,
+        "duration": 1931,
+        "paused": false
+      },
+      "expected_duration": 1931,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "168408224"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【Numberphile 3Blue1Brown】高维中的飞镖问题 @圆桌字幕组\n圆桌字幕组\n关注\n2777\n298\n分享\n更多\n00:04 / 32:11\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "zcqZHYo7ONs",
+      "kind": "original",
+      "id": "zcqZHYo7ONs",
+      "bvid": "BV1Hx411x7bb",
+      "page": 2,
+      "cid": 23908880,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.314046,
+        "duration": 1055,
+        "paused": false
+      },
+      "expected_duration": 1054,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "23908880"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【分钟物理】贝尔定理：量子韦恩图悖论 @靛蓝字幕组\n靛蓝字幕组\n关注\n551\n255\n分享\n更多\n00:05 / 17:35\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "WIyTZDHuarQ",
+      "kind": "sub_zh",
+      "id": "WIyTZDHuarQ",
+      "bvid": "BV1tJ41157Tr",
+      "page": 1,
+      "cid": 141207416,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.225404,
+        "duration": 462,
+        "paused": false
+      },
+      "expected_duration": 462,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "141207416"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "这是量子力学的宏观表现吗？【官方双语】【Veritasium真理元素】\nVeritasium真理元素\n关注\n1433\n193\n分享\n更多\n00:05 / 07:42\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "vI5pbDFDZyI",
+      "kind": "original",
+      "id": "vI5pbDFDZyI",
+      "bvid": "BV1UM411H71S",
+      "page": 1,
+      "cid": 1060695489,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.279753,
+        "duration": 206,
+        "paused": false
+      },
+      "expected_duration": 206,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1060695489"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "高速几乎摧毁了阿姆斯特丹 [乔基宁计划] Plan Jokinen (Not Just Bikes)\nIVEvolution\n关注\n546\n358\n分享\n更多\n00:05 / 03:26\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "1TKSfAkWWN0",
+      "kind": "original",
+      "id": "1TKSfAkWWN0",
+      "bvid": "BV12s411D7nG",
+      "page": 1,
+      "cid": 3660513,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.948457,
+        "duration": 259,
+        "paused": false
+      },
+      "expected_duration": 258,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "3660513"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "相对论制造电磁铁？\nVeritasium真理元素\n关注\n820\n126\n分享\n更多\n00:04 / 04:19\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "klaJqofCsu4",
+      "kind": "original",
+      "id": "klaJqofCsu4",
+      "bvid": "BV1pQnR6UE3v",
+      "page": 1,
+      "cid": 43072228056,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.961523,
+        "duration": 1937,
+        "paused": false
+      },
+      "expected_duration": 1937,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "43072228056"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "你买不到的灯泡：飞利浦与迪拜政府联合开发的迪拜灯\nmyfreax\n关注\n166\n111\n分享\n更多\n00:04 / 32:17\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "lFIYKmos3-s",
+      "kind": "sub_zh",
+      "id": "lFIYKmos3-s",
+      "bvid": "BV1Jx411S7XH",
+      "page": 1,
+      "cid": 16855504,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.954763,
+        "duration": 126,
+        "paused": false
+      },
+      "expected_duration": 126,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "16855504"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【教育短片】知识不是建立在名字上的（理查德·费曼）（中文字幕）\nsysoama\n关注\n243\n19\n分享\n更多\n00:04 / 02:06\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "7pSqk-XV2QM",
+      "kind": "sub_zh",
+      "id": "7pSqk-XV2QM",
+      "bvid": "BV1MK4y1Y7Fq",
+      "page": 1,
+      "cid": 237826436,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.304089,
+        "duration": 799.8670000000001,
+        "paused": false
+      },
+      "expected_duration": 801,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "237826436"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "一家胶卷公司是怎样检测到原子弹的？【官方双语】【Veritasium真理元素】\nVeritasium真理元素\n关注\n1025\n87\n分享\n更多\n00:05 / 13:20\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "NAsM30MAHLg",
+      "kind": "sub_zh",
+      "id": "NAsM30MAHLg",
+      "bvid": "BV1js411K78B",
+      "page": 1,
+      "cid": 47261609,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.958254,
+        "duration": 219,
+        "paused": false
+      },
+      "expected_duration": 219,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "47261609"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "一百年前的机械计算机 (合集) | Engineer Guy系列视频（中文字幕）\n霍华德vlog\n关注\n465\n67\n分享\n更多\n00:04 / 03:39\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "sNhhvQGsMEc",
+      "kind": "original",
+      "id": "sNhhvQGsMEc",
+      "bvid": "BV1Lb4y1m7sK",
+      "page": 1,
+      "cid": 1141722613,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.288157,
+        "duration": 382,
+        "paused": false
+      },
+      "expected_duration": 382,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "1141722613"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【Kurzgesagt】第28期：费米悖论（一）外星人都在哪？The Fermi Paradox Where Are All The Aliens？\nMr_Independent\n关注\n569\n43\n分享\n更多\n00:05 / 06:22\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "2OSrvzNW9FE",
+      "kind": "sub_zh",
+      "id": "2OSrvzNW9FE",
+      "bvid": "BV1Qs411u78U",
+      "page": 1,
+      "cid": 49588412,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.940933,
+        "duration": 181,
+        "paused": false
+      },
+      "expected_duration": 181,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "49588412"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【官方双语】马格努斯效应的惊人用途（含生肉）【Veritasium真理元素】\nVeritasium真理元素\n关注\n698\n52\n分享\n更多\n00:04 / 03:01\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "mbyG85GZ0PI",
+      "kind": "sub_zh",
+      "id": "mbyG85GZ0PI",
+      "bvid": "BV1rZ4y1o7aS",
+      "page": 1,
+      "cid": 506099229,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.94924,
+        "duration": 4888,
+        "paused": false
+      },
+      "expected_duration": 4888,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "506099229"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "Learning From Data - 机器学习理论基础（含中文字幕）\n青青草原灰太郎\n关注\n227\n11\n分享\n更多\n0:00:04 / 1:21:28\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "OWXoRSIxyIU",
+      "kind": "sub_zh",
+      "id": "OWXoRSIxyIU",
+      "bvid": "BV1W7411i7cX",
+      "page": 1,
+      "cid": 144351713,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.28713,
+        "duration": 410,
+        "paused": false
+      },
+      "expected_duration": 411,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "144351713"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "关于全球变暖的13个误解【官方双语】【Veritasium真理元素】\nVeritasium真理元素\n关注\n605\n66\n分享\n更多\n00:05 / 06:50\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "FcW9kUUTfxY",
+      "kind": "original",
+      "id": "FcW9kUUTfxY",
+      "bvid": "BV17x411Q78e",
+      "page": 1,
+      "cid": 15767506,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.963534,
+        "duration": 94.816,
+        "paused": false
+      },
+      "expected_duration": 95,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "15767506"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "单级入轨 线性Aerospike引擎 Linear Aerospike Engine\nGYskyfall\n关注\n43\n36\n分享\n更多\n00:04 / 01:35\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "aESqrP3hfi8",
+      "kind": "original",
+      "id": "aESqrP3hfi8",
+      "bvid": "BV1EGs1zuELx",
+      "page": 1,
+      "cid": 33426769662,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.339407,
+        "duration": 637,
+        "paused": false
+      },
+      "expected_duration": 637,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "33426769662"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "为什么荷兰自行车骑起来更舒服（以及你该拥有一辆的理由） | Not Just Bikes\n一摩尔炸鸡翅\n关注\n226\n70\n分享\n更多\n00:05 / 10:37\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "vkYEYjintqU",
+      "kind": "sub_zh",
+      "id": "vkYEYjintqU",
+      "bvid": "BV1Qt411g787",
+      "page": 1,
+      "cid": 242850917,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 4.276055,
+        "duration": 317,
+        "paused": false
+      },
+      "expected_duration": 317,
+      "duration_matches_segment": true,
+      "requested_cids": [
+        "242850917"
+      ],
+      "requested_cid_observed": true,
+      "visible_text": "【分子生物学动画】线粒体——细胞的发电厂 Mitochondria: the cell's powerhouse（中英双字幕）\n-LINCAT-\n关注\n186\n22\n分享\n更多\n00:05 / 05:17\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "passed": true,
+      "issues": []
+    }
+  ]
+}
