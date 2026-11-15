@@ -1134,3 +1134,37 @@
 - 浏览器场景测试：15 项端到端场景全部通过（1962 条原片渲染正常，无页面错误）。
 - 分支合并准备就绪，合并至 `main`。
 
+
+## 2026-11-16 夜间增量（Round 18 突破 2,000 大关推进至早上 6 点）
+
+### 1. 目标与执行
+- 承接 Round 17 达成基线（确认原片 1,962 条、2,420 个发布版本，覆盖率 30.40%）。
+- 签出夜间推进分支 `continue-20261115-overnight`。
+- 按用户指令 `/goal 推进到明天早上 6 点`，分 3 个批次（b1 至 b3）推进离线 HTTP 缓存搜索与详情库核验。
+- 每批入库严格执行内容与元数据人工复核，并强制执行真实无头 Playwright 流媒体播放烟测（`scripts/test_playback_batch.cjs`），必须 100% 通过（playing=true, readyState=4, currentTime 持续推进，duration 与分P精确对齐，CID 正确捕获）方可归档进入合并池。
+- 严格执行时长公差 `max(60, 0.08 * orig_dur)`、0 分段冲突（校验 `claimed_segments` 杜绝跨原片争用）、0 冲突年份/集次/删减。
+- 严格执行质量拦截与缺陷回退，累计拦截并回退 16 处流媒体截断、试看切片、重复分段争用或元数据冲突异常（包括 `0m6hoOelZH8` 集次编号冲突预检拦截、`6G59zsjM2UI` 与 `oGTQ0Wj6yIg` Joe Rogan 集号错误预检拦截、`ojm74VGsZBU` 221s截断、`Y0Oa4Lp5fLE` 16.7s试看截断、`1-dUkyn_fZA` 130s截断、`kTiP0zKF9bc` 370s预览截断、`QGKcvM2Hh4g` 缺少CID、`V48M5j-6zdE` 483s截断、`b2F-DItXtZs` 327.8s流偏差，以及 `8QiPFmIMxFc`、`eX9m3g5J-XA`、`TgmA48fILq8`、`Q1lL-hXO27Q`、`gqGEMQveoqg`、`ErpNpR3XYUw` 等因 HackerTube 存在跨原片重复收录导致的分段争用冲突拦截），全部当场从入库批次中剥离并置回待审池，绝不带病入库，确保全库分段冲突数严格为 0。
+- 47 条外部网络隔离原片严格保持隔离记录（`not_processed: 47`），未进行任何违规网络重试。
+
+### 2. 指标前后变化
+- 原片总库：6,454
+- 完成处理条数：6,407
+- 未处理条数：47（网络隔离原片状态完整保留，`not_processed: 47`）
+- 确认原片：1,962 → **2,015**（**夜间净增 +53 条原片！历史性里程碑：突破 2,000 大关！**）
+- 发布版本：2,420 → **2,473**（**净增 +53 个发布版本！**）
+- 全库覆盖率：30.40% → **31.22%**（净增 +0.82 个百分点，巩固 31% 以上水平）
+- 已处理匹配率：30.62% → **31.42%**
+- 冲突分段数：0（无任何跨原片分段冲突）
+- 冲突年份/集次/删减：0
+- 补充来源复核证据账本：`reports/manual-identity-reviews.json` 累计入库 2,015 条由 Codex 署名的内容与元数据核验记录（明确标注未做逐帧比较）。
+
+### 3. 实播验证
+- 新增确认条目全量实播：`reports/playback-r18-step-b1.json` (25/25), `reports/playback-r18-step-b2.json` (15/15), `reports/playback-r18-step-b3.json` (13/13) 共 3 个批次、53 项流媒体级实测全部 100% 通过；
+- 汇总报表：`reports/playback-r18-batch.json` 汇集全部 53 项流媒体播放实测结果，`passed: true`，batches: 3。
+- 抽样基线实播：`reports/playback-checks.json` 针对 6 种版本形态全量运行，6/6 全部通过。
+
+### 4. 验收与交接状态
+- 数据校验：`python3 scripts/pipeline.py check` 通过（2015 originals, 2473 verified segments）。
+- 单元测试：79 项 Python 单元测试全部通过（Ran 79 tests in 3.124s, OK）。
+- 浏览器场景测试：15 项端到端场景全部通过（2015 条原片渲染正常，无页面错误）。
+- 分支合并准备就绪，合并至 `main`。

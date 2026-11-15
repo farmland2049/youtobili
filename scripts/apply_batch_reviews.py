@@ -34,7 +34,9 @@ def apply_batch(batch_file):
         if not e:
             print(f"Error: {vid} not in library")
             continue
-        c = next((cand for cand in e['candidates'] if cand['bvid'] == bvid), None)
+        c = next((cand for cand in e['candidates'] if cand['bvid'] == bvid and cand.get('page') == page), None)
+        if not c:
+            c = next((cand for cand in e['candidates'] if cand['bvid'] == bvid), None)
         if not c:
             print(f"Error: candidate {bvid} not found for {vid}")
             continue

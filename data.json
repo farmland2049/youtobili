@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "built_at": "2026-11-15T01:16:31.458162+00:00",
+  "built_at": "2026-11-15T13:59:54.019361+00:00",
   "stats": {
     "corpus": 6454,
     "processed": 6407,
-    "confirmed": 1962,
-    "coverage": 0.3039975209172606,
-    "processed_match_rate": 0.30622756360230996
+    "confirmed": 2015,
+    "coverage": 0.3122094824914782,
+    "processed_match_rate": 0.3141876073045107
   },
   "areas": [
     {
@@ -3514,6 +3514,42 @@
       ]
     },
     {
+      "id": "-J_xL4IGhJA",
+      "title": "Lecture 1A: Overview and Introduction to Lisp",
+      "author": "MIT OpenCourseWare",
+      "source_url": "https://www.youtube.com/watch?v=-J_xL4IGhJA",
+      "summary": "The first lecture of MIT's 6.001 (SICP) with Abelson and Sussman, giving an overview of the course and an introduction to Lisp. It argues that computer science is about managing complexity and abstraction, not computers.",
+      "why": "HN people recommend the SICP lectures as a deeper, livelier route into the book and a formative course even for seasoned programmers.",
+      "score": 12.5,
+      "tags": [
+        "sicp",
+        "scheme",
+        "lisp",
+        "abstraction",
+        "mit",
+        "recursion"
+      ],
+      "categories": [
+        "functional-programming",
+        "university-lectures",
+        "software-architecture-design"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1AA411t7Wk",
+          "page": 1,
+          "cid": 188198368,
+          "title": "[MIT] 6.001 计算机程序的构造与解释 (Structure and Interpretation, 1986)",
+          "up": "微小的公开课",
+          "duration": 4376,
+          "kind": "original",
+          "views": 26464,
+          "pic": "https://i1.hdslb.com/bfs/archive/b36089a30b599358d083ace7ff805fba523b2898.jpg",
+          "checked_at": "2026-11-15T13:16:33.513290+00:00"
+        }
+      ]
+    },
+    {
       "id": "ySuUZEjARPY",
       "title": "[LIVE] How to Achieve Proper Grounding - Rick Hartley - Expert Live Training (US)",
       "author": "Altium",
@@ -5448,6 +5484,39 @@
       ]
     },
     {
+      "id": "zDZFcDGpL4U",
+      "title": "RSA ANIMATE: Changing Education Paradigms",
+      "author": "Royal Society of Arts",
+      "source_url": "https://www.youtube.com/watch?v=zDZFcDGpL4U",
+      "summary": "An RSA Animate drawn from a Sir Ken Robinson talk arguing that current education systems are modeled on the industrial age. It discusses divergent thinking, standardization, and how schools disengage kids.",
+      "why": "HN recommends it as an accessible, widely shared critique of schooling, and cites it in threads on ADHD, creativity and education reform.",
+      "score": 10.5,
+      "tags": [
+        "ken robinson",
+        "education",
+        "creativity",
+        "divergent thinking",
+        "rsa animate"
+      ],
+      "categories": [
+        "education-learning"
+      ],
+      "versions": [
+        {
+          "bvid": "BV19i4y1N7Jd",
+          "page": 1,
+          "cid": 310296737,
+          "title": "RSA ANIMATE动画科普常识",
+          "up": "英语分享社区",
+          "duration": 700,
+          "kind": "original",
+          "views": 620,
+          "pic": "https://i0.hdslb.com/bfs/archive/8d8501112806af6c6f2fb3439cd28c1acf1a42f2.jpg",
+          "checked_at": "2026-11-15T13:34:18.861442+00:00"
+        }
+      ]
+    },
+    {
       "id": "2sjqTHE0zok",
       "title": "Lecture 6: Version Control (git) (2020)",
       "author": "Missing Semester",
@@ -6640,6 +6709,41 @@
       ]
     },
     {
+      "id": "Z1PCtIaM_GQ",
+      "title": "Jackie Chan - How to Do Action Comedy",
+      "author": "Every Frame a Painting",
+      "source_url": "https://www.youtube.com/watch?v=Z1PCtIaM_GQ",
+      "summary": "Every Frame a Painting analyzes how Jackie Chan stages action comedy, with nine principles such as starting from a disadvantage, using the environment, clear shots, and keeping action and reaction in the same frame.",
+      "why": "HN repeatedly recommends it as the clearest explanation of why Chan's fight scenes beat fast-cut Hollywood action.",
+      "score": 9.5,
+      "tags": [
+        "jackie chan",
+        "film analysis",
+        "video essay",
+        "editing",
+        "fight choreography"
+      ],
+      "categories": [
+        "film-criticism-analysis",
+        "film-video-production",
+        "standup-sketch-comedy"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1QK411V7v5",
+          "page": 12,
+          "cid": 178906911,
+          "title": "【收藏】\"Every Frame a Painting\"",
+          "up": "AnotherBlueDay",
+          "duration": 545,
+          "kind": "original",
+          "views": 3271,
+          "pic": "https://i1.hdslb.com/bfs/archive/2034c39e4f79ba656aabc5739369550d6aed8c6f.jpg",
+          "checked_at": "2026-11-15T13:16:33.637856+00:00"
+        }
+      ]
+    },
+    {
       "id": "dCuZkaaou0Q",
       "title": "Invited Talk - Guy Steele",
       "author": "ClojureTV",
@@ -7315,6 +7419,39 @@
           "views": 120,
           "pic": "https://i1.hdslb.com/bfs/archive/800fa1cc814b026bc935ebd0eb89b57ce68c45a4.jpg",
           "checked_at": "2026-11-07T05:27:36.631026+00:00"
+        }
+      ]
+    },
+    {
+      "id": "msVuCEs8Ydo",
+      "title": "The Speed of Light is NOT About Light",
+      "author": "PBS Space Time",
+      "source_url": "https://www.youtube.com/watch?v=msVuCEs8Ydo",
+      "summary": "PBS Space Time argues that the speed of light is better understood as the speed of causality, the universal limit on how fast cause and effect propagate. Light travels at that speed because it is massless, but the limit itself is a property of spacetime.",
+      "why": "HN commenters send people to it whenever a thread confuses the speed of light with a light-specific limit, and several say it deepened their understanding of relativity.",
+      "score": 9.0,
+      "tags": [
+        "speed of light",
+        "causality",
+        "relativity",
+        "physics",
+        "spacetime"
+      ],
+      "categories": [
+        "fundamental-physics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1nt41167AB",
+          "page": 34,
+          "cid": 69360290,
+          "title": "【PBS Space Time】合辑  持续更新【英文字幕】",
+          "up": "微小的公开课",
+          "duration": 767,
+          "kind": "original",
+          "views": 29677,
+          "pic": "https://i2.hdslb.com/bfs/archive/03ac073c1c603e1f864583503bd34f95a395fd15.jpg",
+          "checked_at": "2026-11-15T13:16:33.638906+00:00"
         }
       ]
     },
@@ -9003,6 +9140,40 @@
       ]
     },
     {
+      "id": "j3mhkYbznBk",
+      "title": "Richard Feynman  - The.Character of Physical Law - Part 1 The Law of Gravitation (full version)",
+      "author": "Tinkerin' Thinkers",
+      "source_url": "https://www.youtube.com/watch?v=j3mhkYbznBk",
+      "summary": "The first of Richard Feynman's 1964 Cornell Messenger Lectures, The Character of Physical Law, focusing on the law of gravitation. Feynman builds up from planetary motion to the nature of physical laws.",
+      "why": "HN people recommend it as a masterclass in explaining physics clearly without condescension, accessible without formal training.",
+      "score": 8.0,
+      "tags": [
+        "feynman",
+        "gravity",
+        "physics",
+        "cornell lectures",
+        "science education"
+      ],
+      "categories": [
+        "fundamental-physics",
+        "university-lectures"
+      ],
+      "versions": [
+        {
+          "bvid": "BV15k4y167GN",
+          "page": 3,
+          "cid": 191025520,
+          "title": "费曼 物理定律的本性（英文字幕） Richard Feynman - The Character of Physical Law 【微软版 全网最清晰版本】",
+          "up": "琴城典狱长",
+          "duration": 3364,
+          "kind": "original",
+          "views": 7917,
+          "pic": "https://i2.hdslb.com/bfs/archive/a00306aaf19c71d979b6fd0f49f720ef79db54e4.jpg",
+          "checked_at": "2026-11-15T13:34:18.848534+00:00"
+        }
+      ]
+    },
+    {
       "id": "l7rce6IQDWs",
       "title": "The world's worst video card?",
       "author": "Ben Eater",
@@ -9035,6 +9206,41 @@
           "views": 243,
           "pic": "https://i2.hdslb.com/bfs/archive/2700c8f6b76661387e5a5bde4b1e6f3c17fe98ad.jpg",
           "checked_at": "2026-11-13T21:58:21.988264+00:00"
+        }
+      ]
+    },
+    {
+      "id": "pqzcCfUglws",
+      "title": "The Psychology of Human Misjudgement - Charlie Munger Full Speech",
+      "author": "BuffettMungerWisdom",
+      "source_url": "https://www.youtube.com/watch?v=pqzcCfUglws",
+      "summary": "Audio of Charlie Munger's 1995 Harvard speech on the psychology of human misjudgment, laying out a framework of cognitive biases and mental models for decision making. It covers factors like incentives, social proof and denial.",
+      "why": "HN regards it as a classic to revisit every few years for improving decisions and self-awareness.",
+      "score": 8.0,
+      "tags": [
+        "charlie munger",
+        "mental models",
+        "cognitive bias",
+        "psychology",
+        "investing"
+      ],
+      "categories": [
+        "psychology-behavior",
+        "investing-personal-finance",
+        "microeconomics-behavioral"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1rT4y1G7Vi",
+          "page": 1,
+          "cid": 175761907,
+          "title": "【YouTube搬运】查理·芒格 人类误判的心理学 Charlie Munger - Psychology of Human Misjudgement",
+          "up": "哔哩哔哩突突",
+          "duration": 4583,
+          "kind": "original",
+          "views": 4886,
+          "pic": "https://i1.hdslb.com/bfs/archive/7d0c6ce35d7a0ceee7e833238f5a52a5fdb10157.jpg",
+          "checked_at": "2026-11-15T13:56:30.107627+00:00"
         }
       ]
     },
@@ -9989,6 +10195,42 @@
       ]
     },
     {
+      "id": "sPhpelUfu8Q",
+      "title": "CppCon 2017: Juan Pedro Bolivar Puente “Postmodern immutable data structures”",
+      "author": "CppCon",
+      "source_url": "https://www.youtube.com/watch?v=sPhpelUfu8Q",
+      "summary": "Juan Pedro Bolivar Puente explains immutable and persistent data structures in C++ and how they support value semantics. He presents the Immer library, rrb-trees, and a prototype text editor that opens a huge file instantly.",
+      "why": "HN people point to it for rrb-trees, text editor data structures and bringing Clojure-style persistent structures to C++.",
+      "score": 7.5,
+      "tags": [
+        "immutable data",
+        "rrb-trees",
+        "c++",
+        "immer",
+        "text editors",
+        "functional programming"
+      ],
+      "categories": [
+        "systems-programming-languages",
+        "functional-programming",
+        "algorithms-data-structures"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Vx411V7Rd",
+          "page": 107,
+          "cid": 26021454,
+          "title": "CppCon 2017 共139P",
+          "up": "rSkip",
+          "duration": 3959,
+          "kind": "original",
+          "views": 11549,
+          "pic": "https://i2.hdslb.com/bfs/archive/d19a886e577e68a359fce2452d3bdd098f5cf581.png",
+          "checked_at": "2026-11-15T13:16:33.555020+00:00"
+        }
+      ]
+    },
+    {
       "id": "uNjxe8ShM-8",
       "title": "On The Turing Completeness of PowerPoint (SIGBOVIK)",
       "author": "Tom Wildenhain",
@@ -10274,6 +10516,40 @@
           "views": 594,
           "pic": "https://i1.hdslb.com/bfs/archive/0ab564ec4684bc58f3031aa3e3f5a7211a842f65.jpg",
           "checked_at": "2026-11-10T00:42:56.077361+00:00"
+        }
+      ]
+    },
+    {
+      "id": "yL_-1d9OSdk",
+      "title": "Chicken chicken chicken",
+      "author": "Yoram Bauman",
+      "source_url": "https://www.youtube.com/watch?v=yL_-1d9OSdk",
+      "summary": "Doug Zongker's deadpan conference presentation of his famously chicken-filled paper, given at the 2007 AAAS humor session. It satirizes academic talks while showing the pitfalls of bad presentation.",
+      "why": "Beloved as a humor masterpiece and often cited as required viewing on what not to do in an academic talk.",
+      "score": 7.5,
+      "tags": [
+        "chicken",
+        "satire",
+        "academic talks",
+        "humor",
+        "presentations"
+      ],
+      "categories": [
+        "satire-parody",
+        "science-method-communication"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Ex411w7WC",
+          "page": 1,
+          "cid": 286485,
+          "title": "【牛人】史上最浅显易懂的学术演讲 Chicken Chicken Chicken",
+          "up": "罗兹",
+          "duration": 245,
+          "kind": "original",
+          "views": 13903,
+          "pic": "https://i1.hdslb.com/bfs/archive/a61cec65e47f963737d431cd3516ee28c84f72e1.png",
+          "checked_at": "2026-11-15T13:56:30.112348+00:00"
         }
       ]
     },
@@ -12054,6 +12330,41 @@
           "views": 225,
           "pic": "https://i0.hdslb.com/bfs/archive/125fb79668c15735e8275196e9b8891794f5a7e5.jpg",
           "checked_at": "2026-11-07T05:27:39.541087+00:00"
+        }
+      ]
+    },
+    {
+      "id": "1MGjFKs9bnU",
+      "title": "FarewellEtaoinShrdlu",
+      "author": "Drinks and Dice",
+      "source_url": "https://www.youtube.com/watch?v=1MGjFKs9bnU",
+      "summary": "A documentary on the last day the New York Times was printed with linotype machines in 1978, following the process from the newsroom to the press. It marks the move to computerized typesetting.",
+      "why": "Frequently recommended as an absorbing look at hot-metal typesetting and the end of the linotype era.",
+      "score": 6.5,
+      "tags": [
+        "linotype",
+        "new york times",
+        "printing history",
+        "typesetting",
+        "newspapers"
+      ],
+      "categories": [
+        "graphic-design-typography",
+        "documentaries-storytelling",
+        "media-journalism"
+      ],
+      "versions": [
+        {
+          "bvid": "BV17WVn6sErZ",
+          "page": 1,
+          "cid": 38740822302,
+          "title": "【纪录片】Farewell Etaoin Shrdlu",
+          "up": "如化膿般精準",
+          "duration": 1726,
+          "kind": "original",
+          "views": 151,
+          "pic": "https://i0.hdslb.com/bfs/archive/f42c52784d9422e74cd82b7aea8f0ef3f41762e9.jpg",
+          "checked_at": "2026-11-15T13:16:38.327571+00:00"
         }
       ]
     },
@@ -15448,6 +15759,41 @@
       ]
     },
     {
+      "id": "CaCcOwJPytQ",
+      "title": "Special Topics - The Kalman Filter (1 of 55) What is a Kalman Filter?",
+      "author": "Michel van Biezen",
+      "source_url": "https://www.youtube.com/watch?v=CaCcOwJPytQ",
+      "summary": "The first video in a 55-part series by Michel van Biezen that introduces the Kalman filter and builds from the rationale through algebraic examples to the full matrix treatment. The videos are short, blackboard-style lectures.",
+      "why": "HN repeatedly recommends this series as a clear, step-by-step way to really understand Kalman filtering.",
+      "score": 5.5,
+      "tags": [
+        "kalman filter",
+        "state estimation",
+        "linear algebra",
+        "control theory",
+        "lecture series"
+      ],
+      "categories": [
+        "data-science-statistics",
+        "pure-mathematics",
+        "university-lectures"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1oV411x7qo",
+          "page": 11,
+          "cid": 348989437,
+          "title": "Special Topics - The Kalman Filter",
+          "up": "计算神经科学资料搬运",
+          "duration": 358,
+          "kind": "original",
+          "views": 802,
+          "pic": "https://i1.hdslb.com/bfs/archive/2f58534128e6297c48cb3b51050698f7ecf36c78.jpg",
+          "checked_at": "2026-11-15T13:34:18.854964+00:00"
+        }
+      ]
+    },
+    {
       "id": "EK32jo7i5LQ",
       "title": "Why do prime numbers make these spirals? | Dirichlet’s theorem and pi approximations",
       "author": "3Blue1Brown",
@@ -15711,6 +16057,40 @@
           "views": 153,
           "pic": "https://i2.hdslb.com/bfs/archive/bfce901010671485d32b46adb5d5960b2eda3525.jpg",
           "checked_at": "2026-11-15T00:42:32.775098+00:00"
+        }
+      ]
+    },
+    {
+      "id": "NHopJHSlVo4",
+      "title": "Keep your goals to yourself | Derek Sivers",
+      "author": "TED",
+      "source_url": "https://www.youtube.com/watch?v=NHopJHSlVo4",
+      "summary": "A four-minute TED talk in which Derek Sivers argues that announcing your goals can make you less likely to achieve them. He cites psychology research going back to the 1920s.",
+      "why": "Commenters credit it with changing how they handle plans and recommend it as a short, sourced talk.",
+      "score": 5.5,
+      "tags": [
+        "motivation",
+        "goals",
+        "productivity",
+        "psychology",
+        "ted"
+      ],
+      "categories": [
+        "productivity-self-improvement",
+        "psychology-behavior"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1mj411N77v",
+          "page": 1,
+          "cid": 1008761902,
+          "title": "【Ted演讲推荐】Keep your goals to yourself",
+          "up": "月光落-在左手上",
+          "duration": 233,
+          "kind": "original",
+          "views": 142,
+          "pic": "https://i0.hdslb.com/bfs/archive/d954d3afdbccff4907d0ed524b3f837d4e40e673.jpg",
+          "checked_at": "2026-11-15T13:56:30.114143+00:00"
         }
       ]
     },
@@ -17097,6 +17477,41 @@
       ]
     },
     {
+      "id": "-iCIZQX9i1A",
+      "title": "I Watched Ancient Apocalypse So You Don't Have To (Part 1)",
+      "author": "Miniminuteman",
+      "source_url": "https://www.youtube.com/watch?v=-iCIZQX9i1A",
+      "summary": "Miniminuteman begins a long, humorous point-by-point debunking of Graham Hancock's Netflix series Ancient Apocalypse and its claims of a lost ice-age civilization. It is part one of a multi-part critique.",
+      "why": "HN points people to it as an entertaining, thorough takedown of Hancock's pseudoarchaeology whenever his claims come up.",
+      "score": 5.0,
+      "tags": [
+        "graham hancock",
+        "ancient apocalypse",
+        "archaeology",
+        "debunking",
+        "netflix"
+      ],
+      "categories": [
+        "religion-belief",
+        "world-history",
+        "media-journalism"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1imTN6cEuV",
+          "page": 2,
+          "cid": 39465586509,
+          "title": "(23/02)帮你看了汉考克的《远古启示录》Part1 -Miniminuteman(20230228)",
+          "up": "头号个体",
+          "duration": 3318,
+          "kind": "original",
+          "views": 282,
+          "pic": "https://i2.hdslb.com/bfs/archive/96efe16352aa3c1068a353f67d4d430a18cf006e.jpg",
+          "checked_at": "2026-11-15T13:16:38.335136+00:00"
+        }
+      ]
+    },
+    {
       "id": "04ERSb06dOg",
       "title": "Noether's Theorem and The Symmetries of Reality",
       "author": "PBS Space Time",
@@ -17278,6 +17693,41 @@
           "views": 4064,
           "pic": "https://i0.hdslb.com/bfs/archive/cd14ac0210d0f4fb51e3909e0a0b2e74d031d467.png",
           "checked_at": "2026-11-07T05:27:42.407668+00:00"
+        }
+      ]
+    },
+    {
+      "id": "8fHi36dvTdE",
+      "title": "The Unanswered Question 1973 1  Musical Phonology Bernstein Norton",
+      "author": "cagin",
+      "source_url": "https://www.youtube.com/watch?v=8fHi36dvTdE",
+      "summary": "Leonard Bernstein's 1973 Norton Lectures at Harvard, starting with Musical Phonology. He draws analogies between music and linguistics, including references to Chomsky.",
+      "why": "HN recommends it for a deep theory of why music sounds the way it does.",
+      "score": 5.0,
+      "tags": [
+        "leonard bernstein",
+        "norton lectures",
+        "music theory",
+        "chomsky",
+        "harmony"
+      ],
+      "categories": [
+        "music-theory-production",
+        "language-linguistics",
+        "university-lectures"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1nF411H7VP",
+          "page": 1,
+          "cid": 497615288,
+          "title": "The Unanswered Question 1973 1 Musical Phonology Bernstein Norton",
+          "up": "redguitar21",
+          "duration": 6339,
+          "kind": "original",
+          "views": 112,
+          "pic": "https://i2.hdslb.com/bfs/archive/096086e047a22ce87b77e3742ca49cfd363ddd8c.jpg",
+          "checked_at": "2026-11-15T13:34:18.853697+00:00"
         }
       ]
     },
@@ -17726,6 +18176,40 @@
           "views": 101,
           "pic": "https://i1.hdslb.com/bfs/archive/d0b9da1909f5afa1f7089b12445df70e0cfbc656.jpg",
           "checked_at": "2026-11-13T21:58:22.263312+00:00"
+        }
+      ]
+    },
+    {
+      "id": "Jzfpyo-q-RM",
+      "title": "Worst Nuclear Accidents in History",
+      "author": "Kurzgesagt – In a Nutshell",
+      "source_url": "https://www.youtube.com/watch?v=Jzfpyo-q-RM",
+      "summary": "Kurzgesagt compares how many people nuclear accidents have killed against other energy sources. It walks through the worst nuclear accidents and puts their death tolls in context per unit of energy.",
+      "why": "HN uses it as a short, well-sourced overview showing that fossil fuels kill far more people than nuclear power.",
+      "score": 5.0,
+      "tags": [
+        "nuclear accidents",
+        "energy deaths",
+        "chernobyl",
+        "fossil fuels",
+        "kurzgesagt"
+      ],
+      "categories": [
+        "nuclear-energy",
+        "animals-nature"
+      ],
+      "versions": [
+        {
+          "bvid": "BV13HnzzPEzZ",
+          "page": 129,
+          "cid": 32769705112,
+          "title": "《简而言之Ⅰ》kurzgesagt史上最全科普动画片，科普、英语一起抓",
+          "up": "柚米英语",
+          "duration": 553,
+          "kind": "original",
+          "views": 14326,
+          "pic": "https://i0.hdslb.com/bfs/archive/fc57a4b620abc02954f5ea83ba970258c4862cc1.jpg",
+          "checked_at": "2026-11-15T13:16:33.517956+00:00"
         }
       ]
     },
@@ -18325,6 +18809,40 @@
           "views": 120,
           "pic": "https://i2.hdslb.com/bfs/archive/12343eac2a1a8ceaa8be20ac23e16dbd491a356e.jpg",
           "checked_at": "2026-11-07T05:27:42.845198+00:00"
+        }
+      ]
+    },
+    {
+      "id": "Y3n3c_8Nn2Y",
+      "title": "fr-08: .the .product by farbrausch | 64k intro (2000) (720p HQ demoscene demo)",
+      "author": "Demoscene High-Quality Videos (Annikras)",
+      "source_url": "https://www.youtube.com/watch?v=Y3n3c_8Nn2Y",
+      "summary": "A recording of .the .product by Farbrausch, the first-place 64k intro at The Party 2000. It fits an 11-minute 3D demo with music into 64 kilobytes.",
+      "why": "HN commenters use it as the standard example of how much a tiny program can do, in contrast to bloated modern software.",
+      "score": 5.0,
+      "tags": [
+        "demoscene",
+        "farbrausch",
+        "64k intro",
+        "procedural graphics",
+        "size coding"
+      ],
+      "categories": [
+        "demoscene-retrocomputing",
+        "computer-graphics-rendering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Lx411G7pz",
+          "page": 1,
+          "cid": 24012550,
+          "title": "【技术的汉斯】fr-08  the product",
+          "up": "转角遇到丁蟹",
+          "duration": 659,
+          "kind": "original",
+          "views": 435,
+          "pic": "https://i0.hdslb.com/bfs/archive/50ca2fe9b6a70e95b9eb4d6ef29dbecf2193df82.jpg",
+          "checked_at": "2026-11-15T13:34:18.855390+00:00"
         }
       ]
     },
@@ -19238,6 +19756,39 @@
           "views": 483,
           "pic": "https://i1.hdslb.com/bfs/archive/ea433682b39d6009c5d826ca60fbf2d6b028efdd.png",
           "checked_at": "2026-11-15T00:38:34.671511+00:00"
+        }
+      ]
+    },
+    {
+      "id": "yS1ibDImAYU",
+      "title": "End of Space – Creating a Prison for Humanity",
+      "author": "Kurzgesagt – In a Nutshell",
+      "source_url": "https://www.youtube.com/watch?v=yS1ibDImAYU",
+      "summary": "Kurzgesagt explains how accumulating space junk could trigger a collision cascade (Kessler syndrome) that makes launches too dangerous and traps humanity on Earth.",
+      "why": "The standard explainer HN links in satellite and debris threads for the collision-cascade risk.",
+      "score": 5.0,
+      "tags": [
+        "kessler syndrome",
+        "space junk",
+        "satellites",
+        "orbital debris",
+        "kurzgesagt"
+      ],
+      "categories": [
+        "space-exploration"
+      ],
+      "versions": [
+        {
+          "bvid": "BV13HnzzPEzZ",
+          "page": 84,
+          "cid": 32765971099,
+          "title": "《简而言之Ⅰ》kurzgesagt史上最全科普动画片，科普、英语一起抓",
+          "up": "柚米英语",
+          "duration": 455,
+          "kind": "original",
+          "views": 14326,
+          "pic": "https://i0.hdslb.com/bfs/archive/fc57a4b620abc02954f5ea83ba970258c4862cc1.jpg",
+          "checked_at": "2026-11-15T13:16:33.515111+00:00"
         }
       ]
     },
@@ -20713,6 +21264,40 @@
       ]
     },
     {
+      "id": "P73REgj-3UE",
+      "title": "Primitive Technology: Tiled Roof Hut",
+      "author": "Primitive Technology",
+      "source_url": "https://www.youtube.com/watch?v=P73REgj-3UE",
+      "summary": "The Primitive Technology channel shows the construction of a tiled roof hut in the bush using only primitive tools and materials made in earlier videos. It includes tiles, a kiln, clay walls and underfloor heating.",
+      "why": "HN shares it as a mesmerizing example of building shelter and tools entirely from scratch.",
+      "score": 4.5,
+      "tags": [
+        "primitive technology",
+        "roof tiles",
+        "kiln",
+        "hut",
+        "handmade"
+      ],
+      "categories": [
+        "home-diy-repair",
+        "civil-engineering-construction"
+      ],
+      "versions": [
+        {
+          "bvid": "BV18m411S72E",
+          "page": 1,
+          "cid": 1444020951,
+          "title": "原始技术：瓦顶小屋",
+          "up": "-三天不打-",
+          "duration": 849,
+          "kind": "original",
+          "views": 175,
+          "pic": "https://i0.hdslb.com/bfs/archive/2fbda44d40180c79b28c01a712a08dae566acf18.jpg",
+          "checked_at": "2026-11-15T13:56:30.106954+00:00"
+        }
+      ]
+    },
+    {
       "id": "PY9DcIMGxMs",
       "title": "Everything you think you know about addiction is wrong | Johann Hari | TED",
       "author": "TED",
@@ -21669,6 +22254,41 @@
       ]
     },
     {
+      "id": "ezVk1ahRF78",
+      "title": "Religions and babies | Hans Rosling",
+      "author": "TED",
+      "source_url": "https://www.youtube.com/watch?v=ezVk1ahRF78",
+      "summary": "Hans Rosling's TEDxSummit talk asks whether some religions have higher birth rates and how that affects population growth. He charts data across time and religions and reaches a surprising conclusion about fertility.",
+      "why": "Recommended whenever population growth comes up, as a data-driven correction to common assumptions.",
+      "score": 4.5,
+      "tags": [
+        "hans rosling",
+        "fertility rates",
+        "demographics",
+        "religion",
+        "ted talk"
+      ],
+      "categories": [
+        "social-issues-culture",
+        "data-visualization",
+        "religion-belief"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1yx41117KT",
+          "page": 1,
+          "cid": 13970114,
+          "title": "TED-Religions and babies",
+          "up": "二战的柏林",
+          "duration": 797,
+          "kind": "original",
+          "views": 1200,
+          "pic": "https://i1.hdslb.com/bfs/archive/84702ccb6596ea1d61cc1bc872c08c05dcf2a177.jpg",
+          "checked_at": "2026-11-15T13:56:30.113698+00:00"
+        }
+      ]
+    },
+    {
       "id": "gV5obrYaogU",
       "title": "SYMBOLICS S-PACKAGES 3D GRAPHICS AND ANIMATION DEMO",
       "author": "Red Martian",
@@ -21972,6 +22592,41 @@
           "views": 284266,
           "pic": "https://i2.hdslb.com/bfs/archive/19b95fe788370661fc413c038617aa4acddb6ccb.jpg",
           "checked_at": "2026-11-07T05:27:44.631359+00:00"
+        }
+      ]
+    },
+    {
+      "id": "lkgszkPnV8g",
+      "title": "CppCon 2017: Louis Brandy “Curiously Recurring C++ Bugs at Facebook”",
+      "author": "CppCon",
+      "source_url": "https://www.youtube.com/watch?v=lkgszkPnV8g",
+      "summary": "Louis Brandy presents the most common and infamous recurring C++ bugs seen in Facebook's huge codebase, including shared_ptr data races and operator[] pitfalls. He explains the surprising complexity behind seemingly simple code.",
+      "why": "HN recommends it as a must-watch catalogue of C++ footguns, often cited in debates about Rust and C++ safety.",
+      "score": 4.5,
+      "tags": [
+        "c++",
+        "footguns",
+        "shared_ptr",
+        "cppcon",
+        "memory safety",
+        "facebook"
+      ],
+      "categories": [
+        "systems-programming-languages",
+        "security-hacking"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Vx411V7Rd",
+          "page": 125,
+          "cid": 26062247,
+          "title": "CppCon 2017 共139P",
+          "up": "rSkip",
+          "duration": 3121,
+          "kind": "original",
+          "views": 11549,
+          "pic": "https://i2.hdslb.com/bfs/archive/d19a886e577e68a359fce2452d3bdd098f5cf581.png",
+          "checked_at": "2026-11-15T13:16:33.513012+00:00"
         }
       ]
     },
@@ -22338,6 +22993,73 @@
           "views": 371,
           "pic": "https://i1.hdslb.com/bfs/archive/3ff3792980c31afc55662e0fe5a4538e89af4429.jpg",
           "checked_at": "2026-11-07T05:27:44.894398+00:00"
+        }
+      ]
+    },
+    {
+      "id": "xrIjfIjssLE",
+      "title": "Erlang: The Movie",
+      "author": "uncertainyesterday",
+      "source_url": "https://www.youtube.com/watch?v=xrIjfIjssLE",
+      "summary": "A short Ericsson film demoing Erlang, showing concurrent processes, debugging tools, and hot code reloading, including crashing parts of a running system while calls continue.",
+      "why": "A beloved classic that HN recommends as the quickest way to see why Erlang is special.",
+      "score": 4.5,
+      "tags": [
+        "erlang",
+        "concurrency",
+        "hot code reloading",
+        "fault tolerance",
+        "ericsson"
+      ],
+      "categories": [
+        "functional-programming",
+        "distributed-systems"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1vW411w7gh",
+          "page": 1,
+          "cid": 41718910,
+          "title": "Erlang The Movie (中文字幕)",
+          "up": "匿名机器人",
+          "duration": 691,
+          "kind": "sub_zh",
+          "views": 1329,
+          "pic": "https://i1.hdslb.com/bfs/archive/fb10524a74e622a2eb288b05038ad058024f7580.png",
+          "checked_at": "2026-11-15T13:16:38.328300+00:00"
+        }
+      ]
+    },
+    {
+      "id": "zAFcV7zuUDA",
+      "title": "How to tie your shoes | Terry Moore",
+      "author": "TED",
+      "source_url": "https://www.youtube.com/watch?v=zAFcV7zuUDA",
+      "summary": "Terry Moore's three-minute TED talk showing a better way to tie shoes, replacing the common granny knot with a square knot so laces stay tied.",
+      "why": "Recommended as a tiny, useful life hack many commenters adopted for good.",
+      "score": 4.5,
+      "tags": [
+        "shoelace knot",
+        "square knot",
+        "ted",
+        "life hack"
+      ],
+      "categories": [
+        "home-diy-repair",
+        "ideas-education-other"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1CJ41137mu",
+          "page": 1,
+          "cid": 118437414,
+          "title": "【TED演讲】How to tie your shoes-Ted（無字幕）",
+          "up": "SevDemon阿葉",
+          "duration": 177,
+          "kind": "original",
+          "views": 2172,
+          "pic": "https://i1.hdslb.com/bfs/archive/8f4bf43bad09da6ba04b64f473fcb4734a1e720d.jpg",
+          "checked_at": "2026-11-15T13:56:30.113319+00:00"
         }
       ]
     },
@@ -27681,6 +28403,40 @@
       ]
     },
     {
+      "id": "94ed4v_T6YM",
+      "title": "Is The Alcubierre Warp Drive Possible? | Space Time | PBS Digital Studios",
+      "author": "PBS Space Time",
+      "source_url": "https://www.youtube.com/watch?v=94ed4v_T6YM",
+      "summary": "PBS Space Time introduces Miguel Alcubierre's warp drive, explaining how spacetime itself could be warped rather than moving a ship through it, and whether it is physically possible.",
+      "why": "HN points to it as a short, approachable starting point on warp drive physics from a channel commenters like.",
+      "score": 3.5,
+      "tags": [
+        "warp drive",
+        "general relativity",
+        "spacetime",
+        "pbs space time",
+        "faster than light"
+      ],
+      "categories": [
+        "cosmology-astrophysics",
+        "fundamental-physics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1nt41167AB",
+          "page": 37,
+          "cid": 69361047,
+          "title": "【PBS Space Time】合辑  持续更新【英文字幕】",
+          "up": "微小的公开课",
+          "duration": 603,
+          "kind": "original",
+          "views": 29677,
+          "pic": "https://i2.hdslb.com/bfs/archive/03ac073c1c603e1f864583503bd34f95a395fd15.jpg",
+          "checked_at": "2026-11-15T13:16:33.646161+00:00"
+        }
+      ]
+    },
+    {
       "id": "97t7Xj_iBv0",
       "title": "Why Machines That Bend Are Better",
       "author": "Veritasium",
@@ -27756,6 +28512,40 @@
           "views": 229,
           "pic": "https://i0.hdslb.com/bfs/archive/c498cb13abfae7f2ebc640ccb1d18869a811d0e7.jpg",
           "checked_at": "2026-11-10T11:48:29.997295+00:00"
+        }
+      ]
+    },
+    {
+      "id": "9QveBbn7t_c",
+      "title": "Monad - FunFunFunction #21",
+      "author": "Fun Fun Function",
+      "source_url": "https://www.youtube.com/watch?v=9QveBbn7t_c",
+      "summary": "An episode of FunFunFunction explaining monads in JavaScript as functors that also implement flatMap. It builds on the preceding functor episode and works through code examples.",
+      "why": "Recommended to people confused by monads as a friendly, practical explanation for JavaScript developers, with one commenter saying it finally made it click.",
+      "score": 3.5,
+      "tags": [
+        "monads",
+        "functional programming",
+        "flatmap",
+        "functors",
+        "javascript"
+      ],
+      "categories": [
+        "functional-programming",
+        "web-development"
+      ],
+      "versions": [
+        {
+          "bvid": "BV11W411273s",
+          "page": 11,
+          "cid": 58120909,
+          "title": "函数式编程 Functional Programming in JavaScript（油管搬运）",
+          "up": "孔凯_BIM",
+          "duration": 685,
+          "kind": "original",
+          "views": 2136,
+          "pic": "https://i2.hdslb.com/bfs/archive/e0dd99d94aef19d4f6682d0c966f36d79dc47859.jpg",
+          "checked_at": "2026-11-15T13:16:33.518163+00:00"
         }
       ]
     },
@@ -28793,6 +29583,40 @@
           "views": 489329,
           "pic": "https://i2.hdslb.com/bfs/archive/7db6e4ecbe249b369dca33211383303bef33f477.jpg",
           "checked_at": "2026-11-07T05:27:34.234321+00:00"
+        }
+      ]
+    },
+    {
+      "id": "IJiHDmyhE1A",
+      "title": "Christopher Tin - Baba Yetu (Official Video) feat. Soweto Gospel Choir",
+      "author": "Christopher Tin",
+      "source_url": "https://www.youtube.com/watch?v=IJiHDmyhE1A",
+      "summary": "The official video for Baba Yetu, Christopher Tin's Swahili-language choral piece written as the theme to Civilization IV. It was the first video game music to win a Grammy.",
+      "why": "HN commenters hold it up as the greatest video game song, evoking wonder and pride in humanity.",
+      "score": 3.5,
+      "tags": [
+        "baba yetu",
+        "civilization",
+        "choral music",
+        "christopher tin",
+        "swahili"
+      ],
+      "categories": [
+        "music-performance",
+        "gaming-culture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1H34y1Z72X",
+          "page": 1,
+          "cid": 439890402,
+          "title": "Baba Yetu (《文明6》主题曲 Choir)合唱音频及曲谱预览 - Christopher Tin",
+          "up": "魏一咯",
+          "duration": 217,
+          "kind": "original",
+          "views": 1237,
+          "pic": "https://i0.hdslb.com/bfs/archive/a01320ebeb1339cc90971c6b061d563b1a0b779b.jpg",
+          "checked_at": "2026-11-15T13:34:18.855116+00:00"
         }
       ]
     },
@@ -32908,6 +33732,39 @@
       ]
     },
     {
+      "id": "st571DYYTR8",
+      "title": "The Ultimate French Press Technique",
+      "author": "James Hoffmann",
+      "source_url": "https://www.youtube.com/watch?v=st571DYYTR8",
+      "summary": "James Hoffmann demonstrates his technique for a clean, sludge-free cup from a French press: stir, break the crust, wait, and carefully pour. It is a four-minute guide.",
+      "why": "HN commenters swear by it as the best way to make French press coffee, and cite its 16:1 water-to-coffee ratio.",
+      "score": 3.5,
+      "tags": [
+        "french press",
+        "coffee brewing",
+        "james hoffmann",
+        "home brewing",
+        "technique"
+      ],
+      "categories": [
+        "cooking-food"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1vVD8YVESL",
+          "page": 1,
+          "cid": 26622361878,
+          "title": "你误会法压壶啦！收下这份法压壶终极使用指南！",
+          "up": "几何乡",
+          "duration": 214,
+          "kind": "original",
+          "views": 377,
+          "pic": "https://i2.hdslb.com/bfs/archive/e854a488d9df453be221253b4fec5a68fb84e33a.jpg",
+          "checked_at": "2026-11-15T13:16:35.954372+00:00"
+        }
+      ]
+    },
+    {
       "id": "tcTZvNLL0-w",
       "title": "THE MARS UNDERGROUND [HD] Full Movie",
       "author": "Blue Mars",
@@ -33398,6 +34255,40 @@
           "views": 3,
           "pic": "https://i2.hdslb.com/bfs/archive/fc74c994c467692fb6095d2ebb0dd781d87bac3f.png",
           "checked_at": "2026-11-07T05:27:52.348045+00:00"
+        }
+      ]
+    },
+    {
+      "id": "y-AXTx4PcKI",
+      "title": "Alec Baldwin - Best performance",
+      "author": "David Lukas",
+      "source_url": "https://www.youtube.com/watch?v=y-AXTx4PcKI",
+      "summary": "The famous Alec Baldwin monologue from the film Glengarry Glen Ross, where his character Blake berates salesmen with the 'Always Be Closing' speech. It is a short, profane scene about sales pressure and motivation.",
+      "why": "HN points to it as the one scene worth watching from the movie, a classic about sales and entrepreneurship.",
+      "score": 3.5,
+      "tags": [
+        "glengarry glen ross",
+        "always be closing",
+        "sales",
+        "alec baldwin",
+        "film scene"
+      ],
+      "categories": [
+        "film-tv-clips",
+        "product-growth-marketing"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1zs4uz3EbS",
+          "page": 1,
+          "cid": 43475340072,
+          "title": "【舞台语言】电影《拜金一族》布莱克独白（1992） | Alec Baldwin（亚历克·鲍德温）",
+          "up": "PRACTICE實踐劇場",
+          "duration": 448,
+          "kind": "original",
+          "views": 1250,
+          "pic": "https://i1.hdslb.com/bfs/archive/51e24851e07cf8c5f7be6ceda803b426a6338e72.jpg",
+          "checked_at": "2026-11-15T13:56:30.113952+00:00"
         }
       ]
     },
@@ -33911,6 +34802,40 @@
           "views": 17606,
           "pic": "https://i0.hdslb.com/bfs/archive/486d4324cb6501a12f0bb0152edb8755cd79e9fb.jpg",
           "checked_at": "2026-11-13T21:58:26.431249+00:00"
+        }
+      ]
+    },
+    {
+      "id": "3Y2weLDiUWw",
+      "title": "17. Succinct Structures I",
+      "author": "MIT OpenCourseWare",
+      "source_url": "https://www.youtube.com/watch?v=3Y2weLDiUWw",
+      "summary": "Erik Demaine's MIT 6.851 Advanced Data Structures lecture introducing succinct data structures, covering rank, select and tries. It is part of the Spring 2012 course.",
+      "why": "HN recommends it as a clear, high-quality introduction to succinct data structures from a leading authority.",
+      "score": 3.0,
+      "tags": [
+        "rank and select",
+        "tries",
+        "data structures",
+        "mit 6.851",
+        "erik demaine"
+      ],
+      "categories": [
+        "algorithms-data-structures",
+        "university-lectures"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1FDFVzdEBA",
+          "page": 17,
+          "cid": 36937141521,
+          "title": "《高级数据结构|6.851 Advanced Data Structures, Spring 2012》中英字幕（deepseek",
+          "up": "GPT中英字幕课程资源",
+          "duration": 4811,
+          "kind": "sub_zh",
+          "views": 1976,
+          "pic": "https://i2.hdslb.com/bfs/archive/010e59969612bd2a886419022337ed3ecb87b06c.jpg",
+          "checked_at": "2026-11-15T13:16:33.553169+00:00"
         }
       ]
     },
@@ -36825,6 +37750,40 @@
       ]
     },
     {
+      "id": "UjtOGPJ0URM",
+      "title": "Why Alien Life Would be our Doom - The Great Filter",
+      "author": "Kurzgesagt – In a Nutshell",
+      "source_url": "https://www.youtube.com/watch?v=UjtOGPJ0URM",
+      "summary": "A short Kurzgesagt animation explaining the Great Filter, the idea that finding alien life might be bad news because it implies something usually destroys civilizations. It connects the concept to the Fermi paradox.",
+      "why": "HN links it as a concise, accessible explainer whenever the Fermi paradox or Great Filter comes up, though one commenter criticized its lack of source attribution.",
+      "score": 3.0,
+      "tags": [
+        "fermi paradox",
+        "great filter",
+        "aliens",
+        "existential risk",
+        "kurzgesagt"
+      ],
+      "categories": [
+        "cosmology-astrophysics",
+        "futurism-technology-society"
+      ],
+      "versions": [
+        {
+          "bvid": "BV13HnzzPEzZ",
+          "page": 70,
+          "cid": 32763806873,
+          "title": "《简而言之Ⅰ》kurzgesagt史上最全科普动画片，科普、英语一起抓",
+          "up": "柚米英语",
+          "duration": 498,
+          "kind": "original",
+          "views": 14326,
+          "pic": "https://i0.hdslb.com/bfs/archive/fc57a4b620abc02954f5ea83ba970258c4862cc1.jpg",
+          "checked_at": "2026-11-15T13:16:33.511227+00:00"
+        }
+      ]
+    },
+    {
       "id": "XuKjBIBBAL8",
       "title": "Cordyceps: attack of the killer fungi - Planet Earth Attenborough BBC wildlife",
       "author": "BBC Studios",
@@ -37987,6 +38946,73 @@
           "views": 2016,
           "pic": "https://i0.hdslb.com/bfs/archive/e881071e3484e3272dfb4f990a786f1fcdb452e5.jpg",
           "checked_at": "2026-11-07T05:27:55.740583+00:00"
+        }
+      ]
+    },
+    {
+      "id": "kixAljyfdqU",
+      "title": "The Higgs Mechanism Explained | Space Time | PBS Digital Studios",
+      "author": "PBS Space Time",
+      "source_url": "https://www.youtube.com/watch?v=kixAljyfdqU",
+      "summary": "PBS Space Time explains the Higgs field and how the Higgs mechanism gives particles mass within quantum field theory. It is a ten-minute overview for a lay audience.",
+      "why": "Recommended as a clear explanation of how electrons gain mass, and the channel itself gets binge-watch praise.",
+      "score": 3.0,
+      "tags": [
+        "higgs field",
+        "quantum field theory",
+        "particle physics",
+        "mass",
+        "pbs space time"
+      ],
+      "categories": [
+        "quantum-physics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1nt41167AB",
+          "page": 43,
+          "cid": 69362221,
+          "title": "【PBS Space Time】合辑  持续更新【英文字幕】",
+          "up": "微小的公开课",
+          "duration": 572,
+          "kind": "original",
+          "views": 29677,
+          "pic": "https://i2.hdslb.com/bfs/archive/03ac073c1c603e1f864583503bd34f95a395fd15.jpg",
+          "checked_at": "2026-11-15T13:16:33.519176+00:00"
+        }
+      ]
+    },
+    {
+      "id": "klpDHn8viX8",
+      "title": "The Holographic Universe Explained",
+      "author": "PBS Space Time",
+      "source_url": "https://www.youtube.com/watch?v=klpDHn8viX8",
+      "summary": "A PBS Space Time episode explaining the holographic principle: the idea that our 3+1 dimensional universe may be described by information on a lower-dimensional boundary. It walks through black hole entropy and the AdS/CFT correspondence.",
+      "why": "HN commenters point to it as an accessible way to get a grip on AdS/CFT and the holographic principle whenever black holes or information physics come up.",
+      "score": 3.0,
+      "tags": [
+        "holographic principle",
+        "ads/cft",
+        "black holes",
+        "theoretical physics",
+        "pbs space time"
+      ],
+      "categories": [
+        "quantum-physics",
+        "cosmology-astrophysics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1nt41167AB",
+          "page": 194,
+          "cid": 85819642,
+          "title": "【PBS Space Time】合辑  持续更新【英文字幕】",
+          "up": "微小的公开课",
+          "duration": 1104,
+          "kind": "original",
+          "views": 29677,
+          "pic": "https://i2.hdslb.com/bfs/archive/03ac073c1c603e1f864583503bd34f95a395fd15.jpg",
+          "checked_at": "2026-11-15T13:16:33.520207+00:00"
         }
       ]
     },
@@ -44121,6 +45147,40 @@
       ]
     },
     {
+      "id": "6JAgXz6xO0s",
+      "title": "The Secret Life of components. A series of eight guides for designers and makers by Tim Hunkin",
+      "author": "tim hunkin",
+      "source_url": "https://www.youtube.com/watch?v=6JAgXz6xO0s",
+      "summary": "The trailer for Tim Hunkin's series The Secret Life of Components, eight guides to mechanical and electromechanical parts for designers and makers.",
+      "why": "Recommended to people who like building things, as part of Hunkin's body of practical engineering explainers.",
+      "score": 2.0,
+      "tags": [
+        "tim hunkin",
+        "making",
+        "mechanisms",
+        "engineering",
+        "electromechanical"
+      ],
+      "categories": [
+        "mechanical-engineering",
+        "3d-printing-cnc"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1A24y1f7kF",
+          "page": 1,
+          "cid": 879412592,
+          "title": "[中英字幕]Tim Hunkin 组件的秘密生活 The Secret Life of components",
+          "up": "真心的启示",
+          "duration": 181,
+          "kind": "sub_zh",
+          "views": 1770,
+          "pic": "https://i0.hdslb.com/bfs/archive/1f7994cfdd5f1e243d250f098cb7cc02fe24deef.jpg",
+          "checked_at": "2026-11-15T13:34:18.848734+00:00"
+        }
+      ]
+    },
+    {
       "id": "6JwEYamjXpA",
       "title": "What Happens When Maths Goes Wrong? - with Matt Parker",
       "author": "The Royal Institution",
@@ -45694,6 +46754,40 @@
       ]
     },
     {
+      "id": "HF-9Dy6iB_4",
+      "title": "Why Quantum Information is Never Destroyed",
+      "author": "PBS Space Time",
+      "source_url": "https://www.youtube.com/watch?v=HF-9Dy6iB_4",
+      "summary": "A PBS Space Time episode asking whether the universe's information can ever truly be lost, tying quantum mechanics, determinism and black holes together. It sets up the black hole information paradox.",
+      "why": "HN commenters point to it as an accessible explanation of abstract modern physics around the black hole information problem.",
+      "score": 2.0,
+      "tags": [
+        "quantum mechanics",
+        "black holes",
+        "information paradox",
+        "determinism",
+        "physics"
+      ],
+      "categories": [
+        "quantum-physics",
+        "cosmology-astrophysics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1nt41167AB",
+          "page": 157,
+          "cid": 69510940,
+          "title": "【PBS Space Time】合辑  持续更新【英文字幕】",
+          "up": "微小的公开课",
+          "duration": 823,
+          "kind": "original",
+          "views": 29677,
+          "pic": "https://i2.hdslb.com/bfs/archive/03ac073c1c603e1f864583503bd34f95a395fd15.jpg",
+          "checked_at": "2026-11-15T13:16:33.516936+00:00"
+        }
+      ]
+    },
+    {
       "id": "HUMGc8hEkpc",
       "title": "Superluminal Time Travel + Time Warp Challenge Answer",
       "author": "PBS Space Time",
@@ -46225,6 +47319,40 @@
       ]
     },
     {
+      "id": "Ks-_Mh1QhMc",
+      "title": "Your Body Language May Shape Who You Are | Amy Cuddy | TED",
+      "author": "TED",
+      "source_url": "https://www.youtube.com/watch?v=Ks-_Mh1QhMc",
+      "summary": "Amy Cuddy's TED talk arguing that adopting expansive postures, or power posing, can boost feelings of confidence and affect success. A note on the video points to the later reproducibility debate over its findings.",
+      "why": "HN brings it up in threads about impostor syndrome, confidence, and body language as an interesting talk on faking it until you feel it.",
+      "score": 2.0,
+      "tags": [
+        "power posing",
+        "confidence",
+        "social psychology",
+        "ted talk",
+        "impostor syndrome"
+      ],
+      "categories": [
+        "psychology-behavior",
+        "productivity-self-improvement"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ifSxYAEa6",
+          "page": 1,
+          "cid": 26514293826,
+          "title": "【Psychology】 Amy Cuddy TED: Your Body Language May Shape Who You Are",
+          "up": "Meredith的手术帽儿",
+          "duration": 1263,
+          "kind": "original",
+          "views": 81,
+          "pic": "https://i0.hdslb.com/bfs/archive/5557d39b63283011379f49da078976883d5a4543.jpg",
+          "checked_at": "2026-11-15T13:34:18.846633+00:00"
+        }
+      ]
+    },
+    {
       "id": "LKiBlGDfRU8",
       "title": "My dream died, and now I'm here",
       "author": "Sabine Hossenfelder",
@@ -46611,6 +47739,41 @@
       ]
     },
     {
+      "id": "NxvQPzrg2Wg",
+      "title": "Why Meat is the Best Worst Thing in the World 🍔",
+      "author": "Kurzgesagt – In a Nutshell",
+      "source_url": "https://www.youtube.com/watch?v=NxvQPzrg2Wg",
+      "summary": "A Kurzgesagt animated explainer on meat: why people love it and what it costs animals, the environment and health. It lays out the complicated trade-offs of meat production and consumption.",
+      "why": "Cited in animal-welfare and environmental threads as a short, thought-provoking piece on how humans treat animals.",
+      "score": 2.0,
+      "tags": [
+        "meat",
+        "animal welfare",
+        "environment",
+        "veganism",
+        "factory farming"
+      ],
+      "categories": [
+        "environment-agriculture",
+        "nutrition-diet",
+        "philosophy-ethics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV13HnzzPEzZ",
+          "page": 82,
+          "cid": 32765577220,
+          "title": "《简而言之Ⅰ》kurzgesagt史上最全科普动画片，科普、英语一起抓",
+          "up": "柚米英语",
+          "duration": 465,
+          "kind": "original",
+          "views": 14326,
+          "pic": "https://i0.hdslb.com/bfs/archive/fc57a4b620abc02954f5ea83ba970258c4862cc1.jpg",
+          "checked_at": "2026-11-15T13:16:33.514198+00:00"
+        }
+      ]
+    },
+    {
       "id": "OB-bdWKwXsU",
       "title": "Going Native 2012 Keynote Stroustrup",
       "author": "savage309",
@@ -46676,6 +47839,40 @@
           "views": 228,
           "pic": "https://i2.hdslb.com/bfs/archive/71a895aa21392e3370c9c9b4a6bc06b70f5e832a.jpg",
           "checked_at": "2026-11-07T05:28:03.440352+00:00"
+        }
+      ]
+    },
+    {
+      "id": "OMcjxe8slYI",
+      "title": "Secret Billionaire: The Chuck Feeney Story",
+      "author": "atlanticphil",
+      "source_url": "https://www.youtube.com/watch?v=OMcjxe8slYI",
+      "summary": "An RTE documentary on Chuck Feeney, the Atlantic Philanthropies founder who secretly gave away his fortune. It covers his Giving While Living approach and his gifts to Irish education.",
+      "why": "Recommended in threads on Feeney as a decent, thorough account of his anonymous giving.",
+      "score": 2.0,
+      "tags": [
+        "chuck feeney",
+        "giving while living",
+        "billionaires",
+        "ireland",
+        "charity"
+      ],
+      "categories": [
+        "labor-work-wealth",
+        "documentaries-storytelling"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1n7411b7FN",
+          "page": 1,
+          "cid": 149897865,
+          "title": "生肉《秘密亿万富翁查克·费尼的故事 Secret Billionaire_ The Chuck Feeney Story》",
+          "up": "亦深fjminxi",
+          "duration": 3429,
+          "kind": "original",
+          "views": 1034,
+          "pic": "https://i1.hdslb.com/bfs/archive/b0a7d06919701d2dd9e92ab580c838b6dcc297fc.jpg",
+          "checked_at": "2026-11-15T13:34:18.848883+00:00"
         }
       ]
     },
@@ -47460,6 +48657,40 @@
           "views": 61221,
           "pic": "https://i1.hdslb.com/bfs/archive/ad4e79fc69c23f99767ef866038c486e4c795905.jpg",
           "checked_at": "2026-11-07T05:28:04.075284+00:00"
+        }
+      ]
+    },
+    {
+      "id": "VhWGQCzAtl8",
+      "title": "Games Should Not Cost $60 Anymore - Inflation, Microtransactions, and Publishing - Extra Credits",
+      "author": "Extra Credits",
+      "source_url": "https://www.youtube.com/watch?v=VhWGQCzAtl8",
+      "summary": "Extra Credits explains from a game developer's perspective why AAA games have stayed at $60 despite inflation, and how that pressure drives DLC, microtransactions and loot boxes.",
+      "why": "HN uses it as a short explanation of AAA pricing economics in discussions of microtransactions and game pricing.",
+      "score": 2.0,
+      "tags": [
+        "game pricing",
+        "microtransactions",
+        "loot boxes",
+        "game industry",
+        "inflation"
+      ],
+      "categories": [
+        "game-design",
+        "tech-industry-business"
+      ],
+      "versions": [
+        {
+          "bvid": "BV16s411N7TQ",
+          "page": 360,
+          "cid": 47761739,
+          "title": "【游戏设计】[英字]额外加分全集(连载）(Extra Credits: All Episodes）",
+          "up": "Sadi223",
+          "duration": 387,
+          "kind": "original",
+          "views": 20305,
+          "pic": "https://i2.hdslb.com/bfs/archive/c1fef1f6a994f11b097f90db3c582ff13aa5c353.jpg",
+          "checked_at": "2026-11-15T13:16:33.637521+00:00"
         }
       ]
     },
@@ -51293,6 +52524,41 @@
       ]
     },
     {
+      "id": "2BIx2x-Q2fE",
+      "title": "An astonishing old calculator - Numberphile",
+      "author": "Numberphile",
+      "source_url": "https://www.youtube.com/watch?v=2BIx2x-Q2fE",
+      "summary": "Cliff Stoll shows and explains his two Friden EC-132 electronic calculators for Numberphile. The video covers how these early machines worked, including their unusual acoustic delay line memory.",
+      "why": "It is the go-to visual explanation of delay-line memory and early electronic calculators whenever the topic comes up.",
+      "score": 1.5,
+      "tags": [
+        "cliff stoll",
+        "friden ec-132",
+        "delay line memory",
+        "vintage computing",
+        "numberphile"
+      ],
+      "categories": [
+        "history-of-computing",
+        "recreational-math",
+        "computer-architecture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1roLY6TEYk",
+          "page": 35,
+          "cid": 38516424749,
+          "title": "Numberphile YouTube 最受欢迎的非正式数学频道",
+          "up": "杰克船长爸爸爱学习",
+          "duration": 560,
+          "kind": "original",
+          "views": 2900,
+          "pic": "https://i0.hdslb.com/bfs/archive/1299ebb2221c83a94f35fd6168a25ec4c325152b.jpg",
+          "checked_at": "2026-11-15T13:34:18.860402+00:00"
+        }
+      ]
+    },
+    {
       "id": "2o8MDCIlOEk",
       "title": "EEVblog #822 - World's Worst Tablet Computer Teardown",
       "author": "EEVblog",
@@ -52096,6 +53362,40 @@
       ]
     },
     {
+      "id": "OxGsU8oIWjY",
+      "title": "How An Infinite Hotel Ran Out Of Room",
+      "author": "Veritasium",
+      "source_url": "https://www.youtube.com/watch?v=OxGsU8oIWjY",
+      "summary": "Veritasium shows how Hilbert's infinite hotel can still run out of room, using infinite buses of guests. It explains the surprising answer in a short animated segment.",
+      "why": "HN mentions it as a related, well-made Veritasium video when infinity and Hilbert's hotel come up.",
+      "score": 1.5,
+      "tags": [
+        "hilbert hotel",
+        "infinity",
+        "set theory",
+        "veritasium",
+        "mathematics"
+      ],
+      "categories": [
+        "recreational-math",
+        "logic-formal-methods"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1FJ411279y",
+          "page": 1,
+          "cid": 130680002,
+          "title": "【Ted-ED】无限旅馆悖论 The Infinite Hotel Paradox",
+          "up": "小猫咪字幕组",
+          "duration": 361,
+          "kind": "original",
+          "views": 799,
+          "pic": "https://i0.hdslb.com/bfs/archive/280d955a6d586991438cfb8069f6d344cd917dfa.jpg",
+          "checked_at": "2026-11-15T13:56:30.114461+00:00"
+        }
+      ]
+    },
+    {
       "id": "PAAkCSZUG1c",
       "title": "Gopherfest 2015 | Go Proverbs with Rob Pike",
       "author": "The Go Programming Language",
@@ -52454,6 +53754,41 @@
       ]
     },
     {
+      "id": "aAlR3cezPJg",
+      "title": "Lecture 7A: Metacircular Evaluator, Part 1",
+      "author": "MIT OpenCourseWare",
+      "source_url": "https://www.youtube.com/watch?v=aAlR3cezPJg",
+      "summary": "Lecture 7A from MIT 6.001 (SICP) by Abelson and Sussman introduces the metacircular evaluator, a Scheme interpreter written in Scheme. It shows how evaluating a program is itself a program.",
+      "why": "HN holds the SICP lectures up as joyful classics, and this lecture as the moment the evaluator is revealed.",
+      "score": 1.5,
+      "tags": [
+        "sicp",
+        "scheme",
+        "interpreters",
+        "mit 6.001",
+        "lisp"
+      ],
+      "categories": [
+        "compilers-interpreters",
+        "functional-programming",
+        "university-lectures"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1AA411t7Wk",
+          "page": 13,
+          "cid": 188253918,
+          "title": "[MIT] 6.001 计算机程序的构造与解释 (Structure and Interpretation, 1986)",
+          "up": "微小的公开课",
+          "duration": 5078,
+          "kind": "original",
+          "views": 26464,
+          "pic": "https://i1.hdslb.com/bfs/archive/b36089a30b599358d083ace7ff805fba523b2898.jpg",
+          "checked_at": "2026-11-15T13:16:33.515601+00:00"
+        }
+      ]
+    },
+    {
       "id": "aESqrP3hfi8",
       "title": "Why Dutch Bikes are Better (and why you should want one)",
       "author": "Not Just Bikes",
@@ -52484,6 +53819,76 @@
           "views": 9416,
           "pic": "https://i1.hdslb.com/bfs/archive/8adeac2ee9f9f2203a21c626639ec597a0676d0a.jpg",
           "checked_at": "2026-11-13T21:58:21.849586+00:00"
+        }
+      ]
+    },
+    {
+      "id": "dlbMuv-jix8",
+      "title": "Lecture 1B | MIT 6.001 Structure and Interpretation, 1986",
+      "author": "MIT OpenCourseWare",
+      "source_url": "https://www.youtube.com/watch?v=dlbMuv-jix8",
+      "summary": "Lecture 1B of MIT's 6.001 Structure and Interpretation of Computer Programs (1986) with Gerald Sussman, covering procedures, processes and the substitution model. It includes the line about the power of naming things.",
+      "why": "HN commenters hold it up as an unmatched introduction to programming and quote Sussman's line that knowing a spirit's name gives you power over it.",
+      "score": 1.5,
+      "tags": [
+        "sicp",
+        "scheme",
+        "recursion",
+        "abstraction",
+        "mit 6.001",
+        "sussman"
+      ],
+      "categories": [
+        "university-lectures",
+        "functional-programming",
+        "compilers-interpreters"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1AA411t7Wk",
+          "page": 2,
+          "cid": 188200327,
+          "title": "[MIT] 6.001 计算机程序的构造与解释 (Structure and Interpretation, 1986)",
+          "up": "微小的公开课",
+          "duration": 3502,
+          "kind": "original",
+          "views": 26464,
+          "pic": "https://i1.hdslb.com/bfs/archive/b36089a30b599358d083ace7ff805fba523b2898.jpg",
+          "checked_at": "2026-11-15T13:16:33.554352+00:00"
+        }
+      ]
+    },
+    {
+      "id": "fQQ8IiTWHhg",
+      "title": "The Trinity Hall Prime - Numberphile",
+      "author": "Numberphile",
+      "source_url": "https://www.youtube.com/watch?v=fQQ8IiTWHhg",
+      "summary": "Numberphile with Tadashi Tokieda on the Trinity Hall Prime, a prime number whose digits form a picture of the college's coat of arms, left as a gift by a departing mathematician.",
+      "why": "Cited as the origin of the prime-number portrait trend and as an example of drawings made with primes.",
+      "score": 1.5,
+      "tags": [
+        "prime numbers",
+        "numberphile",
+        "trinity hall",
+        "recreational math",
+        "primality testing"
+      ],
+      "categories": [
+        "recreational-math",
+        "pure-mathematics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1roLY6TEYk",
+          "page": 92,
+          "cid": 38516492577,
+          "title": "Numberphile YouTube 最受欢迎的非正式数学频道",
+          "up": "杰克船长爸爸爱学习",
+          "duration": 229,
+          "kind": "original",
+          "views": 2900,
+          "pic": "https://i0.hdslb.com/bfs/archive/1299ebb2221c83a94f35fd6168a25ec4c325152b.jpg",
+          "checked_at": "2026-11-15T13:34:18.860976+00:00"
         }
       ]
     },
@@ -54436,6 +55841,39 @@
       ]
     },
     {
+      "id": "AfKZclMWS1U",
+      "title": "Grzegorz Brzęczyszczykiewicz (HD)",
+      "author": "trouchelle",
+      "source_url": "https://www.youtube.com/watch?v=AfKZclMWS1U",
+      "summary": "A colorized clip from the 1970 Polish comedy film 'How I Unleashed World War II' in which a character must pronounce the tongue-twisting name Grzegorz Brzeczyszczykiewicz for a Gestapo officer.",
+      "why": "Mostly posted as a joke in threads about Polish, Unicode or hard-to-pronounce names, and loved as a comedy scene.",
+      "score": 1.0,
+      "tags": [
+        "polish cinema",
+        "comedy scene",
+        "pronunciation",
+        "how i unleashed world war ii"
+      ],
+      "categories": [
+        "film-tv-clips",
+        "language-linguistics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1UE41167JZ",
+          "page": 1,
+          "cid": 124629192,
+          "title": "Grzegorz Brzęczyszczykiewicz but with Half-Life SFX",
+          "up": "AkariMarisa",
+          "duration": 80,
+          "kind": "original",
+          "views": 145,
+          "pic": "https://i1.hdslb.com/bfs/archive/a0246a0a515488b0b677077aa3fe310e6f0197f7.jpg",
+          "checked_at": "2026-11-15T13:34:18.853486+00:00"
+        }
+      ]
+    },
+    {
       "id": "AgkfIQ4IGaM",
       "title": "Deep Visualization Toolbox",
       "author": "Jason Yosinski",
@@ -54467,6 +55905,40 @@
           "views": 1307,
           "pic": "https://i2.hdslb.com/bfs/archive/d39e12e54b5d2412e9d7cc30661925fb40ce018d.jpg",
           "checked_at": "2026-11-13T16:56:39.356647+00:00"
+        }
+      ]
+    },
+    {
+      "id": "AouW9_jyZck",
+      "title": "BMW's Hydrogen V12 Engine Is A Hilarious Engineering Stunt",
+      "author": "Engineering Explained",
+      "source_url": "https://www.youtube.com/watch?v=AouW9_jyZck",
+      "summary": "Engineering Explained examines BMW's Hydrogen 7, a V12 that burns liquid hydrogen or gasoline. He covers cryogenic storage at -253C and why the approach is impractical.",
+      "why": "Cited in hydrogen threads as a clear explanation of why burning hydrogen in engines is a poor idea.",
+      "score": 1.0,
+      "tags": [
+        "hydrogen",
+        "bmw",
+        "v12",
+        "liquid hydrogen",
+        "engine"
+      ],
+      "categories": [
+        "automotive-ev",
+        "mechanical-engineering"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1wP4y167Zi",
+          "page": 1,
+          "cid": 981837237,
+          "title": "【汽车专业英语】宝马汽车12缸发动机BMW's Hydrogen V12 Engine Is A Hilarious Engineering Stunt",
+          "up": "休闲英语学习社",
+          "duration": 979,
+          "kind": "original",
+          "views": 899,
+          "pic": "https://i2.hdslb.com/bfs/archive/da1e7b7ed98978550d5f8ef6349a20ee6f95a972.jpg",
+          "checked_at": "2026-11-15T13:34:18.848287+00:00"
         }
       ]
     },
@@ -55337,6 +56809,41 @@
       ]
     },
     {
+      "id": "JZ017D_JOPY",
+      "title": "Linus Torvalds on his insults: respect should be earned.",
+      "author": "TFiR",
+      "source_url": "https://www.youtube.com/watch?v=JZ017D_JOPY",
+      "summary": "A short TFiR clip in which Linus Torvalds explains his view that respect should be earned rather than given, in defense of his blunt and insulting style.",
+      "why": "HN uses it as the reference for Linus's stance on rudeness and respect in debates about civility and gratuitous negativity.",
+      "score": 1.0,
+      "tags": [
+        "linus torvalds",
+        "civility",
+        "open source culture",
+        "linux kernel",
+        "communication"
+      ],
+      "categories": [
+        "linux-open-source-os",
+        "tech-figures-interviews",
+        "software-practice-careers"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1U54y1B71C",
+          "page": 1,
+          "cid": 202342655,
+          "title": "Linus Torvalds on his insults: respect should be earned, not be given.",
+          "up": "zxhyp2009",
+          "duration": 241,
+          "kind": "original",
+          "views": 121,
+          "pic": "https://i2.hdslb.com/bfs/archive/8b18c6577a1bbf2a1a723085e55a3690cf5c8d97.jpg",
+          "checked_at": "2026-11-15T13:34:18.847070+00:00"
+        }
+      ]
+    },
+    {
       "id": "JaF-fq2Zn7I",
       "title": "Innovating to zero! | Bill Gates",
       "author": "TED",
@@ -55503,6 +57010,41 @@
           "views": 58,
           "pic": "https://i0.hdslb.com/bfs/archive/4e0825bff40e53cb2186687ea3f65c1daf68ecac.jpg",
           "checked_at": "2026-11-13T18:32:38.581986+00:00"
+        }
+      ]
+    },
+    {
+      "id": "KtYkyB35zkk",
+      "title": "Tim Minchin: Storm",
+      "author": "TheDamnWreckless",
+      "source_url": "https://www.youtube.com/watch?v=KtYkyB35zkk",
+      "summary": "Tim Minchin performs his comedic beat poem 'Storm', a roughly nine-minute rant against homeopathy, alternative medicine and woolly thinking. It is delivered as a fast, rhyming monologue built around an encounter at a dinner party.",
+      "why": "HN commenters link it as a funny, quotable takedown of alternative medicine and cite its lines (such as 'alternative medicine that works is called medicine') in threads on homeopathy.",
+      "score": 1.0,
+      "tags": [
+        "homeopathy",
+        "beat poem",
+        "skepticism",
+        "stand-up",
+        "science vs pseudoscience"
+      ],
+      "categories": [
+        "religion-belief",
+        "standup-sketch-comedy",
+        "life-sciences-other"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1g44y1m7t1",
+          "page": 18,
+          "cid": 372908292,
+          "title": "【搬运】【大合集】丁门庆 Tim Minchin 音乐栋笃笑 现场+综艺【中字】【截至15年】",
+          "up": "Alfary",
+          "duration": 621,
+          "kind": "sub_zh",
+          "views": 9295,
+          "pic": "https://i0.hdslb.com/bfs/archive/b66f67b8db912b26bcc75504d89698df8c3f336e.jpg",
+          "checked_at": "2026-11-15T13:56:30.113135+00:00"
         }
       ]
     },
@@ -62355,6 +63897,41 @@
       ]
     },
     {
+      "id": "ug-CyGXMabg",
+      "title": "Ben Heck's Nintendo-Playstation Prototype Pt 1 Teardown",
+      "author": "element14 presents",
+      "source_url": "https://www.youtube.com/watch?v=ug-CyGXMabg",
+      "summary": "A Ben Heck Show episode tearing down the Nintendo PlayStation prototype, one of the rarest consoles ever, with its owners Terry and Dan Diebold. Part 2 then gets it working again.",
+      "why": "HN uses it to show what the Nintendo PlayStation prototype hardware actually looked like, essentially an SNES with a CD-ROM drive.",
+      "score": 1.0,
+      "tags": [
+        "ben heck",
+        "teardown",
+        "snes",
+        "console prototype",
+        "retro gaming"
+      ],
+      "categories": [
+        "repair-teardown",
+        "game-history-retro",
+        "embedded-diy-electronics"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1gs41117KS",
+          "page": 2,
+          "cid": 8800306,
+          "title": "任天堂 PlayStation 试验机 介绍&拆解",
+          "up": "给q你你好勇敢",
+          "duration": 1598,
+          "kind": "original",
+          "views": 3269,
+          "pic": "https://i0.hdslb.com/bfs/archive/cd710109a30629320370e92b4edf4ff78f03b299.jpg",
+          "checked_at": "2026-11-15T13:16:38.335809+00:00"
+        }
+      ]
+    },
+    {
       "id": "upsZZ2s3xv8",
       "title": "CANADA VIGNETTES: LOG DRIVER'S WALTZ | Full Animated Film | National Film Board of Canada",
       "author": "NFB",
@@ -63096,6 +64673,41 @@
           "views": 3830,
           "pic": "https://i1.hdslb.com/bfs/archive/04f7e02f9fa4e0b91b7484ff2f6cb0da3e06619b.jpg",
           "checked_at": "2026-11-13T21:58:55.296558+00:00"
+        }
+      ]
+    },
+    {
+      "id": "0m6hoOelZH8",
+      "title": "Lecture 7A | MIT 6.001 Structure and Interpretation, 1986",
+      "author": "MIT OpenCourseWare",
+      "source_url": "https://www.youtube.com/watch?v=0m6hoOelZH8",
+      "summary": "Lecture 7A of the 1986 MIT 6.001 SICP course, with Gerald Sussman presenting the metacircular evaluator, part 1. It shows how a Lisp evaluator can be written in Lisp itself.",
+      "why": "HN commenters cite it as the classic explanation of eval and the meta-circular evaluator.",
+      "score": 0.0,
+      "tags": [
+        "sicp",
+        "scheme",
+        "lisp",
+        "interpreters",
+        "mit 6.001"
+      ],
+      "categories": [
+        "compilers-interpreters",
+        "functional-programming",
+        "university-lectures"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1zPTj6FEGQ",
+          "page": 33,
+          "cid": 39589971744,
+          "title": "【MIT】麻省理工学院6.001课程《结构与解释》，1986年   MIT 6.001 Structure and Interpretation, 1986",
+          "up": "DiscoveryJourney",
+          "duration": 5078,
+          "kind": "original",
+          "views": 450,
+          "pic": "https://i1.hdslb.com/bfs/archive/e9241c22ff35f94c8959dc901ec80e0a34d58ffb.jpg",
+          "checked_at": "2026-11-15T13:56:30.111103+00:00"
         }
       ]
     },
@@ -65212,6 +66824,41 @@
       ]
     },
     {
+      "id": "EHqPrHTN1dU",
+      "title": "Gboard 両面バージョン",
+      "author": "Google Japan",
+      "source_url": "https://www.youtube.com/watch?v=EHqPrHTN1dU",
+      "summary": "A short Google Japan promotional video, in Japanese, for Gboard Double-Sided, a keyboard with no back side that comes in a paper-craft version and a full electronics version. It is a playful April-Fools-style product concept.",
+      "why": "HN mentions it mainly as an example of Google Japan's habit of making joke keyboards, with some complaints that it was misleading.",
+      "score": 0.0,
+      "tags": [
+        "gboard",
+        "google japan",
+        "keyboard",
+        "diy hardware",
+        "april fools"
+      ],
+      "categories": [
+        "consumer-devices",
+        "embedded-diy-electronics",
+        "satire-parody"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1HC4y1L7xd",
+          "page": 1,
+          "cid": 1285674630,
+          "title": "学习CW的新姿势-莫尔斯输入法Gboard",
+          "up": "BH4FTI",
+          "duration": 141,
+          "kind": "original",
+          "views": 2295,
+          "pic": "https://i0.hdslb.com/bfs/archive/231683b5e1565c371fbfd7a2fc85987ea32ff8e9.jpg",
+          "checked_at": "2026-11-15T13:56:30.112670+00:00"
+        }
+      ]
+    },
+    {
       "id": "EIyixC9NsLI",
       "title": "Badgers : animated music video : MrWeebl",
       "author": "Weebl's Stuff",
@@ -66947,6 +68594,39 @@
           "views": 38,
           "pic": "https://i2.hdslb.com/bfs/archive/887985521f4c67c2534250b1af72393a3566237a.jpg",
           "checked_at": "2026-11-13T21:59:05.510488+00:00"
+        }
+      ]
+    },
+    {
+      "id": "NlHUz99l-eo",
+      "title": "Ipod Ad",
+      "author": "nikzarea",
+      "source_url": "https://www.youtube.com/watch?v=NlHUz99l-eo",
+      "summary": "A 2006 iPod commercial set to Daft Punk's Technologic, with dancing silhouettes and bright white headphones.",
+      "why": "Cited as an example of Apple selling feelings and status rather than specs.",
+      "score": 0.0,
+      "tags": [
+        "ipod",
+        "advertising",
+        "apple marketing",
+        "daft punk"
+      ],
+      "categories": [
+        "arts-entertainment-other",
+        "tech-company-stories"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Bx411E7hp",
+          "page": 1,
+          "cid": 26073677,
+          "title": "「经典」苹果 iPod 宣传片- Walkie Talkie Man",
+          "up": "Apple资讯集",
+          "duration": 31,
+          "kind": "original",
+          "views": 2422,
+          "pic": "https://i2.hdslb.com/bfs/archive/7e1eb200e4be9846677788a044df9affe64a35ca.jpg",
+          "checked_at": "2026-11-15T13:56:30.112504+00:00"
         }
       ]
     },
@@ -70722,6 +72402,41 @@
       ]
     },
     {
+      "id": "iE39q-IKOzA",
+      "title": "Harry Potter by Balenciaga",
+      "author": "demonflyingfox",
+      "source_url": "https://www.youtube.com/watch?v=iE39q-IKOzA",
+      "summary": "A short AI-generated parody video that imagines Harry Potter as a Balenciaga fashion campaign, made with Midjourney, ChatGPT and Eleven Labs voices. It became a viral meme.",
+      "why": "HN cites it as the original of the Balenciaga AI meme family and as an early viral AI mashup moment.",
+      "score": 0.0,
+      "tags": [
+        "balenciaga",
+        "harry potter",
+        "generative ai",
+        "meme",
+        "midjourney"
+      ],
+      "categories": [
+        "llms-generative-ai",
+        "satire-parody",
+        "internet-culture"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1wTckzkE8i",
+          "page": 5,
+          "cid": 36966043469,
+          "title": "巴黎世家版哈利·波特（2026） | demonflyingfox",
+          "up": "一摩尔炸鸡翅",
+          "duration": 55,
+          "kind": "original",
+          "views": 1018185,
+          "pic": "https://i1.hdslb.com/bfs/archive/75e458faedfc0368f9c943e8074ddbc660df8182.jpg",
+          "checked_at": "2026-11-15T13:16:33.646478+00:00"
+        }
+      ]
+    },
+    {
       "id": "iGLzWdT7vGc",
       "title": "David Foster Wallace unedited interview (2003)",
       "author": "Manufacturing Intellect",
@@ -71649,6 +73364,39 @@
           "views": 356,
           "pic": "https://i2.hdslb.com/bfs/archive/f0db34baefdad4951b4d151a1e620b3b09612982.jpg",
           "checked_at": "2026-11-07T05:27:34.216073+00:00"
+        }
+      ]
+    },
+    {
+      "id": "ll3CMgiUPuU",
+      "title": "John Coltrane - A Love Supreme [Full Album] (1965)",
+      "author": "Jazzaddict 98",
+      "source_url": "https://www.youtube.com/watch?v=ll3CMgiUPuU",
+      "summary": "The full 1965 John Coltrane album A Love Supreme, in four parts: Acknowledgement, Resolution, Pursuance and Psalm. It features Coltrane's quartet with McCoy Tyner, Jimmy Garrison and Elvin Jones.",
+      "why": "Mentioned as an example of spiritual, non-romantic love in music and as a demanding jazz work that is hard for the uninitiated.",
+      "score": 0.0,
+      "tags": [
+        "john coltrane",
+        "a love supreme",
+        "1960s jazz",
+        "modal jazz",
+        "full album"
+      ],
+      "categories": [
+        "music-performance"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1gW4y1K7kG",
+          "page": 1,
+          "cid": 934248485,
+          "title": "[HI-RES]John Coltrane - A Love Supreme",
+          "up": "立希总线",
+          "duration": 1967,
+          "kind": "original",
+          "views": 26088,
+          "pic": "https://i2.hdslb.com/bfs/archive/7a3b12c720cedf86b56c00879fa9331683edc495.jpg",
+          "checked_at": "2026-11-15T13:34:18.855252+00:00"
         }
       ]
     },
@@ -73151,6 +74899,40 @@
       ]
     },
     {
+      "id": "xAUJYP8tnRE",
+      "title": "Why We Should NOT Look For Aliens - The Dark Forest",
+      "author": "Kurzgesagt – In a Nutshell",
+      "source_url": "https://www.youtube.com/watch?v=xAUJYP8tnRE",
+      "summary": "Kurzgesagt animated explainer on the Dark Forest answer to the Fermi Paradox. It argues that if advanced civilizations exist, staying silent may be the safest strategy because revealing yourself invites a first strike.",
+      "why": "HN commenters cite it as the accessible summary of the Dark Forest theory whenever SETI, alien contact, or hostile-environment analogies come up.",
+      "score": 0.0,
+      "tags": [
+        "dark forest",
+        "seti",
+        "aliens",
+        "game theory",
+        "kurzgesagt"
+      ],
+      "categories": [
+        "cosmology-astrophysics",
+        "probability-game-theory"
+      ],
+      "versions": [
+        {
+          "bvid": "BV13HnzzPEzZ",
+          "page": 147,
+          "cid": 32770035264,
+          "title": "《简而言之Ⅰ》kurzgesagt史上最全科普动画片，科普、英语一起抓",
+          "up": "柚米英语",
+          "duration": 631,
+          "kind": "original",
+          "views": 14326,
+          "pic": "https://i0.hdslb.com/bfs/archive/fc57a4b620abc02954f5ea83ba970258c4862cc1.jpg",
+          "checked_at": "2026-11-15T13:16:33.512319+00:00"
+        }
+      ]
+    },
+    {
       "id": "y0vlD7r-kTc",
       "title": "35C3 -  How Facebook tracks you on Android",
       "author": "media.ccc.de",
@@ -73421,6 +75203,40 @@
       ]
     },
     {
+      "id": "z4FGzE4endQ",
+      "title": "Jeeesus WEPT!",
+      "author": "The KenMik Edit",
+      "source_url": "https://www.youtube.com/watch?v=z4FGzE4endQ",
+      "summary": "A Community clip in which Dean Pelton explores a virtual reality environment, including a blooper moment.",
+      "why": "Linked as a joke whenever VR interfaces or headsets are discussed.",
+      "score": 0.0,
+      "tags": [
+        "community",
+        "virtual reality",
+        "dean pelton",
+        "tv clip",
+        "bloopers"
+      ],
+      "categories": [
+        "film-tv-clips",
+        "vr-ar-spatial"
+      ],
+      "versions": [
+        {
+          "bvid": "BV1Ra4y1F7hg",
+          "page": 1,
+          "cid": 1189205600,
+          "title": "Jesus Wept",
+          "up": "YeWalksWithMe_",
+          "duration": 262,
+          "kind": "original",
+          "views": 1167,
+          "pic": "https://i0.hdslb.com/bfs/archive/c53dcec11b1412809bec16ef696f8068dd2c7fdb.jpg",
+          "checked_at": "2026-11-15T13:56:30.114607+00:00"
+        }
+      ]
+    },
+    {
       "id": "z5Otla5157c",
       "title": "YOLO (feat. Adam Levine & Kendrick Lamar)",
       "author": "thelonelyisland",
@@ -73676,6 +75492,7 @@
     "BV13z421U7cs": "wjZofJX0v4M",
     "BV1AJUKByEVs": "wjZofJX0v4M",
     "BV11FhJeYEA3": "xguam0TKMw8",
+    "BV1AA411t7Wk": "-J_xL4IGhJA",
     "BV1dAxX63Ezs": "ySuUZEjARPY",
     "BV1YU4y1V7k4": "ySuUZEjARPY",
     "BV1d5411N79p": "ySuUZEjARPY",
@@ -73750,6 +75567,7 @@
     "BV1rZ4y1D7s6": "tX4H_ctggYo",
     "BV1f1HpziE18": "tX4H_ctggYo",
     "BV1SN411Q7dv": "yJDv-zdhzMY",
+    "BV19i4y1N7Jd": "zDZFcDGpL4U",
     "BV1x7411H7wa": "2sjqTHE0zok",
     "BV1s741167bQ": "42QuXLucH3Q",
     "BV1wu411D7C4": "5Ge2RcvDlgw",
@@ -73795,6 +75613,7 @@
     "BV1ks41127Lp": "YEBfamv-_do",
     "BV1ex411J7dc": "YEBfamv-_do",
     "BV1vXVd6HEoB": "YEBfamv-_do",
+    "BV1QK411V7v5": "Z1PCtIaM_GQ",
     "BV1FY411Y7kN": "dCuZkaaou0Q",
     "BV1bJ411r7rA": "dljNabciEGg",
     "BV1u4411H7Ry": "kjBOesZCoqc",
@@ -73820,6 +75639,7 @@
     "BV1um6HYQE3e": "h6fcK_fRYaI",
     "BV1XNKK6REkW": "h6fcK_fRYaI",
     "BV12M411A7jq": "lKXe3HUG2l4",
+    "BV1nt41167AB": "msVuCEs8Ydo",
     "BV1Hf4y1r7NT": "nm1TxQj9IsQ",
     "BV1Gu411479S": "nm1TxQj9IsQ",
     "BV12J411m731": "oIG9ztQw2Gc",
@@ -73878,7 +75698,9 @@
     "BV1hR4y1v7hF": "fHNmRkzxHWs",
     "BV1fGNg6kEBB": "fHNmRkzxHWs",
     "BV1CAWjzZEwb": "fHNmRkzxHWs",
+    "BV15k4y167GN": "j3mhkYbznBk",
     "BV117411i7P7": "l7rce6IQDWs",
+    "BV1rT4y1G7Vi": "pqzcCfUglws",
     "BV1w64y147Ym": "t705r8ICkRw",
     "BV1ZDLf6TEu6": "t705r8ICkRw",
     "BV1M7411Y7m8": "tybOi4hjZFQ",
@@ -73926,6 +75748,7 @@
     "BV1eP41197kY": "wupToqz1e2g",
     "BV1pt411o7Y3": "wxL4ElboiuA",
     "BV1rH4y1w7sq": "xt1KNDmOYqA",
+    "BV1Ex411w7WC": "yL_-1d9OSdk",
     "BV1k4411U758": "zNVQfWC_evg",
     "BV1AU421o7ob": "zjkBMFhNj_g",
     "BV1jQpL6AEvh": "zjkBMFhNj_g",
@@ -73996,6 +75819,7 @@
     "BV1HZ7f6JE5S": "xP5-iIeKXE8",
     "BV1JU4y1L7pT": "0SARbwvhupQ",
     "BV1Ms411H7bU": "0SARbwvhupQ",
+    "BV17WVn6sErZ": "1MGjFKs9bnU",
     "BV1gJykB1EJe": "2AXv49dDQJw",
     "BV1AbJi6ZEqb": "2AXv49dDQJw",
     "BV1K2EQ6BEtL": "3Fx5Q8xGU8k",
@@ -74110,6 +75934,7 @@
     "BV19tEJ68ESZ": "AW3gaelBypY",
     "BV161UUBdEaJ": "AmgkSdhK4K8",
     "BV1s741167f6": "BickMFHAZR0",
+    "BV1oV411x7qo": "CaCcOwJPytQ",
     "BV1tE411h7x4": "EK32jo7i5LQ",
     "BV1HsZrB8EJy": "GoW8Tf7hTGA",
     "BV1Qs411r7Fo": "GoW8Tf7hTGA",
@@ -74121,6 +75946,7 @@
     "BV1JgUDBbEM8": "KTzGBJPuJwM",
     "BV1mUua6wEfb": "LKnqECcg6Gw",
     "BV14x411e7HL": "MijmeoH9LT4",
+    "BV1mj411N77v": "NHopJHSlVo4",
     "BV1jJ41177T5": "NlIdzF1_b5M",
     "BV1ab4y1b7fs": "Pi7l8mMjYVE",
     "BV1knUBBAEVE": "SrU9YDoXE88",
@@ -74169,12 +75995,13 @@
     "BV1JvzzBgEYy": "zduSFxRajkE",
     "BV1q94y1U7oA": "-FENubmZGj8",
     "BV1Ux411C7MX": "-Ht4qiDRZE8",
-    "BV1nt41167AB": "04ERSb06dOg",
+    "BV1imTN6cEuV": "-iCIZQX9i1A",
     "BV1kt4y1i7hs": "1xQeXOz0Ncs",
     "BV1x741187V5": "5hVmeOCJjOU",
     "BV1zE411G7Tp": "6RhtiPefVzM",
     "BV1keUGBtEti": "7J7X7aZvMXQ",
     "BV16T421a7Rx": "7J7X7aZvMXQ",
+    "BV1nF411H7VP": "8fHi36dvTdE",
     "BV1844y1Z7gi": "9zinZmE3Ogk",
     "BV1bAS9B9E6v": "Auuk1y4DRgk",
     "BV1qb411x7YB": "C25qzDhGLx8",
@@ -74214,6 +76041,7 @@
     "BV1vv41167gn": "VAhHkJQ3KgY",
     "BV16p4y147sG": "VQKMoT-6XSg",
     "BV1BA411L7VJ": "XRYN2xt11Ek",
+    "BV1Lx411G7pz": "Y3n3c_8Nn2Y",
     "BV1jfxMzKETZ": "Y5K9HBiJpuk",
     "BV1vx4y1D7GV": "YpuX-5E7xoU",
     "BV1KxWJ6hEJQ": "ZMByI4s-D-Y",
@@ -74252,7 +76080,6 @@
     "BV18JUWBqEtE": "1K5oDtVAYzk",
     "BV1jU4y1V7m2": "1L2ef1CP-yw",
     "BV19W411i7es": "2NBG-sKFaB0",
-    "BV19i4y1N7Jd": "3-son3EJTrU",
     "BV18t411Z7XD": "34LGPIXvU5M",
     "BV1Ba4y1x7EZ": "34LGPIXvU5M",
     "BV1Kk4y1275o": "34LGPIXvU5M",
@@ -74292,6 +76119,7 @@
     "BV1RS4y1w7uY": "Nrp_LZ-XGsY",
     "BV1tx411W7wH": "OKY6BGcx37k",
     "BV1Tb411b7Az": "Obt-vMVdM8s",
+    "BV18m411S72E": "P73REgj-3UE",
     "BV1vs411C7Ju": "PY9DcIMGxMs",
     "BV12p4y1a7x8": "QMYfkOtYYlg",
     "BV1AY411L7Nn": "QMYfkOtYYlg",
@@ -74323,6 +76151,7 @@
     "BV1Du411Z7oX": "cj02_UeUnGQ",
     "BV1JE411X7NE": "dpw9EHDh2bM",
     "BV134411z7sk": "ez773teNFYA",
+    "BV1yx41117KT": "ezVk1ahRF78",
     "BV18u411B75s": "gV5obrYaogU",
     "BV1Pju1zkEoi": "hC3VTgIPoGU",
     "BV1XQWCe8EHf": "iDulhoQ2pro",
@@ -74344,6 +76173,8 @@
     "BV1G4411D7kZ": "v0YEaeIClKY",
     "BV1MF411t7CC": "xMP_AfiNlX4",
     "BV1Yb41177P5": "xixM_cwSLcQ",
+    "BV1vW411w7gh": "xrIjfIjssLE",
+    "BV1CJ41137mu": "zAFcV7zuUDA",
     "BV1E84y1H7XN": "zi0rHwfiX1Q",
     "BV1oZFGeQEPt": "zyVTxGpEO30",
     "BV12wNPedEBQ": "zyVTxGpEO30",
@@ -74517,6 +76348,7 @@
     "BV1Mb411E71L": "97t7Xj_iBv0",
     "BV1J4411f7QD": "97t7Xj_iBv0",
     "BV1WL411D7mG": "9OfBpQgLXUc",
+    "BV11W411273s": "9QveBbn7t_c",
     "BV16x411273B": "9R5OWh7luL4",
     "BV1C7411i7nK": "9vpqilhW9uI",
     "BV1UT4y1g72s": "9vz06QO3UkQ",
@@ -74553,6 +76385,7 @@
     "BV11W411a7yM": "HhGuXCuDb1U",
     "BV1E9kUYJEpi": "HrUy1Vn2KdI",
     "BV1Ux411j7ri": "IHZwWFHWa-w",
+    "BV1H34y1Z72X": "IJiHDmyhE1A",
     "BV1o24y1g7d2": "IX-gTobCJHs",
     "BV1PA5s6EED5": "Iod6uwUGM2E",
     "BV1Ut411C732": "IrabKK9Bhds",
@@ -74686,6 +76519,7 @@
     "BV1w4411R7Tk": "rrkrvAUbU9Y",
     "BV1Ws411U7Ct": "sI5Ftm1-jik",
     "BV1T5Tk6JEiy": "sPFmKu2S5XY",
+    "BV1vVD8YVESL": "st571DYYTR8",
     "BV1jN411A7XC": "tcTZvNLL0-w",
     "BV1m1jt6PEgo": "tmNXKqeUtJM",
     "BV1FB4y1w7F8": "u-x7PdnvCyI",
@@ -74700,6 +76534,7 @@
     "BV1xZR1BkEAc": "xoxhDk-hwuo",
     "BV1q6ac62EJW": "xoxhDk-hwuo",
     "BV1seEe6XEW9": "xoxhDk-hwuo",
+    "BV1zs4uz3EbS": "y-AXTx4PcKI",
     "BV1yg4y1p7mc": "yvDCzhbjYWs",
     "BV1XE411y7Xv": "z8MVKianh54",
     "BV1wmaa6VE4D": "zSIDRHUWlVo",
@@ -74715,6 +76550,7 @@
     "BV1UddkBgEqA": "2AnbYNudAyM",
     "BV1rM411K7qb": "2JAOTJxYqh8",
     "BV1Qs411u78U": "2OSrvzNW9FE",
+    "BV1FDFVzdEBA": "3Y2weLDiUWw",
     "BV1zr4y1Z7RN": "46ehrFk-gLk",
     "BV1Ex411V7ps": "4AfRAVcThyA",
     "BV1mi4y1A7ji": "4HgShra-KnY",
@@ -75038,6 +76874,7 @@
     "BV17e411x7Ru": "6Af6b_wyiwI",
     "BV1B741157N3": "6Af6b_wyiwI",
     "BV1cYxaz3EeY": "6Cf7IL_eZ38",
+    "BV1A24y1f7kF": "6JAgXz6xO0s",
     "BV1ZS4y1P7Sp": "6JwEYamjXpA",
     "BV1HZ4y1N7aS": "6Maq5IyHSuc",
     "BV1Cb411278y": "6b4ZZQkcNEo",
@@ -75096,6 +76933,7 @@
     "BV1KW411Y7B9": "KVN_0qvuhhw",
     "BV1wf4y1X75w": "KdfHVcU8U7U",
     "BV1oLGM67EGe": "KkMDCCdjyW8",
+    "BV1ifSxYAEa6": "Ks-_Mh1QhMc",
     "BV1Ex421S7kn": "LKiBlGDfRU8",
     "BV18C41157za": "LKiBlGDfRU8",
     "BV1sJ411X714": "LLCF7vPanrY",
@@ -75108,6 +76946,7 @@
     "BV1hb4y1s7BA": "MtxA20Q-Uss",
     "BV1z44y1C7Kz": "OB-bdWKwXsU",
     "BV12x411h7im": "OINa46HeWg8",
+    "BV1n7411b7FN": "OMcjxe8slYI",
     "BV1Bm411B7Mp": "OTVE5iPMKLg",
     "BV1QaHXe7EMw": "OWJCfOvochA",
     "BV1up4y1r7pp": "PTUY16CkS-k",
@@ -75272,6 +77111,7 @@
     "BV1ap4y1D7ML": "NfnWJUyUJYU",
     "BV1BX4y157CK": "OO18F4aKGzQ",
     "BV1us411r774": "OaGp5_Sfbss",
+    "BV1FJ411279y": "OxGsU8oIWjY",
     "BV11W411n75x": "PAAkCSZUG1c",
     "BV1rv411M7Nh": "PGqCeSjNuTY",
     "BV1hD4y1Q7Up": "RGw6fXprV9U",
@@ -75342,7 +77182,9 @@
     "BV1Pb4y1S7Fc": "ALaTm6VzTBw",
     "BV1WW411c7XM": "AYshVbcEmUc",
     "BV1cxwqeBE4v": "AaTRHFaaPG8",
+    "BV1UE41167JZ": "AfKZclMWS1U",
     "BV19s411Y7yM": "AgkfIQ4IGaM",
+    "BV1wP4y167Zi": "AouW9_jyZck",
     "BV1ZA411t7nK": "BxV14h0kFs0",
     "BV1xs411X7aV": "C-52AI_ojyQ",
     "BV1ei4y1L7Q3": "CAOnSbDSaOw",
@@ -75367,10 +77209,12 @@
     "BV1Ds41117RS": "IJNR2EpS0jw",
     "BV1wS411P75S": "JOiGEI9pQBs",
     "BV1mm411C7kd": "JRcXUuQYR90",
+    "BV1U54y1B71C": "JZ017D_JOPY",
     "BV14Y411E7TS": "JaF-fq2Zn7I",
     "BV1TN9cB7EPq": "JnlULOjUhSQ",
     "BV1E7411t7VQ": "K8kua5B5K3I",
     "BV1V3hgzyEEf": "KZeIEiBrT_w",
+    "BV1g44y1m7t1": "KtYkyB35zkk",
     "BV1Br4y1H7sw": "L-s_3b5fRd8",
     "BV1J6dvBME8Y": "LCEmiRjPEtQ",
     "BV1X9xC6LErK": "LCEmiRjPEtQ",
@@ -75585,6 +77429,7 @@
     "BV1aY411d71H": "uOJCS1W1uzg",
     "BV197411Y7GS": "uQHFQoFoxvQ",
     "BV1Kf4y137RE": "ubDMLoWz76U",
+    "BV1gs41117KS": "ug-CyGXMabg",
     "BV1Fs411h7UR": "upsZZ2s3xv8",
     "BV1fSXdYhETg": "v2Q_zHG3vqg",
     "BV1Cx411c7eK": "v4Wy7gRGgeA",
@@ -75675,6 +77520,7 @@
     "BV1GL4y1K7ZS": "DJklHwoYgBQ",
     "BV1xz4y197yX": "Dd7FixvoKBw",
     "BV15WHf67Ebf": "DxREm3s1scA",
+    "BV1HC4y1L7xd": "EHqPrHTN1dU",
     "BV1CwEi6pErc": "EIyixC9NsLI",
     "BV15LpMzREhR": "ErwS24cBZPc",
     "BV1Gb411G7nY": "EzZGPCyrpSU",
@@ -75730,6 +77576,7 @@
     "BV1Fd4y1c7Ti": "N5xfBtD6rLY",
     "BV1bh41117j6": "N9qYF9DZPdw",
     "BV1MESEBoECu": "NCvKXgp-Awo",
+    "BV1Bx411E7hp": "NlHUz99l-eo",
     "BV1Qb411r7wn": "ODZBL80JPqw",
     "BV1Ux411K7nQ": "OPcV9uIY5i4",
     "BV15t411w7rX": "PF7EpEnglgk",
@@ -75847,6 +77694,7 @@
     "BV183411b75S": "hYAuR5bkIlQ",
     "BV1W2aBz7ECQ": "i5f8bqYYwps",
     "BV1254Ae5EWj": "i8ju_10NkGY",
+    "BV1wTckzkE8i": "iE39q-IKOzA",
     "BV1kh411o7eS": "iGLzWdT7vGc",
     "BV1gb411V7v1": "iGLzWdT7vGc",
     "BV1nu4y1V7EX": "iIiAAhUeR6Y",
@@ -75877,6 +77725,7 @@
     "BV1rw411C7Va": "lUQ_0MubbcM",
     "BV1oULi6gEeB": "lXUZvyajciY",
     "BV1JVWtzDEPJ": "lXUZvyajciY",
+    "BV1gW4y1K7kG": "ll3CMgiUPuU",
     "BV1RxZmYCEo1": "mArrNRWQEso",
     "BV1Eu411y74P": "mS5WYp5xmvI",
     "BV1jf4y1B7u2": "mS5WYp5xmvI",
@@ -75928,6 +77777,7 @@
     "BV13N4y1o7p5": "yaXma6K9mzo",
     "BV1Vq4y1t7Gf": "yhuMLpdnOjY",
     "BV1ts411r7Eb": "yuC_4mGTs98",
+    "BV1Ra4y1F7hg": "z4FGzE4endQ",
     "BV1S5411578D": "z5Otla5157c",
     "BV1Yh4rz4EQi": "zHU1xH6Ogs4",
     "BV18q4y1r77u": "zhPklt9nYas",
