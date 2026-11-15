@@ -1,0 +1,446 @@
+{
+  "checked_at": "2026-11-15T01:18:41.818Z",
+  "passed": true,
+  "checks": [
+    {
+      "sample": "lHcTKWiZ8sI",
+      "id": "lHcTKWiZ8sI",
+      "bvid": "BV16s411N7TQ",
+      "page": 264,
+      "cid": 47674221,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.785211,
+        "duration": 459,
+        "paused": false,
+        "error": null
+      },
+      "expected_duration": 459,
+      "duration_matches_segment": true,
+      "requested_cid_observed": true,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "LxgMdjyw8uw",
+      "id": "LxgMdjyw8uw",
+      "bvid": "BV13HnzzPEzZ",
+      "page": 151,
+      "cid": 32770162817,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.462165,
+        "duration": 851,
+        "paused": false,
+        "error": null
+      },
+      "expected_duration": 851,
+      "duration_matches_segment": true,
+      "requested_cid_observed": true,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "qOP2V_np2c0",
+      "id": "qOP2V_np2c0",
+      "bvid": "BV1Fo4y1p7E8",
+      "page": 1,
+      "cid": 1084592139,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.453517,
+        "duration": 671,
+        "paused": false,
+        "error": null
+      },
+      "expected_duration": 671,
+      "duration_matches_segment": true,
+      "requested_cid_observed": true,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "ceCOhdgRBoc",
+      "id": "ceCOhdgRBoc",
+      "bvid": "BV1fx411U7WY",
+      "page": 1,
+      "cid": 16738778,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.766951,
+        "duration": 1550.8540000000003,
+        "paused": false,
+        "error": null
+      },
+      "expected_duration": 1551,
+      "duration_matches_segment": true,
+      "requested_cid_observed": true,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "3S5BLs51yDQ",
+      "id": "3S5BLs51yDQ",
+      "bvid": "BV1ix411L7U6",
+      "page": 1,
+      "cid": 26752760,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.825128,
+        "duration": 69,
+        "paused": false,
+        "error": null
+      },
+      "expected_duration": 69,
+      "duration_matches_segment": true,
+      "requested_cid_observed": true,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "kU3BceoMuaA",
+      "id": "kU3BceoMuaA",
+      "bvid": "BV1KW411N7q2",
+      "page": 1,
+      "cid": 40607592,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.813229,
+        "duration": 2680,
+        "paused": false,
+        "error": null
+      },
+      "expected_duration": 2680,
+      "duration_matches_segment": true,
+      "requested_cid_observed": true,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "YuIIjLr6vUA",
+      "id": "YuIIjLr6vUA",
+      "bvid": "BV1roLY6TEYk",
+      "page": 39,
+      "cid": 38516425733,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.444025,
+        "duration": 2504,
+        "paused": false,
+        "error": null
+      },
+      "expected_duration": 2504,
+      "duration_matches_segment": true,
+      "requested_cid_observed": true,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "wv9n9Casp1o",
+      "id": "wv9n9Casp1o",
+      "bvid": "BV14P411s7Hq",
+      "page": 12,
+      "cid": 1238021640,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.460404,
+        "duration": 151,
+        "paused": false,
+        "error": null
+      },
+      "expected_duration": 151,
+      "duration_matches_segment": true,
+      "requested_cid_observed": true,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "HI09kat_GeI",
+      "id": "HI09kat_GeI",
+      "bvid": "BV1wA41177Dj",
+      "page": 1,
+      "cid": 256491946,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.440846,
+        "duration": 393,
+        "paused": false,
+        "error": null
+      },
+      "expected_duration": 393,
+      "duration_matches_segment": true,
+      "requested_cid_observed": true,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "uCsD3ZGzMgE",
+      "id": "uCsD3ZGzMgE",
+      "bvid": "BV1roLY6TEYk",
+      "page": 42,
+      "cid": 38516426019,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.462175,
+        "duration": 838,
+        "paused": false,
+        "error": null
+      },
+      "expected_duration": 838,
+      "duration_matches_segment": true,
+      "requested_cid_observed": true,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "ncHmEUmJZf4",
+      "id": "ncHmEUmJZf4",
+      "bvid": "BV1Vx411V7Rd",
+      "page": 104,
+      "cid": 26021451,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.815334,
+        "duration": 3572.895487528345,
+        "paused": false,
+        "error": null
+      },
+      "expected_duration": 3573,
+      "duration_matches_segment": true,
+      "requested_cid_observed": true,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "MGMoRu5yrVc",
+      "id": "MGMoRu5yrVc",
+      "bvid": "BV12x411P7fU",
+      "page": 62,
+      "cid": 120759020,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.440608,
+        "duration": 3412,
+        "paused": false,
+        "error": null
+      },
+      "expected_duration": 3413,
+      "duration_matches_segment": true,
+      "requested_cid_observed": true,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "bY2FlayomlE",
+      "id": "bY2FlayomlE",
+      "bvid": "BV14YyfYhE3C",
+      "page": 1,
+      "cid": 26428309927,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.798009,
+        "duration": 5075.799,
+        "paused": false,
+        "error": null
+      },
+      "expected_duration": 5077,
+      "duration_matches_segment": true,
+      "requested_cid_observed": true,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "MFRWDuduuSw",
+      "id": "MFRWDuduuSw",
+      "bvid": "BV1af2xYHERS",
+      "page": 1,
+      "cid": 26208306474,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.443382,
+        "duration": 1925.7230000000002,
+        "paused": false,
+        "error": null
+      },
+      "expected_duration": 1927,
+      "duration_matches_segment": true,
+      "requested_cid_observed": true,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "n691pLhQBkw",
+      "id": "n691pLhQBkw",
+      "bvid": "BV1Xt411H739",
+      "page": 1,
+      "cid": 71616720,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.451043,
+        "duration": 2347,
+        "paused": false,
+        "error": null
+      },
+      "expected_duration": 2347,
+      "duration_matches_segment": true,
+      "requested_cid_observed": true,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "MkJkyMuBm3g",
+      "id": "MkJkyMuBm3g",
+      "bvid": "BV1yb4y1i7jc",
+      "page": 1,
+      "cid": 456143639,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.771962,
+        "duration": 3102.8140000000003,
+        "paused": false,
+        "error": null
+      },
+      "expected_duration": 3104,
+      "duration_matches_segment": true,
+      "requested_cid_observed": true,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "5sVfTPaxRwk",
+      "id": "5sVfTPaxRwk",
+      "bvid": "BV1tKPieJEhi",
+      "page": 1,
+      "cid": 28577041040,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.793791,
+        "duration": 930,
+        "paused": false,
+        "error": null
+      },
+      "expected_duration": 930,
+      "duration_matches_segment": true,
+      "requested_cid_observed": true,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "SqFu5O-oPmU",
+      "id": "SqFu5O-oPmU",
+      "bvid": "BV11W411p7r1",
+      "page": 3,
+      "cid": 34169189,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 2.435291,
+        "duration": 6248.930748,
+        "paused": false,
+        "error": null
+      },
+      "expected_duration": 6249,
+      "duration_matches_segment": true,
+      "requested_cid_observed": true,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "Boi0XEm9-4E",
+      "id": "Boi0XEm9-4E",
+      "bvid": "BV1h64y1Z7au",
+      "page": 2,
+      "cid": 276560727,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.461466,
+        "duration": 790.866,
+        "paused": false,
+        "error": null
+      },
+      "expected_duration": 792,
+      "duration_matches_segment": true,
+      "requested_cid_observed": true,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "10qowKUW82U",
+      "id": "10qowKUW82U",
+      "bvid": "BV17CXKYpE7r",
+      "page": 1,
+      "cid": 28917498756,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.805423,
+        "duration": 3691,
+        "paused": false,
+        "error": null
+      },
+      "expected_duration": 3691,
+      "duration_matches_segment": true,
+      "requested_cid_observed": true,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "KBcxuM-qXec",
+      "id": "KBcxuM-qXec",
+      "bvid": "BV1ALxWzDEwh",
+      "page": 1,
+      "cid": 32830128235,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.666956,
+        "duration": 308,
+        "paused": false,
+        "error": null
+      },
+      "expected_duration": 308,
+      "duration_matches_segment": true,
+      "requested_cid_observed": true,
+      "passed": true,
+      "issues": []
+    },
+    {
+      "sample": "frAEmhqdLFs",
+      "id": "frAEmhqdLFs",
+      "bvid": "BV1YQ4y1P7ST",
+      "page": 1,
+      "cid": 197318195,
+      "playing": true,
+      "media": {
+        "readyState": 4,
+        "currentTime": 3.748746,
+        "duration": 251,
+        "paused": false,
+        "error": null
+      },
+      "expected_duration": 251,
+      "duration_matches_segment": true,
+      "requested_cid_observed": true,
+      "passed": true,
+      "issues": []
+    }
+  ]
+}

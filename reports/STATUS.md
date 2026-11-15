@@ -1,29 +1,29 @@
 # 匹配进展
 
-更新时间：2026-11-14T16:44:58.274349+00:00
+更新时间：2026-11-15T01:16:31.429156+00:00
 
 - 原片库：6454
 - 完成处理：6407
-- 已确认原片：1867
-- 全库覆盖率：28.93%
-- 已处理原片匹配率：29.14%
-- 状态：{'confirmed': 1867, 'review': 4587}
+- 已确认原片：1962
+- 全库覆盖率：30.40%
+- 已处理原片匹配率：30.62%
+- 状态：{'confirmed': 1962, 'review': 4491, 'unmatched': 1}
 
-- 待审中尚需扩大候选检查：23
-- 已扩大检查仍待审核：4477
+- 待审中尚需扩大候选检查：20
+- 已扩大检查仍待审核：4384
 - 待审中搜索元数据缺失（重建丢失，状态未知，需重新搜索）：87
 
 ## 最近批次
 
 ```json
 {
-  "id": "20261114T001554Z",
+  "id": "20261115T003140Z",
   "selected": 1,
   "completed": 1,
   "errors": [],
   "stopped": false,
   "originals": [
-    "BickMFHAZR0"
+    "7J52mDjZzto"
   ],
   "primary_first": false,
   "deferred_candidates": 0,
@@ -31,9 +31,9 @@
   "attempted": 1,
   "unattempted": 0,
   "statuses": {
-    "confirmed": 1
+    "unmatched": 1
   },
-  "candidate_count": 39
+  "candidate_count": 0
 }
 ```
 

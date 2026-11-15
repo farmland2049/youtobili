@@ -1099,3 +1099,38 @@
 - 单元测试：79 项 Python 单元测试全部通过（Ran 79 tests in 3.197s, OK）。
 - 浏览器场景测试：15 项端到端场景全部通过（1867 条原片渲染正常，无页面错误）。
 - 分支合并准备就绪，合并至 `main`。
+
+## 2026-11-15 早间增量（Round 17 突破 30% 大关持续推进至中午 12 点）
+
+### 1. 目标与执行
+- 承接 Round 16 达成基线（确认原片 1,867 条、2,325 个发布版本，覆盖率 28.93%）。
+- 签出早间推进分支 `continue-20261115-morning`。
+- 按用户指令 `/goal 推送远端，继续推进项目到 12 点`，分 4 个批次（b1 至 b4）推进待审池、显式原片链接与离线缓存库核验。
+- 每批入库严格执行内容与元数据人工复核，并强制执行真实无头 Playwright 流媒体播放烟测（`scripts/test_playback_batch.cjs`），必须 100% 通过（playing=true, readyState=4, currentTime 持续推进，duration 与分P精确对齐，CID 正确捕获）方可归档进入合并池。
+- 严格执行时长公差 `max(60, 0.08 * orig_dur)`、0 分段冲突（校验 `claimed_segments` 杜绝跨原片争用）、0 冲突年份/集次/删减。
+- 严格执行质量拦截与缺陷回退，累计拦截并回退 14 处流媒体截断、试看切片或元数据冲突异常（包括 `_tpB-B8BXk0` 讲座节选删减拦截、`0m6hoOelZH8` 集次冲突拦截、`pqzcCfUglws` 播放器停滞、`1-dUkyn_fZA` 130s严重截断、`kTiP0zKF9bc` 370s预览截断、`ojm74VGsZBU` 221s截断、`QGKcvM2Hh4g` 缺少CID、`l7TONauJGfc` 600s截断、`SIOQgY1tqrU` 16.7s试看截断、`b2F-DItXtZs` 327.8s流偏差以及 `8fHi36dvTdE` 6321.8s流偏差），全部当场从入库批次中剥离并置回待审池，绝不带病入库。
+- 47 条外部网络隔离原片严格保持隔离记录（`not_processed: 47`），未进行任何违规网络重试。
+
+### 2. 指标前后变化
+- 原片总库：6,454
+- 完成处理条数：6,407
+- 未处理条数：47（网络隔离原片状态完整保留，`not_processed: 47`）
+- 确认原片：1,867 → **1,962**（**早间净增 +95 条原片！历史性突破 1,900 大关！**）
+- 发布版本：2,325 → **2,420**（**净增 +95 个发布版本！**）
+- 全库覆盖率：28.93% → **30.40%**（**历史性里程碑：全库覆盖率正式突破 30% 大关！**）
+- 已处理匹配率：29.14% → **30.62%**
+- 冲突分段数：0
+- 冲突年份/集次/删减：0
+- 补充来源复核证据账本：`reports/manual-identity-reviews.json` 累计入库 1,962 条由 Codex 署名的内容与元数据核验记录（明确标注未做逐帧比较）。
+
+### 3. 实播验证
+- 新增确认条目全量实播：`reports/playback-r17-step-b1.json` (27/27), `reports/playback-r17-step-b2.json` (23/23), `reports/playback-r17-step-b3.json` (23/23), `reports/playback-r17-step-b4.json` (22/22) 共 4 个批次、95 项流媒体级实测全部 100% 通过；
+- 汇总报表：`reports/playback-r17-batch.json` 汇集全部 95 项流媒体播放实测结果，`passed: true`，batches: 4。
+- 抽样基线实播：`reports/playback-checks.json` 针对 6 种版本形态全量运行，6/6 全部通过。
+
+### 4. 验收与交接状态
+- 数据校验：`python3 scripts/pipeline.py check` 通过（1962 originals, 2420 verified segments）。
+- 单元测试：79 项 Python 单元测试全部通过（Ran 79 tests in 3.214s, OK）。
+- 浏览器场景测试：15 项端到端场景全部通过（1962 条原片渲染正常，无页面错误）。
+- 分支合并准备就绪，合并至 `main`。
+

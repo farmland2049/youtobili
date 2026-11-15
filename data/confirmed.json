@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T16:44:58.341039+00:00",
+  "updated_at": "2026-11-15T01:16:31.496518+00:00",
   "entries": {
     "zqmOSMAtadc": {
       "vid": "zqmOSMAtadc",
@@ -6348,8 +6348,8 @@
     },
     "7J52mDjZzto": {
       "vid": "7J52mDjZzto",
-      "status": "review",
-      "completed_at": "2026-11-09T11:44:21.716438+00:00",
+      "status": "unmatched",
+      "completed_at": "2026-11-15T00:31:40.643095+00:00",
       "candidates": [],
       "searched_at": "2026-11-09T11:44:18.111336+00:00",
       "search_session_version": 2,
@@ -6453,9 +6453,39 @@
     },
     "eJ3RzGoQC4s": {
       "vid": "eJ3RzGoQC4s",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-09T11:45:07.635792+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV18L411w7wr",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[David Lessig]《The Century of the Self (Full Adam Curtis Documentary)》（14084秒）。B站BV号BV18L411w7wr第1P《The century Of the self探求自我的世纪#亚当·柯蒂斯#Adam Curtis高糊无字幕全集》，UP主[江海杭]，时长14084秒对齐（相差0秒），CID 554372183。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "The century Of the self探求自我的世纪#亚当·柯蒂斯#Adam Curtis高糊无字幕全集",
+          "up": "江海杭",
+          "duration": 14084,
+          "original_duration": 14084,
+          "cid": 554372183,
+          "aid": 467460651,
+          "segment_title": "The century Of the self",
+          "page_count": 1,
+          "kind": "original",
+          "views": 6060,
+          "pic": "https://i2.hdslb.com/bfs/archive/1e6a115672fc3f07e26b27a598e13f7f36b7a013.jpg",
+          "checked_at": "2026-11-15T00:42:47.274439+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:43:12.065932+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[David Lessig]《The Century of the Self (Full Adam Curtis Documentary)》（14084秒）。B站BV号BV18L411w7wr第1P《The century Of the self探求自我的世纪#亚当·柯蒂斯#Adam Curtis高糊无字幕全集》，UP主[江海杭]，时长14084秒对齐（相差0秒），CID 554372183。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-09T11:44:54.013586+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -6540,9 +6570,39 @@
     },
     "LQRAfJyEsko": {
       "vid": "LQRAfJyEsko",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-09T11:46:21.982505+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1pz411v7LD",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Farm Transparency Project]《Dominion (2018) - full documentary [Official]》（7200秒）。B站BV号BV1pz411v7LD第1P《统治 Dominion 2018》，UP主[账号已注销]，时长7200秒对齐（相差0秒），CID 212260819。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "统治 Dominion 2018",
+          "up": "账号已注销",
+          "duration": 7200,
+          "original_duration": 7200,
+          "cid": 212260819,
+          "aid": 201288580,
+          "segment_title": "统治 Dominion 2018",
+          "page_count": 1,
+          "kind": "original",
+          "views": 747,
+          "pic": "https://i2.hdslb.com/bfs/archive/959fa2da20fbbd38b26efdf40f865cfbf1b6aedf.jpg",
+          "checked_at": "2026-11-15T00:51:16.829452+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:51:46.417525+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Farm Transparency Project]《Dominion (2018) - full documentary [Official]》（7200秒）。B站BV号BV1pz411v7LD第1P《统治 Dominion 2018》，UP主[账号已注销]，时长7200秒对齐（相差0秒），CID 212260819。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-09T11:45:46.622253+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -6618,9 +6678,40 @@
     },
     "L0KuAx1COEk": {
       "vid": "L0KuAx1COEk",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-09T11:47:00.994139+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV18i29BnEXs",
+          "page": 6,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[MIT Plasma Science and Fusion Center]《MIT's Pathway to Fusion Energy (IAP 2017) - Zach Hartwig》（4300秒）。B站BV号BV18i29BnEXs第6P《【聚变能源 · 全 20 讲】从恒星引擎到人造太阳 · 本科通识精选（MIT / 普林斯顿 / 牛津三校顶尖学者亲讲）》，UP主[兴趣使然的现代人]，时长4300秒对齐（相差0秒），CID 34555954452。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "【聚变能源 · 全 20 讲】从恒星引擎到人造太阳 · 本科通识精选（MIT / 普林斯顿 / 牛津三校顶尖学者亲讲）",
+          "up": "兴趣使然的现代人",
+          "duration": 4300,
+          "original_duration": 4300,
+          "cid": 34555954452,
+          "aid": 115673938271633,
+          "segment_title": "05 - MIT的聚变能源之路 (IAP 2017) - Zach Hartwig",
+          "page_count": 21,
+          "kind": "original",
+          "views": 880,
+          "pic": "https://i0.hdslb.com/bfs/archive/9bb854021663b301b9d556abee43cdc74afffae5.jpg",
+          "checked_at": "2026-11-15T00:42:22.434851+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:43:12.065932+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[MIT Plasma Science and Fusion Center]《MIT's Pathway to Fusion Energy (IAP 2017) - Zach Hartwig》（4300秒）。B站BV号BV18i29BnEXs第6P《【聚变能源 · 全 20 讲】从恒星引擎到人造太阳 · 本科通识精选（MIT / 普林斯顿 / 牛津三校顶尖学者亲讲）》，UP主[兴趣使然的现代人]，时长4300秒对齐（相差0秒），CID 34555954452。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-09T11:46:29.835690+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -6688,9 +6779,39 @@
     },
     "QNznD9hMEh0": {
       "vid": "QNznD9hMEh0",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-09T13:47:14.317836+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1zD421A7cy",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Numberphile2]《Jim Simons (full length interview) - Numberphile》（3643秒）。B站BV号BV1zD421A7cy第1P《【精校】量化交易之父 | 文艺复兴创始人 吉姆·西蒙斯 Jim Simons 经典访谈2015【中英】》，UP主[Web3天空之城]，时长3643秒对齐（相差0秒），CID 1543516587。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "【精校】量化交易之父 | 文艺复兴创始人 吉姆·西蒙斯 Jim Simons 经典访谈2015【中英】",
+          "up": "Web3天空之城",
+          "duration": 3643,
+          "original_duration": 3643,
+          "cid": 1543516587,
+          "aid": 1504582718,
+          "segment_title": "【精校】量化交易之父 | 文艺复兴创始人 吉姆·西蒙斯 Jim Simons 经典访谈2015【中英】",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 9055,
+          "pic": "https://i0.hdslb.com/bfs/archive/297863d94c83d3b29333136cb7e430c4dca33920.jpg",
+          "checked_at": "2026-11-15T00:51:19.203050+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:51:46.417525+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Numberphile2]《Jim Simons (full length interview) - Numberphile》（3643秒）。B站BV号BV1zD421A7cy第1P《【精校】量化交易之父 | 文艺复兴创始人 吉姆·西蒙斯 Jim Simons 经典访谈2015【中英】》，UP主[Web3天空之城]，时长3643秒对齐（相差0秒），CID 1543516587。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-09T13:46:50.965324+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -7165,9 +7286,39 @@
     },
     "EZ05e7EMOLM": {
       "vid": "EZ05e7EMOLM",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-09T13:52:35.873165+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1rA411s7nY",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[DevTernity Conference]《🚀  TDD, Where Did It All Go Wrong (Ian Cooper)》（3835秒）。B站BV号BV1rA411s7nY第1P《DevTernity 2017- Ian Cooper - TDD, Where Did It All Go Wrong》，UP主[hpmorz]，时长3836秒对齐（相差1秒），CID 270535387。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "DevTernity 2017- Ian Cooper - TDD, Where Did It All Go Wrong",
+          "up": "hpmorz",
+          "duration": 3836,
+          "original_duration": 3835,
+          "cid": 270535387,
+          "aid": 330754787,
+          "segment_title": "DevTernity 2017- Ian Cooper - TDD, Where Did It All Go Wrong",
+          "page_count": 1,
+          "kind": "original",
+          "views": 96,
+          "pic": "https://i1.hdslb.com/bfs/archive/4b98630f3c33d2f14e772a5ef8a9f0d15ccf26d3.jpg",
+          "checked_at": "2026-11-15T00:38:34.672967+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[DevTernity Conference]《🚀  TDD, Where Did It All Go Wrong (Ian Cooper)》（3835秒）。B站BV号BV1rA411s7nY第1P《DevTernity 2017- Ian Cooper - TDD, Where Did It All Go Wrong》，UP主[hpmorz]，时长3836秒对齐（相差1秒），CID 270535387。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-09T13:52:27.776306+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -7348,9 +7499,39 @@
     },
     "jbkSRLYSojo": {
       "vid": "jbkSRLYSojo",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-09T13:55:41.097553+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1UE411q795",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[BBC]《Hans Rosling's 200 Countries, 200 Years, 4 Minutes - The Joy of Stats - BBC》（288秒）。B站BV号BV1UE411q795第1P《Hans Rosling's 200 Countries, 200 Years, 4 Minutes - The Joy of Stats - BBC Fo》，UP主[knnstack]，时长288秒对齐（相差0秒），CID 127415985。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "Hans Rosling's 200 Countries, 200 Years, 4 Minutes - The Joy of Stats - BBC Fo",
+          "up": "knnstack",
+          "duration": 288,
+          "original_duration": 288,
+          "cid": 127415985,
+          "aid": 74492905,
+          "segment_title": "Hans Rosling's 200 Countries, 200 Years, 4 Minutes - The Joy of Stats - BBC Fo",
+          "page_count": 1,
+          "kind": "original",
+          "views": 3212,
+          "pic": "https://i1.hdslb.com/bfs/archive/457c020fd1e349abdb344b7dda435bf5b577b102.jpg",
+          "checked_at": "2026-11-15T00:38:34.665292+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[BBC]《Hans Rosling's 200 Countries, 200 Years, 4 Minutes - The Joy of Stats - BBC》（288秒）。B站BV号BV1UE411q795第1P《Hans Rosling's 200 Countries, 200 Years, 4 Minutes - The Joy of Stats - BBC Fo》，UP主[knnstack]，时长288秒对齐（相差0秒），CID 127415985。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-09T13:54:36.195502+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -7644,9 +7825,39 @@
     },
     "YR5WdGrpoug": {
       "vid": "YR5WdGrpoug",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-09T13:58:50.413925+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1qipdeKE5t",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[ClojureTV]《Maybe Not - Rich Hickey》（3809秒）。B站BV号BV1qipdeKE5t第1P《Maybe Not - Rich Hickey》，UP主[surferHalo]，时长3809秒对齐（相差0秒），CID 500001652578266。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "Maybe Not - Rich Hickey",
+          "up": "surferHalo",
+          "duration": 3809,
+          "original_duration": 3809,
+          "cid": 500001652578266,
+          "aid": 112976614982892,
+          "segment_title": "Maybe Not - Rich Hickey",
+          "page_count": 1,
+          "kind": "original",
+          "views": 43,
+          "pic": "https://i1.hdslb.com/bfs/archive/6f4cf555fb858719b6a654b48bd798f4b3d62361.jpg",
+          "checked_at": "2026-11-15T00:38:34.678593+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[ClojureTV]《Maybe Not - Rich Hickey》（3809秒）。B站BV号BV1qipdeKE5t第1P《Maybe Not - Rich Hickey》，UP主[surferHalo]，时长3809秒对齐（相差0秒），CID 500001652578266。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-09T13:58:48.876684+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -8352,9 +8563,39 @@
     },
     "HyzD8pNlpwI": {
       "vid": "HyzD8pNlpwI",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-09T14:08:21.955971+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV17J411e7fN",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[media.ccc.de]《The Ultimate Game Boy Talk (33c3)》（3667秒）。B站BV号BV17J411e7fN第1P《[33c3] The Ultimate Game Boy Talk》，UP主[Gennadi]，时长3667秒对齐（相差0秒），CID 138566439。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "[33c3] The Ultimate Game Boy Talk",
+          "up": "Gennadi",
+          "duration": 3667,
+          "original_duration": 3667,
+          "cid": 138566439,
+          "aid": 80957552,
+          "segment_title": "33c3-8029-eng-deu-fra-The_Ultimate_Game_Boy_Talk_hd",
+          "page_count": 1,
+          "kind": "original",
+          "views": 137,
+          "pic": "https://i2.hdslb.com/bfs/archive/8f6f6de2ad4c664a1c8c69ae59739981f007adfc.jpg",
+          "checked_at": "2026-11-15T00:38:34.678741+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[media.ccc.de]《The Ultimate Game Boy Talk (33c3)》（3667秒）。B站BV号BV17J411e7fN第1P《[33c3] The Ultimate Game Boy Talk》，UP主[Gennadi]，时长3667秒对齐（相差0秒），CID 138566439。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-09T14:08:12.468373+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -8728,9 +8969,40 @@
     },
     "ncHmEUmJZf4": {
       "vid": "ncHmEUmJZf4",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-09T14:10:52.867846+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1Vx411V7Rd",
+          "page": 104,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[CppCon]《CppCon 2017: Matt Kulukundis “Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step”》（3574秒）。B站BV号BV1Vx411V7Rd第104P《CppCon 2017 共139P》，UP主[rSkip]，时长3573秒对齐（相差1秒），CID 26021451。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "CppCon 2017 共139P",
+          "up": "rSkip",
+          "duration": 3573,
+          "original_duration": 3574,
+          "cid": 26021451,
+          "aid": 14886527,
+          "segment_title": "Matt Kulukundis “Designing a Fast, Efficient, Cache-friendly Hash Table, Step...",
+          "page_count": 139,
+          "kind": "original",
+          "views": 11549,
+          "pic": "https://i2.hdslb.com/bfs/archive/d19a886e577e68a359fce2452d3bdd098f5cf581.png",
+          "checked_at": "2026-11-15T01:13:47.918279+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T01:13:53.946851+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[CppCon]《CppCon 2017: Matt Kulukundis “Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step”》（3574秒）。B站BV号BV1Vx411V7Rd第104P《CppCon 2017 共139P》，UP主[rSkip]，时长3573秒对齐（相差1秒），CID 26021451。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-09T14:10:21.692014+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -9991,9 +10263,39 @@
     },
     "LKtk3HCgTa8": {
       "vid": "LKtk3HCgTa8",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-09T14:27:00.233859+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1Sb4y1j74b",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[ClojureTV]《\"Simple Made Easy\" - Rich Hickey (2011)》（3699秒）。B站BV号BV1Sb4y1j74b第1P《Simple Made Easy - Rich Hickey》，UP主[急性子的蜗牛君]，时长3699秒对齐（相差0秒），CID 503664874。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "Simple Made Easy - Rich Hickey",
+          "up": "急性子的蜗牛君",
+          "duration": 3699,
+          "original_duration": 3699,
+          "cid": 503664874,
+          "aid": 636271803,
+          "segment_title": "202201221234",
+          "page_count": 1,
+          "kind": "original",
+          "views": 182,
+          "pic": "https://i2.hdslb.com/bfs/archive/f610eaeb779e1c4b3bdfffa253e5602da98dabbf.jpg",
+          "checked_at": "2026-11-15T00:38:34.678419+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[ClojureTV]《\"Simple Made Easy\" - Rich Hickey (2011)》（3699秒）。B站BV号BV1Sb4y1j74b第1P《Simple Made Easy - Rich Hickey》，UP主[急性子的蜗牛君]，时长3699秒对齐（相差0秒），CID 503664874。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-09T14:26:52.843235+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -10947,9 +11249,39 @@
     },
     "iYJKd0rkKss": {
       "vid": "iYJKd0rkKss",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-09T14:29:49.061175+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1Wt411v7JS",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[swererbob]《Dick Proenneke in Alone in the Wilderness》（574秒）。B站BV号BV1Wt411v7JS第1P《Dick Proenneke in Alone in the Wilderness》，UP主[咖啡喝死了]，时长574秒对齐（相差0秒），CID 67685251。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "Dick Proenneke in Alone in the Wilderness",
+          "up": "咖啡喝死了",
+          "duration": 574,
+          "original_duration": 574,
+          "cid": 67685251,
+          "aid": 38504801,
+          "segment_title": "Dick Proenneke in Alone in the Wilderness",
+          "page_count": 1,
+          "kind": "original",
+          "views": 463,
+          "pic": "https://i1.hdslb.com/bfs/archive/7f19b3e860d74cc0297707f3113109a974f864ac.jpg",
+          "checked_at": "2026-11-15T00:42:24.926976+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:43:12.065932+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[swererbob]《Dick Proenneke in Alone in the Wilderness》（574秒）。B站BV号BV1Wt411v7JS第1P《Dick Proenneke in Alone in the Wilderness》，UP主[咖啡喝死了]，时长574秒对齐（相差0秒），CID 67685251。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-09T14:28:59.749248+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -11025,9 +11357,39 @@
     },
     "qJEWOTZnFeg": {
       "vid": "qJEWOTZnFeg",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-09T14:32:32.435613+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV12DNN63Eq3",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Blender Guru]《\"Money doesn't interest me\" - Ton Roosendaal 2017 Interview》（6411秒）。B站BV号BV12DNN63Eq3第1P《110.“我对钱不感兴趣” - Ton Roosendaal 2017年访谈》，UP主[TataD-26]，时长6411秒对齐（相差0秒），CID 39869089084。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "110.“我对钱不感兴趣” - Ton Roosendaal 2017年访谈",
+          "up": "TataD-26",
+          "duration": 6411,
+          "original_duration": 6411,
+          "cid": 39869089084,
+          "aid": 116904513503988,
+          "segment_title": "110.“我对钱不感兴趣” - Ton Roosendaal 2017年访谈",
+          "page_count": 1,
+          "kind": "original",
+          "views": 18,
+          "pic": "https://i2.hdslb.com/bfs/archive/237c1605386051869ad6c1a70c813d013e69d8ee.jpg",
+          "checked_at": "2026-11-15T00:51:21.508296+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:51:46.417525+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Blender Guru]《\"Money doesn't interest me\" - Ton Roosendaal 2017 Interview》（6411秒）。B站BV号BV12DNN63Eq3第1P《110.“我对钱不感兴趣” - Ton Roosendaal 2017年访谈》，UP主[TataD-26]，时长6411秒对齐（相差0秒），CID 39869089084。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-09T14:32:22.879791+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -11211,9 +11573,39 @@
     },
     "yJDv-zdhzMY": {
       "vid": "yJDv-zdhzMY",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-09T14:33:37.908958+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1SN411Q7dv",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Marcel]《The Mother of All Demos, presented by Douglas Engelbart (1968)》（6053秒）。B站BV号BV1SN411Q7dv第1P《道格拉斯·恩格尔巴特（Douglas Engelbart）：\"所有演示之母\"（The Mother of All Demos）》，UP主[范德彪7161]，时长6053秒对齐（相差0秒），CID 307001338。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "道格拉斯·恩格尔巴特（Douglas Engelbart）：\"所有演示之母\"（The Mother of All Demos）",
+          "up": "范德彪7161",
+          "duration": 6053,
+          "original_duration": 6053,
+          "cid": 307001338,
+          "aid": 502109669,
+          "segment_title": "videoplayback (14)",
+          "page_count": 1,
+          "kind": "original",
+          "views": 3229,
+          "pic": "https://i2.hdslb.com/bfs/archive/d761dc8b4277989eacad031a1154ed007bff6e92.jpg",
+          "checked_at": "2026-11-15T00:38:34.667789+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Marcel]《The Mother of All Demos, presented by Douglas Engelbart (1968)》（6053秒）。B站BV号BV1SN411Q7dv第1P《道格拉斯·恩格尔巴特（Douglas Engelbart）：\"所有演示之母\"（The Mother of All Demos）》，UP主[范德彪7161]，时长6053秒对齐（相差0秒），CID 307001338。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-09T14:33:25.936009+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -11224,9 +11616,40 @@
     },
     "2sjqTHE0zok": {
       "vid": "2sjqTHE0zok",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-09T14:34:11.901684+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1x7411H7wa",
+          "page": 6,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Missing Semester]《Lecture 6: Version Control (git) (2020)》（5100秒）。B站BV号BV1x7411H7wa第6P《[MIT]计算机科学课堂中学不到的知识 The Missing Semester of Your CS Education(2020)》，UP主[papersnake]，时长5100秒对齐（相差0秒），CID 148506489。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "[MIT]计算机科学课堂中学不到的知识 The Missing Semester of Your CS Education(2020)",
+          "up": "papersnake",
+          "duration": 5100,
+          "original_duration": 5100,
+          "cid": 148506489,
+          "aid": 86911412,
+          "segment_title": "Lecture 6 - Version Control (git) (2020)",
+          "page_count": 11,
+          "kind": "original",
+          "views": 231278,
+          "pic": "https://i0.hdslb.com/bfs/archive/f226b535cc4d4697b1ae9c44532ff5e6ac03b382.jpg",
+          "checked_at": "2026-11-15T00:42:27.494713+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:43:12.065932+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Missing Semester]《Lecture 6: Version Control (git) (2020)》（5100秒）。B站BV号BV1x7411H7wa第6P《[MIT]计算机科学课堂中学不到的知识 The Missing Semester of Your CS Education(2020)》，UP主[papersnake]，时长5100秒对齐（相差0秒），CID 148506489。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-09T14:33:46.400890+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -11263,9 +11686,39 @@
     },
     "42QuXLucH3Q": {
       "vid": "42QuXLucH3Q",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-09T14:36:11.699048+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1s741167bQ",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Veritasium]《Is Most Published Research Wrong?》（742秒）。B站BV号BV1s741167bQ第1P《【Veritasium】大多数已发表的研究结果竟然是错误的吗？Is Most Published Research Wrong》，UP主[小猫咪字幕组]，时长742秒对齐（相差0秒），CID 146486587。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "【Veritasium】大多数已发表的研究结果竟然是错误的吗？Is Most Published Research Wrong",
+          "up": "小猫咪字幕组",
+          "duration": 742,
+          "original_duration": 742,
+          "cid": 146486587,
+          "aid": 85703113,
+          "segment_title": "【Veritasium】大多数已发表的研究结果竟然是错误的吗？Is Most Published Research Wrong",
+          "page_count": 1,
+          "kind": "original",
+          "views": 312,
+          "pic": "https://i1.hdslb.com/bfs/archive/31da20ac7d251c7c7c3554493c1de1a344165dde.jpg",
+          "checked_at": "2026-11-15T00:42:30.294663+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:43:12.065932+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Veritasium]《Is Most Published Research Wrong?》（742秒）。B站BV号BV1s741167bQ第1P《【Veritasium】大多数已发表的研究结果竟然是错误的吗？Is Most Published Research Wrong》，UP主[小猫咪字幕组]，时长742秒对齐（相差0秒），CID 146486587。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-09T14:35:32.618622+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -11887,9 +12340,39 @@
     },
     "d2lJUOv0hLA": {
       "vid": "d2lJUOv0hLA",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-09T14:55:53.967254+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1Ye4y1d7re",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Fall of Civilizations]《8. The Sumerians - Fall of the First Cities》（8869秒）。B站BV号BV1Ye4y1d7re第1P《Fall of Civilization - 8. The Sumerians - Fall of the First Cities》，UP主[姑奶奶心里没你]，时长8869秒对齐（相差0秒），CID 823332023。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "Fall of Civilization - 8. The Sumerians - Fall of the First Cities",
+          "up": "姑奶奶心里没你",
+          "duration": 8869,
+          "original_duration": 8869,
+          "cid": 823332023,
+          "aid": 557639754,
+          "segment_title": "Fall of Civilization - 8. The Sumerians - Fall of the First Cities",
+          "page_count": 1,
+          "kind": "original",
+          "views": 652,
+          "pic": "https://i2.hdslb.com/bfs/archive/c81c9353fca0fdaa24fa1081e7a15ccdcd9cf56e.jpg",
+          "checked_at": "2026-11-15T00:50:34.368077+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:51:46.417525+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Fall of Civilizations]《8. The Sumerians - Fall of the First Cities》（8869秒）。B站BV号BV1Ye4y1d7re第1P《Fall of Civilization - 8. The Sumerians - Fall of the First Cities》，UP主[姑奶奶心里没你]，时长8869秒对齐（相差0秒），CID 823332023。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-09T14:55:42.224588+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -12943,9 +13426,39 @@
     },
     "SqFu5O-oPmU": {
       "vid": "SqFu5O-oPmU",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T01:19:06.887266+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV11W411p7r1",
+          "page": 3,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[rubbermuck]《Jonathan Blow: Video Games and the Human Condition》（6249秒）。B站BV号BV11W411p7r1第3P《【中文字幕】Jonathan Blow：游戏与人文（Video Games and the Human Condition）》，UP主[OyVaAvoy]，时长6249秒对齐（相差0秒），CID 34169189。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "collection segment identity requires review"
+          ],
+          "reason": "collection segment identity requires review",
+          "title": "【中文字幕】Jonathan Blow：游戏与人文（Video Games and the Human Condition）",
+          "up": "OyVaAvoy",
+          "duration": 6249,
+          "original_duration": 6249,
+          "cid": 34169189,
+          "aid": 20855959,
+          "segment_title": "原视频",
+          "page_count": 3,
+          "kind": "sub_zh",
+          "views": 12034,
+          "pic": "https://i2.hdslb.com/bfs/archive/3fe6268a0c643a6ec6fd488527d6ed54d1118975.jpg",
+          "checked_at": "2026-11-15T01:13:47.922710+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T01:13:53.946851+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[rubbermuck]《Jonathan Blow: Video Games and the Human Condition》（6249秒）。B站BV号BV11W411p7r1第3P《【中文字幕】Jonathan Blow：游戏与人文（Video Games and the Human Condition）》，UP主[OyVaAvoy]，时长6249秒对齐（相差0秒），CID 34169189。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T01:19:04.815029+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -14332,9 +14845,39 @@
     },
     "AvEqfg2sIH0": {
       "vid": "AvEqfg2sIH0",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-09T14:59:27.992316+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1y8411e7MB",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Stewart Brand]《1. How Buildings Learn - Stewart Brand - 1 of 6 - “Flow”》（1776秒）。B站BV号BV1y8411e7MB第1P《《建筑养成记》：第1部分-“Flow”（时光流转）——斯图尔特·布兰德（Stewart Brand）》，UP主[范德彪7161]，时长1777秒对齐（相差1秒），CID 869779344。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "《建筑养成记》：第1部分-“Flow”（时光流转）——斯图尔特·布兰德（Stewart Brand）",
+          "up": "范德彪7161",
+          "duration": 1777,
+          "original_duration": 1776,
+          "cid": 869779344,
+          "aid": 219374882,
+          "segment_title": "《建筑养成记》：第1部分-“Flow”（时光流转）——斯图尔特·布兰德（Stewart Brand）",
+          "page_count": 1,
+          "kind": "original",
+          "views": 181,
+          "pic": "https://i2.hdslb.com/bfs/archive/91bc17349be7f33df5f2d9f9f3bb7ccb60ee1612.jpg",
+          "checked_at": "2026-11-15T00:50:36.439131+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:51:46.417525+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Stewart Brand]《1. How Buildings Learn - Stewart Brand - 1 of 6 - “Flow”》（1776秒）。B站BV号BV1y8411e7MB第1P《《建筑养成记》：第1部分-“Flow”（时光流转）——斯图尔特·布兰德（Stewart Brand）》，UP主[范德彪7161]，时长1777秒对齐（相差1秒），CID 869779344。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-09T14:58:45.102478+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -14673,9 +15216,40 @@
     },
     "kjBOesZCoqc": {
       "vid": "kjBOesZCoqc",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-04T14:05:26.346508+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1u4411H7Ry",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[3Blue1Brown]《Essence of linear algebra preview》（309秒）。B站BV号BV1u4411H7Ry第1P《3Blue1Brown - Essence of linear algebra》，UP主[哩哏儿楞]，时长305秒对齐（相差4秒），CID 95369599。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "3Blue1Brown - Essence of linear algebra",
+          "up": "哩哏儿楞",
+          "duration": 305,
+          "original_duration": 309,
+          "cid": 95369599,
+          "aid": 54524034,
+          "segment_title": "s1e00 - Preview - Essence of linear algebra",
+          "page_count": 16,
+          "kind": "original",
+          "views": 6704,
+          "pic": "https://i1.hdslb.com/bfs/archive/fddf8289fec025547a184e703f13bf369885de83.jpg",
+          "checked_at": "2026-11-15T00:50:39.108993+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:51:46.417525+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[3Blue1Brown]《Essence of linear algebra preview》（309秒）。B站BV号BV1u4411H7Ry第1P《3Blue1Brown - Essence of linear algebra》，UP主[哩哏儿楞]，时长305秒对齐（相差4秒），CID 95369599。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-09T21:13:18.276318+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -15546,9 +16120,40 @@
     },
     "LxgMdjyw8uw": {
       "vid": "LxgMdjyw8uw",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-13T14:25:51.361074+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV13HnzzPEzZ",
+          "page": 151,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Kurzgesagt – In a Nutshell]《We WILL Fix Climate Change!》（851秒）。B站BV号BV13HnzzPEzZ第151P《《简而言之Ⅰ》kurzgesagt史上最全科普动画片，科普、英语一起抓》，UP主[柚米英语]，时长851秒对齐（相差0秒），CID 32770162817。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "《简而言之Ⅰ》kurzgesagt史上最全科普动画片，科普、英语一起抓",
+          "up": "柚米英语",
+          "duration": 851,
+          "original_duration": 851,
+          "cid": 32770162817,
+          "aid": 115288230069451,
+          "segment_title": "We WILL Fix Climate Change!",
+          "page_count": 200,
+          "kind": "original",
+          "views": 14326,
+          "pic": "https://i0.hdslb.com/bfs/archive/fc57a4b620abc02954f5ea83ba970258c4862cc1.jpg",
+          "checked_at": "2026-11-15T01:13:47.890457+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T01:13:53.946851+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Kurzgesagt – In a Nutshell]《We WILL Fix Climate Change!》（851秒）。B站BV号BV13HnzzPEzZ第151P《《简而言之Ⅰ》kurzgesagt史上最全科普动画片，科普、英语一起抓》，UP主[柚米英语]，时长851秒对齐（相差0秒），CID 32770162817。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T02:58:47.354616+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -15781,9 +16386,39 @@
     },
     "roBkg-iPrbw": {
       "vid": "roBkg-iPrbw",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T00:04:03.015512+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1Srxc6WE6c",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Ahoy]《Trackers: The Sound of 16-Bit》（2472秒）。B站BV号BV1Srxc6WE6c第1P《Trackers：16 位音效》，UP主[木易沙鱼十兄]，时长2472秒对齐（相差0秒），CID 43156768719。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "Trackers：16 位音效",
+          "up": "木易沙鱼十兄",
+          "duration": 2472,
+          "original_duration": 2472,
+          "cid": 43156768719,
+          "aid": 117524549078484,
+          "segment_title": "Trackers：16 位音效",
+          "page_count": 1,
+          "kind": "original",
+          "views": 404,
+          "pic": "https://i1.hdslb.com/bfs/archive/417b9ba1c8cd0b55e2cd6ede39d88457a7974739.jpg",
+          "checked_at": "2026-11-15T00:38:34.678094+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Ahoy]《Trackers: The Sound of 16-Bit》（2472秒）。B站BV号BV1Srxc6WE6c第1P《Trackers：16 位音效》，UP主[木易沙鱼十兄]，时长2472秒对齐（相差0秒），CID 43156768719。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T00:03:55.230766+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -16862,9 +17497,39 @@
     },
     "7ImvlS8PLIo": {
       "vid": "7ImvlS8PLIo",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T00:13:12.262054+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1bs411X7Ca",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Richard Dawkins Foundation for Reason & Science]《'A Universe From Nothing' by Lawrence Krauss, AAI 2009》（3892秒）。B站BV号BV1bs411X7Ca第1P《A Universe From Nothing by Lawrence Krauss, AAI 2009》，UP主[Heavenshade]，时长3892秒对齐（相差0秒），CID 5987257。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "A Universe From Nothing by Lawrence Krauss, AAI 2009",
+          "up": "Heavenshade",
+          "duration": 3892,
+          "original_duration": 3892,
+          "cid": 5987257,
+          "aid": 3731152,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "original",
+          "views": 595,
+          "pic": "https://i1.hdslb.com/bfs/archive/26b4e2fa5de9db1e6c67549963a301d7464dc012.png",
+          "checked_at": "2026-11-15T00:38:34.667598+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Richard Dawkins Foundation for Reason & Science]《'A Universe From Nothing' by Lawrence Krauss, AAI 2009》（3892秒）。B站BV号BV1bs411X7Ca第1P《A Universe From Nothing by Lawrence Krauss, AAI 2009》，UP主[Heavenshade]，时长3892秒对齐（相差0秒），CID 5987257。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T00:12:53.868228+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -17482,9 +18147,39 @@
     },
     "KrksBdWcZgQ": {
       "vid": "KrksBdWcZgQ",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T00:15:09.023318+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1M54y157XF",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Black Hat]《Breaking the x86 Instruction Set》（2669秒）。B站BV号BV1M54y157XF第1P《We do NOT trust software(software is shit)Breaking the x86 Instruction Set》，UP主[SpaceInfinite]，时长2670秒对齐（相差1秒），CID 347954185。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "We do NOT trust software(software is shit)Breaking the x86 Instruction Set",
+          "up": "SpaceInfinite",
+          "duration": 2670,
+          "original_duration": 2669,
+          "cid": 347954185,
+          "aid": 845885893,
+          "segment_title": "Breaking the x86 Instruction Set (1)",
+          "page_count": 1,
+          "kind": "original",
+          "views": 39,
+          "pic": "https://i2.hdslb.com/bfs/archive/f0452d5ad31b035d2c91493cfeb3a7efe5c5af9f.jpg",
+          "checked_at": "2026-11-15T00:50:41.764149+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:51:46.417525+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Black Hat]《Breaking the x86 Instruction Set》（2669秒）。B站BV号BV1M54y157XF第1P《We do NOT trust software(software is shit)Breaking the x86 Instruction Set》，UP主[SpaceInfinite]，时长2670秒对齐（相差1秒），CID 347954185。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T00:15:00.690313+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -17508,9 +18203,39 @@
     },
     "NdSD07U5uBs": {
       "vid": "NdSD07U5uBs",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T00:15:44.453322+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1nR4y1s75t",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Kenneth Friedman]《Alan Kay, 2015: Power of Simplicity》（3067秒）。B站BV号BV1nR4y1s75t第1P《【吴长星精选系列】Alan Kay，2015 - 简单的力量Alan Kay, 2015 - Power of Simplicity.mkv》，UP主[郢潇灏]，时长3068秒对齐（相差1秒），CID 457021000。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "【吴长星精选系列】Alan Kay，2015 - 简单的力量Alan Kay, 2015 - Power of Simplicity.mkv",
+          "up": "郢潇灏",
+          "duration": 3068,
+          "original_duration": 3067,
+          "cid": 457021000,
+          "aid": 337148252,
+          "segment_title": "Alan Kay，2015 - 简单的力量Alan Kay, 2015 - Power of Simplicity",
+          "page_count": 1,
+          "kind": "original",
+          "views": 49,
+          "pic": "https://i1.hdslb.com/bfs/archive/a5cb01f2c1b2105ced10c6d456d4376c68bf0c9a.jpg",
+          "checked_at": "2026-11-15T00:50:44.509727+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:51:46.417525+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Kenneth Friedman]《Alan Kay, 2015: Power of Simplicity》（3067秒）。B站BV号BV1nR4y1s75t第1P《【吴长星精选系列】Alan Kay，2015 - 简单的力量Alan Kay, 2015 - Power of Simplicity.mkv》，UP主[郢潇灏]，时长3068秒对齐（相差1秒），CID 457021000。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T00:15:36.391236+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -17729,9 +18454,39 @@
     },
     "atvtBE6t48M": {
       "vid": "atvtBE6t48M",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T00:18:42.785618+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1aw411m7Er",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[matrixsynth]《Intro to Synthesis Part 1 - The Building Blocks of Sound & Synthesis》（3372秒）。B站BV号BV1aw411m7Er第1P《Intro to Synthesis Part 1  The Building Blocks of Sound  Synthesis》，UP主[TAKMON]，时长3372秒对齐（相差0秒），CID 1279492021。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "Intro to Synthesis Part 1  The Building Blocks of Sound  Synthesis",
+          "up": "TAKMON",
+          "duration": 3372,
+          "original_duration": 3372,
+          "cid": 1279492021,
+          "aid": 318983475,
+          "segment_title": "Intro to Synthesis Part 1  The Building Blocks of Sound  Synthesis",
+          "page_count": 1,
+          "kind": "original",
+          "views": 41,
+          "pic": "https://i0.hdslb.com/bfs/archive/c70eb61253b081cfd919525ace0d379d2bc5d969.jpg",
+          "checked_at": "2026-11-15T00:42:00.126593+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:43:12.065932+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[matrixsynth]《Intro to Synthesis Part 1 - The Building Blocks of Sound & Synthesis》（3372秒）。B站BV号BV1aw411m7Er第1P《Intro to Synthesis Part 1  The Building Blocks of Sound  Synthesis》，UP主[TAKMON]，时长3372秒对齐（相差0秒），CID 1279492021。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T00:18:30.543140+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -18140,9 +18895,39 @@
     },
     "tzt36EGKEZo": {
       "vid": "tzt36EGKEZo",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T00:26:01.523385+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV17v421C7bZ",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Godot Engine]《Miguel de Icaza: Swift Godot: Fixing the Multi-million dollar mistake  #GodotCon2023》（3293秒）。B站BV号BV17v421C7bZ第1P《将 Swift 带入 Godot, 修复数亿美元的错误》，UP主[Ray-D-Song]，时长3293秒对齐（相差0秒），CID 1445380421。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "将 Swift 带入 Godot, 修复数亿美元的错误",
+          "up": "Ray-D-Song",
+          "duration": 3293,
+          "original_duration": 3293,
+          "cid": 1445380421,
+          "aid": 1450932127,
+          "segment_title": "将 Swift 带入 Godot, 修复数亿美元的错误",
+          "page_count": 1,
+          "kind": "original",
+          "views": 897,
+          "pic": "https://i1.hdslb.com/bfs/archive/3fa4a4e4cf7a4e3d5addb4ad767b325fc68b0fff.jpg",
+          "checked_at": "2026-11-15T00:51:24.172941+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:51:46.417525+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Godot Engine]《Miguel de Icaza: Swift Godot: Fixing the Multi-million dollar mistake  #GodotCon2023》（3293秒）。B站BV号BV17v421C7bZ第1P《将 Swift 带入 Godot, 修复数亿美元的错误》，UP主[Ray-D-Song]，时长3293秒对齐（相差0秒），CID 1445380421。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T00:25:49.893391+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -18479,9 +19264,40 @@
     },
     "D6h5dFyyUX0": {
       "vid": "D6h5dFyyUX0",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T00:32:04.126266+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1wx411a7qx",
+          "page": 14,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[emacsrocks]《Emacs Rocks! Episode 14: Paredit》（205秒）。B站BV号BV1wx411a7qx第14P《【搬运】Emacs Rocks!》，UP主[Sir-Mark]，时长205秒对齐（相差0秒），CID 18235244。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "【搬运】Emacs Rocks!",
+          "up": "Sir-Mark",
+          "duration": 205,
+          "original_duration": 205,
+          "cid": 18235244,
+          "aid": 11018282,
+          "segment_title": "Episode 14: Paredit",
+          "page_count": 15,
+          "kind": "original",
+          "views": 1038,
+          "pic": "https://i1.hdslb.com/bfs/archive/004cb4c3e720638b2af54e9e47becaa656f6c085.png",
+          "checked_at": "2026-11-15T00:51:05.191639+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:51:46.417525+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[emacsrocks]《Emacs Rocks! Episode 14: Paredit》（205秒）。B站BV号BV1wx411a7qx第14P《【搬运】Emacs Rocks!》，UP主[Sir-Mark]，时长205秒对齐（相差0秒），CID 18235244。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T00:31:09.563195+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -20161,9 +20977,39 @@
     },
     "5_KcQt0z-eE": {
       "vid": "5_KcQt0z-eE",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T00:48:18.898630+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1NryjBvEGR",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[dani daortiz]《Dani DaOrtiz at Fool US 2022 (the act that Penn and Teller didn’t even try to figure out.)》（630秒）。B站BV号BV1NryjBvEGR第1P《Dani DaOrtiz at Fool US 2022》，UP主[MiracleAces]，时长630秒对齐（相差0秒），CID 34102250325。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "Dani DaOrtiz at Fool US 2022",
+          "up": "MiracleAces",
+          "duration": 630,
+          "original_duration": 630,
+          "cid": 34102250325,
+          "aid": 115574264826218,
+          "segment_title": "Dani DaOrtiz at Fool US 2022 (the act that Penn and Teller didn’t even try to fi",
+          "page_count": 1,
+          "kind": "original",
+          "views": 373,
+          "pic": "https://i0.hdslb.com/bfs/archive/b1b4802185d738d8e0eca6545a996665c1554461.jpg",
+          "checked_at": "2026-11-15T00:38:34.664885+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[dani daortiz]《Dani DaOrtiz at Fool US 2022 (the act that Penn and Teller didn’t even try to figure out.)》（630秒）。B站BV号BV1NryjBvEGR第1P《Dani DaOrtiz at Fool US 2022》，UP主[MiracleAces]，时长630秒对齐（相差0秒），CID 34102250325。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T00:47:39.001979+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -20667,9 +21513,40 @@
     },
     "HI09kat_GeI": {
       "vid": "HI09kat_GeI",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-04T21:57:40.710499+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1wA41177Dj",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Sean Carroll]《The Biggest Ideas in the Universe: Introduction》（393秒）。B站BV号BV1wA41177Dj第1P《宇宙中最大最亮的思想 by Dr. Sean Carroll》，UP主[物理学收藏家]，时长393秒对齐（相差0秒），CID 256491946。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "宇宙中最大最亮的思想 by Dr. Sean Carroll",
+          "up": "物理学收藏家",
+          "duration": 393,
+          "original_duration": 393,
+          "cid": 256491946,
+          "aid": 330280593,
+          "segment_title": "Introduction",
+          "page_count": 48,
+          "kind": "original",
+          "views": 5142,
+          "pic": "https://i0.hdslb.com/bfs/archive/b99631cb1ff16d41c0bc81406fa9953f6f83408c.jpg",
+          "checked_at": "2026-11-15T01:13:47.917150+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T01:13:53.946851+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Sean Carroll]《The Biggest Ideas in the Universe: Introduction》（393秒）。B站BV号BV1wA41177Dj第1P《宇宙中最大最亮的思想 by Dr. Sean Carroll》，UP主[物理学收藏家]，时长393秒对齐（相差0秒），CID 256491946。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T00:51:56.356264+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -21109,9 +21986,39 @@
     },
     "RuOvn4UqznU": {
       "vid": "RuOvn4UqznU",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T01:18:56.647614+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1L44y1m7EK",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[The Galen Foundation]《Fasting For Survival Lecture by Dr Pradip Jamnadas》（4859秒）。B站BV号BV1L44y1m7EK第1P《Pradip Jamnadas 博士为生存而禁食讲座  Fasting For Survival Lecture by Dr Pradip Jamnadas》，UP主[纯肉饮食和轻断食]，时长4859秒对齐（相差0秒），CID 374814695。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "Pradip Jamnadas 博士为生存而禁食讲座  Fasting For Survival Lecture by Dr Pradip Jamnadas",
+          "up": "纯肉饮食和轻断食",
+          "duration": 4859,
+          "original_duration": 4859,
+          "cid": 374814695,
+          "aid": 974356413,
+          "segment_title": "Fasting For Survival Lecture by Dr Pradip Jamnadas",
+          "page_count": 1,
+          "kind": "original",
+          "views": 4598,
+          "pic": "https://i1.hdslb.com/bfs/archive/992a3aa1f74314c9882644997004a29f6ccd6864.jpg",
+          "checked_at": "2026-11-15T00:42:02.665658+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:43:12.065932+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[The Galen Foundation]《Fasting For Survival Lecture by Dr Pradip Jamnadas》（4859秒）。B站BV号BV1L44y1m7EK第1P《Pradip Jamnadas 博士为生存而禁食讲座  Fasting For Survival Lecture by Dr Pradip Jamnadas》，UP主[纯肉饮食和轻断食]，时长4859秒对齐（相差0秒），CID 374814695。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T01:18:26.021552+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -21430,9 +22337,39 @@
     },
     "f7CW7S0zxv4": {
       "vid": "f7CW7S0zxv4",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T01:41:39.609331+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1ZgbwzsESt",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[OxfordUnion]《Dr Shashi Tharoor MP - Britain Does Owe Reparations》（929秒）。B站BV号BV1ZgbwzsESt第1P《SHASHI THAROOR Britain owes reparations to India》，UP主[MrrrrrFu]，时长926秒对齐（相差3秒），CID 31655399276。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "SHASHI THAROOR Britain owes reparations to India",
+          "up": "MrrrrrFu",
+          "duration": 926,
+          "original_duration": 929,
+          "cid": 31655399276,
+          "aid": 115018368553120,
+          "segment_title": "SHASHI THAROOR Britain owes reparations to India",
+          "page_count": 1,
+          "kind": "original",
+          "views": 16,
+          "pic": "https://i1.hdslb.com/bfs/archive/1dcc42f2d70e263805742c81714ab797b48dcf8f.jpg",
+          "checked_at": "2026-11-15T00:50:47.073033+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:51:46.417525+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[OxfordUnion]《Dr Shashi Tharoor MP - Britain Does Owe Reparations》（929秒）。B站BV号BV1ZgbwzsESt第1P《SHASHI THAROOR Britain owes reparations to India》，UP主[MrrrrrFu]，时长926秒对齐（相差3秒），CID 31655399276。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T01:40:58.389246+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -22936,9 +23873,39 @@
     },
     "52Mx0_8YEtg": {
       "vid": "52Mx0_8YEtg",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-04T22:22:12.950510+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV12a411w78r",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Kazza0423]《The Great Global Warming Swindle Full Movie》（4557秒）。B站BV号BV12a411w78r第1P《全球变暖的大骗局  The Great Global Warming Swindle》，UP主[不准歧视异性恋]，时长4557秒对齐（相差0秒），CID 246012570。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "全球变暖的大骗局  The Great Global Warming Swindle",
+          "up": "不准歧视异性恋",
+          "duration": 4557,
+          "original_duration": 4557,
+          "cid": 246012570,
+          "aid": 202380437,
+          "segment_title": "030020010051DF9638243C0747A68AABAC4330-7EF0-366A-A6E4-A389AEB84FB8",
+          "page_count": 1,
+          "kind": "original",
+          "views": 23398,
+          "pic": "https://i0.hdslb.com/bfs/archive/80cff0a40408d182fa4f61e082598afa9bb98994.png",
+          "checked_at": "2026-11-15T00:42:55.109113+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:43:12.065932+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Kazza0423]《The Great Global Warming Swindle Full Movie》（4557秒）。B站BV号BV12a411w78r第1P《全球变暖的大骗局  The Great Global Warming Swindle》，UP主[不准歧视异性恋]，时长4557秒对齐（相差0秒），CID 246012570。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T01:55:00.117308+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -23133,9 +24100,39 @@
     },
     "8fi7uSYlOdc": {
       "vid": "8fi7uSYlOdc",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T02:01:27.200885+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1hy4y1p7xJ",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[GOTO Conferences]《Containers From Scratch • Liz Rice • GOTO 2018》（2574秒）。B站BV号BV1hy4y1p7xJ第1P《GOTO 2018 • Containers From Scratch • Liz Rice》，UP主[royalmadrid]，时长2574秒对齐（相差0秒），CID 335004603。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "GOTO 2018 • Containers From Scratch • Liz Rice",
+          "up": "royalmadrid",
+          "duration": 2574,
+          "original_duration": 2574,
+          "cid": 335004603,
+          "aid": 802965678,
+          "segment_title": "GOTO 2018 • Containers From Scratch • Liz Rice",
+          "page_count": 1,
+          "kind": "original",
+          "views": 264,
+          "pic": "https://i1.hdslb.com/bfs/archive/533238644200316eaa1033dcbc999d027eadacf6.jpg",
+          "checked_at": "2026-11-15T00:38:34.667932+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[GOTO Conferences]《Containers From Scratch • Liz Rice • GOTO 2018》（2574秒）。B站BV号BV1hy4y1p7xJ第1P《GOTO 2018 • Containers From Scratch • Liz Rice》，UP主[royalmadrid]，时长2574秒对齐（相差0秒），CID 335004603。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T02:01:15.355141+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -23385,9 +24382,39 @@
     },
     "H9B5mYfBPlY": {
       "vid": "H9B5mYfBPlY",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T02:25:00.811390+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1HN411X7Bd",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Tim Ferriss]《Dr. Gabor Maté — Trauma, Addiction, Ayahuasca, and More》（8625秒）。B站BV号BV1HN411X7Bd第1P《Dr. Gabor Maté Interview | The Tim Ferriss Show》，UP主[棒棒糖狠咸]，时长8624秒对齐（相差1秒），CID 311959587。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "Dr. Gabor Maté Interview | The Tim Ferriss Show",
+          "up": "棒棒糖狠咸",
+          "duration": 8624,
+          "original_duration": 8625,
+          "cid": 311959587,
+          "aid": 502210575,
+          "segment_title": "Dr. Gabor Maté Interview | The Tim Ferriss Show",
+          "page_count": 1,
+          "kind": "original",
+          "views": 797,
+          "pic": "https://i2.hdslb.com/bfs/archive/e780b8cee2388bc459df73320f038bb42fb0481f.jpg",
+          "checked_at": "2026-11-15T00:50:49.470389+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:51:46.417525+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Tim Ferriss]《Dr. Gabor Maté — Trauma, Addiction, Ayahuasca, and More》（8625秒）。B站BV号BV1HN411X7Bd第1P《Dr. Gabor Maté Interview | The Tim Ferriss Show》，UP主[棒棒糖狠咸]，时长8624秒对齐（相差1秒），CID 311959587。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T02:24:48.726053+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -23599,9 +24626,39 @@
     },
     "Nq2HkAYbG5o": {
       "vid": "Nq2HkAYbG5o",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T02:30:25.840430+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1yE411f7wH",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[The Perl and Raku Conference - Greenville, SC 2026]《2016 - On The Shoulders Of Giants - Damian Conway》（4063秒）。B站BV号BV1yE411f7wH第1P《Perl 6 | 2016 - On The Shoulders Of Giants - Damian Conway》，UP主[Rakulang]，时长4063秒对齐（相差0秒），CID 122558792。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "Perl 6 | 2016 - On The Shoulders Of Giants - Damian Conway",
+          "up": "Rakulang",
+          "duration": 4063,
+          "original_duration": 4063,
+          "cid": 122558792,
+          "aid": 70737990,
+          "segment_title": "2016 - On The Shoulders Of Giants - Damian Conway",
+          "page_count": 1,
+          "kind": "original",
+          "views": 72,
+          "pic": "https://i0.hdslb.com/bfs/archive/a079bfc0a7306edf352080be1c3f9f3bc215ae2c.jpg",
+          "checked_at": "2026-11-15T00:42:05.262655+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:43:12.065932+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[The Perl and Raku Conference - Greenville, SC 2026]《2016 - On The Shoulders Of Giants - Damian Conway》（4063秒）。B站BV号BV1yE411f7wH第1P《Perl 6 | 2016 - On The Shoulders Of Giants - Damian Conway》，UP主[Rakulang]，时长4063秒对齐（相差0秒），CID 122558792。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T02:30:21.815980+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -23836,9 +24893,39 @@
     },
     "PqPGOhXoprU": {
       "vid": "PqPGOhXoprU",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T02:30:46.093047+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1qU4y1w7ap",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Science Communication Lab]《Jack Szostak (Harvard/HHMI) Part 1: The Origin of Cellular Life on Earth》（3281秒）。B站BV号BV1qU4y1w7ap第1P《Jack Szostak HarvardHHMI Part 1 The Origin of Cellular Life on Earth》，UP主[lichunxinbio]，时长3281秒对齐（相差0秒），CID 423246773。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "Jack Szostak HarvardHHMI Part 1 The Origin of Cellular Life on Earth",
+          "up": "lichunxinbio",
+          "duration": 3281,
+          "original_duration": 3281,
+          "cid": 423246773,
+          "aid": 676016407,
+          "segment_title": "Jack Szostak HarvardHHMI Part 1 The Origin of Cellular Life on Earth",
+          "page_count": 1,
+          "kind": "original",
+          "views": 179,
+          "pic": "https://i0.hdslb.com/bfs/archive/294cc57a3c0b70865445955eb39b084970aa7952.jpg",
+          "checked_at": "2026-11-15T00:38:34.666807+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Science Communication Lab]《Jack Szostak (Harvard/HHMI) Part 1: The Origin of Cellular Life on Earth》（3281秒）。B站BV号BV1qU4y1w7ap第1P《Jack Szostak HarvardHHMI Part 1 The Origin of Cellular Life on Earth》，UP主[lichunxinbio]，时长3281秒对齐（相差0秒），CID 423246773。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T02:30:34.030990+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -23949,9 +25036,39 @@
     },
     "S0qjK3TWZE8": {
       "vid": "S0qjK3TWZE8",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T02:33:35.129601+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1KD42177wB",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[spinout3]《golden balls. the weirdest split or steal ever!》（385秒）。B站BV号BV1KD42177wB第1P《利益面前，威胁比争取信任更有效。golden balls. the weirdest split or steal ever!》，UP主[XD1996CD]，时长385秒对齐（相差0秒），CID 1473541770。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "利益面前，威胁比争取信任更有效。golden balls. the weirdest split or steal ever!",
+          "up": "XD1996CD",
+          "duration": 385,
+          "original_duration": 385,
+          "cid": 1473541770,
+          "aid": 1501959698,
+          "segment_title": "利益面前，威胁比争取信任更有效。golden balls. the weirdest split or steal ever!",
+          "page_count": 1,
+          "kind": "original",
+          "views": 179,
+          "pic": "https://i0.hdslb.com/bfs/archive/a4e16a9796ca1271b1c19a258de7c89f524f6fcf.png",
+          "checked_at": "2026-11-15T00:42:07.880237+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:43:12.065932+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[spinout3]《golden balls. the weirdest split or steal ever!》（385秒）。B站BV号BV1KD42177wB第1P《利益面前，威胁比争取信任更有效。golden balls. the weirdest split or steal ever!》，UP主[XD1996CD]，时长385秒对齐（相差0秒），CID 1473541770。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T02:32:56.277970+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -24147,9 +25264,40 @@
     },
     "bJczLlwp-d8": {
       "vid": "bJczLlwp-d8",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T02:36:45.749917+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1KeyGB9EYF",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[YaleCourses]《Timothy Snyder: The Making of Modern Ukraine. Class 1: Ukrainian Questions Posed by Russian Invasion》（2765秒）。B站BV号BV1KeyGB9EYF第1P《【耶鲁】现代乌克兰的形成 | Timothy Snyder： The Making of Modern Ukraine》，UP主[AngularMomenta]，时长2765秒对齐（相差0秒），CID 25911629943。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "【耶鲁】现代乌克兰的形成 | Timothy Snyder： The Making of Modern Ukraine",
+          "up": "AngularMomenta",
+          "duration": 2765,
+          "original_duration": 2765,
+          "cid": 25911629943,
+          "aid": 115570456400083,
+          "segment_title": "1：俄罗斯入侵引发的乌克兰问题",
+          "page_count": 23,
+          "kind": "original",
+          "views": 2223,
+          "pic": "https://i0.hdslb.com/bfs/archive/0aaad74bd51ca3dfca2dea60a2249d13b2544ce8.jpg",
+          "checked_at": "2026-11-15T00:38:34.670369+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[YaleCourses]《Timothy Snyder: The Making of Modern Ukraine. Class 1: Ukrainian Questions Posed by Russian Invasion》（2765秒）。B站BV号BV1KeyGB9EYF第1P《【耶鲁】现代乌克兰的形成 | Timothy Snyder： The Making of Modern Ukraine》，UP主[AngularMomenta]，时长2765秒对齐（相差0秒），CID 25911629943。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T02:36:31.445811+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -24404,9 +25552,40 @@
     },
     "jEbRVNxL44c": {
       "vid": "jEbRVNxL44c",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T02:40:08.602642+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1g6QWYsEVW",
+          "page": 41,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Real Engineering]《Zipline - How Rwanda Built A Drone Delivery Service》（706秒）。B站BV号BV1g6QWYsEVW第41P《【Real Engineering】与航空航天有关的一切》，UP主[chaechae_1]，时长706秒对齐（相差0秒），CID 28830532540。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "【Real Engineering】与航空航天有关的一切",
+          "up": "chaechae_1",
+          "duration": 706,
+          "original_duration": 706,
+          "cid": 28830532540,
+          "aid": 114149644308314,
+          "segment_title": "Zipline - How Rwanda Built A Drone Delivery Service",
+          "page_count": 41,
+          "kind": "original",
+          "views": 330,
+          "pic": "https://i2.hdslb.com/bfs/archive/d2af69aac8b0691ca3a912d3c79ddecbc5b83d5e.jpg",
+          "checked_at": "2026-11-15T00:38:34.670722+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Real Engineering]《Zipline - How Rwanda Built A Drone Delivery Service》（706秒）。B站BV号BV1g6QWYsEVW第41P《【Real Engineering】与航空航天有关的一切》，UP主[chaechae_1]，时长706秒对齐（相差0秒），CID 28830532540。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T02:39:27.749997+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -24417,9 +25596,39 @@
     },
     "jcKRGpMiVTw": {
       "vid": "jcKRGpMiVTw",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T02:41:12.806134+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1MAfCB7EWE",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Mathologer]《Ramanujan: Making sense of 1+2+3+... = -1/12 and Co.》（2065秒）。B站BV号BV1MAfCB7EWE第1P《Ramanujan Making sense of 1+2+3+...  -1_12 and Co. - Mathologer》，UP主[九章格教育]，时长2065秒对齐（相差0秒），CID 36248420831。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "Ramanujan Making sense of 1+2+3+...  -1_12 and Co. - Mathologer",
+          "up": "九章格教育",
+          "duration": 2065,
+          "original_duration": 2065,
+          "cid": 36248420831,
+          "aid": 116123836224923,
+          "segment_title": "Ramanujan Making sense of 1+2+3+...  -1_12 and Co. - Mathologer",
+          "page_count": 1,
+          "kind": "original",
+          "views": 43,
+          "pic": "https://i0.hdslb.com/bfs/archive/066823c4118b362c0ba4cb401fdb11647f835975.jpg",
+          "checked_at": "2026-11-15T00:38:34.670869+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Mathologer]《Ramanujan: Making sense of 1+2+3+... = -1/12 and Co.》（2065秒）。B站BV号BV1MAfCB7EWE第1P《Ramanujan Making sense of 1+2+3+...  -1_12 and Co. - Mathologer》，UP主[九章格教育]，时长2065秒对齐（相差0秒），CID 36248420831。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T02:40:37.162650+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -24587,9 +25796,39 @@
     },
     "s_fkpZSnz2I": {
       "vid": "s_fkpZSnz2I",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T02:46:14.797299+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1mi4y1s7wz",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[The Institute for the Study of Ancient Cultures]《Irving Finkel | The Ark Before Noah: A Great Adventure》（3499秒）。B站BV号BV1mi4y1s7wz第1P《先于诺亚的”方舟“，Irving Finkel在东方研究所的讲座》，UP主[底格里斯咸鱼]，时长3500秒对齐（相差1秒），CID 196148035。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "先于诺亚的”方舟“，Irving Finkel在东方研究所的讲座",
+          "up": "底格里斯咸鱼",
+          "duration": 3500,
+          "original_duration": 3499,
+          "cid": 196148035,
+          "aid": 540873145,
+          "segment_title": "Irving Finkel   The Ark Before Noah  A Great Adventure",
+          "page_count": 1,
+          "kind": "original",
+          "views": 421,
+          "pic": "https://i1.hdslb.com/bfs/archive/271238093b071f53becdcb4da2a1002a60f321cb.jpg",
+          "checked_at": "2026-11-15T00:50:52.366805+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:51:46.417525+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[The Institute for the Study of Ancient Cultures]《Irving Finkel | The Ark Before Noah: A Great Adventure》（3499秒）。B站BV号BV1mi4y1s7wz第1P《先于诺亚的”方舟“，Irving Finkel在东方研究所的讲座》，UP主[底格里斯咸鱼]，时长3500秒对齐（相差1秒），CID 196148035。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T02:46:06.001272+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -25655,9 +26894,39 @@
     },
     "JxBg4sMusIg": {
       "vid": "JxBg4sMusIg",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T02:58:27.073271+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1734y187KS",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Cool Bug Facts]《You Suck at Excel - Joel Spolsky (Reupload)》（3241秒）。B站BV号BV1734y187KS第1P《You Suck at Excel with Joel Spolsky》，UP主[qkuic]，时长3241秒对齐（相差0秒），CID 548935789。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "You Suck at Excel with Joel Spolsky",
+          "up": "qkuic",
+          "duration": 3241,
+          "original_duration": 3241,
+          "cid": 548935789,
+          "aid": 809682515,
+          "segment_title": "You Suck at Excel with Joel Spolsky [0nbkaYsR94c]",
+          "page_count": 1,
+          "kind": "original",
+          "views": 397,
+          "pic": "https://i1.hdslb.com/bfs/archive/ed70f57eedd8e283dc0b4b7a97d53715ec6b7cf2.jpg",
+          "checked_at": "2026-11-15T00:38:34.671020+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Cool Bug Facts]《You Suck at Excel - Joel Spolsky (Reupload)》（3241秒）。B站BV号BV1734y187KS第1P《You Suck at Excel with Joel Spolsky》，UP主[qkuic]，时长3241秒对齐（相差0秒），CID 548935789。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T02:58:17.859702+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -25916,9 +27185,40 @@
     },
     "UEAMfLPZZhE": {
       "vid": "UEAMfLPZZhE",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T03:02:58.284728+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1fV41187sH",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Martin Kleppmann]《Distributed Systems 1.1: Introduction》（876秒）。B站BV号BV1fV41187sH第1P《Distributed Systems by Martin Kleppmann（DDIA书的作者）, 分布式系统课，剑桥大学，2020》，UP主[Y野兔Y]，时长876秒对齐（相差0秒），CID 263087157。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "Distributed Systems by Martin Kleppmann（DDIA书的作者）, 分布式系统课，剑桥大学，2020",
+          "up": "Y野兔Y",
+          "duration": 876,
+          "original_duration": 876,
+          "cid": 263087157,
+          "aid": 415590202,
+          "segment_title": "1.1 - Introduction",
+          "page_count": 24,
+          "kind": "original",
+          "views": 3167,
+          "pic": "https://i2.hdslb.com/bfs/archive/a785d4aa87866645b662f6fb26a59ad2bf53fa8a.png",
+          "checked_at": "2026-11-15T00:50:54.705411+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:51:46.417525+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Martin Kleppmann]《Distributed Systems 1.1: Introduction》（876秒）。B站BV号BV1fV41187sH第1P《Distributed Systems by Martin Kleppmann（DDIA书的作者）, 分布式系统课，剑桥大学，2020》，UP主[Y野兔Y]，时长876秒对齐（相差0秒），CID 263087157。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T03:02:15.564063+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -26051,9 +27351,39 @@
     },
     "Yocja_N5s1I": {
       "vid": "Yocja_N5s1I",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T03:07:30.747295+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1fSr7YoEJ7",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[CrashCourse]《The Agricultural Revolution: Crash Course World History #1》（671秒）。B站BV号BV1fSr7YoEJ7第1P《世界历史速成课程#1  农业革命 //The Agricultural Revolution Crash Course World History #1》，UP主[福贝贝嘻]，时长671秒对齐（相差0秒），CID 27684702186。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "世界历史速成课程#1  农业革命 //The Agricultural Revolution Crash Course World History #1",
+          "up": "福贝贝嘻",
+          "duration": 671,
+          "original_duration": 671,
+          "cid": 27684702186,
+          "aid": 113765093737024,
+          "segment_title": "世界历史速成课程#1  农业革命 //The Agricultural Revolution Crash Course World History #1",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1314,
+          "pic": "https://i1.hdslb.com/bfs/archive/58d923d565c43710190794ca971809dddbd9a832.jpg",
+          "checked_at": "2026-11-15T00:50:57.428385+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:51:46.417525+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[CrashCourse]《The Agricultural Revolution: Crash Course World History #1》（671秒）。B站BV号BV1fSr7YoEJ7第1P《世界历史速成课程#1  农业革命 //The Agricultural Revolution Crash Course World History #1》，UP主[福贝贝嘻]，时长671秒对齐（相差0秒），CID 27684702186。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T03:06:26.754761+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -26411,9 +27741,39 @@
     },
     "jo_B4LTHi3I": {
       "vid": "jo_B4LTHi3I",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T03:13:12.189646+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1Px41127aj",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[InfoQ]《Introduction to Node.js with Ryan Dahl》（3994秒）。B站BV号BV1Px41127aj第1P《Ryan Dahl 的 Node.js 教程》，UP主[阿雷夫]，时长3994秒对齐（相差0秒），CID 14078898。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "Ryan Dahl 的 Node.js 教程",
+          "up": "阿雷夫",
+          "duration": 3994,
+          "original_duration": 3994,
+          "cid": 14078898,
+          "aid": 8550629,
+          "segment_title": "videoplayback",
+          "page_count": 1,
+          "kind": "original",
+          "views": 376,
+          "pic": "https://i0.hdslb.com/bfs/archive/3d99e71f2a88367be92c53a1ba0689682e17b7ce.jpg",
+          "checked_at": "2026-11-15T00:43:00.228711+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:43:12.065932+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[InfoQ]《Introduction to Node.js with Ryan Dahl》（3994秒）。B站BV号BV1Px41127aj第1P《Ryan Dahl 的 Node.js 教程》，UP主[阿雷夫]，时长3994秒对齐（相差0秒），CID 14078898。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T03:12:36.053438+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -26484,9 +27844,40 @@
     },
     "lHcTKWiZ8sI": {
       "vid": "lHcTKWiZ8sI",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T03:15:11.007099+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV16s411N7TQ",
+          "page": 264,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Extra Credits]《Propaganda Games: Sesame Credit - The True Danger of Gamification - Extra Credits》（459秒）。B站BV号BV16s411N7TQ第264P《【游戏设计】[英字]额外加分全集(连载）(Extra Credits: All Episodes）》，UP主[Sadi223]，时长459秒对齐（相差0秒），CID 47674221。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "【游戏设计】[英字]额外加分全集(连载）(Extra Credits: All Episodes）",
+          "up": "Sadi223",
+          "duration": 459,
+          "original_duration": 459,
+          "cid": 47674221,
+          "aid": 27294551,
+          "segment_title": "269_Propaganda Games - Sesame Credit - The True Danger of Gamification",
+          "page_count": 403,
+          "kind": "original",
+          "views": 20305,
+          "pic": "https://i2.hdslb.com/bfs/archive/c1fef1f6a994f11b097f90db3c582ff13aa5c353.jpg",
+          "checked_at": "2026-11-15T01:13:47.889281+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T01:13:53.946851+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Extra Credits]《Propaganda Games: Sesame Credit - The True Danger of Gamification - Extra Credits》（459秒）。B站BV号BV16s411N7TQ第264P《【游戏设计】[英字]额外加分全集(连载）(Extra Credits: All Episodes）》，UP主[Sadi223]，时长459秒对齐（相差0秒），CID 47674221。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T03:14:48.393603+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -26679,9 +28070,39 @@
     },
     "oJTwQvgfgMM": {
       "vid": "oJTwQvgfgMM",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T03:19:05.796321+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1di4y1Q7db",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Google TechTalks]《Emacs Org-mode - a system for note-taking and project planning》（2817秒）。B站BV号BV1di4y1Q7db第1P《Emacs的Org-mode - 一套完整的记事和规划系统》，UP主[账号已注销]，时长2817秒对齐（相差0秒），CID 565121103。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "Emacs的Org-mode - 一套完整的记事和规划系统",
+          "up": "账号已注销",
+          "duration": 2817,
+          "original_duration": 2817,
+          "cid": 565121103,
+          "aid": 552826507,
+          "segment_title": "Y2Mate.is - Emacs Org-mode - a system for note-taking and project planning-oJTwQ",
+          "page_count": 1,
+          "kind": "original",
+          "views": 598,
+          "pic": "https://i1.hdslb.com/bfs/archive/9fa52b2a2301fb3f3cdd9e3d0fdff1c0e3434f99.jpg",
+          "checked_at": "2026-11-15T00:38:34.666952+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Google TechTalks]《Emacs Org-mode - a system for note-taking and project planning》（2817秒）。B站BV号BV1di4y1Q7db第1P《Emacs的Org-mode - 一套完整的记事和规划系统》，UP主[账号已注销]，时长2817秒对齐（相差0秒），CID 565121103。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T03:19:03.261173+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -26745,9 +28166,39 @@
     },
     "oP3c1h8v2ZQ": {
       "vid": "oP3c1h8v2ZQ",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T03:20:21.814063+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1Yy4y1x7my",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[David Comberg]《Kurt Vonnegut on the Shapes of Stories》（277秒）。B站BV号BV1Yy4y1x7my第1P《Kurt Vonnegut on the Shapes of Stories》，UP主[GameOnStudio]，时长276秒对齐（相差1秒），CID 323055377。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "Kurt Vonnegut on the Shapes of Stories",
+          "up": "GameOnStudio",
+          "duration": 276,
+          "original_duration": 277,
+          "cid": 323055377,
+          "aid": 802512596,
+          "segment_title": "Kurt Vonnegut on the Shapes of Stories",
+          "page_count": 1,
+          "kind": "original",
+          "views": 135,
+          "pic": "https://i0.hdslb.com/bfs/archive/86d3a2310ffd6a792bd207f0606473faff6bd612.jpg",
+          "checked_at": "2026-11-15T00:51:00.002298+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:51:46.417525+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[David Comberg]《Kurt Vonnegut on the Shapes of Stories》（277秒）。B站BV号BV1Yy4y1x7my第1P《Kurt Vonnegut on the Shapes of Stories》，UP主[GameOnStudio]，时长276秒对齐（相差1秒），CID 323055377。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T03:19:14.040391+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -26902,9 +28353,39 @@
     },
     "u404SLJj7ig": {
       "vid": "u404SLJj7ig",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T03:25:28.520543+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1rx411E7oW",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[znoopy2k]《Netscape Mozilla Documentary 1998 - 2000 ProJect Code Rush  - creative common licence》（3369秒）。B站BV号BV1rx411E7oW第1P《【纪录片】代码奔腾 Code Rush (2000)》，UP主[高俊亮]，时长3369秒对齐（相差0秒），CID 26090372。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "【纪录片】代码奔腾 Code Rush (2000)",
+          "up": "高俊亮",
+          "duration": 3369,
+          "original_duration": 3369,
+          "cid": 26090372,
+          "aid": 15989846,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "original",
+          "views": 31197,
+          "pic": "https://i0.hdslb.com/bfs/archive/57b1902e6530cda44035046b6df6b5a96a17f176.jpg",
+          "checked_at": "2026-11-15T00:51:02.560954+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:51:46.417525+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[znoopy2k]《Netscape Mozilla Documentary 1998 - 2000 ProJect Code Rush  - creative common licence》（3369秒）。B站BV号BV1rx411E7oW第1P《【纪录片】代码奔腾 Code Rush (2000)》，UP主[高俊亮]，时长3369秒对齐（相差0秒），CID 26090372。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T03:25:08.048257+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -27001,9 +28482,39 @@
     },
     "whPWKecazgM": {
       "vid": "whPWKecazgM",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T03:27:18.164591+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1aE411h7t5",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Blender]《World Building in Blender - Ian Hubert》（2145秒）。B站BV号BV1aE411h7t5第1P《World Building in Blender - Ian Hubert》，UP主[福泽宝地]，时长2145秒对齐（相差0秒），CID 126282341。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "World Building in Blender - Ian Hubert",
+          "up": "福泽宝地",
+          "duration": 2145,
+          "original_duration": 2145,
+          "cid": 126282341,
+          "aid": 73825923,
+          "segment_title": "World Building in Blender - Ian Hubert",
+          "page_count": 1,
+          "kind": "original",
+          "views": 2795,
+          "pic": "https://i2.hdslb.com/bfs/archive/33c626cd0e736193b9c917c60ee791f8f13fff5d.jpg",
+          "checked_at": "2026-11-15T00:38:34.671152+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Blender]《World Building in Blender - Ian Hubert》（2145秒）。B站BV号BV1aE411h7t5第1P《World Building in Blender - Ian Hubert》，UP主[福泽宝地]，时长2145秒对齐（相差0秒），CID 126282341。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T03:26:47.176474+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -28216,9 +29727,39 @@
     },
     "LKnqECcg6Gw": {
       "vid": "LKnqECcg6Gw",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T04:10:33.058735+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1mUua6wEfb",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[minutephysics]《Computer Color is Broken》（254秒）。B站BV号BV1mUua6wEfb第1P《电脑颜色已损坏 Computer Color is Broken》，UP主[百科大视频]，时长254秒对齐（相差0秒），CID 40791967320。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "电脑颜色已损坏 Computer Color is Broken",
+          "up": "百科大视频",
+          "duration": 254,
+          "original_duration": 254,
+          "cid": 40791967320,
+          "aid": 117072621209861,
+          "segment_title": "电脑颜色已损坏 Computer Color is Broken",
+          "page_count": 1,
+          "kind": "original",
+          "views": 5,
+          "pic": "https://i1.hdslb.com/bfs/archive/0838ed559f09a09e4ab8585c6ed37d973824cd21.png",
+          "checked_at": "2026-11-15T00:43:02.792308+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:43:12.065932+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[minutephysics]《Computer Color is Broken》（254秒）。B站BV号BV1mUua6wEfb第1P《电脑颜色已损坏 Computer Color is Broken》，UP主[百科大视频]，时长254秒对齐（相差0秒），CID 40791967320。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T04:09:47.080439+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -28229,9 +29770,39 @@
     },
     "MijmeoH9LT4": {
       "vid": "MijmeoH9LT4",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T04:11:14.240094+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV14x411e7HL",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Computerphile]《Characters, Symbols and the Unicode Miracle - Computerphile》（577秒）。B站BV号BV14x411e7HL第1P《Characters, Symbols and the Unicode Miracle - Computerphile》，UP主[广泛学而时习之]，时长577秒对齐（相差0秒），CID 18204857。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "Characters, Symbols and the Unicode Miracle - Computerphile",
+          "up": "广泛学而时习之",
+          "duration": 577,
+          "original_duration": 577,
+          "cid": 18204857,
+          "aid": 10999274,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "original",
+          "views": 153,
+          "pic": "https://i2.hdslb.com/bfs/archive/bfce901010671485d32b46adb5d5960b2eda3525.jpg",
+          "checked_at": "2026-11-15T00:42:32.775098+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:43:12.065932+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Computerphile]《Characters, Symbols and the Unicode Miracle - Computerphile》（577秒）。B站BV号BV14x411e7HL第1P《Characters, Symbols and the Unicode Miracle - Computerphile》，UP主[广泛学而时习之]，时长577秒对齐（相差0秒），CID 18204857。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T04:10:40.943263+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -28282,9 +29853,39 @@
     },
     "NlIdzF1_b5M": {
       "vid": "NlIdzF1_b5M",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T04:45:45.387017+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1jJ41177T5",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Wendover Productions]《Big Plane vs Little Plane (The Economics of Long-Haul Flights)》（608秒）。B站BV号BV1jJ41177T5第1P《【Wendover Productions】大飞机还是小飞机？长途航班的经济学 Big Plane VS Little Plane (The Economics》，UP主[小猫咪字幕组]，时长608秒对齐（相差0秒），CID 140308777。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "【Wendover Productions】大飞机还是小飞机？长途航班的经济学 Big Plane VS Little Plane (The Economics",
+          "up": "小猫咪字幕组",
+          "duration": 608,
+          "original_duration": 608,
+          "cid": 140308777,
+          "aid": 81997159,
+          "segment_title": "【Wendover Productions】大飞机还是小飞机？长途航班的经济学 Big Plane VS Little Plane (The Economics",
+          "page_count": 1,
+          "kind": "original",
+          "views": 518,
+          "pic": "https://i1.hdslb.com/bfs/archive/b1bcdb2ed4b834bb94256982128eff0eda48f79a.jpg",
+          "checked_at": "2026-11-15T00:42:35.328161+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:43:12.065932+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Wendover Productions]《Big Plane vs Little Plane (The Economics of Long-Haul Flights)》（608秒）。B站BV号BV1jJ41177T5第1P《【Wendover Productions】大飞机还是小飞机？长途航班的经济学 Big Plane VS Little Plane (The Economics》，UP主[小猫咪字幕组]，时长608秒对齐（相差0秒），CID 140308777。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T04:45:11.288833+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -28360,9 +29961,40 @@
     },
     "Pi7l8mMjYVE": {
       "vid": "Pi7l8mMjYVE",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T04:48:53.709993+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1ab4y1b7fs",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Steve Brunton]《Control Bootcamp: Overview》（1172秒）。B站BV号BV1ab4y1b7fs第1P《【搬运】Steve Brunton | Control Bootcamp | 全集字幕版》，UP主[最后一只巨壳龙]，时长1172秒对齐（相差0秒），CID 444619948。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "【搬运】Steve Brunton | Control Bootcamp | 全集字幕版",
+          "up": "最后一只巨壳龙",
+          "duration": 1172,
+          "original_duration": 1172,
+          "cid": 444619948,
+          "aid": 634363141,
+          "segment_title": "P1：简介 Overview",
+          "page_count": 39,
+          "kind": "original",
+          "views": 19997,
+          "pic": "https://i0.hdslb.com/bfs/archive/e40ee19f6f63e308f1acb40f1d76b0f099436960.png",
+          "checked_at": "2026-11-15T00:51:10.504589+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:51:46.417525+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Steve Brunton]《Control Bootcamp: Overview》（1172秒）。B站BV号BV1ab4y1b7fs第1P《【搬运】Steve Brunton | Control Bootcamp | 全集字幕版》，UP主[最后一只巨壳龙]，时长1172秒对齐（相差0秒），CID 444619948。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T04:48:09.180007+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -28520,9 +30152,40 @@
     },
     "UjZYMI1zB9s": {
       "vid": "UjZYMI1zB9s",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T05:11:58.378047+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1tE41187PY",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Valve]《Free to Play》（4544秒）。B站BV号BV1tE41187PY第1P《Free to play  心竞技》，UP主[壕情万丈]，时长4544秒对齐（相差0秒），CID 126762046。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "Free to play  心竞技",
+          "up": "壕情万丈",
+          "duration": 4544,
+          "original_duration": 4544,
+          "cid": 126762046,
+          "aid": 74101415,
+          "segment_title": "free_to_play",
+          "page_count": 10,
+          "kind": "original",
+          "views": 662,
+          "pic": "https://i0.hdslb.com/bfs/archive/f6af781e7857cd2aacf94e09e3d48f5973d39936.jpg",
+          "checked_at": "2026-11-15T00:51:13.098164+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:51:46.417525+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Valve]《Free to Play》（4544秒）。B站BV号BV1tE41187PY第1P《Free to play  心竞技》，UP主[壕情万丈]，时长4544秒对齐（相差0秒），CID 126762046。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T05:11:50.662266+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -28533,9 +30196,39 @@
     },
     "KBcxuM-qXec": {
       "vid": "KBcxuM-qXec",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T11:37:31.549375+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1ALxWzDEwh",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[minutephysics]《The Moon's Orbit is WEIRD》（330秒）。B站BV号BV1ALxWzDEwh第1P《关于月亮的常见误区【minutephysics】》，UP主[Tacoma213]，时长308秒对齐（相差22秒），CID 32830128235。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "description links multiple originals"
+          ],
+          "reason": "description links multiple originals",
+          "title": "关于月亮的常见误区【minutephysics】",
+          "up": "Tacoma213",
+          "duration": 308,
+          "original_duration": 330,
+          "cid": 32830128235,
+          "aid": 115314217980141,
+          "segment_title": "关于月亮的常见误区【minutephysics】",
+          "page_count": 1,
+          "kind": "original",
+          "views": 116,
+          "pic": "https://i0.hdslb.com/bfs/archive/936cb71a56aa7be1c84158131ae1b6763915cf67.jpg",
+          "checked_at": "2026-11-15T01:13:47.923265+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T01:13:53.946851+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[minutephysics]《The Moon's Orbit is WEIRD》（330秒）。B站BV号BV1ALxWzDEwh第1P《关于月亮的常见误区【minutephysics】》，UP主[Tacoma213]，时长308秒对齐（相差22秒），CID 32830128235。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T11:37:09.668708+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -29109,9 +30802,39 @@
     },
     "kU3BceoMuaA": {
       "vid": "kU3BceoMuaA",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T05:48:36.047637+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1KW411N7q2",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Techmoan]《MiniDisc - An Appreciation》（2680秒）。B站BV号BV1KW411N7q2第1P《MiniDisc - An Appreciation》，UP主[戴耳机的苦瓜君]，时长2680秒对齐（相差0秒），CID 40607592。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "MiniDisc - An Appreciation",
+          "up": "戴耳机的苦瓜君",
+          "duration": 2680,
+          "original_duration": 2680,
+          "cid": 40607592,
+          "aid": 24220606,
+          "segment_title": "MiniDisc - An Appreciation",
+          "page_count": 1,
+          "kind": "original",
+          "views": 158,
+          "pic": "https://i0.hdslb.com/bfs/archive/585e1569b6953943e6b8c3ba0e619f2a934c0537.jpg",
+          "checked_at": "2026-11-15T01:13:47.908311+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T01:13:53.946851+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Techmoan]《MiniDisc - An Appreciation》（2680秒）。B站BV号BV1KW411N7q2第1P《MiniDisc - An Appreciation》，UP主[戴耳机的苦瓜君]，时长2680秒对齐（相差0秒），CID 40607592。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T05:48:27.668540+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -29321,9 +31044,39 @@
     },
     "ovJcsL7vyrk": {
       "vid": "ovJcsL7vyrk",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T05:52:17.035715+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV187411x7aQ",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Veritasium]《This equation will change how you see the world (the logistic map)》（1119秒）。B站BV号BV187411x7aQ第1P《【Veritasium】让你惊叹数学之美的等式——逻辑斯谛映射（Logistic map）》，UP主[halfkiller]，时长1119秒对齐（相差0秒），CID 147274213。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "【Veritasium】让你惊叹数学之美的等式——逻辑斯谛映射（Logistic map）",
+          "up": "halfkiller",
+          "duration": 1119,
+          "original_duration": 1119,
+          "cid": 147274213,
+          "aid": 86164895,
+          "segment_title": "This equation will change how you see the world",
+          "page_count": 1,
+          "kind": "original",
+          "views": 13880,
+          "pic": "https://i2.hdslb.com/bfs/archive/ff7f8d8495bbc73c8bd3b88360e9883ae02ba947.jpg",
+          "checked_at": "2026-11-15T00:38:34.667094+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Veritasium]《This equation will change how you see the world (the logistic map)》（1119秒）。B站BV号BV187411x7aQ第1P《【Veritasium】让你惊叹数学之美的等式——逻辑斯谛映射（Logistic map）》，UP主[halfkiller]，时长1119秒对齐（相差0秒），CID 147274213。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T05:51:44.791404+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -30018,9 +31771,39 @@
     },
     "yQ16_YxLbB8": {
       "vid": "yQ16_YxLbB8",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T05:59:43.750798+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1zbxjzZE3M",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[TheAppleFanBoy - Apple & Computer Archives]《Complete Apple WWDC | Steve Jobs talk and answer developers questions | 1997》（4277秒）。B站BV号BV1zbxjzZE3M第1P《史蒂夫·乔布斯 1997 年 WWDC 问答：聚焦、Rhapsody 与苹果的重生之路》，UP主[范德彪7161]，时长4277秒对齐（相差0秒），CID 32877773188。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "史蒂夫·乔布斯 1997 年 WWDC 问答：聚焦、Rhapsody 与苹果的重生之路",
+          "up": "范德彪7161",
+          "duration": 4277,
+          "original_duration": 4277,
+          "cid": 32877773188,
+          "aid": 115326918401861,
+          "segment_title": "史蒂夫·乔布斯 1997 年 WWDC 问答：聚焦、Rhapsody 与苹果的重生之路",
+          "page_count": 1,
+          "kind": "original",
+          "views": 595,
+          "pic": "https://i0.hdslb.com/bfs/archive/e0d23e8d8fe64c81e5d1cdab8a58b12a8c86f21b.jpg",
+          "checked_at": "2026-11-15T00:51:26.791291+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:51:46.417525+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[TheAppleFanBoy - Apple & Computer Archives]《Complete Apple WWDC | Steve Jobs talk and answer developers questions | 1997》（4277秒）。B站BV号BV1zbxjzZE3M第1P《史蒂夫·乔布斯 1997 年 WWDC 问答：聚焦、Rhapsody 与苹果的重生之路》，UP主[范德彪7161]，时长4277秒对齐（相差0秒），CID 32877773188。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T05:59:18.816782+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -30031,9 +31814,39 @@
     },
     "ymaWq5yZIYM": {
       "vid": "ymaWq5yZIYM",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T05:59:59.988681+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1eq4y197w2",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Anti-Defamation League]《ADL's Never Is Now 2019 | ADL International Leadership Award Presented to Sacha Baron Cohen》（1484秒）。B站BV号BV1eq4y197w2第1P《sacha baron cohen - never is now》，UP主[debateisasport]，时长1484秒对齐（相差0秒），CID 427999286。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "sacha baron cohen - never is now",
+          "up": "debateisasport",
+          "duration": 1484,
+          "original_duration": 1484,
+          "cid": 427999286,
+          "aid": 591196382,
+          "segment_title": "sacha baron cohen - never is now",
+          "page_count": 1,
+          "kind": "original",
+          "views": 144,
+          "pic": "https://i0.hdslb.com/bfs/archive/c4bb7ad659e5f9b6ac82a9416a35d803d8108af7.jpg",
+          "checked_at": "2026-11-15T00:38:34.671307+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Anti-Defamation League]《ADL's Never Is Now 2019 | ADL International Leadership Award Presented to Sacha Baron Cohen》（1484秒）。B站BV号BV1eq4y197w2第1P《sacha baron cohen - never is now》，UP主[debateisasport]，时长1484秒对齐（相差0秒），CID 427999286。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T05:59:52.064734+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -30044,9 +31857,39 @@
     },
     "-FENubmZGj8": {
       "vid": "-FENubmZGj8",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T06:00:28.418552+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1q94y1U7oA",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[The Cato Institute]《\"You Have the Right to Remain Innocent\" (James Duane)》（2088秒）。B站BV号BV1q94y1U7oA第1P《'You Have the Right to Remain Innocent' (James Duane)》，UP主[末人的呐喊]，时长2088秒对齐（相差0秒），CID 727376862。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "'You Have the Right to Remain Innocent' (James Duane)",
+          "up": "末人的呐喊",
+          "duration": 2088,
+          "original_duration": 2088,
+          "cid": 727376862,
+          "aid": 341872986,
+          "segment_title": "'You Have the Right to Remain Innocent' (James Duane)",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1177,
+          "pic": "https://i1.hdslb.com/bfs/archive/f446dcb054f9b24b0fd7b4687642ed9a0c27376b.jpg",
+          "checked_at": "2026-11-15T00:38:34.667234+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[The Cato Institute]《\"You Have the Right to Remain Innocent\" (James Duane)》（2088秒）。B站BV号BV1q94y1U7oA第1P《'You Have the Right to Remain Innocent' (James Duane)》，UP主[末人的呐喊]，时长2088秒对齐（相差0秒），CID 727376862。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T06:00:08.222218+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -30104,9 +31947,40 @@
     },
     "04ERSb06dOg": {
       "vid": "04ERSb06dOg",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T06:01:47.995125+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1nt41167AB",
+          "page": 156,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[PBS Space Time]《Noether's Theorem and The Symmetries of Reality》（782秒）。B站BV号BV1nt41167AB第156P《【PBS Space Time】合辑  持续更新【英文字幕】》，UP主[微小的公开课]，时长782秒对齐（相差0秒），CID 69510668。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "【PBS Space Time】合辑  持续更新【英文字幕】",
+          "up": "微小的公开课",
+          "duration": 782,
+          "original_duration": 782,
+          "cid": 69510668,
+          "aid": 39465392,
+          "segment_title": "诺特定理与现实的对称性。Noether's Theorem and The Symmetries of Reality.",
+          "page_count": 199,
+          "kind": "original",
+          "views": 29677,
+          "pic": "https://i2.hdslb.com/bfs/archive/03ac073c1c603e1f864583503bd34f95a395fd15.jpg",
+          "checked_at": "2026-11-15T00:42:35.331571+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:43:12.065932+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[PBS Space Time]《Noether's Theorem and The Symmetries of Reality》（782秒）。B站BV号BV1nt41167AB第156P《【PBS Space Time】合辑  持续更新【英文字幕】》，UP主[微小的公开课]，时长782秒对齐（相差0秒），CID 69510668。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T06:01:01.125350+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -30458,9 +32332,39 @@
     },
     "9zinZmE3Ogk": {
       "vid": "9zinZmE3Ogk",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T06:19:36.943216+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1844y1Z7gi",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[SF Python]《Raymond Hettinger, Keynote on Concurrency, PyBay 2017》（4433秒）。B站BV号BV1844y1Z7gi第1P《Keynote on Concurrency, PyBay 2017-Raymond Hettinger》，UP主[Taup1]，时长4433秒对齐（相差0秒），CID 930121351。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "Keynote on Concurrency, PyBay 2017-Raymond Hettinger",
+          "up": "Taup1",
+          "duration": 4433,
+          "original_duration": 4433,
+          "cid": 930121351,
+          "aid": 988931040,
+          "segment_title": "Keynote on Concurrency, PyBay 2017-Raymond Hettinger",
+          "page_count": 1,
+          "kind": "original",
+          "views": 46,
+          "pic": "https://i1.hdslb.com/bfs/archive/82ae021ad7626ceecdb358d2666a4c01ed42fa39.jpg",
+          "checked_at": "2026-11-15T00:42:10.547797+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:43:12.065932+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[SF Python]《Raymond Hettinger, Keynote on Concurrency, PyBay 2017》（4433秒）。B站BV号BV1844y1Z7gi第1P《Keynote on Concurrency, PyBay 2017-Raymond Hettinger》，UP主[Taup1]，时长4433秒对齐（相差0秒），CID 930121351。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T06:19:20.906629+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -31327,9 +33231,39 @@
     },
     "LRhbcDzbGSU": {
       "vid": "LRhbcDzbGSU",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T06:29:32.560520+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1dE41167kj",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Google TechTalks]《GET LAMP: The Text Adventure Documentary》（7278秒）。B站BV号BV1dE41167kj第1P《GET LAMP: The Text Adventure Documentary》，UP主[从零开始的人工智能]，时长7278秒对齐（相差0秒），CID 124728786。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "GET LAMP: The Text Adventure Documentary",
+          "up": "从零开始的人工智能",
+          "duration": 7278,
+          "original_duration": 7278,
+          "cid": 124728786,
+          "aid": 71984113,
+          "segment_title": "GET LAMP: The Text Adventure Documentary",
+          "page_count": 1,
+          "kind": "original",
+          "views": 56,
+          "pic": "https://i0.hdslb.com/bfs/archive/a226cbc1f6b5f9bb0c07e89716dc7805a9fe912b.jpg",
+          "checked_at": "2026-11-15T00:42:37.962551+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:43:12.065932+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Google TechTalks]《GET LAMP: The Text Adventure Documentary》（7278秒）。B站BV号BV1dE41167kj第1P《GET LAMP: The Text Adventure Documentary》，UP主[从零开始的人工智能]，时长7278秒对齐（相差0秒），CID 124728786。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T06:29:22.219077+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -31353,9 +33287,40 @@
     },
     "MFRWDuduuSw": {
       "vid": "MFRWDuduuSw",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T06:30:37.604240+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1af2xYHERS",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[MIT OpenCourseWare]《Preface | MIT Calculus Revisited: Single Variable Calculus》（1926秒）。B站BV号BV1af2xYHERS第1P《07【搬运】MIT Calculus Revisited: Single Variable Calculus,MIT Open Course Ware》，UP主[数理-爱好者]，时长1927秒对齐（相差1秒），CID 26208306474。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "07【搬运】MIT Calculus Revisited: Single Variable Calculus,MIT Open Course Ware",
+          "up": "数理-爱好者",
+          "duration": 1927,
+          "original_duration": 1926,
+          "cid": 26208306474,
+          "aid": 113275199030685,
+          "segment_title": "01 - Preface MIT Calculus Revisited Single Variable Calculus",
+          "page_count": 38,
+          "kind": "original",
+          "views": 322,
+          "pic": "https://i2.hdslb.com/bfs/archive/6bd7005d5598949c5a691e42190c7a7a7697f397.jpg",
+          "checked_at": "2026-11-15T01:13:47.920973+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T01:13:53.946851+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[MIT OpenCourseWare]《Preface | MIT Calculus Revisited: Single Variable Calculus》（1926秒）。B站BV号BV1af2xYHERS第1P《07【搬运】MIT Calculus Revisited: Single Variable Calculus,MIT Open Course Ware》，UP主[数理-爱好者]，时长1927秒对齐（相差1秒），CID 26208306474。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T06:29:57.446459+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -31501,9 +33466,39 @@
     },
     "PhhC_N6Bm_s": {
       "vid": "PhhC_N6Bm_s",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T06:31:42.231459+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1ot41167D5",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Joe Mita]《This Is Water by David Foster Wallace Full Speech》（1364秒）。B站BV号BV1ot41167D5第1P《This Is Water 大卫福斯特华莱士2005肯扬大学毕业演讲》，UP主[Ashleyism]，时长1364秒对齐（相差0秒），CID 68659093。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "This Is Water 大卫福斯特华莱士2005肯扬大学毕业演讲",
+          "up": "Ashleyism",
+          "duration": 1364,
+          "original_duration": 1364,
+          "cid": 68659093,
+          "aid": 39067511,
+          "segment_title": "videoplayback (3)",
+          "page_count": 1,
+          "kind": "original",
+          "views": 15481,
+          "pic": "https://i1.hdslb.com/bfs/archive/3b86ced1e6a350289f12cc3859fe295cb95f43f9.jpg",
+          "checked_at": "2026-11-15T00:51:29.318596+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:51:46.417525+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Joe Mita]《This Is Water by David Foster Wallace Full Speech》（1364秒）。B站BV号BV1ot41167D5第1P《This Is Water 大卫福斯特华莱士2005肯扬大学毕业演讲》，UP主[Ashleyism]，时长1364秒对齐（相差0秒），CID 68659093。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T06:31:07.925368+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -31732,9 +33727,40 @@
     },
     "Uwl3-jBNEd4": {
       "vid": "Uwl3-jBNEd4",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T06:35:15.063321+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1xJaY6nED5",
+          "page": 99,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Ben Felix]《Renting vs. Buying a Home: The 5% Rule》（636秒）。B站BV号BV1xJaY6nED5第99P《【中英双语】Ben Felix常识投资，指数基金+资产配置+因子投资,一次看懂｜原片合计1634万+ 2017-2024》，UP主[名校课程-顶级中配]，时长636秒对齐（相差0秒），CID 42258009735。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "【中英双语】Ben Felix常识投资，指数基金+资产配置+因子投资,一次看懂｜原片合计1634万+ 2017-2024",
+          "up": "名校课程-顶级中配",
+          "duration": 636,
+          "original_duration": 636,
+          "cid": 42258009735,
+          "aid": 117344747656423,
+          "segment_title": "[英文] 16 Renting vs. Buying a Home: The 5% Rule",
+          "page_count": 166,
+          "kind": "sub_zh",
+          "views": 1485,
+          "pic": "https://i2.hdslb.com/bfs/archive/2397b42aeee29385b46c22667a5276014e1e9734.jpg",
+          "checked_at": "2026-11-15T00:42:40.692212+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:43:12.065932+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Ben Felix]《Renting vs. Buying a Home: The 5% Rule》（636秒）。B站BV号BV1xJaY6nED5第99P《【中英双语】Ben Felix常识投资，指数基金+资产配置+因子投资,一次看懂｜原片合计1634万+ 2017-2024》，UP主[名校课程-顶级中配]，时长636秒对齐（相差0秒），CID 42258009735。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T06:34:23.900834+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -32444,9 +34470,40 @@
     },
     "g3Ud6mHdhlQ": {
       "vid": "g3Ud6mHdhlQ",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T06:45:31.625112+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1jy4y1L7gM",
+          "page": 8,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[SmarterEveryDay]《How Do Nuclear Submarines Make Oxygen?- Smarter Every Day 251》（1774秒）。B站BV号BV1jy4y1L7gM第8P《200+集 Smarter Every Day【英文CC字幕】smartereveryday》，UP主[圣诞节南瓜灯]，时长1774秒对齐（相差0秒），CID 385424919。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "200+集 Smarter Every Day【英文CC字幕】smartereveryday",
+          "up": "圣诞节南瓜灯",
+          "duration": 1774,
+          "original_duration": 1774,
+          "cid": 385424919,
+          "aid": 804666671,
+          "segment_title": "2021-02-21 How Do Nuclear Submarines Make Oxygen- Smarter Every Day 251",
+          "page_count": 253,
+          "kind": "original",
+          "views": 15582,
+          "pic": "https://i1.hdslb.com/bfs/archive/4ae3a8ed5582cb19f30fe3b8a5529fd5f05f55c6.jpg",
+          "checked_at": "2026-11-15T00:38:34.666643+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[SmarterEveryDay]《How Do Nuclear Submarines Make Oxygen?- Smarter Every Day 251》（1774秒）。B站BV号BV1jy4y1L7gM第8P《200+集 Smarter Every Day【英文CC字幕】smartereveryday》，UP主[圣诞节南瓜灯]，时长1774秒对齐（相差0秒），CID 385424919。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T06:45:19.823205+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -32670,9 +34727,39 @@
     },
     "n691pLhQBkw": {
       "vid": "n691pLhQBkw",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T09:00:52.885507+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1Xt411H739",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Gravitahn]《[AUDIO FIXED] The Truth Cannot be Sexist - Steven Pinker on the biology of sex differences》（2346秒）。B站BV号BV1Xt411H739第1P《2019-1(2)The Truth Cannot be Sexist - Steven Pinker on the》，UP主[李七刀]，时长2347秒对齐（相差1秒），CID 71616720。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "2019-1(2)The Truth Cannot be Sexist - Steven Pinker on the",
+          "up": "李七刀",
+          "duration": 2347,
+          "original_duration": 2346,
+          "cid": 71616720,
+          "aid": 40776461,
+          "segment_title": "2019-1(2)The Truth Cannot be Sexist - Steven Pinker on the",
+          "page_count": 1,
+          "kind": "original",
+          "views": 98,
+          "pic": "https://i0.hdslb.com/bfs/archive/21c113100ee3a13d0f2642940e5734a594b74d3a.jpg",
+          "checked_at": "2026-11-15T01:13:47.921149+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T01:13:53.946851+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Gravitahn]《[AUDIO FIXED] The Truth Cannot be Sexist - Steven Pinker on the biology of sex differences》（2346秒）。B站BV号BV1Xt411H739第1P《2019-1(2)The Truth Cannot be Sexist - Steven Pinker on the》，UP主[李七刀]，时长2347秒对齐（相差1秒），CID 71616720。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T09:00:36.539620+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -32906,9 +34993,39 @@
     },
     "sw0VfmXKq54": {
       "vid": "sw0VfmXKq54",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T09:06:38.086162+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1cf4y1z7AB",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Ars Technica]《How Prince of Persia Defeated Apple II's Memory Limitations | War Stories | Ars Technica》（1249秒）。B站BV号BV1cf4y1z7AB第1P《War Stories_ Jordan Mechner on Making Prince of Persia (ArsTechnica)视频》，UP主[56780201266_bili]，时长1249秒对齐（相差0秒），CID 250186077。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "War Stories_ Jordan Mechner on Making Prince of Persia (ArsTechnica)视频",
+          "up": "56780201266_bili",
+          "duration": 1249,
+          "original_duration": 1249,
+          "cid": 250186077,
+          "aid": 287561484,
+          "segment_title": "War Stories_ Jordan Mechner on Making Prince of Persia (ArsTechnica)",
+          "page_count": 1,
+          "kind": "original",
+          "views": 55,
+          "pic": "https://i2.hdslb.com/bfs/archive/b49d314f62e4661dd97f6e44a3fca29323aed3eb.jpg",
+          "checked_at": "2026-11-15T00:42:43.226892+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:43:12.065932+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Ars Technica]《How Prince of Persia Defeated Apple II's Memory Limitations | War Stories | Ars Technica》（1249秒）。B站BV号BV1cf4y1z7AB第1P《War Stories_ Jordan Mechner on Making Prince of Persia (ArsTechnica)视频》，UP主[56780201266_bili]，时长1249秒对齐（相差0秒），CID 250186077。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T09:06:23.924048+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -33138,9 +35255,40 @@
     },
     "y7HrM-fk_Rc": {
       "vid": "y7HrM-fk_Rc",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T09:09:11.864589+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1qG41137iV",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Marc Levoy]《Marc Levoy - Lectures on Digital Photography - Lecture 1 (21mar16).mp4》（4521秒）。B站BV号BV1qG41137iV第1P《CS178  Digital Photography 数字摄影 Marc Levoy  2016 spring》，UP主[IamCG]，时长4521秒对齐（相差0秒），CID 832840365。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "CS178  Digital Photography 数字摄影 Marc Levoy  2016 spring",
+          "up": "IamCG",
+          "duration": 4521,
+          "original_duration": 4521,
+          "cid": 832840365,
+          "aid": 430545496,
+          "segment_title": "01- Lecture 1 (21mar16) Image formation",
+          "page_count": 16,
+          "kind": "original",
+          "views": 483,
+          "pic": "https://i1.hdslb.com/bfs/archive/ea433682b39d6009c5d826ca60fbf2d6b028efdd.png",
+          "checked_at": "2026-11-15T00:38:34.671511+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Marc Levoy]《Marc Levoy - Lectures on Digital Photography - Lecture 1 (21mar16).mp4》（4521秒）。B站BV号BV1qG41137iV第1P《CS178  Digital Photography 数字摄影 Marc Levoy  2016 spring》，UP主[IamCG]，时长4521秒对齐（相差0秒），CID 832840365。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T09:09:04.199881+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -33335,9 +35483,39 @@
     },
     "099cHWSbAL8": {
       "vid": "099cHWSbAL8",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T09:13:48.943188+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1cy4y1y7qP",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[LeadDev]《How to crash an airplane – Nickolas Means | The Lead Developer UK 2016》（2593秒）。B站BV号BV1cy4y1y7qP第1P《如何坠毁一架飞机-How to crash an airplane – Nickolas Means _ The Lead Developer UK 2016》，UP主[好想取个简单的昵称]，时长2593秒对齐（相差0秒），CID 236230810。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "如何坠毁一架飞机-How to crash an airplane – Nickolas Means _ The Lead Developer UK 2016",
+          "up": "好想取个简单的昵称",
+          "duration": 2593,
+          "original_duration": 2593,
+          "cid": 236230810,
+          "aid": 797000643,
+          "segment_title": "How to crash an airplane – Nickolas Means _ The Lead Developer UK 2016-099cHWSbA",
+          "page_count": 1,
+          "kind": "original",
+          "views": 157,
+          "pic": "https://i0.hdslb.com/bfs/archive/e9160a9fd9ae3fa7cd053956efb28101ddb50867.jpg",
+          "checked_at": "2026-11-15T00:38:34.665492+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[LeadDev]《How to crash an airplane – Nickolas Means | The Lead Developer UK 2016》（2593秒）。B站BV号BV1cy4y1y7qP第1P《如何坠毁一架飞机-How to crash an airplane – Nickolas Means _ The Lead Developer UK 2016》，UP主[好想取个简单的昵称]，时长2593秒对齐（相差0秒），CID 236230810。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T09:13:44.658942+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -33675,9 +35853,39 @@
     },
     "2NBG-sKFaB0": {
       "vid": "2NBG-sKFaB0",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T09:15:41.954571+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV19W411i7es",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Daniel Hands]《.kkrieger - The FPS Game in 96KB (Full Gameplay)》（436秒）。B站BV号BV19W411i7es第1P《【独游资讯】绝对震撼!只有96KB的FPS游戏《毁灭杀手(kkrieger)》 -独游魔盒》，UP主[独游魔盒]，时长436秒对齐（相差0秒），CID 29720628。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "【独游资讯】绝对震撼!只有96KB的FPS游戏《毁灭杀手(kkrieger)》 -独游魔盒",
+          "up": "独游魔盒",
+          "duration": 436,
+          "original_duration": 436,
+          "cid": 29720628,
+          "aid": 18204433,
+          "segment_title": "kkrieger   The FPS Game in 96KB (Full Gameplay)",
+          "page_count": 1,
+          "kind": "original",
+          "views": 455,
+          "pic": "https://i0.hdslb.com/bfs/archive/b0d59abb59935838d838cd2cd544d40be59718b3.jpg",
+          "checked_at": "2026-11-15T00:38:34.671653+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Daniel Hands]《.kkrieger - The FPS Game in 96KB (Full Gameplay)》（436秒）。B站BV号BV19W411i7es第1P《【独游资讯】绝对震撼!只有96KB的FPS游戏《毁灭杀手(kkrieger)》 -独游魔盒》，UP主[独游魔盒]，时长436秒对齐（相差0秒），CID 29720628。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T09:14:53.445574+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -33727,9 +35935,40 @@
     },
     "3-son3EJTrU": {
       "vid": "3-son3EJTrU",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T09:18:46.875020+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV19i4y1N7Jd",
+          "page": 18,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Royal Society of Arts]《RSA ANIMATE: Language as a Window into Human Nature》（654秒）。B站BV号BV19i4y1N7Jd第18P《RSA ANIMATE动画科普常识》，UP主[英语分享社区]，时长654秒对齐（相差0秒），CID 310297491。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "RSA ANIMATE动画科普常识",
+          "up": "英语分享社区",
+          "duration": 654,
+          "original_duration": 654,
+          "cid": 310297491,
+          "aid": 544560119,
+          "segment_title": "RSA ANIMATE_ Language as a Window into Human Nature",
+          "page_count": 21,
+          "kind": "original",
+          "views": 620,
+          "pic": "https://i0.hdslb.com/bfs/archive/8d8501112806af6c6f2fb3439cd28c1acf1a42f2.jpg",
+          "checked_at": "2026-11-15T00:38:34.667449+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Royal Society of Arts]《RSA ANIMATE: Language as a Window into Human Nature》（654秒）。B站BV号BV19i4y1N7Jd第18P《RSA ANIMATE动画科普常识》，UP主[英语分享社区]，时长654秒对齐（相差0秒），CID 310297491。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T09:18:14.962518+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -34073,9 +36312,39 @@
     },
     "7QmCUDHpNzE": {
       "vid": "7QmCUDHpNzE",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T09:24:05.157900+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1tx421y7ds",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[theragax]《DropBox Demo》（279秒）。B站BV号BV1tx421y7ds第1P《Dropbox demo Video（中英字幕）》，UP主[pf711_]，时长279秒对齐（相差0秒），CID 1458595938。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "Dropbox demo Video（中英字幕）",
+          "up": "pf711_",
+          "duration": 279,
+          "original_duration": 279,
+          "cid": 1458595938,
+          "aid": 1751442899,
+          "segment_title": "Dropbox demo Video（中英字幕）",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 309,
+          "pic": "https://i1.hdslb.com/bfs/archive/f40b1ae9cefe5ee7aacdb1a0695485b08180fea2.jpg",
+          "checked_at": "2026-11-15T00:51:31.950971+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:51:46.417525+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[theragax]《DropBox Demo》（279秒）。B站BV号BV1tx421y7ds第1P《Dropbox demo Video（中英字幕）》，UP主[pf711_]，时长279秒对齐（相差0秒），CID 1458595938。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T09:23:27.784556+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -34473,9 +36742,39 @@
     },
     "GcJxRqTs5nk": {
       "vid": "GcJxRqTs5nk",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T09:34:38.217436+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1Z7y7Y8Ecd",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[TED]《Moral behavior in animals | Frans de Waal》（1013秒）。B站BV号BV1Z7y7Y8Ecd第1P《\"Moral Behavior in Animals\" TED (CH) | 动物的道德行为》，UP主[Roadside_Picnic]，时长1013秒对齐（相差0秒），CID 26401112126。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "\"Moral Behavior in Animals\" TED (CH) | 动物的道德行为",
+          "up": "Roadside_Picnic",
+          "duration": 1013,
+          "original_duration": 1013,
+          "cid": 26401112126,
+          "aid": 113346367987603,
+          "segment_title": "\"Moral Behavior in Animals\" TED (Chinese subtitles) | 动物的道德行为",
+          "page_count": 1,
+          "kind": "original",
+          "views": 158,
+          "pic": "https://i2.hdslb.com/bfs/archive/01bee790bc729b7d7b2c46de16d641989b520aab.jpg",
+          "checked_at": "2026-11-15T00:43:05.455641+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:43:12.065932+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[TED]《Moral behavior in animals | Frans de Waal》（1013秒）。B站BV号BV1Z7y7Y8Ecd第1P《\"Moral Behavior in Animals\" TED (CH) | 动物的道德行为》，UP主[Roadside_Picnic]，时长1013秒对齐（相差0秒），CID 26401112126。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T09:33:56.825272+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -34658,9 +36957,39 @@
     },
     "Hvx4xXhZMrU": {
       "vid": "Hvx4xXhZMrU",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T09:35:49.590174+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1Hs411k7KA",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[VblankEntertainment]《The Making of: ROM City Rampage (Retro City Rampage)》（645秒）。B站BV号BV1Hs411k7KA第1P《The Making of- ROM City Rampage (Retro City Rampage)》，UP主[哈里森-Harrison]，时长645秒对齐（相差0秒），CID 9598644。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "The Making of- ROM City Rampage (Retro City Rampage)",
+          "up": "哈里森-Harrison",
+          "duration": 645,
+          "original_duration": 645,
+          "cid": 9598644,
+          "aid": 5911776,
+          "segment_title": "",
+          "page_count": 1,
+          "kind": "original",
+          "views": 138,
+          "pic": "https://i0.hdslb.com/bfs/archive/e5c42deb8165f1d911dd229ea08bf85231361e49.jpg",
+          "checked_at": "2026-11-15T00:38:34.671782+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[VblankEntertainment]《The Making of: ROM City Rampage (Retro City Rampage)》（645秒）。B站BV号BV1Hs411k7KA第1P《The Making of- ROM City Rampage (Retro City Rampage)》，UP主[哈里森-Harrison]，时长645秒对齐（相差0秒），CID 9598644。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T09:35:30.383999+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -35135,9 +37464,39 @@
     },
     "Hy4QjmKzF1c": {
       "vid": "Hy4QjmKzF1c",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T09:36:19.248596+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1k7411o716",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[The School of Life]《How to Make an Attractive City》（861秒）。B站BV号BV1k7411o716第1P《［英文无字幕］英国The School of Life丨第二期：如何让城市变美How to make an attractive city.》，UP主[Elios的生活日记]，时长861秒对齐（相差0秒），CID 165165317。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "［英文无字幕］英国The School of Life丨第二期：如何让城市变美How to make an attractive city.",
+          "up": "Elios的生活日记",
+          "duration": 861,
+          "original_duration": 861,
+          "cid": 165165317,
+          "aid": 96745040,
+          "segment_title": "［英文无字幕］英国The School of Life丨第二期：如何让城市变美How to make an attractive city.",
+          "page_count": 1,
+          "kind": "original",
+          "views": 391,
+          "pic": "https://i0.hdslb.com/bfs/archive/39bbe00b19cd0537a49fb963f8018038539f6655.jpg",
+          "checked_at": "2026-11-15T00:42:45.762746+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:43:12.065932+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[The School of Life]《How to Make an Attractive City》（861秒）。B站BV号BV1k7411o716第1P《［英文无字幕］英国The School of Life丨第二期：如何让城市变美How to make an attractive city.》，UP主[Elios的生活日记]，时长861秒对齐（相差0秒），CID 165165317。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T09:35:57.988184+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -35331,9 +37690,40 @@
     },
     "KePNhUJ2reI": {
       "vid": "KePNhUJ2reI",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T09:42:38.818952+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1nt41167AB",
+          "page": 103,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[PBS Space Time]《How Time Becomes Space Inside a Black Hole | Space Time》（929秒）。B站BV号BV1nt41167AB第103P《【PBS Space Time】合辑  持续更新【英文字幕】》，UP主[微小的公开课]，时长929秒对齐（相差0秒），CID 69490447。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "【PBS Space Time】合辑  持续更新【英文字幕】",
+          "up": "微小的公开课",
+          "duration": 929,
+          "original_duration": 929,
+          "cid": 69490447,
+          "aid": 39465392,
+          "segment_title": "时间怎样在黑洞中变成空间？How Time Becomes Space Inside a Black Hole?",
+          "page_count": 199,
+          "kind": "original",
+          "views": 29677,
+          "pic": "https://i2.hdslb.com/bfs/archive/03ac073c1c603e1f864583503bd34f95a395fd15.jpg",
+          "checked_at": "2026-11-15T00:38:34.672779+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:39:01.995664+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[PBS Space Time]《How Time Becomes Space Inside a Black Hole | Space Time》（929秒）。B站BV号BV1nt41167AB第103P《【PBS Space Time】合辑  持续更新【英文字幕】》，UP主[微小的公开课]，时长929秒对齐（相差0秒），CID 69490447。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T09:42:14.558005+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -35409,9 +37799,39 @@
     },
     "MkJkyMuBm3g": {
       "vid": "MkJkyMuBm3g",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T09:45:16.337844+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1yb4y1i7jc",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[The Linux Foundation]《Toybox vs BusyBox - Rob Landley, hobbyist》（3103秒）。B站BV号BV1yb4y1i7jc第1P《Toybox_vs_BusyBox_-_Rob_Landley,_hobbyist-MkJkyMuBm3g》，UP主[lihuanhuan_hv]，时长3104秒对齐（相差1秒），CID 456143639。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "Toybox_vs_BusyBox_-_Rob_Landley,_hobbyist-MkJkyMuBm3g",
+          "up": "lihuanhuan_hv",
+          "duration": 3104,
+          "original_duration": 3103,
+          "cid": 456143639,
+          "aid": 634745246,
+          "segment_title": "Toybox_vs_BusyBox_-_Rob_Landley,_hobbyist-MkJkyMuBm3g.webm.480p.vp9",
+          "page_count": 1,
+          "kind": "original",
+          "views": 97,
+          "pic": "https://i2.hdslb.com/bfs/archive/6206a84aa8810fb3804f5d3da25abdf4a51ade4d.jpg",
+          "checked_at": "2026-11-15T01:13:47.921289+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T01:13:53.946851+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[The Linux Foundation]《Toybox vs BusyBox - Rob Landley, hobbyist》（3103秒）。B站BV号BV1yb4y1i7jc第1P《Toybox_vs_BusyBox_-_Rob_Landley,_hobbyist-MkJkyMuBm3g》，UP主[lihuanhuan_hv]，时长3104秒对齐（相差1秒），CID 456143639。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T09:45:13.038358+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -35960,9 +38380,39 @@
     },
     "TlLIOgWYVpI": {
       "vid": "TlLIOgWYVpI",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T09:52:24.899847+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1pW4y1X7Fx",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Roguelike Celebration]《Herbert Wolverson - Procedural Map Generation Techniques》（1649秒）。B站BV号BV1pW4y1X7Fx第1P《【肉鸽游戏联盟】程序地图生成技术-Herbert Wolverson - Procedural Map Generation Techniques》，UP主[肉鸽游戏联盟]，时长1649秒对齐（相差0秒），CID 1152736425。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "【肉鸽游戏联盟】程序地图生成技术-Herbert Wolverson - Procedural Map Generation Techniques",
+          "up": "肉鸽游戏联盟",
+          "duration": 1649,
+          "original_duration": 1649,
+          "cid": 1152736425,
+          "aid": 954477090,
+          "segment_title": "【肉鸽游戏联盟】程序地图生成技术-Herbert Wolverson - Procedural Map Generation Techniques",
+          "page_count": 1,
+          "kind": "original",
+          "views": 1754,
+          "pic": "https://i1.hdslb.com/bfs/archive/8ee2d91d8d47e2b5ec90ac14fd392629bffc8d1e.jpg",
+          "checked_at": "2026-11-15T00:42:19.650436+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:43:12.065932+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Roguelike Celebration]《Herbert Wolverson - Procedural Map Generation Techniques》（1649秒）。B站BV号BV1pW4y1X7Fx第1P《【肉鸽游戏联盟】程序地图生成技术-Herbert Wolverson - Procedural Map Generation Techniques》，UP主[肉鸽游戏联盟]，时长1649秒对齐（相差0秒），CID 1152736425。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T09:51:59.373678+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -36548,9 +38998,40 @@
     },
     "bY2FlayomlE": {
       "vid": "bY2FlayomlE",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T10:01:42.490626+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV14YyfYhE3C",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[CppCon]《C++ Exceptions for Smaller Firmware - Khalil Estell - CppCon 2024》（5076秒）。B站BV号BV14YyfYhE3C第1P《CppCon 2024 共104P》，UP主[rSkip]，时长5077秒对齐（相差1秒），CID 26428309927。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "CppCon 2024 共104P",
+          "up": "rSkip",
+          "duration": 5077,
+          "original_duration": 5076,
+          "cid": 26428309927,
+          "aid": 113356719523515,
+          "segment_title": "C++ Exceptions for Smaller Firmware - Khalil Estell",
+          "page_count": 104,
+          "kind": "original",
+          "views": 10510,
+          "pic": "https://i1.hdslb.com/bfs/archive/ce4733cb521f5babc98860aedd21bff9fc993856.jpg",
+          "checked_at": "2026-11-15T01:13:47.920688+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T01:13:53.946851+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[CppCon]《C++ Exceptions for Smaller Firmware - Khalil Estell - CppCon 2024》（5076秒）。B站BV号BV14YyfYhE3C第1P《CppCon 2024 共104P》，UP主[rSkip]，时长5077秒对齐（相差1秒），CID 26428309927。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T10:01:17.257310+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -36743,9 +39224,40 @@
     },
     "ez773teNFYA": {
       "vid": "ez773teNFYA",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T10:03:34.802836+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV134411z7sk",
+          "page": 30,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Lex Fridman]《Stephen Wolfram: Cellular Automata, Computation, and Physics | Lex Fridman Podcast #89》（11469秒）。B站BV号BV134411z7sk第30P《Lex Fridman的 AI 专家访谈系列》，UP主[爱可可-爱生活]，时长11469秒对齐（相差0秒），CID 180284805。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "Lex Fridman的 AI 专家访谈系列",
+          "up": "爱可可-爱生活",
+          "duration": 11469,
+          "original_duration": 11469,
+          "cid": 180284805,
+          "aid": 65677422,
+          "segment_title": "Stephen Wolfram访谈：元胞自动机、计算与物理学",
+          "page_count": 55,
+          "kind": "original",
+          "views": 24733,
+          "pic": "https://i2.hdslb.com/bfs/archive/c8d9960b8491166d751f0abaf26ad6d99fb0c715.jpg",
+          "checked_at": "2026-11-15T00:51:34.808682+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:51:46.417525+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Lex Fridman]《Stephen Wolfram: Cellular Automata, Computation, and Physics | Lex Fridman Podcast #89》（11469秒）。B站BV号BV134411z7sk第30P《Lex Fridman的 AI 专家访谈系列》，UP主[爱可可-爱生活]，时长11469秒对齐（相差0秒），CID 180284805。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T10:03:21.306559+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -36933,9 +39445,39 @@
     },
     "kd2KEHvK-q8": {
       "vid": "kd2KEHvK-q8",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T10:11:22.342708+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1BQHszgEuN",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[LEMMiNO]《The Vanishing of Flight 370》（1494秒）。B站BV号BV1BQHszgEuN第1P《The Vanishing of Flight 370（中文字幕）》，UP主[heapify]，时长1494秒对齐（相差0秒），CID 32876399508。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "The Vanishing of Flight 370（中文字幕）",
+          "up": "heapify",
+          "duration": 1494,
+          "original_duration": 1494,
+          "cid": 32876399508,
+          "aid": 115299756018408,
+          "segment_title": "The Vanishing of Flight 370（中文字幕）",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 9,
+          "pic": "https://i2.hdslb.com/bfs/archive/58216ba1ee54774e156dc5ac5e4fbdcfb62e3032.jpg",
+          "checked_at": "2026-11-15T00:43:06.152467+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T00:43:12.065932+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[LEMMiNO]《The Vanishing of Flight 370》（1494秒）。B站BV号BV1BQHszgEuN第1P《The Vanishing of Flight 370（中文字幕）》，UP主[heapify]，时长1494秒对齐（相差0秒），CID 32876399508。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T10:11:00.347256+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -37260,9 +39802,39 @@
     },
     "qOP2V_np2c0": {
       "vid": "qOP2V_np2c0",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T10:17:08.816099+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1Fo4y1p7E8",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Royal Society of Arts]《RSA ANIMATE: Crises of Capitalism》（671秒）。B站BV号BV1Fo4y1p7E8第1P《RSA ANIMATE - Crises of Capitalism》，UP主[滴滴11]，时长671秒对齐（相差0秒），CID 1084592139。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "RSA ANIMATE - Crises of Capitalism",
+          "up": "滴滴11",
+          "duration": 671,
+          "original_duration": 671,
+          "cid": 1084592139,
+          "aid": 397072810,
+          "segment_title": "RSA ANIMATE - Crises of Capitalism",
+          "page_count": 1,
+          "kind": "original",
+          "views": 56,
+          "pic": "https://i1.hdslb.com/bfs/archive/c477dccde740eb55d699873b9e1018a825d8b3e4.jpg",
+          "checked_at": "2026-11-15T01:13:47.890658+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T01:13:53.946851+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Royal Society of Arts]《RSA ANIMATE: Crises of Capitalism》（671秒）。B站BV号BV1Fo4y1p7E8第1P《RSA ANIMATE - Crises of Capitalism》，UP主[滴滴11]，时长671秒对齐（相差0秒），CID 1084592139。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T10:16:31.638352+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -38503,9 +41075,39 @@
     },
     "Boi0XEm9-4E": {
       "vid": "Boi0XEm9-4E",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T20:05:26.565847+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1h64y1Z7au",
+          "page": 2,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Streetfilms®]《Utrecht: Planning for People & Bikes, Not for Cars》（791秒）。B站BV号BV1h64y1Z7au第2P《【合集】自行车路权优先于汽车的国家是如何建成的？—「自行车天堂・荷兰」（中文字幕）》，UP主[人间美学鉴赏家]，时长792秒对齐（相差1秒），CID 276560727。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "collection segment identity requires review"
+          ],
+          "reason": "collection segment identity requires review",
+          "title": "【合集】自行车路权优先于汽车的国家是如何建成的？—「自行车天堂・荷兰」（中文字幕）",
+          "up": "人间美学鉴赏家",
+          "duration": 792,
+          "original_duration": 791,
+          "cid": 276560727,
+          "aid": 755942924,
+          "segment_title": "乌得勒支市是如何规划自行车王国的",
+          "page_count": 7,
+          "kind": "sub_zh",
+          "views": 4983,
+          "pic": "https://i0.hdslb.com/bfs/archive/07899fe7b2beb210ba3c15d6a9e6da5d3506f2f2.jpg",
+          "checked_at": "2026-11-15T01:13:47.922883+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T01:13:53.946851+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Streetfilms®]《Utrecht: Planning for People & Bikes, Not for Cars》（791秒）。B站BV号BV1h64y1Z7au第2P《【合集】自行车路权优先于汽车的国家是如何建成的？—「自行车天堂・荷兰」（中文字幕）》，UP主[人间美学鉴赏家]，时长792秒对齐（相差1秒），CID 276560727。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T20:04:58.620088+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -41422,9 +44024,40 @@
     },
     "YuIIjLr6vUA": {
       "vid": "YuIIjLr6vUA",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T11:40:24.762369+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1roLY6TEYk",
+          "page": 39,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Mathologer]《Numberphile v. Math: the truth about 1+2+3+...=-1/12》（2504秒）。B站BV号BV1roLY6TEYk第39P《Numberphile YouTube 最受欢迎的非正式数学频道》，UP主[杰克船长爸爸爱学习]，时长2504秒对齐（相差0秒），CID 38516425733。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "Numberphile YouTube 最受欢迎的非正式数学频道",
+          "up": "杰克船长爸爸爱学习",
+          "duration": 2504,
+          "original_duration": 2504,
+          "cid": 38516425733,
+          "aid": 116615827954442,
+          "segment_title": "关于 1 + 2 + 3 + ... =-1 12 的真相 —— Mathologer",
+          "page_count": 100,
+          "kind": "original",
+          "views": 2900,
+          "pic": "https://i0.hdslb.com/bfs/archive/1299ebb2221c83a94f35fd6168a25ec4c325152b.jpg",
+          "checked_at": "2026-11-15T01:13:47.908755+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T01:13:53.946851+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Mathologer]《Numberphile v. Math: the truth about 1+2+3+...=-1/12》（2504秒）。B站BV号BV1roLY6TEYk第39P《Numberphile YouTube 最受欢迎的非正式数学频道》，UP主[杰克船长爸爸爱学习]，时长2504秒对齐（相差0秒），CID 38516425733。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T11:40:24.361697+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -65655,9 +68288,39 @@
     },
     "5sVfTPaxRwk": {
       "vid": "5sVfTPaxRwk",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T16:54:43.179767+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1tKPieJEhi",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Kurzgesagt – In a Nutshell]《If You Eat Meat You Should Know This》（930秒）。B站BV号BV1tKPieJEhi第1P《2025.02.25 【Kurzgesagt – In a Nutshell】这不是抗肉视频》，UP主[我叫阿搬]，时长930秒对齐（相差0秒），CID 28577041040。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "2025.02.25 【Kurzgesagt – In a Nutshell】这不是抗肉视频",
+          "up": "我叫阿搬",
+          "duration": 930,
+          "original_duration": 930,
+          "cid": 28577041040,
+          "aid": 114065422684072,
+          "segment_title": "Kurzgesagt – In a Nutshell@20250225",
+          "page_count": 1,
+          "kind": "original",
+          "views": 445,
+          "pic": "https://i1.hdslb.com/bfs/archive/624bf2285195fd6a871239aa8ad39d3d998ce4b6.jpg",
+          "checked_at": "2026-11-15T01:13:47.922389+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T01:13:53.946851+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Kurzgesagt – In a Nutshell]《If You Eat Meat You Should Know This》（930秒）。B站BV号BV1tKPieJEhi第1P《2025.02.25 【Kurzgesagt – In a Nutshell】这不是抗肉视频》，UP主[我叫阿搬]，时长930秒对齐（相差0秒），CID 28577041040。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T16:54:40.923220+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -77176,9 +79839,40 @@
     },
     "MGMoRu5yrVc": {
       "vid": "MGMoRu5yrVc",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T17:54:27.138532+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV12x411P7fU",
+          "page": 62,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[CppCon]《CppCon 2014: Zaika Antoun \"Microsoft w/ C++ to Deliver Office Across Different Platforms, Part II\"》（3412秒）。B站BV号BV12x411P7fU第62P《CppCon 2014 共100P》，UP主[rSkip]，时长3413秒对齐（相差1秒），CID 120759020。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "CppCon 2014 共100P",
+          "up": "rSkip",
+          "duration": 3413,
+          "original_duration": 3412,
+          "cid": 120759020,
+          "aid": 1706054,
+          "segment_title": "62. Zaika Antoun - Microsoft w/ C++ to Deliver Office Across Different Platforms",
+          "page_count": 100,
+          "kind": "original",
+          "views": 4620,
+          "pic": "https://i1.hdslb.com/bfs/archive/c18ff34d4ebd9dbc0f3e09282ecc4fb2a980cb2b.jpg",
+          "checked_at": "2026-11-15T01:13:47.918871+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T01:13:53.946851+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[CppCon]《CppCon 2014: Zaika Antoun \"Microsoft w/ C++ to Deliver Office Across Different Platforms, Part II\"》（3412秒）。B站BV号BV12x411P7fU第62P《CppCon 2014 共100P》，UP主[rSkip]，时长3413秒对齐（相差1秒），CID 120759020。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T17:54:16.576646+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -85126,9 +87820,40 @@
     },
     "uCsD3ZGzMgE": {
       "vid": "uCsD3ZGzMgE",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T18:48:20.495878+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1roLY6TEYk",
+          "page": 42,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Numberphile]《The Josephus Problem - Numberphile》（838秒）。B站BV号BV1roLY6TEYk第42P《Numberphile YouTube 最受欢迎的非正式数学频道》，UP主[杰克船长爸爸爱学习]，时长838秒对齐（相差0秒），CID 38516426019。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "Numberphile YouTube 最受欢迎的非正式数学频道",
+          "up": "杰克船长爸爸爱学习",
+          "duration": 838,
+          "original_duration": 838,
+          "cid": 38516426019,
+          "aid": 116615827954442,
+          "segment_title": "互砍惨案！约瑟夫斯问题",
+          "page_count": 100,
+          "kind": "original",
+          "views": 2900,
+          "pic": "https://i0.hdslb.com/bfs/archive/1299ebb2221c83a94f35fd6168a25ec4c325152b.jpg",
+          "checked_at": "2026-11-15T01:13:47.917568+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T01:13:53.946851+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Numberphile]《The Josephus Problem - Numberphile》（838秒）。B站BV号BV1roLY6TEYk第42P《Numberphile YouTube 最受欢迎的非正式数学频道》，UP主[杰克船长爸爸爱学习]，时长838秒对齐（相差0秒），CID 38516426019。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T18:48:07.308793+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -90047,9 +92772,39 @@
     },
     "10qowKUW82U": {
       "vid": "10qowKUW82U",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T19:34:37.673785+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV17CXKYpE7r",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Michigan TypeScript]《TypeScript is being ported to Go | interview with Anders Hejlsberg》（3691秒）。B站BV号BV17CXKYpE7r第1P《访谈Anders Hejlsberg，很多个问题探索神在思考什么》，UP主[游乎包包]，时长3691秒对齐（相差0秒），CID 28917498756。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "访谈Anders Hejlsberg，很多个问题探索神在思考什么",
+          "up": "游乎包包",
+          "duration": 3691,
+          "original_duration": 3691,
+          "cid": 28917498756,
+          "aid": 114178333345069,
+          "segment_title": "访谈Anders Hejlsberg，很多个问题探索神在思考什么",
+          "page_count": 1,
+          "kind": "original",
+          "views": 362,
+          "pic": "https://i2.hdslb.com/bfs/archive/7f0bc9a920f51110229ca04e5b7ad65ab3f034f8.jpg",
+          "checked_at": "2026-11-15T01:13:47.923098+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T01:13:53.946851+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Michigan TypeScript]《TypeScript is being ported to Go | interview with Anders Hejlsberg》（3691秒）。B站BV号BV17CXKYpE7r第1P《访谈Anders Hejlsberg，很多个问题探索神在思考什么》，UP主[游乎包包]，时长3691秒对齐（相差0秒），CID 28917498756。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T19:34:27.812240+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -100884,9 +103639,40 @@
     },
     "ceCOhdgRBoc": {
       "vid": "ceCOhdgRBoc",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-11T12:13:45.247223+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1fx411U7WY",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Al Jazeera English]《The Lobby P1: Young Friends of Israel l Al Jazeera Investigations》（1551秒）。B站BV号BV1fx411U7WY第1P《【纪录片/Al Jazeera】游说集团 The Lobby【全四部】【字幕】》，UP主[AJ酱__]，时长1551秒对齐（相差0秒），CID 16738778。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "【纪录片/Al Jazeera】游说集团 The Lobby【全四部】【字幕】",
+          "up": "AJ酱__",
+          "duration": 1551,
+          "original_duration": 1551,
+          "cid": 16738778,
+          "aid": 10130329,
+          "segment_title": "游说集团第一部.mov",
+          "page_count": 4,
+          "kind": "original",
+          "views": 8778,
+          "pic": "https://i0.hdslb.com/bfs/archive/d7c4c45f5f5ef9830599133f9f9ff4b52c3ab9aa.jpg",
+          "checked_at": "2026-11-15T01:13:47.890826+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T01:13:53.946851+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Al Jazeera English]《The Lobby P1: Young Friends of Israel l Al Jazeera Investigations》（1551秒）。B站BV号BV1fx411U7WY第1P《【纪录片/Al Jazeera】游说集团 The Lobby【全四部】【字幕】》，UP主[AJ酱__]，时长1551秒对齐（相差0秒），CID 16738778。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-11T12:13:35.685073+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -102038,9 +104824,39 @@
     },
     "frAEmhqdLFs": {
       "vid": "frAEmhqdLFs",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-11T13:25:11.278965+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1YQ4y1P7ST",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[The Tom Lehrer Wisdom Channel]《Tom Lehrer - We Will All Go Together When We Go》（207秒）。B站BV号BV1YQ4y1P7ST第1P《【搬运】Tom Lehrer - We Will All Go Together When We Go（要完大家一起完）【中文字幕】》，UP主[BuddyArmstrong]，时长251秒对齐（相差44秒），CID 197318195。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required"
+          ],
+          "reason": "no explicit original URL; manual identity review required",
+          "title": "【搬运】Tom Lehrer - We Will All Go Together When We Go（要完大家一起完）【中文字幕】",
+          "up": "BuddyArmstrong",
+          "duration": 251,
+          "original_duration": 207,
+          "cid": 197318195,
+          "aid": 710870108,
+          "segment_title": "videoplayback (43)_封装版",
+          "page_count": 1,
+          "kind": "sub_zh",
+          "views": 57413,
+          "pic": "https://i2.hdslb.com/bfs/archive/ac4920aa9990226d7a18317915baee973756dff2.jpg",
+          "checked_at": "2026-11-15T01:13:47.923410+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T01:13:53.946851+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[The Tom Lehrer Wisdom Channel]《Tom Lehrer - We Will All Go Together When We Go》（207秒）。B站BV号BV1YQ4y1P7ST第1P《【搬运】Tom Lehrer - We Will All Go Together When We Go（要完大家一起完）【中文字幕】》，UP主[BuddyArmstrong]，时长251秒对齐（相差44秒），CID 197318195。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-11T13:24:45.140149+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -109819,9 +112635,40 @@
     },
     "3S5BLs51yDQ": {
       "vid": "3S5BLs51yDQ",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-11T15:26:46.124530+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV1ix411L7U6",
+          "page": 1,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Apple everyday]《İpad pro— What's a computer– Apple》（69秒）。B站BV号BV1ix411L7U6第1P《iPad Pro — What’s a computer — Apple》，UP主[Apple饭SandyLee]，时长69秒对齐（相差0秒），CID 26752760。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "iPad Pro — What’s a computer — Apple",
+          "up": "Apple饭SandyLee",
+          "duration": 69,
+          "original_duration": 69,
+          "cid": 26752760,
+          "aid": 16396922,
+          "segment_title": "P1",
+          "page_count": 4,
+          "kind": "original",
+          "views": 1509,
+          "pic": "https://i0.hdslb.com/bfs/archive/e098139e6073fb0a76c6187782dd6b4f32bd68ac.jpg",
+          "checked_at": "2026-11-15T01:13:47.890993+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T01:13:53.946851+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Apple everyday]《İpad pro— What's a computer– Apple》（69秒）。B站BV号BV1ix411L7U6第1P《iPad Pro — What’s a computer — Apple》，UP主[Apple饭SandyLee]，时长69秒对齐（相差0秒），CID 26752760。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-11T15:26:06.633746+00:00",
       "search_session_version": 2,
       "search_queries": [
@@ -133923,9 +136770,40 @@
     },
     "wv9n9Casp1o": {
       "vid": "wv9n9Casp1o",
-      "status": "review",
+      "status": "confirmed",
       "completed_at": "2026-11-10T14:21:25.257908+00:00",
-      "candidates": [],
+      "candidates": [
+        {
+          "bvid": "BV14P411s7Hq",
+          "page": 12,
+          "status": "confirmed",
+          "evidence": [
+            "Codex内容与元数据复核：原片为[Spaceman Sam Coniglio]《DC-X Flight 8》（151秒）。B站BV号BV14P411s7Hq第12P《【合集】三角快帆DC-X/DC-XA视频资料》，UP主[燃烧不稳定]，时长151秒对齐（相差0秒），CID 1238021640。元数据与时长高度一致。未做逐帧比较。"
+          ],
+          "flags": [
+            "no explicit original URL; manual identity review required",
+            "collection segment identity requires review"
+          ],
+          "reason": "no explicit original URL; manual identity review required; collection segment identity requires review",
+          "title": "【合集】三角快帆DC-X/DC-XA视频资料",
+          "up": "燃烧不稳定",
+          "duration": 151,
+          "original_duration": 151,
+          "cid": 1238021640,
+          "aid": 317380437,
+          "segment_title": "有声音DC-X (Delta Clipper) Flight 8 1995年7月7日_480p 地面拍摄",
+          "page_count": 21,
+          "kind": "original",
+          "views": 4081,
+          "pic": "https://i2.hdslb.com/bfs/archive/a3f73028fe407a743f8ec2e992a0697fd7f82420.png",
+          "checked_at": "2026-11-15T01:13:47.916827+00:00",
+          "availability": "available",
+          "manual_review": {
+            "at": "2026-11-15T01:13:53.946851+00:00",
+            "evidence": "Codex内容与元数据复核：原片为[Spaceman Sam Coniglio]《DC-X Flight 8》（151秒）。B站BV号BV14P411s7Hq第12P《【合集】三角快帆DC-X/DC-XA视频资料》，UP主[燃烧不稳定]，时长151秒对齐（相差0秒），CID 1238021640。元数据与时长高度一致。未做逐帧比较。"
+          }
+        }
+      ],
       "searched_at": "2026-11-10T14:20:25.110873+00:00",
       "search_session_version": 2,
       "search_queries": [

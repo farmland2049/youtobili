@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-14T16:57:41.234Z",
+  "checked_at": "2026-11-15T01:19:58.675Z",
   "passed": true,
   "checks": [
     {
@@ -12,7 +12,7 @@
       "playing": true,
       "media": {
         "readyState": 4,
-        "currentTime": 3.926582,
+        "currentTime": 3.934841,
         "duration": 591.8249999999999,
         "paused": false
       },
@@ -36,7 +36,7 @@
       "playing": true,
       "media": {
         "readyState": 4,
-        "currentTime": 4.270438,
+        "currentTime": 4.264827,
         "duration": 3823,
         "paused": false
       },
@@ -60,7 +60,7 @@
       "playing": true,
       "media": {
         "readyState": 4,
-        "currentTime": 4.297639,
+        "currentTime": 4.30847,
         "duration": 1683,
         "paused": false
       },
@@ -84,7 +84,7 @@
       "playing": true,
       "media": {
         "readyState": 4,
-        "currentTime": 4.302365,
+        "currentTime": 4.295141,
         "duration": 5180,
         "paused": false
       },
@@ -108,7 +108,7 @@
       "playing": true,
       "media": {
         "readyState": 4,
-        "currentTime": 3.941557,
+        "currentTime": 3.962943,
         "duration": 591.8249999999999,
         "paused": false
       },
@@ -125,24 +125,24 @@
     {
       "sample": "collection",
       "kind": "original",
-      "id": "2Op3QLzMgSY",
-      "bvid": "BV1zPTj6FEGQ",
-      "page": 21,
-      "cid": 39588532091,
+      "id": "L0KuAx1COEk",
+      "bvid": "BV18i29BnEXs",
+      "page": 6,
+      "cid": 34555954452,
       "playing": true,
       "media": {
         "readyState": 4,
-        "currentTime": 3.963023,
-        "duration": 4374.573625,
+        "currentTime": 3.947523,
+        "duration": 4300,
         "paused": false
       },
-      "expected_duration": 4376,
+      "expected_duration": 4300,
       "duration_matches_segment": true,
       "requested_cids": [
-        "39588532091"
+        "34555954452"
       ],
       "requested_cid_observed": true,
-      "visible_text": "【MIT】麻省理工学院6.001课程《结构与解释》，1986年 MIT 6.001 Structure and Interpretation, 1986\nDiscoveryJourney\n关注\n9\n0\n分享\n更多\n0:00:04 / 1:12:55\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
+      "visible_text": "【聚变能源 · 全 20 讲】从恒星引擎到人造太阳 · 本科通识精选（MIT / 普林斯顿 / 牛津三校顶尖学者亲讲）\n兴趣使然的现代人\n关注\n13\n1\n分享\n更多\n0:00:04 / 1:11:40\n一起去哔哩哔哩发送弹幕吧！\n自动\n倍速\n进入哔哩哔哩，观看更高清",
       "passed": true,
       "issues": []
     }
